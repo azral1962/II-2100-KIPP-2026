@@ -14,6 +14,8 @@ from dataclasses import dataclass
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 
+from file_lock import exclusive_file_lock
+
 
 REQUIRED_COLUMNS = ("NIM", "Nama", "ID", "repo")
 ASSESSMENT_CODES = tuple(f"A{number:02d}" for number in range(1, 16))
@@ -465,28 +467,29 @@ class ParticipantRegistry:
             return RegistrationResult(validation.status, validation.message)
 
         with self._lock:
-            queue_rows = self._read_queue_rows()
-            ticket_numbers: list[int] = []
-            for row in queue_rows:
-                raw_ticket = row["tiket"].strip()
-                if not raw_ticket.isdigit() or int(raw_ticket) < 1:
-                    raise ParticipantDataError(
-                        "Kolom tiket pada file antrian harus berupa bilangan positif."
-                    )
-                ticket_numbers.append(int(raw_ticket))
+            with exclusive_file_lock(self.queue_csv_path):
+                queue_rows = self._read_queue_rows()
+                ticket_numbers: list[int] = []
+                for row in queue_rows:
+                    raw_ticket = row["tiket"].strip()
+                    if not raw_ticket.isdigit() or int(raw_ticket) < 1:
+                        raise ParticipantDataError(
+                            "Kolom tiket pada file antrian harus berupa bilangan positif."
+                        )
+                    ticket_numbers.append(int(raw_ticket))
 
-            ticket = max(ticket_numbers, default=0) + 1
-            queue_rows.append(
-                {
-                    "tiket": str(ticket),
-                    "nim": participant["NIM"].strip(),
-                    "week": code,
-                    "url": page_url,
-                    "skor": "",
-                    "status": "ANTRI",
-                }
-            )
-            self._write_queue_rows(queue_rows)
+                ticket = max(ticket_numbers, default=0) + 1
+                queue_rows.append(
+                    {
+                        "tiket": str(ticket),
+                        "nim": participant["NIM"].strip(),
+                        "week": code,
+                        "url": page_url,
+                        "skor": "",
+                        "status": "ANTRI",
+                    }
+                )
+                self._write_queue_rows(queue_rows)
 
         return RegistrationResult(
             "queued",

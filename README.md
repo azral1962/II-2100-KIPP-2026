@@ -61,6 +61,48 @@ TELEGRAM_POLL_TIMEOUT=30
 
 Jangan simpan token bot di source code atau commit Git.
 
+## Menjalankan worker assessment LLM
+
+`llm.py` membaca setiap baris `antrian.csv` yang berstatus `ANTRI`, mengambil
+teks halaman portfolio dari kolom `url`, memilih prompt minggu yang sesuai dari
+`llm-assessment-prompts.md`, lalu mengirim assessment ke endpoint chat
+completions milik llama.cpp. Konfigurasi default mengarah ke
+`http://100.110.236.59:8088`.
+
+Tambahkan konfigurasi berikut ke `.env` bila perlu:
+
+```dotenv
+LLM_SERVER_URL=http://100.110.236.59:8088
+
+# Opsional; bila kosong, worker mengambil ID pertama dari GET /v1/models
+LLM_MODEL=
+LLM_REQUEST_TIMEOUT=300
+LLM_QUEUE_POLL_SECONDS=10
+LLM_REPORT_DIR=assessment-results
+```
+
+Jalankan worker terus-menerus pada terminal terpisah:
+
+```powershell
+python llm.py
+```
+
+Untuk memproses snapshot antrian satu kali, misalnya dari scheduler:
+
+```powershell
+python llm.py --once
+```
+
+Hasil ringkas ditulis kembali ke `antrian.csv`: kolom `skor` berisi total
+rubrik `5-20`, sedangkan `status` berisi `TERCAPAI`, `PERLU REVISI`, atau
+`BELUM DAPAT DINILAI`. Laporan Markdown lengkap disimpan di
+`assessment-results/`. Error permanen diberi status `GAGAL`; error jaringan
+atau server dibiarkan `ANTRI` agar dicoba kembali. Worker ini tidak mengubah
+`assessment.csv` karena konversi hasil rekomendasi LLM menjadi nilai resmi
+memerlukan keputusan assessor manusia.
+
+Tekan `Ctrl+C` pada terminal worker untuk menghentikannya dengan aman.
+
 ## Pengujian
 
 ```powershell
