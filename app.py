@@ -47,11 +47,15 @@ def main() -> None:
         raise SystemExit("TELEGRAM_BOT_TOKEN_KIPP belum diisi di file .env.")
 
     participant_file = Path(os.environ.get("PESERTA_CSV", "peserta.csv"))
+    assessment_file = Path(os.environ.get("ASSESSMENT_CSV", "assessment.csv"))
+    queue_file = Path(os.environ.get("ANTRIAN_CSV", "antrian.csv"))
     poll_timeout = int(os.environ.get("TELEGRAM_POLL_TIMEOUT", "30"))
     github_token = os.environ.get("GITHUB_TOKEN", "")
     registry = ParticipantRegistry(
         participant_file,
         repo_validator=GitHubRepositoryValidator(github_token),
+        assessment_csv_path=assessment_file,
+        queue_csv_path=queue_file,
     )
     TelegramBot(token, registry, poll_timeout=poll_timeout).run()
 

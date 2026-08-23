@@ -11,6 +11,12 @@ Bot Telegram untuk interaksi mahasiswa yang terdaftar dengan instruktur.
   atau mengganti kolom `repo` milik Telegram ID yang sudah terdaftar.
 - `/status` menampilkan status registrasi dan memeriksa apakah kolom `repo`
   berisi URL repo GitHub yang valid.
+- `/skor AXX` mengambil nilai `A01` sampai `A15` dari `assessment.csv`. Nilai
+  kosong meminta mahasiswa mengerjakan tugas, nilai di bawah `3.0` berstatus
+  `revisi`, dan nilai minimal `3.0` berstatus `tercapai`.
+- `/submit WXX` memeriksa halaman portfolio `W01` sampai `W15` pada GitHub
+  Pages. Halaman yang valid dimasukkan ke `antrian.csv` dengan tiket berurutan
+  dan status `ANTRI`.
 - Registrasi tidak dapat mengambil alih NIM yang sudah terhubung atau memakai
   satu akun Telegram untuk dua NIM.
 
@@ -48,6 +54,8 @@ juga dapat ditambahkan ke `.env`:
 
 ```dotenv
 PESERTA_CSV=C:\path\ke\peserta.csv
+ASSESSMENT_CSV=C:\path\ke\assessment.csv
+ANTRIAN_CSV=C:\path\ke\antrian.csv
 TELEGRAM_POLL_TIMEOUT=30
 ```
 

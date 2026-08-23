@@ -7,10 +7,13 @@ from pathlib import Path
 from unittest.mock import Mock, patch
 
 from course_service import (
+    ASSESSMENT_CODES,
     REQUIRED_README_FIRST_LINE,
     GitHubRepositoryValidator,
+    PageValidationResult,
     ParticipantRegistry,
     RepoValidationResult,
+    build_portfolio_url,
     normalize_github_repo_url,
 )
 
@@ -24,14 +27,59 @@ class ParticipantRegistryTest(unittest.TestCase):
             writer.writerow(["NIM", "Nama", "ID", "repo"])
             writer.writerow(["18225001", "Kezia Josephine Manik", "", ""])
             writer.writerow(["18225003", "Erin Cherryl Angela", "200", ""])
+        self.assessment_path = Path(self.temp_dir.name) / "assessment.csv"
+        with self.assessment_path.open(
+            "w",
+            encoding="utf-8",
+            newline="",
+        ) as csv_file:
+            writer = csv.writer(csv_file, lineterminator="\n")
+            writer.writerow(["NIM", "name", *ASSESSMENT_CODES, "TOTAL"])
+            scores = {code: "" for code in ASSESSMENT_CODES}
+            scores.update(
+                {
+                    "A01": "2.5",
+                    "A02": "3.0",
+                    "A04": "bukan-angka",
+                    "A05": "2,75",
+                }
+            )
+            writer.writerow(
+                [
+                    "18225001",
+                    "Kezia Josephine Manik",
+                    *(scores[code] for code in ASSESSMENT_CODES),
+                    "",
+                ]
+            )
+            writer.writerow(
+                [
+                    "18225003",
+                    "Erin Cherryl Angela",
+                    *("" for _ in ASSESSMENT_CODES),
+                    "",
+                ]
+            )
         self.repo_validator = Mock()
         self.repo_validator.validate.return_value = RepoValidationResult(
             "valid",
             "Repo dan README.md valid.",
         )
+        self.page_validator = Mock()
+        self.page_validator.validate.return_value = PageValidationResult(
+            "valid",
+            "Halaman portfolio valid.",
+        )
+        self.queue_path = Path(self.temp_dir.name) / "antrian.csv"
+        with self.queue_path.open("w", encoding="utf-8", newline="") as csv_file:
+            writer = csv.writer(csv_file, lineterminator="\n")
+            writer.writerow(["tiket", "nim", "week", "url", "skor", "status"])
         self.registry = ParticipantRegistry(
             self.csv_path,
             repo_validator=self.repo_validator,
+            assessment_csv_path=self.assessment_path,
+            queue_csv_path=self.queue_path,
+            page_validator=self.page_validator,
         )
 
     def tearDown(self) -> None:
@@ -39,6 +87,10 @@ class ParticipantRegistryTest(unittest.TestCase):
 
     def read_rows(self) -> list[dict[str, str]]:
         with self.csv_path.open(encoding="utf-8", newline="") as csv_file:
+            return list(csv.DictReader(csv_file))
+
+    def read_queue_rows(self) -> list[dict[str, str]]:
+        with self.queue_path.open(encoding="utf-8", newline="") as csv_file:
             return list(csv.DictReader(csv_file))
 
     def test_registers_known_nim_with_telegram_id(self) -> None:
@@ -154,6 +206,125 @@ class ParticipantRegistryTest(unittest.TestCase):
         for url in invalid_urls:
             with self.subTest(url=url):
                 self.assertIsNone(normalize_github_repo_url(url))
+
+    def test_score_below_three_requires_revision(self) -> None:
+        self.registry.register("18225001", 100)
+
+        result = self.registry.score(100, "A01")
+
+        self.assertEqual("revision_required", result.status)
+        self.assertIn("Nilai A01: 2.5", result.message)
+        self.assertIn("Status: revisi", result.message)
+
+    def test_score_three_is_achieved(self) -> None:
+        self.registry.register("18225001", 100)
+
+        result = self.registry.score(100, "a02")
+
+        self.assertEqual("achieved", result.status)
+        self.assertIn("Status: tercapai", result.message)
+
+    def test_empty_score_asks_student_to_complete_work(self) -> None:
+        self.registry.register("18225001", 100)
+
+        result = self.registry.score(100, "A03")
+
+        self.assertEqual("score_empty", result.status)
+        self.assertIn("Kerjakan A03 terlebih dahulu", result.message)
+
+    def test_invalid_score_value_is_reported(self) -> None:
+        self.registry.register("18225001", 100)
+
+        result = self.registry.score(100, "A04")
+
+        self.assertEqual("score_invalid", result.status)
+
+    def test_decimal_comma_score_is_supported(self) -> None:
+        self.registry.register("18225001", 100)
+
+        result = self.registry.score(100, "A05")
+
+        self.assertEqual("revision_required", result.status)
+
+    def test_score_rejects_code_outside_a01_to_a15(self) -> None:
+        for code in ("A00", "A16", "A1", "B01"):
+            with self.subTest(code=code):
+                result = self.registry.score(200, code)
+                self.assertEqual("invalid_assessment_code", result.status)
+
+    def test_score_requires_registered_telegram_id(self) -> None:
+        result = self.registry.score(999, "A01")
+
+        self.assertEqual("not_registered", result.status)
+
+    def test_submit_adds_valid_page_to_queue(self) -> None:
+        self.registry.register("18225001", 100)
+        self.registry.set_repo(100, "https://github.com/example/course")
+
+        result = self.registry.submit(100, "W01")
+
+        self.assertEqual("queued", result.status)
+        rows = self.read_queue_rows()
+        self.assertEqual(1, len(rows))
+        self.assertEqual("1", rows[0]["tiket"])
+        self.assertEqual("18225001", rows[0]["nim"])
+        self.assertEqual("W01", rows[0]["week"])
+        self.assertEqual(
+            "https://example.github.io/course/portfolio/week-01.html",
+            rows[0]["url"],
+        )
+        self.assertEqual("", rows[0]["skor"])
+        self.assertEqual("ANTRI", rows[0]["status"])
+        self.assertIn("Tiket: 1", result.message)
+        self.assertIn("Status: ANTRI", result.message)
+
+    def test_submit_uses_next_ticket_number(self) -> None:
+        self.registry.register("18225001", 100)
+        self.registry.set_repo(100, "https://github.com/example/course")
+        self.registry.submit(100, "W01")
+
+        result = self.registry.submit(100, "w02")
+
+        self.assertEqual("queued", result.status)
+        self.assertEqual("2", self.read_queue_rows()[1]["tiket"])
+
+    def test_submit_rejects_invalid_week(self) -> None:
+        for code in ("W00", "W16", "W1", "A01"):
+            with self.subTest(code=code):
+                result = self.registry.submit(200, code)
+                self.assertEqual("invalid_week", result.status)
+
+    def test_submit_requires_registered_telegram_id(self) -> None:
+        result = self.registry.submit(999, "W01")
+
+        self.assertEqual("not_registered", result.status)
+
+    def test_submit_requires_repo(self) -> None:
+        result = self.registry.submit(200, "W01")
+
+        self.assertEqual("repo_missing_or_invalid", result.status)
+
+    def test_submit_does_not_queue_unavailable_page(self) -> None:
+        self.registry.register("18225001", 100)
+        self.registry.set_repo(100, "https://github.com/example/course")
+        self.page_validator.validate.return_value = PageValidationResult(
+            "not_found",
+            "Halaman portfolio belum ditemukan.",
+        )
+
+        result = self.registry.submit(100, "W01")
+
+        self.assertEqual("not_found", result.status)
+        self.assertEqual([], self.read_queue_rows())
+
+    def test_build_portfolio_url_supports_user_site_repo(self) -> None:
+        self.assertEqual(
+            "https://example.github.io/portfolio/week-15.html",
+            build_portfolio_url(
+                "https://github.com/example/example.github.io",
+                "W15",
+            ),
+        )
 
 
 class GitHubRepositoryValidatorTest(unittest.TestCase):

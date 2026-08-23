@@ -84,6 +84,52 @@ class TelegramBotTest(unittest.TestCase):
         self.registry.status.assert_not_called()
         self.bot.send_message.assert_called_once_with(456, "Gunakan format: /status")
 
+    def test_score_uses_sender_id_and_assessment_code(self) -> None:
+        self.registry.score.return_value = RegistrationResult(
+            "achieved",
+            "Nilai A01: 3.0\nStatus: tercapai.",
+        )
+
+        self.bot.handle_update(self.update("/skor A01", telegram_id=789))
+
+        self.registry.score.assert_called_once_with(789, "A01")
+        self.bot.send_message.assert_called_once_with(
+            456,
+            "Nilai A01: 3.0\nStatus: tercapai.",
+        )
+
+    def test_score_requires_exactly_one_argument(self) -> None:
+        self.bot.handle_update(self.update("/skor"))
+
+        self.registry.score.assert_not_called()
+        self.bot.send_message.assert_called_once_with(
+            456,
+            "Gunakan format: /skor AXX (A01 sampai A15)",
+        )
+
+    def test_submit_uses_sender_id_and_week(self) -> None:
+        self.registry.submit.return_value = RegistrationResult(
+            "queued",
+            "Tiket: 1\nStatus: ANTRI\nURL: https://example.github.io/course/portfolio/week-01.html",
+        )
+
+        self.bot.handle_update(self.update("/submit W01", telegram_id=789))
+
+        self.registry.submit.assert_called_once_with(789, "W01")
+        self.bot.send_message.assert_called_once_with(
+            456,
+            "Tiket: 1\nStatus: ANTRI\nURL: https://example.github.io/course/portfolio/week-01.html",
+        )
+
+    def test_submit_requires_exactly_one_argument(self) -> None:
+        self.bot.handle_update(self.update("/submit"))
+
+        self.registry.submit.assert_not_called()
+        self.bot.send_message.assert_called_once_with(
+            456,
+            "Gunakan format: /submit WXX (W01 sampai W15)",
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

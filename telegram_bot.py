@@ -20,6 +20,8 @@ START_MESSAGE = (
     "Perintah yang tersedia:\n"
     "/reg NIM - hubungkan akun Telegram dengan data peserta\n"
     "/repo URL - simpan atau ganti URL repo GitHub\n"
+    "/skor AXX - lihat nilai dan status tugas A01 sampai A15\n"
+    "/submit WXX - kirim portfolio minggu W01 sampai W15\n"
     "/status - periksa registrasi dan validitas repo\n\n"
     "Contoh:\n"
     "/reg 18225001\n"
@@ -106,6 +108,21 @@ class TelegramBot:
                 self.send_message(chat_id, "Gunakan format: /status")
                 return
             result = self.registry.status(telegram_id)
+            self.send_message(chat_id, result.message)
+        elif command == "/skor":
+            if len(arguments) != 1:
+                self.send_message(chat_id, "Gunakan format: /skor AXX (A01 sampai A15)")
+                return
+            result = self.registry.score(telegram_id, arguments[0])
+            self.send_message(chat_id, result.message)
+        elif command == "/submit":
+            if len(arguments) != 1:
+                self.send_message(
+                    chat_id,
+                    "Gunakan format: /submit WXX (W01 sampai W15)",
+                )
+                return
+            result = self.registry.submit(telegram_id, arguments[0])
             self.send_message(chat_id, result.message)
         elif command:
             self.send_message(
