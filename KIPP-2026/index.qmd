@@ -1,5 +1,19 @@
-# Preface {.unnumbered}
+# Tentang dokumentasi ini {.unnumbered}
 
-This is a Quarto book.
+Dokumentasi ini menjelaskan **Student Course Services II2100**, yaitu bot
+Telegram untuk registrasi mahasiswa, pengelolaan repo portfolio, submission
+mingguan, assessment berbantuan LLM, dan penyampaian hasil kepada mahasiswa.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Dokumen dibagi untuk dua pembaca:
+
+- [Panduan pengguna](user-guide.qmd) ditujukan kepada mahasiswa yang memakai
+  perintah Telegram.
+- [Referensi teknis](technical-reference.qmd) ditujukan kepada dosen, operator,
+  dan pengembang yang menjalankan atau memelihara sistem.
+
+::: {.callout-important}
+Assessment LLM adalah rekomendasi awal. Selama status tiket masih
+`MENUNGGU PERSETUJUAN`, hasil tersebut belum menjadi nilai resmi.
+:::
+
+Dokumentasi ini mengikuti implementasi pada tanggal **23 Agustus 2026**.

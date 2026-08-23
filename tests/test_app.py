@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from app import load_env_file
+from app import load_env_file, resolve_project_path
 
 
 class LoadEnvFileTest(unittest.TestCase):
@@ -38,7 +38,16 @@ class LoadEnvFileTest(unittest.TestCase):
 
                 self.assertEqual("process-token", os.environ["TELEGRAM_BOT_TOKEN"])
 
+    def test_resolves_relative_runtime_path_from_project(self) -> None:
+        project = Path("C:/course")
+
+        self.assertEqual(
+            project / "data" / "antrian.csv",
+            resolve_project_path(project, "data/antrian.csv"),
+        )
+        absolute = Path("C:/shared/antrian.csv")
+        self.assertEqual(absolute, resolve_project_path(project, str(absolute)))
+
 
 if __name__ == "__main__":
     unittest.main()
-

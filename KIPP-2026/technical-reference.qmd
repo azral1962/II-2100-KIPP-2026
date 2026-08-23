@@ -1,0 +1,378 @@
+# Referensi teknis
+
+## Ruang lingkup
+
+Bab ini mendokumentasikan kode dan artefak runtime Student Course Services.
+Referensi sumber menggunakan path relatif terhadap root repository.
+
+## Arsitektur sistem
+
+```{mermaid}
+flowchart LR
+    S[Mahasiswa di Telegram] --> T[telegram_bot.py]
+    T --> C[course_service.py]
+    C --> P[(peserta.csv)]
+    C --> A[(assessment.csv)]
+    C --> Q[(antrian.csv)]
+    C --> G[GitHub API dan GitHub Pages]
+    Q --> W[llm.py worker]
+    W --> G
+    W --> I[assessment-inputs/*.txt]
+    I --> L[llama.cpp server]
+    L --> W
+    W --> R[assessment-results/*.md]
+    W --> Q
+    W --> A
+    R --> C
+    C --> T
+```
+
+Bot dan worker adalah proses terpisah yang berkoordinasi melalui file CSV dan
+lock file. Bot tidak memanggil LLM secara langsung.
+
+## Inventaris kode
+
+| Modul | Tanggung jawab utama | Elemen penting |
+|---|---|---|
+| `app.py` | Entry point bot, memuat `.env`, menyelesaikan path, merakit dependency | `load_env_file`, `resolve_project_path`, `main` |
+| `telegram_bot.py` | Long polling Telegram, parsing perintah, pengiriman respons, offset persisten | `TelegramBot.run`, `handle_update`, `_load_offset`, `_save_offset` |
+| `course_service.py` | Aturan registrasi, repo, nilai, submission, kepemilikan tiket, format hasil | `ParticipantRegistry`, validator GitHub/Pages |
+| `llm.py` | Ekstraksi evidence, client llama.cpp, validasi JSON, worker queue, persetujuan nilai | `LlamaCppClient`, `AssessmentWorker`, `parse_assessment` |
+| `file_lock.py` | Exclusive lock lintas proses pada Windows dan POSIX | `exclusive_file_lock` |
+| `tests/` | Unit dan integration-style tests dengan temporary files dan mock API | `test_app.py`, `test_course_service.py`, `test_telegram_bot.py`, `test_llm.py` |
+
+## Entry point dan lifecycle
+
+### Bot Telegram
+
+```powershell
+python app.py
+```
+
+Urutan startup:
+
+1. membaca `.env` tanpa menimpa environment proses;
+2. memvalidasi `TELEGRAM_BOT_TOKEN_KIPP`;
+3. menyelesaikan semua path relatif terhadap root aplikasi;
+4. membuat `ParticipantRegistry`;
+5. menjalankan Telegram long polling; dan
+6. menyimpan offset setelah sebuah update selesai ditangani.
+
+`Ctrl+C` menghasilkan shutdown normal melalui `KeyboardInterrupt`.
+
+### Worker LLM
+
+```powershell
+python llm.py
+```
+
+Mode CLI yang tersedia:
+
+| Perintah | Perilaku |
+|---|---|
+| `python llm.py` | Polling queue terus-menerus |
+| `python llm.py --once` | Memproses snapshot tiket pending lalu keluar |
+| `python llm.py --test` | Tes koneksi dengan prompt bawaan tanpa membaca queue |
+| `python llm.py --test "PROMPT"` | Tes koneksi dengan prompt khusus |
+| `python llm.py --approve 7` | Menyetujui tiket review dan memperbarui nilai resmi |
+
+`Ctrl+C` menghentikan loop worker dengan aman.
+
+## Routing perintah Telegram
+
+| Perintah | Method service | Data yang dibaca/ditulis |
+|---|---|---|
+| `/reg NIM` | `ParticipantRegistry.register` | baca/tulis `peserta.csv` |
+| `/repo URL` | `set_repo` | GitHub API; tulis `peserta.csv` |
+| `/status` | `status` | `peserta.csv`; GitHub API |
+| `/skor AXX` | `score` | `peserta.csv`, `assessment.csv` |
+| `/submit WXX` | `submit` | GitHub Pages; baca/tulis `antrian.csv` |
+| `/antrian` | `queue_status` | `peserta.csv`, `antrian.csv` |
+| `/hasil WXX` | `result` | `peserta.csv`, `antrian.csv` |
+| `/llm TICKET` | `llm_result` | `peserta.csv`, `antrian.csv`, laporan Markdown |
+
+`/llm` mencocokkan Telegram ID ke NIM terlebih dahulu, kemudian mencari tiket
+dengan kombinasi nomor tiket dan NIM. Tiket yang tidak ada dan tiket milik
+pengguna lain menghasilkan pesan generik yang sama.
+
+## Workflow submission dan assessment
+
+```{mermaid}
+stateDiagram-v2
+    [*] --> ANTRI: /submit WXX
+    ANTRI --> PROSES: worker mengklaim tiket
+    PROSES --> ANTRI: error jaringan/server
+    PROSES --> GAGAL: data/respons tidak valid
+    PROSES --> MENUNGGU: JSON tervalidasi
+    MENUNGGU --> TERCAPAI: assessor menyetujui
+    MENUNGGU --> REVISI: assessor menyetujui
+    MENUNGGU --> BELUM: assessor menyetujui
+    state "MENUNGGU PERSETUJUAN" as MENUNGGU
+    state "PERLU REVISI" as REVISI
+    state "BELUM DAPAT DINILAI" as BELUM
+```
+
+Detail pemrosesan worker:
+
+1. membaca tiket `ANTRI` atau lease `PROSES` yang kedaluwarsa;
+2. mengklaim tiket secara atomik dan menulis `worker_id`;
+3. mengambil halaman portfolio GitHub Pages;
+4. mengubah HTML menjadi teks yang dapat dibaca;
+5. memilih prompt sistem dan prompt minggu;
+6. menulis dua input TXT;
+7. mengirim isi kedua TXT sebagai message ke endpoint OpenAI-compatible
+   llama.cpp;
+8. memvalidasi output JSON dan aturan rubrik;
+9. menulis laporan Markdown serta metadata hasil ke queue; dan
+10. menunggu persetujuan assessor, kecuali auto-approve diaktifkan secara sadar.
+
+Jika worker crash setelah laporan tersimpan, retry menggunakan kembali laporan
+tersebut sehingga model tidak menghasilkan assessment baru untuk tiket yang
+sama.
+
+## Kontrak data CSV
+
+### `peserta.csv`
+
+| Kolom | Isi | Aturan |
+|---|---|---|
+| `NIM` | Identitas akademik | Harus unik untuk registrasi |
+| `Nama` | Nama peserta | Digunakan untuk pesan dan upsert assessment |
+| `ID` | Telegram user ID | Satu ID hanya untuk satu NIM |
+| `repo` | URL repo GitHub canonical | `https://github.com/pemilik/repo` |
+
+File ini mengandung data pribadi dan tidak boleh ditampilkan dalam dokumentasi
+publik atau log tanpa kebutuhan operasional.
+
+### `assessment.csv`
+
+| Kolom | Isi |
+|---|---|
+| `NIM` | Kunci peserta |
+| `name` | Nama peserta pada ledger assessment |
+| `A01`–`A15` | Nilai resmi per minggu, skala 1–4 |
+| `TOTAL` | Jumlah seluruh nilai assessment yang terisi |
+
+Update dilakukan dengan temporary file, `fsync`, dan atomic replace di bawah
+exclusive lock.
+
+### `antrian.csv`
+
+Enam kolom pertama wajib dan tetap didukung untuk file legacy:
+
+| Kolom | Isi |
+|---|---|
+| `tiket` | Nomor tiket positif dan unik |
+| `nim` | Pemilik tiket |
+| `week` | `W01`–`W15` |
+| `url` | Halaman portfolio yang dinilai |
+| `skor` | Total rubrik LLM `5–20`, atau kosong |
+| `status` | State queue/assessment |
+
+Saat file ditulis ulang, service menambahkan metadata berikut:
+
+| Kolom | Isi |
+|---|---|
+| `submitted_at` | Timestamp UTC pembuatan submission |
+| `updated_at` | Timestamp UTC perubahan status terakhir |
+| `worker_id` | Hostname dan PID worker yang memegang lease |
+| `ringkasan` | Ringkasan singkat dari output terstruktur |
+| `saran` | Prioritas perbaikan utama |
+
+Pembaca queue kompatibel dengan header enam kolom lama dan mengisi metadata
+yang belum ada dengan string kosong.
+
+## Artefak file
+
+| Artefak | Produsen | Konsumen | Kebijakan |
+|---|---|---|---|
+| `.env` | Operator | `app.py`, `llm.py` | Rahasia lokal; diabaikan Git |
+| `telegram-offset.txt` | Bot | Bot saat restart | Ditulis atomik; diabaikan Git |
+| `.*.lock` | Lock helper | Bot dan worker | Koordinasi lintas proses; diabaikan Git |
+| `assessment-inputs/tiket-N-WXX-prompts.txt` | Worker | Client llama.cpp | Isi prompt yang benar-benar dikirim; diabaikan Git |
+| `assessment-inputs/tiket-N-WXX-portfolio.txt` | Worker | Client llama.cpp | Evidence teks yang benar-benar dikirim; diabaikan Git |
+| `assessment-results/tiket-N-WXX.md` | Worker | Assessor dan `/llm` | Laporan manusiawi plus JSON; diabaikan Git |
+| `assessment-results/*-unparsed.md` | Worker | Diagnostik operator | Respons model yang gagal divalidasi |
+| `assessment-results/*-error.md` | Worker | Diagnostik operator | Ringkasan error permanen |
+| `llm-assessment-prompts.md` | Pengelola mata kuliah | Worker | Sumber prompt runtime |
+| `llm-assessment-prompts.pdf` | Proses dokumentasi/manual | Manusia | Referensi visual; tidak dibaca `llm.py` |
+
+Endpoint chat llama.cpp tidak menerima attachment TXT/PDF seperti antarmuka
+chat. Worker membaca file TXT kembali dan memasukkan isinya ke field `messages`,
+dengan nama file dicantumkan sebagai provenance.
+
+## Kontrak output LLM
+
+Worker meminta object JSON dengan tepat lima dimensi:
+
+1. `person_character`;
+2. `objective_state`;
+3. `repertoire_language_ai`;
+4. `response_adaptation`; dan
+5. `agreement_action_relationship`.
+
+Setiap dimensi berisi `score`, `evidence`, dan `reason`. Skor harus berupa
+bilangan bulat 1–4 atau `null`. Validasi aplikasi memeriksa:
+
+- field wajib dan larangan field tambahan;
+- kelima dimensi tanpa kurang atau lebih;
+- evidence dan alasan yang tidak kosong;
+- total sama dengan jumlah skor;
+- level sesuai rentang total;
+- konsistensi status evidence dan keputusan;
+- keputusan `Tercapai` hanya untuk evidence lengkap, total minimal 13, dan
+  tidak ada dimensi di bawah 2; serta
+- `week_task` sesuai minggu tiket.
+
+Output Markdown lama masih dapat dibaca untuk kompatibilitas laporan lama,
+tetapi respons baru dari server wajib memakai JSON terstruktur.
+
+## Pemetaan nilai resmi
+
+| Total rubrik LLM | Nilai resmi awal |
+|---:|---:|
+| 5–8 | 1 |
+| 9–12 | 2 |
+| 13–16 | 3 |
+| 17–20 | 4 |
+
+Aturan tambahan:
+
+- keputusan `PERLU REVISI` membatasi nilai resmi maksimal 2;
+- `BELUM DAPAT DINILAI` tidak menulis atau menghapus nilai lama; dan
+- `TERCAPAI` dengan total di bawah 13 ditolak sebagai inkonsisten.
+
+Secara default, pemetaan baru diterapkan setelah:
+
+```powershell
+python llm.py --approve TICKET
+```
+
+## Konfigurasi environment
+
+Semua path relatif diselesaikan terhadap folder root aplikasi.
+
+### Bot dan data
+
+| Variabel | Default | Keterangan |
+|---|---|---|
+| `TELEGRAM_BOT_TOKEN_KIPP` | wajib | Token BotFather |
+| `TELEGRAM_POLL_TIMEOUT` | `30` | Durasi long polling dalam detik |
+| `TELEGRAM_OFFSET_FILE` | `telegram-offset.txt` | Offset persisten |
+| `PESERTA_CSV` | `peserta.csv` | Data peserta |
+| `ASSESSMENT_CSV` | `assessment.csv` | Ledger nilai resmi |
+| `ANTRIAN_CSV` | `antrian.csv` | Queue submission |
+| `GITHUB_TOKEN` | kosong | Token opsional untuk GitHub API |
+| `LOG_LEVEL` | `INFO` | Level logging Python |
+
+### LLM worker
+
+| Variabel | Default | Keterangan |
+|---|---|---|
+| `LLM_SERVER_URL` | `http://100.110.236.59:8088` | Base URL llama.cpp |
+| `LLM_MODEL` | kosong | Jika kosong, worker membaca `/v1/models` |
+| `LLM_API_KEY` | kosong | Bearer token opsional |
+| `LLM_REQUEST_TIMEOUT` | `300` | Timeout inference |
+| `LLM_MAX_TOKENS` | `4096` | Batas output model |
+| `LLM_TEMPERATURE` | `0.1` | Sampling temperature |
+| `LLM_ENABLE_THINKING` | `false` | Mengaktifkan reasoning model |
+| `LLM_PAGE_TIMEOUT` | `30` | Timeout pengambilan portfolio |
+| `LLM_PAGE_MAX_BYTES` | `2000000` | Batas ukuran halaman |
+| `LLM_MAX_EVIDENCE_CHARS` | `100000` | Batas evidence setelah ekstraksi |
+| `LLM_QUEUE_POLL_SECONDS` | `10` | Interval loop queue |
+| `LLM_LEASE_SECONDS` | `900` | Umur lease sebelum dianggap stale |
+| `LLM_PROMPT_FILE` | `llm-assessment-prompts.md` | Sumber prompt |
+| `LLM_INPUT_DIR` | `assessment-inputs` | Artefak input TXT |
+| `LLM_REPORT_DIR` | `assessment-results` | Laporan Markdown |
+| `LLM_AUTO_APPROVE` | `false` | Langsung menulis nilai resmi bila `true` |
+
+::: {.callout-warning}
+`LLM_AUTO_APPROVE=true` melewati checkpoint assessor manusia dan tidak
+direkomendasikan untuk penilaian resmi.
+:::
+
+## Keamanan dan privasi
+
+Kontrol yang sudah diterapkan:
+
+- token disimpan di environment, bukan source code;
+- registrasi mencegah takeover NIM dan penggunaan satu Telegram ID untuk dua
+  NIM;
+- `/llm` memeriksa kepemilikan tiket dan tidak membocorkan keberadaan tiket
+  mahasiswa lain;
+- repo dibatasi ke URL root GitHub HTTPS;
+- worker hanya mengambil portfolio HTTPS pada host `*.github.io`;
+- evidence diperlakukan sebagai input tidak dipercaya dan prompt meminta model
+  mengabaikan instruksi di dalam evidence;
+- NIM tidak dimasukkan ke prompt LLM; worker memakai nomor tiket anonim;
+- output model divalidasi ulang oleh aplikasi;
+- nilai resmi default memerlukan persetujuan manusia; dan
+- write CSV, offset, input, serta laporan menggunakan temporary file dan atomic
+  replace.
+
+Operator tetap harus membatasi akses filesystem karena CSV dan laporan berisi
+data akademik.
+
+## Penanganan kegagalan
+
+| Kategori | Contoh | Perilaku |
+|---|---|---|
+| Transient | timeout, server LLM offline, GitHub Pages sementara gagal | tiket kembali `ANTRI` |
+| Permanen | minggu invalid, prompt tidak ada, respons JSON tidak valid | tiket menjadi `GAGAL` dan laporan error dibuat |
+| Worker crash | proses mati saat status `PROSES` | lease stale dapat diklaim worker lain |
+| Respons final kosong | reasoning menghabiskan token atau `finish_reason=length` | error menjelaskan reasoning dan menyarankan thinking dimatikan/token dinaikkan |
+| Offset rusak | isi offset bukan integer non-negatif | bot menolak startup agar update tidak diproses dengan asumsi salah |
+
+## Pengujian dan verifikasi
+
+Jalankan seluruh test:
+
+```powershell
+python -m unittest discover -s tests -v
+```
+
+Lakukan pemeriksaan sintaks:
+
+```powershell
+python -m py_compile app.py course_service.py telegram_bot.py llm.py
+```
+
+Tes koneksi llama.cpp tanpa menyentuh queue:
+
+```powershell
+python llm.py --test
+```
+
+Render dokumentasi ini dari root repository:
+
+```powershell
+quarto render KIPP-2026 --to html
+```
+
+## Batasan yang perlu diketahui
+
+- Penyimpanan berbasis CSV sesuai untuk kelas kecil, bukan deployment dengan
+  volume tinggi atau transaksi kompleks.
+- Belum ada command assessor untuk menolak atau mengubah rekomendasi; assessor
+  dapat memilih tidak menyetujui dan melakukan koreksi melalui prosedur
+  operasional.
+- `/llm` menampilkan cuplikan laporan agar muat dalam satu pesan Telegram,
+  bukan seluruh JSON mentah.
+- Worker menilai teks HTML dan referensi tautan; isi file atau media pada
+  tautan tidak otomatis diunduh.
+- GitHub Pages custom domain tidak diterima oleh fetcher worker saat ini.
+- Approval melibatkan update dua file terpisah. Operasi dibuat idempotent, namun
+  bukan transaksi database tunggal.
+
+## Checklist perubahan kode
+
+Saat menambah command atau artefak baru:
+
+1. tambahkan command ke `START_MESSAGE` dan dispatcher Telegram;
+2. letakkan aturan bisnis serta otorisasi di `ParticipantRegistry`;
+3. pertahankan respons generik untuk resource milik pengguna lain;
+4. gunakan lock dan atomic replace untuk write bersama;
+5. perbarui schema/backward compatibility artefak;
+6. tambahkan unit test sukses, input invalid, dan akses lintas pengguna;
+7. perbarui panduan pengguna serta referensi teknis; dan
+8. jalankan seluruh test dan render Quarto sebelum rilis.

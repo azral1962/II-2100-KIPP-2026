@@ -11,6 +11,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 
@@ -21,9 +22,22 @@ REQUIRED_COLUMNS = ("NIM", "Nama", "ID", "repo")
 ASSESSMENT_CODES = tuple(f"A{number:02d}" for number in range(1, 16))
 REQUIRED_ASSESSMENT_COLUMNS = ("NIM", "name", *ASSESSMENT_CODES, "TOTAL")
 QUEUE_COLUMNS = ("tiket", "nim", "week", "url", "skor", "status")
+QUEUE_METADATA_COLUMNS = (
+    "submitted_at",
+    "updated_at",
+    "worker_id",
+    "ringkasan",
+    "saran",
+)
+QUEUE_FIELDNAMES = (*QUEUE_COLUMNS, *QUEUE_METADATA_COLUMNS)
+ACTIVE_QUEUE_STATUSES = {"ANTRI", "PROSES", "MENUNGGU PERSETUJUAN"}
 GITHUB_OWNER_PATTERN = re.compile(r"^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$")
 GITHUB_REPO_PATTERN = re.compile(r"^[A-Za-z0-9._-]+$")
 REQUIRED_README_FIRST_LINE = "# Portfolio Mahasiswa KIPP-2026"
+
+
+def utc_now_text() -> str:
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
 class ParticipantDataError(RuntimeError):
@@ -213,10 +227,12 @@ class ParticipantRegistry:
         assessment_csv_path: str | Path = "assessment.csv",
         queue_csv_path: str | Path = "antrian.csv",
         page_validator: PortfolioPageValidator | None = None,
+        llm_report_dir: str | Path = "assessment-results",
     ) -> None:
         self.csv_path = Path(csv_path)
         self.assessment_csv_path = Path(assessment_csv_path)
         self.queue_csv_path = Path(queue_csv_path)
+        self.llm_report_dir = Path(llm_report_dir)
         self._lock = threading.Lock()
         self.repo_validator = repo_validator or GitHubRepositoryValidator()
         self.page_validator = page_validator or PortfolioPageValidator()
@@ -429,6 +445,155 @@ class ParticipantRegistry:
             f"Nilai {code}: {raw_score}\nStatus: tercapai.",
         )
 
+    def queue_status(self, telegram_id: int) -> RegistrationResult:
+        telegram_id_text = str(telegram_id)
+        with self._lock:
+            _, participant_rows = self._read_rows()
+            participant = next(
+                (row for row in participant_rows if row["ID"].strip() == telegram_id_text),
+                None,
+            )
+        if participant is None:
+            return RegistrationResult(
+                "not_registered",
+                "Akun Telegram ini belum terdaftar. Daftar dahulu dengan /reg NIM.",
+            )
+
+        queue_rows = self._read_queue_rows()
+        nim = participant["NIM"].strip()
+        owned_rows = [row for row in queue_rows if row["nim"].strip() == nim]
+        if not owned_rows:
+            return RegistrationResult("queue_empty", "Belum ada submission dalam antrian.")
+        owned_rows.sort(key=lambda row: int(row["tiket"]), reverse=True)
+        lines = ["Status submission terbaru:"]
+        for row in owned_rows[:5]:
+            score = row["skor"].strip() or "-"
+            lines.append(
+                f"Tiket {row['tiket']} | {row['week']} | {row['status']} | total {score}"
+            )
+        return RegistrationResult("queue_status", "\n".join(lines))
+
+    def result(self, telegram_id: int, week_code: str) -> RegistrationResult:
+        code = week_code.strip().upper()
+        if not re.fullmatch(r"W(?:0[1-9]|1[0-5])", code):
+            return RegistrationResult(
+                "invalid_week",
+                "Kode minggu tidak valid. Gunakan W01 sampai W15, misalnya: /hasil W01",
+            )
+        telegram_id_text = str(telegram_id)
+        with self._lock:
+            _, participant_rows = self._read_rows()
+            participant = next(
+                (row for row in participant_rows if row["ID"].strip() == telegram_id_text),
+                None,
+            )
+        if participant is None:
+            return RegistrationResult(
+                "not_registered",
+                "Akun Telegram ini belum terdaftar. Daftar dahulu dengan /reg NIM.",
+            )
+
+        nim = participant["NIM"].strip()
+        matches = [
+            row
+            for row in self._read_queue_rows()
+            if row["nim"].strip() == nim and row["week"].strip().upper() == code
+        ]
+        if not matches:
+            return RegistrationResult(
+                "result_not_found",
+                f"Belum ada submission untuk {code}.",
+            )
+        latest = max(matches, key=lambda row: int(row["tiket"]))
+        return RegistrationResult("result", self._format_llm_result(latest))
+
+    def llm_result(self, telegram_id: int, ticket: str) -> RegistrationResult:
+        raw_ticket = ticket.strip()
+        if not raw_ticket.isdigit() or int(raw_ticket) < 1:
+            return RegistrationResult(
+                "invalid_ticket",
+                "Nomor tiket tidak valid. Gunakan bilangan positif, misalnya: /llm 7",
+            )
+        normalized_ticket = str(int(raw_ticket))
+        telegram_id_text = str(telegram_id)
+        with self._lock:
+            _, participant_rows = self._read_rows()
+            participant = next(
+                (row for row in participant_rows if row["ID"].strip() == telegram_id_text),
+                None,
+            )
+        if participant is None:
+            return RegistrationResult(
+                "not_registered",
+                "Akun Telegram ini belum terdaftar. Daftar dahulu dengan /reg NIM.",
+            )
+
+        nim = participant["NIM"].strip()
+        owned_ticket = next(
+            (
+                row
+                for row in self._read_queue_rows()
+                if row["tiket"].strip() == normalized_ticket
+                and row["nim"].strip() == nim
+            ),
+            None,
+        )
+        if owned_ticket is None:
+            return RegistrationResult(
+                "ticket_not_found",
+                "Tiket tidak ditemukan pada submission milik Anda.",
+            )
+        message = self._format_llm_result(owned_ticket)
+        report_excerpt = self._llm_report_excerpt(owned_ticket)
+        if report_excerpt:
+            heading = "\n\nDetail assessment:\n"
+            remaining = 3900 - len(message) - len(heading)
+            if remaining > 0:
+                message += heading + report_excerpt[:remaining]
+        return RegistrationResult("llm_result", message)
+
+    @staticmethod
+    def _format_llm_result(row: dict[str, str]) -> str:
+        status = row["status"].strip().upper()
+        lines = [
+            f"Hasil LLM tiket {row['tiket'].strip()}",
+            f"Minggu: {row['week'].strip().upper()}",
+            f"Status: {status}",
+            f"Total rubrik: {row['skor'].strip() or '-'}",
+        ]
+        if status == "MENUNGGU PERSETUJUAN":
+            lines.append(
+                "Catatan: hasil LLM ini masih sementara dan belum menjadi nilai resmi."
+            )
+        elif status in {"ANTRI", "PROSES"}:
+            lines.append("Hasil LLM belum tersedia. Silakan periksa kembali nanti.")
+        elif status == "GAGAL":
+            lines.append("Assessment LLM gagal diproses. Hubungi instruktur.")
+
+        summary = row["ringkasan"].strip()
+        suggestion = row["saran"].strip()
+        if summary:
+            lines.append(f"Ringkasan: {summary[:1500]}")
+        if suggestion:
+            lines.append(f"Prioritas perbaikan: {suggestion[:1500]}")
+        return "\n".join(lines)
+
+    def _llm_report_excerpt(self, row: dict[str, str]) -> str:
+        ticket = row["tiket"].strip()
+        week = row["week"].strip().upper()
+        if not ticket.isdigit() or not re.fullmatch(r"W(?:0[1-9]|1[0-5])", week):
+            return ""
+        report_path = self.llm_report_dir / f"tiket-{ticket}-{week}.md"
+        try:
+            report = report_path.read_text(encoding="utf-8-sig").strip()
+        except (OSError, UnicodeDecodeError):
+            return ""
+
+        sections = report.split("\n\n", maxsplit=2)
+        content = sections[2] if len(sections) == 3 else report
+        content = content.split("\n## Data terstruktur", maxsplit=1)[0].strip()
+        return content
+
     def submit(self, telegram_id: int, week_code: str) -> RegistrationResult:
         code = week_code.strip().upper()
         if not re.fullmatch(r"W(?:0[1-9]|1[0-5])", code):
@@ -469,6 +634,22 @@ class ParticipantRegistry:
         with self._lock:
             with exclusive_file_lock(self.queue_csv_path):
                 queue_rows = self._read_queue_rows()
+                existing = next(
+                    (
+                        row
+                        for row in reversed(queue_rows)
+                        if row["nim"].strip() == participant["NIM"].strip()
+                        and row["week"].strip().upper() == code
+                        and row["status"].strip().upper() in ACTIVE_QUEUE_STATUSES
+                    ),
+                    None,
+                )
+                if existing is not None:
+                    return RegistrationResult(
+                        "already_queued",
+                        f"Tiket: {existing['tiket']}\nStatus: {existing['status']}\n"
+                        f"URL: {existing['url']}",
+                    )
                 ticket_numbers: list[int] = []
                 for row in queue_rows:
                     raw_ticket = row["tiket"].strip()
@@ -479,6 +660,7 @@ class ParticipantRegistry:
                     ticket_numbers.append(int(raw_ticket))
 
                 ticket = max(ticket_numbers, default=0) + 1
+                now = utc_now_text()
                 queue_rows.append(
                     {
                         "tiket": str(ticket),
@@ -487,6 +669,11 @@ class ParticipantRegistry:
                         "url": page_url,
                         "skor": "",
                         "status": "ANTRI",
+                        "submitted_at": now,
+                        "updated_at": now,
+                        "worker_id": "",
+                        "ringkasan": "",
+                        "saran": "",
                     }
                 )
                 self._write_queue_rows(queue_rows)
@@ -579,7 +766,7 @@ class ParticipantRegistry:
                     )
 
                 return [
-                    {column: (value or "") for column, value in row.items()}
+                    {column: (row.get(column) or "") for column in QUEUE_FIELDNAMES}
                     for row in reader
                 ]
         except FileNotFoundError as exc:
@@ -608,7 +795,7 @@ class ParticipantRegistry:
                 temporary_path = Path(temporary_file.name)
                 writer = csv.DictWriter(
                     temporary_file,
-                    fieldnames=QUEUE_COLUMNS,
+                    fieldnames=QUEUE_FIELDNAMES,
                     lineterminator="\n",
                 )
                 writer.writeheader()

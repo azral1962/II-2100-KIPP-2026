@@ -4,13 +4,20 @@ from __future__ import annotations
 
 import json
 import logging
+import os
+import tempfile
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from pathlib import Path
 from typing import Any
 
-from course_service import ParticipantDataError, ParticipantRegistry
+from course_service import (
+    REQUIRED_README_FIRST_LINE,
+    ParticipantDataError,
+    ParticipantRegistry,
+)
 
 
 LOGGER = logging.getLogger(__name__)
@@ -22,12 +29,15 @@ START_MESSAGE = (
     "/repo URL - simpan atau ganti URL repo GitHub\n"
     "/skor AXX - lihat nilai dan status tugas A01 sampai A15\n"
     "/submit WXX - kirim portfolio minggu W01 sampai W15\n"
+    "/antrian - lihat status submission terbaru\n"
+    "/hasil WXX - lihat ringkasan hasil dan saran perbaikan\n"
+    "/llm TICKET - lihat hasil LLM untuk tiket milik Anda\n"
     "/status - periksa registrasi dan validitas repo\n\n"
     "Contoh:\n"
     "/reg 18225001\n"
     "/repo https://github.com/pemilik/repo\n\n"
     "Baris pertama README.md repo harus:\n"
-    "# Portfolio Mahasiswa KIPP-2"
+    f"{REQUIRED_README_FIRST_LINE}"
 )
 
 
@@ -41,13 +51,15 @@ class TelegramBot:
         token: str,
         registry: ParticipantRegistry,
         poll_timeout: int = 30,
+        offset_path: str | Path | None = None,
     ) -> None:
         self._base_url = f"https://api.telegram.org/bot{token}"
         self.registry = registry
         self.poll_timeout = poll_timeout
+        self.offset_path = Path(offset_path) if offset_path is not None else None
 
     def run(self) -> None:
-        offset: int | None = None
+        offset = self._load_offset()
         LOGGER.info("Student Course Services bot started")
 
         while True:
@@ -62,8 +74,13 @@ class TelegramBot:
                     request_timeout=self.poll_timeout + 10,
                 )
                 for update in updates:
-                    offset = update["update_id"] + 1
+                    update_id = update.get("update_id")
+                    if not isinstance(update_id, int):
+                        LOGGER.warning("Telegram update tanpa update_id valid diabaikan")
+                        continue
                     self.handle_update(update)
+                    offset = update_id + 1
+                    self._save_offset(offset)
             except TelegramAPIError as exc:
                 LOGGER.warning("Telegram API error: %s", exc)
                 time.sleep(3)
@@ -124,6 +141,24 @@ class TelegramBot:
                 return
             result = self.registry.submit(telegram_id, arguments[0])
             self.send_message(chat_id, result.message)
+        elif command == "/antrian":
+            if arguments:
+                self.send_message(chat_id, "Gunakan format: /antrian")
+                return
+            result = self.registry.queue_status(telegram_id)
+            self.send_message(chat_id, result.message)
+        elif command == "/hasil":
+            if len(arguments) != 1:
+                self.send_message(chat_id, "Gunakan format: /hasil WXX (W01 sampai W15)")
+                return
+            result = self.registry.result(telegram_id, arguments[0])
+            self.send_message(chat_id, result.message)
+        elif command == "/llm":
+            if len(arguments) != 1:
+                self.send_message(chat_id, "Gunakan format: /llm TICKET, contoh: /llm 7")
+                return
+            result = self.registry.llm_result(telegram_id, arguments[0])
+            self.send_message(chat_id, result.message)
         elif command:
             self.send_message(
                 chat_id,
@@ -132,6 +167,49 @@ class TelegramBot:
 
     def send_message(self, chat_id: int, text: str) -> None:
         self._api_call("sendMessage", {"chat_id": chat_id, "text": text})
+
+    def _load_offset(self) -> int | None:
+        if self.offset_path is None or not self.offset_path.exists():
+            return None
+        try:
+            raw_offset = self.offset_path.read_text(encoding="ascii").strip()
+            offset = int(raw_offset)
+        except (OSError, ValueError) as exc:
+            raise ParticipantDataError(
+                f"File offset Telegram tidak valid: {self.offset_path}"
+            ) from exc
+        if offset < 0:
+            raise ParticipantDataError(
+                f"File offset Telegram tidak valid: {self.offset_path}"
+            )
+        return offset
+
+    def _save_offset(self, offset: int) -> None:
+        if self.offset_path is None:
+            return
+        self.offset_path.parent.mkdir(parents=True, exist_ok=True)
+        temporary_path: Path | None = None
+        try:
+            with tempfile.NamedTemporaryFile(
+                "w",
+                encoding="ascii",
+                newline="",
+                dir=self.offset_path.parent,
+                prefix=f".{self.offset_path.name}.",
+                suffix=".tmp",
+                delete=False,
+            ) as temporary_file:
+                temporary_path = Path(temporary_file.name)
+                temporary_file.write(str(offset))
+                temporary_file.flush()
+                os.fsync(temporary_file.fileno())
+            os.replace(temporary_path, self.offset_path)
+        except OSError as exc:
+            if temporary_path is not None:
+                temporary_path.unlink(missing_ok=True)
+            raise ParticipantDataError(
+                f"File offset Telegram tidak dapat diperbarui: {self.offset_path}"
+            ) from exc
 
     @staticmethod
     def _parse_command(text: str) -> tuple[str, list[str]]:

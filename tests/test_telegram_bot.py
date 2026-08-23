@@ -1,15 +1,25 @@
+import tempfile
 import unittest
-from unittest.mock import Mock
+from pathlib import Path
+from unittest.mock import Mock, patch
 
-from course_service import RegistrationResult
+from course_service import (
+    REQUIRED_README_FIRST_LINE,
+    ParticipantDataError,
+    RegistrationResult,
+)
 from telegram_bot import START_MESSAGE, TelegramBot
 
 
 class TelegramBotTest(unittest.TestCase):
     def setUp(self) -> None:
+        self.temp_dir = tempfile.TemporaryDirectory()
         self.registry = Mock()
         self.bot = TelegramBot("test-token", self.registry)
         self.bot.send_message = Mock()
+
+    def tearDown(self) -> None:
+        self.temp_dir.cleanup()
 
     @staticmethod
     def update(text: str, telegram_id: int = 123) -> dict:
@@ -26,6 +36,8 @@ class TelegramBotTest(unittest.TestCase):
         self.bot.handle_update(self.update("/start"))
 
         self.bot.send_message.assert_called_once_with(456, START_MESSAGE)
+        self.assertIn(REQUIRED_README_FIRST_LINE, START_MESSAGE)
+        self.assertIn("/llm TICKET", START_MESSAGE)
 
     def test_reg_uses_telegram_sender_id(self) -> None:
         self.registry.register.return_value = RegistrationResult("registered", "OK")
@@ -129,6 +141,76 @@ class TelegramBotTest(unittest.TestCase):
             456,
             "Gunakan format: /submit WXX (W01 sampai W15)",
         )
+
+    def test_queue_status_uses_sender_id(self) -> None:
+        self.registry.queue_status.return_value = RegistrationResult(
+            "queue_status", "STATUS ANTRIAN"
+        )
+
+        self.bot.handle_update(self.update("/antrian", telegram_id=789))
+
+        self.registry.queue_status.assert_called_once_with(789)
+        self.bot.send_message.assert_called_once_with(456, "STATUS ANTRIAN")
+
+    def test_result_uses_sender_id_and_week(self) -> None:
+        self.registry.result.return_value = RegistrationResult("result", "HASIL")
+
+        self.bot.handle_update(self.update("/hasil W02", telegram_id=789))
+
+        self.registry.result.assert_called_once_with(789, "W02")
+        self.bot.send_message.assert_called_once_with(456, "HASIL")
+
+    def test_llm_result_uses_sender_id_and_ticket(self) -> None:
+        self.registry.llm_result.return_value = RegistrationResult(
+            "llm_result", "HASIL LLM"
+        )
+
+        self.bot.handle_update(self.update("/llm 7", telegram_id=789))
+
+        self.registry.llm_result.assert_called_once_with(789, "7")
+        self.bot.send_message.assert_called_once_with(456, "HASIL LLM")
+
+    def test_llm_result_requires_exactly_one_ticket(self) -> None:
+        self.bot.handle_update(self.update("/llm"))
+
+        self.registry.llm_result.assert_not_called()
+        self.bot.send_message.assert_called_once_with(
+            456,
+            "Gunakan format: /llm TICKET, contoh: /llm 7",
+        )
+
+    def test_successful_update_persists_next_offset(self) -> None:
+        offset_path = Path(self.temp_dir.name) / "offset.txt"
+        bot = TelegramBot(
+            "test-token",
+            self.registry,
+            poll_timeout=1,
+            offset_path=offset_path,
+        )
+        bot.handle_update = Mock()
+        bot._api_call = Mock(side_effect=[[self.update("/status")], KeyboardInterrupt])
+
+        with self.assertRaises(KeyboardInterrupt):
+            bot.run()
+
+        self.assertEqual("2", offset_path.read_text(encoding="ascii"))
+
+    def test_failed_update_does_not_advance_offset(self) -> None:
+        offset_path = Path(self.temp_dir.name) / "offset.txt"
+        bot = TelegramBot(
+            "test-token",
+            self.registry,
+            poll_timeout=1,
+            offset_path=offset_path,
+        )
+        bot._api_call = Mock(return_value=[self.update("/status")])
+        bot.handle_update = Mock(side_effect=ParticipantDataError("CSV terkunci"))
+
+        with patch("telegram_bot.time.sleep", side_effect=KeyboardInterrupt):
+            with self.assertRaises(KeyboardInterrupt):
+                bot.run()
+
+        self.assertFalse(offset_path.exists())
 
 
 if __name__ == "__main__":

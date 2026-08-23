@@ -1,25 +1,23 @@
 project:
   type: book
+  output-dir: _book
 
 book:
-  title: ""II-2100 Komunikasi Inter Personal dan Publik  2026"
-  author: "Norah Jones"
-  date: "23/08/2026"
+  title: "Student Course Services II2100"
+  subtitle: "Panduan pengguna dan referensi teknis"
+  author: "Tim II2100"
+  date: "2026-08-23"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+    - user-guide.qmd
+    - technical-reference.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-  pdf:
-    documentclass: scrreprt
+    theme: cosmo
+    toc: true
+    code-copy: true
+    code-overflow: wrap
 
-
+lang: id
 

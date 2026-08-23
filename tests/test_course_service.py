@@ -71,6 +71,7 @@ class ParticipantRegistryTest(unittest.TestCase):
             "Halaman portfolio valid.",
         )
         self.queue_path = Path(self.temp_dir.name) / "antrian.csv"
+        self.report_dir = Path(self.temp_dir.name) / "assessment-results"
         with self.queue_path.open("w", encoding="utf-8", newline="") as csv_file:
             writer = csv.writer(csv_file, lineterminator="\n")
             writer.writerow(["tiket", "nim", "week", "url", "skor", "status"])
@@ -80,6 +81,7 @@ class ParticipantRegistryTest(unittest.TestCase):
             assessment_csv_path=self.assessment_path,
             queue_csv_path=self.queue_path,
             page_validator=self.page_validator,
+            llm_report_dir=self.report_dir,
         )
 
     def tearDown(self) -> None:
@@ -287,6 +289,74 @@ class ParticipantRegistryTest(unittest.TestCase):
 
         self.assertEqual("queued", result.status)
         self.assertEqual("2", self.read_queue_rows()[1]["tiket"])
+
+    def test_duplicate_active_submission_reuses_existing_ticket(self) -> None:
+        self.registry.register("18225001", 100)
+        self.registry.set_repo(100, "https://github.com/example/course")
+        first = self.registry.submit(100, "W01")
+
+        second = self.registry.submit(100, "W01")
+
+        self.assertEqual("queued", first.status)
+        self.assertEqual("already_queued", second.status)
+        self.assertIn("Tiket: 1", second.message)
+        self.assertEqual(1, len(self.read_queue_rows()))
+
+    def test_student_can_view_queue_and_feedback(self) -> None:
+        self.registry.register("18225001", 100)
+        self.registry.set_repo(100, "https://github.com/example/course")
+        self.registry.submit(100, "W02")
+        rows = self.registry._read_queue_rows()
+        rows[0].update(
+            {
+                "skor": "12",
+                "status": "MENUNGGU PERSETUJUAN",
+                "ringkasan": "Refleksi sudah jelas.",
+                "saran": "Tambahkan bukti tindakan.",
+            }
+        )
+        self.registry._write_queue_rows(rows)
+        self.report_dir.mkdir()
+        (self.report_dir / "tiket-1-W02.md").write_text(
+            "# Hasil assessment tiket 1\n\n"
+            "- NIM: 18225001\n- Minggu: W02\n\n"
+            "## Skor rubrik\n\nPerson & Character: 2\n"
+            "\n## Data terstruktur\n\n```json\n{}\n```\n",
+            encoding="utf-8",
+        )
+
+        queue_result = self.registry.queue_status(100)
+        assessment_result = self.registry.result(100, "W02")
+        ticket_result = self.registry.llm_result(100, "1")
+
+        self.assertEqual("queue_status", queue_result.status)
+        self.assertIn("MENUNGGU PERSETUJUAN", queue_result.message)
+        self.assertEqual("result", assessment_result.status)
+        self.assertIn("masih sementara", assessment_result.message)
+        self.assertIn("Refleksi sudah jelas", assessment_result.message)
+        self.assertIn("Tambahkan bukti tindakan", assessment_result.message)
+        self.assertEqual("llm_result", ticket_result.status)
+        self.assertIn("Hasil LLM tiket 1", ticket_result.message)
+        self.assertIn("Refleksi sudah jelas", ticket_result.message)
+        self.assertIn("Detail assessment", ticket_result.message)
+        self.assertIn("Person & Character: 2", ticket_result.message)
+        self.assertNotIn("Data terstruktur", ticket_result.message)
+
+    def test_llm_result_does_not_expose_another_students_ticket(self) -> None:
+        self.registry.register("18225001", 100)
+        self.registry.set_repo(100, "https://github.com/example/course")
+        self.registry.submit(100, "W01")
+
+        result = self.registry.llm_result(200, "1")
+
+        self.assertEqual("ticket_not_found", result.status)
+        self.assertNotIn("18225001", result.message)
+        self.assertNotIn("W01", result.message)
+
+    def test_llm_result_rejects_invalid_ticket_number(self) -> None:
+        result = self.registry.llm_result(200, "not-a-ticket")
+
+        self.assertEqual("invalid_ticket", result.status)
 
     def test_submit_rejects_invalid_week(self) -> None:
         for code in ("W00", "W16", "W1", "A01"):

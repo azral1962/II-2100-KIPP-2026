@@ -34,8 +34,15 @@ def load_env_file(path: Path) -> None:
         os.environ.setdefault(key, value)
 
 
+def resolve_project_path(project_dir: Path, value: str) -> Path:
+    """Resolve relative runtime paths against the application directory."""
+    path = Path(value)
+    return path if path.is_absolute() else project_dir / path
+
+
 def main() -> None:
-    load_env_file(Path(__file__).with_name(".env"))
+    project_dir = Path(__file__).resolve().parent
+    load_env_file(project_dir / ".env")
 
     logging.basicConfig(
         level=os.environ.get("LOG_LEVEL", "INFO").upper(),
@@ -46,18 +53,48 @@ def main() -> None:
     if not token:
         raise SystemExit("TELEGRAM_BOT_TOKEN_KIPP belum diisi di file .env.")
 
-    participant_file = Path(os.environ.get("PESERTA_CSV", "peserta.csv"))
-    assessment_file = Path(os.environ.get("ASSESSMENT_CSV", "assessment.csv"))
-    queue_file = Path(os.environ.get("ANTRIAN_CSV", "antrian.csv"))
-    poll_timeout = int(os.environ.get("TELEGRAM_POLL_TIMEOUT", "30"))
+    participant_file = resolve_project_path(
+        project_dir, os.environ.get("PESERTA_CSV", "peserta.csv")
+    )
+    assessment_file = resolve_project_path(
+        project_dir, os.environ.get("ASSESSMENT_CSV", "assessment.csv")
+    )
+    queue_file = resolve_project_path(
+        project_dir, os.environ.get("ANTRIAN_CSV", "antrian.csv")
+    )
+    offset_file = resolve_project_path(
+        project_dir,
+        os.environ.get("TELEGRAM_OFFSET_FILE", "telegram-offset.txt"),
+    )
+    llm_report_dir = resolve_project_path(
+        project_dir,
+        os.environ.get("LLM_REPORT_DIR", "assessment-results"),
+    )
+    try:
+        poll_timeout = int(os.environ.get("TELEGRAM_POLL_TIMEOUT", "30"))
+    except ValueError as exc:
+        raise SystemExit(
+            "TELEGRAM_POLL_TIMEOUT harus berupa bilangan bulat positif."
+        ) from exc
+    if poll_timeout <= 0:
+        raise SystemExit("TELEGRAM_POLL_TIMEOUT harus berupa bilangan bulat positif.")
     github_token = os.environ.get("GITHUB_TOKEN", "")
     registry = ParticipantRegistry(
         participant_file,
         repo_validator=GitHubRepositoryValidator(github_token),
         assessment_csv_path=assessment_file,
         queue_csv_path=queue_file,
+        llm_report_dir=llm_report_dir,
     )
-    TelegramBot(token, registry, poll_timeout=poll_timeout).run()
+    try:
+        TelegramBot(
+            token,
+            registry,
+            poll_timeout=poll_timeout,
+            offset_path=offset_file,
+        ).run()
+    except KeyboardInterrupt:
+        logging.getLogger(__name__).info("Student Course Services bot dihentikan.")
 
 
 if __name__ == "__main__":
