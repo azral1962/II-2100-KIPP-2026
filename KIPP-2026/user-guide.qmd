@@ -4,12 +4,12 @@
 
 Student Course Services membantu mahasiswa untuk:
 
-1. menghubungkan akun Telegram dengan NIM;
-2. mendaftarkan repo GitHub portfolio;
-3. mengirim halaman portfolio mingguan ke antrian assessment;
-4. memantau pemrosesan submission;
-5. membaca hasil dan umpan balik LLM; dan
-6. memeriksa nilai resmi tugas.
+1.  menghubungkan akun Telegram dengan NIM;
+2.  mendaftarkan repo GitHub portfolio;
+3.  mengirim halaman portfolio mingguan ke antrian assessment;
+4.  memantau pemrosesan submission;
+5.  membaca hasil dan umpan balik LLM; dan
+6.  memeriksa nilai resmi tugas.
 
 Semua perintah dikirim sebagai pesan biasa kepada bot Telegram mata kuliah.
 
@@ -19,12 +19,11 @@ Pastikan Anda memiliki:
 
 - NIM yang sudah tercantum dalam daftar peserta kelas;
 - satu akun Telegram pribadi;
-- repo GitHub dengan URL berbentuk
-  `https://github.com/pemilik/repo`;
+- repo GitHub dengan URL berbentuk `https://github.com/pemilik/repo`;
 - GitHub Pages yang sudah memublikasikan halaman portfolio; dan
 - `README.md` dengan baris pertama tepat seperti berikut.
 
-```markdown
+``` markdown
 # Portfolio Mahasiswa KIPP-2026
 ```
 
@@ -36,7 +35,7 @@ Perbedaan satu karakter, spasi, atau tahun dapat membuat validasi repo gagal.
 
 Kirim:
 
-```text
+``` text
 /start
 ```
 
@@ -46,34 +45,31 @@ Bot menampilkan daftar perintah dan format dasar yang tersedia.
 
 Kirim `/reg` diikuti NIM Anda:
 
-```text
+``` text
 /reg 18225001
 ```
 
-Bot mengambil Telegram user ID dari pengirim pesan. Anda tidak perlu memasukkan
-ID Telegram secara manual.
+Bot mengambil Telegram user ID dari pengirim pesan. Anda tidak perlu memasukkan ID Telegram secara manual.
 
-::: {.callout-warning}
-Satu NIM tidak dapat diambil alih akun Telegram lain, dan satu akun Telegram
-tidak dapat dipakai untuk dua NIM. Hubungi instruktur jika data awal salah.
+::: callout-warning
+Satu NIM tidak dapat diambil alih akun Telegram lain, dan satu akun Telegram tidak dapat dipakai untuk dua NIM. Hubungi instruktur jika data awal salah.
 :::
 
 ### 3. Daftarkan repo GitHub
 
 Setelah registrasi berhasil, kirim:
 
-```text
+``` text
 /repo https://github.com/pemilik/repo
 ```
 
-Bot akan memeriksa format URL, keberadaan repo dan `README.md`, serta judul pada
-baris pertamanya. Perintah yang sama dapat dipakai untuk mengganti repo lama.
+Bot akan memeriksa format URL, keberadaan repo dan `README.md`, serta judul pada baris pertamanya. Perintah yang sama dapat dipakai untuk mengganti repo lama.
 
 ### 4. Periksa status akun
 
 Kirim:
 
-```text
+``` text
 /status
 ```
 
@@ -83,7 +79,7 @@ Bot menampilkan identitas registrasi dan hasil validasi repo terkini.
 
 Halaman GitHub Pages harus mengikuti pola berikut:
 
-```text
+``` text
 https://pemilik.github.io/repo/portfolio/week-01.html
 https://pemilik.github.io/repo/portfolio/week-02.html
 ...
@@ -92,43 +88,37 @@ https://pemilik.github.io/repo/portfolio/week-15.html
 
 Untuk repo user-site bernama `pemilik.github.io`, bagian `/repo` tidak dipakai.
 
-Pastikan halaman sudah dapat dibuka secara publik sebelum melakukan submission.
-Isi halaman harus menyediakan evidence tekstual yang cukup; tautan atau
-lampiran yang tidak dapat dibaca worker akan dianggap tidak terverifikasi.
+Pastikan halaman sudah dapat dibuka secara publik sebelum melakukan submission. Isi halaman harus menyediakan evidence tekstual yang cukup; tautan atau lampiran yang tidak dapat dibaca worker akan dianggap tidak terverifikasi.
 
 ### 6. Kirim submission
 
 Gunakan kode `W01` sampai `W15`:
 
-```text
+``` text
 /submit W02
 ```
 
-Jika halaman tersedia, bot membuat nomor tiket dan memberikan status `ANTRI`.
-Submission aktif untuk NIM dan minggu yang sama tidak digandakan; bot
-mengembalikan tiket yang sudah ada.
+Jika halaman tersedia, bot membuat nomor tiket dan memberikan status `ANTRI`. Submission aktif untuk NIM dan minggu yang sama tidak digandakan; bot mengembalikan tiket yang sudah ada.
 
 ### 7. Pantau antrian
 
 Kirim:
 
-```text
+``` text
 /antrian
 ```
 
-Bot menampilkan maksimal lima submission terbaru milik Anda, termasuk tiket,
-minggu, status, dan total rubrik jika sudah tersedia.
+Bot menampilkan maksimal lima submission terbaru milik Anda, termasuk tiket, minggu, status, dan total rubrik jika sudah tersedia.
 
 ### 8. Baca hasil berdasarkan tiket
 
 Gunakan nomor tiket yang diperoleh dari `/submit` atau `/antrian`:
 
-```text
+``` text
 /llm 7
 ```
 
-Bot hanya akan menampilkan tiket yang dimiliki oleh akun Anda. Hasil dapat
-mencakup:
+Bot hanya akan menampilkan tiket yang dimiliki oleh akun Anda. Hasil dapat mencakup:
 
 - minggu dan status pemrosesan;
 - total rubrik LLM;
@@ -136,26 +126,24 @@ mencakup:
 - prioritas perbaikan; dan
 - cuplikan detail laporan assessment.
 
-Blok data JSON mentah tidak ditampilkan dan detail dipotong bila melebihi batas
-satu pesan Telegram.
+Blok data JSON mentah tidak ditampilkan dan detail dipotong bila melebihi batas satu pesan Telegram.
 
-::: {.callout-note}
-Jika tiket masih `ANTRI` atau `PROSES`, hasil belum tersedia. Jika statusnya
-`MENUNGGU PERSETUJUAN`, hasil LLM masih sementara.
+::: callout-note
+Jika tiket masih `ANTRI` atau `PROSES`, hasil belum tersedia. Jika statusnya `MENUNGGU PERSETUJUAN`, hasil LLM masih sementara.
 :::
 
 ### 9. Baca hasil terbaru berdasarkan minggu
 
 Untuk memperoleh hasil submission terbaru suatu minggu, kirim:
 
-```text
+``` text
 /hasil W02
 ```
 
 Perbedaan `/hasil` dan `/llm` adalah:
 
 | Perintah | Cara memilih hasil | Penggunaan |
-|---|---|---|
+|------------------------|------------------------|------------------------|
 | `/hasil W02` | Submission terbaru pada minggu tersebut | Cepat mencari hasil per tugas |
 | `/llm 7` | Nomor tiket tertentu | Membuka submission yang spesifik |
 
@@ -163,7 +151,7 @@ Perbedaan `/hasil` dan `/llm` adalah:
 
 Gunakan kode assessment `A01` sampai `A15`:
 
-```text
+``` text
 /skor A02
 ```
 
@@ -176,7 +164,7 @@ Nilai resmi berbeda dari total rubrik LLM:
 ## Ringkasan perintah
 
 | Perintah | Fungsi | Contoh |
-|---|---|---|
+|------------------------|------------------------|------------------------|
 | `/start` | Menampilkan bantuan | `/start` |
 | `/reg NIM` | Menghubungkan Telegram dengan NIM | `/reg 18225001` |
 | `/repo URL` | Menyimpan atau mengganti repo GitHub | `/repo https://github.com/pemilik/repo` |
@@ -187,13 +175,12 @@ Nilai resmi berbeda dari total rubrik LLM:
 | `/hasil WXX` | Menampilkan hasil terbaru suatu minggu | `/hasil W02` |
 | `/skor AXX` | Menampilkan nilai resmi tugas | `/skor A02` |
 
-Perintah tidak peka terhadap huruf besar/kecil pada kode minggu dan assessment,
-tetapi format nomornya harus dua digit.
+Perintah tidak peka terhadap huruf besar/kecil pada kode minggu dan assessment, tetapi format nomornya harus dua digit.
 
 ## Arti status tiket
 
 | Status | Arti bagi mahasiswa | Tindakan |
-|---|---|---|
+|------------------------|------------------------|------------------------|
 | `ANTRI` | Submission menunggu worker | Tunggu lalu periksa `/antrian` |
 | `PROSES` | Worker sedang mengambil evidence atau meminta assessment | Tunggu hingga proses selesai |
 | `MENUNGGU PERSETUJUAN` | Hasil LLM tersedia tetapi belum disahkan | Baca umpan balik; tunggu assessor |
@@ -204,7 +191,7 @@ tetapi format nomornya harus dua digit.
 
 ## Contoh percakapan lengkap
 
-```text
+``` text
 Mahasiswa: /reg 18225001
 Bot: Registrasi berhasil. Selamat datang, ...
 
@@ -236,8 +223,7 @@ Bot: Nilai A02: 2
 
 ### “NIM tidak ditemukan”
 
-Periksa kembali angka NIM. Jika sudah benar, hubungi instruktur agar daftar
-peserta diperiksa.
+Periksa kembali angka NIM. Jika sudah benar, hubungi instruktur agar daftar peserta diperiksa.
 
 ### “NIM sudah terhubung” atau “Telegram sudah terhubung”
 
@@ -254,25 +240,19 @@ Periksa bahwa:
 
 ### Halaman portfolio belum ditemukan
 
-Buka URL GitHub Pages di browser tanpa login. Periksa nama file
-`week-XX.html`, deployment Pages, dan tunggu beberapa menit jika baru
-dipublikasikan.
+Buka URL GitHub Pages di browser tanpa login. Periksa nama file `week-XX.html`, deployment Pages, dan tunggu beberapa menit jika baru dipublikasikan.
 
 ### Tiket tidak ditemukan pada `/llm`
 
-Pastikan nomor berasal dari `/submit` atau `/antrian` milik akun yang sama.
-Untuk melindungi privasi, bot tidak mengungkap apakah nomor tersebut dimiliki
-mahasiswa lain.
+Pastikan nomor berasal dari `/submit` atau `/antrian` milik akun yang sama. Untuk melindungi privasi, bot tidak mengungkap apakah nomor tersebut dimiliki mahasiswa lain.
 
 ### Hasil belum tersedia
 
-Gunakan `/antrian` beberapa saat kemudian. Status `ANTRI` dan `PROSES` belum
-memiliki laporan final untuk ditampilkan.
+Gunakan `/antrian` beberapa saat kemudian. Status `ANTRI` dan `PROSES` belum memiliki laporan final untuk ditampilkan.
 
 ## Privasi dan penggunaan yang bertanggung jawab
 
 - Jangan membagikan token bot, credential GitHub, atau file `.env`.
-- Jangan mengirim data pribadi pihak lain yang tidak diperlukan dalam
-  portfolio.
+- Jangan mengirim data pribadi pihak lain yang tidak diperlukan dalam portfolio.
 - Hasil LLM bukan keputusan resmi sampai assessor manusia menyetujuinya.
 - Laporkan hasil yang tampak tidak sesuai evidence kepada instruktur.
