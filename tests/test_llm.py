@@ -488,6 +488,34 @@ Nilai evidence Minggu 02.
         self.assertEqual("worker-one", rows[0]["worker_id"])
         self.assertEqual("PROSES", rows[0]["status"])
 
+    def test_process_ticket_number_only_processes_requested_ticket(self) -> None:
+        with self.queue_path.open("a", encoding="utf-8", newline="") as csv_file:
+            writer = csv.DictWriter(
+                csv_file,
+                fieldnames=("tiket", "nim", "week", "url", "skor", "status"),
+            )
+            writer.writerow(
+                {
+                    "tiket": "8",
+                    "nim": "07381119",
+                    "week": "W02",
+                    "url": "https://example.github.io/other/week-02.html",
+                    "skor": "",
+                    "status": "ANTRI",
+                }
+            )
+        client = Mock()
+        client.complete.return_value = json.dumps(structured_assessment())
+        worker = self._worker(client)
+
+        completed, failed = worker.process_ticket_number("7")
+
+        self.assertEqual((1, 0), (completed, failed))
+        _, rows = read_queue(self.queue_path)
+        rows_by_ticket = {row["tiket"]: row for row in rows}
+        self.assertEqual(REVIEW_STATUS, rows_by_ticket["7"]["status"])
+        self.assertEqual("ANTRI", rows_by_ticket["8"]["status"])
+
 
 if __name__ == "__main__":
     unittest.main()

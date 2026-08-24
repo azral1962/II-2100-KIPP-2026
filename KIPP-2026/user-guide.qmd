@@ -110,7 +110,7 @@ Kirim:
 
 Bot menampilkan maksimal lima submission terbaru milik Anda, termasuk tiket, minggu, status, dan total rubrik jika sudah tersedia.
 
-### 8. Baca hasil berdasarkan tiket
+### 8. Proses dan baca hasil berdasarkan tiket
 
 Gunakan nomor tiket yang diperoleh dari `/submit` atau `/antrian`:
 
@@ -118,7 +118,9 @@ Gunakan nomor tiket yang diperoleh dari `/submit` atau `/antrian`:
 /llm 7
 ```
 
-Bot hanya akan menampilkan tiket yang dimiliki oleh akun Anda. Hasil dapat mencakup:
+Bot memverifikasi bahwa tiket dimiliki oleh akun Anda, memproses tiket yang
+masih berstatus `ANTRI`, lalu menampilkan hasil terbaru. Tiket mahasiswa lain
+tidak akan diproses. Hasil dapat mencakup:
 
 - minggu dan status pemrosesan;
 - total rubrik LLM;
@@ -129,7 +131,10 @@ Bot hanya akan menampilkan tiket yang dimiliki oleh akun Anda. Hasil dapat menca
 Blok data JSON mentah tidak ditampilkan dan detail dipotong bila melebihi batas satu pesan Telegram.
 
 ::: callout-note
-Jika tiket masih `ANTRI` atau `PROSES`, hasil belum tersedia. Jika statusnya `MENUNGGU PERSETUJUAN`, hasil LLM masih sementara.
+Bot mengirim konfirmasi sebelum mulai menghubungi LLM. Jika server atau halaman
+portfolio sementara tidak tersedia, tiket kembali berstatus `ANTRI` dan dapat
+dicoba lagi dengan perintah yang sama. Jika statusnya
+`MENUNGGU PERSETUJUAN`, hasil LLM masih sementara.
 :::
 
 ### 9. Baca hasil terbaru berdasarkan minggu
@@ -145,7 +150,7 @@ Perbedaan `/hasil` dan `/llm` adalah:
 | Perintah | Cara memilih hasil | Penggunaan |
 |------------------------|------------------------|------------------------|
 | `/hasil W02` | Submission terbaru pada minggu tersebut | Cepat mencari hasil per tugas |
-| `/llm 7` | Nomor tiket tertentu | Membuka submission yang spesifik |
+| `/llm 7` | Nomor tiket tertentu | Memproses dan membuka submission yang spesifik |
 
 ### 10. Periksa nilai resmi
 
@@ -171,7 +176,7 @@ Nilai resmi berbeda dari total rubrik LLM:
 | `/status` | Memeriksa registrasi dan repo | `/status` |
 | `/submit WXX` | Mengirim portfolio minggu 01–15 | `/submit W02` |
 | `/antrian` | Menampilkan lima tiket terbaru | `/antrian` |
-| `/llm TICKET` | Menampilkan hasil tiket milik pengguna | `/llm 7` |
+| `/llm TICKET` | Memproses dan menampilkan tiket milik pengguna | `/llm 7` |
 | `/hasil WXX` | Menampilkan hasil terbaru suatu minggu | `/hasil W02` |
 | `/skor AXX` | Menampilkan nilai resmi tugas | `/skor A02` |
 
@@ -181,7 +186,7 @@ Perintah tidak peka terhadap huruf besar/kecil pada kode minggu dan assessment, 
 
 | Status | Arti bagi mahasiswa | Tindakan |
 |------------------------|------------------------|------------------------|
-| `ANTRI` | Submission menunggu worker | Tunggu lalu periksa `/antrian` |
+| `ANTRI` | Submission siap diproses | Jalankan `/llm TICKET` |
 | `PROSES` | Worker sedang mengambil evidence atau meminta assessment | Tunggu hingga proses selesai |
 | `MENUNGGU PERSETUJUAN` | Hasil LLM tersedia tetapi belum disahkan | Baca umpan balik; tunggu assessor |
 | `TERCAPAI` | Hasil telah disetujui dengan rekomendasi tercapai | Periksa `/skor AXX` |
@@ -208,6 +213,7 @@ Bot: Status submission terbaru:
      Tiket 7 | W02 | MENUNGGU PERSETUJUAN | total 12
 
 Mahasiswa: /llm 7
+Bot: Permintaan LLM tiket 7 diterima. Memeriksa antrean...
 Bot: Hasil LLM tiket 7
      Minggu: W02
      Status: MENUNGGU PERSETUJUAN
@@ -248,7 +254,8 @@ Pastikan nomor berasal dari `/submit` atau `/antrian` milik akun yang sama. Untu
 
 ### Hasil belum tersedia
 
-Gunakan `/antrian` beberapa saat kemudian. Status `ANTRI` dan `PROSES` belum memiliki laporan final untuk ditampilkan.
+Jalankan `/llm TICKET` untuk tiket berstatus `ANTRI`. Jika tiket sedang
+`PROSES`, tunggu hingga proses selesai lalu periksa kembali.
 
 ## Privasi dan penggunaan yang bertanggung jawab
 

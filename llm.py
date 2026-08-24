@@ -1167,33 +1167,45 @@ class AssessmentWorker:
         completed = 0
         failed = 0
         for ticket in self.pending_tickets():
-            row: dict[str, str] | None = None
-            try:
-                row = self._claim_ticket(ticket)
-                if row is not None and self.process_ticket(row):
-                    completed += 1
-            except PermanentAssessmentError as exc:
-                failed += 1
-                LOGGER.error("Tiket %s gagal permanen: %s", ticket, exc)
-                self._write_error_report(ticket, str(exc))
+            ticket_completed, ticket_failed = self.process_ticket_number(ticket)
+            completed += ticket_completed
+            failed += ticket_failed
+        return completed, failed
+
+    def process_ticket_number(self, ticket: str) -> tuple[int, int]:
+        """Claim and process one ticket without touching other pending tickets."""
+        normalized_ticket = ticket.strip()
+        row: dict[str, str] | None = None
+        try:
+            row = self._claim_ticket(normalized_ticket)
+            if row is not None and self.process_ticket(row):
+                return 1, 0
+        except PermanentAssessmentError as exc:
+            LOGGER.error("Tiket %s gagal permanen: %s", normalized_ticket, exc)
+            self._write_error_report(normalized_ticket, str(exc))
+            self._update_ticket(
+                normalized_ticket,
+                status=FAILED_STATUS,
+                expected_status=PROCESSING_STATUS,
+                require_worker=True,
+            )
+            return 0, 1
+        except (RemoteRequestError, QueueDataError) as exc:
+            LOGGER.warning(
+                "Tiket %s belum diproses dan akan dicoba lagi: %s",
+                normalized_ticket,
+                exc,
+            )
+            if row is not None:
                 self._update_ticket(
-                    ticket,
-                    status=FAILED_STATUS,
+                    normalized_ticket,
+                    status=PENDING_STATUS,
                     expected_status=PROCESSING_STATUS,
                     require_worker=True,
+                    worker_id="",
                 )
-            except (RemoteRequestError, QueueDataError) as exc:
-                failed += 1
-                LOGGER.warning("Tiket %s belum diproses dan akan dicoba lagi: %s", ticket, exc)
-                if row is not None:
-                    self._update_ticket(
-                        ticket,
-                        status=PENDING_STATUS,
-                        expected_status=PROCESSING_STATUS,
-                        require_worker=True,
-                        worker_id="",
-                    )
-        return completed, failed
+            return 0, 1
+        return 0, 0
 
     def process_ticket(self, row: dict[str, str]) -> bool:
         ticket = row["tiket"].strip()

@@ -15,7 +15,8 @@ flowchart LR
     C --> A[(assessment.csv)]
     C --> Q[(antrian.csv)]
     C --> G[GitHub API dan GitHub Pages]
-    Q --> W[llm.py worker]
+    T --> W[llm.py worker]
+    Q --> W
     W --> G
     W --> I[assessment-inputs/*.txt]
     I --> L[llama.cpp server]
@@ -27,8 +28,9 @@ flowchart LR
     C --> T
 ```
 
-Bot dan worker adalah proses terpisah yang berkoordinasi melalui file CSV dan
-lock file. Bot tidak memanggil LLM secara langsung.
+`app.py` merakit bot dan worker dalam satu proses. Perintah `/llm TICKET`
+memanggil worker untuk satu tiket setelah `course_service.py` memverifikasi
+kepemilikannya. CLI `llm.py` tetap tersedia untuk pemrosesan batch/operator.
 
 ## Inventaris kode
 
@@ -54,13 +56,14 @@ Urutan startup:
 1. membaca `.env` tanpa menimpa environment proses;
 2. memvalidasi `TELEGRAM_BOT_TOKEN_KIPP`;
 3. menyelesaikan semua path relatif terhadap root aplikasi;
-4. membuat `ParticipantRegistry`;
-5. menjalankan Telegram long polling; dan
-6. menyimpan offset setelah sebuah update selesai ditangani.
+4. membuat `ParticipantRegistry` dan `AssessmentWorker`;
+5. memasang pemroses satu tiket pada `TelegramBot`;
+6. menjalankan Telegram long polling; dan
+7. menyimpan offset setelah sebuah update selesai ditangani.
 
 `Ctrl+C` menghasilkan shutdown normal melalui `KeyboardInterrupt`.
 
-### Worker LLM
+### CLI worker LLM opsional
 
 ```powershell
 python llm.py
@@ -89,18 +92,20 @@ Mode CLI yang tersedia:
 | `/submit WXX` | `submit` | GitHub Pages; baca/tulis `antrian.csv` |
 | `/antrian` | `queue_status` | `peserta.csv`, `antrian.csv` |
 | `/hasil WXX` | `result` | `peserta.csv`, `antrian.csv` |
-| `/llm TICKET` | `llm_result` | `peserta.csv`, `antrian.csv`, laporan Markdown |
+| `/llm TICKET` | `llm_result`, `process_ticket_number` | verifikasi pemilik; baca/tulis `antrian.csv`; panggil LLM; baca laporan |
 
 `/llm` mencocokkan Telegram ID ke NIM terlebih dahulu, kemudian mencari tiket
 dengan kombinasi nomor tiket dan NIM. Tiket yang tidak ada dan tiket milik
-pengguna lain menghasilkan pesan generik yang sama.
+pengguna lain menghasilkan pesan generik yang sama dan worker tidak dipanggil.
+Tiket yang sah dinormalisasi, diklaim secara atomik, diproses, lalu dibaca ulang
+agar respons Telegram memuat hasil terbaru.
 
 ## Workflow submission dan assessment
 
 ```{mermaid}
 stateDiagram-v2
     [*] --> ANTRI: /submit WXX
-    ANTRI --> PROSES: worker mengklaim tiket
+    ANTRI --> PROSES: /llm TICKET atau worker batch
     PROSES --> ANTRI: error jaringan/server
     PROSES --> GAGAL: data/respons tidak valid
     PROSES --> MENUNGGU: JSON tervalidasi

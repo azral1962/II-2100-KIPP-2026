@@ -11,7 +11,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 from course_service import (
     REQUIRED_README_FIRST_LINE,
@@ -31,7 +31,7 @@ START_MESSAGE = (
     "/submit WXX - kirim portfolio minggu W01 sampai W15\n"
     "/antrian - lihat status submission terbaru\n"
     "/hasil WXX - lihat ringkasan hasil dan saran perbaikan\n"
-    "/llm TICKET - lihat hasil LLM untuk tiket milik Anda\n"
+    "/llm TICKET - proses dan lihat hasil LLM tiket milik Anda\n"
     "/status - periksa registrasi dan validitas repo\n\n"
     "Contoh:\n"
     "/reg 18225001\n"
@@ -52,11 +52,13 @@ class TelegramBot:
         registry: ParticipantRegistry,
         poll_timeout: int = 30,
         offset_path: str | Path | None = None,
+        llm_processor: Callable[[str], tuple[int, int]] | None = None,
     ) -> None:
         self._base_url = f"https://api.telegram.org/bot{token}"
         self.registry = registry
         self.poll_timeout = poll_timeout
         self.offset_path = Path(offset_path) if offset_path is not None else None
+        self.llm_processor = llm_processor
 
     def run(self) -> None:
         offset = self._load_offset()
@@ -158,6 +160,16 @@ class TelegramBot:
                 self.send_message(chat_id, "Gunakan format: /llm TICKET, contoh: /llm 7")
                 return
             result = self.registry.llm_result(telegram_id, arguments[0])
+            if result.status != "llm_result" or self.llm_processor is None:
+                self.send_message(chat_id, result.message)
+                return
+            ticket = str(int(arguments[0]))
+            self.send_message(
+                chat_id,
+                f"Permintaan LLM tiket {ticket} diterima. Memeriksa antrean...",
+            )
+            self.llm_processor(ticket)
+            result = self.registry.llm_result(telegram_id, ticket)
             self.send_message(chat_id, result.message)
         elif command:
             self.send_message(

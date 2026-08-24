@@ -1,7 +1,7 @@
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import Mock, patch
+from unittest.mock import Mock, call, patch
 
 from course_service import (
     REQUIRED_README_FIRST_LINE,
@@ -161,14 +161,40 @@ class TelegramBotTest(unittest.TestCase):
         self.bot.send_message.assert_called_once_with(456, "HASIL")
 
     def test_llm_result_uses_sender_id_and_ticket(self) -> None:
-        self.registry.llm_result.return_value = RegistrationResult(
-            "llm_result", "HASIL LLM"
+        self.registry.llm_result.side_effect = (
+            RegistrationResult("llm_result", "STATUS AWAL"),
+            RegistrationResult("llm_result", "HASIL LLM"),
         )
+        processor = Mock(return_value=(1, 0))
+        self.bot.llm_processor = processor
 
         self.bot.handle_update(self.update("/llm 7", telegram_id=789))
 
+        self.registry.llm_result.assert_has_calls(
+            [call(789, "7"), call(789, "7")]
+        )
+        processor.assert_called_once_with("7")
+        self.bot.send_message.assert_has_calls(
+            [
+                call(456, "Permintaan LLM tiket 7 diterima. Memeriksa antrean..."),
+                call(456, "HASIL LLM"),
+            ]
+        )
+
+    def test_llm_does_not_process_ticket_not_owned_by_sender(self) -> None:
+        self.registry.llm_result.return_value = RegistrationResult(
+            "ticket_not_found", "Tiket tidak ditemukan pada submission milik Anda."
+        )
+        processor = Mock()
+        self.bot.llm_processor = processor
+
+        self.bot.handle_update(self.update("/llm 7", telegram_id=789))
+
+        processor.assert_not_called()
         self.registry.llm_result.assert_called_once_with(789, "7")
-        self.bot.send_message.assert_called_once_with(456, "HASIL LLM")
+        self.bot.send_message.assert_called_once_with(
+            456, "Tiket tidak ditemukan pada submission milik Anda."
+        )
 
     def test_llm_result_requires_exactly_one_ticket(self) -> None:
         self.bot.handle_update(self.update("/llm"))

@@ -25,8 +25,8 @@ untuk operator/pengembang. Render dengan `quarto render KIPP-2026 --to html`.
 - `/antrian` menampilkan lima submission terbaru beserta statusnya.
 - `/hasil WXX` menampilkan total rubrik, ringkasan, dan prioritas perbaikan dari
   hasil assessment terbaru untuk minggu tersebut.
-- `/llm TICKET` menampilkan hasil LLM untuk nomor tiket tertentu. Bot hanya
-  menampilkan tiket yang dimiliki mahasiswa yang sedang login.
+- `/llm TICKET` memproses tiket tertentu dengan LLM lalu menampilkan hasilnya.
+  Bot hanya menerima tiket yang dimiliki mahasiswa yang sedang login.
 - Registrasi tidak dapat mengambil alih NIM yang sudah terhubung atau memakai
   satu akun Telegram untuk dua NIM.
 
@@ -78,12 +78,13 @@ Jangan simpan token bot di source code atau commit Git.
 
 Tekan `Ctrl+C` pada terminal untuk menghentikan bot dengan aman.
 
-## Menjalankan worker assessment LLM
+## Pemrosesan assessment LLM
 
-`llm.py` membaca setiap baris `antrian.csv` yang berstatus `ANTRI`, mengambil
-teks halaman portfolio dari kolom `url`, memilih prompt minggu yang sesuai dari
-`llm-assessment-prompts.md`, lalu mengirim assessment ke endpoint chat
-completions milik llama.cpp. Konfigurasi default mengarah ke
+`app.py` merakit worker dari `llm.py`. Ketika mahasiswa menjalankan
+`/llm TICKET`, bot lebih dahulu memverifikasi kepemilikan tiket, lalu hanya
+memproses baris `antrian.csv` tersebut. Worker mengambil teks halaman portfolio,
+memilih prompt minggu dari `llm-assessment-prompts.md`, dan mengirim assessment
+ke endpoint chat completions milik llama.cpp. Konfigurasi default mengarah ke
 `http://100.110.236.59:8088`.
 
 Tambahkan konfigurasi berikut ke `.env` bila perlu:
@@ -109,7 +110,8 @@ Model reasoning seperti Qwen dapat memakai seluruh `LLM_MAX_TOKENS` untuk
 `reasoning_content` dan berhenti sebelum menghasilkan jawaban final. Thinking
 dapat diaktifkan kembali dengan nilai `true` bila token output dinaikkan.
 
-Jalankan worker terus-menerus pada terminal terpisah:
+Tidak diperlukan proses worker terpisah untuk penggunaan `/llm`. CLI lama tetap
+tersedia bagi operator yang ingin memproses seluruh antrean secara batch:
 
 ```powershell
 python llm.py
