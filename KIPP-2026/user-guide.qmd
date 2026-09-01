@@ -13,6 +13,24 @@ Student Course Services membantu mahasiswa untuk:
 
 Semua perintah dikirim sebagai pesan biasa kepada bot Telegram mata kuliah.
 
+## Ringkasan alur
+
+Gunakan urutan berikut untuk menyelesaikan satu submission dari awal sampai
+nilai resmi tersedia:
+
+1.  `/reg NIM` untuk menghubungkan akun Telegram;
+2.  `/repo URL` untuk mendaftarkan repo portfolio;
+3.  publikasikan `portfolio/week-XX.html` melalui GitHub Pages;
+4.  `/submit WXX` untuk membuat tiket;
+5.  `/llm TICKET` untuk memproses tiket dan membaca umpan balik;
+6.  `/antrian` atau `/hasil WXX` untuk memantau hasil; dan
+7.  `/skor AXX` untuk melihat nilai resmi setelah hasil disetujui.
+
+::: callout-important
+Simpan nomor tiket yang diberikan oleh `/submit`. Nomor tersebut diperlukan
+oleh `/llm` dan memudahkan pelacakan jika Anda perlu menghubungi instruktur.
+:::
+
 ## Sebelum mulai
 
 Pastikan Anda memiliki:
@@ -88,7 +106,14 @@ https://pemilik.github.io/repo/portfolio/week-15.html
 
 Untuk repo user-site bernama `pemilik.github.io`, bagian `/repo` tidak dipakai.
 
-Pastikan halaman sudah dapat dibuka secara publik sebelum melakukan submission. Isi halaman harus menyediakan evidence tekstual yang cukup; tautan atau lampiran yang tidak dapat dibaca worker akan dianggap tidak terverifikasi.
+Pastikan halaman sudah dapat dibuka secara publik tanpa login sebelum melakukan
+submission. Pada tahap `/submit`, bot hanya memeriksa apakah URL halaman dapat
+diakses. Isi dan kecukupan evidence baru dinilai saat tiket diproses dengan
+`/llm TICKET`.
+
+Isi halaman harus menyediakan evidence tekstual yang cukup. Tautan, gambar,
+video, atau lampiran tanpa penjelasan tekstual yang dapat dibaca worker dapat
+dianggap tidak terverifikasi.
 
 ### 6. Kirim submission
 
@@ -152,6 +177,9 @@ Perbedaan `/hasil` dan `/llm` adalah:
 | `/hasil W02` | Submission terbaru pada minggu tersebut | Cepat mencari hasil per tugas |
 | `/llm 7` | Nomor tiket tertentu | Memproses dan membuka submission yang spesifik |
 
+`/hasil` tidak memulai pemrosesan LLM. Jika hasil belum tersedia dan tiket masih
+berstatus `ANTRI`, jalankan `/llm TICKET` terlebih dahulu.
+
 ### 10. Periksa nilai resmi
 
 Gunakan kode assessment `A01` sampai `A15`:
@@ -162,9 +190,24 @@ Gunakan kode assessment `A01` sampai `A15`:
 
 Nilai resmi berbeda dari total rubrik LLM:
 
-- `/llm` dan `/hasil` menampilkan rekomendasi dan total rubrik LLM `5–20`;
+- `/llm` dan `/hasil` menampilkan rekomendasi dan total rubrik LLM `5–20` jika
+  evidence dapat dinilai;
 - `/skor` membaca nilai resmi `A01–A15` dari data assessment; dan
 - nilai kosong berarti tugas tersebut belum memiliki nilai resmi.
+
+Setelah assessor menyetujui hasil, total rubrik dipetakan ke nilai resmi sebagai
+berikut:
+
+| Total rubrik LLM | Nilai resmi |
+|-----------------:|------------:|
+| 5–8 | 1 |
+| 9–12 | 2 |
+| 13–16 | 3 |
+| 17–20 | 4 |
+
+Keputusan `PERLU REVISI` membatasi nilai resmi maksimal `2`.
+`BELUM DAPAT DINILAI` tidak menghasilkan nilai baru dan tidak menghapus nilai
+lama yang sudah ada.
 
 ## Ringkasan perintah
 
@@ -181,6 +224,8 @@ Nilai resmi berbeda dari total rubrik LLM:
 | `/skor AXX` | Menampilkan nilai resmi tugas | `/skor A02` |
 
 Perintah tidak peka terhadap huruf besar/kecil pada kode minggu dan assessment, tetapi format nomornya harus dua digit.
+Kirim satu perintah beserta argumen yang diminta dalam satu pesan; argumen
+tambahan akan ditolak oleh bot.
 
 ## Arti status tiket
 
@@ -256,6 +301,17 @@ Pastikan nomor berasal dari `/submit` atau `/antrian` milik akun yang sama. Untu
 
 Jalankan `/llm TICKET` untuk tiket berstatus `ANTRI`. Jika tiket sedang
 `PROSES`, tunggu hingga proses selesai lalu periksa kembali.
+
+Jika `/llm` selesai tetapi tiket kembali menjadi `ANTRI`, layanan LLM atau
+halaman portfolio kemungkinan sedang tidak tersedia. Pastikan halaman masih
+dapat dibuka, lalu ulangi `/llm TICKET`. Jika tiket menjadi `GAGAL`, hubungi
+instruktur dan sertakan nomor tiket.
+
+### Hasil sudah ada tetapi nilai masih kosong
+
+Status `MENUNGGU PERSETUJUAN` berarti umpan balik LLM sudah tersedia tetapi
+belum disahkan oleh assessor. Anda dapat membaca hasil dengan `/llm TICKET`
+atau `/hasil WXX`, tetapi `/skor AXX` baru berubah setelah persetujuan.
 
 ## Privasi dan penggunaan yang bertanggung jawab
 
