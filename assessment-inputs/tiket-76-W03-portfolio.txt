@@ -1,0 +1,132 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 76
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://zunpen.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks dan relationship state
+Potongan transcript
+Analisis listening, boundary, dan repair
+Relationship outcome dan evidence
+Self-assessment
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Konteks dan relationship state
+“Aku” dan “R” adalah teman satu fakultas dan tinggal di kosan yang sama. Kami berencana untuk berangkat bersama ke acara kegiatan ospek jurusan (osjur). Namun, terdapat perbedaan prioritas jam berangkat: aku ingin berangkat lebih awal agar memiliki waktu untuk mengecek dan melengkapi spesifikasi (spek) osjur di lokasi, sedangkan R kesulitan untuk bangun terlalu pagi.
+State sebelum percakapan: Ketegangan berada pada skala 6/10 karena kekhawatiran terlambat versus rasa enggan berangkat terlalu pagi. Objective utama percakapan ini adalah mencari titik tengah (kompromi) tanpa menimbulkan perselisihan.
+Potongan transcript
+Aku: “Aku ingin membicarakan jam berangkat ospek jurusan besok. Aku khawatir kita terburu-buru dan tidak sempat mengecek kelengkapan spek osjur di lokasi.”
+R: “Aku susah kalau harus bangun terlalu pagi. Kalau berangkat sepagi yang kamu mau, aku bakal lemas dan tidak fokus seharian.”
+Aku: “Jadi kamu butuh waktu istirahat yang cukup agar siap menjalani ospek, tapi kamu paham kan kalau kita juga intuition butuh waktu mengecek spek?”
+R: “Iya, paham kok. Aku cuma butuh kompromi jamnya saja.”
+Aku: “Bagaimana kalau kita sepakat berangkat 45 menit sebelum acara dimulai? Kamu punya waktu tambahan untuk siap-siap, dan kita masih punya waktu melengkapi spek di lokasi.”
+R: “Oke, sepakat. 45 menit sebelum acara mulai aku sudah siap di depan kosan.”
+Analisis listening, boundary, dan repair
+Percakapan diawali dengan penyampaian kekhawatiran secara obyektif tanpa menyalahkan R. Melalui proses paraphrase, aku mengonfirmasi kebutuhan R yang membutuhkan waktu istirahat agar tetap fokus selama ospek.
+Boundary & Request: Kebutuhan bersama untuk tiba lebih awal demi melengkapi spek diselaraskan dengan batas toleransi waktu bangun R. Pengajuan solusi berangkat 45 menit sebelum acara menjadi titik tengah kompromi yang mengakomodasi kebutuhan kedua belah pihak.
+Relationship outcome dan evidence
+Evidence: Kesepakatan verbal secara langsung (face-to-face) di kosan.
+Hasil Tindakan: Berhasil berangkat sesuai kesepakatan sehingga kelengkapan spek osjur dapat disiapkan di lokasi tanpa rasa terburu-buru.
+Skor Ketegangan: Berhasil turun secara signifikan dari 6/10 menjadi 1/10.
+Percakapan dilakukan secara langsung tanpa bantuan AI. Refleksi ini ditulis secara mandiri setelah interaksi selesai.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Mengakui kebutuhan istirahat R dan kebutuhan persiapan pribadi
+Objective & State
+3
+Fokus mencari titik tengah dari ketegangan awal 6/10
+Repertoire, Language & AI
+3
+Menggunakan klarifikasi, paraphrase, request kompromi, dan refleksi mandiri
+Response & Adaptation
+3
+Menyesuaikan waktu berangkat dari “sangat pagi” menjadi “45 menit sebelum acara”
+Agreement, Action & Relationship
+4
+Kesepakatan verbal jelas, terlaksana di hari-H, dan ketegangan turun ke 1/10
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Muhammad Rizqi Azhar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://zunpen.github.io/kipp-students/index.html
+- https://zunpen.github.io/kipp-students/assets/logo.png
+- https://zunpen.github.io/kipp-students/course/index.html
+- https://zunpen.github.io/kipp-students/portfolio/index.html
+- https://zunpen.github.io/kipp-students/examples/index.html
+- https://zunpen.github.io/kipp-students/lk/index.html
+- https://zunpen.github.io/kipp-students/slides.html
+- https://zunpen.github.io/kipp-students/slides-pdf/index.html
+- https://zunpen.github.io/kipp-students/assessment/index.html
+- https://zunpen.github.io/kipp-students/about.html
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html
+- https://zunpen.github.io/kipp-students/portfolio/week-01.html
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html
+- https://zunpen.github.io/kipp-students/portfolio/week-06.html
+- https://zunpen.github.io/kipp-students/portfolio/week-07.html
+- https://zunpen.github.io/kipp-students/portfolio/week-08.html
+- https://zunpen.github.io/kipp-students/portfolio/week-09.html
+- https://zunpen.github.io/kipp-students/portfolio/week-10.html
+- https://zunpen.github.io/kipp-students/portfolio/week-11.html
+- https://zunpen.github.io/kipp-students/portfolio/week-12.html
+- https://zunpen.github.io/kipp-students/portfolio/week-13.html
+- https://zunpen.github.io/kipp-students/portfolio/week-14.html
+- https://zunpen.github.io/kipp-students/portfolio/week-15.html
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html#konteks-dan-relationship-state
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html#potongan-transcript
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html#analisis-listening-boundary-dan-repair
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html#relationship-outcome-dan-evidence
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

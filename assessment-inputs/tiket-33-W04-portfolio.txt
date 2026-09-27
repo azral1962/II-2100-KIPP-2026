@@ -1,0 +1,125 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 33
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Pesan Inti & Konteks Kasus
+Bagian B: Penerjemahan ke dalam 5 Target Audiens
+Bagian C: Analisis Perubahan Bahasa & Repertoar
+Bagian D: Bukti Umpan Balik (Feedback Understanding)
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+Tanggal Pengerjaan: 22 September 2026
+Bagian A: Pesan Inti & Konteks Kasus
+Pesan Utama (Core Meaning):
+Pengerjaan/perilisan modul aplikasi ditunda selama 2 hari karena ditemukannya bug kritis pada integrasi data yang dapat mengganggu kestabilan sistem jika dipaksakan rilis sesuai jadwal.
+Tujuan Komunikasi:
+Mengomunikasikan penundaan jadwal secara transparan, menjaga kepercayaan target lawan bicara, dan memastikan semua pihak memahami alasannya tanpa memicu kepanikan atau kesan tidak profesional.
+Bagian B: Penerjemahan ke dalam 5 Target Audiens
+Target Audiens
+Versi Bahasa & Pesan yang Disampaikan
+1. Sahabat / Teman Dekat (Friend)
+“Duh guys, maaf banget ya, fitur yang ini terpaksa ditahan dulu 2 hari. Ternyata pas tak cek masih ada bug lumayan parah di alur datanya. Daripada error pas dipakai, mending kita rapihin dulu sebentar deh.”
+2. Rekan Teknis / Tim Proyek (Technical Peer)
+“Guys, rilis modul X kita postponed 2 hari ya. Ada bug kritis di layer integrasi API yang bikin sync data async-nya failed. Kita butuh waktu buat patching dan running unit test ulang biar ga merembet ke prod.”
+3. Dosen Pembimbing / Atasan (Manager)
+“Selamat pagi Pak/Bu, izin menginformasikan bahwa jadwal penyelesaian modul proyek ada penyesuaian mundur 2 hari. Tim menemukan potensi kendala teknis pada validasi data yang perlu disempurnakan demi menjaga kualitas dan keamanan sistem saat diuji coba nanti.”
+4. Pengguna / Klien (Customer)
+“Halo Kak! Untuk memastikan pengalaman penggunaan aplikasi yang lebih stabil dan nyaman, peluncuran fitur terbaru terpaksa kami undur 2 hari ke depan ya. Terima kasih banyak atas kesabaran dan pengertiannya!”
+5. Publik / Netizen (Public)
+“Pengumuman: Kami sedang melakukan peningkatan sistem secara berkala demi menjaga kenyamanan Anda. Pembaruan fitur terbaru akan tersedia dalam 2 hari ke depan. Terima kasih atas dukungan dan kepercayaan Anda.”
+Bagian C: Analisis Perubahan Bahasa & Repertoar
+Sahabat (Friend): Menggunakan bahasa santai/gaul, penuh rasa empati, dan tidak kaku agar tidak merusak suasana pertemanan.
+Technical Peer: Menggunakan istilah teknis (API, bug, async, patching, prod) agar penyampaian pesan efisien, presisi, dan langsung ke inti permasalahan teknis.
+Manager / Dosen: Menggunakan bahasa formal, berfokus pada kualitas hasil akhir, serta menggarisbawahi rasa tanggung jawab dan mitigasi risiko.
+Customer: Mengutamakan pendekatan pelayanan yang ramah, berfokus pada manfaat kenyamanan bagi pengguna, dan menghindari istilah teknis yang membingungkan.
+Public: Menggunakan bahasa pengumuman resmi yang singkat, lugas, dan terstruktur untuk menjaga citra serta reputasi tim/organisasi.
+Bagian D: Bukti Umpan Balik (Feedback Understanding)
+Target Audiens yang Dihubungi: Rekan Teknis (Inisial M.R.).
+Bentuk Komunikasi: Tanggapan langsung di grup diskusi proyek setelah pesan teknis disampaikan.
+Respon / Umpan Balik:
+“Aman Win, paham. Mending di-patch dulu API-nya daripada jebol pas demo. Nanti malam kita bantu re-check unit test-nya ya.”
+Kesimpulan Umpan Balik:
+Lawan bicara memahami pesan teknis dengan tepat, mengetahui alasan penundaan tanpa salah paham, dan langsung memberikan dukungan solusi yang relevan.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-a-pesan-inti-konteks-kasus
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-b-penerjemahan-ke-dalam-5-target-audiens
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-c-analisis-perubahan-bahasa-repertoar
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-d-bukti-umpan-balik-feedback-understanding
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

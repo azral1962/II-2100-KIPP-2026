@@ -1,0 +1,168 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 93
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+CatatanIdentitas Mahasiswa
+Nama: Fakhri Athallah Dwi Andeo
+Fokus: Refleksi komunikasi intrapersonal, membedakan fakta (fact) dari cerita (story), serta mengelola reaksi emosional terhadap umpan balik teknis.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode
+Event: Reviewer/asisten menandai pull request (PR) modul backend dengan status Changes Requested dan komentar: “Struktur handler belum memisahkan business logic, query basis data berulang di dalam perulangan (N+1 query), dan belum ada validasi error yang spesifik.”
+Lapisan
+Catatan Intra-Self
+Fact
+PR berstatus Changes Requested; terdapat 3 catatan teknis spesifik; repositori belum di-merge; tidak ada pernyataan personal tentang kapasitas diri.
+Initial story
+“Reviewer menganggap kode saya buruk, meragukan pemahaman backend saya, dan saya hanya menjadi beban yang memperlambat tim.”
+Emotion / body signal
+Rahang mengeras, bahu tegang, dada sesak (cemas 7/10, frustrasi 8/10), dorongan spontan untuk langsung membalas komentar dengan alasan pembelaan diri.
+Reactive character
+The Defender: Ingin segera menulis sanggahan bahwa waktu pengerjaan modul terlalu sempit dan fungsionalitas dasar sebenarnya sudah berjalan normal.
+Desired character
+Reflective Engineer: Memperlakukan kode sebagai artefak teknis terpisah dari harga diri, fokus pada optimasi sistem, dan membedah umpan balik secara terstruktur.
+Analisis Pemisahan:
+Initial story melompat jauh melampaui data yang ada. Tiga catatan teknis reviewer adalah observasi performa kode (fakta artefak), bukan vonis atas kompetensi atau nilai diri secara menyeluruh (story).
+Alternative narratives
+Quality threshold & Best Practice: Kode yang berjalan (working code) baru tahap awal; masukan reviewer merupakan standar rekayasa perangkat lunak agar sistem tidak mengalami bottleneck saat volume data membesar.
+Mentorship in disguise: Catatan spesifik pada baris kode menunjukkan reviewer membaca implementasi secara cermat dan memberikan petunjuk area optimasi nyata sebelum sistem masuk ke tahap produksi.
+Iterative delivery: Menulis draf awal yang belum optimal adalah bagian wajar dari siklus pengembangan perangkat lunak; perbaikan ini adalah fase refaktor yang terjadwal, bukan kegagalan personal.
+Narrative terpilih: Narasi pertama dan kedua paling konstruktif karena berbasis fakta teknis, memvalidasi proses belajar, dan langsung mengarahkan pada tindakan pemecahan masalah tanpa menyangkal rasa kecewa awal.
+Internal conversation dan agreement
+The Defender: “Komentar reviewer terlalu perfeksionis. Balas sekarang dan jelaskan bahwa ini baru draf awal dan waktu pengerjaan terbagi dengan tugas lain.”
+Reflective Engineer: “Tunggu dulu. Apakah klaim N+1 query itu fakta? Mari kita cek log eksekusi query-nya sebelum merespons dengan emosi.”
+The Defender: “Tapi rasanya memalukan jika anggota tim lain melihat PR ini diberi label Changes Requested.”
+Reflective Engineer: “Rasa malu itu reaksi wajar, tapi membela diri tidak memperbaiki algoritma. Perbaiki kuerinya, pisahkan layernya, dan buktikan dengan hasil uji efisiensi.”
+Fakhri (Self/Decision Maker): “Ambil jeda 15 menit. Tutup tab peramban, minum air, lalu buka kembali untuk memverifikasi baris kode yang ditandai. Tidak ada balasan yang dikirim sebelum rencana perbaikan teknis selesai ditulis.”
+Internal agreement: Menunda respons daring selama 30 menit, menulis rencana refaktor menjadi tiga tugas terukur di catatan lokal, lalu mengirimkan konfirmasi teknis yang profesional di utas PR sebelum pukul 15.00.
+Evidence tindakan
+Jeda regulasi diri: Berhenti dari depan layar selama 15 menit untuk menetralkan ketegangan fisik (denyut nadi kembali normal).
+Pesan konfirmasi profesional di PR:
+> “Terima kasih atas catatan optimasinya. Saya mengonfirmasi adanya redundansi query pada loop dan sedang memindahkan agregasi data ke tingkat database query serta memisahkan service layer. Draf revisi akan saya push sebelum pukul 17.00.”
+Commit refaktor: Mengunggah pembaruan git dengan commit message: refactor(backend): resolve N+1 query issue and decouple service logic.
+Hasil respons balik: Reviewer menyetujui pembaruan (approved) dengan komentar singkat: “Jauh lebih rapi dan query time turun 40%.”
+Feedback, AI, dan refleksi
+Penggunaan AI: Menggunakan untuk menelaah teks draf balasan klarifikasi guna memastikan kalimat tidak bernada defensif atau memuat alasan keterbatasan waktu.
+Tinjauan rekan: Rekan satu tim mencatat bahwa respons yang tenang dan langsung berfokus pada solusi teknis membuat diskusi tim tetap objektif tanpa friksi personal.
+Next practice: Menerapkan The 10-Minute Rule setiap kali menerima notifikasi review atau revisi kritis: catat fakta di dokumen lokal terlebih dahulu sebelum membuka kolom balasan.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Dua karakter internal (The Defender vs Reflective Engineer) berhasil diidentifikasi tanpa mereduksi identitas diri.
+Objective & State
+4
+Terjadi pergeseran terukur dari reaksi defensif (7-8/10) menuju tindakan solutif berbasis fakta teknis.
+Repertoire, Language & AI
+3
+Mempraktikkan jeda waktu (pause), reframing kognitif, dan validasi bahasa tanpa ketergantungan berlebih pada AI.
+Response & Adaptation
+4
+Masukan reviewer diterima secara fungsional untuk mengoptimalkan artefak kode.
+Agreement, Action & Relationship
+4
+Kesepakatan internal ditepati dan komunikasi di repositori menjaga kolaborasi kerja tim tetap positif.
+Total: 18/20 — Kompeten. (Belum mencapai skor 4 di semua konponen karena belum menganalisis secara mendalam pemicu historis mengapa evaluasi teknis kerap memicu respons rasa malu internal).
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#episode
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

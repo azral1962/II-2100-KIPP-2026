@@ -1,0 +1,140 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 77
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://zunpen.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+CatatanStatus Dokumen
+Dokumen ini disusun sebagai portofolio pengerjaan tugas Minggu 4.
+Core meaning
+Fakta yang tidak boleh berubah: Edunex mengalami overload/down saat UTS berlangsung sehingga mahasiswa mengalami kendala akses/unggah. Pengguna harus melapor ke pengawas ujian, yang kemudian meneruskan masalah ini ke tim pengelola/admin Edunex. Waktu pengerjaan tidak ditambah, namun tenggat pengiriman/submit diperpanjang.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Edunex lagi down nih gara-gara overload UTS. Langsung kabarin pengawas ujianmu aja biar dilaporin ke admin Edunex. Tenang, waktu pengerjaan emang ga nambah tapi waktu submit-nya diperpanjang kok!”
+Ringkas, santai, menenangkan, dan memberikan langkah praktis langsung.
+Technical peer
+“High-traffic spike saat UTS menyebabkan server Edunex overload/unresponsive. User diminta escalate ticket/laporan via pengawas untuk dilanjutkan ke sysadmin Edunex. Submission deadline diperpanjang tanpa mengubah durasi pengerjaan.”
+Menggunakan terminologi teknis (traffic spike, sysadmin, submission deadline) untuk menjelaskan akar masalah dan mitigasi.
+Manager
+“Overload server Edunex saat UTS berdampak pada kelancaran pengumpulan jawaban mahasiswa. Prosedur mitigasi: pengawas merekap laporan kendala ke tim IT/admin Edunex dan memperpanjang batas waktu submit mahasiswa.”
+Berfokus pada dampak operasional, mekanisme penanganan berjenjang, dan solusi manajemen risiko.
+Customer/student user
+“Jika Anda mengalami kendala akses Edunex akibat server overload saat UTS, harap segera laporkan ke pengawas ujian Anda. Pengawas akan meneruskan laporan ke admin Edunex. Waktu pengerjaan tidak bertambah, namun tenggat submit diperpanjang.”
+Jelas, berfokus pada aksi yang harus dilakukan mahasiswa tanpa beban istilah teknis internal.
+Public
+“Layanan portal Edunex sempat mengalami kendala akses akibat peningkatan trafik saat periode UTS. Penanganan dilakukan bersama pengawas dan tim pengelola Edunex dengan perpanjangan batas pengumpulan jawaban.”
+Bersifat informatif umum, menjaga reputasi, dan mengarahkan pada solusi tanpa membagikan log internal.
+Evidence understanding
+Uji coba dilakukan terhadap versi Customer/student user kepada salah satu mahasiswa yang sedang mengikuti UTS. Target memahami bahwa ia harus melapor ke pengawas jika Edunex bermasalah. Namun, target bertanya: “Apakah durasi jam pengerjaan soal saya bertambah jika Edunex down?”
+Diberikan penjelasan tambahan: “Waktu pengerjaan soal tidak ditambah, namun waktu/tenggat submit diperpanjang.” Adaptasi ini memperjelas kondisi dan batasan tanpa mengubah core meaning awal.
+Analisis dan batas
+Variasi bahasa (repertoire) disesuaikan berdasarkan audiens: mulai dari pesan kasual antarteman, penjelasan teknis antar-peer, penyampaian bernuansa manajemen, panduan operasional mahasiswa, hingga pengumuman publik.
+AI digunakan untuk memeriksa apakah kelima versi tetap mempertahankan fakta kunci (Edunex down akibat overload, situasi UTS, alur laporan via pengawas ke admin, serta ketegasan perpanjangan waktu submit bukan durasi pengerjaan). Usulan AI yang sempat menyarankan klausa “seluruh ujian diulang” ditolak karena tidak sesuai dengan fakta dan kebijakan instansi.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Lima target audiens dibedakan dengan gaya bahasa dan kebutuhan informasi yang relevan
+Objective & State
+3
+Core facts dan aksi yang perlu diambil konsisten di seluruh versi
+Repertoire, Language & AI
+4
+Menggunakan lima register bahasa berbeda, disertai rasional dan filter AI
+Response & Adaptation
+3
+Feedback mahasiswa direspons dengan klarifikasi pemisahan waktu pengerjaan vs waktu submit
+Agreement, Action & Relationship
+3
+Instruksi pelaporan ke pengawas dan perpanjangan batas submit disampaikan eksplisit
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Relationship Conversation
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Portfolio KIPP-2 · Muhammad Rizqi Azhar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://zunpen.github.io/kipp-students/index.html
+- https://zunpen.github.io/kipp-students/assets/logo.png
+- https://zunpen.github.io/kipp-students/course/index.html
+- https://zunpen.github.io/kipp-students/portfolio/index.html
+- https://zunpen.github.io/kipp-students/examples/index.html
+- https://zunpen.github.io/kipp-students/lk/index.html
+- https://zunpen.github.io/kipp-students/slides.html
+- https://zunpen.github.io/kipp-students/slides-pdf/index.html
+- https://zunpen.github.io/kipp-students/assessment/index.html
+- https://zunpen.github.io/kipp-students/about.html
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html
+- https://zunpen.github.io/kipp-students/portfolio/week-01.html
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html
+- https://zunpen.github.io/kipp-students/portfolio/week-06.html
+- https://zunpen.github.io/kipp-students/portfolio/week-07.html
+- https://zunpen.github.io/kipp-students/portfolio/week-08.html
+- https://zunpen.github.io/kipp-students/portfolio/week-09.html
+- https://zunpen.github.io/kipp-students/portfolio/week-10.html
+- https://zunpen.github.io/kipp-students/portfolio/week-11.html
+- https://zunpen.github.io/kipp-students/portfolio/week-12.html
+- https://zunpen.github.io/kipp-students/portfolio/week-13.html
+- https://zunpen.github.io/kipp-students/portfolio/week-14.html
+- https://zunpen.github.io/kipp-students/portfolio/week-15.html
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

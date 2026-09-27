@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+This is a Quarto book. Hasilkan buku Quarto dengan menulis konten di file `.qmd` dan mengatur buku di file `_quarto.yml`.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.

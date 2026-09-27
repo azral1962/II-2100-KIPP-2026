@@ -1,0 +1,234 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 110
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self - analytical learner
+Diri sendiri ketika menghadapi masalah, informasi, atau sesuatu yang belum saya pahami
+Memahami masalah dengan melihat bagian-bagiannya, mencari tahu penyebabnya, lalu menentukan apa yang perlu dilakukan
+Menganalisis masalah, membandingkan informasi, mencari hubungan sebab akibat, dan bertanya pada diri sendiri. “Masalahnya sebenarnya ada di bagian mana?”
+Terlalu lama menganalisis sampai susah mulai bertindak. Latihan: tentukan inti masalah dan satu hal yang bisa dilakukan setelah menganalisis
+Family - anak
+Orang tua dan anggota keluarga yang memiliki hubungan dekat dengan saya
+Menyampaikan kondisi, kebutuhan, atau pendapat dengan jelas tanpa membuat hubungan dengan keluarga menjadi buruk
+Percakapan langsung, menjelaskan alasan, mendengarkan, dan memberi konteks sebelum menyampaikan pendapat
+Terlalu defensif ketika pendapat berbeda. Latihan: dengarkan alasan mereka dulu sebelum menjelaskan sudut pandang sendiri
+Friends - sahabat
+Sahabat yang merasa nyaman untuk bercerita, curhat, atau mengeluhkan masalah kepada saya
+Menjadi tempat yang nyaman untuk bercerita dan membuat teman merasa didengar tanpa selalu merasa harus memberikan solusi
+Active listening, mendengarkan sampai selesai, bertanya, dan memastikan apa yang sebenarnya dibutuhkan teman. “Kamu mau aku dengerin aja atau mau dibantu cari solusi?”
+Terlalu cepat memberikan solusi atau merasa sudah tahu apa yang dibutuhkan teman. Latihan: dengarkan sampai selesai dan tanyakan kebutuhan teman sebelum memberi tanggapan
+Work - programmer & game production
+Lima rekan satu tim dalam lomba game development Ifest Unpad
+Sebagai programmer, mengimplementasikan mekanik game serta asset visual dan audio. Sebagai game production, memantau progress anggota dan memastikan pekerjaan berjalan sesuai target dan waktu
+Technical briefing, progress check, pembagian task, dan menjelaskan kebutuhan teknis dengan bahasa yang mudah dipahami anggota dengan bidang berbeda
+Terlalu banyak menggunakan istilah teknis ketika berkomunikasi dengan visual artist. Latihan: jelaskan kebutuhan dengan contoh, konteks penggunaan, resolusi, state UI, dan bagian asset yang perlu dipisah menjadi beberapa layer
+Community - wakil ketua divisi entrepreneurship
+Ketua dan anggota divisi entrepreneurship yang bekerja bersama dalam menjalankan program kerja
+Membantu ketua mengoordinasikan anggota, memastikan pekerjaan divisi berjalan, dan membantu ketika ada masalah dalam program kerja
+Koordinasi, pembagian tugas, check-in progress, diskusi, dan menyampaikan keputusan. “Bagian mana yang masih menjadi kendala?” atau “Perlu kita ubah pembagian tugasnya?”
+Terlalu cepat mengambil alih pekerjaan ketika anggota mengalami kendala. Latihan: bantu mencari solusi dan kasih arahan tanpa langsung mengerjakan semuanya sendiri
+Konteks performance
+Tanggal dan setting: Dari 24 Agustus hingga 5 September 2026, mengikuti lomba game development Ifest Unpad.
+Persons dan relationship: Saya dan 5 rekan satu tim. Hubungan kami adalah teman yang memutuskan untuk mengikuti lomba game development karena kami memiliki passion pada bidang tersebut dan ingin mengasah keterampilan yang kami miliki.
+Objective dan initial state: Sebagai programmer, objective saya adalah mengimplementasikan mekanik game berdasarkan rancangan yang telah dibuat oleh game designer dan mengimplementasikan asset visual atau audio yang telah dibuat oleh visual artist atau audio artist. Selain itu, sebagai game production, saya bertanggung jawab memantau progress pengerjaan setiap anggota dan memastikan pekerjaan tim tetap berjalan sesuai target dan waktu yang tersedia. Pada awal lomba, pembagian tugas sudah ditentukan, tetapi proses pengerjaan masih perlu dipantau dan disesuaikan karena setiap bagian game saling bergantung satu sama lain.
+Evidence
+Percakapan WhatsApp dengan nama anggota diganti menjadi inisial:
+[9/2, 01:39] Saya: some notes for A
+pls update sesegera mungkin /(ㄒoㄒ)/
+minta setiap asset bomb versi highlightnya (ini utk kalo player hover bomb tersebut)
+[9/2, 01:39] Saya: if you feel overwhelm on opening the group you can ask anything on my dm
+[9/2, 07:39] A: Nuuh [9/2, 07:39] A: 😭😭😭 gw kemaren set up pameran [9/2, 07:39] A: Ampe malem banget [9/2, 07:39] A: Gw pulang udah ga kuat [9/2, 07:40] A: Aman aja
+[9/2, 07:57] Saya: Okiee
+[9/2, 11:35] Saya: Semangat ngebut
+[9/2, 11:36] Saya: For now prioritasin bom sama enemynya dulu
+[9/2, 11:54] A: Enemy nya [9/2, 11:54] A: Ada [9/2, 11:54] A: Kayak spesifik ga
+[9/2, 12:33] Saya: Enemynya white chocolate, dark chocolate, sama milk chocolate. Desainnya kayak monster (tapi imut) bisa ambil referensi dari cookie run
+[9/2, 12:34] Saya: Terus animasinya idle sama pas mati
+[9/2, 13:40] Saya: Sama buat bom powdered sugar, gummy worms, sour candy, jelly bean
+[9/2, 13:40] Saya: Itu ada efek ledakannya juga
+[9/2, 13:40] Saya: Buat sizenya bentar aku tanya ke Kenzo dulu
+[9/2, 13:40] Saya: Size buat character Spritenya bebas, size buat main menu 1920x1020
+[9/2, 13:48] Saya: Oh yea sama buat queen versi bos di stagenya bikin proporsi badannya jadi sekecil ini
+[9/2, 14:23] Saya: size buat enemy sama bom 96 x 96 ya
+[9/2, 15:59] Saya: Kamu bakal sibuk kah
+[9/2, 16:40] Saya: plsplspls tell me your progress
+[9/2, 16:53] Saya: Nanti malam mau sambil call gak?
+[9/2, 19:41] Saya: Pls reply 😢
+[9/2, 19:42] A: Iya Erin gw baca aksjksks gw lagi lock in, yang gw kasih itu langsung selesai semua I’m so sorry I got overwhelmed
+[9/2, 19:43] Saya: Okayyyy makasih ya A
+[9/2, 19:43] Saya: Maag aku nerror terus
+[9/2, 19:43] A: Nah it’s okay
+[9/2, 19:43] A: Masalahnya kebanyakan yang chat
+[9/2, 19:43] A: 💔 buka wa aja dah overwhelmed njir
+[9/2, 19:44] Saya: I see okay then, kalau ada apa apa tanya yaa
+[9/2, 19:44] A: iyakkk
+[9/2, 19:44] A: IM SO SORRY
+[9/2, 19:44] A: btw aku lagi ga gawe wisok kok
+[9/2, 19:45] A: jadi aku fokus all in ke gawe kita
+[9/2, 19:45] Saya: Yippie makasih ya
+[9/2, 19:45] A: yeesss im so sorry tbh
+[9/2, 22:07] Saya: eh ini aku typo, main menu harusnya 1920x1080
+[9/2, 22:52] A: Aman aman
+Konteks tambahan:
+Pada saat pengerjaan, selain komunikasi melalui WhatsApp, terdapat progress tracker yang digunakan untuk memantau pekerjaan anggota. Progress tracker tersebut terlalu berantakan sehingga beberapa informasi mengenai kebutuhan asset perlu dijelaskan kembali agar lebih mudah dipahami dan dikerjakan. Saya baru menyadari kalau A overwhelmed karena banyak pekerjaan ketika dia mengatakannya secara langsung pada saya di kelas agama. Oleh larena A sedang menangani banyak pekerjaan, saya kemudian mencoba memprioritaskan asset yang paling dibutuhkan terlebih dahulu dan membuka kesempatan bagi A untuk bertanya jika ada bagian yang belum jelas.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Dalam tim, saya memiliki dua character yaitu sebagai programmer dan game production. Sebagai programmer, saya perlu berkomunikasi dengan game designer serta visual dan audio artist untuk memastikan hasil implementasi sesuai dengan rancangan game. Sebagai game production, saya juga perlu memantau progress anggota. Dalam salah satu situasi, salah satu visual artist mengalami overwhelm karena memiliki banyak asset yang harus dikerjakan dalam waktu yang terbatas. Karena itu, saya tidak hanya perlu memikirkan kebutuhan game, tetapi juga menyesuaikan cara berkomunikasi dengan kondisi anggota tersebut.
+Objective & state
+Sebagai programmer, saya tetap membutuhkan asset dari visual artist agar bagian game yang saya kerjakan bisa dilanjutkan. Namun, ketika melihat bahwa visual artist sedang overwhelmed dengan banyaknya tugas, objective saya bukan hanya meminta asset selesai secepat mungkin. Saya perlu membantu membuat kebutuhan yang harus dikerjakan menjadi lebih jelas, mudah dipahami dan lebih mudah dikerjakan. Saya juga perlu menentukan mana asset yang paling dibutuhkan terlebih dahulu supaya pekerjaan tidak terasa seperti satu tugas besar sekaligus.
+Repertoire & language
+Saat berkomunikasi dengan visual artist, saya perlu lebih sabar dan tidak langsung memberikan banyak instruksi sekaligus. Saya menjelaskan kebutuhan asset secara bertahap dan menggunakan bahasa yang lebih mudah dipahami. Untuk asset yang dibutuhkan, saya menjelaskan hal seperti resolusi, jenis asset, state UI seperti normal, hover, dan pressed, serta bagian asset yang perlu dipisahkan menjadi beberapa layer. Saya juga mencoba menjelaskan mana yang paling penting untuk dikerjakan terlebih dahulu daripada memberikan semua kebutuhan sekaligus.
+Response & adaptation
+Ketika melihat visual artist mulai overwhelmed, saya perlu memperlambat cara komunikasi dan tidak terus menambahkan permintaan baru. Kalau penjelasan saya masih membuat bingung, saya bisa mengulang dengan cara yang lebih sederhana atau memberikan contoh visual dari bagaimana asset tersebut akan digunakan di dalam game. Saya juga menyesuaikan prioritas asset berdasarkan progress tim. Dari situ saya belajar bahwa ketika orang yang diajak berkomunikasi sedang kewalahan, memberikan lebih banyak penjelasan dalam satu waktu belum tentu membuat pekerjaan menjadi lebih cepat.
+Agreement/action
+Setelah kebutuhan asset dibahas, kami menentukan asset mana yang perlu dikerjakan terlebih dahulu dan apa saja spesifikasi yang dibutuhkan. Visual artist kemudian mengerjakan asset sesuai prioritas tersebut, sementara saya melanjutkan bagian implementasi yang sudah bisa dikerjakan. Jika ada asset yang belum bisa selesai, saya menyesuaikan bagian pekerjaan saya agar tidak membuat visual artist semakin terbebani.
+Relationship outcome
+Komunikasi yang lebih pelan dan sabar membuat kebutuhan saya tetap bisa disampaikan tanpa membuat anggota semakin tertekan. Dari situ saya belajar bahwa sebagai programmer dan game production, saya tidak bisa hanya fokus pada target dan deadline. Saya juga perlu memperhatikan kondisi orang yang mengerjakan tugas tersebut. Cara menyampaikan sesuatu bisa berpengaruh pada apakah orang tersebut merasa dibantu atau justru semakin overwhelmed.
+Penggunaan AI
+Saya menggunakan AI berupa chatGPT dalam memparafrase kalimat saya tanpa mengubah intinya agar kalimat saya bisa sesuai dengan kaidah bahasa Indonesia yang berlaku. Selain itu, semuanya saya kerjakan sendiri.
+Feedback dan tindak lanjut
+Feedback yang diterima: Saya tidak mendapatkan feedback seperti evaluasi dari anggota tim. Namun, dari proses komunikasi selama pengerjaan, saya melihat bahwa ketika saya memperlambat cara menyampaikan informasi, komunikasi menjadi lebih mudah dilanjutkan dan pekerjaan bisa kembali berjalan.
+Adaptation/replay: Awalnya saya lebih fokus menyampaikan semua kebutuhan asset agar bisa segera diimplementasikan. Setelah melihat visual artist mulai overwhelmed karena banyaknya tugas, saya mengubah cara komunikasi dengan menyampaikan kebutuhan secara bertahap dan menentukan asset yang paling penting untuk dikerjakan terlebih dahulu. Saya juga lebih sabar ketika menjelaskan hal yang berkaitan dengan teknis dan tidak langsung memberikan banyak permintaan sekaligus.
+Next practice: Ke depannya, saya ingin lebih cepat menyadari ketika anggota tim mulai kewalahan dan menyesuaikan cara komunikasi sebelum memberikan instruksi atau task berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Saya dapat menjelaskan dua character yang saya jalankan dalam tim, yaitu sebagai programmer dan game production, serta memahami perbedaan tanggung jawab dari keduanya.
+Objective & State
+4
+Saya dapat menjelaskan kebutuhan yang ingin dicapai sebagai programmer dan game production serta menyesuaikannya dengan kondisi visual artist yang sedang memiliki banyak tugas.
+Repertoire, Language & AI
+3
+Saya sudah mencoba menyesuaikan bahasa teknis agar lebih mudah dipahami oleh anggota dengan bidang berbeda. Namun, saya masih perlu belajar membuat brief yang lebih jelas dan tidak terlalu banyak informasi dalam satu waktu
+Response & Adaptation
+4
+aya sudah mencoba menyesuaikan bahasa teknis agar lebih mudah dipahami oleh anggota dengan bidang berbeda. Namun, saya masih perlu belajar membuat brief yang lebih jelas dan tidak terlalu banyak informasi dalam satu waktu.
+Agreement, Action & Relationship
+4
+Saya membantu menentukan prioritas asset dan menyesuaikan pekerjaan agar kebutuhan tim tetap berjalan tanpa membuat anggota semakin terbebani.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Erin Cherryl Angela
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://silinderpejal.github.io/kipp-students/index.html
+- https://silinderpejal.github.io/kipp-students/assets/logo.png
+- https://silinderpejal.github.io/kipp-students/course/index.html
+- https://silinderpejal.github.io/kipp-students/portfolio/index.html
+- https://silinderpejal.github.io/kipp-students/examples/index.html
+- https://silinderpejal.github.io/kipp-students/lk/index.html
+- https://silinderpejal.github.io/kipp-students/slides.html
+- https://silinderpejal.github.io/kipp-students/slides-pdf/index.html
+- https://silinderpejal.github.io/kipp-students/assessment/index.html
+- https://silinderpejal.github.io/kipp-students/about.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-02.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-03.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-06.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-09.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-11.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-12.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-13.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-14.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-15.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://silinderpejal.github.io/kipp-students/examples/week-01.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

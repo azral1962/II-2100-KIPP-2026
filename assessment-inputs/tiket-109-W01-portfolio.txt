@@ -1,0 +1,206 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 109
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — Pembelajar Reflektif
+Diri sendiri saat menghadapi bug kode/error
+Mengevaluasi logika algoritma secara mandiri tanpa panik
+Self-talk solutif; “Apa step yang kelewatan di pointer ini?”
+Cepat frustrasi; Latihan: jeda 5 menit sebelum compile ulang
+Family/Friends — Teman Curhat
+Teman seperjuangan (mahasiswa STI)
+Meringankan beban emosional mereka
+Mendengar aktif, validasi emosi; “Iya wajar capek banget”
+Buru-buru memberi solusi teknis; Latihan: diam 3 menit awal
+Work/Academic — Anggota Tim Praktikum
+Rekan kelompok & Dosen
+Menyelesaikan modul tepat waktu (C/ESP32)
+Negosiasi tenggat, diskusi terstruktur, check-in
+Terlalu dominan/tidak sabar; Latihan: minta opsi rekan dulu
+Community — Panitia Himpunan
+Rekan panitia satu divisi
+Mencapai kesepakatan dalam rapat divisi
+Voting, merangkum notulensi, menjembatani opini
+Menghiraukan pendapat minoritas; Latihan: tanya anggota yang diam
+Public — Kontributor Forum Tech
+Pengguna internet/komunitas (Reddit/Discord)
+Berbagi solusi troubleshooting (misal: Windows/LLM)
+Penjelasan logis berbasis fakta, hindari asumsi subyektif
+Terdengar elit/sombong; Latihan: gunakan kalimat sederhana
+Konteks performance
+Tanggal dan setting: 13 Mei 2026, diskusi kelompok via Discord menjelang deadline tugas (Mata Kuliah IF2010).
+Persons dan relationship: Saya berinteraksi dengan “Mitra B” (nama samaran), rekan satu kelompok praktikum. Hubungan kami adalah teman sekelas sekaligus rekan kerja akademis.
+Objective dan initial state: State awal: Mitra B kebingungan dan stress mengimplementasikan modul ADT (Map/Set) dalam C, sehingga menunda pengumpulan draf kode. Objective saya: Menyepakati ulang tenggat dan pembagian tugas untuk revisi kode, sambil menjaga kepercayaan diri dan kondisi emosional Mitra B.
+Evidence
+Transkrip Percakapan Discord:
+Saya: “Halo Mitra B, modul Map sama Set buat tugas besar IF1210 besok udah sampai mana progresnya?”
+Mitra B: “Aduh, sorry banget. Aku lagi pusing parah. Laptop sempat bluescreen semalaman, Windows-nya error terus pas buka IDE.”
+Saya (bergeser dari peran Anggota Tim ke Teman Curhat): “Wah, pantesan kamu keliatan suntuk seharian. Kalau laptop rewel pas deket deadline emang bikin stres banget ya.”
+Mitra B: “Iya, aku takut gak kekejar. Mana gue belum masukin fungsi Delete-nya.”
+Saya: “Aku ngerti rasanya. Gak usah dipaksa sendiri kalau alatnya lagi gak dukung. Kamu mau kita beresin bareng via Live Share malam ini, atau kamu mau istirahat dulu dan aku yang cover fungsi Delete-nya?”
+Mitra B: “Boleh deh Live Share aja, aku bantu tes logic-nya. Makasih ya udah ngerti.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya beralih dari peran ‘Anggota Tim’ yang menuntut progres teknis menjadi ‘Teman Curhat’ yang mengakui hambatan emosional/teknis (bluescreen).
+Objective & state
+Dari awalnya fokus hanya pada ‘kode selesai’, beralih ke state memulihkan kepercayaan rekan yang sedang panik agar bisa kembali produktif.
+Repertoire & language
+Alih-alih mencecar soal baris kode (bahasa instruktif), saya beralih menggunakan validasi empati (“Wah, pantesan… bikin stres ya”) dan memberikan opsi kolaborasi yang meringankan (“mau beresin bareng atau gue cover?”).
+Response & adaptation
+Mitra B merespons validasi emosi saya dengan keterbukaan (mengakui belum paham fungsi Delete). Saya mengadaptasi pembagian kerja menjadi Live Share.
+Agreement/action
+Aksi nyata: Sepakat mengerjakan sisa modul bersama via Live Share malam itu, tugas selesai tanpa saling menyalahkan.
+Relationship outcome
+Mitra B merasa didukung dan dihargai, bukan sekadar dianggap ‘beban kelompok’. Hubungan profesional maupun pertemanan tetap terjalin baik.
+Penggunaan AI
+Saya menggunakan AI (Gemini) setelah diskusi terjadi, sebagai instrumen evaluasi reflektif.
+Alat dan peran AI: Prompting untuk membedakan antara fakta teknis dan asumsi emosional dalam draf komunikasi saya sebelumnya.
+Prompt atau instruksi penting: “Analisislah apakah kalimat ‘udah sampai mana progresnya?’ terkesan menuntut jika rekan sedang mengalami masalah teknis. Berikan alternatif kalimat yang berorientasi pada empati.”
+Bagian output yang digunakan: AI menyarankan teknik “acknowledging the obstacle before demanding the output” (mengakui hambatan sebelum menuntut hasil). Saya memakai prinsip ini secara natural dalam percakapan nyata.
+Pelajaran yang tetap saya pelajari sebagai manusia: Membaca situasi dan timing. AI bisa memberikan kalimat terbaik, tapi hanya saya yang bisa menangkap nada suara ketakutan Mitra B dan menyadari kapan saya harus berhenti menjadi pembuat kode dan mulai menjadi manusia pendengar.
+Feedback dan tindak lanjut
+Feedback yang diterima: Mitra B secara personal mengucapkan terima kasih karena saya tidak marah saat tahu progres terhambat akibat isu troubleshooting laptop, dan dia merasa sangat dihargai karena diajak mencari solusi bersama alih-alih ditinggalkan.
+Adaptation/replay: Jika situasi terulang, saya akan memulai check-in progres lebih awal agar tidak terjadi kepanikan massal menjelang deadline. Saya akan bertanya “Apa ada hambatan?” sebelum bertanya “Sudah sampai mana?”.
+Next practice: Target saya berikutnya adalah “mengajukan pertanyaan terbuka terkait hambatan (bloker) sebelum menagih hasil” pada setiap rapat koordinasi tugas akademis maupun kepanitiaan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Peran, relasi pertemanan STI, dan transisi karakter (Anggota Tim -> Teman Pendengar) terpetakan jelas di transkrip.
+Objective & State
+3
+Kondisi awal (kepanikan teman) hingga kondisi akhir (tenang & berkolaborasi) tercatat eksplisit.
+Repertoire, Language & AI
+4
+Penggunaan bahasa berubah menyesuaikan karakter secara riil; batasan pemakaian AI sbg evaluator terdeskripsi baik.
+Response & Adaptation
+4
+Fakta baru tentang isu bluescreen laptop teman langsung merubah cara saya membagi tugas.
+Agreement, Action & Relationship
+4
+Ada kesepakatan pembagian tugas riil (Live Share), aksi selesai, relasi terselamatkan.
+Total: 18 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://cpu-61.github.io/kipp-students/examples/week-01.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

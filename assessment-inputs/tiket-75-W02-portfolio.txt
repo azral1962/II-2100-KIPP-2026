@@ -1,0 +1,149 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 75
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://zunpen.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Episode
+Event: Menjalankan dua proyek secara bersamaan di mana proyek pribadi/santai berfokus pada eksplorasi ide, sedangkan proyek UKM/lomba berfokus pada feasibility dan timekeeping.
+Lapisan
+Catatan
+Fact
+Menjalankan 2 proyek bersamaan; proyek pribadi berdiskusi soal ide dan penambahan fitur, proyek UKM/lomba membatasi diskusi pada feasibility dan timekeeping.
+Initial story
+“Saya lebih passionate pada pekerjaan/proyek santai, sedangkan proyek lomba terasa seperti beban/pekerjaan daripada passion project.”
+Emotion/body signal
+Proyek pribadi: Santai 8/10, Senang 10/10. Proyek lomba: Bingung 6/10, Agak malas 3/10.
+Reactive character
+The Idealist Explorer / The Resister yang enggan terikat aturan timeline dan merasa jenuh dengan batasan profesional.
+Desired character
+The Adaptive Strategist yang mampu memisahkan ruang bermain dan ruang performa serta tetap kreatif di dalam batasan.
+Initial story melampaui fakta: tuntutan feasibility pada proyek lomba bukanlah tanda bahwa proyek tersebut tidak menarik, melainkan bentuk penyesuaian terhadap tujuan dan skala kompetisi yang berbeda dari proyek pribadi.
+Alternative narratives
+Pemisahan Peran: Wajar jika proyek pribadi terasa lebih menyenangkan dibanding proyek lomba karena tujuannya memang berbeda; proyek pribadi adalah ruang eksplorasi bebas, sedangkan proyek lomba adalah ruang performa profesional.
+Constraint-based Creativity: Proyek lomba adalah kesempatan untuk belajar bagaimana tetap kreatif meskipun ada batasan waktu, aturan, dan target yang harus dicapai bersama tim.
+Narasi kedua paling berguna karena mengubah sudut pandang terhadap batasan (constraint) dari yang semula dianggap mematikan ide menjadi tantangan untuk melatih fleksibilitas strategi.
+Internal conversation dan agreement
+The Idealist / Resister: “Kenapa rapatnya terasa seperti kerjaan terus? Saya lebih suka mengerjakan proyek pribadi karena lebih bebas dan bisa mengeksplorasi ide.”
+The Adaptive Strategist: “Memang proyek ini berbeda. Tujuannya bukan untuk menjadi proyek santai seperti proyek pribadi, tetapi untuk mencapai target bersama tim. Saya tetap bisa menggunakan kreativitas saya, hanya saja perlu menyesuaikannya dengan waktu, aturan, dan kondisi yang ada.”
+The Idealist / Resister: “Kalau terlalu banyak batasan, jadi kurang seru.”
+The Adaptive Strategist: “Justru batasan ini bisa menjadi latihan. Saya bisa mencoba mencari solusi kreatif yang tetap realistis dan membantu tim menyelesaikan proyek.”
+Internal agreement: Saya sepakat untuk tidak membandingkan proyek lomba dengan proyek pribadi secara langsung. Proyek pribadi tetap menjadi wadah eksplorasi bebas, sedangkan proyek lomba menjadi tempat melatih kedisiplinan dan adaptasi ide. Saat rapat lomba, saya berfokus pada kontribusi aktif sesuai kebutuhan tim.
+Evidence tindakan
+Memisahkan kerangka berpikir (mindset) dan ekspektasi saat menghadiri rapat proyek lomba dibanding saat mengerjakan proyek pribadi.
+Menahan diri dari memaksakan ide eksploratif yang berada di luar cakupan alokasi waktu (timekeeping) tim lomba.
+Mengidentifikasi dan mengeksekusi satu komponen tugas kecil yang konkret pada proyek lomba tanpa menunda-nunda.
+Evidence ini memperbarui story saya: proyek profesional tidak mematikan kreativitas, melainkan membentuk disiplin eksekusi yang nyata.
+Feedback, AI, dan refleksi
+Penggunaan AI tidak dilakukan pada episode ini. Pemisahan fact dan story dilakukan secara mandiri melalui pemetaan peran dan tujuan dari masing-masing proyek.
+Next practice: Ketika mulai merasa malas atau tertekan dalam proyek profesional, saya akan berhenti sejenak untuk menentukan satu hal kecil yang bisa saya kontribusikan saat itu. Saya tidak akan menunggu sampai merasa benar-benar termotivasi, tetapi mencoba mulai dari tugas atau ide yang paling jelas dan bisa saya kerjakan.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Karakter reaktif (Idealist/Resister) dan harapan (Adaptive Strategist) teridentifikasi jelas.
+Objective & State
+3
+Emosi dan tingkat resistensi terukur pada kedua situasi proyek.
+Repertoire, Language & AI
+3
+Berhasil menyusun internal conversation dan dua narasi alternatif yang relevan.
+Response & Adaptation
+3
+Mengubah cara pandang terhadap batasan proyek dari beban menjadi tantangan adaptif.
+Agreement, Action & Relationship
+3
+Komitmen untuk memisahkan ekspektasi peran proyek pribadi dan proyek profesional.
+Total: 15/20 — Kompeten.
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Muhammad Rizqi Azhar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://zunpen.github.io/kipp-students/index.html
+- https://zunpen.github.io/kipp-students/assets/logo.png
+- https://zunpen.github.io/kipp-students/course/index.html
+- https://zunpen.github.io/kipp-students/portfolio/index.html
+- https://zunpen.github.io/kipp-students/examples/index.html
+- https://zunpen.github.io/kipp-students/lk/index.html
+- https://zunpen.github.io/kipp-students/slides.html
+- https://zunpen.github.io/kipp-students/slides-pdf/index.html
+- https://zunpen.github.io/kipp-students/assessment/index.html
+- https://zunpen.github.io/kipp-students/about.html
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html
+- https://zunpen.github.io/kipp-students/portfolio/week-01.html
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html
+- https://zunpen.github.io/kipp-students/portfolio/week-06.html
+- https://zunpen.github.io/kipp-students/portfolio/week-07.html
+- https://zunpen.github.io/kipp-students/portfolio/week-08.html
+- https://zunpen.github.io/kipp-students/portfolio/week-09.html
+- https://zunpen.github.io/kipp-students/portfolio/week-10.html
+- https://zunpen.github.io/kipp-students/portfolio/week-11.html
+- https://zunpen.github.io/kipp-students/portfolio/week-12.html
+- https://zunpen.github.io/kipp-students/portfolio/week-13.html
+- https://zunpen.github.io/kipp-students/portfolio/week-14.html
+- https://zunpen.github.io/kipp-students/portfolio/week-15.html
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html#episode
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

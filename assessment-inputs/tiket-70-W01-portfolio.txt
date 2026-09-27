@@ -1,0 +1,160 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 70
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://owen2907.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Lima character
+Episode yang dianalisis
+Perubahan language
+Evidence, AI, dan feedback
+Self-assessment
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Keluarga — Anak tengah penengah
+Kakak, adik, dan orang tua
+Menengahi konflik dan menjaga keharmonisan; memahami ekspektasi orang tua
+Tenang, mendengarkan kedua pihak; “Coba kita bicarakan pelan-pelan,”
+Kebutuhan sendiri terabaikan; latih menyampaikan keinginan pribadi secara tegas
+Hobi/Game — In-Game Leader
+Rekan satu tim di game (Valorant)
+Mengatur strategi berbasis data dan memimpin eksekusi taktik
+Tegas, analitis, taktis; “Hold dulu, cek stat mereka,” atau “Rotasi sekarang.”
+Terdengar terlalu mengatur (bossy); latih menggunakan nada yang lebih mengajak
+Intra-Self — Pengelola keuangan
+Diri sendiri saat mengelola arus kas
+Mendata pengeluaran rapi di Excel dan mematuhi batas harian Rp100.000
+Disiplin, evaluatif, ketat; “Pengeluaran hari ini sudah limit, beli besok saja.”
+Terlalu kaku jika ada kebutuhan mendadak; latih keluwesan alokasi dana darurat
+Akademik — Praktisi learn by doing
+Diri sendiri menghadapi materi/soal
+Memahami konsep dengan cepat melalui eksperimen dan latihan soal langsung
+Proaktif, trial-and-error; “Coba kerjakan latihan ini dulu, teorinya menyesuaikan nanti.”
+Melewatkan dasar teori yang penting; latih membaca ulang konsep dasar setelah praktik
+Pertemanan — Sahabat analitis
+Teman dekat yang sedang berkeluh kesah
+Mendengarkan masalah utuh lalu menganalisisnya untuk memberi solusi logis
+Mendengarkan aktif lalu logis; “Aku paham masalahmu, langkah paling rasional sekarang adalah…”
+Terkesan kurang peka pada emosi; latih memvalidasi perasaan teman sebelum masuk ke solusi
+Episode yang dianalisis
+Konteks: Seorang teman dekat merasa sangat kewalahan (burnout) karena tugas kuliah yang menumpuk bersamaan dengan padatnya jadwal rapat kepanitiaan dan organisasi. Fakta yang terlihat adalah jadwalnya saling tumpang tindih tanpa prioritas yang jelas.
+Objective: Mendengarkan keluhannya secara utuh agar ia merasa dipahami, kemudian membantu menganalisis akar masalahnya untuk memberikan solusi logis dan terstruktur.
+Teman: “Gue bener-bener burnout, tugas numpuk banget tapi rapat kepanitiaan jalan terus tiap malam sampai nggak ada waktu istirahat.”
+Saya: “Berarti masalah utamanya bukan cuma di jumlah tugas, tapi karena jadwal ngerjain tugas dan rapatnya nyampur ya? Coba ceritain dulu, seminggu ini jadwal fix-nya seperti apa?”
+Teman: “Iya, siang kuliah, sore mau ngerjain tugas kepotong rapat, malamnya lanjut rapat organisasi A dan B.”
+Saya: “Paham. Daripada dikerjakan acak, gimana kalau kita coba pakai sistem time blocking? Jadi kita blok waktu spesifik, misal jam 4-6 sore murni fokus deep work buat tugas kuliah tanpa pegang HP. Rapat organisasi baru boleh dijadwalkan di atas jam 7 malam. Mau coba susun jadwalnya bareng?”
+Hasil: Pendekatan logis ini mengubah respons teman dari sekadar mengeluh menjadi fokus pada penyelesaian masalah (problem-solving). Kesepakatannya: ia mulai menerapkan time blocking di kalendernya dan membatasi maksimal hanya mengikuti satu rapat kepanitiaan per malam.
+Perubahan language
+Sebagai sahabat analitis, saya akan berkata, “Aku paham masalahmu. Coba kita petakan jadwalmu pakai time blocking supaya tugas dan organisasi nggak bentrok.” Namun, jika character saya berubah menjadi In-Game Leader (IGL) saat memimpin tim Valorant, saya akan berkata, “Tahan dulu, jangan maksa push. Cek statistik dan ekonomi mereka sebelum kita masuk ke site.”
+Meskipun keduanya bertujuan mengatur strategi dan menyelesaikan masalah, responsibility dan tindakannya sangat berbeda: satu membutuhkan validasi emosi dan diskusi dua arah, sementara yang lain membutuhkan ketegasan dan instruksi taktis yang cepat.
+Evidence, AI, dan feedback
+Evidence: Riwayat obrolan langsung mengenai pembagian waktu dan draf jadwal time blocking di kalender.
+AI digunakan setelah percakapan untuk membantu merapikan pemetaan character dan menstrukturkan narasi analisis agar sesuai dengan metrik penilaian tugas.
+Next practice: Melatih diri untuk lebih banyak memvalidasi emosi lawan bicara dan memberi jeda sebelum langsung menawarkan solusi logis.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+4
+Lima character dari berbagai domain berhasil dipetakan secara mendalam beserta risikonya masing-masing.
+Objective & State
+4
+State awal (kewalahan) dan tujuan (terstruktur) sangat eksplisit; berhasil menganalisis objektif akademik dan organisasi teman yang saling bersaing.
+Repertoire, Language & AI
+4
+Perbedaan gaya bahasa (language) antar peran terlihat sangat kontras dan konkret sesuai konteks situasinya.
+Response & Adaptation
+4
+Repertoire beradaptasi dengan sangat baik, dari sekadar mendengarkan dan memvalidasi emosi menjadi problem-solving aktif yang solutif.
+Agreement, Action & Relationship
+4
+Menghasilkan langkah (action) konkret berupa time blocking sambil tetap menjaga rasa percaya dan kualitas hubungan pertemanan.
+Total: 20/20 — Sangat Kompeten. Analisis secara jelas menunjukkan kemampuan memecahkan konflik jadwal yang saling bersaing dengan solusi logis dan terstruktur.
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Owen Reyhan Martua Pasaribu
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://owen2907.github.io/kipp-students/index.html
+- https://owen2907.github.io/kipp-students/assets/logo.png
+- https://owen2907.github.io/kipp-students/course/index.html
+- https://owen2907.github.io/kipp-students/portfolio/index.html
+- https://owen2907.github.io/kipp-students/examples/index.html
+- https://owen2907.github.io/kipp-students/lk/index.html
+- https://owen2907.github.io/kipp-students/slides.html
+- https://owen2907.github.io/kipp-students/slides-pdf/index.html
+- https://owen2907.github.io/kipp-students/assessment/index.html
+- https://owen2907.github.io/kipp-students/about.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html
+- https://owen2907.github.io/kipp-students/portfolio/week-06.html
+- https://owen2907.github.io/kipp-students/portfolio/week-07.html
+- https://owen2907.github.io/kipp-students/portfolio/week-08.html
+- https://owen2907.github.io/kipp-students/portfolio/week-09.html
+- https://owen2907.github.io/kipp-students/portfolio/week-10.html
+- https://owen2907.github.io/kipp-students/portfolio/week-11.html
+- https://owen2907.github.io/kipp-students/portfolio/week-12.html
+- https://owen2907.github.io/kipp-students/portfolio/week-13.html
+- https://owen2907.github.io/kipp-students/portfolio/week-14.html
+- https://owen2907.github.io/kipp-students/portfolio/week-15.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html#evidence-ai-dan-feedback
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

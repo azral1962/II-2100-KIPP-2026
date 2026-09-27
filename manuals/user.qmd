@@ -1,0 +1,468 @@
+---
+title: "Panduan Pengguna Student Course Services II2100"
+subtitle: "Bot Telegram KIPP-2026"
+lang: id
+format:
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+---
+
+## Tentang proyek
+
+Proyek ini merupakan bot Telegram untuk layanan mahasiswa II2100/KIPP-2026:
+registrasi identitas, pendaftaran repository GitHub, pengumpulan portfolio
+mingguan melalui GitHub Pages, assessment menggunakan LLM, dan pengecekan
+nilai resmi. `app.py` adalah program untuk menjalankan bot.
+
+Panduan ini ditujukan kepada mahasiswa, dengan petunjuk operasional singkat
+untuk instruktur di bagian akhir. Mintalah tautan bot kelas kepada instruktur;
+nama akun bot tidak ditetapkan dalam kode proyek.
+
+### Isi proyek
+
+| Berkas atau folder | Fungsi |
+|---|---|
+| `app.py` | Memuat konfigurasi dan menjalankan bot serta pemroses assessment. |
+| `telegram_bot.py` | Menerima pesan Telegram dan menjalankan perintah pengguna. |
+| `course_service.py` | Mengelola registrasi, validasi repo, submission, antrean, dan pembacaan nilai. |
+| `llm.py` | Mengambil teks portfolio, meminta assessment ke llama.cpp, menyimpan laporan, dan menyetujui hasil. |
+| `file_lock.py` | Mengunci berkas saat pembaruan data. |
+| `peserta.csv` | Daftar peserta, hubungan Telegram dengan NIM, dan URL repo. |
+| `assessment.csv` | Nilai resmi A01–A15. |
+| `antrian.csv` | Tiket submission, status, skor rubrik, ringkasan, dan saran. |
+| `llm-assessment-prompts.md` | Instruksi dan rubrik assessment mingguan. |
+| `assessment-inputs/` | Teks prompt dan portfolio yang digunakan dalam assessment. |
+| `assessment-results/` | Laporan assessment dan data hasilnya. |
+| `telegram-offset.txt` | Posisi update Telegram untuk melanjutkan layanan setelah restart. |
+| `KIPP-2026/` | Dokumentasi buku Quarto dan referensi teknis. |
+| `tests/` | Pengujian otomatis bot, layanan, konfigurasi, dan worker LLM. |
+
+Berkas Excel daftar peserta tersedia sebagai dokumen pendukung. Bot membaca
+CSV; perubahan Excel tidak otomatis memperbarui daftar peserta bot.
+
+
+## Tujuan layanan
+
+Student Course Services membantu mahasiswa untuk:
+
+1.  menghubungkan akun Telegram dengan NIM;
+2.  mendaftarkan repo GitHub portfolio;
+3.  mengirim halaman portfolio mingguan ke antrian assessment;
+4.  memantau pemrosesan submission;
+5.  membaca hasil dan umpan balik LLM; dan
+6.  memeriksa nilai resmi tugas.
+
+Semua perintah dikirim sebagai pesan biasa kepada bot Telegram mata kuliah.
+
+## Ringkasan alur
+
+Gunakan urutan berikut untuk menyelesaikan satu submission dari awal sampai
+nilai resmi tersedia:
+
+1.  `/reg NIM` untuk menghubungkan akun Telegram;
+2.  `/repo URL` untuk mendaftarkan repo portfolio;
+3.  publikasikan `portfolio/week-XX.html` melalui GitHub Pages;
+4.  `/submit WXX` untuk membuat tiket;
+5.  `/llm TICKET` untuk memproses tiket dan membaca umpan balik;
+6.  `/antrian` atau `/hasil WXX` untuk memantau hasil; dan
+7.  `/skor AXX` untuk melihat nilai resmi setelah hasil disetujui.
+
+::: callout-important
+Simpan nomor tiket yang diberikan oleh `/submit`. Nomor tersebut diperlukan
+oleh `/llm` dan memudahkan pelacakan jika Anda perlu menghubungi instruktur.
+:::
+
+## Sebelum mulai
+
+Pastikan Anda memiliki:
+
+- NIM yang sudah tercantum dalam daftar peserta kelas;
+- satu akun Telegram pribadi;
+- repo GitHub dengan URL berbentuk `https://github.com/pemilik/repo`;
+- GitHub Pages yang sudah memublikasikan halaman portfolio; dan
+- `README.md` dengan baris pertama tepat seperti berikut.
+
+``` markdown
+# Portfolio Mahasiswa KIPP-2026
+```
+
+Gunakan judul tersebut persis, termasuk huruf besar/kecil dan tahun.
+
+## Alur penggunaan
+
+### 1. Tampilkan bantuan
+
+Kirim:
+
+``` text
+/start
+```
+
+Bot menampilkan daftar perintah dan format dasar yang tersedia.
+
+### 2. Daftarkan akun Telegram
+
+Kirim `/reg` diikuti NIM Anda:
+
+``` text
+/reg 18225001
+```
+
+Bot mengambil Telegram user ID dari pengirim pesan. Anda tidak perlu memasukkan ID Telegram secara manual.
+
+::: callout-warning
+Satu NIM tidak dapat diambil alih akun Telegram lain, dan satu akun Telegram tidak dapat dipakai untuk dua NIM. Hubungi instruktur jika data awal salah.
+:::
+
+### 3. Daftarkan repo GitHub
+
+Setelah registrasi berhasil, kirim:
+
+``` text
+/repo https://github.com/pemilik/repo
+```
+
+Bot akan memeriksa format URL, keberadaan repo dan `README.md`, serta judul pada baris pertamanya. Perintah yang sama dapat dipakai untuk mengganti repo lama.
+
+### 4. Periksa status akun
+
+Kirim:
+
+``` text
+/status
+```
+
+Bot menampilkan identitas registrasi dan hasil validasi repo terkini.
+
+### 5. Siapkan halaman portfolio mingguan
+
+Halaman GitHub Pages harus mengikuti pola berikut:
+
+``` text
+https://pemilik.github.io/repo/portfolio/week-01.html
+https://pemilik.github.io/repo/portfolio/week-02.html
+...
+https://pemilik.github.io/repo/portfolio/week-15.html
+```
+
+Untuk repo user-site bernama `pemilik.github.io`, bagian `/repo` tidak dipakai.
+
+Pastikan halaman sudah dapat dibuka secara publik tanpa login sebelum melakukan
+submission. Pada tahap `/submit`, bot hanya memeriksa apakah URL halaman dapat
+diakses. Isi dan kecukupan evidence baru dinilai saat tiket diproses dengan
+`/llm TICKET`.
+
+Isi halaman harus menyediakan evidence tekstual yang cukup. Tautan, gambar,
+video, atau lampiran tanpa penjelasan tekstual yang dapat dibaca worker dapat
+dianggap tidak terverifikasi.
+
+### 6. Kirim submission
+
+Gunakan kode `W01` sampai `W15`:
+
+``` text
+/submit W02
+```
+
+Jika halaman tersedia, bot membuat nomor tiket dan memberikan status `ANTRI`. Submission aktif untuk NIM dan minggu yang sama tidak digandakan; bot mengembalikan tiket yang sudah ada.
+
+### 7. Pantau antrian
+
+Kirim:
+
+``` text
+/antrian
+```
+
+Bot menampilkan maksimal lima submission terbaru milik Anda, termasuk tiket, minggu, status, dan total rubrik jika sudah tersedia.
+
+### 8. Proses dan baca hasil berdasarkan tiket
+
+Gunakan nomor tiket yang diperoleh dari `/submit` atau `/antrian`:
+
+``` text
+/llm 7
+```
+
+Bot memverifikasi bahwa tiket dimiliki oleh akun Anda, memproses tiket yang
+masih berstatus `ANTRI`, lalu menampilkan hasil terbaru. Tiket mahasiswa lain
+tidak akan diproses. Hasil dapat mencakup:
+
+- minggu dan status pemrosesan;
+- total rubrik LLM;
+- ringkasan assessment;
+- prioritas perbaikan; dan
+- cuplikan detail laporan assessment.
+
+Blok data JSON mentah tidak ditampilkan dan detail dipotong bila melebihi batas satu pesan Telegram.
+
+::: callout-note
+Bot mengirim konfirmasi sebelum mulai menghubungi LLM. Jika server atau halaman
+portfolio sementara tidak tersedia, tiket kembali berstatus `ANTRI` dan dapat
+dicoba lagi dengan perintah yang sama. Jika statusnya
+`MENUNGGU PERSETUJUAN`, hasil LLM masih sementara.
+:::
+
+### 9. Baca hasil terbaru berdasarkan minggu
+
+Untuk memperoleh hasil submission terbaru suatu minggu, kirim:
+
+``` text
+/hasil W02
+```
+
+Perbedaan `/hasil` dan `/llm` adalah:
+
+| Perintah | Cara memilih hasil | Penggunaan |
+|------------------------|------------------------|------------------------|
+| `/hasil W02` | Submission terbaru pada minggu tersebut | Cepat mencari hasil per tugas |
+| `/llm 7` | Nomor tiket tertentu | Memproses dan membuka submission yang spesifik |
+
+`/hasil` tidak memulai pemrosesan LLM. Jika hasil belum tersedia dan tiket masih
+berstatus `ANTRI`, jalankan `/llm TICKET` terlebih dahulu.
+
+### 10. Periksa nilai resmi
+
+Gunakan kode assessment `A01` sampai `A15`:
+
+``` text
+/skor A02
+```
+
+Nilai resmi berbeda dari total rubrik LLM:
+
+- `/llm` dan `/hasil` menampilkan rekomendasi dan total rubrik LLM `5–20` jika
+  evidence dapat dinilai;
+- `/skor` membaca nilai resmi `A01–A15` dari data assessment; dan
+- nilai kosong berarti tugas tersebut belum memiliki nilai resmi;
+- nilai resmi di bawah `3.0` ditampilkan sebagai `revisi`, sedangkan nilai
+  minimal `3.0` ditampilkan sebagai `tercapai`.
+
+Minggu `W02` terkait dengan nilai `A02`; pola yang sama berlaku untuk 01–15.
+
+Setelah assessor menyetujui hasil, total rubrik dipetakan ke nilai resmi sebagai
+berikut:
+
+| Total rubrik LLM | Nilai resmi |
+|-----------------:|------------:|
+| 5–8 | 1 |
+| 9–12 | 2 |
+| 13–16 | 3 |
+| 17–20 | 4 |
+
+Keputusan `PERLU REVISI` membatasi nilai resmi maksimal `2`.
+`BELUM DAPAT DINILAI` tidak menghasilkan nilai baru dan tidak menghapus nilai
+lama yang sudah ada.
+
+### 11. Revisi dan kirim ulang
+
+1. Baca prioritas perbaikan melalui `/hasil WXX`.
+2. Perbarui portfolio, publikasikan ulang, dan periksa halaman GitHub Pages.
+3. Setelah tiket sebelumnya berstatus akhir, misalnya `PERLU REVISI` atau
+   `BELUM DAPAT DINILAI`, kirim `/submit WXX` untuk memperoleh tiket baru.
+4. Jalankan `/llm TICKET` dengan nomor tiket baru.
+
+Status aktif adalah `ANTRI`, `PROSES`, dan `MENUNGGU PERSETUJUAN`. Selama masih
+ada tiket aktif untuk minggu yang sama, `/submit` mengembalikan tiket lama.
+Hubungi instruktur bila revisi perlu dinilai sementara hasil sebelumnya masih
+menunggu persetujuan. Memanggil `/llm` pada tiket yang sudah memiliki hasil
+tidak otomatis menilai ulang halaman yang berubah; laporan tersimpan dapat
+digunakan kembali.
+
+## Ringkasan perintah
+
+| Perintah | Fungsi | Contoh |
+|------------------------|------------------------|------------------------|
+| `/start` | Menampilkan bantuan | `/start` |
+| `/reg NIM` | Menghubungkan Telegram dengan NIM | `/reg 18225001` |
+| `/repo URL` | Menyimpan atau mengganti repo GitHub | `/repo https://github.com/pemilik/repo` |
+| `/status` | Memeriksa registrasi dan repo | `/status` |
+| `/submit WXX` | Mengirim portfolio minggu 01–15 | `/submit W02` |
+| `/antrian` | Menampilkan lima tiket terbaru | `/antrian` |
+| `/llm TICKET` | Memproses dan menampilkan tiket milik pengguna | `/llm 7` |
+| `/hasil WXX` | Menampilkan hasil terbaru suatu minggu | `/hasil W02` |
+| `/skor AXX` | Menampilkan nilai resmi tugas | `/skor A02` |
+
+Perintah tidak peka terhadap huruf besar/kecil pada kode minggu dan assessment, tetapi format nomornya harus dua digit.
+Kirim satu perintah beserta argumen yang diminta dalam satu pesan; argumen
+tambahan akan ditolak oleh bot.
+
+## Arti status tiket
+
+| Status | Arti bagi mahasiswa | Tindakan |
+|------------------------|------------------------|------------------------|
+| `ANTRI` | Submission siap diproses | Jalankan `/llm TICKET` |
+| `PROSES` | Worker sedang mengambil evidence atau meminta assessment | Tunggu hingga proses selesai |
+| `MENUNGGU PERSETUJUAN` | Hasil LLM tersedia tetapi belum disahkan | Baca umpan balik; tunggu assessor |
+| `TERCAPAI` | Hasil telah disetujui dengan rekomendasi tercapai | Periksa `/skor AXX` |
+| `PERLU REVISI` | Evidence atau performa masih memerlukan perbaikan | Ikuti prioritas perbaikan |
+| `BELUM DAPAT DINILAI` | Evidence belum cukup untuk assessment yang bertanggung jawab | Lengkapi evidence yang diminta |
+| `GAGAL` | Terjadi masalah permanen pada item atau respons | Hubungi instruktur |
+
+## Contoh percakapan lengkap
+
+Contoh berikut bersifat ilustratif. Ganti NIM, URL repo, dan tiket dengan data Anda.
+
+``` text
+Mahasiswa: /reg 18225001
+Bot: Registrasi berhasil. Selamat datang, ...
+
+Mahasiswa: /repo https://github.com/pemilik/repo
+Bot: URL repo berhasil disimpan: ...
+
+Mahasiswa: /submit W02
+Bot: Tiket: 7
+     Status: ANTRI
+     URL: https://pemilik.github.io/repo/portfolio/week-02.html
+
+Mahasiswa: /antrian
+Bot: Status submission terbaru:
+     Tiket 7 | W02 | ANTRI
+
+Mahasiswa: /llm 7
+Bot: Permintaan LLM tiket 7 diterima. Memeriksa antrean...
+Bot: Hasil LLM tiket 7
+     Minggu: W02
+     Status: MENUNGGU PERSETUJUAN
+     Total rubrik: 12
+     Catatan: hasil LLM ini masih sementara ...
+
+[Setelah assessor menyetujui tiket 7]
+
+Mahasiswa: /skor A02
+Bot: Nilai A02: 2
+     Status: revisi.
+```
+
+## Pemecahan masalah
+
+### “NIM tidak ditemukan”
+
+Periksa kembali angka NIM. Jika sudah benar, hubungi instruktur agar daftar peserta diperiksa.
+
+### “NIM sudah terhubung” atau “Telegram sudah terhubung”
+
+Jangan mencoba akun lain. Hubungi instruktur untuk koreksi identitas.
+
+### Repo atau README tidak valid
+
+Periksa bahwa:
+
+- URL menggunakan HTTPS dan hanya menunjuk root repo;
+- repo dapat dibaca GitHub;
+- file bernama `README.md` tersedia pada branch default; dan
+- baris pertama persis `# Portfolio Mahasiswa KIPP-2026`.
+
+### Halaman portfolio belum ditemukan
+
+Buka URL GitHub Pages di browser tanpa login. Periksa nama file `week-XX.html`, deployment Pages, dan tunggu beberapa menit jika baru dipublikasikan.
+
+### Tiket tidak ditemukan pada `/llm`
+
+Pastikan nomor berasal dari `/submit` atau `/antrian` milik akun yang sama. Untuk melindungi privasi, bot tidak mengungkap apakah nomor tersebut dimiliki mahasiswa lain.
+
+### Hasil belum tersedia
+
+Jalankan `/llm TICKET` untuk tiket berstatus `ANTRI`. Jika tiket sedang
+`PROSES`, tunggu hingga proses selesai lalu periksa kembali.
+
+Jika `/llm` selesai tetapi tiket kembali menjadi `ANTRI`, layanan LLM atau
+halaman portfolio kemungkinan sedang tidak tersedia. Pastikan halaman masih
+dapat dibuka, lalu ulangi `/llm TICKET`. Jika tiket menjadi `GAGAL`, hubungi
+instruktur dan sertakan nomor tiket.
+
+### Hasil sudah ada tetapi nilai masih kosong
+
+Status `MENUNGGU PERSETUJUAN` berarti umpan balik LLM sudah tersedia tetapi
+belum disahkan oleh assessor. Anda dapat membaca hasil dengan `/llm TICKET`
+atau `/hasil WXX`, tetapi `/skor AXX` baru berubah setelah persetujuan.
+
+## Privasi dan penggunaan yang bertanggung jawab
+
+- Jangan membagikan token bot, credential GitHub, atau file `.env`.
+- Jangan mengirim data pribadi pihak lain yang tidak diperlukan dalam portfolio.
+- Hasil LLM bukan keputusan resmi sampai assessor manusia menyetujuinya.
+- Laporkan hasil yang tampak tidak sesuai evidence kepada instruktur.
+
+## Operasional untuk instruktur dan operator
+
+### Menjalankan bot
+
+Program membutuhkan Python 3.10 atau lebih baru, tanpa dependensi Python
+eksternal. Operator memerlukan koneksi ke Telegram, GitHub/GitHub Pages,
+dan layanan llama.cpp untuk assessment.
+
+1. Siapkan data peserta pada `peserta.csv` dan data nilai pada `assessment.csv`.
+2. Buat atau sesuaikan `.env` di folder proyek:
+
+   ```dotenv
+   TELEGRAM_BOT_TOKEN_KIPP=isi-token-dari-BotFather
+   LLM_SERVER_URL=http://alamat-server-llm:8088
+   LLM_AUTO_APPROVE=false
+   ```
+
+   Ganti nilai contoh dengan konfigurasi layanan Anda. `GITHUB_TOKEN` dapat
+   ditambahkan bila akses GitHub membutuhkan autentikasi.
+
+3. Dari folder proyek, jalankan:
+
+   ```bash
+   python3 app.py
+   ```
+
+4. Kirim `/start` melalui Telegram untuk memeriksa respons bot.
+5. Gunakan `Ctrl+C` di terminal untuk menghentikan layanan.
+
+Jika interpreter di komputer Anda bernama `python`, gunakan nama tersebut
+sebagai pengganti `python3`. Mahasiswa cukup menggunakan Telegram dan tidak
+perlu menjalankan bot sendiri.
+
+Path relatif konfigurasi dihitung dari folder proyek. Lokasi data dapat diatur
+melalui `PESERTA_CSV`, `ASSESSMENT_CSV`, dan `ANTRIAN_CSV`.
+
+### Memproses antrean dan menyetujui hasil
+
+Pemrosesan `/llm TICKET` sudah tersedia melalui bot. Untuk memproses snapshot
+antrean sekali dari terminal, operator dapat menjalankan:
+
+```bash
+python3 llm.py --once
+```
+
+Gunakan `python3 llm.py` untuk worker yang terus memantau antrean, lalu
+`Ctrl+C` untuk menghentikannya. Untuk memeriksa koneksi dan respons model
+tanpa mengubah antrean:
+
+```bash
+python3 llm.py --test
+```
+
+Pada konfigurasi standar `LLM_AUTO_APPROVE=false`, hasil assessment menunggu
+persetujuan. Assessor meninjau laporan dalam `assessment-results/` dan
+kecocokannya dengan evidence sebelum menjalankan:
+
+```bash
+python3 llm.py --approve 7
+```
+
+Ganti `7` dengan tiket yang sudah ditinjau. Persetujuan memperbarui status
+tiket dan, jika hasil dapat dinilai, nilai resminya. Mahasiswa kemudian
+memeriksa `/skor AXX`.
+
+Jika operator mengaktifkan `LLM_AUTO_APPROVE=true`, hasil disetujui otomatis.
+Alur persetujuan manusia dalam panduan ini mengacu pada konfigurasi standar.
+
+## Merender manual
+
+Berkas ini dapat dibaca langsung sebagai teks Quarto. Jika Quarto tersedia,
+jalankan dari folder proyek:
+
+```bash
+quarto render manuals/user.qmd --to html
+```
+
+Buka hasil `manuals/user.html` di browser. Konfigurasi lebih lengkap tersedia
+di [README proyek](../README.md) dan
+[referensi teknis](../KIPP-2026/technical-reference.qmd).

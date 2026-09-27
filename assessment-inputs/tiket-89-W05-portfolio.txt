@@ -1,0 +1,143 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 89
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://zunpen.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Discovery Interview — Motivasi & Persepsi Gambar Teknik – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Evidence, feedback, dan next step
+Self-assessment
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Professional
+Discovery
+Discovery menuju shared problem statement mengenai persepsi awal terhadap mata kuliah Gambar Teknik.
+CatatanStatus Wawancara
+Interviewee “Fahmi” (mahasiswa Teknik Sipil). Wawancara dilakukan secara santai melalui obrolan suara Discord.
+Initial assumption dan rencana discovery
+Awalnya diasumsikan bahwa Fahmi memilih jurusan Teknik Sipil tanpa pertimbangan yang serius karena ia mengaku tidak menyukai kegiatan menggambar sejak awal. Sebelum menyimpulkan lebih jauh, wawancara dilakukan untuk menggali alasan mendasar di balik pilihan jurusan dan persepsinya terhadap Gambar Teknik.
+Pertanyaan utama:
+Bisa ceritakan bagaimana prosesmu dulu saat akhirnya memutuskan memilih jurusan Teknik Sipil?
+Ceritakan momen pertama kali kamu sadar harus banyak menggambar dan apa yang kamu rasakan saat itu?
+Apa dampak dari rasa tidak suka menggambar itu terhadap tugas perkuliahan atau kegiatan kelompokmu?
+Sejauh ini, bagaimana caramu mengatasi atau menyiasati tugas-tugas menggambar tersebut?
+Hal apa yang paling penting untuk tetap kamu pertahankan dalam menyikapi perkuliahanmu sekarang?
+Potongan transcript
+Interviewer: “Bisa ceritakan bagaimana prosesmu dulu saat akhirnya memutuskan memilih jurusan Teknik Sipil?”
+Fahmi: “Jujur awalnya saya ragu karena dari dulu tidak suka menggambar. Tapi setiap melihat bangunan tinggi, saya selalu penasaran dengan sistem di baliknya—kenapa bisa berdiri kokoh—bukan sekadar tampilan estetikanya.”
+Interviewer: “Jadi fokus perhatianmu lebih ke struktur dan logika bangunan daripada arsitekturnya?”
+Fahmi: “Betul. Awalnya saya kira Teknik Sipil bakal banyak gambar bebas seperti arsitektur.”
+Interviewer: “Lalu bagaimana pandanganmu berubah setelah mulai kuliah?”
+Fahmi: “Pas ketemu mata kuliah Gambar Teknik, persepsi saya berubah total. Di situ kita tidak sekadar menggambar indah, tapi diajak mengenal dan membedah luar-dalam bangunan tersebut. Menggambar ternyata cuma media untuk memahami sistemnya.”
+Interviewer: “Apa constraint yang penting buat kamu dalam belajar sekarang?”
+Fahmi: “Jangan sampai proses belajarnya cuma fokus pada estetika gambar, tapi harus tetap mengutamakan pemahaman logika strukturnya.”
+Pembaruan pembacaan
+Initial assumption bahwa Fahmi “tidak serius memilih jurusan” terbukti keliru. Fahmi justru memiliki motivasi intrinsik yang kuat terhadap logika dan sistem struktur bangunan. Keraguannya diawal bersumber dari miskonsepsi bahwa menggambar di Teknik Sipil berfokus pada seni/estetika visual seperti arsitektur.
+Setelah menjalani mata kuliah Gambar Teknik, ia menyadari bahwa menggambar adalah alat analisis (analytical tool) untuk memahami sistem luar-dalam bangunan.
+Shared problem statement yang dikonfirmasi Fahmi:
+“Mahasiswa Teknik Sipil yang menyukai logika struktur bangunan membutuhkan pemahaman mendalam tentang fungsi Gambar Teknik sebagai alat analisis sistem (bukan sekadar seni visual), agar ketakutan awal terhadap keterampilan menggambar tidak menghambat motivasi belajar mereka.”
+Evidence, feedback, dan next step
+Wawancara berlangsung selama 15 menit melalui obrolan suara di Discord (tanpa rekaman audio sesuai kesepakatan mengobrol santai; catatan transkrip dibuat secara langsung).
+Transkrip dirangkum dan dikategorikan menggunakan AI untuk memisahkan fact, interpretation, dan underlying motivation.
+Pernyataan shared problem statement telah dikirimkan dan dikonfirmasi ulang oleh Fahmi via pesan singkat.
+Next step: Menerapkan pendekatan mendalam untuk memahami why di balik tindakan/pilihan seseorang pada wawancara berikutnya dan menghindari hasty generalization atau penarikan kesimpulan secara terburu-buru.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Berhasil menggali minat mendalam (system over aesthetics) dan constraint narasumber secara presisi
+Objective & State
+4
+Mengubah total asumsi awal yang keliru menjadi shared problem statement yang disetujui
+Repertoire, Language & AI
+3
+Menggunakan pertanyaan open-ended, konfirmasi ulang, dan pemanfaatan AI untuk struktur transkrip
+Response & Adaptation
+4
+Beradaptasi penuh saat mengetahui alasan sebenarnya tanpa memaksakan persepsi awal
+Agreement, Action & Relationship
+3
+Problem statement disepakati narasumber dan next step reflektif teridentifikasi
+Total: 18/20 — Mahir.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Muhammad Rizqi Azhar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://zunpen.github.io/kipp-students/index.html
+- https://zunpen.github.io/kipp-students/assets/logo.png
+- https://zunpen.github.io/kipp-students/course/index.html
+- https://zunpen.github.io/kipp-students/portfolio/index.html
+- https://zunpen.github.io/kipp-students/examples/index.html
+- https://zunpen.github.io/kipp-students/lk/index.html
+- https://zunpen.github.io/kipp-students/slides.html
+- https://zunpen.github.io/kipp-students/slides-pdf/index.html
+- https://zunpen.github.io/kipp-students/assessment/index.html
+- https://zunpen.github.io/kipp-students/about.html
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html
+- https://zunpen.github.io/kipp-students/portfolio/week-01.html
+- https://zunpen.github.io/kipp-students/portfolio/week-02.html
+- https://zunpen.github.io/kipp-students/portfolio/week-03.html
+- https://zunpen.github.io/kipp-students/portfolio/week-04.html
+- https://zunpen.github.io/kipp-students/portfolio/week-06.html
+- https://zunpen.github.io/kipp-students/portfolio/week-07.html
+- https://zunpen.github.io/kipp-students/portfolio/week-08.html
+- https://zunpen.github.io/kipp-students/portfolio/week-09.html
+- https://zunpen.github.io/kipp-students/portfolio/week-10.html
+- https://zunpen.github.io/kipp-students/portfolio/week-11.html
+- https://zunpen.github.io/kipp-students/portfolio/week-12.html
+- https://zunpen.github.io/kipp-students/portfolio/week-13.html
+- https://zunpen.github.io/kipp-students/portfolio/week-14.html
+- https://zunpen.github.io/kipp-students/portfolio/week-15.html
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://zunpen.github.io/kipp-students/portfolio/week-05.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

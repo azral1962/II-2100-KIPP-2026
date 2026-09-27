@@ -1,0 +1,144 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 100
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Target map
+Attention pitch
+Response dan state assessment
+Evidence dan refleksi
+Self-assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Target map
+Person
+Relevance
+Authority
+Current state
+Kepala layanan fasilitas
+Bertanggung jawab atas penggunaan ruang
+Dapat menyetujui pilot
+Unaware/Netral
+Petugas meja layanan
+Menghadapi konflik reservasi
+Dapat menjalankan proses
+Problem aware
+Ketua kelompok mahasiswa
+Pengguna rutin
+Dapat menguji solusi
+Problem aware
+Tim TI kampus
+Menjaga sistem resmi
+Diperlukan bila integrasi permanen
+Belum dilibatkan
+Nadia memilih petugas meja layanan sebagai target awal karena memiliki direct experience dan dapat memvalidasi masalah. Ia tidak langsung meminta persetujuan sistem kepada kepala layanan.
+Attention pitch
+“Dalam tiga interview pengguna minggu ini, dua kelompok melaporkan pertemuan terlambat 15–25 menit karena status ruang tersebar di beberapa chat. Catatan meja layanan juga menunjukkan empat pertanyaan reservasi dalam lima hari. Saya belum menyimpulkan bahwa ruangnya kurang. Bolehkah kita memeriksa apakah masalah utamanya visibilitas status dan no-show?”
+Evidence yang dipakai: tiga interview teranonymisasi dan hitungan pertanyaan reservasi. Nadia menyebut ukuran sampel agar tidak menggeneralisasi.
+Response dan state assessment
+Petugas menjawab, “Pertanyaan memang banyak, tetapi data empat kasus itu dari minggu orientasi; biasanya lebih sepi.” Response ini menunjukkan target mengakui issue, tetapi meragukan magnitude. State berpindah dari problem aware menjadi attention dengan reservation, belum Interest.
+Nadia mengadaptasi:
+“Benar, minggu orientasi mungkin tidak representatif. Bisakah saya membandingkan catatan dua minggu biasa sebelum menawarkan solusi?”
+Petugas mengizinkan observasi agregat tanpa nama pengguna. Objective percakapan berubah dari memperoleh dukungan pilot menjadi menyepakati pengumpulan evidence yang lebih baik.
+Evidence dan refleksi
+Target map versi sebelum dan sesudah percakapan.
+Rekaman role-play serta observer note pada respons target.
+Agreement: petugas memberikan hitungan agregat dua minggu pada Jumat; Nadia tidak mengakses chat pribadi.
+AI digunakan untuk menguji apakah pitch membedakan evidence dan inference. AI tidak digunakan untuk membuat angka.
+Next practice: menyampaikan relevance dalam 30 detik tanpa menghilangkan keterbatasan data.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Target dipilih berdasarkan relevance dan authority
+Objective & State
+3
+State target dinilai dan diperbarui
+Repertoire, Language & AI
+3
+Pitch ringkas, evidence terbatas dinyatakan
+Response & Adaptation
+4
+Challenge target mengubah objective menjadi validasi data
+Agreement, Action & Relationship
+3
+Akses data agregat dan batas privacy disepakati
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Ali Baba
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://azral1962.github.io/kipp-alibaba/index.html
+- https://azral1962.github.io/kipp-alibaba/assets/logo.png
+- https://azral1962.github.io/kipp-alibaba/course/index.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/index.html
+- https://azral1962.github.io/kipp-alibaba/examples/index.html
+- https://azral1962.github.io/kipp-alibaba/assessment/index.html
+- https://azral1962.github.io/kipp-alibaba/about.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-02.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-03.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-04.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-05.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-07.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-08.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-09.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-10.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-11.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-12.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-13.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-14.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-15.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html#target-map
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html#attention-pitch
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html#response-dan-state-assessment
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html#evidence-dan-refleksi
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

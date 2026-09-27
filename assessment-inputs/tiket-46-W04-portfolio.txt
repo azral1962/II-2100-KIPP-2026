@@ -1,0 +1,204 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 46
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Detoks jargon
+Lima versi language
+Feedback understanding
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Tugas ini dikerjakan dalam rangka persiapan portfolio Minggu 4. Salah satu versi penjelasan diuji melalui percakapan langsung dengan seorang teman.
+Persons dan relationship: Saya menyusun penjelasan untuk lima target, yaitu teman, rekan teknis, manajer, pelanggan atau pengguna, dan masyarakat umum. Feedback pemahaman diperoleh dari seorang teman tanpa mencantumkan identitas pribadinya.
+Objective dan initial state: Tujuan saya adalah menjelaskan autentikasi dua faktor atau 2FA kepada lima target dengan bahasa yang berbeda tanpa mengubah makna utamanya. Sebelum melakukan latihan ini, saya cenderung menggunakan satu cara penjelasan yang sama tanpa selalu mempertimbangkan pengetahuan dan kebutuhan pendengar.
+Evidence
+Detoks jargon
+Konsep teknis: Autentikasi dua faktor atau two-factor authentication (2FA).
+Definisi teknis: 2FA adalah proses verifikasi identitas yang menggunakan dua jenis faktor berbeda sebelum pengguna dapat mengakses akun.
+Jargon
+Arti sederhana
+Autentikasi
+Proses memeriksa bahwa orang yang masuk memang pemilik akun
+Faktor autentikasi
+Jenis bukti yang digunakan untuk membuktikan identitas
+OTP
+Kode verifikasi yang hanya berlaku satu kali atau dalam waktu singkat
+Core meaning: 2FA menambahkan bukti identitas kedua sehingga kata sandi yang bocor saja biasanya belum cukup untuk masuk ke akun.
+Hal penting yang harus dipertahankan adalah kedua bukti tersebut berasal dari kategori yang berbeda. Kata sandi dan PIN saja belum termasuk 2FA karena keduanya sama-sama merupakan informasi yang diketahui pengguna. Contoh dua faktor berbeda adalah kata sandi dan kode dari aplikasi autentikator atau kunci keamanan.
+Lima versi language
+Target dan character
+Versi language
+Alasan perubahan language dan repertoire
+Friend
+“2FA itu seperti dua kali pemeriksaan saat masuk ke akun. Setelah memasukkan kata sandi, kamu masih perlu kode dari aplikasi atau bukti kedua dari perangkatmu. Jadi, kalau kata sandimu bocor, orang lain belum tentu bisa langsung masuk.”
+Menggunakan bahasa santai, kalimat singkat, dan contoh proses masuk ke akun yang dekat dengan kehidupan sehari-hari.
+Technical peer
+“2FA memverifikasi pengguna melalui dua kategori faktor yang berbeda, misalnya knowledge factor berupa kata sandi dan possession factor berupa TOTP atau security key. Kata sandi ditambah PIN belum termasuk 2FA karena keduanya berada dalam kategori yang sama. Implementasinya juga perlu memperhatikan pemulihan akun dan ketahanan terhadap phishing.”
+Menggunakan istilah teknis yang presisi, menjelaskan batas definisi, dan menyebutkan pertimbangan implementasi.
+Manager
+“Penerapan 2FA dapat mengurangi risiko akses tidak sah ketika kata sandi pegawai bocor, terutama pada akun administrator dan keuangan. Penerapan dapat dimulai dari akun berisiko tinggi dengan tetap memperhitungkan proses aktivasi, pelatihan, dan pemulihan akun.”
+Menekankan risiko, prioritas penerapan, kebutuhan dukungan, dan dampaknya bagi organisasi.
+Customer atau user
+“Aktifkan 2FA melalui pengaturan keamanan akun. Setelah memasukkan kata sandi, Anda akan diminta memberikan bukti kedua, misalnya kode dari aplikasi autentikator. Simpan kode pemulihan di tempat aman dan jangan membagikan kode verifikasi kepada orang lain.”
+Menggunakan instruksi langsung, menjelaskan tindakan yang harus dilakukan, dan memberikan pengingat keamanan.
+Public
+“2FA dapat dibayangkan seperti pintu dengan dua kunci yang berbeda. Kata sandi menjadi kunci pertama, sedangkan kode atau perangkat milik Anda menjadi kunci kedua. Jika satu kunci diketahui orang lain, akun masih memiliki pemeriksaan tambahan.”
+Menggunakan analogi yang mudah dibayangkan dan menghindari istilah teknis yang tidak diperlukan.
+Feedback understanding
+Versi untuk teman diuji kepada seorang teman tanpa memberikan penjelasan tambahan di luar teks. Setelah mendengar penjelasan tersebut, teman saya menyatakan bahwa ia memahami maksud 2FA dan tidak menemukan bagian yang membingungkan.
+Feedback tersebut menunjukkan bahwa contoh dua tahap pemeriksaan dan manfaat ketika kata sandi bocor sudah dapat dipahami. Karena tidak ditemukan kesalahpahaman, versi untuk teman tidak memerlukan perubahan besar. Saya tetap mempertahankan frasa “bukti kedua” agar penjelasan tidak disalahartikan sebagai penggunaan dua kata sandi.
+Evidence yang digunakan adalah lima versi penjelasan, alasan adaptasi untuk setiap target, dan ringkasan feedback langsung dari seorang teman. Feedback ditulis berdasarkan percakapan yang benar-benar dilakukan dan bukan kutipan kata per kata.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Kelima target dibedakan berdasarkan pengetahuan, kebutuhan, dan keputusan yang perlu mereka ambil. Saya tidak menganggap satu gaya penjelasan cocok untuk semua orang.
+Objective & state
+Core meaning tetap sama pada semua versi, yaitu perlunya bukti kedua agar kata sandi yang bocor saja biasanya belum cukup untuk masuk ke akun. Perubahan hanya dilakukan pada bahasa, detail, dan contoh.
+Repertoire & language
+Repertoire berubah dari percakapan santai, penjelasan teknis, ringkasan risiko untuk manajer, petunjuk tindakan bagi pengguna, hingga analogi untuk publik. Istilah teknis dipakai ketika target memiliki konteks yang sesuai.
+Response & adaptation
+Teman memahami versi yang diuji dan tidak menemukan bagian yang membingungkan. Respons tersebut menunjukkan bahwa penyederhanaan bahasa tidak menghilangkan makna utama.
+Agreement/action
+Versi pengguna menjelaskan tindakan mengaktifkan 2FA, menyimpan kode pemulihan, dan menjaga kerahasiaan kode verifikasi. Versi manajer memberikan arah penerapan berdasarkan tingkat risiko.
+Relationship outcome
+Penyesuaian bahasa membantu setiap target memperoleh informasi sesuai kebutuhannya tanpa merasa dibebani jargon yang tidak diperlukan.
+Penggunaan AI
+Saya menggunakan AI untuk membantu menyusun alternatif bahasa bagi lima target, memeriksa konsistensi core meaning, dan merapikan struktur portfolio. Saya menerima penjelasan bahwa 2FA harus menggunakan dua kategori faktor yang berbeda dan menolak bahasa yang memberi kesan bahwa 2FA menjamin akun tidak mungkin dibobol. Saya memeriksa kembali setiap versi dan menguji versi teman kepada orang lain. Feedback teman berasal dari percakapan nyata dan tidak dibuat oleh AI. Tidak ada data pribadi yang dimasukkan dalam proses penyusunan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Teman saya menyatakan bahwa penjelasan 2FA mudah dipahami dan tidak ada bagian yang membingungkan. Ia memahami bahwa setelah memasukkan kata sandi, pengguna masih membutuhkan pemeriksaan kedua untuk masuk ke akun.
+Adaptation/replay: Karena feedback tidak menunjukkan kesalahpahaman, saya mempertahankan struktur versi teman. Saya tetap menegaskan bahwa pemeriksaan kedua menggunakan jenis bukti yang berbeda agar konsepnya tidak bergeser menjadi sekadar penggunaan dua kata sandi.
+Next practice: Pada latihan berikutnya, saya akan menguji satu penjelasan teknis kepada orang yang belum mengenal konsepnya dan meminta orang tersebut menjelaskan kembali dengan bahasanya sendiri. Cara ini dapat membantu saya menemukan bagian yang masih ambigu meskipun pendengar mengatakan sudah memahami penjelasan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Saya membedakan lima target berdasarkan kebutuhan dan tingkat pengetahuannya.
+Objective & State
+3
+Core meaning tetap konsisten pada semua versi tanpa memberikan jaminan keamanan yang berlebihan.
+Repertoire, Language & AI
+4
+Saya menggunakan lima repertoire yang berbeda, menjelaskan alasan adaptasinya, dan memeriksa batas penggunaan AI.
+Response & Adaptation
+3
+Versi teman diuji dan feedback menunjukkan bahwa penjelasan dapat dipahami tanpa konteks tambahan.
+Agreement, Action & Relationship
+3
+Versi pengguna dan manajer memberikan tindakan yang jelas sesuai kebutuhan masing-masing.
+Total: 16 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#detoks-jargon
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#lima-versi-language
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#feedback-understanding
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://mnabilaizar.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

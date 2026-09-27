@@ -1,0 +1,166 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 3
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Episode yang dianalisis
+Perubahan language
+Evidence, AI, dan feedback
+Self-assessment
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — reflective learner
+Diri sendiri setelah menerima feedback
+Memisahkan kesalahan dari identitas dan memilih perbaikan
+Jurnal fact/story; “Bagian mana yang dapat saya ubah?”
+Self-blame; tulis tiga fakta sebelum kesimpulan
+Family — kakak
+Adik yang sedang memilih kegiatan sekolah
+Membantu ia memilih, bukan memilihkan
+Pertanyaan terbuka, paraphrase, pilihan
+Menggurui; minta izin sebelum memberi saran
+Friends — sahabat
+Teman dekat yang sedang kewalahan
+Memberi dukungan sesuai kebutuhannya
+Listening; “Mau didengar atau mencari solusi?”
+Terlalu cepat memberi solusi; tunggu lima detik
+Work — koordinator tim
+Empat rekan tugas kuliah
+Membuat tanggung jawab dan tenggat eksplisit
+Check-in, option, written confirmation
+Terdengar memerintah; jelaskan kebutuhan bersama
+Community — anggota panitia
+Pengurus dan warga asrama
+Membuka partisipasi dan mencapai tindakan layak
+Round-robin, summary, voting bila perlu
+Hanya mendengar suara dominan; undang suara yang diam
+Episode yang dianalisis
+Konteks: Bagian narasi milik “Raka” terlambat dua hari. Nadia awalnya melihat Raka hanya sebagai “anggota yang tidak disiplin”. Itu adalah story, bukan fakta. Fakta yang tersedia baru satu: dokumen narasi belum masuk pada waktu yang disepakati.
+Objective: Beralih dari ketidakjelasan menjadi pembagian kerja dan tenggat baru yang disepakati, sambil menjaga hubungan kerja.
+Nadia: “Sebelum kita menentukan tenggat baru, boleh ceritakan apa yang menghambat bagian narasi?”
+Raka: “Saya dapat jadwal kerja tambahan. Drafnya baru 30 persen.”
+Nadia: “Berarti hambatan utamanya waktu. Apakah saya menangkapnya dengan benar?”
+Raka: “Iya.”
+Nadia: “Kita bisa memperpendek narasi atau membagi bagian kedua. Pilihan mana yang paling mungkin?”
+Response Raka mengubah repertoire Nadia dari instruksi menjadi problem-solving bersama. Agreement akhirnya: Raka mengirim pembuka pukul 12.00, Nadia menyelesaikan bagian kedua, dan editor mulai pukul 15.00.
+Perubahan language
+Sebagai sahabat, Nadia akan berkata, “Kamu ingin didengar dulu atau mencari solusi bersama?” Sebagai koordinator, ia berkata, “Tim membutuhkan narasi sebelum editing; pembagian mana yang realistis?” Core care tetap ada, tetapi responsibility dan action berbeda.
+Evidence, AI, dan feedback
+Evidence fiktif: transcript menit 02:10–05:45, riwayat revisi dokumen, dan catatan observer.
+AI digunakan setelah percakapan untuk memisahkan fakta dan asumsi. Nama asli tidak dimasukkan.
+Nadia menolak label AI “tidak disiplin” karena tidak didukung evidence.
+Observer mencatat Nadia sudah bertanya, tetapi terlalu cepat menawarkan pilihan.
+Next practice: berhenti lima detik setelah pertanyaan penting.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3
+Person, context, relationship, dan character dipetakan
+Objective & State
+3
+State awal dan state tujuan eksplisit
+Repertoire, Language & AI
+3
+Language berubah sesuai character; batas AI jelas
+Response & Adaptation
+3
+Informasi baru mengubah pembagian kerja
+Agreement, Action & Relationship
+3
+Owner, deadline, dan dampak relationship tercatat
+Total: 15/20 — Kompeten. Belum level 4 karena perubahan power dan objective yang saling bersaing belum dianalisis.
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://azral1962.github.io/kipp-alibaba/index.html
+- https://azral1962.github.io/kipp-alibaba/assets/logo.png
+- https://azral1962.github.io/kipp-alibaba/course/index.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/index.html
+- https://azral1962.github.io/kipp-alibaba/examples/index.html
+- https://azral1962.github.io/kipp-alibaba/assessment/index.html
+- https://azral1962.github.io/kipp-alibaba/about.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-02.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-03.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-04.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-05.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-06.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-07.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-08.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-09.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-10.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-11.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-12.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-13.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-14.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-15.html
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#kompetensi-target
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#evidence-wajib
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#lima-character
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#episode-yang-dianalisis
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#perubahan-language
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#evidence-ai-dan-feedback
+- https://azral1962.github.io/kipp-alibaba/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

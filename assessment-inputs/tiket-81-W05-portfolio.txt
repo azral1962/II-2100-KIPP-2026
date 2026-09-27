@@ -1,0 +1,242 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 81
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://tristanaw1.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Konteks performance
+Initial assumption
+Pertanyaan discovery
+Evidence: catatan percakapan
+Problem, need, request, dan solution
+Impact dan constraint
+Impact
+Constraint
+Pembaruan initial assumption
+Shared problem statement
+Analisis komunikasi
+Authority dan keterbatasan evidence
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery interview mengenai kendala partisipasi anggota dalam kegiatan badminton UKT.
+Kompetensi target
+Mendengarkan sebelum menawarkan solusi dan membangun shared problem statement bersama target berdasarkan problem, need, impact, dan constraint yang ditemukan.
+Konteks performance
+Tanggal dan setting: 26 September 2026, percakapan pribadi selama sekitar 10–12 menit.
+Persons dan relationship: Saya melakukan discovery interview dengan seorang anggota Unit Kebudayaan Tionghoa ITB yang pernah mengikuti atau tertarik mengikuti kegiatan badminton. Identitas interviewee disamarkan untuk menjaga privasi.
+Professional character: Saya menjalankan character sebagai Ketua Divisi Olahraga UKT yang bertanggung jawab merancang kegiatan olahraga yang relevan dan dapat diikuti anggota. Interviewee menjalankan character sebagai anggota UKT dan calon peserta kegiatan.
+Objective: Memahami kendala yang membuat anggota belum konsisten mengikuti kegiatan badminton sebelum menentukan program atau solusi.
+Initial assumption
+Sebelum interview, saya memiliki asumsi bahwa rendahnya partisipasi anggota terutama disebabkan oleh jadwal kuliah yang padat dan bentrok dengan waktu latihan.
+Saya awalnya berpikir bahwa solusi yang diperlukan adalah mengganti jadwal atau menambah pilihan waktu latihan. Namun, asumsi tersebut belum didukung evidence dari anggota sehingga saya menahan usulan solusi dan melakukan discovery interview terlebih dahulu.
+Pertanyaan discovery
+Saya menyiapkan beberapa pertanyaan terbuka:
+Ceritakan pengalaman terakhir ketika ingin mengikuti kegiatan badminton UKT.
+Apa yang membuat Anda akhirnya mengikuti atau tidak mengikuti kegiatan tersebut?
+Pada bagian mana Anda mengalami kebingungan atau kesulitan?
+Apa dampaknya jika informasi kegiatan diberikan terlalu dekat dengan hari pelaksanaan?
+Bagaimana cara Anda sekarang memperoleh informasi kegiatan?
+Informasi apa yang paling Anda butuhkan sebelum memutuskan ikut?
+Apa yang tidak boleh menjadi lebih rumit jika proses koordinasi diperbaiki?
+Menurut Anda, seperti apa kondisi idealnya?
+Evidence: catatan percakapan
+Evidence berikut merupakan catatan rekonstruksi interview dan bukan transkripsi kata per kata. Percakapan tidak direkam untuk menjaga privasi interviewee.
+Saya: “Ceritakan terakhir kali lu ingin ikut kegiatan badminton UKT.”
+Interviewee: “Gue sebenarnya ingin ikut, tetapi waktu informasinya masuk gue belum tahu bisa datang atau tidak. Pengumumannya cukup dekat dengan hari main.”
+Saya: “Jadi kendalanya terutama karena jadwal kuliah bentrok?”
+Interviewee: “Bukan cuma itu. Kadang gue belum tahu siapa yang ikut dan mainnya untuk semua level atau yang sudah jago saja.”
+Saya: “Berarti meskipun waktunya kosong, lu masih bisa ragu ikut karena belum jelas apakah kegiatannya cocok untuk level lu?”
+Interviewee: “Iya. Kalau yang ikut kelihatannya sudah jago semua, gue takut malah mengganggu.”
+Saya: “Informasi apa yang paling membantu sebelum lu memutuskan ikut?”
+Interviewee: “Minimal jadwal diumumkan lebih awal, lokasi jelas, perkiraan biaya, dan diberi tahu kalau pemula boleh ikut. Kalau bisa ada pembagian pasangan juga.”
+Saya: “Apa dampaknya kalau informasi diberikan mendekati hari pelaksanaan?”
+Interviewee: “Gue biasanya sudah punya kegiatan lain atau jadi malas memastikan satu-satu. Akhirnya tidak ikut meskipun sebenarnya tertarik.”
+Saya: “Sekarang bagaimana cara lu mencari informasi tambahan?”
+Interviewee: “Biasanya tanya di grup atau chat teman yang pernah ikut. Tapi kadang gue sungkan kalau harus tanya banyak.”
+Saya: “Kalau koordinasinya diperbaiki, apa yang tidak boleh menjadi lebih rumit?”
+Interviewee: “Jangan harus install aplikasi baru atau isi formulir yang panjang. Pakai grup yang sekarang juga tidak masalah, asal informasinya lengkap dan lebih awal.”
+Saya: “Kalau gue simpulkan, problemnya bukan hanya jadwal yang bentrok. Lu membutuhkan informasi yang lebih awal dan lengkap mengenai waktu, tempat, biaya, level peserta, dan pasangan bermain. Koordinasinya juga harus tetap sederhana. Apakah itu sesuai?”
+Interviewee: “Iya, itu lebih sesuai. Kalau informasinya jelas dari awal, gue lebih mudah memutuskan dan lebih berani ikut.”
+Problem, need, request, dan solution
+Elemen
+Hasil discovery
+Problem
+Anggota yang tertarik mengikuti badminton kesulitan memutuskan karena informasi sering diterima terlalu dekat dengan pelaksanaan dan belum menjelaskan level peserta, biaya, serta mekanisme pasangan bermain.
+Need
+Informasi yang lebih awal, lengkap, mudah ditemukan, serta kepastian bahwa peserta pemula dapat mengikuti kegiatan.
+Request interviewee
+Jadwal diumumkan lebih awal dan pengumuman mencantumkan waktu, tempat, biaya, level kegiatan, serta mekanisme pasangan.
+Solution awal saya
+Mengganti jadwal atau menambah pilihan waktu latihan.
+Status solution
+Belum diputuskan karena satu interview belum cukup membuktikan kebutuhan seluruh anggota.
+Pemisahan ini penting karena “membuat formulir pendaftaran” atau “menambah jadwal” merupakan solution option, bukan problem itu sendiri.
+Impact dan constraint
+Impact
+Anggota yang sebenarnya tertarik memilih tidak mengikuti kegiatan.
+Peserta pemula merasa kegiatan mungkin hanya ditujukan kepada pemain berpengalaman.
+Anggota perlu bertanya secara pribadi untuk memperoleh informasi tambahan.
+Divisi Olahraga tidak dapat membedakan anggota yang tidak berminat dari anggota yang tertarik tetapi masih ragu.
+Perencanaan jumlah peserta, lapangan, dan pasangan bermain menjadi kurang akurat.
+Constraint
+Informasi harus diberikan melalui saluran komunikasi yang sudah digunakan anggota.
+Anggota tidak ingin memasang aplikasi tambahan.
+Proses konfirmasi kehadiran tidak boleh terlalu panjang.
+Jadwal kuliah anggota dapat berubah sehingga pendaftaran perlu tetap fleksibel.
+Tingkat kemampuan peserta berbeda-beda.
+Satu interview belum cukup untuk menyimpulkan bahwa seluruh anggota mengalami masalah yang sama.
+Pembaruan initial assumption
+Initial assumption saya adalah bahwa kendala utama berasal dari jadwal kuliah yang bentrok. Setelah interview, assumption tersebut hanya terbukti sebagian.
+Jadwal memang berpengaruh, tetapi interview menghasilkan informasi baru bahwa ketidakjelasan mengenai level kegiatan, peserta, biaya, dan pasangan bermain juga memengaruhi keputusan anggota.
+Dengan demikian, problem tidak dapat langsung diselesaikan hanya dengan mengganti jadwal. Saya perlu memahami cara memberikan informasi yang cukup tanpa membuat proses koordinasi menjadi lebih rumit.
+Shared problem statement
+Saya merumuskan problem statement berikut:
+Anggota UKT yang tertarik mengikuti kegiatan badminton membutuhkan informasi yang lebih awal dan jelas mengenai jadwal, lokasi, biaya, level kegiatan, dan mekanisme pasangan bermain karena informasi yang terlambat atau tidak lengkap membuat mereka ragu, sulit mengatur waktu, dan akhirnya tidak berpartisipasi, sementara proses koordinasi harus tetap sederhana melalui saluran komunikasi yang sudah digunakan.
+Saya membacakan kembali problem statement tersebut kepada interviewee. Interviewee mengonfirmasi bahwa pernyataan tersebut sesuai dengan pengalamannya.
+Interviewee meminta agar frasa “anggota tidak berminat mengikuti badminton” tidak digunakan karena masalahnya bukan ketiadaan minat, melainkan ketidakpastian sebelum memutuskan. Saya menerima koreksi tersebut dan memperbarui problem statement.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Interviewee dipahami sebagai anggota yang tertarik tetapi membutuhkan kepastian, bukan sebagai anggota yang pasif atau tidak berminat. Saya juga memperhatikan posisinya sebagai peserta pemula.
+Objective & state
+Objective awal adalah menemukan penyebab rendahnya partisipasi. State berubah dari asumsi “jadwal bentrok” menjadi problem yang mencakup waktu informasi, kelengkapan informasi, dan rasa aman peserta pemula.
+Repertoire & language
+Saya menggunakan pertanyaan terbuka, probing question, paraphrase, dan confirmation. Saya menghindari langsung menawarkan formulir, aplikasi, atau tambahan jadwal.
+Response & adaptation
+Ketika interviewee mengatakan bahwa masalahnya bukan hanya jadwal, saya memperluas pertanyaan kepada level peserta, biaya, pasangan bermain, dan proses koordinasi.
+Agreement/action
+Shared problem statement dikonfirmasi interviewee. Belum ada solution yang diputuskan sebelum evidence tambahan dikumpulkan.
+Relationship outcome
+Interviewee merasa pengalamannya dipahami dan bersedia memberikan masukan lanjutan apabila rancangan kegiatan badminton telah dibuat.
+Authority dan keterbatasan evidence
+Sebagai Ketua Divisi Olahraga, saya memiliki authority untuk menyusun rancangan kegiatan dan sistem komunikasi. Namun, keputusan mengenai anggaran, penggunaan fasilitas, dan kebijakan unit tetap memerlukan koordinasi dengan ketua unit serta pihak terkait.
+Evidence ini hanya berasal dari satu interview sehingga belum mewakili seluruh anggota UKT. Saya tidak menggunakan satu pengalaman untuk langsung menyimpulkan bahwa semua anggota memiliki problem yang sama.
+Penggunaan AI
+Saya menggunakan AI untuk menerjemahkan beberapa istilah berbahasa Inggris, membantu menyusun struktur portfolio, dan merapikan redaksi berdasarkan catatan discovery yang saya berikan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Interviewee mengoreksi asumsi bahwa anggota tidak ikut karena tidak berminat. Ia menjelaskan bahwa ketidakjelasan informasi dan kekhawatiran mengenai tingkat kemampuan peserta membuatnya ragu.
+Adaptation/replay: Saya berhenti memusatkan interview pada masalah jadwal dan mulai menanyakan current workaround, informasi yang dibutuhkan, serta constraint yang harus dipertahankan. Adaptation tersebut menghasilkan problem statement yang lebih luas dan tidak langsung menetapkan solution.
+Next practice: Saya akan melakukan sedikitnya dua discovery interview tambahan kepada anggota dengan tingkat pengalaman badminton berbeda. Saya akan membandingkan problem, need, impact, dan constraint sebelum merancang bentuk kegiatan atau sistem pendaftaran.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Pengalaman anggota dan kekhawatiran peserta pemula dipetakan tanpa memberi label
+Objective & State
+3
+Initial assumption diuji dan diperbarui berdasarkan response
+Repertoire, Language & AI
+3
+Menggunakan pertanyaan terbuka, paraphrase, confirmation, dan AI secara terbatas
+Response & Adaptation
+3
+Fokus interview berubah setelah ditemukan bahwa masalah bukan hanya jadwal
+Agreement, Action & Relationship
+3
+Shared problem statement dikonfirmasi dan next step ditetapkan
+Total: 17/20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Tristan Anthony Wijaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://tristanaw1.github.io/kipp-students/index.html
+- https://tristanaw1.github.io/kipp-students/assets/logo.png
+- https://tristanaw1.github.io/kipp-students/course/index.html
+- https://tristanaw1.github.io/kipp-students/portfolio/index.html
+- https://tristanaw1.github.io/kipp-students/examples/index.html
+- https://tristanaw1.github.io/kipp-students/lk/index.html
+- https://tristanaw1.github.io/kipp-students/slides.html
+- https://tristanaw1.github.io/kipp-students/slides-pdf/index.html
+- https://tristanaw1.github.io/kipp-students/assessment/index.html
+- https://tristanaw1.github.io/kipp-students/about.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-01.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-02.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-03.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-08.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-09.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-10.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-11.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-12.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-13.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-14.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-15.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#initial-assumption
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#pertanyaan-discovery
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#evidence-catatan-percakapan
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#problem-need-request-dan-solution
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#impact-dan-constraint
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#impact
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#constraint
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#pembaruan-initial-assumption
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#authority-dan-keterbatasan-evidence
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

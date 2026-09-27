@@ -1,0 +1,185 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 19
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://g7zel.github.io/kippKuliah/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 22 september 2026 — menceritakan proyek lomba Gemastik kepada Suci (teman dekat), sebagai uji pemahaman versi friend.
+Persons dan relationship: Saya bersama tim mengikuti lomba Gemastik kategori desain pengalaman pengguna (UI/UX), dengan fokus riset masalah pertanian. Proyek ini sudah lolos hingga tahap final. Target uji pemahaman: Suci, teman dekat saya.
+Objective dan initial state: Saya ingin menjelaskan satu core meaning yang sama, yaitu proyek riset-ke-desain soal regenerasi petani muda, kepada lima jenis pendengar berbeda tanpa mengubah fakta intinya.
+Evidence
+Core meaning (fakta yang tidak boleh berubah)
+Tim kami mengikuti Gemastik kategori desain pengalaman pengguna. Sebelum mendesain, kami melakukan riset dan wawancara untuk menemukan masalah nyata di sektor pertanian. Masalah utama yang ditemukan: regenerasi petani muda — minat generasi muda terhadap pertanian menurun, sehingga Indonesia kekurangan petani muda. Solusi yang dirancang: aplikasi yang menawarkan fitur monitoring lahan/sawah, sehingga pekerjaan petani (khususnya yang malas atau kesulitan memantau lahan secara langsung) menjadi lebih sederhana. Proyek ini sudah lolos ke tahap final.
+Lima versi bahasa
+Target/character
+Versi language
+Alasan adaptasi
+Friend (Suci)
+“Aku sama tim ikut lomba Gemastik desain UX. Kita riset masalah pertanian dulu, ternyata petani muda makin sedikit karena minatnya turun. Makanya kita bikin aplikasi buat mempermudah petani muda, ada fitur monitoring lahan biar nggak perlu capek-capek pantau langsung. Sekarang udah sampai final!”
+Bahasa santai, personal, dan menonjolkan pencapaian (lolos final) karena teman dekat akan senang mendengar progres saya.
+Technical peer (sesama mahasiswa UI/UX)
+“Kita develop UX case untuk masalah regenerasi petani muda di Gemastik. User research awal nunjukkin minat kerja di pertanian menurun karena effort monitoring lahan manual tinggi. Solusinya kita rancang fitur monitoring sawah berbasis aplikasi buat nyederhanain task petani. Sekarang di tahap final.”
+Menyebut proses (user research, fitur) dan istilah teknis UX yang dipahami sesama peer, tanpa perlu menjelaskan dasar-dasar desain.
+Manager (dosen pembimbing/ketua tim lomba)
+“Proyek kami di Gemastik mengangkat isu regenerasi petani muda yang menurun akibat beban monitoring lahan manual. Solusi yang kami usulkan adalah fitur monitoring sawah dalam aplikasi, untuk menyederhanakan pekerjaan petani muda dan mendukung minat mereka bertahan di sektor pertanian. Saat ini kami lolos ke tahap final.”
+Menekankan masalah, dampak, dan proposal solusi secara ringkas, sesuai kebutuhan pembimbing untuk menilai kelayakan proyek.
+Customer (petani atau calon pengguna aplikasi)
+“Aplikasi ini kami buat supaya Bapak/Ibu tidak perlu bolak-balik ke sawah hanya untuk memantau kondisi lahan. Ada fitur monitoring yang bisa dicek langsung dari aplikasi, jadi pekerjaan memantau lahan jadi lebih mudah.”
+Fokus pada manfaat langsung dan tindakan, tanpa istilah teknis UX atau data kompetisi yang tidak relevan bagi pengguna.
+Public
+“Salah satu masalah besar pertanian Indonesia saat ini adalah semakin sedikitnya petani muda. Kami merancang sebuah aplikasi dengan fitur monitoring lahan untuk membantu meringankan pekerjaan petani, sebagai bagian dari upaya mendukung regenerasi petani muda.”
+Konteks masalah nasional disampaikan agar relevan untuk audiens luas, tanpa detail internal proyek atau lomba.
+Evidence understanding dari Suci
+Pertanyaan 1 — “Menurut kamu, proyek ini tentang apa dan tujuannya apa?” Jawaban Suci: “Tentang mencari masalah di pertanian dan membuat solusi dalam bentuk desain aplikasi, tujuannya untuk membantu petani muda.” — Suci menangkap core meaning dengan tepat: riset masalah dulu, baru desain solusi, dan sasarannya petani muda.
+Pertanyaan 2 — “Ada yang masih bingung atau mau ditanya?” Suci bertanya: “Masih bingung tentang cara bantunya gimana?” Nada bicaranya sebenarnya menunjukkan ketertarikan pada cerita saya, bukan kebingungan yang terlihat jelas — kalau saya hanya membaca nada antusias itu, saya bisa saja mengira dia sudah paham sepenuhnya. Tetapi pertanyaannya menunjukkan masih ada bagian yang belum jelas di balik ketertarikan itu. Saya menjawab dengan menambahkan penjelasan konkret: “Kita bantu dengan cara si aplikasi menawarkan bantuan dalam bentuk monitoring sawah/kebun, makanya kita membangun aplikasi yang bisa mempersimpel kerjaan petani yang malas monitoring ke lahannya.”
+Adaptasi yang saya lakukan setelahnya: Versi friend di atas saya perbarui agar langsung menyebutkan fitur monitoring lahan, bukan hanya “bikin aplikasi buat mempermudah petani muda” yang terlalu umum. Ini sesuai dengan pertanyaan Suci yang menunjukkan bahwa cerita awal saya belum menjelaskan bagaimana aplikasi membantu.
+Evidence understanding kedua — dosen pembimbing (Manager)
+Pada 15 September 2026, saya dan tim menyampaikan proyek ini ke dosen pembimbing dalam versi manager, lalu melakukan sesi proofread bersama terhadap proposal desain pengalaman pengguna kami. Dari sesi ini ditemukan beberapa kesalahan penyusunan yang sebelumnya tidak kami sadari sendiri. Reaksi dosen pembimbing: awalnya menyelamati kami karena berhasil lolos ke tahap final, lalu di akhir sesi memberi semangat untuk terus mengerjakan lomba ini dengan lebih baik.
+Berbeda dari Suci yang perlu penjelasan lebih konkret soal “bagaimana”, dosen pembimbing justru menangkap core meaning dengan cepat dan langsung masuk ke evaluasi teknis (kesalahan penyusunan proposal). Ini menunjukkan versi manager saya sudah cukup ringkas dan berorientasi keputusan, sesuai audiensnya yang punya konteks lebih dari sekadar teman dekat.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Kelima target dibedakan berdasarkan kebutuhan informasi mereka, misalnya teman ingin tahu progres saya, sedangkan calon pengguna ingin tahu manfaat langsung.
+Objective & state
+Core meaning (masalah regenerasi petani muda dan solusi monitoring lahan) tetap konsisten di semua versi.
+Repertoire & language
+Bahasa berubah dari santai (friend), istilah UX (technical peer), ringkas dan berorientasi keputusan (manager), instruksional (customer), hingga kontekstual luas (public).
+Response & adaptation
+Nada tertarik Suci hampir membuat saya mengira dia sudah paham penuh, tetapi pertanyaannya (“cara bantunya gimana?”) menunjukkan sinyal kebingungan yang tidak terlihat jelas dari nada bicaranya. Saya tidak berhenti di kesan “dia terlihat senang”, melainkan tetap menangkap pertanyaannya dan menambahkan penjelasan fitur monitoring lahan supaya lebih jelas.
+Agreement/action
+Dengan Suci tidak ada agreement formal, tetapi dengan dosen pembimbing ada tindakan nyata: sesi proofread bersama yang menghasilkan perbaikan konkret pada proposal desain pengalaman pengguna kami.
+Relationship outcome
+Suci memahami inti proyek dan cukup terlibat untuk bertanya lebih lanjut. Dosen pembimbing merespons dengan apresiasi atas pencapaian ke final dan dorongan semangat, menunjukkan versi manager berhasil membangun kepercayaan sekaligus membuka evaluasi teknis yang membangun.
+Penggunaan AI
+Memahami materi: Claude membantu saya memahami konsep meaning, repertoire, dan adaptasi bahasa.
+Menyusun draf: di sesi ini, saya menceritakan fakta proyek (masalah regenerasi petani muda, solusi monitoring lahan, status final) serta hasil obrolan dengan Suci. Claude menyusun tabel analisis berdasarkan fakta tersebut.
+Yang berasal dari saya: fakta proyek, isi percakapan dengan Suci, dan keputusan untuk menambahkan penjelasan fitur monitoring lahan.
+Pemeriksaan: saya memastikan kelima versi tidak mengubah fakta inti (masalah, solusi, status final) dan tidak membocorkan detail internal lomba yang sensitif.
+Feedback dan tindak lanjut
+Feedback yang diterima: Suci memahami tujuan proyek dengan tepat, tetapi butuh penjelasan lebih konkret soal cara aplikasi membantu petani.
+Adaptation/replay: Saya menambahkan kalimat spesifik tentang fitur monitoring lahan ke versi friend, dan akan memakai pendekatan serupa (menyebutkan fitur konkret sejak awal) untuk versi lain seperti public.
+Next practice: Menguji versi customer atau technical peer ke target nyata berikutnya, untuk melihat apakah pertanyaan yang muncul berbeda dari yang diajukan Suci dan dosen pembimbing.
+Self-assessment
+Usulan skor, silakan disesuaikan.
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Lima target dibedakan berdasarkan kebutuhan, bukan asumsi kasar
+Objective & State
+3
+Core meaning konsisten di semua versi
+Repertoire, Language & AI
+3
+Lima repertoire berbeda; penggunaan AI dinyatakan
+Response & Adaptation
+4
+Mendeteksi sinyal lemah: nada tertarik Suci nyaris menutupi kebingungannya, tetapi pertanyaannya tetap ditangkap dan direspons dengan penjelasan lebih konkret
+Agreement, Action & Relationship
+3
+Ada evidence dari dua target (Suci dan dosen pembimbing), dengan tindakan nyata: sesi proofread yang menghasilkan perbaikan proposal
+Total: 16 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://g7zel.github.io/kippKuliah/index.html
+- https://g7zel.github.io/kippKuliah/assets/logo.png
+- https://g7zel.github.io/kippKuliah/course/index.html
+- https://g7zel.github.io/kippKuliah/portfolio/index.html
+- https://g7zel.github.io/kippKuliah/examples/index.html
+- https://g7zel.github.io/kippKuliah/assessment/index.html
+- https://g7zel.github.io/kippKuliah/about.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-01.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-02.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-03.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-05.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-06.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-07.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-08.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-09.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-10.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-11.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-12.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-13.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-14.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-15.html
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#kompetensi-target
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#evidence-wajib
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#konteks-performance
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#evidence
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#analisis-komunikasi
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#penggunaan-ai
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#self-assessment
+- https://g7zel.github.io/kippKuliah/portfolio/week-04.html#assessment-dosen
+- https://g7zel.github.io/kippKuliah/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

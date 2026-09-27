@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 56
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://vescentongit.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Initial Assumption dan Rencana Discovery
+Potongan Transcript dan Paraphrase
+Pembaruan Pembacaan, Impact, dan Constraint
+Evidence
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Initial Assumption dan Rencana Discovery
+Initial assumption sebelum interview: Saya berasumsi Google Student Ambassador (GSA) sudah menjalankan pendampingan akademis mendalam seperti bedah jurnal, metodologi riset, dan kolaborasi dengan dosen di kelas. Saya juga berasumsi solusi lomba BCC Google yang kami usulkan bernama Gemini Academic Fellows akan tumpang tindih dengan peran GSA.
+Tujuan discovery: Memetakan apa yang sebenarnya dilakukan GSA sehari hari, siapa audiensnya, KPI-nya, batasannya di ranah akademis formal, persepsi mahasiswa, serta menguji apakah Gemini Academic Fellows feasible dan saling melengkapi atau justru overlap.
+Interviewee: S.N.K., Google Student Ambassador aktif.
+Pertanyaan discovery yang diajukan:
+Boleh cerita pengalaman selama jadi GSA, fokus utamanya bikin event promosi umum atau program akademis spesifik?
+Audiens utama GSA siapa dan bentuk acaranya seperti apa?
+Seberapa sering sesi GSA membahas hal teknis akademis mendalam seperti metodologi riset atau bedah jurnal?
+Metrik KPI GSA dinilai dari apa?
+Ada kendala saat mencoba masuk ke ranah akademis formal seperti kolaborasi dengan dosen atau pendampingan tugas?
+Mahasiswa melihat GSA sebagai ambassador promo atau tempat diskusi teknis AI untuk riset?
+Pernahkah GSA diundang dosen untuk mengisi sesi pembekalan di kelas?
+Jika ada program Gemini Academic Fellows yang rekrut Asdos dan Aslab untuk pendampingan riset 100 persen, apakah akan overlap dengan GSA?
+Jika GSA fokus Top of Funnel awareness dan Fellows fokus pendampingan mendalam, apakah bisa saling melengkapi?
+Potongan Transcript dan Paraphrase
+Saya: “Boleh cerita sedikit tentang pengalaman kamu selama jadi GSA? Fokusnya lebih ke bikin event promosi umum atau ada program akademis spesifik?” S.N.K.: “Kebanyakan bikin konten di YouTube, Instagram, dan TikTok tentang produk Google terutama Gemini, karena setiap minggu pasti ada brief tema konten apa yang harus dibuat. Kalau bikin event promosi offline ga pernah walaupun di encourage dan bisa naikin rank.”
+Saya: “Seberapa sering sesi kalian membahas hal teknis akademis mendalam seperti metodologi riset atau bedah jurnal?” S.N.K.: “Setau gw jarang sih, ga fokus ke bahas gituan.”
+Saya: “Mahasiswa melihat GSA lebih sebagai ambassador promo atau tempat diskusi teknis?” S.N.K.: “Ambassador produk aja sih, jarang yang ngelihat sebagai tempat diskusi teknis.”
+Saya: “Kalau dirancang Gemini Academic Fellows yang khusus Asdos dan Aslab untuk pendampingan riset seperti Prompt Workbook per mata kuliah dan Klinik Bedah Jurnal, bakal overlap ga?” S.N.K.: “Engga sih aman aja.”
+Saya: “Kalau GSA tetap di Top of Funnel awareness dan Fellows di pendampingan mendalam, bisa saling melengkapi?” S.N.K.: “Saling melengkapi kok. Paling sarannya ada dorongan atau event yang melibatkan 2 peran ini secara langsung. Kalau engga juga gpp karena fokusnya beda juga.”
+Paraphrase dan klarifikasi yang saya lakukan: Setelah jawaban tentang KPI referral dan event, saya memparafrase, “Jadi penilaian utama GSA itu klik referral, jumlah pendaftar event, dan impresi medsos, bukan depth pendampingan akademis?” S.N.K. membenarkan dan menambahkan ada top 10 best GSA per minggu meski KPI tidak sepenuhnya transparan.
+Pembaruan Pembacaan, Impact, dan Constraint
+Initial assumption tidak sepenuhnya didukung. Evidence interview menunjukkan GSA bukan pendamping akademis. Peran aktual adalah content creator produk Google sesuai brief mingguan, audiens utama mahasiswa, bentuk acara bebas workshop atau booth atau talkshow namun jarang dilakukan offline, KPI berbasis referral dan impresi, dan jarang membahas riset mendalam.
+Impact: Mahasiswa mempersepsikan GSA sebagai ambassador promo, bukan tempat diskusi teknis. Akibatnya kebutuhan pendampingan riset seperti Prompt Workbook dan bedah jurnal belum terlayani oleh peran GSA.
+Constraint yang perlu dipertahankan: GSA terikat brief konten mingguan dari Google dan tidak memiliki mandat formal untuk masuk ke materi kuliah atau bimbingan tugas. S.N.K. menyatakan tidak ada kendala besar untuk masuk ke akademis, namun faktor pendorongnya adalah inisiatif mahasiswa yang kurang push promosi di kampus. Juga S.N.K. menilai GSA belum pernah diundang dosen untuk sesi kelas, jadi constraint adalah legitimasi akademis dan kapasitas waktu.
+Shared problem statement yang dikonfirmasi S.N.K.:
+“Mahasiswa membutuhkan pemisahan peran yang jelas antara GSA yang fokus pada awareness ekosistem Google melalui konten dan event besar Top of Funnel, dengan Gemini Academic Fellows yang fokus pada pendampingan akademis mendalam di kelas dan lab seperti Prompt Workbook kustom dan Klinik Bedah Jurnal, agar tidak tumpang tindih dan dapat saling melengkapi melalui event kolaboratif terstruktur.”
+S.N.K. mengonfirmasi pernyataan ini dengan jawaban “saling melengkapi kok” dan saran perlunya event yang melibatkan kedua peran jika memungkinkan, namun tetap aman jika berjalan terpisah karena fokus berbeda. Ini menjadi validasi bahwa solusi yang kami tawarkan feasible dan tidak overlap.
+Evidence
+Transcript lengkap 9 pertanyaan dan jawaban dari interview dengan S.N.K. via chat, serta catatan paraphrase KPI. Kontribusi saya adalah menyusun pertanyaan discovery, melakukan paraphrase untuk memastikan pemahaman, dan merumuskan shared problem statement yang kemudian dikonfirmasi interviewee.
+Transcript interview GSA S.N.K. tentang pemetaan peran dan feasibility Gemini Academic Fellows
+Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person dan character
+Saya sebagai interviewer dengan professional character discovery, S.N.K. sebagai GSA dengan pengalaman content creation. Keduanya diposisikan sebagai kolaborator untuk memetakan problem, bukan sebagai penilai.
+Objective dan state
+State awal berasumsi GSA sudah akademis dan akan overlap. State tujuan adalah mendapat kejelasan peran aktual dan validasi feasibility. Objective tercapai karena mendapat konfirmasi bahwa GSA promo dan Fellows pendampingan bisa komplementer.
+Repertoire dan language
+Repertoire berupa open question, paraphrase, dan confirmation. Language yang digunakan santai namun terstruktur, menyesuaikan konteks mahasiswa ke mahasiswa, tanpa jargon lomba yang berlebihan di awal.
+Response dan adaptation
+Respons S.N.K. yang menyatakan jarang bahas riset dan hanya ambassador produk membuat saya menahan solusi dan menggali lebih dalam tentang KPI dan persepsi. Adaptasi berupa perubahan assumption dari overlap menjadi komplementer.
+Agreement dan action
+Agreement berupa shared problem statement yang dikonfirmasi S.N.K. Action selanjutnya adalah melanjutkan perancangan Gemini Academic Fellows dengan fokus di kelas dan lab, serta merancang opsi event kolaboratif GSA dan Fellows.
+Relationship outcome
+Relasi profesional terjaga dengan baik, interviewee merasa didengar dan memberi saran konstruktif. Memberi fondasi untuk follow up interview tambahan dengan dosen atau Asdos untuk validasi lanjutan.
+Penggunaan AI
+Menggunakan Opencode untuk merapikan transcript dan memberi label fact, interpretation, dan solution suggestion. Prompt berisi transcript asli dengan instruksi untuk tidak mengubah makna. Saya memeriksa ulang setiap label terhadap jawaban asli S.N.K. dan tidak memasukkan nama lengkap atau kontak pribadi. Bagian yang ditolak adalah ringkasan AI yang menyimpulkan GSA tidak efektif, karena evidence hanya menunjukkan fokus berbeda, bukan tidak efektif. Pembelajaran sebagai manusia adalah kemampuan membedakan problem dan solution sebelum proposing.
+Feedback dan Tindak Lanjut
+Feedback yang diterima: S.N.K. memberi feedback bahwa struktur dua peran saling melengkapi dan menyarankan adanya event yang melibatkan keduanya secara langsung agar sinergi terlihat.
+Adaptation atau replay: Saya merevisi problem statement awal yang menyebut “overlap” menjadi “pemisahan peran yang komplementer” setelah mendapat konfirmasi. Saya juga mengeluarkan pertanyaan yang leading tentang apakah GSA ingin jadi pendamping akademis.
+Next practice: Melakukan dua interview tambahan dengan Asdos dan dosen untuk menguji constraint legitimasi di kelas, serta menanyakan current workaround mahasiswa dalam mendapatkan pendampingan riset sebelum menyebut solusi.
+Self-assessment
+Dimensi
+Skor 1 sampai 4
+Evidence Singkat
+Person dan Character
+3
+Pengalaman, constraint, dan persepsi person GSA dipetakan tanpa stereotipe.
+Objective dan State
+4
+Asumsi awal diperbarui secara eksplisit menjadi problem statement yang dikonfirmasi interviewee.
+Repertoire, Language dan AI
+3
+Open question, paraphrase, confirmation digunakan, AI hanya untuk labeling dan diperiksa ulang.
+Response dan Adaptation
+4
+Respons tentang jarang bahas akademis dan KPI referral membuat saya menahan solusi dan mengubah framing menjadi komplementer.
+Agreement, Action dan Relationship
+2
+Problem statement dikonfirmasi, namun belum ada pesan tertulis terpisah sebagai bukti konfirmasi formal dan next interview belum terjadwal.
+Total: 16/20
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Muhammad Orkhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://vescentongit.github.io/kipp-students/index.html
+- https://vescentongit.github.io/kipp-students/assets/logo.png
+- https://vescentongit.github.io/kipp-students/course/index.html
+- https://vescentongit.github.io/kipp-students/portfolio/index.html
+- https://vescentongit.github.io/kipp-students/examples/index.html
+- https://vescentongit.github.io/kipp-students/assessment/index.html
+- https://vescentongit.github.io/kipp-students/about.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-01.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-02.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-03.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-04.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-06.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-07.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-08.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-09.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-10.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-11.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-12.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-13.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-14.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-15.html
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#potongan-transcript-dan-paraphrase
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan-impact-dan-constraint
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://vescentongit.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://vescentongit.github.io/kipp-students/examples/week-05.html
+- https://vescentongit.github.io/kipp-students/assets/portfolio/week-05-evidence.png
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

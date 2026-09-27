@@ -1,0 +1,148 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 96
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Evidence, feedback, dan next step
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+CatatanIdentitas Mahasiswa
+Nama: Fakhri Athallah Dwi Andeo
+Fokus: Mempraktikkan wawancara discovery untuk menahan asumsi solusi dini, mendengarkan dampak nyata, dan merumuskan shared problem statement yang disepakati bersama rekan kerja.
+Initial assumption dan rencana discovery
+Saya berasumsi bahwa keterlambatan integrasi modul proyek tim disebabkan oleh keterbatasan performa server pengujian (staging server) yang spesifikasinya rendah sehingga proses kompilasi (build) lambat. Sebelum mengajukan usulan penambahan kapasitas server (yang membutuhkan biaya tambahan), saya mewawancarai “Tristan”, seorang rekan pengembang yang menangani integrasi frontend-backend.
+Daftar pertanyaan discovery:
+Bisakah Anda menceritakan terakhir kali Anda mencoba menguji dan melakukan build fitur baru di staging server?
+Pada tahap mana alur kerja Anda paling sering terhambat?
+Seberapa sering hambatan itu terjadi dan apa dampaknya terhadap waktu penyelesaian tugas tim?
+Apa langkah darurat (workaround) yang selama ini Anda ambil untuk mengatasinya?
+Batasan (constraint) apa yang tidak boleh dilanggar jika alur pengujian ini diperbaiki?
+Potongan transcript
+Tristan: “Kemarin sore saya mau menguji respons formulir pembayaran di server bersama, tapi tiba-tiba hasil kompilasi saya galat (error). Setelah diusut, ternyata kodenya ditimpa oleh build dari modul lain yang diunggah anggota tim berbeda beberapa menit setelah saya.”
+Fakhri: “Jadi titik hambatannya bukan pada kecepatan mesin server saat memproses kode, melainkan ketiadaan kejelasan siapa yang sedang aktif memakai lingkungan pengujian?”
+Tristan: “Persis. Spesifikasi server sebenarnya cukup cepat. Masalah utamanya adalah kami tidak tahu siapa yang sedang deploy secara bersamaan sehingga terjadi tabrakan konfigurasi.”
+Fakhri: “Seberapa sering tabrakan penulisan (deployment overwrite) itu terjadi dan seberapa besar dampaknya?”
+Tristan: “Minggu ini saja terjadi tiga kali. Setiap insiden butuh waktu 30 hingga 60 menit hanya untuk mencari tahu kode siapa yang menimpa dan memulihkan kembali berkas konfigurasi lokal.”
+Fakhri: “Jika alur ini diperbaiki, apa batasan utama yang perlu dipertahankan?”
+Tristan: “Jangan buat alur birokrasi baru seperti mengisi borang tiket panjang atau sistem persetujuan kaku setiap kali kami hanya ingin menguji perubahan kecil.”
+Pembaruan pembacaan
+Asumsi awal saya bahwa “tim membutuhkan peningkatan spesifikasi komputasi server” gugur berdasarkan fakta lapangan. Data wawancara mengungkap tiga akar persoalan yang berbeda:
+Visibilitas status: Ketiadaan indikator sederhana mengenai siapa yang sedang menempati lingkungan pengujian.
+Dampak terukur: Terbuangnya waktu 2–3 jam per minggu per pengembang murni untuk mengurai konflik kompilasi, bukan untuk menulis kode.
+Constraint pengguna: Penolakan tegas terhadap solusi yang menambah friksi birokrasi (seperti ticketing form).
+Shared Problem Statement yang dikonfirmasi Tristan:
+“Pengembang integrasi modul membutuhkan mekanisme sinyal status pemakaian yang instan dan transparan di lingkungan pengujian bersama, karena ketiadaan visibilitas memicu tabrakan build berulang yang menghabiskan 2–3 jam kerja tiap minggu untuk investigasi galat, tanpa menambah prosedur izin atau birokrasi yang memperlambat ritme kerja.”
+Catatan konfirmasi: Tristan secara eksplisit meminta penghapusan istilah awal saya (“sistem reservasi terpusat”) dan menggantinya dengan “mekanisme sinyal status yang instan” agar tidak membatasi ruang eksplorasi solusi teknis ke arah perkakas yang rumit.
+Evidence, feedback, dan next step
+Evidence rekaman & catatan: Catatan wawancara berdurasi 14 menit dengan persetujuan verbal (verbal consent), dilengkapi penanda waktu (timestamps).
+Konfirmasi tertulis: Tangkapan layar konfirmasi pernyataan masalah via aplikasi perpesanan setelah rumusan akhir disepakati.
+Tinjauan observer: Pengamat mencatat saya sempat mengajukan satu pertanyaan yang mengarahkan (leading question): “Apakah bot notifikasi Discord otomatis akan membantu?” Pertanyaan ini segera saya anulir dari catatan analisis karena melompat ke solusi sebelum masalah tervalidasi.
+Pemanfaatan AI: Model AI digunakan secara terbatas di lingkungan lokal untuk memetakan transkrip menjadi kategori Fact, Interpretation, dan Solution Bias. Tidak ada nama proyek atau data privat yang dimasukkan ke platform eksternal.
+Langkah lanjutan: Menguji shared problem statement ini kepada dua rekan pengembang lainnya untuk memastikan apakah dampak yang dirasakan bersifat sistemik di seluruh divisi.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Pengalaman personal, kebiasaan kerja, dan batasan (constraint) mitra terpetakan jelas.
+Objective & State
+3
+Asumsi awal (spesifikasi mesin) bergeser ke fakta nyata (visibilitas status pemakaian).
+Repertoire, Language & AI
+3
+Mengajukan pertanyaan terbuka, konfirmasi parafrasa, serta menyaring bias solusi AI.
+Response & Adaptation
+3
+Menggugurkan proposal belanja server baru setelah mendengar respons nyata narasumber.
+Agreement, Action & Relationship
+4
+Shared problem statement dirumuskan bersama dan dikonfirmasi langsung oleh mitra wawancara.
+Total: 16/20 — Kompeten. (Belum mencapai nilai maksimal 20 karena temuan ini baru berbasis satu sesi wawancara mendalam dan memerlukan verifikasi silang pada skala tim yang lebih besar).
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

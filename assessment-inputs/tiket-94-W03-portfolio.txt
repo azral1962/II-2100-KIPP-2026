@@ -1,0 +1,142 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 94
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks dan relationship state
+Potongan transcript
+Analisis listening, boundary, dan repair
+Relationship outcome dan evidence
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+CatatanIdentitas Mahasiswa
+Nama: Fakhri Athallah Dwi Andeo
+Fokus: Penerapan active listening, perumusan batasan (boundary), penyampaian permintaan (request), serta pemulihan hubungan (repair) dalam dinamika kerja sama rekan sebaya.
+Konteks dan relationship state
+Selama dua minggu pengerjaan proyek, rekan satu tim saya, “Izar”, memiliki kebiasaan mengirim pesan koordinasi teknis mendesak dan panggilan suara via Discord setelah pukul 23.00. Saya merasa tertekan dan cemas setiap mendengar notifikasi ponsel menjelang tidur, lalu merespons secara pasif-agresif dengan hanya membalas singkat atau mendiamkan pesan hingga siang keesokan harinya.
+State sebelum percakapan: Hubungan pertemanan dan profesionalitas kerja mulai merenggang. Muncul keengganan untuk membuka kanal obrolan proyek, dengan tingkat ketegangan subjektif berada pada angka 7/10.
+Objective: Mengomunikasikan kebutuhan waktu istirahat secara asertif, menyepakati kanal komunikasi asinkron, dan menetapkan batas waktu interaksi langsung tanpa memutus ritme produktivitas Izar.
+Potongan transcript
+Fakhri: “Zar, ada waktu sepuluh menit sebelum kelas? Aku mau ngomong alur koordinasi tugas kita beberapa hari terakhir.”
+Izar: “Boleh, ada bagian tugas yang bermasalah?”
+Fakhri: “Bukan soal kode atau fungsinya, melainkan jam komunikasinya. Tiga hari berturut-turut minggu ini kamu menghubungi dan mengajak sinkronisasi di atas jam 23.00. Kondisi itu membuatku sulit beristirahat karena merasa harus langsung merespons.”
+Izar: “Oh, maaf ya. Biasanya aku baru sempat fokus penuh malam hari setelah urusan lain beres, dan kalau ide tidak langsung kutulis atau dibahas, aku takut lupa paginya.”
+Fakhri: “Jadi kamu aktif di jam malam karena itu waktu fokusmu, dan pesan-pesan itu tujuannya mencatat progres agar tidak terlewat, bukan menuntut balasan instan malam itu juga?”
+Izar: “Betul persis. Aku tidak maksa kamu bangun dan balas detik itu juga kok.”
+Fakhri: “Baik, sekarang aku paham situasimu. Dari sisiku, aku membutuhkan batasan: ponselku masuk mode senyap mulai pukul 22.30. Kamu tetap boleh mengirim pembaruan atau catatan di repositori kapan pun kamu fokus, tetapi mari sepakati bahwa obrolan langsung dibatasi maksimal pukul 22.00, dan pesan malam hari baru akan kubalas mulai pukul 08.00 pagi. Bagaimana menurutmu?”
+Izar: “Sepakat. Nanti kalau ada catatan malam hari, aku taruh di issue board atau obrolan teks saja tanpa mention mendesak.”
+Analisis listening, boundary, dan repair
+Listening & Paraphrase: Saya mengawali dialog dengan observasi konkret tanpa tuduhan moral (“tiga hari berturut-turut di atas jam 23.00”, bukan “kamu egois”). Parafrasa saya mengklarifikasi bahwa Izar adalah seorang night owl yang berfokus mendokumentasikan ide, bukan berniat mengganggu waktu tidur rekan.
+Boundary & Request: Batasan (boundary) dinyatakan tegas: ponsel masuk mode senyap setelah pukul 22.30. Permintaan (request) dialihkan menjadi skema kerja asinkron yang adil Izar bebas bekerja di malam hari, namun respons interaktif baru diberikan pada pagi hari.
+Repair: Pada akhir sesi, saya melakukan repair atas sikap pasif-agresif sebelumnya:
+> “Aku juga minta maaf karena dua hari lalu sempat membalas sangat singkat dan terkesan dingin di grup. Seharusnya aku menyampaikan kebutuhan istirahatku lebih awal secara langsung.”
+Izar menerima permintaan maaf tersebut dengan santai, mencairkan ketegangan yang sempat mengendap.
+Relationship outcome dan evidence
+Evidence konkret: Ringkasan tertulis alur kerja yang disematkan (pinned message) pada grup koordinasi proyek mengenai aturan quiet hours (pukul 22.30–07.30).
+Hasil evaluasi relasi: Ketegangan subjektif turun dari 7/10 menjadi 2/10. Tidak ada lagi rasa was-was saat membuka aplikasi pesan di malam hari.
+Tindak lanjut 7 hari: Izar tetap membagikan pembaruan modul pada pukul 00.30 via teks, dan saya membalasnya secara runut pada pukul 08.15 pagi hari tanpa ada friksi atau perasaan bersalah.
+Etika dan privasi: Dialog di atas menyangkut ranah interpersonal. Seluruh ringkasan refleksi ditulis langsung secara mandiri tanpa memasukkan transkrip mentah atau identitas personal ke platform AI pihak ketiga.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Mengakui perbedaan ritme kerja pribadi lawan bicara tanpa stereotip negatif
+Objective & State
+3
+Mengubah ketegangan (7/10) menjadi kejelasan batas kerja (2/10) secara terukur
+Repertoire, Language & AI
+3
+Menggunakan observation, paraphrasing, boundary statement, dan repair
+Response & Adaptation
+3
+Mengakomodasi kebutuhan dokumentasi malam Rendy lewat kesepakatan komunikasi asinkron
+Agreement, Action & Relationship
+4
+Batasan jam, kanal pencatatan alternatif, dan perbaikan sikap dinyatakan secara eksplisit
+Total: 16/20 — Kompeten. (Belum mencapai skor sempurna 20 karena belum menganalisis skenario mitigasi darurat jika terdapat sistem down yang memang memerlukan penanganan mendesak di luar jam kerja normal).
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html#konteks-dan-relationship-state
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html#potongan-transcript
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html#analisis-listening-boundary-dan-repair
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html#relationship-outcome-dan-evidence
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

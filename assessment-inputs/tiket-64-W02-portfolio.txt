@@ -1,0 +1,226 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 64
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Episode
+Event: Dalam proyek kelompok Algoritma dan Pemrograman 1, kami sudah menyepakati penggunaan branch dan aturan commit di GitHub. Namun, salah satu anggota melakukan commit langsung ke branch main tanpa menunggu pengecekan. Akibatnya, beberapa kode yang sebelumnya dikerjakan anggota lain tertimpa dan terjadi conflict. Commit tersebut juga tidak disertai dokumentasi sehingga cukup membingungkan saat direview oleh asisten dosen. Setelah kejadian itu, anggota tersebut juga tidak menyampaikan permintaan maaf.
+Lapisan
+Catatan Kezia
+Fact
+Tim sudah menyepakati branch dan aturan commit, satu commit langsung ke main menimpa kode anggota lain hingga terjadi conflict, commit tidak disertai dokumentasi, dan tidak ada permintaan maaf setelah kejadian
+Initial story
+“Anggota tersebut tidak bertanggung jawab dan tidak menghargai pekerjaan anggota lain. Padahal, alur kerja sudah disepakati dan kalau belum paham seharusnya bisa bertanya terlebih dahulu.”
+Emotion/body signal
+Marah dan kesal 9/10, disertai migrain dan sakit perut
+Reactive character
+Bagian diri yang ingin terus menyimpan kekesalan dan menjadi ragu untuk memberikan tanggung jawab kepada anggota tersebut pada pekerjaan berikutnya
+Desired character
+Bagian diri yang bisa membedakan dampak yang benar-benar terjadi dari asumsi, kemudian fokus pada penyelesaian masalah dan komunikasi dengan anggota yang bersangkutan
+Initial story saya sudah melampaui fakta yang ada. Yang benar-benar bisa dibuktikan hanya bahwa commit tersebut menimpa kode anggota lain, menyebabkan conflict, dan tidak memiliki dokumentasi. Saya tidak memiliki bukti bahwa hal tersebut dilakukan karena dia tidak menghargai anggota tim.
+Alternative narratives
+Belum tentu disengaja: saya tidak punya bukti bahwa dia sengaja mengabaikan aturan yang sudah disepakati.
+Mungkin belum memahami alurnya: saya tidak tahu apakah dia benar-benar memahami aturan branch dan commit yang telah dibuat.
+Ada kemungkinan faktor lain: saya juga tidak tahu apakah dia sedang terburu-buru atau memiliki alasan lain ketika melakukan commit. Karena itu, saya tidak bisa langsung menyimpulkan bahwa tindakannya berarti dia tidak menghargai pekerjaan anggota lain.
+Ketiga alternatif tersebut membantu saya tetap berpegang pada fakta dan mengarahkan perhatian pada hal yang memang bisa saya kendalikan. Saya bisa fokus menyelesaikan masalah, menyampaikan keluh kesah dengan cara yang tetap sopan, dan mencari cara agar kesalahan yang sama tidak terjadi lagi tanpa harus menebak niat anggota tersebut.
+Internal conversation dan agreement
+Narasi Korban: “Saya sudah berusaha mengatur alur kerja dengan baik, tapi kesalahan ini menambah pekerjaan saya dan tidak adanya permintaan maaf membuat saya merasa tidak dihargai.” Narasi Analitis: “Yang terbukti hanyalah commit tersebut menimpa kode dan tidak disertai dokumentasi. Saya belum tahu apakah dia sengaja melakukan itu atau memang belum memahami alurnya.” Narasi Pertumbuhan: “Kesalahan ini tetap perlu dibicarakan. Saya bisa menjelaskan dampaknya, lalu fokus mencari cara supaya masalahnya selesai.”
+Internal agreement: saya akan mengajak anggota tersebut berbicara secara personal. Saya akan menjelaskan dampak dari commit langsung ke main tanpa menuduh alasan di balik tindakannya, kemudian mengajak dia menyepakati kembali alur kerja yang akan digunakan sampai proyek selesai. Sebelum melakukannya, saya juga meminta pendapat orang tua karena sebelumnya saya sempat menceritakan kejadian tersebut kepada mereka.
+Evidence tindakan
+Saya berbicara secara personal dengan anggota tersebut untuk menjelaskan dampak dari commit yang dilakukan.
+Kami menyepakati kembali aturan penggunaan branch dan commit untuk pengerjaan selanjutnya.
+Masalah dibicarakan secara pribadi, bukan di depan anggota kelompok lainnya, agar tidak berkembang menjadi konflik antaranggota.
+Feedback, AI, dan refleksi
+Saya menyadari bahwa setiap anggota perlu benar-benar memahami alur kerja yang sudah disepakati. Saya tidak bisa hanya menganggap semua orang sudah memahami aturan tersebut. Saya juga perlu lebih memperhatikan kondisi diri ketika beberapa tugas besar datang bersamaan karena tekanan dan kelelahan dapat memengaruhi cara saya merespons masalah.
+AI digunakan untuk membantu menyusun dan merapikan jawaban berdasarkan isi Lembar Kerja Bab 2. Kejadian, emosi, sensasi tubuh, dan pembelajaran yang ditulis tetap berasal dari pengalaman dan refleksi saya sendiri. Nama anggota tim tidak dicantumkan secara spesifik untuk menjaga privasi.
+Next practice: ketika menghadapi kejadian serupa, saya akan berhenti sejenak untuk memisahkan fakta dari asumsi sebelum memberikan respons. Jika ada masalah dengan anggota tim, saya akan menyampaikannya secara personal dan membahas tindakan yang perlu diperbaiki daripada langsung menyimpulkan karakter orang tersebut.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Fakta dibedakan dari initial story yang sebelumnya langsung memberikan penilaian terhadap karakter anggota tim
+Objective & State
+4
+Emosi dan kondisi tubuh dicatat dengan skala, sementara tujuan berubah dari mempertahankan asumsi menjadi mencari penyelesaian masalah
+Repertoire, Language & AI
+4
+Tiga narasi, yaitu korban, analitis, dan pertumbuhan, ditunjukkan serta penggunaan AI dijelaskan secara transparan
+Response & Adaptation
+4
+Alternative narratives membantu saya melihat situasi dari beberapa kemungkinan dan menentukan hal yang masih berada dalam kendali saya
+Agreement, Action & Relationship
+4
+Internal agreement menghasilkan tindakan nyata berupa percakapan personal, kesepakatan ulang, dan menjaga masalah agar tidak menjadi konflik kelompok
+Total: 20/20
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#episode
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html#self-assessment-1
+- https://kazei0.github.io/kipp-students/examples/week-02.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

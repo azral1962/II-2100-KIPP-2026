@@ -1,0 +1,146 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 95
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+CatatanIdentitas Mahasiswa
+Nama: Fakhri Athallah Dwi Andeo
+Fokus: Mengadaptasi repertoar dan bahasa (language) untuk lima profil audiens berbeda tanpa menggeser makna inti (core meaning).
+Core meaning
+Fakta yang tidak boleh berubah: Server basis data utama akan dinonaktifkan sementara untuk migrasi dan pembaruan sistem keamanan (security patching) pada Sabtu, 26 September, pukul 21.00–23.00 WIB. Seluruh fitur yang membutuhkan autentikasi/akses data tidak dapat digunakan selama rentang waktu tersebut. Pengguna perlu menyimpan progres kerja sebelum pukul 20.50 WIB. Kanal bantuan darurat tersedia melalui meja bantuan (helpdesk).
+Target/character
+Versi language
+Alasan adaptasi
+Friend (Rekan satu kelompok)
+“Sabtu besok jam 9–11 malam server database kita take down dulu ya buat patching. Jangan ada yang coba uji coba atau input data di rentang jam itu biar aman. Beresin dan save kerjaan sebelum jam 20.50. Kalau ada berkas darurat yang belum ditarik, kabari aku langsung ya.”
+Menggunakan nada santai dan akrab, menekankan instruksi praktis yang relevan bagi rekan, serta membuka kanal bantuan personal.
+Technical peer (Rekan pengembang backend/frontend)
+“Scheduled downtime: Klaster database production akan offline Sabtu, 26 Sep, 21.00–23.00 WIB untuk eksekusi migrasi skema dan security patch. Layanan autentikasi dan API endpoints akan mengembalikan respons HTTP 503. Pastikan background worker dihentikan dan seluruh sesi kerja lokal di-commit sebelum 20.50 WIB. Metrik sistem dipantau via dashboard Grafana dan kanal Discord #infra-alerts.”
+Menyebut mekanisme teknis eksplisit (HTTP 503, worker, schema migration), rujukan pemantauan sistem, dan instruksi spesifik antar-rekayasawan.
+Manager / Koordinator Proyek
+“Pemberitahuan pemeliharaan: Pembaruan keamanan infrastruktur basis data dijadwalkan pada Sabtu, 26 Sep, pukul 21.00–23.00 WIB (estimasi masa henti dua jam di luar peak hours). Dampak utama berupa penonaktifan sementara akses login pengguna. Risiko kehilangan data dimitigasi dengan snapshot backup otomatis pada 20.45 WIB. Laporan pascamigrasi akan disampaikan melalui kanal koordinasi segera setelah pengujian valid.”
+Menyoroti manajemen risiko, kepastian timeline, mitigasi data, dan kejelasan alur pelaporan untuk pengambilan keputusan manajerial.
+Customer / Pengguna Aplikasi
+“Layanan aplikasi web tidak dapat diakses sementara pada Sabtu, 26 September, mulai pukul 21.00 hingga 23.00 WIB sehubungan dengan pemeliharaan dan peningkatan keandalan sistem. Mohon simpan seluruh progres kerja Anda sebelum pukul 20.50 WIB agar data tidak hilang. Layanan dapat kembali digunakan normal setelah pukul 23.00 WIB dengan melakukan login ulang. Bantuan teknis dapat diakses via pusat bantuan.”
+Menggunakan bahasa formal yang sopan, bebas jargon rumit, berorientasi pada kepastian aksi pengguna, serta mencantumkan langkah mitigasi data secara jelas.
+Public (Pengumuman umum/media sosial)
+“Pemberitahuan Pemeliharaan Sistem: Seluruh akses portal daring akan mengalami jeda operasional sementara pada Sabtu, 26 September 2026, pukul 21.00–23.00 WIB dalam rangka peningkatan keandalan layanan. Portal dapat kembali diakses secara penuh setelah masa pemeliharaan berakhir. Kami mengapresiasi pengertian dan kerja sama Anda.”
+Disusun ringkas dan netral untuk konsumsi publik luas; tidak membeberkan detail arsitektur internal atau celah keamanan spesifik demi privasi sistem.
+Evidence understanding
+Versi bahasa untuk Customer diuji coba secara langsung kepada seorang mahasiswa pengguna aplikasi tanpa memberikan penjelasan konteks awal tambahan.
+Target merespons bahwa ia memahami dengan jelas kapan sistem akan mati dan tindakan apa yang harus ia ambil (menyimpan pekerjaan sebelum 20.50 WIB). Namun, ia sempat menanyakan apakah akun yang sedang aktif akan otomatis terhapus atau apakah ia harus mendaftar ulang setelah jam 23.00.
+Berdasarkan umpan balik tersebut, draf versi customer disempurnakan dengan menyisipkan klausul:
+> “Layanan dapat kembali digunakan normal setelah pukul 23.00 WIB dengan melakukan login ulang menggunakan akun yang sama.”
+Penyesuaian ini memperjelas status sesi pengguna pascapemeliharaan tanpa mengubah fakta inti yang ada.
+Analisis dan batas
+Repertoire bergeser secara adaptif mengikuti kebutuhan masing-masing karakter: dari obrolan koordinasi personal (chat sebaya), spesifikasi teknis (technical brief), laporan mitigasi risiko (executive summary), panduan instruksional layanan (user advisory), hingga pengumuman institusi publik (public notice).
+Tidak ada satu gaya bahasa yang universal; pengguna yang aktif di aplikasi membutuhkan tenggat penyimpanan yang tegas, sementara publik luas hanya memerlukan kepastian durasi tanpa perlu mengetahui detail konfigurasi database.
+AI digunakan secara terbatas untuk melakukan uji silang (fact-checking) konsistensi parameter: memastikan tanggal (26 September), rentang waktu (21.00–23.00 WIB), batas penyimpanan (20.50 WIB), dan kanal bantuan tetap hadir di kelima variasi pesan. Usulan AI yang sempat menambahkan kalimat spekulatif seperti “demi mencegah peretasan massal” ditolak secara sadar karena melebihi fakta acuan dan dapat menimbulkan kepanikan yang tidak perlu.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Karakter dan kebutuhan lima target audiens dibedakan tanpa mengaburkan profil penerima
+Objective & State
+3
+Makna inti (core meaning) dan instruksi tindakan konsisten di semua versi
+Repertoire, Language & AI
+4
+Lima repertoar berbeda dengan justifikasi jelas, disertai validasi batasan konten AI
+Response & Adaptation
+3
+Keraguan target mengenai status sesi menghasilkan penambahan penjelasan login ulang
+Agreement, Action & Relationship
+3
+Tenggat aksi, batas toleransi, dan kanal bantuan darurat terdefinisi secara transparan
+Total: 16/20 — Kompeten. (Belum mencapai level 4 sempurna karena belum menguji seluruh lima versi kepada target nyata di masing-masing kategori).
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

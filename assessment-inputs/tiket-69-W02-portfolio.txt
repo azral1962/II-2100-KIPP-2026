@@ -1,0 +1,114 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 69
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://owen2907.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode yang Dianalisis
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Episode yang Dianalisis
+Konteks Kejadian (Event): Menerima hasil kuis mata kuliah dengan nilai yang jauh di bawah ekspektasi, setelah sebelumnya merasa kaku dan kesulitan di beberapa nomor saat pengerjaan.
+Pemisahan Fakta dan Cerita: - Fact (Fakta objektif): Nilai kuis berada di bawah target. Kuis ini memiliki bobot 10% dari total penilaian akhir. Format soal kuis tahun ini berbeda dengan format latihan soal tahun lalu. - Emotion (Emosi sesaat): Sangat kecewa, down, dan menyesal. - Initial Story (Reaksi awal): “Ini sepenuhnya salahku. Seharusnya aku lebih banyak belajar di awal, lebih sering review, dan tidak belajar dadakan.”
+Pergeseran Karakter Internal: Dari Self-Blamer (menghakimi diri sendiri) menjadi Reflective Learner (mengevaluasi taktik belajar secara objektif).
+Alternative Narratives (Sudut pandang baru): 1. Pendekatan belajar learn by doing melalui latihan soal tahun lalu ternyata meleset karena format soalnya berubah. Kegagalan ini bukan murni karena “kurang pintar”, melainkan karena materi latihan yang kurang relevan dengan tipe ujiannya. 2. Karena bobot kuis ini hanya 10%, ini adalah peringatan dini yang bagus. Masih ada porsi nilai yang jauh lebih besar (90%) di UTS dan UAS yang bisa diamankan jika strategi belajarnya diperbaiki dari sekarang.
+Internal Agreement & Action: - Agreement (Kesepakatan internal): Berhenti merutuki nilai kuis yang sudah lewat dan mengalihkan fokus energi ke ujian utama. - Action (Tindakan nyata): Mengubah metode latihan soal agar lebih relevan dengan materi terbaru, mengerjakan setiap tugas kuliah selanjutnya dengan sungguh-sungguh, dan menetapkan komitmen untuk mulai belajar intensif selambat-lambatnya H-1 sebelum kuis, UTS, maupun UAS.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Pemisahan Fakta & Cerita
+4
+Berhasil membedakan antara nilai rendah (fakta) dengan penghakiman diri sendiri (story).
+Identifikasi Emosi
+4
+Jujur mengakui perasaan kecewa dan down tanpa membiarkannya mengambil alih keputusan akhir.
+Alternatif Narasi
+4
+Menemukan dua narasi objektif yang menyoroti gaya belajar (learn by doing) dan porsi nilai (10%).
+Kesepakatan Internal
+4
+Mampu menggeser reaction (menyalahkan diri) menjadi response (evaluasi taktik belajar).
+Bukti Tindakan
+4
+Menghasilkan langkah konkret berupa komitmen perubahan jadwal dan adaptasi materi latihan.
+Total: 20/20 — Sangat Kompeten. Analisis secara jelas menunjukkan regulasi emosi yang baik dari rasa kecewa menjadi strategi perbaikan akademik yang logis.
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Owen Reyhan Martua Pasaribu
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://owen2907.github.io/kipp-students/index.html
+- https://owen2907.github.io/kipp-students/assets/logo.png
+- https://owen2907.github.io/kipp-students/course/index.html
+- https://owen2907.github.io/kipp-students/portfolio/index.html
+- https://owen2907.github.io/kipp-students/examples/index.html
+- https://owen2907.github.io/kipp-students/lk/index.html
+- https://owen2907.github.io/kipp-students/slides.html
+- https://owen2907.github.io/kipp-students/slides-pdf/index.html
+- https://owen2907.github.io/kipp-students/assessment/index.html
+- https://owen2907.github.io/kipp-students/about.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html
+- https://owen2907.github.io/kipp-students/portfolio/week-06.html
+- https://owen2907.github.io/kipp-students/portfolio/week-07.html
+- https://owen2907.github.io/kipp-students/portfolio/week-08.html
+- https://owen2907.github.io/kipp-students/portfolio/week-09.html
+- https://owen2907.github.io/kipp-students/portfolio/week-10.html
+- https://owen2907.github.io/kipp-students/portfolio/week-11.html
+- https://owen2907.github.io/kipp-students/portfolio/week-12.html
+- https://owen2907.github.io/kipp-students/portfolio/week-13.html
+- https://owen2907.github.io/kipp-students/portfolio/week-14.html
+- https://owen2907.github.io/kipp-students/portfolio/week-15.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html#episode-yang-dianalisis
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

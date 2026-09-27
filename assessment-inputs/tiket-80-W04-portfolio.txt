@@ -1,0 +1,211 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 80
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://tristanaw1.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Konteks performance
+Core meaning
+Fakta yang harus tetap konsisten
+Evidence: lima versi language
+Konsistensi meaning
+Evidence understanding dan response target
+Analisis komunikasi
+Batas translation dan adaptation
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Adaptasi satu pesan mengenai keamanan akun untuk lima target berbeda.
+Kompetensi target
+Mengadaptasi repertoire dan language berdasarkan person, character, relationship, dan objective tanpa mengubah core meaning.
+Konteks performance
+Tanggal dan setting: 26 September 2026, latihan penyusunan pesan mengenai keamanan akun digital.
+Persons dan relationship: Pesan ditujukan kepada lima target dengan character dan kebutuhan berbeda, yaitu sahabat, rekan teknis, pengelola atau manager, customer atau pengguna layanan, dan masyarakat umum.
+Objective dan initial state: Objective saya adalah menjelaskan pentingnya mengaktifkan autentikasi dua faktor atau two-factor authentication (2FA). Sebelum latihan, saya cenderung menggunakan satu penjelasan yang sama dan terlalu teknis kepada semua target. Dalam latihan ini, saya mempertahankan core meaning tetapi mengubah language, detail, tone, dan call to action sesuai kebutuhan masing-masing target.
+Core meaning
+Pesan utama yang tidak boleh berubah adalah:
+Pengguna sebaiknya mengaktifkan autentikasi dua faktor pada akun penting. Password dapat diketahui atau dicuri oleh pihak lain. Faktor verifikasi tambahan membantu mengurangi risiko pengambilalihan akun. Pengguna juga perlu menyimpan recovery code di tempat yang aman agar tetap dapat mengakses akun ketika perangkat utama tidak tersedia.
+Fakta yang harus tetap konsisten
+Password saja dapat diketahui atau dicuri.
+Autentikasi dua faktor menambahkan tahap verifikasi.
+Verifikasi tambahan membantu mengurangi risiko pengambilalihan akun.
+Pengguna harus menyimpan recovery code di tempat aman.
+Autentikasi dua faktor mengurangi risiko, tetapi tidak menjamin akun sepenuhnya aman.
+Evidence: lima versi language
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Kalau akun penting lu belum pakai verifikasi dua langkah, mending aktifin. Jadi kalau password lu bocor, orang lain masih butuh verifikasi tambahan buat masuk. Jangan lupa simpan recovery code di tempat aman supaya lu tetap bisa masuk kalau HP lu hilang.”
+Saya menggunakan bahasa informal, langsung, dan dekat dengan pengalaman sehari-hari. Istilah teknis dikurangi karena objective-nya adalah mendorong tindakan sederhana.
+Technical peer
+“Aktifkan 2FA menggunakan authenticator, passkey, atau metode lain yang tersedia pada akun utama. Password merupakan single point of failure ketika terjadi phishing atau credential reuse. Second factor mengurangi risiko account takeover, tetapi recovery code tetap harus disimpan secara offline dan aman.”
+Target teknis memahami istilah seperti phishing, credential reuse, dan single point of failure. Penjelasan menekankan mechanism dan keterbatasan 2FA.
+Manager
+“Penggunaan password tanpa autentikasi tambahan meningkatkan risiko pengambilalihan akun dan gangguan operasional. Saya mengusulkan aktivasi 2FA pada seluruh akun penting, disertai panduan penyimpanan recovery code dan dukungan bagi pengguna yang mengalami kendala. Keberhasilan dapat diukur dari persentase akun yang telah mengaktifkan 2FA.”
+Manager memerlukan informasi mengenai risiko, dampak, proposal tindakan, kebutuhan dukungan, dan indikator keberhasilan. Detail teknis hanya diberikan jika relevan untuk keputusan.
+Customer/student user
+“Lindungi akun Anda dengan mengaktifkan autentikasi dua faktor pada menu Security atau Keamanan. Setelah memasukkan password, Anda akan diminta melakukan satu verifikasi tambahan. Simpan recovery code di tempat yang aman agar Anda tetap dapat mengakses akun ketika perangkat utama tidak tersedia.”
+Bahasa dibuat jelas, sopan, dan berorientasi tindakan. Saya menunjukkan lokasi pengaturan serta menjelaskan manfaat dan fungsi recovery code tanpa jargon berlebihan.
+Public
+“Password saja belum cukup untuk melindungi akun digital. Aktifkan autentikasi dua faktor agar terdapat tahap verifikasi tambahan ketika seseorang mencoba masuk. Simpan recovery code dengan aman dan jangan membagikan kode verifikasi kepada siapa pun.”
+Audiens umum membutuhkan pesan singkat, mudah dipahami, dan dapat diterapkan tanpa mengetahui detail sistem internal.
+Konsistensi meaning
+Kelima versi tetap membawa meaning yang sama, yaitu bahwa pengguna perlu mengaktifkan autentikasi dua faktor karena password dapat dicuri atau diketahui pihak lain. Semua versi juga menjelaskan bahwa terdapat verifikasi tambahan dan recovery code perlu disimpan dengan aman.
+Perbedaannya hanya terdapat pada:
+tingkat formalitas;
+jumlah detail teknis;
+contoh risiko;
+bentuk call to action;
+kebutuhan dan authority target;
+relationship antara communicator dan penerima pesan.
+Saya tidak menyatakan bahwa 2FA membuat akun sepenuhnya aman karena klaim tersebut merupakan distortion. Pesan yang dipertahankan adalah bahwa 2FA membantu mengurangi risiko, bukan menghilangkan seluruh risiko.
+Evidence understanding dan response target
+Saya menguji versi friend kepada seorang sahabat dekat. Setelah membaca pesan pertama, ia memahami bahwa 2FA memberikan perlindungan tambahan, tetapi bertanya:
+“Kalau HP yang dipakai buat verifikasi hilang, berarti akun kita nggak bisa dibuka lagi?”
+Pertanyaan tersebut menunjukkan bahwa pesan awal belum menjelaskan fungsi recovery code dengan cukup jelas. Saya kemudian menambahkan kalimat:
+“Simpan recovery code di tempat aman supaya lu tetap bisa masuk kalau HP lu hilang atau tidak bisa digunakan.”
+Setelah penjelasan tersebut, sahabat saya dapat mengulang kembali inti pesan:
+“Berarti password tetap dipakai, tetapi ada verifikasi tambahan dan recovery code buat keadaan darurat.”
+Response tersebut menjadi evidence bahwa target memahami core meaning, bukan hanya membaca pesan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Lima target dibedakan berdasarkan knowledge, relationship, kebutuhan, dan kemampuan mengambil tindakan. Saya tidak hanya mengganti sapaan, tetapi menyesuaikan jenis informasi yang dibutuhkan setiap character.
+Objective & state
+Core meaning ditetapkan sebelum membuat versi language. Objective setiap pesan tetap mendorong penggunaan 2FA, sedangkan state target berbeda dalam pengetahuan teknis dan authority.
+Repertoire & language
+Saya menggunakan percakapan informal, penjelasan teknis, decision brief, service instruction, dan public announcement. Jargon hanya digunakan ketika target memiliki pemahaman yang sesuai.
+Response & adaptation
+Pertanyaan sahabat mengenai kehilangan perangkat menunjukkan bagian yang belum jelas. Saya mengadaptasi pesan dengan menjelaskan fungsi recovery code.
+Agreement/action
+Setiap versi memiliki tindakan yang relevan, yaitu mengaktifkan 2FA dan menyimpan recovery code. Versi manager juga memiliki proposal implementasi dan indikator keberhasilan.
+Relationship outcome
+Adaptasi bahasa membuat pesan terasa relevan tanpa memalsukan fakta atau merendahkan pengetahuan target. Sahabat dapat memahami pesan setelah dilakukan penjelasan tambahan.
+Batas translation dan adaptation
+Adaptasi yang saya lakukan merupakan translation, bukan manipulation. Saya tidak mengubah fakta untuk menakut-nakuti target dan tidak menjanjikan bahwa 2FA menjamin keamanan sepenuhnya.
+Pada versi technical peer, saya menambahkan mechanism karena target memiliki pengetahuan yang relevan. Pada versi manager, saya menambahkan dampak dan indikator keberhasilan karena target memiliki authority untuk membuat kebijakan. Pada versi customer dan public, jargon dikurangi agar action mudah dipahami.
+Penggunaan AI
+Saya menggunakan AI untuk menerjemahkan beberapa istilah berbahasa Inggris, membantu menyusun struktur portfolio, dan merapikan redaksi berdasarkan core meaning yang saya tentukan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Sahabat memahami fungsi verifikasi tambahan, tetapi awalnya belum mengetahui cara mengakses akun jika perangkat utama hilang.
+Adaptation/replay: Saya menambahkan penjelasan mengenai recovery code, kemudian meminta sahabat mengulang kembali inti pesan dengan bahasanya sendiri. Setelah adaptation, ia dapat menjelaskan fungsi 2FA dan recovery code dengan tepat.
+Next practice: Pada latihan berikutnya, saya akan menguji sedikitnya dua versi kepada target yang berbeda untuk mengetahui apakah setiap versi mempertahankan core meaning dan menghasilkan pemahaman yang sama.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Lima target dibedakan berdasarkan knowledge, relationship, kebutuhan, dan authority
+Objective & State
+3
+Core meaning dan objective tetap konsisten pada seluruh versi
+Repertoire, Language & AI
+4
+Menggunakan lima repertoire berbeda dengan alasan adaptasi dan batas penggunaan AI
+Response & Adaptation
+3
+Feedback sahabat menghasilkan penjelasan tambahan mengenai recovery code
+Agreement, Action & Relationship
+3
+Terdapat call to action yang jelas dan sesuai dengan masing-masing target
+Total: 16/20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Tristan Anthony Wijaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://tristanaw1.github.io/kipp-students/index.html
+- https://tristanaw1.github.io/kipp-students/assets/logo.png
+- https://tristanaw1.github.io/kipp-students/course/index.html
+- https://tristanaw1.github.io/kipp-students/portfolio/index.html
+- https://tristanaw1.github.io/kipp-students/examples/index.html
+- https://tristanaw1.github.io/kipp-students/lk/index.html
+- https://tristanaw1.github.io/kipp-students/slides.html
+- https://tristanaw1.github.io/kipp-students/slides-pdf/index.html
+- https://tristanaw1.github.io/kipp-students/assessment/index.html
+- https://tristanaw1.github.io/kipp-students/about.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-01.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-02.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-03.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-08.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-09.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-10.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-11.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-12.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-13.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-14.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-15.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#fakta-yang-harus-tetap-konsisten
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#evidence-lima-versi-language
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#konsistensi-meaning
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#evidence-understanding-dan-response-target
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#batas-translation-dan-adaptation
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

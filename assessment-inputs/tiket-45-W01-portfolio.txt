@@ -1,0 +1,163 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 45
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Lima character
+Episode yang dianalisis
+Perubahan language
+Evidence, AI, dan feedback
+Self-assessment
+Assessment dosen
+Character Map
+CatatanIdentitas dan Status Evidence
+Mahasiswa: Fakhri Athallah Dwi Andeo
+Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — reflective debugger
+Diri sendiri saat menghadapi kendala teknis atau evaluasi performa
+Mengurai frustrasi menjadi langkah analisis logis tanpa mereduksi diri
+Pemisahan fakta vs asumsi; “Variabel mana yang berada di bawah kendali saya?”
+Terjebak overthinking; tulis daftar fakta terukur sebelum menyimpulkan
+Academic / Work — koordinator teknis
+Rekan satu tim proyek pengembang perangkat lunak
+Menyelaraskan arsitektur modul dan memastikan tenggat integrasi tercapai
+Check-in progres, penegasan spesifikasi via catatan tertulis; “Kendala apa yang menghambat modul X?”
+Terdengar diktator/kaku; jelaskan dampak sistemik terhadap seluruh tim sebelum meminta revisi
+Peers — rekan setara
+Anggota kelompok tugas kuliah
+Menjaga ritme kolaborasi yang adil dan terbuka
+Diskusi dua arah, asertif tanpa menyerang; “Bagaimana jika kita bagi dua tugas ini agar tidak menumpuk?”
+Pasif demi menghindari konflik; sampaikan ketidaksesuaian sedini mungkin
+Community / Org — fasilitator divisi
+Anggota baru organisasi mahasiswa
+Membantu adaptasi alur kerja tanpa menciptakan relasi kuasa yang menekan
+Active listening, pertanyaan pemantik; “Bagian alur mana yang masih membingungkan?”
+Micromanagement; berikan ruang eksplorasi mandiri sebelum mengoreksi hasil
+Friends — teman diskusi santai
+Teman sebaya di luar jam kerja/kuliah
+Membangun kedekatan emosional dan melepas beban mental
+Humor kontekstual, mendengarkan tanpa menghakimi; “Mau cerita santai atau butuh masukan?”
+Membawa mode analisis masalah ke ruang curhat; tahan diri untuk tidak langsung memberi solusi
+Episode yang dianalisis
+Konteks: Menjelang milestone penyerahan modul sistem, berkas API dan skema basis data milik “Banu” belum diunggah padahal tenggat kesepakatan sudah lewat satu hari. Reaksi awal saya adalah menganggap Farrel menyepelekan tanggung jawab tim (story). Faktanya baru satu: repositori Git belum menerima commit berkas tersebut (fact).
+Objective: Mendapatkan kepastian status kode dan menyusun langkah penyesuaian jadwal integrasi tanpa merusak rasa saling percaya di dalam tim.
+Saya: “Banu, repositori modul basis data belum terisi draf skema terbaru. Ada kendala atau hambatan lain ga?”
+Banu: “Ada bentrok konfigurasi lokal dan aku sempat kesulitan menguji koneksi endpoints-nya semalam.”
+Saya: “Jadi kendalanya ada di isolasi environment pengujian, bukan di perancangan skema datanya?”
+Banu: “Iya, skema dasarnya sudah selesai, tinggal mastiin respons rutenya valid.”
+Saya: “Kita punya dua opsi: kita push dulu skemanya siang ini agar tim frontend bisa bekerja dengan mock, lalu kita selesaikan konfigurasi lokal bersama sore nanti. Opsi mana yang memungkinkan?”
+Respons Banu menggeser repertoire saya dari dorongan mendesak kepatuhan (demanding) menjadi pemecahan masalah teknis secara kolaboratif (problem-solving). Kesepakatan akhir: Farrel mengunggah skema mentah sebelum pukul 13.00, dan kami menjadwalkan sesi bersama selama 30 menit pada pukul 16.00 untuk menyelesaikan konfigurasi pengujian.
+Perubahan language
+Sebagai teman santai, saya mungkin hanya berujar, “Santai saja, nanti kalau sempat baru dikerjakan.” Namun sebagai koordinator teknis, saya memilih kalimat, “Tim membutuhkan struktur skema sebelum pengujian antarmuka; opsi mana yang realistis agar integrasi tidak terhenti?” Nilai kepedulian pada rekan tetap terjaga, namun batas tanggung jawab dan orientasi tindakan disesuaikan dengan konteks kerja tim.
+Evidence, AI, dan feedback
+Evidence pendukung: log commit repositori, tangkapan layar utas pesan koordinasi teknis, serta catatan evaluasi rekan kelompok.
+Penggunaan AI: memanfaatkan bantuan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
+Evaluasi diri: menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata.
+Evaluasi rekan: rekan mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, namun opsi solusi perlu diberi jeda agar rekan dapat merumuskan usulannya sendiri terlebih dahulu.
+Praktik berikutnya: memberi jeda hening minimal lima detik setelah menanyakan kendala sebelum menawarkan skenario solusi.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3
+Karakter diposisikan berdasarkan peran situasional tanpa menghakimi pribadi lawan bicara
+Objective & State
+3
+Perubahan dari kondisi macet menjadi target terukur didefinisikan secara transparan
+Repertoire, Language & AI
+3
+Gaya komunikasi disesuaikan dengan peran koordinasi; pemanfaatan AI dibatasi pada validasi fakta
+Response & Adaptation
+3
+Klarifikasi kendala teknis langsung mengubah rencana kerja dan pembagian tugas
+Agreement, Action & Relationship
+3
+Tindakan lanjutan memiliki penanggung jawab, tenggat waktu konkret, dan menjaga kepercayaan relasi
+Total: 15/20 — Kompeten. Analisis belum mencapai level 4 karena belum membedah relasi kuasa implisit (power dynamic) antara koordinator teknis dan anggota tim saat tenggat proyek mendesak.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html#evidence-ai-dan-feedback
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

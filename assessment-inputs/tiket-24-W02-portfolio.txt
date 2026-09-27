@@ -1,0 +1,169 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 24
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Episode
+Event: Rekan kelompok praktikum STI tidak membalas pesan WhatsApp saya yang berisi draf kode C (ESP32CAM.c) selama 5 jam.
+Lapisan
+Catatan Saya
+Fact
+Pesan bercentang biru 5 jam yang lalu; belum ada teks balasan maupun commit di repository.
+Initial story
+“Dia sengaja mengabaikan saya dan melempar semua beban setup hardware ESP32 ke saya.”
+Emotion/body signal
+Cemas 8/10, Marah 7/10, rahang menegang, napas pendek.
+Reactive character
+“Sang Hakim” yang ingin langsung menyalahkan dan memvonis dia tidak bertanggung jawab.
+Desired character
+“Sang Pembelajar” dan “Perencana” yang ingin mengevaluasi hambatan objektif dan mencari solusi kolaboratif.
+Initial story melampaui fakta: Pesan yang belum dibalas hanya menandakan absennya komunikasi, bukan vonis mutlak bahwa rekan tersebut mengabaikan tanggung jawabnya.
+Alternative narratives
+Kendala Teknis (Evidence gap): Rekan saya mungkin sedang berjuang keras meng-compile kode tersebut di Windows 11-nya, namun terhambat masalah upload ke Devkit atau salah menyolder kabel jumper ESP32.
+Kendala Akademik Eksternal (Constraint hypothesis): Waktu ini bertepatan dengan H-2 UTS Pancasila; dia mungkin sedang fokus menghafal kisi-kisi dan menunda membuka IDE.
+Kendala Pribadi: Mungkin dia sedang kelelahan atau ada urusan mendadak sehingga belum sempat merespons secara proper.
+Alternatif pertama paling berguna karena mengarahkan saya untuk bertanya soal hambatan operasional alih-alih menyerang karakternya.
+Internal conversation dan agreement
+Sang Hakim: “Telepon aja sekarang, tegur kenapa numpang nama doang. Kalau gini terus tugas besar kita berantakan.”
+Sang Pencemas: “Bagaimana kalau dia tersinggung lalu malah keluar dari kelompok? Proyek QR reader kita nggak bakal selesai!”
+Sang Perencana: “Kita butuh fakta. Menunda reaksi akan memberi ruang bagi emosi untuk mereda. Mari periksa beristirahat dulu selama 30 menit, lalu kita hubungi dengan kalimat yang memisahkan asumsi dari fakta.”
+Internal agreement: Setelah jeda fisik 30 menit, saya akan mengirimkan satu pesan klarifikasi yang fokus pada bantuan teknis (bukan tuduhan) sebelum jam 19.00.
+Evidence tindakan
+Jeda fisik (menjauh dari HP) selama 30 menit.
+Pesan klarifikasi dikirim pukul 18.45: “Bro, apakah ada error waktu nyambungin ESP32-CAM nya ke Devkit? Kalau butuh dibantu cek log error-nya kabari ya, santai aja.”
+Revisi mandiri untuk ESP32-CAMtoDevkit.c sebagai rencana cadangan (Plan B).
+Response rekan: “Sorry banget bro, laptop gue bluescreen pas buka compiler, ini baru nyala lagi. Kodenya udah aman kok, tinggal gue flash.” Evidence ini memperbarui story saya: kelambatan merespons murni masalah teknis, bukan niat buruk.
+Feedback, AI, dan refleksi
+Saya menggunakan Gemini sebagai Cermin AI (Netral). - Prompt: “Pisahkan fakta dan asumsi dari kalimat ini: ‘Kamu ngapain aja sih 5 jam ngilang, sengaja ya biar saya yang ngerjain hardware-nya?’” - Output AI: AI membantu mengidentifikasi bahwa kata “sengaja” adalah murni narasi/asumsi subjektif saya. AI menyarankan untuk fokus menanyakan obstacle (hambatan).
+Next practice: Saat menghadapi “pesan yang lama dibalas”, saya akan mempraktikkan TAIDA (Target, Attention, Interest, Desire, Action) untuk menemukan langkah objektif sebelum merespons secara reaktif.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Tiga dewan direksi batin (Hakim, Pencemas, Perencana) dikenali dan dinegosiasikan.
+Objective & State
+3
+Reaksi marah berhasil diubah menjadi respons analitis dan asertif.
+Repertoire, Language & AI
+3
+Menerapkan jeda fisik (jurnal/waktu) dan AI sebagai alat refleksi bahasa.
+Response & Adaptation
+4
+Asumsi awal (diabaikan) berhasil di-update dengan fakta (laptop bluescreen).
+Agreement, Action & Relationship
+4
+Kesepakatan internal menghasilkan pertanyaan netral yang menyelamatkan relasi proyek.
+Total: 18/20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#episode
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://cpu-61.github.io/kipp-students/examples/week-02.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
