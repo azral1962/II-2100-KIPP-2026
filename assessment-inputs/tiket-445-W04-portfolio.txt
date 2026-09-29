@@ -1,0 +1,206 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 445
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://naufalrasya.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Five-Language Translation Portfolio
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+1. Friend
+2. Technical Peer
+3. Manager / Koordinator Kelompok
+4. Customer / Player
+5. Public
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Konteks performance
+Tanggal dan setting: September 2026, saat pengerjaan Tugas Besar KWN berupa game visual novel. Konteks komunikasi berasal dari hasil diskusi mengenai perbedaan good ending dan bad ending dalam cerita.
+Persons dan relationship: Saya berperan sebagai story writer bersama Rendy. Selain berkomunikasi dengan sesama story writer, konsep cerita yang sama dapat perlu dijelaskan kepada anggota teknis kelompok, koordinator kelompok, calon player, dan public dengan language yang berbeda.
+Objective dan initial state: Objective saya adalah menyampaikan satu core meaning yang sama kepada lima target yang memiliki kebutuhan informasi berbeda tanpa mengubah isi utama pesan.
+Core meaning yang ingin dipertahankan adalah:
+“Pada good ending, satu karakter selain MC dapat tetap hidup karena pilihan player sebelumnya. Pada bad ending, semua karakter selain MC mati.”
+Initial state-nya adalah penjelasan tersebut awalnya menggunakan language yang biasa saya gunakan ketika berdiskusi santai dengan teman. Language tersebut belum tentu sesuai apabila digunakan kepada technical peer, manager, customer, atau public.
+Evidence
+Evidence berasal dari konsep ending yang telah disepakati dalam diskusi story writer TUBES KWN dan kemudian diterjemahkan menjadi lima bentuk komunikasi berikut.
+1. Friend
+“Jadi kalau player dapet good ending, ada satu karakter selain MC yang bisa selamat gara-gara pilihan yang dia ambil sebelumnya. Kalau bad ending, semuanya mati dan cuma MC yang hidup.”
+Alasan perubahan language dan repertoire:
+Ketika berbicara dengan teman, saya menggunakan bahasa informal dan langsung pada inti cerita. Kata seperti “dapet”, “gara-gara”, dan “cuma” dapat digunakan karena relationship kami dekat dan tidak membutuhkan penjelasan yang terlalu formal. Repertoire utama yang digunakan adalah casual explanation.
+2. Technical Peer
+“Di branching story-nya, pilihan player pada bagian sebelumnya akan menentukan survival satu karakter. Jika condition untuk good ending terpenuhi, karakter tersebut tetap hidup bersama MC. Jika condition tidak terpenuhi dan player masuk ke bad ending, hanya MC yang survive.”
+Alasan perubahan language dan repertoire:
+Technical peer membutuhkan informasi yang dapat diterjemahkan menjadi implementasi game. Karena itu saya menggunakan istilah seperti branching story, condition, dan survival. Saya juga menjelaskan hubungan antara pilihan sebelumnya dengan kondisi ending. Repertoire berubah dari casual explanation menjadi technical clarification agar logic cerita dapat diterapkan ke dalam game.
+3. Manager / Koordinator Kelompok
+“Konsep ending yang disepakati memiliki dua hasil utama. Good ending memungkinkan satu karakter selain MC tetap hidup berdasarkan pilihan player sebelumnya, sedangkan pada bad ending hanya MC yang bertahan hidup. Dengan konsep ini, pilihan player tetap memiliki konsekuensi yang terlihat dan kedua ending memiliki perbedaan yang jelas.”
+Alasan perubahan language dan repertoire:
+Ketika berbicara dengan koordinator kelompok, saya tidak hanya menjelaskan apa yang terjadi, tetapi juga alasan keputusan tersebut penting untuk keseluruhan proyek. Language dibuat lebih terstruktur dan ringkas. Repertoire yang digunakan adalah summary dan rationale, karena koordinator lebih membutuhkan keputusan dan dampaknya daripada detail percakapan antar-story writer.
+4. Customer / Player
+“Pilihan yang kamu buat sepanjang permainan akan memengaruhi nasib karakter lain. Jika kamu berhasil mencapai good ending, seseorang mungkin masih dapat bertahan bersama MC. Namun, pilihan yang membawa cerita menuju bad ending akan membuat MC menjadi satu-satunya yang selamat.”
+Alasan perubahan language dan repertoire:
+Untuk player, detail condition dan struktur branching tidak perlu dijelaskan secara teknis. Language lebih berfokus pada pengalaman player dan konsekuensi pilihan. Saya menggunakan kata “kamu” agar pesan terasa langsung kepada player. Repertoire berubah menjadi user-oriented explanation dan menghindari detail implementasi.
+5. Public
+“Visual novel ini menggunakan sistem pilihan yang memengaruhi akhir cerita. Pada good ending, keputusan pemain sebelumnya dapat membuat satu karakter selain tokoh utama tetap hidup. Sementara itu, pada bad ending, tokoh utama menjadi satu-satunya karakter yang bertahan. Perbedaan tersebut membuat pilihan pemain memiliki konsekuensi terhadap akhir cerita.”
+Alasan perubahan language dan repertoire:
+Untuk public, saya tidak dapat menganggap pembaca memahami istilah internal kelompok atau struktur teknis game. Karena itu, “MC” dijelaskan sebagai “tokoh utama” dan bahasa dibuat lebih umum. Repertoire yang digunakan adalah public explanation, yaitu memberikan konteks yang cukup agar orang yang tidak terlibat dalam proyek tetap dapat memahami core meaning.
+Walaupun kelima versi menggunakan language dan repertoire yang berbeda, core meaning tidak berubah: good ending memungkinkan satu karakter selain MC hidup karena pilihan sebelumnya, sedangkan bad ending membuat MC menjadi satu-satunya yang selamat.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Person yang menyampaikan informasi tetap saya, tetapi character dan relationship berubah ketika berbicara sebagai teman, story writer dengan technical peer, anggota kelompok kepada koordinator, pembuat game kepada player, dan presenter kepada public.
+Objective & state
+Objective utama adalah membuat setiap target memahami konsep ending yang sama. Initial state menunjukkan satu versi bahasa tidak cukup efektif untuk seluruh target karena masing-masing memiliki kebutuhan informasi dan relationship yang berbeda.
+Repertoire & language
+Friend menggunakan casual explanation; technical peer menggunakan technical clarification; manager menggunakan summary dan rationale; customer menggunakan user-oriented explanation; public menggunakan general explanation. Istilah, tingkat formalitas, dan detail berubah tanpa mengubah core meaning.
+Response & adaptation
+Adaptation dilakukan berdasarkan kebutuhan target. Detail teknis ditambahkan untuk technical peer, alasan keputusan ditekankan kepada manager, sedangkan istilah teknis dikurangi untuk customer dan public.
+Agreement/action
+Core meaning ditetapkan terlebih dahulu sebagai batas agar adaptasi language tidak mengubah isi pesan. Setelah itu, setiap versi disesuaikan berdasarkan relationship dan informasi yang dibutuhkan target.
+Relationship outcome
+Adaptasi language membuat komunikasi lebih sesuai dengan relationship. Teman tetap mendapatkan komunikasi yang natural, technical peer memperoleh logic yang dapat diimplementasikan, manager memahami keputusan, sedangkan player dan public dapat memahami konsep tanpa harus mengetahui detail internal proyek.
+Penggunaan AI
+AI digunakan untuk membantu menyusun kembali satu core meaning menjadi lima bentuk komunikasi untuk target yang berbeda serta membantu mengidentifikasi perbedaan repertoire dan language pada setiap target.
+Prompt atau instruksi penting yang diberikan adalah mempertahankan konsep ending TUBES KWN yang sama, tetapi mengadaptasi cara penyampaiannya untuk friend, technical peer, manager, customer, dan public.
+Output AI digunakan sebagai bantuan dalam penyusunan struktur dan pemilihan language. Saya tetap memeriksa agar tidak terjadi perubahan core meaning. Bagian yang terlalu formal atau tidak sesuai dengan cara komunikasi saya diubah agar lebih natural.
+Untuk accuracy, setiap versi dibandingkan kembali dengan konsep cerita yang sudah ditentukan. Untuk privacy, tidak ada informasi pribadi anggota kelompok yang perlu disampaikan selain konteks yang relevan. Untuk authority, keputusan mengenai cerita dan ending tetap berasal dari story writer dan kelompok, bukan AI.
+Hal yang tetap saya pelajari sebagai manusia adalah menentukan informasi apa yang dibutuhkan oleh lawan bicara. Saya menyadari bahwa komunikasi yang efektif bukan berarti menyampaikan kalimat yang sama kepada semua orang, tetapi menjaga meaning sambil menyesuaikan language dan repertoire.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rendy sebagai sesama story writer dapat memahami bahwa good ending tetap memiliki konsekuensi, tetapi memberikan hasil yang berbeda karena terdapat karakter yang dapat diselamatkan melalui pilihan player. Feedback ini menunjukkan bahwa core meaning mengenai perbedaan kedua ending dapat dipahami.
+Adaptation/replay: Jika menjelaskan konsep tersebut kepada anggota teknis, saya tidak cukup hanya mengatakan “ada karakter yang hidup di good ending”. Saya perlu menjelaskan bahwa survival karakter tersebut bergantung pada condition dari pilihan player sebelumnya. Sebaliknya, ketika menjelaskan kepada player atau public, saya tidak perlu menjelaskan struktur condition secara teknis dan cukup menekankan bahwa pilihan mereka memengaruhi ending.
+Next practice: Sebelum menyampaikan informasi, saya akan menentukan terlebih dahulu siapa target komunikasinya dan informasi apa yang mereka butuhkan, kemudian memilih tingkat detail dan istilah yang sesuai tanpa mengubah core meaning.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Satu person berkomunikasi kepada lima target dengan relationship dan kebutuhan yang berbeda.
+Objective & State
+3
+Core meaning ditentukan secara eksplisit dan dipertahankan pada seluruh versi.
+Repertoire, Language & AI
+4
+Terdapat lima bentuk language dan repertoire yang berbeda untuk friend, technical peer, manager, customer, dan public serta penggunaan AI dijelaskan.
+Response & Adaptation
+3
+Tingkat detail, istilah, dan fokus pesan berubah berdasarkan kebutuhan setiap target tanpa mengubah meaning.
+Agreement, Action & Relationship
+3
+Feedback understanding dari sesama story writer dicatat dan terdapat tindak lanjut untuk menyesuaikan komunikasi berdasarkan target.
+Total: 16 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Naufal Rasya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://naufalrasya.github.io/kipp-students/index.html
+- https://naufalrasya.github.io/kipp-students/assets/logo.png
+- https://naufalrasya.github.io/kipp-students/course/index.html
+- https://naufalrasya.github.io/kipp-students/portfolio/index.html
+- https://naufalrasya.github.io/kipp-students/examples/index.html
+- https://naufalrasya.github.io/kipp-students/lk/index.html
+- https://naufalrasya.github.io/kipp-students/slides.html
+- https://naufalrasya.github.io/kipp-students/slides-pdf/index.html
+- https://naufalrasya.github.io/kipp-students/assessment/index.html
+- https://naufalrasya.github.io/kipp-students/about.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-01.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-02.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-05.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-06.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-07.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-08.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-09.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-10.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-11.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-12.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-13.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-14.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-15.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#five-language-translation-portfolio
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#friend
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#technical-peer
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#manager-koordinator-kelompok
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#customer-player
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#public
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://naufalrasya.github.io/kipp-students/portfolio/index.html#category=Fondasi
+- https://naufalrasya.github.io/kipp-students/portfolio/index.html#category=Language
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

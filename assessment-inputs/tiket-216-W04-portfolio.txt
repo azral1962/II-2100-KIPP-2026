@@ -1,0 +1,217 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 216
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://lvdis29.github.io/kipp-suci/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Core Meaning
+Lima Versi Language
+Evidence Understanding (Feedback & Adaptasi)
+Analisis dan Batas Penggunaan AI
+Self-assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence Tambahan
+Five-Language Translation Portfolio
+Fondasi
+Adaptasi Bahasa
+Evidence adaptasi repertoire dan language ke lima target berbeda tanpa mengubah core meaning dalam konteks wisata keluarga.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Core Meaning
+Fakta yang tidak boleh berubah: Waktu keberangkatan rombongan liburan keluarga ke Lembang pada hari Sabtu besok dimajukan dari pukul 09.00 WIB menjadi pukul 06.00 WIB. Titik kumpul (meeting point) tetap di rumah Nenek. Keputusan ini diambil agar rombongan terhindar dari kemacetan parah di jalan tol/jalur atas.
+Lima Versi Language
+Target / Character
+Versi Language
+Alasan Adaptasi (Rationale)
+Friend (Sepupu seumuran)
+“Woi, besok jalan ke Lembangnya maju jadi jam 6 pagi dari rumah Nenek ya. Lu jangan begadang malam ini, awas aja kalau kesiangan bikin sekeluarga nungguin lu.”
+Bahasa sangat kasual dan santai. Menekankan konsekuensi langsung pada pertemanan/persaudaraan (jangan sampai telat dan bikin menunggu).
+Technical Peer (Om / Saudara pengurus transportasi)
+“Om, keberangkatan fix maju jadi jam 06.00 WIB ya dari rumah Nenek. Tolong kordinasi sama supir Elf supaya mereka udah standby jam 05.30 untuk loading koper dan barang bawaan.”
+Fokus pada instruksi logistik teknis (loading koper, jam standby supir) karena target adalah penanggung jawab operasional kendaraan.
+Manager (Kakek/Nenek atau Tetua Keluarga)
+“Assalamualaikum Nenek. Karena prediksi besok jalanan macet parah, anak-anak sepakat keberangkatan dimajukan jadi jam 6 pagi nggih. Nanti sarapannya kita bawa ke mobil saja biar Nenek tidak repot masak pagi-pagi.”
+Menggunakan bahasa krama/sopan dan penuh hormat. Berfokus pada penyesuaian kenyamanan (sarapan di mobil) agar tetua tidak kaget dengan perubahan jadwal yang mendadak.
+Customer (Grup WA Keluarga Besar)
+“Pengumuman: Rombongan keluarga besok akan berangkat pukul 06.00 WIB tepat dari rumah Nenek agar terhindar dari macet ke Lembang. Mohon semuanya sudah berkumpul maksimal jam 05.45 WIB. Terima kasih.”
+Bahasa informatif, sopan, namun tegas. Menjelaskan instruksi tindakan utama yang dibutuhkan (jam berkumpul dan jam berangkat) untuk audiens luas.
+Public (Pihak Pengelola Villa)
+“Selamat sore Pak, menginformasikan bahwa rombongan keluarga kami akan jalan lebih awal pukul 06.00 pagi. Estimasi sampai di villa sekitar pukul 09.00. Mohon infonya apakah kami bisa menitipkan barang dulu jika belum waktu check-in?”
+Berfungsi sebagai komunikasi eksternal. Memberikan konteks ETA (Estimated Time of Arrival) dan mengajukan pertanyaan operasional ke pengelola tanpa menceritakan dinamika internal keluarga.
+Evidence Understanding (Feedback & Adaptasi)
+Saya menguji draf versi Customer ke dalam grup WhatsApp keluarga besar.
+Respons Target: Tante saya memahami bahwa jam keberangkatan dimajukan menjadi pukul 06.00 pagi, tetapi beliau membalas: “Waduh, kalau berangkat jam 6 pagi, anak-anak balita pada belum sarapan dan mandinya gimana ya? Takut rewel di jalan.”
+Adaptasi (Perbaikan loop): Pertanyaan ini menyadarkan saya bahwa ada ketidakpastian (uncertainty) mengenai persiapan anak kecil di pagi buta. Saya memodifikasi instruksi di grup WA dengan menambahkan kalimat: “Bagi yang membawa balita, tidak perlu dipaksakan mandi pagi di rumah, bisa dimandikan saat sudah sampai di villa. Untuk sarapan pagi, panitia sudah menyiapkan roti dan susu di mobil masing-masing.” Adaptasi ini memberikan solusi dan menenangkan keluarga tanpa mengubah fakta keberangkatan jam 6 pagi.
+Analisis dan Batas Penggunaan AI
+Repertoire saya sesuaikan dengan peran lawan bicara. Kepada pengelola villa (publik), saya menambahkan negosiasi penitipan barang, sedangkan kepada Eyang/Nenek, saya fokus pada care (tidak perlu repot masak).
+Saya menggunakan AI hanya untuk memverifikasi apakah kelima draf saya konsisten mempertahankan 3 fakta absolut: (1) Sabtu, (2) Jam 06.00 WIB, (3) Titik kumpul di rumah Nenek.
+Saya membatasi AI saat AI menyarankan agar saya membuat draf “ancaman denda uang bagi yang terlambat” untuk versi grup WA keluarga. Saya menolak karena itu terlalu kaku dan bisa merusak hubungan (relationship) keluarga.
+Self-assessment
+Dimensi
+Skor
+Alasan terhadap descriptor rubrik
+Person & Character
+3
+Lima target berhasil dibedakan berdasarkan status hierarki (Nenek vs sepupu) dan kepentingannya (Pengelola villa vs Panitia transportasi).
+Objective & State
+3
+Core meaning (perubahan jam keberangkatan ke jam 6) tetap utuh di kelima versi tanpa ada distorsi.
+Repertoire, Language & AI
+4
+Repertoire sangat luwes dari bahasa santai, logistik, sopan, hingga profesional. Batasan penggunaan AI sangat jelas dan rasional (menolak saran AI yang merusak suasana keluarga).
+Response & Adaptation
+4
+Berhasil mendeteksi kekhawatiran Tante terkait kondisi balita, lalu mengadaptasi pengumuman dengan tambahan solusi operasional (skip mandi & sarapan di mobil).
+Agreement, Action & Relationship
+4
+Action sangat spesifik (jam standby supir, batas jam kumpul). Hubungan kekeluargaan dan hierarki dijaga dengan sangat baik di masing-masing pesan.
+Total: 18/20 — Lanjut.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence Tambahan
+Bukti Feedback Tante (Target Customer): > Saya: “Pengumuman: Rombongan keluarga besok akan berangkat pukul 06.00 WIB tepat dari rumah Nenek…” > Tante: “Waduh, kalau berangkat jam 6 pagi, anak-anak balita pada belum sarapan dan mandinya gimana ya? Takut pada rewel di jalan kalau buru-buru.” > Saya: “Tenang Tante, anak-anak nggak usah mandi dulu nggak apa-apa, nanti mandi di villa aja pas sampai. Buat sarapan juga panitia udah nyiapin roti sama susu kotak di mobil kok biar pada bisa makan di jalan.”
+Kembali ke atas
+Relationship Conversation
+Discovery Interview Journal
+Portfolio KIPP-2 · Eka Suci Ramadhani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://lvdis29.github.io/kipp-suci/index.html
+- https://lvdis29.github.io/kipp-suci/assets/logo.png
+- https://lvdis29.github.io/kipp-suci/course/index.html
+- https://lvdis29.github.io/kipp-suci/portfolio/index.html
+- https://lvdis29.github.io/kipp-suci/examples/index.html
+- https://lvdis29.github.io/kipp-suci/lk/index.html
+- https://lvdis29.github.io/kipp-suci/slides.html
+- https://lvdis29.github.io/kipp-suci/slides-pdf/index.html
+- https://lvdis29.github.io/kipp-suci/assessment/index.html
+- https://lvdis29.github.io/kipp-suci/about.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-01.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-03.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-05.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-07.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-08.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-11.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-12.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-13.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-14.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-15.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#kompetensi-target
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#core-meaning
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#lima-versi-language
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#evidence-understanding-feedback-adaptasi
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#analisis-dan-batas-penggunaan-ai
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#self-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#konteks-performance
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#evidence
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#analisis-komunikasi
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#penggunaan-ai
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#self-assessment-1
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#assessment-dosen
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html#evidence-tambahan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

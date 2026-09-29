@@ -158,6 +158,7 @@ class AssessmentResult:
     status: str
     content: str
     data: dict[str, Any] | None = None
+    corrections: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -638,59 +639,36 @@ def _validated_structured_result(
             raise PermanentAssessmentError(f"Alasan dimensi {key} kosong.")
         scores.append(score)
 
-    declared_total = data.get("total")
-    declared_level = data.get("level")
+    # Dimension scores and evidence determine the derived fields, not vice versa.
     has_na = any(score is None for score in scores)
-    if has_na:
-        if declared_total is not None or declared_level is not None:
-            raise PermanentAssessmentError(
-                "Total dan level harus null ketika ada dimensi N/A."
-            )
-        calculated_total = None
+    calculated_total = None if has_na else sum(score for score in scores if score is not None)
+    expected_level = (
+        None if calculated_total is None
+        else "Awal" if calculated_total <= 8
+        else "Berkembang" if calculated_total <= 12
+        else "Kompeten" if calculated_total <= 16
+        else "Lanjut"
+    )
+    if evidence_status == "Tidak memadai" or has_na:
+        decision = "Belum dapat dinilai"
+    elif (
+        evidence_status == "Lengkap"
+        and calculated_total is not None
+        and calculated_total >= 13
+        and all(score is not None and score >= 2 for score in scores)
+    ):
+        decision = "Tercapai"
     else:
-        calculated_total = sum(score for score in scores if score is not None)
-        if (
-            not isinstance(declared_total, int)
-            or isinstance(declared_total, bool)
-            or declared_total != calculated_total
-        ):
-            raise PermanentAssessmentError(
-                f"Total JSON {declared_total} tidak sama dengan jumlah dimensi {calculated_total}."
-            )
-        expected_level = (
-            "Awal"
-            if calculated_total <= 8
-            else "Berkembang"
-            if calculated_total <= 12
-            else "Kompeten"
-            if calculated_total <= 16
-            else "Lanjut"
-        )
-        if declared_level != expected_level:
-            raise PermanentAssessmentError(
-                f"Level JSON harus {expected_level} untuk total {calculated_total}."
-            )
+        decision = "Perlu revisi"
 
-    if decision == "Tercapai":
-        if (
-            evidence_status != "Lengkap"
-            or calculated_total is None
-            or calculated_total < 13
-            or any(score is not None and score < 2 for score in scores)
-        ):
-            raise PermanentAssessmentError("Keputusan Tercapai tidak konsisten dengan rubrik.")
-    elif decision == "Belum dapat dinilai":
-        if evidence_status != "Tidak memadai" and not has_na:
-            raise PermanentAssessmentError(
-                "Keputusan Belum dapat dinilai membutuhkan evidence tidak memadai atau N/A."
-            )
-    elif evidence_status == "Tidak memadai" or has_na:
-        raise PermanentAssessmentError(
-            "Evidence tidak memadai atau dimensi N/A harus diputuskan Belum dapat dinilai."
-        )
-    elif evidence_status == "Lengkap" and calculated_total is not None:
-        if calculated_total >= 13 and all(score is not None and score >= 2 for score in scores):
-            raise PermanentAssessmentError("Keputusan Perlu revisi tidak konsisten dengan rubrik.")
+    corrections: list[str] = []
+    data = dict(data)
+    for key, expected in (("total", calculated_total), ("level", expected_level), ("decision", decision)):
+        if data[key] != expected or type(data[key]) is not type(expected):
+            note = f"{key}: {data[key]!r} → {expected!r} (berdasarkan skor dimensi dan status evidence)."
+            corrections.append(note)
+            LOGGER.warning("Koreksi hasil LLM: %s", note)
+        data[key] = expected
 
     status = DECISION_STATUSES[decision.lower()]
     return AssessmentResult(
@@ -698,6 +676,7 @@ def _validated_structured_result(
         status=status,
         content=content,
         data=data,
+        corrections=tuple(corrections),
     )
 
 
@@ -843,6 +822,7 @@ def render_assessment_content(result: AssessmentResult) -> str:
             "",
             str(data.get("integrity_notes", "")),
             "",
+            *(["## Koreksi otomatis", "", *[f"- {note}" for note in result.corrections], ""] if result.corrections else []),
             "## Data terstruktur",
             "",
             "```json",

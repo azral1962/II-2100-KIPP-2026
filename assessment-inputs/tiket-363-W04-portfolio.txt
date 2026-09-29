@@ -1,0 +1,192 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 363
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Portofolio Terjemahan Lima Bahasa – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Portofolio Terjemahan Lima Bahasa
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Portofolio Terjemahan Lima Bahasa
+Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Tahap 2: Matriks Terjemahan Lima Bahasa
+Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+F. Rubrik Evaluasi Mandiri
+Portofolio Terjemahan Lima Bahasa
+Komunikasi
+Code-Switching
+Latihan kelenturan register dan dekonstruksi jargon teknis (Kutukan Pengetahuan).
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Nama Lengkap: Muhammad Rafi Fadillah NIM: 18225115 Program Studi: Sistem dan Teknologi Informasi Tanggal Pengisian: 29 September 2026
+Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Konsep Teknis yang Dipilih: IoT Smart Home Automation (Sistem Otomasi Rumah Pintar berbasis Internet of Things)
+Definisi Teknis Awal: Integrasi mikrokontroler ESP32 dengan protokol komunikasi nirkabel HTTP/MQTT yang dihubungkan ke platform cloud MQTT broker via Blynk API, memungkinkan pengiriman payload data secara real-time untuk aktuasi pin GPIO relay modul kendali jarak jauh.
+Daftar Jargon Teknis & Artian Sederhananya:
+Jargon 1: Mikrokontroler ESP32 \(\rightarrow\) Arti Sederhana: Otak komputer kecil yang bisa terhubung ke internet.
+Jargon 2: Protokol MQTT \(\rightarrow\) Arti Sederhana: Jalur pengiriman pesan kilat antar-perangkat.
+Jargon 3: Aktuasi Relay \(\rightarrow\) Arti Sederhana: Perintah otomatis untuk menyalakan atau mematikan saklar listrik.
+Kebenaran Inti (Marrow of the Message): Menghubungkan peralatan rumah tangga ke internet agar bisa dikontrol jarak jauh lewat HP demi kenyamanan dan efisiensi energi.
+Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun) * Draf Terjemahan: “Bayangkan lampu kamarmu punya sayap ajaib yang bisa mendengarkan perintah dari HP ibu dari jauh. Jadi, kalau kamu lupa mematikan lampu waktu mau berangkat sekolah, lampu itu bisa dimatikan lewat HP tanpa harus kamu balik badan ke kamar lagi!”
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi) * Draf Terjemahan: “Jadi kemarin tuh gua bikin sistem buat nyalakan lampu rumah pakai ESP32 yang dikontrol lewat aplikasi HP (Blynk). Bayangin kayak bikin remote TV universal, tapi tombolnya ada di smartphone lu dan bisa diakses walaupun lu lagi nongkrong di luar.”
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan) * Draf Terjemahan: “Implementasi sistem menggunakan mikrokontroler ESP32 nodeMCU dengan modul WiFi terintegrasi. Komunikasi data menggunakan protokol MQTT publish-subscribe ke cloud server Blynk untuk mengontrol pin GPIO digital yang terhubung ke modul relay 4-channel secara low-latency.”
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis) * Draf Terjemahan: “Penerapan sistem otomasi berbasis IoT ini memangkas konsumsi energi bangunan hingga 15% melalui penjadwalan otomatis dan kontrol terpusat. Investasi awal perangkat berbiaya rendah ini memberikan efisiensi operasional jangka panjang dengan manajemen risiko kegagalan manual yang minimal.”
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas) * Draf Terjemahan: “Teknologi rumah pintar ini membantu kita mengontrol perangkat listrik di rumah secara jarak jauh lewat ponsel. Selain bikin hidup jauh lebih praktis, sistem ini juga mencegah pemborosan listrik akibat lupa mematikan lampu atau perangkat elektronik saat bepergian.”
+Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Ragam bahasa mana yang paling sulit Anda buat? Mengapa? Ragam anak-anak paling sulit karena harus mencari analogi fisik yang masuk akal di dunia mereka tanpa menggunakan istilah teknis sama sekali.
+Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri? Saya jadi sadar bahwa keahlian teknis tidak ada gunanya jika disampaikan dengan bahasa arogan yang membuat orang lain bingung. Esensi teknologi terletak pada seberapa besar ia bisa dipahami dan dimanfaatkan orang banyak.
+Catatan Penggunaan AI Kopilot (Jika Ada): Prompt yang digunakan: “Bertindaklah sebagai anak berusia 10 tahun dan kritik apakah penjelasan saya tentang IoT ini membosankan atau terlalu rumit.” Umpan balik AI membantu menyederhanakan analogi saklar lampu jarak jauh agar lebih konkret.
+F. Rubrik Evaluasi Mandiri
+Skor Mandiri: 15 / 16 (Keutuhan Makna: 4, Kelenturan Register: 4, Kualitas Analogi: 4, Kedalaman Refleksi: 3)
+Kembali ke atas
+Relationship Conversation
+Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://muhrafifad.github.io/kipp-students/index.html
+- https://muhrafifad.github.io/kipp-students/assets/logo.png
+- https://muhrafifad.github.io/kipp-students/course/index.html
+- https://muhrafifad.github.io/kipp-students/portfolio/index.html
+- https://muhrafifad.github.io/kipp-students/examples/index.html
+- https://muhrafifad.github.io/kipp-students/lk/index.html
+- https://muhrafifad.github.io/kipp-students/slides.html
+- https://muhrafifad.github.io/kipp-students/slides-pdf/index.html
+- https://muhrafifad.github.io/kipp-students/assessment/index.html
+- https://muhrafifad.github.io/kipp-students/about.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-01.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-02.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-06.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-07.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-08.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-09.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-10.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-11.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-12.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-13.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-14.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-15.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#tahap-1-detoks-jargon-dekonstruksi-konsep
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#tahap-2-matriks-terjemahan-lima-bahasa
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#tahap-3-refleksi-pembelajaran-intrapribadi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#f.-rubrik-evaluasi-mandiri
+- https://muhrafifad.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

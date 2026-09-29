@@ -1,0 +1,115 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 496
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Fact, Emotion, Story & Narrative Reframing – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Fact, Emotion, Story & Narrative Reframing
+Indeks Portfolio
+Character Map & Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relational Boundary & Trade-Off Management
+Multi-Audience Communication & Adaptation
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Pemisahan Elemen Konflik (Kasus Tugas Kelompok)
+Bagian B: Reframing Narasi & Rencana Tindakan
+Bagian C: Dokumentasi Outcome Konkret & Verifikasi Narasi (Follow-up)
+1. Proses Verifikasi Narasi (Sync-Up Call)
+2. Bukti Outcome / Hasil Nyata
+Fact, Emotion, Story & Narrative Reframing
+Personal
+Reframing
+Pemisahan fakta, emosi, dan cerita internal serta bukti konkret hasil tindakan dan verifikasi narasi.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 15 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 02 Lengkap
+Bagian A: Pemisahan Elemen Konflik (Kasus Tugas Kelompok)
+Fakta Objektif (Fact): Rekan kelompok (inisial M.A.) belum mengunggah draf bagian laporan teknis hingga H-1 tenggat waktu internal, dan tidak merespons pesan teks grup selama 6 jam.
+Emosi Terasa (Emotion): Cemas, jengkel, dan khawatir tugas tidak selesai tepat waktu.
+Cerita Internal (Internal Story): “M.A. tidak bertanggung jawab dan sengaja lepas tangan menyerahkan beban ke saya.”
+Bagian B: Reframing Narasi & Rencana Tindakan
+Narasi Alternatif (Reframed Story):
+“M.A. mungkin sedang mengalami kendala teknis atau kebingungan memahami bagian laporannya sehingga ragu untuk membalas di grup.”
+Rencana Tindakan:
+Menghubungi M.A. via panggilan suara (voice call) secara pribadi dengan pendekatan non-konfrontatif untuk klarifikasi.
+Bagian C: Dokumentasi Outcome Konkret & Verifikasi Narasi (Follow-up)
+1. Proses Verifikasi Narasi (Sync-Up Call)
+Saya melakukan panggilan suara selama 10 menit dengan M.A. menggunakan pendekatan berempati: “Halo M.A., aku lihat bagian laporanmu belum terisi. Ada bagian kodingan yang bikin kamu bingung atau ada kendala lain?”
+2. Bukti Outcome / Hasil Nyata
+Terverifikasinya Cerita Internal: M.A. mengungkapkan bahwa laptopnya mengalami kendala crash dan ia bingung menyusun bagian diagram ERD, bukan karena malas.
+Kesepakatan Baru: Kami membagi ulang sub-bab. M.A. mengambil alih penulisan analisis deskriptif (30% beban kerja tambahan), sementara saya membantunya pada diagram ERD.
+Dampak Relasional & Hasil Kerja: Laporan selesai diunggah H-2 jam sebelum tenggat resmi kampus, dan komunikasi tim menjadi jauh lebih terbuka tanpa ada rasa mendendam.
+Kembali ke atas
+Character Map & Communication Adaptability
+Relational Boundary & Trade-Off Management
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-a-pemisahan-elemen-konflik-kasus-tugas-kelompok
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-b-reframing-narasi-rencana-tindakan
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-c-dokumentasi-outcome-konkret-verifikasi-narasi-follow-up
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#proses-verifikasi-narasi-sync-up-call
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bukti-outcome-hasil-nyata
+- https://ambreluee.github.io/kipp-students/lk/week-02.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

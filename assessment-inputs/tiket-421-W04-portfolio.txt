@@ -1,0 +1,134 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 421
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Multi-Audience Communication & Adaptation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Audience Communication & Adaptation
+Indeks Portfolio
+Character Map & Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relational Boundary & Trade-Off Management
+Multi-Audience Communication & Adaptation
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Pesan Inti & Pemetaan 5 Audiens
+Translasi Pesan ke 5 Target Audiens:
+Bagian B: Umpan Balik & Pengelolaan Keraguan Audiens (Feedback & Trade-off)
+1. Umpan Balik Target 1: Rekan Teknis (Inisial T.O. - Lead Dev)
+2. Umpan Balik Target 2: Manajer / Koordinator Non-Teknis (Inisial R.A. - Project Coordinator)
+Bagian C: Adaptasi Pesan Lanjutan (Follow-up Adaptation)
+Bagian D: Refleksi Adaptasi Komunikasi
+Multi-Audience Communication & Adaptation
+Professional
+Communication
+Multi-Audience
+Penerjemahan pesan teknis ke lima audiens serta pengelolaan umpan balik dan keraguan pemangku kepentingan.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 22 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 04 Lengkap
+Bagian A: Pesan Inti & Pemetaan 5 Audiens
+Pesan Inti Teknis:
+“Sistem validasi rundown dan materi acara perlu mengimplementasikan mekanisme cutoff time ketat pada H-3 acara untuk mencegah race condition/overwriting revisi dari multiple stakeholders dan menekan beban server/overtime tim.”
+Translasi Pesan ke 5 Target Audiens:
+Rekan Teknis (Developer/Peer):
+“Kita butuh penegasan cutoff time H-3 untuk validasi rundown agar tidak terjadi race condition pada commit data revisi dari dosen dan sponsor.”
+Manajer Proyek / Koordinator Acara (Non-Teknis):
+“Dengan batas waktu revisi maksimal H-3, tim kita tidak perlu lembur mendadak di malam H-1 dan risiko salah tayang jadwal acara bisa ditekan hingga nol.”
+Dosen Pembina / Pihak Eksternal (Sponsor):
+“Demi kepastian kualitas dan kelancaran acara bersama, seluruh persetujuan materi dan rundown kami mohon difinalisasi sebelum H-3 pukul 17.00 WIB.”
+Tim Publikasi / Media (Eksekutor Visual):
+“Mulai H-3 jam 5 sore, materi visual yang masuk sudah final 100%. Teman-teman bisa fokus cetak dan upload tanpa takut ada revisi mendadak.”
+Peserta Acara / Mahasiswa Umum (End-User):
+“Jadwal dan pengisi acara resmi akan dipublikasikan secara pasti pada H-2, memberikan Anda kepastian agenda kegiatan yang akurat.”
+Bagian B: Umpan Balik & Pengelolaan Keraguan Audiens (Feedback & Trade-off)
+1. Umpan Balik Target 1: Rekan Teknis (Inisial T.O. - Lead Dev)
+Komentar/Tanggapan: “Setuju banget, kalau revisi masuk terus di H-1, database dan jadwal tampil sering konflik.”
+Konfirmasi Pemahaman: Rekan teknis memahami sepenuhnya aspek kestabilan sistem dan efisiensi alur kerja.
+2. Umpan Balik Target 2: Manajer / Koordinator Non-Teknis (Inisial R.A. - Project Coordinator)
+Keraguan & Pertanyaan yang Disampaikan (Uncertainty / Trade-off):
+“Tapi Win, kalau kita kunci cutoff time ketat di H-3, gimana kalau sponsor utama atau dosen pembina mendadak minta perubahan penting di H-2? Apakah ini enggak bikin kita kelihatan kaku dan bikin sponsor kecewa?”
+Bagian C: Adaptasi Pesan Lanjutan (Follow-up Adaptation)
+Merespons keraguan dari Koordinator Non-Teknis (R.A.) di atas, dilakukan adaptasi pesan lanjutan untuk mengelola risiko dan trade-off bisnis:
+Pesan Adaptasi Lanjutan kepada R.A. (Manajer):
+“Poin yang sangat bagus, R.A. Kita tidak akan kaku 100%. Ketentuan cutoff time H-3 ini berfungsi sebagai filter standar baku. Jika ada perubahan darurat dari sponsor di H-2, perubahan tersebut wajib melalui Emergency Approval Path dengan persetujuan tertulis Ketua Pelaksana dan dikenakan batas fleksibilitas maksimum 10% perubahan teknis.
+Dengan alur ini, sponsor tetap merasa dihargai tanpa mengorbankan kesehatan fisik tim acara dan kepastian jadwal publikasi kita.”
+Hasil Setelah Adaptasi Pesan:
+R.A. menerima solusi trade-off ini dengan lega: “Nah, kalau ada alur darurat khusus gitu aku setuju! Jadi ada bentengnya tapi tetap fleksibel kalau emang kepepet.”
+Bagian D: Refleksi Adaptasi Komunikasi
+Pelajaran Utama: Menyesuaikan pesan bukan hanya mengubah pilihan kata (jargon), tetapi juga mendengarkan keraguan nyata (uncertainty) dari pemangku kepentingan non-teknis dan menyediakan solusi kompromi (trade-off) yang menenangkan mereka.
+Kembali ke atas
+Relational Boundary & Trade-Off Management
+Professional Discovery Interview
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-a-pesan-inti-pemetaan-5-audiens
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#translasi-pesan-ke-5-target-audiens
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-b-umpan-balik-pengelolaan-keraguan-audiens-feedback-trade-off
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#umpan-balik-target-1-rekan-teknis-inisial-t.o.---lead-dev
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#umpan-balik-target-2-manajer-koordinator-non-teknis-inisial-r.a.---project-coordinator
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-c-adaptasi-pesan-lanjutan-follow-up-adaptation
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html#bagian-d-refleksi-adaptasi-komunikasi
+- https://ambreluee.github.io/kipp-students/lk/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

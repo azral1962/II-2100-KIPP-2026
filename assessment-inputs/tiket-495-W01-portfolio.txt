@@ -1,0 +1,116 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 495
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map & Communication Adaptability – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map & Communication Adaptability
+Indeks Portfolio
+Character Map & Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relational Boundary & Trade-Off Management
+Multi-Audience Communication & Adaptation
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Pemetaan 5 Karakter di 3 Domain Kehidupan
+Bagian B: Bukti Transisi Perubahan Bahasa Spesifik (Situasi Nyata)
+Konteks Kejadian:
+Character Map & Communication Adaptability
+Personal
+Communication
+Identity
+Pemetaan lima karakter di tiga domain kehidupan beserta transisi perubahan bahasa nyata.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 08 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 01 Lengkap
+Bagian A: Pemetaan 5 Karakter di 3 Domain Kehidupan
+Domain 1: Akademik & Kampus
+Karakter 1 (Mahasiswa STI / Peneliti Muda): Berbahasa formal, teknis, dan terstruktur saat diskusi akademis.
+Karakter 2 (Rekan Kelompok Praktikum): Berbahasa kasual, santai, dan fleksibel saat pengerjaan tugas bersama.
+Domain 2: Keluarga & Domestik
+Karakter 3 (Anak Pertama kepada Orang Tua): Berbahasa santun, penuh hormat, dan lembut.
+Karakter 4 (Pengasuh / Kakak bagi Adik): Berbahasa sederhana, mengayomi, dan empatik.
+Domain 3: Organisasi & Kepanitiaan UKM
+Karakter 5 (Koordinator Media & Publikasi): Berbahasa instruksional, lugas, profesional, dan berfokus pada tenggat waktu.
+Bagian B: Bukti Transisi Perubahan Bahasa Spesifik (Situasi Nyata)
+Konteks Kejadian:
+Sedang melakukan Zoom Meeting pembahasan kodingan proyek STI bersama Rekan Kelompok (Peran A), lalu tiba-tiba Orang Tua masuk ke kamar membawa makan malam setelah seharian bekerja (Peran B).
+Bahasa Peran A (Rekan Kelompok STI - Diskusi Teknis):
+“Bred, PR buat async function di controller-nya diselesaiin malam ini ya, biar pas PR merge ke branch main enggak conflict.”
+Momen Transisi (Merespons Sinyal Kehadiran Orang Tua):
+Mematikan mikrofon Zoom, menurunkan nada suara, berpaling dari layar laptop, dan menyesuaikan ekspresi wajah dari tegang menjadi hangat.
+Bahasa Peran B (Anak kepada Orang Tua - Santun & Empatik):
+“Eh Ibu… makasih banyak ya Bu udah dibawain makan malam. Ibu kelihatan capek banget hari ini, istirahat aja dulu ya Bu, nanti piringnya Winda yang cuci kok.”
+Alasan Perubahan Bahasa & Tone:
+Bahasa teknis dan istilah slang kampus sangat tidak relevan serta terkesan dingin jika digunakan kepada Orang Tua yang sedang lelah. Perubahan dilakukan demi menjaga etika, norma penghormatan, dan kenyamanan emosional keluarga.
+Kembali ke atas
+Indeks Portfolio
+Fact, Emotion, Story & Narrative Reframing
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#bagian-a-pemetaan-5-karakter-di-3-domain-kehidupan
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#bagian-b-bukti-transisi-perubahan-bahasa-spesifik-situasi-nyata
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#konteks-kejadian
+- https://ambreluee.github.io/kipp-students/lk/week-01.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

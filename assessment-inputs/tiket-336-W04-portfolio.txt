@@ -1,0 +1,178 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 336
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://snowberi.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Core meaning
+Lima versi language
+Analisis perubahan language dan repertoire
+Evidence understanding
+Response dan adaptation
+Evidence, AI, dan refleksi
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Core meaning
+Fakta yang tidak boleh berubah: Dalam tugas kelompok, batas pengumpulan tugas adalah Jumat pukul 23.59. Seluruh bagian harus sudah dikumpulkan kepada koordinator kelompok paling lambat Jumat pukul 18.00 agar masih ada waktu untuk menggabungkan dan memeriksa tugas sebelum dikumpulkan.
+Core meaning yang ingin saya sampaikan adalah pekerjaan harus selesai sebelum deadline internal agar masih tersedia waktu untuk pengecekan akhir. Meaning tersebut tetap sama, tetapi cara penyampaiannya perlu disesuaikan dengan person atau character yang menerima pesan.
+Lima versi language
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Eh, jangan lupa bagian kamu kirim sebelum jam 6 Jumat ya. Deadline aslinya emang jam 12 malam, tapi biar masih sempat kita gabung sama cek dulu.”
+Menggunakan bahasa informal dan personal karena relationship dekat. Pesan tetap memuat deadline dan alasan tanpa terdengar terlalu formal.
+Technical peer
+“Semua bagian final dikirim maksimal Jumat 18.00. Setelah itu file akan digabung dan dilakukan final checking sebelum submission pukul 23.59.”
+Lebih langsung dan terstruktur karena target sudah memahami workflow pengerjaan tugas.
+Manager/koordinator
+“Target penyelesaian tiap bagian adalah Jumat pukul 18.00 agar tersedia sekitar enam jam untuk integrasi, pengecekan, dan perbaikan sebelum deadline 23.59. Saya akan memberikan update jika ada bagian yang berpotensi terlambat.”
+Menekankan timeline, risiko, dan status pekerjaan karena koordinator membutuhkan informasi untuk mengatur keseluruhan proses.
+Customer/client
+“Hasil pekerjaan akan kami selesaikan dan periksa terlebih dahulu sebelum batas pengumpulan Jumat pukul 23.59. Kami menargetkan seluruh bagian sudah siap pada pukul 18.00 agar masih tersedia waktu untuk pengecekan akhir.”
+Mengurangi istilah internal dan lebih menekankan kepastian proses serta kualitas hasil yang diterima.
+Public
+“Pengerjaan akan diselesaikan lebih awal sebelum batas akhir Jumat pukul 23.59 agar tersedia waktu untuk pengecekan dan perbaikan sebelum hasil final dikumpulkan.”
+Informasi internal yang tidak diperlukan publik dihilangkan. Pesan dibuat singkat dan hanya menyampaikan informasi yang relevan bagi audiens umum.
+Analisis perubahan language dan repertoire
+Kelima versi memiliki core meaning yang sama, yaitu pekerjaan perlu selesai sebelum deadline utama agar tersedia waktu untuk pengecekan. Namun, repertoire dan language berubah berdasarkan relationship, kebutuhan informasi, dan responsibility masing-masing target.
+Untuk friend, saya menggunakan reminder dengan bahasa informal karena relationship lebih dekat. Saya tetap menjelaskan alasan deadline internal supaya pesan tidak terdengar seperti sekadar menyuruh.
+Untuk technical peer, repertoire berubah menjadi operational instruction. Target diasumsikan sudah memahami proses kerja sehingga pesan dapat langsung menyebut final checking dan submission tanpa penjelasan panjang.
+Untuk manager atau koordinator, repertoire berubah menjadi progress dan risk communication. Informasi mengenai timeline dan kemungkinan keterlambatan menjadi lebih penting karena koordinator memiliki responsibility terhadap pekerjaan secara keseluruhan.
+Untuk customer/client, saya menggunakan service-oriented language. Detail pembagian kerja internal tidak terlalu relevan bagi customer. Informasi yang lebih penting adalah kapan pekerjaan selesai dan bahwa terdapat proses pengecekan sebelum hasil final diberikan.
+Untuk public, repertoire berubah menjadi general announcement. Informasi dibuat lebih umum karena publik tidak membutuhkan detail mengenai workflow internal atau pembagian tanggung jawab kelompok.
+Dengan demikian, adaptasi language bukan sekadar mengganti kata formal menjadi informal. Adaptasi dilakukan berdasarkan siapa person yang menerima pesan, relationship, objective komunikasi, informasi yang dibutuhkan, dan action yang diharapkan.
+Evidence understanding
+Saya menunjukkan versi friend kepada salah satu teman tanpa memberikan penjelasan tambahan mengenai maksud pesan tersebut.
+Setelah membaca pesan, teman tersebut memahami bahwa tugas sebenarnya dikumpulkan pukul 23.59, tetapi bagian masing-masing anggota harus diberikan sebelum pukul 18.00. Namun, ia sempat bertanya apakah pukul 18.00 merupakan deadline resmi dari dosen atau hanya kesepakatan kelompok.
+Feedback tersebut menunjukkan bahwa perbedaan antara official deadline dan internal deadline perlu dibuat lebih eksplisit.
+Versi awal:
+“Eh, jangan lupa bagian kamu kirim sebelum jam 6 Jumat ya. Deadline-nya jam 12 malam, tapi biar masih sempat kita gabung sama cek dulu.”
+Setelah feedback:
+“Eh, jangan lupa bagian kamu kirim sebelum jam 6 Jumat ya. Deadline dari dosen sebenarnya jam 11.59 malam, tapi kita sepakat jam 6 buat deadline internal biar masih sempat digabung dan dicek dulu.”
+Perubahan tersebut tidak mengubah core meaning, tetapi memperjelas status dua deadline sehingga kemungkinan misunderstanding berkurang.
+Response dan adaptation
+Feedback dari target menunjukkan bahwa pesan yang menurut saya sudah jelas belum tentu menghasilkan understanding yang sama pada penerima.
+Initial state: saya menganggap penyebutan dua waktu sudah cukup untuk menunjukkan perbedaan deadline.
+Response target: teman memahami action yang harus dilakukan, tetapi belum mengetahui apakah pukul 18.00 merupakan deadline resmi atau kesepakatan kelompok.
+Adaptation: saya menambahkan istilah “deadline dari dosen” dan “deadline internal” untuk membedakan keduanya.
+Desired state: penerima memahami bukan hanya kapan harus bertindak, tetapi juga alasan dan status dari masing-masing deadline.
+Episode ini menunjukkan bahwa keberhasilan komunikasi tidak hanya ditentukan oleh pesan yang dikirim, tetapi juga oleh understanding yang terbentuk pada person yang menerima pesan.
+Evidence, AI, dan refleksi
+Evidence berupa lima versi pesan untuk lima target atau character yang berbeda.
+Evidence understanding diperoleh dari respons salah satu target setelah membaca pesan.
+Feedback target digunakan untuk memperjelas perbedaan antara official deadline dan internal deadline.
+AI digunakan setelah penyusunan pesan untuk membandingkan apakah kelima versi masih mempertahankan core meaning yang sama.
+AI tidak digunakan untuk menambahkan fakta baru mengenai deadline, pembagian tugas, atau keputusan kelompok.
+Informasi yang tidak relevan bagi target tertentu dihilangkan, tetapi fakta utama tidak diubah.
+Dari latihan ini, saya memahami bahwa language adaptation bukan berarti mengubah fakta agar sesuai dengan audiens. Fakta dan core meaning harus tetap konsisten. Hal yang dapat berubah adalah vocabulary, tingkat detail, struktur pesan, tone, serta action yang dibuat lebih eksplisit sesuai kebutuhan target.
+Next practice: sebelum mengirim informasi penting, saya akan memeriksa tiga hal: core meaning, target needs, dan expected action. Setelah itu, saya akan menyesuaikan language tanpa menambahkan atau menghilangkan fakta penting.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Friend, technical peer, manager, customer, dan public dibedakan berdasarkan relationship dan kebutuhan informasi
+Objective & State
+3
+Core meaning dan desired understanding tetap konsisten pada kelima versi
+Repertoire, Language & AI
+4
+Lima repertoire digunakan dengan language dan tingkat detail yang berbeda tanpa mengubah fakta utama
+Response & Adaptation
+3
+Feedback target menghasilkan perubahan konkret pada penjelasan official dan internal deadline
+Agreement, Action & Relationship
+3
+Deadline, alasan, dan expected action dibuat eksplisit dengan tetap mempertimbangkan relationship
+Total: 16/20 — Kompeten.
+Saya menilai evidence ini berada pada level kompeten karena satu core meaning berhasil diterjemahkan menjadi lima bentuk language berdasarkan target yang berbeda. Feedback dari target juga menghasilkan adaptation yang konkret. Repertoire dan language berubah, sedangkan fakta utama tetap dipertahankan.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Natasha Aurellia
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://snowberi.github.io/kipp-students/index.html
+- https://snowberi.github.io/kipp-students/assets/logo.png
+- https://snowberi.github.io/kipp-students/course/index.html
+- https://snowberi.github.io/kipp-students/portfolio/index.html
+- https://snowberi.github.io/kipp-students/examples/index.html
+- https://snowberi.github.io/kipp-students/lk/index.html
+- https://snowberi.github.io/kipp-students/slides.html
+- https://snowberi.github.io/kipp-students/slides-pdf/index.html
+- https://snowberi.github.io/kipp-students/assessment/index.html
+- https://snowberi.github.io/kipp-students/about.html
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html
+- https://snowberi.github.io/kipp-students/portfolio/week-01.html
+- https://snowberi.github.io/kipp-students/portfolio/week-02.html
+- https://snowberi.github.io/kipp-students/portfolio/week-03.html
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html
+- https://snowberi.github.io/kipp-students/portfolio/week-06.html
+- https://snowberi.github.io/kipp-students/portfolio/week-07.html
+- https://snowberi.github.io/kipp-students/portfolio/week-08.html
+- https://snowberi.github.io/kipp-students/portfolio/week-09.html
+- https://snowberi.github.io/kipp-students/portfolio/week-10.html
+- https://snowberi.github.io/kipp-students/portfolio/week-11.html
+- https://snowberi.github.io/kipp-students/portfolio/week-12.html
+- https://snowberi.github.io/kipp-students/portfolio/week-13.html
+- https://snowberi.github.io/kipp-students/portfolio/week-14.html
+- https://snowberi.github.io/kipp-students/portfolio/week-15.html
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#lima-versi-language
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#analisis-perubahan-language-dan-repertoire
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#response-dan-adaptation
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#evidence-ai-dan-refleksi
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

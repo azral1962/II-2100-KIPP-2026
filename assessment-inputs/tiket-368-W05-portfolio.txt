@@ -1,0 +1,117 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 368
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://owen2907.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode yang Dianalisis
+Analisis Discovery
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Episode yang Dianalisis
+Konteks Kejadian: Berdiskusi dengan teman satu kelompok tugas kuliah yang terlihat pasif dan belum mulai mengerjakan bagian pekerjaannya.
+Analisis Discovery
+Asumsi Awal (Initial Assumption) Awalnya, saya berasumsi bahwa dia tidak mengerjakan bagiannya karena dia memang tidak mengerti instruksi tugasnya, atau mungkin karena dia memiliki kesibukan pribadi yang sangat padat di luar kuliah.
+Pertanyaan Discovery Saya mencoba menggali kendalanya dengan bertanya secara langsung dan terbuka: “Eh, kamu kenapa sih kok belum mengerjakan tugas ini bareng-bareng? Ada kendala apa?”
+Fakta dan Hambatan (Constraint) Dari obrolan tersebut, terungkap bahwa asumsi awal saya salah. Dia tidak bingung atau terlalu sibuk. Kendala (constraint) utamanya adalah kemalasan dan kecenderungan bersikap pasif. Dia adalah tipe orang yang harus selalu didorong (di-push) dan diberi instruksi tugas yang sangat definitif baru mau bergerak untuk bekerja.
+Kesepakatan Masalah (Shared Problem Statement) Setelah mengetahui akar masalahnya, kami sepakat bahwa masalah kelompok ini bukan pada materi tugasnya, melainkan pada sistem komunikasinya. Kesimpulan yang kami sepakati: “Masalah utama kita adalah tidak adanya sistem pengingat yang proaktif. Karena ada anggota yang butuh dorongan untuk mulai bekerja, maka kelompok harus secara rutin reach out dan saling nge-push secara jelas agar progres tugas bisa berjalan.”
+Self-assessment
+Dimensi
+Skor
+Alasan
+Suspension of Judgement
+4
+Berhasil menunda asumsi (mengira sibuk/tidak paham) dan memilih bertanya langsung guna mencari akar kendala sebenarnya.
+Kualitas Pertanyaan
+4
+Menggunakan pertanyaan terbuka untuk mengidentifikasi hambatan tanpa langsung menjatuhkan tuduhan.
+Identifikasi Constraint
+4
+Menemukan hambatan sebenarnya yang bersifat perilaku (pasif/menunggu instruksi), bukan teknis/akademis.
+Problem Framing
+4
+Mampu menggeser sudut pandang masalah dari menyalahkan personal (“dia malas”) menjadi fokus perbaikan sistem kelompok (“perlu lebih proaktif”).
+Kesepakatan (Shared Statement)
+4
+Mencapai kesepakatan konkrit bahwa saling reach out dan nge-push adalah syarat utama berjalannya tugas tersebut.
+Total: 20/20 — Sangat Kompeten. Menunjukkan kemampuan menemukan akar hambatan operasional dan merumuskannya menjadi pernyataan masalah yang diakui bersama.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Owen Reyhan Martua Pasaribu
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://owen2907.github.io/kipp-students/index.html
+- https://owen2907.github.io/kipp-students/assets/logo.png
+- https://owen2907.github.io/kipp-students/course/index.html
+- https://owen2907.github.io/kipp-students/portfolio/index.html
+- https://owen2907.github.io/kipp-students/examples/index.html
+- https://owen2907.github.io/kipp-students/lk/index.html
+- https://owen2907.github.io/kipp-students/slides.html
+- https://owen2907.github.io/kipp-students/slides-pdf/index.html
+- https://owen2907.github.io/kipp-students/assessment/index.html
+- https://owen2907.github.io/kipp-students/about.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html
+- https://owen2907.github.io/kipp-students/portfolio/week-06.html
+- https://owen2907.github.io/kipp-students/portfolio/week-07.html
+- https://owen2907.github.io/kipp-students/portfolio/week-08.html
+- https://owen2907.github.io/kipp-students/portfolio/week-09.html
+- https://owen2907.github.io/kipp-students/portfolio/week-10.html
+- https://owen2907.github.io/kipp-students/portfolio/week-11.html
+- https://owen2907.github.io/kipp-students/portfolio/week-12.html
+- https://owen2907.github.io/kipp-students/portfolio/week-13.html
+- https://owen2907.github.io/kipp-students/portfolio/week-14.html
+- https://owen2907.github.io/kipp-students/portfolio/week-15.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#episode-yang-dianalisis
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#analisis-discovery
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 440
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+1. Lima Character dalam 5 Domain Kehidupan (Peta Edunex):
+Domain & Character
+Person & Relationship
+Objective & Responsibility
+Repertoire & Language
+Risiko jika gagal
+Intra-Self — Evaluator Batin
+Diri sendiri saat coding Python/C.
+Mengelola fokus studi tanpa burnout.
+Refleksi mandiri, menyusun jadwal di Notion.
+Penurunan motivasi dan tugas kuliah terbengkalai.
+Family/Friends — Sahabat Pendengar
+Teman satu kos / jurusan.
+Memvalidasi emosi teman secara aktif.
+Mendengarkan aktif, menahan diri memberi solusi instan.
+Teman merasa dihakimi atau diabaikan.
+Academic — Tim Pengembang
+Rekan kelompok & Dosen.
+Memastikan integrasi kode di GitHub berjalan lancar.
+Menjelaskan alur logika program, brainstorming.
+Miskomunikasi struktur data antar-anggota tim.
+Community — Koordinator Operasional
+Krew lapangan LFM ITB.
+Mengarahkan krew dan mengontrol output (OBS/Audio mixer).
+Instruksi lisan yang asertif, singkat, dan cepat.
+Dead air (kekosongan acara) atau error tayangan.
+Public — Liaison Officer
+Birokrasi sekolah mitra (SMA Sabilillah).
+Berkoordinasi terkait roadshow secara formal.
+Negosiasi santun, penyampaian informasi birokrasi.
+Terganggunya logistik acara dan citra institusi.
+2. Contoh Perubahan Language: Ketika saya berperan sebagai Liaison Officer, bahasa saya sangat formal dan santun (“Selamat pagi Bapak, izin mengonfirmasi jadwal persiapan teknis…”). Namun, saat beralih menjadi Koordinator Operasional Siaran, bahasa saya berubah menjadi sangat ringkas, memotong basa-basi, dan imperatif (“Kabel mixer jalur 2 masuk sekarang”).
+Konteks performance
+Tanggal dan setting: Maret 2026. Berlokasi di ruang kontrol produksi (control room) saat simulasi/gladi kotor persiapan live streaming sebuah acara.
+Persons dan relationship: Saya bertindak sebagai penanggung jawab routing audio dan OBS, berinteraksi dengan tiga krew lapangan dari Liga Film Mahasiswa (LFM) ITB dalam situasi yang menuntut ketangkasan.
+Objective dan initial state: Mengubah state krew dari kebingungan terkait input perangkat keras (initial state) menjadi paham dan siap mengeksekusi transisi scene visual dan audio secara presisi (objective).
+Evidence
+Tautan Foto Layar OBS saat gladi bersih: Lihat Dokumentasi OBS
+Tautan Tangkapan Layar chat koordinasi krew: Lihat Dokumentasi Chat
+Analisis komunikasi
+(Mengintegrasikan Analisis Kontras dan Eksplorasi Kepribadian)
+Elemen
+Evidence dan analisis
+Person & character
+Nilai utama saya adalah tanggung jawab teknis dengan kekuatan analitis. Namun, ada ketegangan kepribadian: saat panik di lapangan, saya cenderung diam dan mengambil alih hardware sepihak. Peran Koordinator menuntut saya menekan ego tersebut dan mendelegasikan secara verbal.
+Objective & state
+Krew yang awalnya ragu terkait kabel mixer mana yang aktif (initial state), berhasil beralih ke state siap bertindak dan mengerti arahan.
+Repertoire & language
+Saya menggunakan repertoire instruksi langsung. Language yang dipakai asertif, singkat, dan bertempo cepat: “Cek saluran 2, turunkan level audio 10 persen, standby layar utama.”
+Response & adaptation
+Membaca isyarat fisik dari krew dan indikator leveling audio. Saya beradaptasi dengan menurunkan nada suara yang tegang menjadi lebih tenang setelah indikator aman.
+Agreement/action
+Krew berhasil mengeksekusi transisi layar di OBS tanpa jeda waktu kosong.
+Relationship outcome
+Meningkatkan rasa saling percaya antar-krew. Krew merasa aman karena mengetahui kendali teknis diarahkan secara jelas tanpa sikap menyalahkan.
+Penggunaan AI
+Tidak menggunakan AI dalam menyusun refleksi pribadi maupun evidence. AI hanya digunakan sebagai asisten untuk menstrukturkan format tabel Markdown agar sesuai dengan sistem penilaian repositori.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rekan krew (Mitra F) menyebutkan bahwa instruksi teknis saya tepat, tetapi intonasi awal saya terdengar terlalu terburu-buru sehingga sempat memicu kepanikan singkat di meja operator.
+Adaptation/replay: Pada sesi pergantian scene berikutnya, saya menghentikan aktivitas fisik sejenak sebelum menekan interkom, agar artikulasi saya lebih stabil dan tidak menularkan kepanikan.
+Next practice (Sasaran Pertumbuhan Terukur): Saat memimpin koordinasi operasional ke depannya, saya akan menerapkan jeda wajib selama 3 detik untuk mengatur napas sebelum memberikan koreksi teknis secara verbal di bawah tekanan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima domain dan ketegangan kepribadian (autopilot vs tuntutan peran) terpetakan jelas.
+Objective & State
+4
+State krew terdefinisi dengan spesifik dari bingung menjadi siap tempur.
+Repertoire, Language & AI
+3
+Perubahan language antar peran tergambar konkret dan asertif.
+Response & Adaptation
+4
+Terdapat adaptasi emosi dan intonasi setelah membaca respons non-verbal krew.
+Agreement, Action & Relationship
+3
+Tindakan berhasil, sasaran perbaikan spesifik (jeda 3 detik) dirumuskan dari umpan balik nyata.
+Total: 18/20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#evidence-wajib
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#konteks-performance
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#evidence
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#analisis-komunikasi
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#penggunaan-ai
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#assessment-dosen
+- https://drive.google.com/file/d/1yls9c-5hOBRnFSzazWf2UpJCWgVN3QF2/view?usp=share_link
+- https://drive.google.com/file/d/1Xnqccqj3UPm5vf5nNS5cOBBVmys5a27l/view?usp=share_link
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

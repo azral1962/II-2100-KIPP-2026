@@ -1,0 +1,116 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 518
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relational Boundary & Trade-Off Management – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relational Boundary & Trade-Off Management
+Indeks Portfolio
+Character Map & Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relational Boundary & Trade-Off Management
+Multi-Audience Communication & Adaptation
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Penetapan Batasan & Pemetaan Relasi
+Bagian B: Simulasi Trade-Off & Penanganan Hambatan Kompleks
+1. Sanggahan / Penolakan Partner (Hambatan Kompleks)
+2. Respons Adaptif Winda & Justifikasi Jangka Panjang
+Bagian C: Hasil Kesepakatan Lanjutan
+Relational Boundary & Trade-Off Management
+Personal
+Boundaries
+Relationship
+Pengelolaan batasan relasional, simulasi hambatan trade-off, dan justifikasi produktivitas jangka panjang.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 20 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 03 Lengkap
+Bagian A: Penetapan Batasan & Pemetaan Relasi
+Partner Relasi: Rekan Kerja Tim / Teman Dekat (Inisial M.R.).
+Kebutuhan Batasan (Boundary): Menetapkan waktu offline kerja di atas pukul 21.00 WIB untuk menjaga kesehatan fisik dan kejernihan mental.
+Bagian B: Simulasi Trade-Off & Penanganan Hambatan Kompleks
+1. Sanggahan / Penolakan Partner (Hambatan Kompleks)
+Saat menyampaikan batasan offline jam 21.00 WIB, M.R. memberikan sanggahan mendasar:
+> “Win, aku paham kamu butuh istirahat malam. Tapi kalau kita off jam 9 malam dan besok paginya aku lupa detail diskusi kita, terus kita keteteran dikejar deadline, gimana? Masa produktivitas kita dikorbankan cuma buat istirahat?”
+2. Respons Adaptif Winda & Justifikasi Jangka Panjang
+Merespons penolakan M.R., saya melakukan penyesuaian strategi tanpa meruntuhkan batasan pribadi:
+Pesan Justifikasi Adaptif:
+*“Aku ngerti banget kekhawatiranmu, R. Kita sama-sama pengen proyek ini sukses. Supaya kamu enggak lupa dan kita tetep efisien tanpa harus begadang, aku akan buatkan 3 poin utama summary diskusi di halaman Notion kita setiap jam 20.45 WIB sebelum offline.
+Besok paginya kamu tinggal baca 1 menit dan langsung bisa eksekusi. Batasan malam ini justru penting banget buat menjaga stamina berpikir kita sampai minggu depan, biar kita enggak burn out di tengah jalan.”*
+Bagian C: Hasil Kesepakatan Lanjutan
+Tanggapan M.R. (Partner):
+“Wah, kalau ada ringkasan 3 poin di Notion itu solusi yang dapet banget sih! Aku setuju, jadi paginya aku langsung dapet kejelasan tanpa takut lupa. Deal!”
+Dampak Relasional: Batasan pribadi terlindungi, kebutuhan produktivitas mitra terpenuhi, dan kepercayaan relasional semakin kuat.
+Kembali ke atas
+Fact, Emotion, Story & Narrative Reframing
+Multi-Audience Communication & Adaptation
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-a-penetapan-batasan-pemetaan-relasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-b-simulasi-trade-off-penanganan-hambatan-kompleks
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#sanggahan-penolakan-partner-hambatan-kompleks
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#respons-adaptif-winda-justifikasi-jangka-panjang
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-c-hasil-kesepakatan-lanjutan
+- https://ambreluee.github.io/kipp-students/lk/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

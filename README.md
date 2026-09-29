@@ -145,8 +145,13 @@ dan dimasukkan ke request `/v1/chat/completions`. TXT dipakai karena endpoint
 API llama.cpp tidak menyediakan kontrak upload TXT/PDF yang stabil seperti Web
 UI-nya.
 
-Worker meminta JSON terstruktur dan memvalidasi kelima dimensi rubrik, jumlah
-total, tingkat, status evidence, serta konsistensi keputusan. Hasil ringkas
+Worker meminta JSON terstruktur dan memvalidasi kelima dimensi rubrik serta
+status evidence. Jika skor dimensi valid, total dihitung ulang dan tingkat serta
+keputusan ditentukan berdasarkan rubrik. Ketidaksesuaian field turunan dari LLM
+dikoreksi dan dicatat pada bagian `Koreksi otomatis` dalam laporan. Evidence
+parsial tetap memerlukan revisi; evidence tidak memadai atau dimensi N/A tetap
+berstatus `Belum dapat dinilai`. Skor dimensi di luar 1–4, evidence/alasan kosong,
+dan struktur tidak valid tetap ditolak. Hasil ringkas
 ditulis ke `antrian.csv`; laporan manusiawi beserta JSON sumber disimpan di
 `assessment-results/`. Setelah berhasil, status default menjadi
 `MENUNGGU PERSETUJUAN` dan `assessment.csv` belum berubah.

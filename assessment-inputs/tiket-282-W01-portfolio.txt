@@ -1,0 +1,196 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 282
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://yoofromlv.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Contoh perubahan language ketika character berubah
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — Evaluator Logika
+Diri sendiri saat pengerjaan kodingan stuck
+Mengurai penyebab bug secara tenang tanpa panik
+Self-talk analitis , “Di mana payload JSON yang belum sesuai?”
+Frustrasi dan lelah; ambil jeda istirahat 5 menit
+Family — Anak Sulung
+Orang tua di rumah
+Memberikan kepastian kabar di tengah kesibukan Hackathon
+Bahasa hangat dan santun , “Ibu , ini acara Hackathon lancar , besok pagi baru pulang ya”
+Mengabaikan pesan; usahakan sempatkan membalas via VN singkat
+Friends & Project — Co-Developer
+Jevon (Rekan tim Hackathon)
+Mengintegrasikan API backend dengan frontend tepat waktu
+Kolaboratif dan solutif , “Bagian mana endpoint yang responnya 500? Coba kita trace bareng”
+Tegang karena deadline; gunakan nada tenang dan fokus solusi
+Campus — Teman Diskusi
+Nathan (Teman seangkatan)
+Saling bertukar pikiran terkait materi kuliah dan tugas
+Tanya jawab informal , “Gimana pemahamanmu di modul minggu ini?”
+Memotong pembicaraan; dengarkan sampai selesai baru tanggapi
+Community — Staf Himpunan
+Agas (Pengurus himpunan)
+Menyinkronkan program kerja divisi internal
+Ringkas dan konfirmatif , “Catatan rapat sudah aman , siap dieksekusi besok”
+Pasif dalam forum; ajukan minimal satu tanggapan di setiap sesi
+Contoh perubahan language ketika character berubah
+Maksud pesan sama: Meminta pengecekan ulang fungsi database / API yang gagal memuat data.
+Character 1: Co-Developer Tim Hackathon (Sederajat / Berpacu Waktu)
+“Jev , endpoint auth masih nolak token nih , padahal payload-nya udah sesuai. Coba cek CORS atau env di server lu bentar.”
+Character 2: Mahasiswa ke Dosen Pengampu / Asisten (Sopan / Formal)
+“Selamat malam Pak , mohon maaf mengganggu waktunya. Terkait integrasi database untuk proyek tugas besar , apakah ada ketentuan spesifik mengenai batasan hak akses akun yang perlu kami sesuaikan? Terima kasih Pak.”
+Konteks performance
+Tanggal dan setting: 26 September 2026 pukul 02.15 WIB , Ruang Kerja Hackathon (4 jam sebelum tenggat submit produk).
+Persons dan relationship: Jevon (Backend Lead) dan Nathan (Observer / Frontend). Hubungan pertemanan seangkatan dan rekan satu tim Hackathon yang saling percaya.
+Objective dan initial state: Mengatasi rasa panik Jevon karena endpoint API backend mengalami error 500 secara mendadak , tanpa menyalahkan atau menambah beban mentalnya. Initial state: Jevon panik , merasa bersalah , dan cemas pengerjaan tim terhambat.
+Evidence
+Transcript singkat: Saya: “Jev , tenang dulu. Endpoint analisisnya error 500 ya? Kulihat response time-nya sempat naik sebelum down.” Jevon: “Iya bro , pusing banget ini tinggal berapa jam lagi submit. Kayaknya logika query yang baru aku push malah bikin crash server.” Saya: “Gak apa-apa , lumrah banget pas dikejar deadline. Gimana kalau rollback dulu ke commit jam 12 tadi , terus kita bedah query-nya berdua 10 menit?” Jevon: “Oke siap bro , thanks banget udah nenangin. Aku rollback sekarang ya.”
+Kontribusi saya: Mengontrol ritme komunikasi agar tidak terbawa panik , mengubah fokus dari rasa bersalah menjadi langkah penanganan (rollback dan debugging bersama).
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Berperan sebagai rekan tim yang menenangkan dan solutif (peer supporter) , bukan menjadi ketua yang menyalahkan kekeliruan anggota.
+Objective & state
+State awal: Jevon panik dan merasa tertekan. State akhir: Jevon kembali tenang dan fokus pada tindakan perbaikan teknis.
+Repertoire & language
+Menggunakan pertanyaan terarah dan nada empati (“Gimana kalau rollback dulu?”) daripada kalimat menuding.
+Response & adaptation
+Beradaptasi dengan menyarankan tindakan darurat (rollback) setelah melihat kondisi emosional Jevon yang sudah terlalu lelah.
+Agreement/action
+Sepakat melakukan rollback commit dan membedah logika query bersama dalam rentang waktu 10 menit.
+Relationship outcome
+Kepercayaan antar anggota tim meningkat , suasana kerja kelompok tetap kondusif tanpa ada rasa saling menyalahkan.
+Penggunaan AI
+AI digunakan sebatas brainstorming poin struktur tabel dan pengecekan tata bahasa. Seluruh narasi dialog, konteks interaksi, dan analisis komunikasi bersumber murni dari pengalaman pribadi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Nathan (Observer / Frontend Lead): “Pendekatanmu ke Jevon tadi pas banget. Kalau lu ikut panik , mungkin Jevon makin blank dan kita ga sempat submit.”
+Adaptation/replay: Ke depannya , saya akan menyarankan pembuatan checkpoint atau backup branch khusus tiap 2 jam sekali saat Hackathon agar proses recovery kode bisa lebih cepat.
+Next practice: Menerapkan aturan code freeze 2 jam sebelum deadline di setiap kompetensi atau proyek mendatang.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Mampu mengambil peran sebagai stabilizer emosi tim di tengah situasi darurat Hackathon
+Objective & State
+4
+Berhasil mengubah kondisi kawan dari panik menjadi terarah dan memiliki aksi konkret
+Repertoire, Language & AI
+3
+Bahasa empati dan teknis seimbang , penggunaan AI dibatasi secara proporsional sebagai perapih laporan
+Response & Adaptation
+4
+Cepat menangkap sinyal stres lawan bicara dan langsung beradaptasi memberikan solusi rollback
+Agreement, Action & Relationship
+3
+Kesepakatan langkah jelas dan hubungan persahabatan serta profesionalitas tim tetap terjaga
+Total: 18 / 20
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Tio Christian Doly Silitonga
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://yoofromlv.github.io/kipp-students/index.html
+- https://yoofromlv.github.io/kipp-students/assets/logo.png
+- https://yoofromlv.github.io/kipp-students/course/index.html
+- https://yoofromlv.github.io/kipp-students/portfolio/index.html
+- https://yoofromlv.github.io/kipp-students/examples/index.html
+- https://yoofromlv.github.io/kipp-students/lk/index.html
+- https://yoofromlv.github.io/kipp-students/slides.html
+- https://yoofromlv.github.io/kipp-students/slides-pdf/index.html
+- https://yoofromlv.github.io/kipp-students/assessment/index.html
+- https://yoofromlv.github.io/kipp-students/about.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-02.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-03.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-04.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-08.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-09.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-10.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-11.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-12.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-13.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-14.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-15.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#contoh-perubahan-language-ketika-character-berubah
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai-1
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

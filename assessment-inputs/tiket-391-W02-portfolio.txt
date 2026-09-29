@@ -1,0 +1,203 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 391
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://lvdis29.github.io/kipp-suci/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode komunikasi dengan diri sendiri
+Pemisahan Story dan Alternative Narratives
+Internal Agreement dan Action
+Self-assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence Tambahan
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence pengelolaan multiple states, trade-off, dan pergeseran narasi internal.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action, serta mengelola trade-off di antara beberapa prioritas.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode komunikasi dengan diri sendiri
+Peristiwa (Fakta Objektif): Waktu sudah menunjukkan pukul 19:30. Saya sudah membaca modul Jaringan Komputer selama satu jam tetapi masih belum bisa menyelesaikan latihan pemahaman infrastruktur jaringan. Di saat bersamaan, masuk rentetan pesan WhatsApp dari teman-teman yang menanyakan kepastian jam kumpul malam ini, padahal saya juga masih harus merevisi satu file class Java untuk tugas OOP besok.
+Emosi & Tokoh Internal: Terjadi multiple states yang bertabrakan. Saya merasa panik, kewalahan, sekaligus merasa bersalah dan takut tertinggal (FOMO). Ruang rapat batin saya dikuasai oleh dua tokoh sekaligus: 1. Sang Pencemas: Membunyikan alarm kegagalan akademik (“Kamu tertinggal di Jarkom dan OOP!”). 2. Sang Hakim: Menjatuhkan vonis moral (“Kamu tidak bisa membagi waktu, kamu mahasiswa yang lambat dan teman yang menyebalkan karena membiarkan orang lain menunggu tanpa kepastian”). Kondisi ini membuat saya freeze (lumpuh) dan hanya menatap layar tanpa melakukan apa-apa.
+Pemisahan Story dan Alternative Narratives
+Initial Story (Narasi Korban & Malapetaka): “Aku benar-benar kacau. Aku tidak akan bisa menyelesaikan Jarkom malam ini, tugas Java-ku bakal hancur, dan teman-teman pasti akan sangat kecewa atau kesal karena aku mengabaikan mereka. Semuanya berantakan karena aku tidak becus.” (Komentar: Terjadi peleburan fakta waktu yang sempit dengan vonis identitas dan lompatan asumsi masa depan).
+Alternative Narrative 1 (Narasi Analitis - Membedah Fakta): “Faktanya, aku hanya mengalami defisit waktu dan kelebihan beban kognitif malam ini. Jarkom butuh fokus, OOP butuh diselesaikan, dan teman-teman butuh kepastian kehadiran. Ketiganya tidak bisa dipaksakan berjalan bersamaan. Mengabaikan chat grup tidak akan membuatku tiba-tiba paham Jarkom.”
+Alternative Narrative 2 (Narasi Pertumbuhan & Trade-off): “Keadaan ini memang menekan, tapi aku bisa memilih langkah sadar. Aku harus melakukan trade-off (pengorbanan/kompromi). Mengomunikasikan batasan secara jujur kepada teman-teman jauh lebih baik daripada lari dari kenyataan. Setelah masalah eksternal ini dikomunikasikan, aku bisa menyerahkan kendali pada Sang Perencana untuk membagi sisa malam menjadi blok waktu yang logis untuk Jarkom dan Java.”
+Internal Agreement dan Action
+Internal Agreement: Saya berhasil menyadarkan diri bahwa emosi bersalah (Sang Hakim) tidak membantu. Kesepakatan internal saya adalah: berhenti melakukan multitasking pasif. Langkah pertamanya adalah menghentikan pendarahan energi mental dengan mengambil keputusan relasional (mengabari teman), baru kemudian menyusun prioritas akademik secara struktural.
+Bukti Tindakan (Action): 1. Tindakan Relasi: Saya segera membalas pesan di grup dengan asertif, meminta maaf dan mengabarkan bahwa saya terpaksa skip (tidak ikut) kumpul malam ini karena harus menuntaskan krisis tugas akademik. (Teman-teman ternyata memaklumi, mematahkan asumsi buruk Sang Pencemas). 2. Tindakan Akademik: Setelah pikiran lega, saya mengalokasikan 60 menit fokus murni untuk memecah materi Jaringan Komputer ke dalam panduan Markdown yang simpel, lalu berpindah ke tugas OOP setelahnya.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+4
+Berhasil mengidentifikasi lebih dari satu karakter internal (Sang Pencemas dan Sang Hakim) yang memperebutkan kendali dengan narasi yang berbeda (akademik vs. sosial).
+Objective & State
+4
+Mengelola multiple objectives (kebutuhan memahami materi vs. menjaga hubungan/komitmen sosial) dan memetakan state yang tumpang tindih (panik, bersalah, freeze).
+Repertoire, Language & AI
+4
+Mengubah bahasa internal dari vonis identitas (“tidak becus”) menjadi penguraian masalah operasional (“defisit waktu dan kelebihan kognitif”) dengan batasan yang rasional.
+Response & Adaptation
+4
+Mendeteksi sinyal lemah berupa respons freeze (lumpuh), lalu melakukan adaptasi sadar untuk menghentikan pendarahan energi mental sebelum mengambil tindakan.
+Agreement, Action & Relationship
+4
+Menunjukkan kemampuan mengelola trade-off (mengorbankan waktu kumpul) dan melakukan repair asertif tanpa merusak pertemanan, lalu dilanjutkan dengan tindakan terukur.
+Total: 20/20 — Lanjut.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence Tambahan
+1. Transkrip Chat Grup (Tindakan Relasi) > Grup Chat: “Woi jadi kumpul jam 8 kan? Di tempat biasa ya.” > Saya: “Sori banget guys, malam ini aku terpaksa skip dulu ya. Lagi numpuk banget harus matengin Jarkom sama benerin code Java buat besok. Kalian duluan aja, maaf ya mendadak 🙏” > Teman: “Oh oke santai, semangat nugasnya!”
+2. Bukti Tindakan Akademik (Catatan: Saya telah menyusun panduan Markdown untuk Jarkom dan merevisi file class OOP Java tepat setelah mengabari teman-teman).
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Eka Suci Ramadhani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://lvdis29.github.io/kipp-suci/index.html
+- https://lvdis29.github.io/kipp-suci/assets/logo.png
+- https://lvdis29.github.io/kipp-suci/course/index.html
+- https://lvdis29.github.io/kipp-suci/portfolio/index.html
+- https://lvdis29.github.io/kipp-suci/examples/index.html
+- https://lvdis29.github.io/kipp-suci/lk/index.html
+- https://lvdis29.github.io/kipp-suci/slides.html
+- https://lvdis29.github.io/kipp-suci/slides-pdf/index.html
+- https://lvdis29.github.io/kipp-suci/assessment/index.html
+- https://lvdis29.github.io/kipp-suci/about.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-01.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-03.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-05.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-07.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-08.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-11.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-12.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-13.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-14.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-15.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#kompetensi-target
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#evidence-wajib
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#episode-komunikasi-dengan-diri-sendiri
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#pemisahan-story-dan-alternative-narratives
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#internal-agreement-dan-action
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#self-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#konteks-performance
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#evidence
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#analisis-komunikasi
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#penggunaan-ai
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#self-assessment-1
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#assessment-dosen
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html#evidence-tambahan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

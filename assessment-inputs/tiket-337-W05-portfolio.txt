@@ -1,0 +1,328 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 337
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://snowberi.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Initial assumption dan rencana discovery
+Potongan transcript
+Problem, impact, dan constraint
+Pembaruan initial assumption
+Shared problem statement
+Listening dan adaptation
+Evidence dan feedback
+AI dan refleksi
+Self-assessment
+Kompetensi target
+Initial assumption dan rencana discovery
+Potongan transcript
+Problem, impact, dan constraint
+Pembaruan initial assumption
+Shared problem statement
+Listening dan adaptation
+Evidence dan feedback
+AI dan refleksi
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Initial assumption dan rencana discovery
+Dalam pengerjaan tugas kelompok, saya awalnya berasumsi bahwa keterlambatan pengumpulan bagian tugas terjadi karena anggota kelompok kurang mampu mengatur waktu. Sebelum langsung mengusulkan aturan deadline yang lebih ketat, saya melakukan percakapan dengan salah satu anggota kelompok yang beberapa kali mengumpulkan pekerjaannya mendekati deadline.
+Objective saya adalah memahami pengalaman dan hambatan dari sudut pandangnya terlebih dahulu sebelum menentukan solusi.
+Pertanyaan discovery yang saya gunakan:
+Biasanya bagaimana kamu mengatur pengerjaan tugas kelompok?
+Bagian mana yang paling sering membuat pengerjaan tugas terlambat?
+Apa yang biasanya terjadi ketika deadline sudah dekat tetapi bagianmu belum selesai?
+Apa dampaknya terhadap kamu dan anggota kelompok lain?
+Selama ini apa yang kamu lakukan ketika mengalami kesulitan?
+Menurut kamu, apa yang paling membantu supaya pengerjaan tugas lebih teratur?
+Hal apa yang tetap perlu dipertahankan jika cara kerja kelompok diperbaiki?
+Potongan transcript
+Saya: “Biasanya kalau ada tugas kelompok, kamu mulai ngerjain bagianmu kapan?”
+Teman: “Biasanya nggak langsung. Kadang aku masih bingung bagian yang harus dikerjain itu maunya kayak gimana.”
+Saya: “Berarti masalahnya bukan cuma soal waktu, tapi kadang pembagian atau instruksinya belum cukup jelas?”
+Teman: “Iya. Kadang udah dibagi, tapi aku masih nggak yakin hasil yang dimau kayak gimana.”
+Saya: “Kalau udah bingung begitu, biasanya kamu ngapain?”
+Teman: “Cari sendiri dulu. Kalau masih nggak ngerti baru tanya, tapi kadang pas mau tanya udah dekat deadline.”
+Saya: “Apa dampaknya kalau baru ketahuan dekat deadline?”
+Teman: “Jadi buru-buru. Kadang harus revisi juga karena ternyata pemahamanku beda sama yang lain.”
+Saya: “Jadi kalau aku tangkap, keterlambatannya bukan selalu karena kamu menunda, tapi karena ada bagian yang belum jelas dan baru dikonfirmasi ketika deadline sudah dekat?”
+Teman: “Iya, kurang lebih begitu.”
+Saya: “Kalau cara kerja kelompok mau diperbaiki, menurut kamu apa yang paling membantu?”
+Teman: “Mungkin pas bagi tugas sekalian dijelasin output-nya kayak gimana. Terus sebelum deadline ada check-in biar kalau ada yang bingung bisa ketahuan.”
+Saya: “Berarti kamu tetap mau pembagian tugas masing-masing, tapi butuh output yang lebih jelas dan check-in sebelum deadline?”
+Teman: “Iya, itu lebih enak.”
+Problem, impact, dan constraint
+Dari discovery interview tersebut, initial assumption saya bahwa keterlambatan terutama disebabkan oleh kemampuan mengatur waktu ternyata belum cukup didukung.
+Informasi dari interview menunjukkan bahwa terdapat beberapa faktor lain.
+Problem: pembagian tugas sudah dilakukan, tetapi expected output dari setiap bagian terkadang belum dipahami dengan cara yang sama oleh seluruh anggota.
+Impact: ketidakjelasan baru diketahui ketika deadline sudah dekat. Akibatnya, pengerjaan menjadi terburu-buru, revisi dilakukan dalam waktu singkat, dan anggota lain harus menunggu bagian yang belum selesai sebelum tugas dapat digabungkan.
+Constraint: pembagian tanggung jawab individu tetap perlu dipertahankan. Teman saya tidak menginginkan seluruh pekerjaan selalu dikerjakan bersama karena hal tersebut dapat membuat proses lebih lama dan responsibility menjadi kurang jelas.
+Interview ini merupakan discovery awal dari satu person sehingga belum dapat digunakan untuk menyimpulkan bahwa seluruh anggota kelompok mengalami masalah yang sama.
+Pembaruan initial assumption
+Initial assumption:
+“Anggota kelompok terlambat karena kurang mengatur waktu.”
+Setelah discovery, saya menyadari bahwa pernyataan tersebut terlalu cepat menghubungkan keterlambatan dengan karakter atau kemampuan individu.
+Evidence dari interview menunjukkan kemungkinan problem yang lebih spesifik: expected output belum selalu jelas dan clarification dilakukan terlalu dekat dengan deadline.
+Karena itu, saya menahan solution awal berupa deadline yang lebih ketat. Deadline yang lebih awal belum tentu menyelesaikan masalah jika anggota masih belum memahami output yang diharapkan.
+Perubahan pembacaan saya menjadi:
+“Keterlambatan dapat terjadi ketika anggota belum memiliki pemahaman yang sama mengenai expected output dan kesulitan baru dikomunikasikan ketika deadline sudah dekat.”
+Pernyataan tersebut masih merupakan hasil discovery awal dan perlu dibandingkan dengan pengalaman anggota kelompok lainnya.
+Shared problem statement
+Berdasarkan hasil percakapan, saya menyusun problem statement awal:
+“Anggota kelompok membutuhkan pembagian tugas yang lebih jelas dan check-in sebelum deadline karena perbedaan pemahaman mengenai expected output sering baru diketahui mendekati waktu pengumpulan, sehingga pengerjaan dan revisi menjadi terburu-buru.”
+Saya kemudian membacakan kembali problem statement tersebut kepada teman saya.
+Saya: “Kalau aku rangkum seperti ini: masalahnya bukan cuma deadline, tapi kita perlu lebih jelas soal output tiap bagian dan ada check-in sebelum deadline supaya kebingungan nggak baru ketahuan di akhir. Itu sesuai sama yang kamu maksud?”
+Teman: “Iya. Soalnya kalau dari awal udah jelas, sebenarnya lebih gampang buat ngerjain sendiri.”
+Berdasarkan confirmation tersebut, shared problem statement yang digunakan adalah:
+“Anggota kelompok membutuhkan kejelasan mengenai expected output dan kesempatan untuk melakukan check-in sebelum deadline, karena perbedaan pemahaman yang baru diketahui mendekati pengumpulan menyebabkan pengerjaan dan revisi menjadi terburu-buru.”
+Problem statement sengaja tidak menyebut solution tertentu seperti membuat aplikasi, menambah aturan, atau menetapkan sistem tertentu karena tahap discovery berfokus pada pemahaman problem terlebih dahulu.
+Listening dan adaptation
+Selama interview, saya menggunakan pertanyaan terbuka terlebih dahulu sebelum menawarkan interpretation. Saya juga melakukan paraphrase untuk memastikan pemahaman saya terhadap response teman.
+Salah satu paraphrase yang menghasilkan informasi penting adalah:
+“Berarti masalahnya bukan cuma soal waktu, tapi kadang pembagian atau instruksinya belum cukup jelas?”
+Response teman mengubah pembacaan saya terhadap problem. Sebelum interview, saya berfokus pada time management. Setelah mendengarkan pengalamannya, fokus berubah menjadi clarity dan timing of communication.
+Saya juga menahan keinginan untuk langsung mengatakan:
+“Berarti kita bikin deadline lebih awal aja.”
+Solution tersebut belum tentu menjawab problem yang ditemukan. Sebagai gantinya, saya melanjutkan discovery dengan menanyakan bentuk perubahan yang menurut interviewee dapat membantu.
+Hal tersebut menunjukkan perubahan dari proposing menuju listening dan discovery.
+Evidence dan feedback
+Evidence yang digunakan:
+Catatan percakapan discovery dengan satu anggota kelompok.
+Potongan transcript yang menunjukkan pertanyaan, response, dan paraphrase.
+Initial assumption yang ditulis sebelum interview.
+Catatan mengenai problem, impact, dan constraint setelah interview.
+Konfirmasi interviewee terhadap shared problem statement.
+Dari percakapan tersebut, saya juga menyadari bahwa beberapa pertanyaan berpotensi menjadi leading question. Contohnya:
+“Kalau ada deadline lebih awal bakal membantu nggak?”
+Pertanyaan tersebut tidak saya gunakan sebagai evidence utama karena sudah membawa solution yang berasal dari asumsi saya sendiri.
+Pertanyaan yang lebih baik adalah:
+“Menurut kamu, perubahan apa yang paling membantu supaya masalah ini tidak terjadi lagi?”
+Pertanyaan kedua memberikan ruang lebih besar kepada interviewee untuk menjelaskan kebutuhannya tanpa diarahkan menuju solution tertentu.
+AI dan refleksi
+AI digunakan setelah interview untuk membantu mengelompokkan catatan menjadi initial assumption, fact, interpretation, problem, impact, constraint, dan possible solution.
+AI tidak digunakan untuk menentukan personality atau motif interviewee. Saya juga memeriksa kembali hasil pengelompokan dengan catatan percakapan agar interpretation tidak dianggap sebagai fact.
+Dari latihan ini saya memahami bahwa professional discovery bukan proses mencari confirmation terhadap solution yang sudah saya pikirkan. Discovery digunakan untuk memahami pengalaman person sebelum menentukan problem yang perlu diselesaikan.
+Saya juga belajar bahwa satu response dapat mengubah objective percakapan. Awalnya saya ingin mengetahui mengapa seseorang terlambat. Setelah mendengar bahwa ketidakjelasan output menjadi hambatan, objective berkembang menjadi memahami kapan ketidakjelasan muncul, apa impact-nya, dan constraint apa yang harus dipertahankan.
+Next practice: pada discovery berikutnya, saya akan melakukan sedikitnya dua interview tambahan dan membandingkan apakah masalah clarity dan check-in juga muncul pada person lain. Saya juga akan menghindari menyebut solution sebelum current behavior, impact, dan constraint dipahami.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Pengalaman, kebutuhan, dan constraint interviewee dipetakan tanpa memberi label terhadap personality
+Objective & State
+3
+Initial assumption berubah menjadi shared problem statement berdasarkan discovery
+Repertoire, Language & AI
+3
+Open question, follow-up, paraphrase, confirmation, dan penggunaan AI terbatas digunakan
+Response & Adaptation
+3
+Response interviewee mengubah fokus dari time management menjadi clarity dan timing of communication
+Agreement, Action & Relationship
+3
+Shared problem statement dikonfirmasi oleh interviewee dan next discovery ditentukan
+Total: 15/20 — Kompeten.
+Evidence menunjukkan bahwa initial assumption tidak langsung digunakan sebagai dasar solution. Interview menghasilkan informasi mengenai problem, impact, constraint, dan current behavior, kemudian digunakan untuk membentuk shared problem statement yang dikonfirmasi oleh person. Analisis masih berada pada tahap discovery awal karena baru menggunakan satu interview dan belum dapat menunjukkan apakah problem yang sama muncul secara konsisten pada person lain.— title: “Professional Discovery Interview” week: 5 status: “Selesai” self_score: “15/20” assessor_score: “—” description: “Discovery menuju shared problem statement.” categories: [Professional, Discovery] —
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Initial assumption dan rencana discovery
+Dalam pengerjaan tugas kelompok, saya awalnya berasumsi bahwa keterlambatan pengumpulan bagian tugas terjadi karena anggota kelompok kurang mampu mengatur waktu. Sebelum langsung mengusulkan aturan deadline yang lebih ketat, saya melakukan percakapan dengan salah satu anggota kelompok yang beberapa kali mengumpulkan pekerjaannya mendekati deadline.
+Objective saya adalah memahami pengalaman dan hambatan dari sudut pandangnya terlebih dahulu sebelum menentukan solusi.
+Pertanyaan discovery yang saya gunakan:
+Biasanya bagaimana kamu mengatur pengerjaan tugas kelompok?
+Bagian mana yang paling sering membuat pengerjaan tugas terlambat?
+Apa yang biasanya terjadi ketika deadline sudah dekat tetapi bagianmu belum selesai?
+Apa dampaknya terhadap kamu dan anggota kelompok lain?
+Selama ini apa yang kamu lakukan ketika mengalami kesulitan?
+Menurut kamu, apa yang paling membantu supaya pengerjaan tugas lebih teratur?
+Hal apa yang tetap perlu dipertahankan jika cara kerja kelompok diperbaiki?
+Potongan transcript
+Saya: “Biasanya kalau ada tugas kelompok, kamu mulai ngerjain bagianmu kapan?”
+Teman: “Biasanya nggak langsung. Kadang aku masih bingung bagian yang harus dikerjain itu maunya kayak gimana.”
+Saya: “Berarti masalahnya bukan cuma soal waktu, tapi kadang pembagian atau instruksinya belum cukup jelas?”
+Teman: “Iya. Kadang udah dibagi, tapi aku masih nggak yakin hasil yang dimau kayak gimana.”
+Saya: “Kalau udah bingung begitu, biasanya kamu ngapain?”
+Teman: “Cari sendiri dulu. Kalau masih nggak ngerti baru tanya, tapi kadang pas mau tanya udah dekat deadline.”
+Saya: “Apa dampaknya kalau baru ketahuan dekat deadline?”
+Teman: “Jadi buru-buru. Kadang harus revisi juga karena ternyata pemahamanku beda sama yang lain.”
+Saya: “Jadi kalau aku tangkap, keterlambatannya bukan selalu karena kamu menunda, tapi karena ada bagian yang belum jelas dan baru dikonfirmasi ketika deadline sudah dekat?”
+Teman: “Iya, kurang lebih begitu.”
+Saya: “Kalau cara kerja kelompok mau diperbaiki, menurut kamu apa yang paling membantu?”
+Teman: “Mungkin pas bagi tugas sekalian dijelasin output-nya kayak gimana. Terus sebelum deadline ada check-in biar kalau ada yang bingung bisa ketahuan.”
+Saya: “Berarti kamu tetap mau pembagian tugas masing-masing, tapi butuh output yang lebih jelas dan check-in sebelum deadline?”
+Teman: “Iya, itu lebih enak.”
+Problem, impact, dan constraint
+Dari discovery interview tersebut, initial assumption saya bahwa keterlambatan terutama disebabkan oleh kemampuan mengatur waktu ternyata belum cukup didukung.
+Informasi dari interview menunjukkan bahwa terdapat beberapa faktor lain.
+Problem: pembagian tugas sudah dilakukan, tetapi expected output dari setiap bagian terkadang belum dipahami dengan cara yang sama oleh seluruh anggota.
+Impact: ketidakjelasan baru diketahui ketika deadline sudah dekat. Akibatnya, pengerjaan menjadi terburu-buru, revisi dilakukan dalam waktu singkat, dan anggota lain harus menunggu bagian yang belum selesai sebelum tugas dapat digabungkan.
+Constraint: pembagian tanggung jawab individu tetap perlu dipertahankan. Teman saya tidak menginginkan seluruh pekerjaan selalu dikerjakan bersama karena hal tersebut dapat membuat proses lebih lama dan responsibility menjadi kurang jelas.
+Interview ini merupakan discovery awal dari satu person sehingga belum dapat digunakan untuk menyimpulkan bahwa seluruh anggota kelompok mengalami masalah yang sama.
+Pembaruan initial assumption
+Initial assumption:
+“Anggota kelompok terlambat karena kurang mengatur waktu.”
+Setelah discovery, saya menyadari bahwa pernyataan tersebut terlalu cepat menghubungkan keterlambatan dengan karakter atau kemampuan individu.
+Evidence dari interview menunjukkan kemungkinan problem yang lebih spesifik: expected output belum selalu jelas dan clarification dilakukan terlalu dekat dengan deadline.
+Karena itu, saya menahan solution awal berupa deadline yang lebih ketat. Deadline yang lebih awal belum tentu menyelesaikan masalah jika anggota masih belum memahami output yang diharapkan.
+Perubahan pembacaan saya menjadi:
+“Keterlambatan dapat terjadi ketika anggota belum memiliki pemahaman yang sama mengenai expected output dan kesulitan baru dikomunikasikan ketika deadline sudah dekat.”
+Pernyataan tersebut masih merupakan hasil discovery awal dan perlu dibandingkan dengan pengalaman anggota kelompok lainnya.
+Shared problem statement
+Berdasarkan hasil percakapan, saya menyusun problem statement awal:
+“Anggota kelompok membutuhkan pembagian tugas yang lebih jelas dan check-in sebelum deadline karena perbedaan pemahaman mengenai expected output sering baru diketahui mendekati waktu pengumpulan, sehingga pengerjaan dan revisi menjadi terburu-buru.”
+Saya kemudian membacakan kembali problem statement tersebut kepada teman saya.
+Saya: “Kalau aku rangkum seperti ini: masalahnya bukan cuma deadline, tapi kita perlu lebih jelas soal output tiap bagian dan ada check-in sebelum deadline supaya kebingungan nggak baru ketahuan di akhir. Itu sesuai sama yang kamu maksud?”
+Teman: “Iya. Soalnya kalau dari awal udah jelas, sebenarnya lebih gampang buat ngerjain sendiri.”
+Berdasarkan confirmation tersebut, shared problem statement yang digunakan adalah:
+“Anggota kelompok membutuhkan kejelasan mengenai expected output dan kesempatan untuk melakukan check-in sebelum deadline, karena perbedaan pemahaman yang baru diketahui mendekati pengumpulan menyebabkan pengerjaan dan revisi menjadi terburu-buru.”
+Problem statement sengaja tidak menyebut solution tertentu seperti membuat aplikasi, menambah aturan, atau menetapkan sistem tertentu karena tahap discovery berfokus pada pemahaman problem terlebih dahulu.
+Listening dan adaptation
+Selama interview, saya menggunakan pertanyaan terbuka terlebih dahulu sebelum menawarkan interpretation. Saya juga melakukan paraphrase untuk memastikan pemahaman saya terhadap response teman.
+Salah satu paraphrase yang menghasilkan informasi penting adalah:
+“Berarti masalahnya bukan cuma soal waktu, tapi kadang pembagian atau instruksinya belum cukup jelas?”
+Response teman mengubah pembacaan saya terhadap problem. Sebelum interview, saya berfokus pada time management. Setelah mendengarkan pengalamannya, fokus berubah menjadi clarity dan timing of communication.
+Saya juga menahan keinginan untuk langsung mengatakan:
+“Berarti kita bikin deadline lebih awal aja.”
+Solution tersebut belum tentu menjawab problem yang ditemukan. Sebagai gantinya, saya melanjutkan discovery dengan menanyakan bentuk perubahan yang menurut interviewee dapat membantu.
+Hal tersebut menunjukkan perubahan dari proposing menuju listening dan discovery.
+Evidence dan feedback
+Evidence yang digunakan:
+Catatan percakapan discovery dengan satu anggota kelompok.
+Potongan transcript yang menunjukkan pertanyaan, response, dan paraphrase.
+Initial assumption yang ditulis sebelum interview.
+Catatan mengenai problem, impact, dan constraint setelah interview.
+Konfirmasi interviewee terhadap shared problem statement.
+Dari percakapan tersebut, saya juga menyadari bahwa beberapa pertanyaan berpotensi menjadi leading question. Contohnya:
+“Kalau ada deadline lebih awal bakal membantu nggak?”
+Pertanyaan tersebut tidak saya gunakan sebagai evidence utama karena sudah membawa solution yang berasal dari asumsi saya sendiri.
+Pertanyaan yang lebih baik adalah:
+“Menurut kamu, perubahan apa yang paling membantu supaya masalah ini tidak terjadi lagi?”
+Pertanyaan kedua memberikan ruang lebih besar kepada interviewee untuk menjelaskan kebutuhannya tanpa diarahkan menuju solution tertentu.
+AI dan refleksi
+AI digunakan setelah interview untuk membantu mengelompokkan catatan menjadi initial assumption, fact, interpretation, problem, impact, constraint, dan possible solution.
+AI tidak digunakan untuk menentukan personality atau motif interviewee. Saya juga memeriksa kembali hasil pengelompokan dengan catatan percakapan agar interpretation tidak dianggap sebagai fact.
+Dari latihan ini saya memahami bahwa professional discovery bukan proses mencari confirmation terhadap solution yang sudah saya pikirkan. Discovery digunakan untuk memahami pengalaman person sebelum menentukan problem yang perlu diselesaikan.
+Saya juga belajar bahwa satu response dapat mengubah objective percakapan. Awalnya saya ingin mengetahui mengapa seseorang terlambat. Setelah mendengar bahwa ketidakjelasan output menjadi hambatan, objective berkembang menjadi memahami kapan ketidakjelasan muncul, apa impact-nya, dan constraint apa yang harus dipertahankan.
+Next practice: pada discovery berikutnya, saya akan melakukan sedikitnya dua interview tambahan dan membandingkan apakah masalah clarity dan check-in juga muncul pada person lain. Saya juga akan menghindari menyebut solution sebelum current behavior, impact, dan constraint dipahami.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Pengalaman, kebutuhan, dan constraint interviewee dipetakan tanpa memberi label terhadap personality
+Objective & State
+3
+Initial assumption berubah menjadi shared problem statement berdasarkan discovery
+Repertoire, Language & AI
+3
+Open question, follow-up, paraphrase, confirmation, dan penggunaan AI terbatas digunakan
+Response & Adaptation
+3
+Response interviewee mengubah fokus dari time management menjadi clarity dan timing of communication
+Agreement, Action & Relationship
+3
+Shared problem statement dikonfirmasi oleh interviewee dan next discovery ditentukan
+Total: 15/20 — Kompeten.
+Evidence menunjukkan bahwa initial assumption tidak langsung digunakan sebagai dasar solution. Interview menghasilkan informasi mengenai problem, impact, constraint, dan current behavior, kemudian digunakan untuk membentuk shared problem statement yang dikonfirmasi oleh person. Analisis masih berada pada tahap discovery awal karena baru menggunakan satu interview dan belum dapat menunjukkan apakah problem yang sama muncul secara konsisten pada person lain.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Natasha Aurellia
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://snowberi.github.io/kipp-students/index.html
+- https://snowberi.github.io/kipp-students/assets/logo.png
+- https://snowberi.github.io/kipp-students/course/index.html
+- https://snowberi.github.io/kipp-students/portfolio/index.html
+- https://snowberi.github.io/kipp-students/examples/index.html
+- https://snowberi.github.io/kipp-students/lk/index.html
+- https://snowberi.github.io/kipp-students/slides.html
+- https://snowberi.github.io/kipp-students/slides-pdf/index.html
+- https://snowberi.github.io/kipp-students/assessment/index.html
+- https://snowberi.github.io/kipp-students/about.html
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html
+- https://snowberi.github.io/kipp-students/portfolio/week-01.html
+- https://snowberi.github.io/kipp-students/portfolio/week-02.html
+- https://snowberi.github.io/kipp-students/portfolio/week-03.html
+- https://snowberi.github.io/kipp-students/portfolio/week-04.html
+- https://snowberi.github.io/kipp-students/portfolio/week-06.html
+- https://snowberi.github.io/kipp-students/portfolio/week-07.html
+- https://snowberi.github.io/kipp-students/portfolio/week-08.html
+- https://snowberi.github.io/kipp-students/portfolio/week-09.html
+- https://snowberi.github.io/kipp-students/portfolio/week-10.html
+- https://snowberi.github.io/kipp-students/portfolio/week-11.html
+- https://snowberi.github.io/kipp-students/portfolio/week-12.html
+- https://snowberi.github.io/kipp-students/portfolio/week-13.html
+- https://snowberi.github.io/kipp-students/portfolio/week-14.html
+- https://snowberi.github.io/kipp-students/portfolio/week-15.html
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#problem-impact-dan-constraint
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#pembaruan-initial-assumption
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#listening-dan-adaptation
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#evidence-dan-feedback
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#ai-dan-refleksi
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#kompetensi-target-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#potongan-transcript-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#problem-impact-dan-constraint-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#pembaruan-initial-assumption-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#listening-dan-adaptation-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#evidence-dan-feedback-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#ai-dan-refleksi-1
+- https://snowberi.github.io/kipp-students/portfolio/week-05.html#self-assessment-1
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

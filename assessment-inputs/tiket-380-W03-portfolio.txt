@@ -1,0 +1,125 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 380
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Konteks & Latar Belakang Percakapan
+Bagian B: Ringkasan Transkrip Percakapan
+Bagian C: Analisis Bukti Listening & Response
+1. Bukti Pendengaran Aktif (Active Listening)
+2. Formulasi Respons Berkesadaran (Healthy Boundary & Request)
+Bagian D: Refleksi Perubahan Status Relasi (Relationship State)
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+Tanggal Pengerjaan: 22 September 2026
+Bagian A: Konteks & Latar Belakang Percakapan
+Partner Bicara: Inisial M.R. (Sahabat dekat sekaligus teman sekelompok perkuliahan).
+Kondisi Relasi Sebelum Percakapan:
+Relasi pertemanan kami sangat dekat, tetapi belakangan muncul ketegangan halus saat mengerjakan proyek kelompok. M.R. sering meneruskan revisi mendadak di malam hari dan berharap saya langsung menyelesaikannya. Selama ini saya selalu mengiyakan karena sungkan, namun hal itu membuat saya diam-diam memendam rasa kesal dan kewalahan.
+Fokus Percakapan: Setting Boundary (Menetapkan batasan sehat) dan Request (Menyampaikan permintaan terbuka secara santun).
+Bagian B: Ringkasan Transkrip Percakapan
+Winda: “M.R., aku mau ngobrol sebentar soal ritme pengerjaan tugas kelompok kita belakangan ini. Boleh?”
+M.R.: “Boleh banget, Win. Ada apa? Ada bagian tugas yang belum beres ya?”
+Winda: “Bukan soal belum beres kok. Aku paham banget kamu pengen tugas kita dapet hasil terbaik dan cepet selesai, makanya kamu sigap banget tiap ada masukan revisi. Tapi aku mau jujur, kalau dapet lemparan revisi mendadak di atas jam 9 malam dan harus langsung dikerjain malam itu juga, jujur aku keteteran dan makin cemas.”
+M.R.: “Oh… gitu ya? Sorry banget Win, aku enggak bermaksud kejar-kejar kamu. Aku cuma panik aja kalau revisiannya ketunda, takut kita kelupaan.”
+Winda: “Iya, aku ngerti banget rasa cemas kamu soal deadline, dan aku hargai banget kepedulian kamu sama tugas ini. Tapi ke depannya, boleh enggak kalau ada revisi di malam hari, kita catat dulu dan baru kita bahas/kerjakan besok paginya? Supaya malam hari kita sama-sama bisa istirahat dan pikiran lebih jernih.”
+M.R.: “Oke paham, Win. Maaf ya kalau selama ini bikin kamu ngerasa ditekan. Sepakat, besok-besok kita rekap dulu aja malamnya, dikerjainnya pas jam kerja/kuliah besoknya.”
+Bagian C: Analisis Bukti Listening & Response
+1. Bukti Pendengaran Aktif (Active Listening)
+Saya tidak langsung memotong atau bersikap defensif saat M.R. menjelaskan alasan kepanikannya. Saya memberikan validasi atas rasa cemasnya (“Aku ngerti banget rasa cemas kamu soal deadline, dan aku hargai…”) sebelum masuk ke batasan pribadi saya.
+2. Formulasi Respons Berkesadaran (Healthy Boundary & Request)
+Menggunakan I-Statement: Saya menggunakan kalimat “Aku keteteran…” dan “Aku mau jujur…” alih-alih menyalahkan (“Kamu selalu asal suruh…”).
+Usulan Solusi Konkret: Menyampaikan request yang jelas dan realistis, yaitu membuat kesepakatan tidak mengeksekusi revisi mendadak di atas jam 9 malam.
+Bagian D: Refleksi Perubahan Status Relasi (Relationship State)
+Sebelum Percakapan
+Sesudah Percakapan
+Terdapat ganjalan emosional yang dipendam; saya merasa tertekan dan M.R. tidak menyadari kebiasaannya.
+Rasa ganjalan hilang; timbul rasa lega karena masalah dikomunikasikan secara jujur dan terbuka.
+Komunikasi cenderung serba asumsi dan pasif-agresif saat lelah.
+Terbentuk kesepakatan kerja (working agreement) yang menghargai batasan istirahat masing-masing.
+Ada rasa khawatir relasi pertemanan akan rusak jika saya menolak tugas.
+Pertemanan justru terasa lebih aman (secure) dan matang karena saling memahami kapasitas pribadi.
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-a-konteks-latar-belakang-percakapan
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-b-ringkasan-transkrip-percakapan
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-c-analisis-bukti-listening-response
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bukti-pendengaran-aktif-active-listening
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#formulasi-respons-berkesadaran-healthy-boundary-request
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-d-refleksi-perubahan-status-relasi-relationship-state
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

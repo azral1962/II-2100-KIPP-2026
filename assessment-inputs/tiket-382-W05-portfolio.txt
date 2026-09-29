@@ -1,0 +1,120 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 382
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Asumsi Awal & Daftar Pertanyaan Discovery
+Bagian B: Ringkasan Sesi Discovery & Fakta Terungkap
+1. Ringkasan Obrolan
+2. Dampak Masalah (Problem Impact) & Kendala (Constraint)
+Bagian C: Rumusan Masalah Bersama (Shared Problem Statement)
+Bagian D: Refleksi Perilaku Komunikasi
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+Tanggal Pengerjaan: 22 September 2026
+Bagian A: Asumsi Awal & Daftar Pertanyaan Discovery
+Mitra Bicara: Inisial R.A. (Koordinator Divisi Acara Kegiatan UKM).
+Asumsi Awal Saya (Sebelum Wawancara):
+Saya sempat menganggap R.A. kurang disiplin mengatur timeline kerja dan lambat memberi instruksi, sehingga materi rundown dan publikasi acara selalu terlambat diserahkan ke tim media.
+Pertanyaan Discovery (Terbuka & Tanpa Menghakimi):
+“Boleh cerita enggak, alur pengerjaan materi acara dari ide awal sampai siap di-publish itu biasanya lewat tahapan apa aja?”
+“Di titik mana yang menurutmu paling sering bikin alur pengerjaan jadi tersendat atau keteteran?”
+“Dampak apa yang paling terasa buat kamu dan tim kalau jadwal penyerahan materi ini mundur?”
+Bagian B: Ringkasan Sesi Discovery & Fakta Terungkap
+1. Ringkasan Obrolan
+Setelah mendengarkan penjelasan R.A., ternyata masalah utamanya bukan pada ketidakdisiplinan timnya. Masalah sebenarnya adalah adanya penumpukan (bottleneck) pada proses validasi akhir. R.A. harus menunggu persetujuan dari 3 pihak berbeda (Ketua Pelaksana, Dosen Pembina, dan Pihak Sponsor) yang sering memberikan revisi berbeda di waktu yang tumpang tindih.
+2. Dampak Masalah (Problem Impact) & Kendala (Constraint)
+Dampak (Impact): Tim acara sering terpaksa lembur di malam hari, anggota merasa kelelahan emosional, dan materi publikasi jadi terburu-buru sehingga hasilnya kurang maksimal.
+Kendala (Constraint): Prosedur persetujuan dari dosen dan sponsor merupakan aturan wajib yang tidak bisa dipotong begitu saja.
+Bagian C: Rumusan Masalah Bersama (Shared Problem Statement)
+Dengan mendengarkan tanpa memotong atau menggurui, kami berhasil menyepakati satu rumusan masalah bersama:
+“Masalah utama kita bukanlah keterlambatan individu, melainkan belum adanya kesepakatan batas waktu (cutoff time) untuk revisi dari pihak internal/eksternal, sehingga tim acara terus-menerus melakukan revisi berulang di menit-menit akhir.”
+Bukti Konfirmasi Mitra (R.A.):
+“Nah iya tepat banget, Win! Masalahnya emang di batas waktu revisi eksternal itu. Kita butuh batasan tegas biar revisiannya enggak meluber terus pas udah mendekati H-2 acara.”
+Bagian D: Refleksi Perilaku Komunikasi
+Hal Baru yang Dipelajari: Pentingnya menahan emosi dan menyampingkan asumsi pribadi sebelum benar-benar memahami akar masalah dari sudut pandang lawan bicara.
+Perubahan Sikap: Berhasil menggeser pola pikir dari menyalahkan personal (person) menjadi menganalisis perbaikan sistem/alur kerja (structure).
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-a-asumsi-awal-daftar-pertanyaan-discovery
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-b-ringkasan-sesi-discovery-fakta-terungkap
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#ringkasan-obrolan
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#dampak-masalah-problem-impact-kendala-constraint
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-c-rumusan-masalah-bersama-shared-problem-statement
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-d-refleksi-perilaku-komunikasi
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

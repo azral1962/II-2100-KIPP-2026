@@ -1,0 +1,162 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 466
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://csd-hub.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Episode
+Event: Saya mendapatkan beberapa tugas kuliah yang harus dikerjakan dalam waktu yang berdekatan. Ketika melihat tugas-tugas tersebut, saya merasa pekerjaan saya terlalu banyak.
+Lapisan
+Catatan
+Fact
+Ada beberapa tugas yang harus dikerjakan dan masing-masing memiliki deadline.
+Initial story
+“Tugas saya terlalu banyak dan saya mungkin tidak akan mampu menyelesaikannya tepat waktu.”
+Emotion/body signal
+Cemas, panik, dan merasa tertekan ketika melihat banyaknya tugas.
+Reactive character
+“Overthinker” yang langsung memikirkan kemungkinan terburuk dan ingin menunda pekerjaan.
+Desired character
+“Planner” yang melihat deadline, menentukan prioritas, dan mengerjakan tugas secara bertahap.
+Initial story saya tidak sepenuhnya berdasarkan fakta karena banyaknya tugas tidak berarti saya pasti gagal menyelesaikannya. Fakta yang ada adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
+Alternative narratives
+Prioritas: Saya memang memiliki beberapa tugas, tetapi tidak semuanya harus diselesaikan sekaligus. Saya dapat menentukan tugas yang paling mendesak terlebih dahulu.
+Dapat dikerjakan bertahap: Tugas yang banyak dapat dibagi menjadi beberapa bagian kecil sehingga lebih mudah untuk dikerjakan.
+Kesempatan untuk mengatur diri: Keadaan ini dapat menjadi kesempatan bagi saya untuk belajar mengatur waktu dan menentukan prioritas dengan lebih baik.
+Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya tugas tidak harus diselesaikan sekaligus. Saya hanya perlu fokus pada satu bagian pekerjaan dalam satu waktu.
+Internal conversation dan agreement
+Overthinker: “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”
+Planner: “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”
+Saya: “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
+Internal agreement: Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
+Evidence tindakan
+Membuat daftar tugas dan deadline yang harus diselesaikan.
+Mulai mengerjakan tugas dengan deadline paling dekat.
+Menyelesaikan bagian pertama dari tugas tersebut sebelum berpindah ke tugas lain.
+Tindakan tersebut membantu saya mengubah respons dari hanya merasa cemas menjadi melakukan sesuatu yang konkret untuk menyelesaikan masalah.
+Feedback, AI, dan refleksi
+Saat meninjau kembali kejadian tersebut, saya menyadari bahwa kalimat “saya mungkin tidak akan mampu menyelesaikannya tepat waktu” merupakan evaluasi atau story, bukan fact. Fakta yang sebenarnya adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
+AI digunakan untuk membantu saya melihat situasi dari sudut pandang yang berbeda dan mencari cara untuk membagi pekerjaan menjadi beberapa bagian yang lebih kecil. AI tidak digunakan untuk menentukan keputusan akhir. Saya tetap menentukan tugas yang harus diprioritaskan berdasarkan deadline dan kondisi saya sendiri.
+Dari proses ini, saya belajar bahwa ketika menghadapi banyak tugas, saya tidak harus langsung memikirkan semua pekerjaan sekaligus. Saya dapat mengubah reaction berupa panik dan keinginan untuk menunda menjadi response berupa menentukan prioritas dan mulai mengerjakan tugas.
+Next practice: ketika merasa kewalahan dengan banyaknya tugas, saya akan menulis tiga kolom—fact, story, dan next action—sebelum menentukan tindakan.
+Self-assessment
+Dimensi
+Level
+Evidence singkat
+Person & Character
+3 – Kompeten
+Saya mampu mengenali karakter Overthinker yang muncul dan membandingkannya dengan karakter Planner yang ingin saya gunakan.
+Objective & State
+3 – Kompeten
+Saya dapat membedakan fact dari story serta mengenali emosi berupa cemas, panik, dan tertekan.
+Repertoire, Language & AI
+3 – Kompeten
+Saya menggunakan AI untuk mendapatkan alternatif cara melihat masalah dan membantu memisahkan fact, story, serta tindakan.
+Response & Adaptation
+3 – Kompeten
+Saya mengubah respons awal berupa panik dan keinginan menunda menjadi respons dengan menentukan prioritas dan mengerjakan tugas secara bertahap.
+Agreement, Action & Relationship
+3 – Kompeten
+Saya membuat internal agreement untuk menyusun tugas berdasarkan deadline dan mulai mengerjakan tugas yang paling mendesak.
+Total: 15/20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Mouristio R. A. K. L. Praing
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://csd-hub.github.io/kipp-students/index.html
+- https://csd-hub.github.io/kipp-students/assets/logo.png
+- https://csd-hub.github.io/kipp-students/course/index.html
+- https://csd-hub.github.io/kipp-students/portfolio/index.html
+- https://csd-hub.github.io/kipp-students/examples/index.html
+- https://csd-hub.github.io/kipp-students/lk/index.html
+- https://csd-hub.github.io/kipp-students/slides.html
+- https://csd-hub.github.io/kipp-students/slides-pdf/index.html
+- https://csd-hub.github.io/kipp-students/assessment/index.html
+- https://csd-hub.github.io/kipp-students/about.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-01.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-04.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-06.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-07.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-08.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-09.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-10.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-11.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-12.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-13.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-14.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-15.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#episode
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

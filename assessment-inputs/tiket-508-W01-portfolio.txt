@@ -1,0 +1,216 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 508
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Perubahan language antar character
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self - Pembelajar Teknis
+Diri sendiri saat menghadapi materi atau bug kode yang sulit
+Membedakan rasa frustrasi dari fakta masalah teknis dan mencari akar masalah secara logis
+Self-talk investigatif: “Bagian mana yang sebenarnya error?” lalu memecah masalah menjadi lebih kecil
+Risiko: Memaksa diri hingga burnout. Latihan: Berhenti 5 menit tiap kali merasa buntu sebelum menganalisis lagi
+Family - Pendengar dan Penasihat
+Sepupu yang sedang bingung memilih peminatan jurusan di SMA (IPA atau IPS)
+Membantu sepupu mengurai kebingungannya, hingga akhirnya ia mantap memilih IPS karena minat ke SBM ITB
+Pertanyaan menggali minat dengan bahasa santai: “Sebenarnya pas kuliah nanti kamu pengen masuk mana?”
+Risiko: Terkesan menggurui pilihan hidupnya. Latihan: Lebih banyak mendengar dan memvalidasi ketakutannya daripada memberi instruksi
+Work - Team Leader
+Anggota kelompok Tugas Besar PSTI
+Memastikan milestone tugas selesai tepat waktu, mengelola prioritas tim, dan me-manage proses merge file akhir
+Arahan struktural dan penentuan deadline yang asertif: “Tolong diselesaikan hari ini ya ges… minta prioritasnya untuk tubes ini”
+Risiko: Terlalu fokus pada hasil hingga mengabaikan kondisi anggota. Latihan: Selalu menanyakan kendala waktu sebelum menentukan tenggat
+Community - Staff Fundraising
+Rekan kepanitiaan di divisi Fundraising IMPACT 6.0
+Menentukan harga pendaftaran lomba dan merancang kegiatan dana usaha berdasarkan proyeksi pengeluaran
+Komunikasi analitis dan persuasif saat rapat divisi
+Risiko: Ide danus tidak realistis atau tidak selaras dengan bidang logistik. Latihan: Menyertakan data proyeksi yang teliti saat mengajukan ide
+Public - Peserta Course Global
+Instruktur dan ribuan peserta course Data Science GCI World April 2026
+Mengikuti course secara aktif dalam lingkungan belajar multikultural tanpa mendominasi forum
+Formal inquiry dan respek akademik: menyusun pertanyaan spesifik terkait machine learning di forum diskusi
+Risiko: Memposting pertanyaan yang terlalu mendasar atau sudah ada di modul. Latihan: Selalu riset mandiri sebelum mempublikasikan pertanyaan
+Konteks performance
+Tanggal dan setting: Kamis, 23 April 2026, pukul 13.00 - 23.59 WIB. Komunikasi online via grup WhatsApp. Momen menjelang deadline pengumpulan merge file Milestone 1-3.
+Persons dan relationship: Saya berkomunikasi dengan J, rekan satu kelompok Tugas Besar PSTI. Relasi kami ganda, secara struktural dalam tugas ini saya mengambil peran team leader dan inisiator yang harus menggabungkan file, namun secara personal kami adalah teman dekat.
+Objective dan initial state: Objective saya: mendorong J menyelesaikan bagian tugasnya hari itu juga agar saya memiliki waktu untuk merapikan referensi dan merge dokumen sebelum deadline malam harinya. Initial state: saya merasa terdesak waktu. Sementara J memiliki jadwal padat lain yaitu kelas agama dan latihan band, sehingga ia berada di state santai namun sibuk.
+Evidence
+Transkrip Percakapan Grup WhatsApp (23 April 2026):
+Saya: “tolong diselesein hari ini ya ges minta prioritasnya buat tugas ini 🙏”
+L: “okee”
+J: “sip, malem ya”
+J: “soalnya, abis agama ada latihan band”
+Saya: “oke, pokoknya jangan kemaleman yak soalnya masi harus gw masukin daftar isi, referensi, dll trus di merge file milestone 1 - 3 nyaa”
+(Pukul 18:39 WIB, saya melakukan follow-up karena belum ada kabar)
+Saya: “infoo J, udah selesai belom? takut lu keburu latian bandd”
+J: “jam 9, amaann”
+Saya: “lu lanjut kerjain jam 9 atau band nya jam 9?”
+J: “bandnya jam 9 malem”
+Saya: “oo okee”
+(Pukul 23:59 WIB, tugas berhasil dimerge dan dikumpulkan)
+Saya: “Filenya udah gw kumpulin yakk”
+J: “thxx”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya tidak mengunci J sebatas “anggota kelompok yang harus patuh” (stereotype). Saya memetakannya secara utuh sebagai mahasiswa yang juga memiliki kehidupan lain (kelas agama, band). Oleh karena itu, saya menggeser peran saya dari Koordinator yang kaku menjadi Teman yang mengingatkan jadwalnya.
+Objective & state
+State awal saya terdesak, state J sibuk. Objective ganda saya kelola bersamaan: mengamankan tenggat waktu tugas (teknis) DAN tidak merusak mood J sebelum latihan band (relasi). State akhir: Ketenangan tercapai (3/10) bagi kedua pihak karena ekspektasi waktu menjadi jelas.
+Repertoire & language
+Terjadi adaptasi repertoar yang nyata. Di awal saya menggunakan bahasa direktif seorang koordinator (“minta prioritasnya”). Setelah tahu hambatannya, bahasa saya menjadi akrab dan peduli pada kondisinya (“takut lu keburu latian bandd”).
+Response & adaptation
+Sinyal “abis agama latihan band wkwk” adalah constraint waktu J. Saya beradaptasi dengan tidak memaksanya mengerjakan detik itu juga, melainkan memberi kebebasan asalkan “jangan kemaleman”. Pada malam hari, saya mengklarifikasi ambiguitas respons “jam 9” untuk memastikan apakah itu jam kerja atau jam band, yang merupakan perbaikan loop komunikasi.
+Agreement/action
+Kesepakatan (Agreement) tercapai dengan eksplisit. Owner: J. Action: Menyelesaikan bagian tugas. Deadline: Sebelum latihan band jam 21.00. Hubungan tetap terjaga santai dan tugas berhasil di-submit pukul 23:59.
+Perubahan language antar character
+Dalam menghadapi target yang sama (J), saya secara sadar mengubah language berdasarkan character yang sedang saya ambil:
+Sebagai Teman Sebaya (22 April): Saat J mengajak lari pagi, saya merespons dengan santai dan asertif tanpa beban hierarki: “skip dlu J😅 takut kecapean minggu ini”.
+Sebagai Koordinator Tugas (23 April): Saat menagih tugas, bahasa saya bergeser menjadi struktural yang menuntut tanggung jawab: “tolong diselesein hari ini ya ges… minta prioritasnya buat tugas milestone ini”.
+Perubahan ini membuktikan bahwa bahasa saya tidak statis, melainkan disesuaikan (tailored) dengan obyektif interaksi pada momen tersebut, meskipun berhadapan dengan person yang sama.
+Penggunaan AI
+Alat dan peran AI: Menggunakan Gemini sebagai mitra diskusi.
+Prompt: “Bantu saya menstrukturkan draf pengalaman tubes PSTI saya ke dalam tabel Markdown sesuai format, dan bantu identifikasi perubahan peran saya dalam transkrip chat.”
+Bagian output: Saya mengambil formatting tabel yang sudah diisikan dengan pengalaman saya, namun tidak menggunakan sepenuhnya struktur narasi dari AI.
+Pemeriksaan accuracy, privacy, dan authority: Seluruh nama disamarkan untuk menjaga privacy J dan L. Akurasi transkrip adalah otoritas saya yang diangkat dari percakapan asli, dan saya secara aktif menolak AI jika ia mencoba membuat asumsi atau menghalusinasi perasaan rekan saya.
+Apa yang tetap saya pelajari sebagai manusia: Mengasah kepekaan secara real-time adalah skill empati yang harus saya latih secara mandiri. AI hanya bisa menganalisisnya setelah kejadian itu berlalu, bukan saat saya harus berhadapan dan merespons lawan bicara di detik yang sama.
+Feedback dan tindak lanjut
+Feedback yang diterima: Respons J yang membalas “bandnya” (jam 9) dan “thxx” (saat saya submit) menunjukkan bahwa ia merasa terbantu dengan kejelasan komunikasi dan tidak merasa dihakimi karena kesibukan luarnya.
+Adaptation/replay: Pada komunikasi selanjutnya (29 April terkait Milestone 4) saat J kembali sibuk karena ada ibadah youth, saya harus mengulang pola ini. Namun, karena tenggat lebih ketat dan saya memiliki deeadline lomba yang berdekatan juga, maka saya menjadi sedikit reaktif. Ini menjadi bukti bahwa adaptasi peran harus terus dikalibrasi.
+Next practice: Saat menjadi team leader, saya akan berlatih menyepakati micro-deadline di awal (misal: “Bisa selesai jam 9 malam?”) alih-alih menggunakan kata yang ambigu seperti “jangan kemaleman”, sehingga saya tidak perlu merasa gelisah menunggu dan mencegah chat bernada pasif-agresif di kemudian hari.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+5 karakter dipetakan, saya membaca J secara utuh (punya jadwal kelas agama dan latihan band) dan menggeser peran saya dari team leader yang kaku menjadi teman.
+Objective & State
+4
+State dikuantifikasi, objective ganda (tugas selesai & J tidak merasa diserang) dikelola secara bersamaan lewat kompromi waktu.
+Repertoire, Language & AI
+4
+Transisi bahasa dari direktif (“minta prioritasnya”) ke kolaboratif/santai (“takut keburu latian bandd”). Deklarasi AI transparan.
+Response & Adaptation
+4
+Mendeteksi hambatan target (latian band) lalu menyesuaikan tuntutan waktu, melakukan loop klarifikasi pada ambiguitas kata “jam 9”.
+Agreement, Action & Relationship
+4
+Kesepakatan sangat spesifik (J mengerjakan sebelum jam 21.00); tugas ter-submit tepat waktu (23:59) dan tidak ada kerusakan relasi.
+Total: 20/20 — Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Nathanael Louis Cahyono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://nathanaellouis.github.io/kipp-students/index.html
+- https://nathanaellouis.github.io/kipp-students/assets/logo.png
+- https://nathanaellouis.github.io/kipp-students/course/index.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/index.html
+- https://nathanaellouis.github.io/kipp-students/examples/index.html
+- https://nathanaellouis.github.io/kipp-students/lk/index.html
+- https://nathanaellouis.github.io/kipp-students/slides.html
+- https://nathanaellouis.github.io/kipp-students/slides-pdf/index.html
+- https://nathanaellouis.github.io/kipp-students/assessment/index.html
+- https://nathanaellouis.github.io/kipp-students/about.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-02.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-06.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-07.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-08.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-09.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-10.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-11.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-12.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-13.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-14.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-15.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#perubahan-language-antar-character
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

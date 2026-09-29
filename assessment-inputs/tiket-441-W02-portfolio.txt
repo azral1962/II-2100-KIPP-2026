@@ -1,0 +1,161 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 441
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+(Integrasi Bagian 1: Identifikasi Kasus dari Edunex)
+Episode
+Event: Keterlambatan pengumpulan aset untuk coding Game Visual Novel (KWN) dan krisis koordinasi menjelang tenggat waktu.
+Lapisan
+Catatan Mahasiswa
+Fact (Fakta)
+Pada tanggal 27 April pukul 21.00, dokumen skrip dialog rinci, logic flowchart, dan aset visual belum tersedia di Google Drive kelompok, sementara Zoom koordinasi tidak dihadiri seluruh anggota. Presentasi dijadwalkan tanggal 4 Mei.
+Initial story (Asumsi)
+Teman-teman kelompok tidak punya inisiatif, menyepelekan tugas berbobot 40%, dan berniat “numpang nama” dengan membebankan sisa pekerjaan teknis kepada saya sebagai programmer di menit terakhir.
+Emotion & body signal
+Marah (8/10), Cemas (8/10), Pusing (7/10). Sensasi fisik: Rahang menegang, napas pendek, dan mengetik layar HP dengan tekanan keras/cepat.
+Reactive character
+Victim (Korban) yang merasa selalu menjadi pihak yang dikorbankan untuk ngoding semalaman karena kesalahan deadliners orang lain, berujung ingin memarahi kelompok di grup WA.
+Desired character
+Growth/Problem-Solver yang mampu mengambil alih kepemimpinan teknis secara asertif, memberikan spesifikasi tugas yang jelas, dan menenangkan kepanikan manajer proyek (PM).
+Initial story melampaui fakta: Anggota kelompok yang diam atau belum menyetor tugas tidak secara otomatis berarti mereka malas atau “numpang nama”. Mereka mungkin kekurangan informasi teknis mengenai format aset seperti apa yang sebenarnya dibutuhkan oleh programmer.
+Alternative narratives
+(Integrasi Bagian 2: Membedah Tiga Narasi dari Edunex)
+Narasi Korban (Victim Narrative): “Selalu saja begini kalau kerja kelompok. Semua hancur gara-gara anggota yang tidak bertanggung jawab. Saya tidak punya pilihan selain begadang mengerjakan semuanya sendiri nanti.”
+Narasi Analitis (Evidence gap): Fakta yang terbukti adalah aset belum masuk Drive. Alternatif penjelasan logis yang belum diperiksa: Anggota divisi lain (Script, Art, Game Design) mungkin tidak tahu standar spesifik format aset yang bisa dibaca oleh engine Ren’Py. Mereka diam karena kebingungan (stuck) dan butuh arahan teknis, bukan karena lepas tangan.
+Narasi Pertumbuhan (Invitation to improve): Keterlambatan ini terjadi karena kurangnya kejelasan alur kerja dari awal proyek. Alih-alih menyalahkan, ini adalah faktor di bawah kendali saya untuk membeberkan Technical Requirement (syarat teknis) secara gamblang kepada tiap divisi.
+Alternatif ketiga paling berguna karena memindahkan saya dari rasa kesal menjadi tindakan manajemen krisis yang berorientasi pada solusi tim.
+Internal conversation dan agreement
+(Integrasi Bagian 3: Merancang Respons dari Edunex)
+Reactive Voice: “Ketik aja di grup kalau mereka semua deadliners dan cuma numpang nama, ancam kalau malam ini nggak kelar, kita nggak bakal bikin gamenya.”
+Analytical Voice: “Kalau dikerasi, PM (Owen) makin stres dan mood tim hancur. Mereka butuh tahu apa tepatnya yang harus disetor.”
+Ammar Zharif (, Zha): “Saya akan menahan diri untuk tidak menyalahkan satu per satu. Saya akan menuliskan instruksi yang merinci output spesifik untuk tiap peran (Nopal/Rendy untuk format skrip, Faiq/Ruly untuk flowchart flag, Luna untuk aset) lalu mengajak PM mereset timeline bersama.”
+Internal agreement: Malam itu juga (27 April), saya memutuskan mengirimkan pesan panjang berisi job desk asertif, menenangkan kepanikan PM (“gw ga nyalahin siapapun, cuman gw mau kita ngerjain yg bener mulai hari ini”), dan melampirkan contoh format input/output untuk Game Designer.
+Evidence tindakan
+Tautan Screenshot Chat WA (Instruksi Teknis 27 April 21:36): Lihat Dokumentasi Chat
+Tautan Screenshot Chat WA (Problem Solving 27 April 21:44 & 21:51): Lihat Dokumentasi Chat
+Catatan: Nama rekan (Fathir/Owen) bertindak sebagai pendukung (support) jalannya koordinasi baru ini.
+Feedback, AI, dan refleksi
+Fathir dan Owen (rekan kelompok) memberikan respons kooperatif pasca-tindakan; Owen langsung menyusun timeline hingga 4 Mei, dan anggota lain (Ruly, Fariz) menyanggupi penyetoran progres pada siang harinya. AI hanya digunakan untuk memformat struktur tabel dokumen portofolio ini.
+Next practice (Sasaran Pertumbuhan): Ketika memulai proyek kolaborasi teknis (pembuatan game/aplikasi) di masa depan, saya akan mendefinisikan dan membagikan format spesifikasi aset (Technical Requirement) pada Rapat Pertama, agar rekan non-teknis tidak kebingungan di pertengahan jalan.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Karakter reaktif dan respons yang diharapkan dipetakan tanpa menghakimi permanen.
+Objective & State
+4
+Event, fakta, dan pergeseran dari initial story ke objektivitas dianalisis.
+Repertoire, Language & AI
+3
+Terdapat penggunaan jeda (mengevaluasi asumsi) sebelum mengirim pesan WA.
+Response & Adaptation
+4
+Tiga alternatif narasi dieksplorasi sesuai panduan Edunex.
+Agreement, Action & Relationship
+4
+Bukti tindakan sangat konkret (pesan instruksi teknis grup) dan merawat relasi tim.
+Total: 18/20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#evidence-wajib
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#episode
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#alternative-narratives
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#evidence-tindakan
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#assessment-dosen
+- https://drive.google.com/file/d/1jdXlA7Gtc8SfKAX37klPTpdQ8eSfljoa/view?usp=sharing
+- https://drive.google.com/file/d/1Z9AGGfYWNgUjdcAXGDyQiekfu-rTmiIV/view?usp=sharing
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

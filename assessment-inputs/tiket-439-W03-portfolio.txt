@@ -1,0 +1,141 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 439
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks dan relationship state
+Potongan transcript
+Analisis listening, boundary, dan repair
+Relationship outcome dan evidence
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+Konteks dan relationship state
+Kontekstual: Percakapan personal melalui aplikasi pesan dengan seorang kenalan/kakak tingkat (Mitra S) yang sedang merasa kelelahan karena harus kembali menyesuaikan diri dengan ritme kuliah pagi di Bandung setelah masa liburan.
+State sebelum percakapan: Hubungan relasi cukup baik dan kasual, namun terdapat hambatan psikologis berupa kecenderungan introvert dari kedua belah pihak (“aku suka keabisan topic… jiwa introvert emang ga bisa diilangin”) yang berpotensi membuat komunikasi menjadi kaku atau terhenti.
+Objective: Membangun ruang percakapan yang suportif, memvalidasi rasa lelahnya tanpa menggurui, serta merencanakan pertemuan fisik (jalan/nongkrong santai) secara setara dan nyaman.
+Potongan transcript
+Mitra S: “Iya… dan aku sebel kl bangun pagi… bawaannya capek mulu. Aku tuh sebenernya ga suka tidur siang cuma kl lg capek dan ngantuk bngt ajaa baru tidur.” Arzha: “Ini setuju bgtt. Kita samaan dong kak kelas ganjil yeyyy. Sejauh inisih kelas ganjil pada okee kok dosennya, matdis kamu ama bu F gaa masih?” Mitra S: “Eh dempet iyaa mana pagi bener diterpa angin dingin bahh, langsung kebangun itu mau ga mau… ihh okee bngt asli, gampang dapet A jugaa.” Arzha: “Benerr dapet poin 0,1 kata ibunya hehe. Mantap lah ganjil pride!” Mitra S: “Iyaaa dan aku suka bandel tetep absen, wkwkwk jangan ditiru… tapi jujur rada jauh ya kl dr noisy matcha cuma bebas aku ikut kamu saja.”
+Analisis listening, boundary, dan repair
+Listening & Paraphrase: Menggunakan pendekatan active listening dengan menangkap isi literal (kata) berupa keluhan bangun pagi dan rasa lelah, lalu langsung merespons dengan memvalidasi kesamaan pengalaman (shared experience) mengenai dinamika kelas pagi di kampus tanpa memotong atau menggurui.
+Boundary: Menjaga batasan privasi dan kenyamanan percakapan agar tetap santai, tidak memaksa topik akademik yang terlalu berat, serta memberikan fleksibilitas penuh terkait lokasi pertemuan (noisy matcha) agar mitra tidak merasa terbebani.
+Repair: Ketika pembicaraan sempat menyinggung topik penugasan panitia yang melelahkan, langsung menetralisir suasana dengan mengalihkan ke topik ringan seputar preferensi tempat makan dan mata kuliah agar relasi tetap terasa hangat dan setara.
+Relationship outcome dan evidence
+Catatan kesepakatan: Menyepakati rencana pertemuan santai di akhir pekan (weekend) di area noisy matcha tanpa tekanan waktu.
+Bukti State Sebelum (Kelelahan & Hambatan Komunikasi): [https://drive.google.com/file/d/11Rr-ldjquOQkwELQomt8ccw8OQ-Af-oC/view?usp=sharing] (Tangkapan layar percakapan awal yang menunjukkan mitra mengeluhkan rasa lelah karena kelas pagi dan mengafirmasi bahwa dirinya kehabisan topik akibat sifat introvert).
+Bukti State Sesudah (Cair & Resolusi): [https://drive.google.com/file/d/1Q5a_ndCuHUASj1H6cxsyE4Eny1YAcvlW/view?usp=sharing] (Tangkapan layar yang menunjukkan mitra menerima validasi, merespons dengan positif, dan sepakat merencanakan pertemuan di lokasi tujuan).
+Relationship state sesudah percakapan: Kecanggungan awal berhasil dicairkan, ditandai dengan respon mitra yang semakin terbuka dan antusias merencanakan kegiatan fisik bersama, membuktikan efektivitas validasi emosi. ## Penggunaan AI
+Tidak menggunakan AI dalam menyusun isi transkrip atau percakapan personal. AI hanya digunakan untuk membantu menyusun struktur dokumen portofolio Markdown sesuai standar repositori.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Kebutuhan emosional mitra (rasa lelah, sifat introvert) diidentifikasi dengan empati.
+Objective & State
+3
+Transisi dari interaksi yang kaku menjadi cair dan suportif tercapai dengan jelas.
+Repertoire, Language & AI
+3
+Penggunaan validasi naratif dan pengalihan topik yang natural tanpa interogasi.
+Response & Adaptation
+3
+Menyesuaikan ritme obrolan agar mitra merasa didengar tanpa merasa dihakimi.
+Agreement, Action & Relationship
+4
+Menghasilkan kesepakatan interaksi nyata (weekend plan) dan mempererat relasi.
+Total: 16 / 20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#evidence-wajib
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#konteks-dan-relationship-state
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#potongan-transcript
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#analisis-listening-boundary-dan-repair
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#relationship-outcome-dan-evidence
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
