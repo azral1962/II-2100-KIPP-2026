@@ -1,0 +1,180 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 501
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery interview bersama rekan setim lomba Technovate Paper Competition IEEE ITB - asumsi kurangnya literatur dibantah oleh masalah kejelasan parameter metodologi.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting: Rapat evaluasi progres secara online (Google Meet) pada hari Rabu malam. Kami sedang mengejar tenggat waktu pengumpulan draf awal paper dan poster BUTEN untuk kompetisi Technovate IEEE ITB.
+Persons dan relationship: Saya (ketua tim), M (rekan setim, fokus penulisan draf paper), dan S (rekan setim, fokus visualisasi data dan poster). Hubungan kami adalah rekan sejawat yang setara. Kami sering berdiskusi dan mengobrol santai namun tetap profesional dalam urusan target lomba.
+Objective dan initial state: Progres pengerjaan paper BUTEN mandek selama hampir satu minggu. Saya masuk ke dalam rapat dengan asumsi bahwa M dan S kesulitan menulis karena kita kekurangan referensi jurnal akademik. Saya berniat mengusulkan agar kami membagi tugas mencari 10 jurnal internasional baru. Namun, sebelum mengajukan ide tersebut, objective saya malam ini adalah menguji asumsi tersebut dengan mendengarkan langsung kendala dari M dan S.
+Evidence
+Catatan percakapan ditulis dari memori segera setelah Google Meet selesai. Pertanyaan saya susun sebelumnya sebagai panduan arah rapat.
+Initial assumption sebelum interview:
+Progres draf paper dan poster berhenti karena kekurangan referensi literatur (problem asumsi).
+Anggota tim kehabisan bahan untuk menulis Bab Tinjauan Pustaka.
+Solusi yang sudah saya bayangkan: Mewajibkan tiap anggota mencari 10 jurnal tambahan di IEEE Xplore.
+Pertanyaan yang disiapkan:
+Ceritain gimana progres pengerjaan draf dan poster sejauh ini?
+Di bagian mana kalian merasa paling kesulitan atau mandek?
+Apa dampaknya ke target timeline kita minggu ini?
+Apa yang kalian butuhkan dari aku sebagai ketua tim biar progresnya jalan lagi?
+Ringkasan percakapan (sekitar 20 menit):
+Saya: “Gengs, gua perhatiin progres paper dan poster BUTEN kita agak stuck semingguan ini. Gua awalnya mikir apa kita kurang referensi jurnal ya? Gua mau ngusulin sesuatu, tapi gua pengen denger dari sisi kalian dulu. M, gimana progres draf lu?”
+M: “Bukan kurang referensi sih. Di folder drive kita udah ada 30-an PDF jurnal yang relevan. Gua justru bingung dan stuck pas mau nulis bab metodologinya.”
+Saya: “Oh, jadi literatur udah aman ya. Bingung di metodologi itu maksudnya lu belum kebayang langkah-langkah kasarnya?”
+M: “Langkah kasarnya ada, tapi kita kan belum fix mau pakai software simulasi apa, terus batasan parameter uji cobanya juga belum jelas. Gua takut salah nulis.”
+S: “Nah iya, gua juga mandek bikin poster karena datanya belum ada. Gua nggak bisa bikin grafik visualisasi kalau angka parameter dan hasil simulasinya belum kita sepakati.”
+Saya: “Oke, gua tangkep. Berarti dampaknya sekarang lu (M) ragu nulis draf karena alat simulasinya belum jelas, dan lu (S) nggak bisa layout poster karena nunggu data dari metodologi itu ya?”
+M & S: “Iya, bener banget.”
+Saya: “Berarti masalah utama kita bukan nyari jurnal tambahan, tapi kita belum ngunci spesifikasi teknis prototypenya. Apa constraint kita buat nentuin software simulasi ini sekarang?”
+M: “Gua butuh diskusi teknis berdua sama lu buat milih antara pakai MATLAB atau Simulink besok, baru gua berani lanjut nulis.”
+Pembaruan pembacaan setelah interview: Asumsi awal saya, kekurangan jurnal, terbantahkan total oleh data dari M dan S. Masalah utamanya ada pada kekosongan keputusan teknis (belum ada kesepakatan software dan parameter), bukan kekurangan bahan literasi. Root cause: ketiadaan batasan teknis yang disepakati membuat anggota tim ragu mengambil tindakan (paralysis by analysis).
+Shared problem statement yang dikonfirmasi M dan S:
+“Tim penyusun BUTEN mengalami kemandekan dalam penulisan draf dan desain poster bukan karena kekurangan literatur, melainkan karena ketiadaan keputusan final mengenai spesifikasi software simulasi dan batasan parameter, sehingga anggota tim ragu untuk mengeksekusi tugasnya masing-masing.”
+Saya membacakan ulang rumusan tersebut ke M dan S. S meminta tambahan satu frasa: “sehingga anggota tim ragu untuk mengeksekusi tugasnya dan membutuhkan sesi rapat teknis khusus esok hari.” Perubahan itu saya terima dan sepakati sebagai action item kami.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+M dan S adalah kolaborator yang memiliki porsi keahlian spesifik (penulisan dan desain). Saya memperlakukan mereka sebagai sumber otoritas atas beban kerja mereka sendiri, bukan bawahan yang harus langsung menerima tugas mencari jurnal tambahan. Saya membuka pertanyaan untuk mendengarkan realita di lapangan.
+Objective & state
+Saya masuk dengan hipotesis eksplisit (kurang jurnal) namun dengan mindset discovery untuk mengujinya, bukan memaksakannya. Jika saya memaksakan asumsi, M dan S akan terbebani tugas mencari jurnal yang sebenarnya tidak mereka butuhkan, dan masalah metodologi tetap tidak akan selesai.
+Repertoire & language
+Saya menggunakan open question (“gimana progres…”), paraphrase (“Oh, jadi literatur udah aman ya…”), dan memvalidasi dampak (“Berarti dampaknya sekarang…”). Saya menahan diri untuk tidak langsung memaksakan ide untuk mencari jurnal sebelum akar masalahnya ditemukan bersama.
+Response & adaptation
+Saat hipotesis saya terbantah di menit-menit awal rapat, saya langsung beradaptasi. Saya membatalkan ide pencarian jurnal dan mengalihkan obrolan untuk menggali lebih dalam soal batasan software simulasi.
+Agreement/action
+Shared problem statement dirumuskan dari gabungan keresahan M dan S. Pernyataan dibacakan, dikoreksi (dengan tambahan permintaan rapat teknis khusus dari S), lalu disepakati bersama sebelum kami menutup sesi meet.
+Relationship outcome
+M dan S merasa didengarkan hambatannya. Ketegangan karena deadline yang tertunda berhasil dicairkan karena sekarang kami tahu apa sumbatan pastinya. Rapat diakhiri dengan rencana kolaboratif yang jelas untuk keesokan harinya.
+Penggunaan AI
+AI digunakan setelah proses interview dan meeting selesai sebagai bantuan untuk menganalisis dan menyusun catatan menjadi format Shared Problem Statement. Saya memberikan catatan meeting kasar saya, dan AI membantu melabeli mana yang merupakan Initial Assumption, mana yang merupakan Fact (Data M dan S), dan mana yang merupakan Constraint. AI tidak merumuskan masalah untuk saya; kesepakatan masalah murni terjadi secara real-time antara saya, M, dan S di dalam Google Meet.
+Feedback dan tindak lanjut
+Feedback yang diterima: Tambahan dari S pada problem statement (“membutuhkan sesi rapat teknis khusus esok hari”) adalah umpan balik berupa permintaan langsung. Ini membuktikan bahwa setelah masalah disepakati, transisi menuju solusi (rapat teknis) menjadi sangat alami dan tidak dipaksakan dari satu pihak saja.
+Adaptation/replay: Rumusan masalah direvisi sesuai masukan S dan dijadikan landasan utama untuk rapat teknis keesokan harinya. Asumsi awal mengenai pencarian 10 jurnal tambahan saya coret sepenuhnya dari rencana kerja tim.
+Next practice: Pada diskusi manajemen proyek berikutnya, saya akan memisahkan dengan jelas antara problem dan solution. Saya akan memastikan Shared Problem Statement selalu disepakati secara lisan terlebih dahulu sebelum kita melompat membahas software atau tools spesifik.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+M dan S diperlakukan sebagai otoritas pemegang masalah. Pertanyaan dibuka lebar tanpa leading question yang mengarahkan pada solusi sepihak.
+Objective & State
+4
+Asumsi awal yaitu kurang jurnal dituliskan, diuji, dan berani dibatalkan setelah mengetahui masalah yang dihadapi sebenarnya.
+Repertoire, Language & AI
+4
+Teknik paraphrase, pertanyaan dampak, dan identifikasi constraint digunakan secara berurutan. AI sebatas digunakan untuk menyusun catatan meeting kasar saya menjadi format Shared Problem Statement.
+Response & Adaptation
+4
+Beradaptasi seketika saat asumsi terbantahkan, fokus bergeser secara mulus dari literatur ke diskusi spesifikasi teknis purwarupa.
+Agreement, Action & Relationship
+4
+Masalah inti dikonfirmasi ulang secara verbal dan memicu action item konkret berupa persetujuan rapat teknis khusus tanpa merusak mood tim.
+Total: 20/20 — Lanjut
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Nathanael Louis Cahyono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://nathanaellouis.github.io/kipp-students/index.html
+- https://nathanaellouis.github.io/kipp-students/assets/logo.png
+- https://nathanaellouis.github.io/kipp-students/course/index.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/index.html
+- https://nathanaellouis.github.io/kipp-students/examples/index.html
+- https://nathanaellouis.github.io/kipp-students/lk/index.html
+- https://nathanaellouis.github.io/kipp-students/slides.html
+- https://nathanaellouis.github.io/kipp-students/slides-pdf/index.html
+- https://nathanaellouis.github.io/kipp-students/assessment/index.html
+- https://nathanaellouis.github.io/kipp-students/about.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-02.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-06.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-07.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-08.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-09.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-10.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-11.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-12.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-13.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-14.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-15.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

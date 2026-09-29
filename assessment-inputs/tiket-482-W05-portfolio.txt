@@ -1,0 +1,124 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 482
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://owen2907.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identifikasi Eksplisit: Observasi dan Adaptasi Dinamis
+Episode yang Dianalisis
+Analisis Discovery
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Identifikasi Eksplisit: Observasi dan Adaptasi Dinamis
+Sesuai umpan balik, berikut adalah bukti observasi langsung terhadap respons target dan proses adaptasi strategi secara real-time selama percakapan: 1. Observasi Awal: Target merespons dengan nada pelan, menghindari kontak mata, dan menjawab pendek saat ditanya soal kendala teknis. 2. Adaptasi Dinamis: Menyadari kendalanya bukan teknis/waktu, saya mengubah pendekatan dari bertanya soal “kesibukan” menjadi pertanyaan yang lebih santai dan suportif tentang kebiasaan kerjanya. 3. Hasil Adaptasi: Target menjadi lebih rileks (tertawa canggung) dan secara terbuka mengakui kendala perilakunya (pasif/butuh didorong).
+Episode yang Dianalisis
+Konteks Kejadian: Berdiskusi dengan teman satu kelompok tugas kuliah yang terlihat pasif dan belum mulai mengerjakan bagian pekerjaannya sama sekali.
+Analisis Discovery
+Asumsi Awal (Initial Assumption) Awalnya, saya berasumsi bahwa dia tidak mengerjakan bagiannya karena dia memang tidak mengerti instruksi tugasnya, atau mungkin karena dia memiliki kesibukan pribadi yang sangat padat di luar kuliah.
+Bukti Percakapan dan Adaptasi (Discovery Process) Saya mencoba menggali kendalanya dengan menguji asumsi awal tersebut.
+Saya: “Eh, tugas bagianmu kulihat belum disentuh ya? Ada kendala di materi atau jadwalmu lagi padat banget minggu ini?”
+Teman: (Menghela napas, menghindari kontak mata, nada pelan) “Enggak sih, materinya lumayan ngerti, jadwal juga lagi aman kok.”
+Saya: (Melihat gestur menghindar, saya beradaptasi. Saya menyadari kendalanya bukan teknis. Saya mengubah nada menjadi lebih santai agar ia tidak merasa dihakimi) “Terus kenapa nih belum mulai? Jujur aja santai, lagi mager atau emang bingung nunggu instruksi spesifik harus ngerjain yang mana dulu?”
+Teman: (Tertawa canggung, bahunya lebih rileks) “Iya hehe, jujur aku emang agak mageran orangnya kalau nggak di-push. Kayak nunggu disuruh spesifik ngerjain yang mana dulu gitu loh baru jalan.”
+Fakta dan Hambatan (Constraint) Dari observasi dan obrolan tersebut, terungkap bahwa asumsi awal saya salah. Kendala (constraint) utamanya murni pada aspek perilaku (kemalasan dan kecenderungan bersikap pasif). Ia membutuhkan dorongan eksternal dan instruksi tugas yang sangat definitif baru mau bergerak.
+Kesepakatan Masalah (Shared Problem Statement) Setelah mengetahui akar masalahnya, kami sepakat bahwa masalah kelompok ini bukan pada kompetensi materi, melainkan pada sistem komunikasinya. Kesimpulan yang kami sepakati: “Masalah utama kita adalah tidak adanya sistem pengingat yang proaktif. Karena ada anggota yang butuh dorongan untuk mulai bekerja, maka kita sepakat bahwa ketua/anggota lain harus rutin reach out dan saling nge-push pembagian tugas secara detail agar progres berjalan.”
+Self-assessment
+Dimensi
+Skor
+Alasan
+Suspension of Judgement
+4
+Berhasil menunda asumsi awal (mengira sibuk/tidak paham) dengan langsung mengonfirmasi dan mencari akar kendala sebenarnya.
+Kualitas Pertanyaan
+4
+Menggunakan pertanyaan terbuka dan beradaptasi (real-time) untuk mengidentifikasi hambatan perilaku tanpa menjatuhkan tuduhan.
+Identifikasi Constraint
+4
+Terdapat bukti dinamis (perubahan nada dan gestur) saat menemukan hambatan sebenarnya yang bersifat pasif/menunggu instruksi.
+Problem Framing
+4
+Mampu menggeser sudut pandang dari menyalahkan personal menjadi fokus perbaikan sistem kerja kelompok (“perlu lebih proaktif”).
+Kesepakatan (Shared Statement)
+4
+Mencapai kesepakatan konkrit bahwa saling reach out dan memberi instruksi detail adalah syarat utama berjalannya tugas.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Owen Reyhan Martua Pasaribu
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://owen2907.github.io/kipp-students/index.html
+- https://owen2907.github.io/kipp-students/assets/logo.png
+- https://owen2907.github.io/kipp-students/course/index.html
+- https://owen2907.github.io/kipp-students/portfolio/index.html
+- https://owen2907.github.io/kipp-students/examples/index.html
+- https://owen2907.github.io/kipp-students/lk/index.html
+- https://owen2907.github.io/kipp-students/slides.html
+- https://owen2907.github.io/kipp-students/slides-pdf/index.html
+- https://owen2907.github.io/kipp-students/assessment/index.html
+- https://owen2907.github.io/kipp-students/about.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html
+- https://owen2907.github.io/kipp-students/portfolio/week-06.html
+- https://owen2907.github.io/kipp-students/portfolio/week-07.html
+- https://owen2907.github.io/kipp-students/portfolio/week-08.html
+- https://owen2907.github.io/kipp-students/portfolio/week-09.html
+- https://owen2907.github.io/kipp-students/portfolio/week-10.html
+- https://owen2907.github.io/kipp-students/portfolio/week-11.html
+- https://owen2907.github.io/kipp-students/portfolio/week-12.html
+- https://owen2907.github.io/kipp-students/portfolio/week-13.html
+- https://owen2907.github.io/kipp-students/portfolio/week-14.html
+- https://owen2907.github.io/kipp-students/portfolio/week-15.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#identifikasi-eksplisit-observasi-dan-adaptasi-dinamis
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#episode-yang-dianalisis
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#analisis-discovery
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

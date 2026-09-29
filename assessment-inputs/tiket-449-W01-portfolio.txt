@@ -1,0 +1,212 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 449
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Contoh perubahan bahasa (Language shift)
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — pembelajar gigih
+Diri sendiri, terutama saat menghadapi hasil yang tidak sesuai harapan
+Memastikan usaha sudah maksimal agar tidak ada penyesalan atas hasil apa pun
+Dialog internal jujur, evaluasi diri, pengulangan materi secara konsisten
+Terlalu keras ke diri sendiri; latihan memisahkan kualitas usaha dari hasil akhir
+Family/Friends — sahabat inklusif
+Teman-teman di lingkungan kuliah, termasuk yang belum akrab
+Menjaga kenyamanan dan keterbukaan tanpa membentuk circle eksklusif
+Adaptasi gaya bicara (santai/bercanda vs tenang) sesuai lawan bicara
+Diam saat topik sensitif; latihan menegur secara halus dalam <10 detik
+Work/Profesional — anggota tim proyek PRD
+4 rekan satu kelompok tugas besar (inisial T, R, M, A), awalnya belum akrab
+Mengklarifikasi ambiguitas spesifikasi tugas dan membagi peran secara adil agar proyek selesai tepat waktu
+Bertanya informal ke kelompok, bertanya formal ke dosen, pembagian kerja eksplisit
+Canggung/diam di awal kelompok baru sempat memperlambat klarifikasi; latihan mempercepat keakraban tim baru
+Community — panitia lomba, divisi competition
+Peserta lomba dan sesama panitia
+Menyusun soal berkualitas dan mengawasi jalannya lomba secara adil
+Instruksi tertulis (soal), teguran langsung saat mengawas
+Menghindari konfrontasi; latihan tetap tegas demi keadilan kompetisi
+Dunia/Publik — pemberi opini teknis hardware
+Teman di luar circle akademik
+Menyampaikan argumen berbasis data (spek, harga, performa) secara meyakinkan
+Perbandingan teknis, analogi harga-performa
+Terlalu teknis/menggurui; latihan menyederhanakan penjelasan untuk audiens non-teknis
+Contoh perubahan bahasa (Language shift)
+Berikut perbandingan perubahan ragam bahasa (language shift) saat berpindah character dalam konteks mengklarifikasi spesifikasi tugas:
+Sebagai anggota kelompok (Ragam Informal & Langsung): > “Woi ini tugas gimana, harus ada hardware atau ngga?” (Menggunakan bahasa santai dan langsung ke rekan setingkat, tanpa basa-basi karena relasi yang setara).
+Sebagai mahasiswa yang bertanya ke dosen (Ragam Sopan & Terstruktur): > “Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?” (Menggunakan salam pembuka dan nada hormat sesuai relasi dosen-mahasiswa, dengan tujuan inti yang sama yaitu mencari kejelasan spesifikasi tugas).
+Konteks performance
+Tanggal dan setting: April 2026, semester 2, dalam rangkaian pengerjaan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD) — Institut Teknologi Bandung.
+Persons dan relationship: Lima anggota kelompok tugas besar (saya, dan rekan berinisial T, R, M, A), yang pada awal proyek belum begitu saling akrab.
+Objective dan initial state: - State awal: Prototype aplikasi navigasi kelas “FindMyClass” sudah selesai dalam versi software-only, namun ada ambiguitas spesifikasi tugas mengenai wajib-tidaknya komponen hardware, yang sempat tidak terselesaikan sekitar satu minggu karena kelompok masih canggung berkomunikasi. - Objektif: Mendapatkan kejelasan spesifikasi tugas dari sumber yang berwenang (dosen), lalu menyesuaikan proposal dan prototype tanpa harus membangun ulang dari nol.
+Evidence
+Transkrip / Ringkasan Kejadian Percakapan:
+Kelompok saya (5 orang) mengerjakan tugas besar PRD dengan membangun aplikasi navigasi kelas bernama FindMyClass. Kami sudah menyelesaikan prototype berbasis software saja, namun muncul ketidakjelasan apakah spesifikasi tugas mengharuskan komponen hardware.
+Saya (ke kelompok): “Woi ini tugas gimana, harus ada hardware atau ngga?”
+Kelompok: Setuju untuk mengonfirmasi ke dosen.
+Saya (ke dosen, saat sesi perkuliahan): “Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?”
+Dosen: Proyek harus menyertakan komponen hardware, dengan opsi solusi berupa ESP32 atau ESP8266.
+Setelah itu, kelompok langsung berdiskusi dan memutuskan untuk menambahkan modul ESP8266 sebagai komponen hardware yang diintegrasikan ke proposal dan prototype yang sudah ada, tanpa membangun produk baru dari awal. Pembagian kerja baru disepakati: saya bersama T dan R menangani backend dan hardware (integrasi ESP8266), sementara M dan A menangani frontend.
+Bukti pendukung episode berupa screenshot diskusi kelompok dapat diakses melalui folder berikut: Evidence Minggu 1 — Episode PRD
+Isi folder: Screenshot diskusi kelompok yang menunjukkan proses klarifikasi ambiguitas spesifikasi tugas hingga kesepakatan menggunakan ESP8266 sebagai komponen hardware.
+Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifikasi tugas merupakan kontribusi langsung saya sebagai anggota yang pertama kali mengangkat isu ini ke kelompok.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Kelompok terdiri dari 5 orang (saya, T, R, M, A) yang di awal proyek belum begitu akrab. Kecanggungan ini membuat komunikasi kelompok cenderung pasif, sehingga ambiguitas spesifikasi tugas tidak segera diklarifikasi selama sekitar satu minggu.
+Objective & state
+Initial state: prototype sudah selesai dalam versi software-only, namun ambigu apakah hardware diwajibkan. Objective: mendapatkan kejelasan dari sumber otoritatif (dosen) dan menyesuaikan proyek tanpa membangun ulang dari nol.
+Repertoire & language
+Ke kelompok: “Woi ini tugas gimana, harus ada hardware atau ngga?” — informal, langsung. Ke dosen: “Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?” — sopan, terstruktur. Register berubah signifikan sesuai relasi, namun tujuan inti (mencari kejelasan) tetap konsisten.
+Response & adaptation
+Dosen menjawab hardware wajib ada, dan menawarkan opsi ESP32 atau ESP8266. Kelompok merespons cepat memilih ESP8266 agar tidak perlu membangun produk baru dari nol, hanya mengintegrasikan modul tambahan ke proposal dan prototype yang sudah ada.
+Agreement/action
+Tidak ada deadline tertulis eksplisit per sub-tugas, namun kelompok langsung menyepakati pembagian kerja baru: saya bersama T dan R menangani backend dan hardware (integrasi ESP8266), sementara M dan A menangani frontend. Proyek selesai tepat waktu.
+Relationship outcome
+Hubungan kelompok yang awalnya canggung berubah menjadi sangat dekat setelah proyek ini, terutama dengan R. Inisiatif mengklarifikasi ke dosen turut memperkuat kepercayaan antaranggota kelompok.
+Penggunaan AI
+AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi, dan menolak bagian mana pun dari saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
+Feedback dan tindak lanjut
+Feedback yang diterima: Tidak ada feedback eksplisit dari dosen, asisten, atau anggota kelompok terkait cara saya menangani situasi ini. Refleksi berikut murni berasal dari evaluasi diri saya sendiri setelah kejadian berlalu.
+Adaptation/replay: Saya menyadari bahwa kecanggungan awal kelompok (karena belum saling akrab) menjadi salah satu penyebab ambiguitas spesifikasi tugas tidak segera diklarifikasi. Setelah momen ini, saya lebih terbuka mengambil inisiatif bertanya meski situasi sosial belum sepenuhnya nyaman.
+Next practice: Pada kelompok kerja baru berikutnya, saya akan berinisiatif memulai obrolan sederhana (perkenalan atau bertanya progres) dalam pertemuan pertama, alih-alih menunggu kelompok mencair dengan sendirinya — supaya isu atau ambiguitas teknis bisa dikomunikasikan lebih cepat, tidak tertunda seperti kasus PRD ini.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Person, konteks, dan evolusi relasi (canggung → akrab) dipetakan jelas
+Objective & State
+3
+Initial state dan objective dinyatakan eksplisit
+Repertoire, Language & AI
+3
+Pergeseran register terlihat jelas (informal ke kelompok, formal ke dosen); batas AI dinyatakan jujur
+Response & Adaptation
+3
+Informasi baru dari dosen mengubah arah solusi dan pembagian kerja secara nyata
+Agreement, Action & Relationship
+4
+Pembagian kerja eksplisit, proyek selesai tepat waktu, dan relasi kelompok terbukti menguat signifikan
+Total: 16 / 20 - Kompeten
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#contoh-perubahan-bahasa-language-shift
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/week-01.html
+- https://drive.google.com/drive/folders/1HlHzFkxuXJvJDO0O2FhDCXf31fkwOdKA?usp=sharing
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

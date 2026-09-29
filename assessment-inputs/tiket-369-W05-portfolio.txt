@@ -1,0 +1,206 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 369
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Portofolio Terjemahan Lima Bahasa
+Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+FASE 1 & 2: PROFIL & LOG CATATAN WAWANCARA
+1. Profil Narasumber (Disamarkan Demi Privasi)
+2. Log Catatan Wawancara (5 Pertanyaan Penemuan)
+FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+FASE 4: REFLEKSI INTRAPRIBADI (JURNAL)
+FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah
+Komunikasi
+Problem Solving
+Analisis penemuan masalah operasional kepanitiaan dan perumusan problem statement dari pengalaman nyata.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Nama Lengkap: Muhammad Rafi Fadillah NIM: 18225115 Program Studi: Sistem dan Teknologi Informasi Tanggal Pengisian: 29 September 2026
+FASE 1 & 2: PROFIL & LOG CATATAN WAWANCARA
+1. Profil Narasumber (Disamarkan Demi Privasi)
+Nama Samaran: Rian (Rekan sesama pengurus/anggota divisi logistik dan panitia inti)
+Peran/Pekerjaan Nyata: Anggota Divisi Logistik merangkap Keamanan acara Aksi Angkatan
+Domain Hubungan: Rekan Kerja Organisasi / Kepanitiaan Kampus
+Konteks Lingkungan: Ruang koordinasi lapangan saat acara Aksi Angkatan (Semester 1)
+2. Log Catatan Wawancara (5 Pertanyaan Penemuan)
+Pertanyaan 1: Kejadian Nyata & Contoh Konkret
+Catatan Wawancara: Saat momen perpindahan peserta SMA dari kelas ke sesi ishoma, panitia harus memastikan tidak ada siswa yang kabur keluar area. Namun, instruksi briefing dari wakil pelaksana dan ketua divisi logistik saat itu sangat membingungkan, rumit, dan tidak masuk akal jika dikerjakan sendirian per anggota divisi.
+Pertanyaan 2: Dampak Nyata & Beban Masalah
+Catatan Wawancara: Anggota divisi mengalami kebingungan di lapangan, koordinasi macet, beban kerja terasa mustahil diselesaikan, dan ada risiko besar peserta SMA lolos keluar tanpa izin (cabut).
+Pertanyaan 3: Pemetaan Pihak Terdampak
+Catatan Wawancara: Pihak yang terdampak meliputi seluruh anggota divisi logistik/keamanan (merasa stres dan bingung), ketua divisi (kehilangan kendali atas anggotanya), serta panitia inti acara.
+Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)
+Catatan Wawancara: Dibutuhkan sebuah alur pembagian tugas pengamanan titik (pos) yang ringkas, logis, dan mudah dipahami seketika di lapangan tanpa instruksi yang berbelit-belit.
+Pertanyaan 5: Batasan & Kendala Lapangan
+Catatan Wawancara: Kendalanya adalah waktu transisi yang sangat sempit (mendesak), tenaga personel terbatas karena rangkap tugas (double job), dan harus menjaga perasaan/kehormatan ketua divisi agar tidak merasa dilangkahi.
+FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi) Anggota divisi logistik/keamanan mengalami kebingungan instruksi operasional ketika menghadapi transisi massa peserta yang padat dengan aturan yang rumit, sehingga pengawasan bisa saja gagal. Mereka membutuhkan alur kerja lapangan yang taktis dan realistis, dengan mempertimbangkan keterbatasan personel dan tanpa menjatuhkan wibawa atasan.
+Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Diskusi/Refleksi Bersama Rekan) Anggota panitia logistik yang memegang peran ganda (keamanan) mengalami hambatan eksekusi di lapangan akibat instruksi briefing ketua divisi yang terlalu rumit dan tidak realistis saat transisi sesi peserta SMA, sehingga memicu kebingungan kolektif. Mereka membutuhkan penyederhanaan instruksi taktis yang bisa divalidasi bersama tim secara terbuka, dengan mempertimbangkan keterbatasan waktu transisi serta penjagaan etika komunikasi agar struktur kepemimpinan tetap dihormati.
+FASE 4: REFLEKSI INTRAPRIBADI (JURNAL)
+Seberapa cepat Anda menahan ego untuk tidak langsung mendominasi atau menyalahkan keadaan di awal situasi kritis? Saat situasi mendesak di lapangan, godaan terbesar adalah langsung menyalahkan ketua divisi karena instruksinya yang membingungkan. Namun, saya mencoba menahan diri, memproses ulang masalahnya secara kepala dingin, lalu menawarkan solusi dengan cara meminta pendapat tim (peer review) terlebih dahulu agar tidak terkesan menggurui.
+Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah melihat kondisi nyata? Saya sempat berasumsi bahwa masalahnya murni karena ketua divisi tidak becus bekerja. Ternyata setelah diamati, masalah utamanya adalah beban koordinasi di bawah tekanan waktu yang tinggi dan kurangnya penyederhanaan informasi (simplification) sebelum instruksi diturunkan ke anggota.
+Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini? Melibatkan rekan satu divisi dalam setiap perumusan ide darurat di masa depan dan tetap memberikan apresiasi kepada ketua divisi atas niat baiknya dalam memimpin.
+FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Skor Mandiri: 95 / 100 (Cakap / Unggul)
+Kualitas Mendengarkan: 4/4 (Mampu menggali konteks kejadian nyata, beban emosional/stres yang dirasakan tim, hingga kendala lapangan secara utuh tanpa langsung menghakimi).
+Ketepatan Rumusan Masalah: 4/4 (Berpusat pada pribadi/peran, menggunakan fakta teramati, bebas dari penyebutan solusi teknis/aplikasi, serta telah dikonfirmasi ulang).
+Etika & Penjagaan Privasi: 4/4 (Identitas narasumber disamarkan menggunakan nama samaran dan konteks kejadian dijaga kerahasiaannya dengan penuh rasa hormat).
+Keandalan & Hubungan: 4/4 (Jujur mengakui batas situasi di lapangan serta berkomitmen menjaga hubungan baik serta wibawa rekan satu tim ke depannya).
+Kembali ke atas
+Portofolio Terjemahan Lima Bahasa
+Target–Attention Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://muhrafifad.github.io/kipp-students/index.html
+- https://muhrafifad.github.io/kipp-students/assets/logo.png
+- https://muhrafifad.github.io/kipp-students/course/index.html
+- https://muhrafifad.github.io/kipp-students/portfolio/index.html
+- https://muhrafifad.github.io/kipp-students/examples/index.html
+- https://muhrafifad.github.io/kipp-students/lk/index.html
+- https://muhrafifad.github.io/kipp-students/slides.html
+- https://muhrafifad.github.io/kipp-students/slides-pdf/index.html
+- https://muhrafifad.github.io/kipp-students/assessment/index.html
+- https://muhrafifad.github.io/kipp-students/about.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-01.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-02.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-06.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-07.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-08.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-09.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-10.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-11.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-12.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-13.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-14.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-15.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#fase-1-2-profil-log-catatan-wawancara
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#profil-narasumber-disamarkan-demi-privasi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#log-catatan-wawancara-5-pertanyaan-penemuan
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#fase-3-formulasi-pernyataan-masalah-pelanggan
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#fase-4-refleksi-intrapribadi-jurnal
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#fase-5-rubrik-penilaian-mandiri-self-assessment
+- https://muhrafifad.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

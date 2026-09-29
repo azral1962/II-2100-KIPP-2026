@@ -21,6 +21,7 @@ from llm import (
     parse_args,
     official_score_from_result,
     read_queue,
+    render_assessment_content,
     run_simple_prompt_test,
     update_assessment_file,
     validate_result_week,
@@ -199,12 +200,60 @@ class PromptAndResponseTest(unittest.TestCase):
         self.assertEqual("PERLU REVISI", result.status)
         self.assertEqual(data, result.data)
 
-    def test_rejects_inconsistent_structured_total(self) -> None:
-        data = structured_assessment()
-        data["total"] = 13
+    def test_corrects_derived_fields_from_valid_scores(self) -> None:
+        data = structured_assessment((4, 4, 3, 3, 4))
+        data["total"] = 17
+        data["level"] = "Awal"
+        result = parse_assessment(json.dumps(data), require_structured=True)
+        self.assertEqual(18, result.total)
+        self.assertEqual("Lanjut", result.data["level"])
+        self.assertEqual("TERCAPAI", result.status)
+        self.assertEqual(3, len(result.corrections))
+        rendered = render_assessment_content(result)
+        self.assertIn("Koreksi otomatis", rendered)
+        reparsed = parse_assessment(rendered, require_structured=True)
+        self.assertEqual(result.data, reparsed.data)
 
-        with self.assertRaisesRegex(PermanentAssessmentError, "jumlah dimensi"):
-            parse_assessment(json.dumps(data), require_structured=True)
+    def test_derived_level_boundaries(self) -> None:
+        cases = [
+            ((1, 1, 1, 1, 1), "Awal"),
+            ((1, 1, 2, 2, 2), "Awal"),
+            ((1, 2, 2, 2, 2), "Berkembang"),
+            ((2, 2, 2, 3, 3), "Berkembang"),
+            ((2, 2, 3, 3, 3), "Kompeten"),
+            ((3, 3, 3, 3, 4), "Kompeten"),
+            ((3, 3, 3, 4, 4), "Lanjut"),
+            ((4, 4, 4, 4, 4), "Lanjut"),
+        ]
+        for scores, level in cases:
+            with self.subTest(scores=scores):
+                data = structured_assessment(scores)
+                data["total"] = 0
+                data["level"] = None
+                result = parse_assessment(json.dumps(data), require_structured=True)
+                self.assertEqual(sum(scores), result.total)
+                self.assertEqual(level, result.data["level"])
+
+    def test_decision_respects_evidence_and_low_dimensions(self) -> None:
+        cases = [
+            ((4, 4, 4, 4, 4), "Parsial", "PERLU REVISI"),
+            ((4, 4, 4, 4, 4), "Tidak memadai", "BELUM DAPAT DINILAI"),
+            ((None, 4, 4, 4, 4), "Lengkap", "BELUM DAPAT DINILAI"),
+            ((1, 4, 4, 4, 4), "Lengkap", "PERLU REVISI"),
+        ]
+        for scores, evidence, expected in cases:
+            with self.subTest(scores=scores, evidence=evidence):
+                data = structured_assessment(scores, evidence_status=evidence, decision="Tercapai")
+                result = parse_assessment(json.dumps(data), require_structured=True)
+                self.assertEqual(expected, result.status)
+
+    def test_invalid_dimension_scores_are_still_rejected(self) -> None:
+        for score in (0, 5, True, "3", 2.5):
+            with self.subTest(score=score):
+                data = structured_assessment()
+                data["dimensions"]["person_character"]["score"] = score
+                with self.assertRaisesRegex(PermanentAssessmentError, "Skor dimensi"):
+                    parse_assessment(json.dumps(data), require_structured=True)
 
     def test_rejects_structured_result_for_wrong_week(self) -> None:
         result = parse_assessment(

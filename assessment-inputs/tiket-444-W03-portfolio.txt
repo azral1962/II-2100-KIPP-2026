@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 444
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://naufalrasya.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Relationship Conversation
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+Konteks performance
+Tanggal dan setting: September 2026, diskusi pengerjaan Tugas Besar KWN. Percakapan dilakukan ketika saya dan Rendy sedang menyusun cerita untuk game berbentuk visual novel.
+Persons dan relationship: Saya dan Rendy merupakan teman satu kelompok yang memiliki responsibility sebagai story writer. Kami bertanggung jawab menyusun alur cerita, konflik, karakter, dan ending dalam visual novel yang sedang dibuat oleh kelompok.
+Objective dan initial state: Objective percakapan adalah mencapai kesepakatan mengenai nasib karakter pada ending cerita tanpa membuat salah satu pihak merasa pendapatnya diabaikan. Initial state-nya adalah kami memiliki pandangan yang berbeda. Saya ingin seluruh karakter selain main character (MC) tetap mati baik pada good ending maupun bad ending. Menurut saya, hal tersebut membuat cerita lebih konsisten dengan konflik dan konsekuensi yang sudah dibangun. Rendy tidak setuju dan ingin setidaknya ada satu karakter lain yang tetap hidup pada good ending agar ending tersebut memberikan perbedaan yang lebih jelas dari bad ending.
+Evidence
+Evidence yang dapat digunakan berupa riwayat chat atau catatan diskusi antara saya dan Rendy, draft cerita sebelum diskusi, serta draft cerita setelah kami mencapai kesepakatan.
+Kontribusi saya dalam episode ini adalah menyampaikan alasan di balik konsep ending yang saya usulkan, mendengarkan alasan Rendy, memberikan alternatif, dan ikut menentukan hasil akhir cerita.
+Catatan percakapan dapat direkonstruksi sebagai berikut:
+Saya: “Menurut gue, di semua ending karakter lain tetap mati dan cuma MC yang hidup. Jadi walaupun player dapat good ending, tetap ada konsekuensi dari semua kejadian sebelumnya.”
+Rendy: “Kalau good ending semuanya tetap mati juga, bedanya sama bad ending jadi kurang terasa. Menurut gue minimal ada satu karakter yang masih hidup.”
+Saya: “Tapi kalau tiba-tiba ada yang selamat, gue takut konsekuensi yang udah kita bangun dari awal malah jadi kurang kuat.”
+Rendy: “Bukan tiba-tiba selamat. Kita bisa bikin dari pilihan player sebelumnya. Kalau pilihannya benar, player punya kesempatan menyelamatkan satu karakter.”
+Saya: “Oh, jadi maksud lu bukan karakter itu otomatis hidup di good ending, tapi karena ada pilihan sebelumnya yang bikin dia bisa selamat?”
+Rendy: “Iya. Jadi pilihan player juga lebih berpengaruh.”
+Saya: “Kalau begitu gue lebih setuju. Konsekuensi ceritanya masih ada karena nggak semua orang selamat, tapi good ending juga punya hasil yang lebih baik dari bad ending.”
+Rendy: “Nah, itu maksud gue. Kita tinggal tentuin karakter mana dan pilihan apa yang bisa bikin dia selamat.”
+Saya: “Oke. Berarti bad ending tetap semua karakter selain MC mati, sedangkan good ending ada satu karakter yang bisa hidup karena keputusan player sebelumnya.”
+Bagian penting dari percakapan terjadi ketika saya mengatakan, “Jadi maksud lu bukan karakter itu otomatis hidup di good ending, tapi karena ada pilihan sebelumnya yang bikin dia bisa selamat?” Kalimat tersebut merupakan evidence listening karena saya tidak langsung membantah, tetapi mencoba mengulang kembali ide Rendy dengan pemahaman saya sendiri untuk memastikan maksudnya.
+Response Rendy kemudian membuat saya memahami bahwa usulnya bukan sekadar membuat karakter hidup agar ending terasa bahagia. Ia ingin keputusan player memiliki dampak yang lebih besar terhadap cerita. Informasi tersebut membuat saya mengubah response dan mulai mencari titik temu.
+Agreement akhirnya adalah bad ending tetap mempertahankan seluruh karakter selain MC mati, sedangkan pada good ending terdapat karakter yang dapat bertahan hidup sebagai konsekuensi dari pilihan player sebelumnya.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Person yang terlibat adalah saya dan Rendy sebagai teman satu kelompok. Dalam percakapan ini kami menjalankan character sebagai story writer. Walaupun kami berteman, responsibility saat percakapan bukan sekadar menjaga suasana tetap nyaman, tetapi menghasilkan keputusan cerita yang dapat digunakan kelompok.
+Objective & state
+Initial state adalah disagreement. Saya ingin semua karakter selain MC mati pada seluruh ending, sedangkan Rendy ingin ada karakter yang hidup pada good ending. Objective-nya bukan membuktikan ide siapa yang lebih benar, tetapi menghasilkan ending yang tetap konsisten dengan cerita sekaligus memberikan perbedaan yang bermakna antara good dan bad ending.
+Repertoire & language
+Pada awalnya repertoire saya lebih banyak berupa argument dan explanation, misalnya menjelaskan mengapa kematian karakter penting untuk konsekuensi cerita. Setelah mendengar penjelasan Rendy, saya menggunakan clarification dan paraphrase: “Jadi maksud lu bukan karakter itu otomatis hidup di good ending, tapi karena ada pilihan sebelumnya yang bikin dia bisa selamat?” Language tetap informal karena kami berteman dan berada pada posisi yang setara sebagai story writer.
+Response & adaptation
+Awalnya saya mempertahankan konsep bahwa semua karakter harus mati. Setelah Rendy menjelaskan bahwa karakter yang hidup dapat dikaitkan dengan pilihan player, saya mengubah response. Saya tidak lagi melihat usul tersebut sebagai pengurangan konsekuensi cerita, tetapi sebagai cara memperkuat pengaruh keputusan player.
+Agreement/action
+Agreement yang dicapai adalah bad ending membuat karakter selain MC mati, sedangkan good ending memungkinkan satu karakter tetap hidup karena keputusan player sebelumnya. Action berikutnya adalah menentukan karakter yang dapat diselamatkan dan memasukkan pilihan yang menjadi penyebabnya ke dalam alur cerita.
+Relationship outcome
+Sebelum percakapan, relationship state sempat menjadi lebih tegang karena kami sama-sama mempertahankan konsep cerita masing-masing. Setelah clarification dan listening, diskusi berubah menjadi problem-solving bersama. Sesudah percakapan, kami tetap dapat bekerja sebagai story writer dan memiliki konsep yang dapat dikembangkan bersama tanpa salah satu ide harus sepenuhnya dibuang.
+Penggunaan AI
+AI digunakan setelah diskusi untuk membantu saya menyusun kembali catatan percakapan menjadi analisis komunikasi yang lebih terstruktur, terutama dalam mengidentifikasi bagian listening, response, adaptation, agreement, dan relationship outcome.
+Instruksi penting yang diberikan kepada AI adalah menggunakan pengalaman nyata mengenai perdebatan antara saya dan Rendy sebagai story writer tanpa mengubah inti permasalahannya.
+Saya menggunakan struktur dan beberapa penjelasan yang dihasilkan AI, tetapi isi kejadian tetap saya sesuaikan dengan pengalaman sebenarnya. Jika terdapat dialog yang tidak sama persis dengan percakapan asli, dialog tersebut diperlakukan sebagai rekonstruksi isi percakapan, bukan kutipan verbatim.
+Untuk accuracy, saya memeriksa kembali apakah urutan disagreement, alasan saya, alasan Rendy, dan agreement sesuai dengan kejadian. Untuk privacy, informasi pribadi yang tidak berhubungan dengan tugas tidak dimasukkan. Untuk authority, keputusan mengenai cerita tetap berasal dari diskusi anggota kelompok, bukan keputusan AI.
+Hal yang tetap saya pelajari sebagai manusia adalah bahwa memahami alasan di balik pendapat orang lain dapat mengubah cara saya melihat suatu disagreement. Listening bukan hanya diam ketika orang lain berbicara, tetapi memastikan bahwa saya memahami maksud di balik pendapat tersebut sebelum memberikan response.
+Feedback dan tindak lanjut
+Feedback yang diterima: Dari response Rendy, saya memahami bahwa keberatan terhadap konsep awal saya bukan karena ia hanya menginginkan ending yang lebih bahagia. Rendy ingin pilihan player memiliki konsekuensi yang lebih terlihat. Penjelasan tersebut memberikan informasi baru yang sebelumnya belum saya pertimbangkan.
+Adaptation/replay: Pada awal percakapan saya lebih banyak mempertahankan ide bahwa semua karakter harus mati agar konsekuensi cerita tetap kuat. Setelah melakukan clarification terhadap pendapat Rendy, saya mengubah pendekatan dari mempertahankan satu konsep menjadi mencari cara agar dua objective dapat terpenuhi. Hasilnya, konsekuensi kematian karakter tetap ada, tetapi good ending memberikan kemungkinan menyelamatkan satu karakter melalui keputusan player.
+Jika percakapan tersebut diulang, saya akan lebih cepat bertanya mengenai alasan di balik usulan Rendy sebelum menjelaskan panjang lebar mengapa saya tidak setuju. Dengan begitu, disagreement dapat lebih cepat berubah menjadi diskusi mengenai kebutuhan cerita.
+Next practice: Ketika mengalami perbedaan pendapat dalam kerja kelompok, sebelum memberikan counter-argument saya akan melakukan minimal satu clarification atau paraphrase terhadap pendapat orang lain, misalnya, “Berarti yang lu maksud…?” untuk memastikan saya memahami objective mereka terlebih dahulu.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Saya dan Rendy dapat dipetakan sebagai teman sekaligus story writer dengan responsibility yang sama terhadap cerita.
+Objective & State
+3
+Initial state berupa disagreement dan objective berupa kesepakatan mengenai ending dapat diidentifikasi dengan jelas.
+Repertoire, Language & AI
+3
+Terdapat argument, explanation, clarification, paraphrase, dan perubahan language sesuai relationship; penggunaan AI juga dijelaskan.
+Response & Adaptation
+3
+Penjelasan Rendy mengenai pengaruh pilihan player memberikan informasi baru yang mengubah response saya.
+Agreement, Action & Relationship
+3
+Terdapat agreement konkret mengenai good dan bad ending, action berikutnya, serta perubahan relationship state dari perdebatan menjadi problem-solving bersama.
+Total: 15 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Naufal Rasya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://naufalrasya.github.io/kipp-students/index.html
+- https://naufalrasya.github.io/kipp-students/assets/logo.png
+- https://naufalrasya.github.io/kipp-students/course/index.html
+- https://naufalrasya.github.io/kipp-students/portfolio/index.html
+- https://naufalrasya.github.io/kipp-students/examples/index.html
+- https://naufalrasya.github.io/kipp-students/lk/index.html
+- https://naufalrasya.github.io/kipp-students/slides.html
+- https://naufalrasya.github.io/kipp-students/slides-pdf/index.html
+- https://naufalrasya.github.io/kipp-students/assessment/index.html
+- https://naufalrasya.github.io/kipp-students/about.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-01.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-02.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-04.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-05.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-06.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-07.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-08.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-09.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-10.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-11.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-12.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-13.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-14.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-15.html
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#relationship-conversation
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://naufalrasya.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://naufalrasya.github.io/kipp-students/portfolio/index.html#category=Fondasi
+- https://naufalrasya.github.io/kipp-students/portfolio/index.html#category=Relationship
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

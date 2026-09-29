@@ -1,0 +1,131 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 480
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://owen2907.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identifikasi Eksplisit: Elemen Relationship
+Episode yang Dianalisis
+Catatan Percakapan
+Analisis Relationship State & Respons
+Self-assessment
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Identifikasi Eksplisit: Elemen Relationship
+Sesuai dengan rubrik penilaian, berikut adalah daftar terpisah yang menunjukkan bukti eksplisit penerapan keterampilan relationship dalam percakapan ini:
+Evidence Listening (Mendengarkan & Validasi): Hadir secara utuh dan memvalidasi emosi lawan bicara (lelah dan burnout) tanpa langsung memotong dengan argumen atau solusi logis.
+Evidence Boundary (Menjaga Batasan): Menyadari batasan tanggung jawab dengan tidak mengambil alih penyelesaian masalah lawan bicara, melainkan membiarkan ia memegang kendali atas tugasnya sendiri.
+Evidence Request (Permintaan Terbuka): Meminta dan mendorong lawan bicara untuk merumuskan langkah pertamanya sendiri melalui pertanyaan pancingan yang memfasilitasi problem-solving.
+Episode yang Dianalisis
+Konteks Kejadian: Lawan bicara adalah pacar (inisial S). Ia sedang merasa sangat demotivasi (demot), kelelahan, dan stres karena beban tugas akademik yang menumpuk bersamaan dengan banyaknya tanggung jawab di berbagai kepanitiaan.
+Relationship State (Sebelum): Suasana cukup tegang dan berat. S dalam kondisi bad mood, stres, merasa kewalahan, dan bete meskipun tidak sampai marah-marah atau mengomel panjang lebar.
+Catatan Percakapan
+Tujuan: Mempraktikkan listening (memahami POV lawan bicara) dan menjaga boundary agar tidak langsung memberikan solusi instan, melainkan memberi ruang agar ia bisa menemukan solusinya sendiri.
+S: “Aku bener-bener capek dan demot banget hari ini. Tugas kuliah numpuk, belum lagi urusan kepanitiaan ini itu nggak ada yang kelar. Rasanya pengen nyerah aja.”
+Saya: (Praktik Listening & Validasi) “Wajar banget kalau kamu ngerasa demot dan capek parah. Beban kuliah aja udah berat, apalagi kamu harus ngerjain tanggung jawab panitia yang banyak itu. Pasti rasanya kewalahan banget.”
+S: “Iya, pusing banget. Aku bingung harus mulai dari mana saking banyaknya.”
+Saya: (Praktik Boundary & Request) “Pasti pusing. Kalau dari semua tanggungan itu, kira-kira ada nggak satu hal paling gampang yang kalau dikerjain sekarang, setidaknya bikin beban di kepalamu agak berkurang satu?”
+S: “Hmm… mungkin aku beresin laporan panitia yang ini dulu aja deh biar cepat kelar, baru nanti malam nyicil tugas kuliah yang deadline-nya masih lusa.”
+Analisis Relationship State & Respons
+Relationship State (Sesudah): Secara fisik, S mungkin masih merasa lelah dengan beban tugasnya. Namun secara emosional, ia menjadi lebih kalem, ketegangannya mereda, dan ia mulai memproses masalahnya secara logis alih-alih hanya meratapi rasa lelahnya.
+Evaluasi Tindakan: Pendekatan ini berhasil menjaga batasan (boundary). Dengan tidak langsung menyuapi S menggunakan solusi jadi, S merasa didengarkan keluhannya (listening). Saat ia menemukan urutan prioritasnya sendiri melalui pertanyaan pancingan (request), ada rasa pencapaian (accomplishment) kecil yang mengembalikan rasa kendalinya atas situasi tersebut.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Listening & Validation
+4
+Berhasil menahan diri untuk tidak langsung memberi solusi, fokus memahami dan memvalidasi kelelahan S di awal percakapan secara eksplisit.
+Clarity & Request
+4
+Menggunakan pertanyaan terbuka yang memancing lawan bicara untuk berpikir logis tanpa terkesan menggurui.
+Boundary
+4
+Menjaga batasan dengan sangat jelas: tidak mengambil alih penyelesaian masalah S, membiarkannya menemukan solusinya sendiri.
+Relationship Awareness
+4
+Sadar penuh akan kondisi emosi S sebelum (stres/bete) dan sesudah (lebih kalem dan logis) percakapan.
+Repair/Action
+4
+Menghasilkan tindakan nyata di mana S mulai menyusun prioritas penyelesaian tugas akademis dan panitianya secara mandiri.
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Owen Reyhan Martua Pasaribu
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://owen2907.github.io/kipp-students/index.html
+- https://owen2907.github.io/kipp-students/assets/logo.png
+- https://owen2907.github.io/kipp-students/course/index.html
+- https://owen2907.github.io/kipp-students/portfolio/index.html
+- https://owen2907.github.io/kipp-students/examples/index.html
+- https://owen2907.github.io/kipp-students/lk/index.html
+- https://owen2907.github.io/kipp-students/slides.html
+- https://owen2907.github.io/kipp-students/slides-pdf/index.html
+- https://owen2907.github.io/kipp-students/assessment/index.html
+- https://owen2907.github.io/kipp-students/about.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html
+- https://owen2907.github.io/kipp-students/portfolio/week-06.html
+- https://owen2907.github.io/kipp-students/portfolio/week-07.html
+- https://owen2907.github.io/kipp-students/portfolio/week-08.html
+- https://owen2907.github.io/kipp-students/portfolio/week-09.html
+- https://owen2907.github.io/kipp-students/portfolio/week-10.html
+- https://owen2907.github.io/kipp-students/portfolio/week-11.html
+- https://owen2907.github.io/kipp-students/portfolio/week-12.html
+- https://owen2907.github.io/kipp-students/portfolio/week-13.html
+- https://owen2907.github.io/kipp-students/portfolio/week-14.html
+- https://owen2907.github.io/kipp-students/portfolio/week-15.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html#identifikasi-eksplisit-elemen-relationship
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html#episode-yang-dianalisis
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html#catatan-percakapan
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html#analisis-relationship-state-respons
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

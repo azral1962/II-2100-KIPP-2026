@@ -1,0 +1,143 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 481
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://owen2907.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identifikasi Eksplisit: Bukti Adaptasi Umpan Balik
+Episode yang Dianalisis
+Terjemahan Lima Bahasa
+Alasan Perubahan Language dan Repertoire
+Feedback Understanding & Bukti Adaptasi
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Identifikasi Eksplisit: Bukti Adaptasi Umpan Balik
+Sesuai catatan revisi, berikut bukti nyata adaptasi pesan dari dua target audiens (Pacar dan Teman Mabar) yang awalnya menolak: 1. Pacar: Awalnya menolak karena merasa sudah janjian. Pesan saya ubah dengan memberikan alasan akademik yang mendesak (besok kuis) dan menawarkan kompensasi waktu jalan besok sorenya. Hasilnya dia setuju. 2. Teman Mabar: Awalnya maksa tetap main karena nanggung mau naik rank. Pesan saya ubah jadi lebih tegas menolak untuk malam ini tapi berjanji bakal bantu push rank besok sore. Hasilnya dia paham dan berhenti memaksa.
+Episode yang Dianalisis
+Core Meaning (Pesan Utama): Izin absen kumpul atau main game (push rank ML) malam ini karena mau fokus belajar kuis besok dan mengejar deadline tugas H-1.
+Terjemahan Lima Bahasa
+Target Audiens
+Peran/Karakter Saya
+Repertoar & Bahasa yang Digunakan
+Friend (Pacar S)
+Pasangan
+Casual, negosiatif; “Sayang, maaf banget malam ini aku skip kumpul dulu ya. Tugas lagi numpuk parah dan besok ada kuis. Kasih aku waktu buat fokus ngerjain ini ya.”
+Technical Peer (Teman Mabar ML)
+Teman satu party
+Santai, bahasa gamer; “Bro, malam ini gua pass dulu push rank-nya. Mau grinding materi kuis sama nyelesaiin tugas buat besok. Kalian gas duluan aja.”
+Manager (Dosen/Kajur)
+Mahasiswa
+Formal, sopan; “Selamat malam, Bapak/Ibu. Mohon maaf saya izin tidak mengikuti sesi diskusi malam ini karena harus memprioritaskan persiapan kuis besok pagi.”
+Customer (Anggota Kepanitiaan)
+Rekan kerja
+Profesional, informatif; “Halo teman-teman, malam ini saya izin slow response karena mau fokus persiapan kuis besok. Kalau ada urusan mendesak, drop chat aja di grup, besok pagi saya balas.”
+Public (Status WA/Instagram)
+Mahasiswa umum
+Singkat, deklaratif; “Mode fokus on. Off sosmed dan game dulu malam ini buat kejar deadline.”
+Alasan Perubahan Language dan Repertoire
+Inti pesannya sama (absen untuk belajar), tapi cara penyampaiannya berbeda agar tidak merusak hubungan. Kepada pacar bahasanya lebih personal karena ada ekspektasi waktu bersama. Kepada circle mabar bahasanya santai agar tidak merusak mood mereka. Kepada panitia, fokusnya memberi batasan waktu (boundary) agar mereka tahu kapan saya available kembali.
+Feedback Understanding & Bukti Adaptasi
+1. Target: Pacar (inisial S) * Feedback Awal: Saat saya izin belajar, dia menolak karena merasa malam ini jatahnya quality time. * Adaptasi Pesan: Saya mengubah cara penyampaian. Saya pertegas bahwa kuis ini sangat penting, tapi saya juga menawarkan ganti waktu. “Aku ngerti kamu bete, tapi kuis besok ini ngaruh banget ke nilai. Gimana kalau besok sore abis kuis kita jalan?” * Hasil Akhir: S akhirnya mengerti dan memberikan waktu untuk fokus tugas.
+2. Target: Teman Mabar ML * Feedback Awal: Teman mabar memaksa agar tetap ikut. “Ah elah sehari doang, nanggung nih 2 bintang lagi ke Mythic, gas lah bentar aja!” * Adaptasi Pesan: Saya tolak lagi tapi memberikan kepastian untuk besoknya. “Asli ga bisa bro, kalau maksa sekarang malah ga fokus mainnya. Besok sore abis ngampus gua janji temenin push sampe Mythic.” * Hasil Akhir: Teman mabar akhirnya berhenti memaksa dan membalas, “Yaudah aman, besok sore ya awas lu.”
+Self-assessment
+Dimensi
+Skor
+Alasan
+Konsistensi Makna
+4
+Pesan utama (absen buat belajar kuis) tetap sama di kelima target.
+Adaptasi Bahasa
+4
+Kosakata dan nada bicara disesuaikan dari yang paling formal sampai kasual.
+Adaptasi Repertoar
+4
+Terlihat perbedaan nyata antara negosiasi izin dan memberi batasan waktu (slow response).
+Realisme dan Konteks
+4
+Sangat relevan dengan keseharian mahasiswa (konflik tugas vs main/pacaran).
+Pengambilan Umpan Balik
+4
+Terdapat bukti nyata penolakan, adaptasi pesan, dan persetujuan akhir dari dua target yang berbeda (pacar dan teman mabar).
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Owen Reyhan Martua Pasaribu
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://owen2907.github.io/kipp-students/index.html
+- https://owen2907.github.io/kipp-students/assets/logo.png
+- https://owen2907.github.io/kipp-students/course/index.html
+- https://owen2907.github.io/kipp-students/portfolio/index.html
+- https://owen2907.github.io/kipp-students/examples/index.html
+- https://owen2907.github.io/kipp-students/lk/index.html
+- https://owen2907.github.io/kipp-students/slides.html
+- https://owen2907.github.io/kipp-students/slides-pdf/index.html
+- https://owen2907.github.io/kipp-students/assessment/index.html
+- https://owen2907.github.io/kipp-students/about.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html
+- https://owen2907.github.io/kipp-students/portfolio/week-01.html
+- https://owen2907.github.io/kipp-students/portfolio/week-02.html
+- https://owen2907.github.io/kipp-students/portfolio/week-03.html
+- https://owen2907.github.io/kipp-students/portfolio/week-05.html
+- https://owen2907.github.io/kipp-students/portfolio/week-06.html
+- https://owen2907.github.io/kipp-students/portfolio/week-07.html
+- https://owen2907.github.io/kipp-students/portfolio/week-08.html
+- https://owen2907.github.io/kipp-students/portfolio/week-09.html
+- https://owen2907.github.io/kipp-students/portfolio/week-10.html
+- https://owen2907.github.io/kipp-students/portfolio/week-11.html
+- https://owen2907.github.io/kipp-students/portfolio/week-12.html
+- https://owen2907.github.io/kipp-students/portfolio/week-13.html
+- https://owen2907.github.io/kipp-students/portfolio/week-14.html
+- https://owen2907.github.io/kipp-students/portfolio/week-15.html
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html#identifikasi-eksplisit-bukti-adaptasi-umpan-balik
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html#episode-yang-dianalisis
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html#terjemahan-lima-bahasa
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html#alasan-perubahan-language-dan-repertoire
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html#feedback-understanding-bukti-adaptasi
+- https://owen2907.github.io/kipp-students/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

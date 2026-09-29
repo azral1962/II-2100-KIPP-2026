@@ -1,0 +1,130 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 379
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Deskripsi Episode & Pemisahan Unsur Internal
+1. Peristiwa Nyata (Fact / Event)
+2. Emosi yang Muncul (Emotion)
+3. Cerita Awal / Reaksi Otomatis (Initial Story)
+4. Karakter Internal yang Dominan (Internal Character)
+Bagian B: Eksplorasi Narasi Alternatif
+Bagian C: Kesepakatan Internal & Bukti Tindakan (Response)
+1. Kesepakatan Internal (Internal Agreement)
+2. Pilihan Sikap & Tindakan Nyata (Choice & Action)
+Bagian D: Refleksi Perubahan (Reaction vs Response)
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+Tanggal Pengerjaan: 22 September 2026
+Bagian A: Deskripsi Episode & Pemisahan Unsur Internal
+1. Peristiwa Nyata (Fact / Event)
+Pada rapat kelompok mata kuliah minggu ini, pembagian pengerjaan bagian analisis dan penyusunan laporan diserahkan sebagian besar kepada saya tanpa diskusi mendalam mengenai beban kerja masing-masing anggota.
+2. Emosi yang Muncul (Emotion)
+Kesal, cemas, merasa kewalahan (overwhelmed), dan muncul rasa jengkel yang terpendam.
+3. Cerita Awal / Reaksi Otomatis (Initial Story)
+“Mereka sengaja mau enaknya saja dan menumpukkan bagian yang susah ke aku karena mikir aku bakalan nurut-nurut saja dan enggan buat protes.”
+4. Karakter Internal yang Dominan (Internal Character)
+Si Korban (The Victim): Suara dalam diri yang langsung membuat saya merasa tersudut, mengasihi diri sendiri, dan menganggap orang lain memanfaatkan kebaikan saya.
+Bagian B: Eksplorasi Narasi Alternatif
+Untuk menggeser reaksi emosional menjadi respons yang rasional, saya mencoba membangun dua narasi alternatif berikut:
+Narasi Alternatif 1 (Perspektif Empati & Keterbatasan):
+“Mungkin teman-teman kelompok memang belum benar-benar paham alur tugas ini atau merasa kebingungan mau mulai dari mana, sehingga mereka asal menunjuk tanpa niat buruk untuk memanfaatkan saya.”
+Narasi Alternatif 2 (Perspektif Pertumbuhan & Batas Diri):
+“Ini adalah momen bagi saya untuk belajar menetapkan batasan (boundary) dan mengomunikasikan pembagian kerja secara profesional tanpa harus merasa bersalah atau takut dinilai negatif.”
+Bagian C: Kesepakatan Internal & Bukti Tindakan (Response)
+1. Kesepakatan Internal (Internal Agreement)
+Saya sepakat dengan diri sendiri bahwa menyuarakan pembagian beban kerja yang adil bukanlah sebuah ketidaksobanan, melainkan bentuk tanggung jawab bersama agar proyek kelompok berjalan sehat tanpa ada pihak yang memendam kekesalan.
+2. Pilihan Sikap & Tindakan Nyata (Choice & Action)
+Pilihan Sikap: Menahan diri untuk tidak merajok atau menyindir di grup, serta tidak langsung menerima pengerjaan tugas secara pasrah.
+Tindakan Konkret: Mengirim pesan santun namun tegas di grup WhatsApp kelompok untuk mengajak call singkat selama 15 menit guna mengurai kembali pembagian indikator tugas agar lebih seimbang dan jelas targetnya.
+Bagian D: Refleksi Perubahan (Reaction vs Response)
+Reaksi Lama (Otomatis): Diam menyetujui di rapat, lalu mengeluh di belakang dan mengerjakan semuanya sendiri sambil memendam kekesalan.
+Respons Baru (Berkesadaran): Mengakui emosi kesal sejenak, membedakan fakta dari asumsi, lalu mengambil tindakan komunikasi yang jernih dan solutif demi kebaikan tim.
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-a-deskripsi-episode-pemisahan-unsur-internal
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#peristiwa-nyata-fact-event
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#emosi-yang-muncul-emotion
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#cerita-awal-reaksi-otomatis-initial-story
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#karakter-internal-yang-dominan-internal-character
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-b-eksplorasi-narasi-alternatif
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-c-kesepakatan-internal-bukti-tindakan-response
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#kesepakatan-internal-internal-agreement
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#pilihan-sikap-tindakan-nyata-choice-action
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html#bagian-d-refleksi-perubahan-reaction-vs-response
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,204 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 254
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core Meaning
+Konteks dan Peta Target
+Lima Versi Pesan
+Konsistensi Meaning
+Feedback Understanding
+Evidence
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Core Meaning
+Modus undangan palsu memanfaatkan file APK yang dikirim melalui chat dan dibuat seolah-olah sebagai dokumen biasa. Menerima file tidak berarti aplikasi langsung terpasang. Risiko meningkat ketika penerima memasang APK tersebut dan memberikan izin akses. Aplikasi berbahaya dapat mencoba membaca data sensitif seperti SMS, notifikasi, atau OTP dan menggunakannya untuk penipuan finansial. Karena itu, penerima perlu memeriksa jenis file serta pengirimnya dan tidak memasang APK yang dikirim melalui chat.
+Core meaning tersebut mengacu pada penjelasan Bank Indonesia mengenai penipuan file APK dan panduan Google mengenai aplikasi berbahaya serta restricted settings.
+Konteks dan Peta Target
+Saya menempatkan diri sebagai mahasiswa STI yang menyusun pesan edukasi keamanan digital. Kelima target berada dalam situasi yang berbeda meskipun menerima core meaning yang sama. Teman membutuhkan peringatan personal, rekan STI membutuhkan mekanisme teknis, ketua organisasi membutuhkan kebijakan untuk anggotanya, nasabah mobile banking membutuhkan langkah penanganan, dan pengguna WhatsApp secara umum membutuhkan peringatan yang singkat.
+Lima Versi Pesan
+Target
+Versi Pesan
+Alasan Adaptasi
+Friend (teman dekat pengguna WhatsApp)
+“San, hati-hati kalau dapat file undangan lewat WhatsApp. Cek dulu tipe filenya. Kalau ternyata APK, jangan diinstal meskipun nama atau tampilannya seperti PDF. Aplikasi itu bisa meminta izin untuk membaca SMS, notifikasi, atau OTP. Hapus filenya dan konfirmasi langsung ke pengirim.”
+Menggunakan bahasa santai, contoh WhatsApp, dan tindakan langsung karena hubungannya dekat. Istilah teknis dibatasi pada APK, SMS, dan OTP yang umum dikenali.
+Technical peer (rekan mahasiswa STI)
+“Modus undangan palsu memakai social engineering untuk mendorong korban melakukan sideload APK dari aplikasi pesan. File yang diterima tidak otomatis mengeksekusi kode. Risiko muncul setelah instalasi dan pemberian permission, misalnya akses SMS, notifikasi, atau Accessibility. Mitigasinya adalah memblokir instalasi dari sumber tidak dikenal, mengaktifkan Play Protect, memeriksa permission, dan memverifikasi sumber file.”
+Istilah sideload, permission, Accessibility, dan Play Protect digunakan karena target memiliki pengetahuan teknis. Penjelasan menekankan tahapan serangan dan mekanisme mitigasi.
+Manager (ketua organisasi kampus)
+“File undangan palsu yang dikirim melalui chat dapat membahayakan perangkat pribadi maupun data organisasi jika anggota memasang APK dan memberikan izin akses. Dampaknya dapat mencakup kebocoran OTP, notifikasi, atau dokumen kerja. Organisasi perlu melarang pemasangan APK dari chat, meminta anggota mengaktifkan Play Protect, dan menyediakan jalur pelaporan ketika ada file mencurigakan.”
+Ketua organisasi membutuhkan gambaran risiko, dampak terhadap anggota, dan keputusan yang dapat diterapkan. Detail teknis dibatasi pada hal yang diperlukan untuk menetapkan aturan.
+Customer (nasabah mobile banking)
+“Jika Anda menerima file undangan melalui chat, periksa nama dan jenis filenya sebelum membuka atau memasangnya. Jangan instal file berakhiran APK dari sumber yang tidak dikenal. Jika sudah terlanjur memasang aplikasi mencurigakan, putuskan koneksi internet, hapus aplikasinya, dan segera hubungi bank melalui kanal resmi.”
+Nasabah membutuhkan instruksi yang berurutan dan mudah dilakukan. Fokusnya adalah mencegah kerugian dan memberi langkah awal jika aplikasi sudah terpasang.
+Public (pengguna WhatsApp dan Android)
+“Waspada undangan palsu lewat chat. File yang terlihat seperti dokumen dapat berupa APK berbahaya. Jangan memasang APK dari pengirim yang tidak terverifikasi, periksa jenis file, dan gunakan aplikasi dari toko resmi. Jika terlanjur memasangnya, putuskan koneksi internet dan hubungi bank melalui kanal resmi.”
+Pengguna umum membutuhkan pesan ringkas tanpa banyak jargon serta tindakan yang dapat dilakukan segera.
+Konsistensi Meaning
+Kelima versi mempertahankan empat fakta yang sama:
+Pelaku menyamarkan atau mempresentasikan APK sebagai undangan atau dokumen.
+File tidak langsung memasang dirinya hanya karena diterima melalui chat.
+Risiko meningkat setelah APK dipasang dan mendapatkan izin akses.
+Penerima perlu memeriksa file, tidak memasang APK dari chat, dan mengambil tindakan jika sudah terlanjur memasangnya.
+Perubahannya berada pada pilihan istilah, tingkat detail, contoh, dan tindakan yang paling relevan bagi setiap target.
+Feedback Understanding
+Versi friend diuji kepada seorang teman dekat yang menggunakan WhatsApp dan perangkat Android. Setelah membaca pesannya, teman tersebut memberikan feedback:
+“ohh pahamm paham, berarti bahayanya tuh kalo aplikasinya udah diinstal kan, kalo masih nerima file di whatsapp doang belum bahaya. okedehh makasiih banyak infonya sann”
+Feedback tersebut menunjukkan bahwa target bukan hanya menyatakan paham, tetapi juga dapat menjelaskan kembali bahwa risiko utama muncul setelah APK dipasang. Target juga dapat membedakan antara sekadar menerima file di WhatsApp dan memasang aplikasi. Karena core meaning diterima dengan tepat, saya mempertahankan pilihan bahasa dan panjang versi friend.
+Evidence
+Evidence utama Week 4 ini adalah lima versi pesan pada tabel dan kutipan feedback dari target versi friend. Tautan Bank Indonesia dan Google berfungsi sebagai sumber pemeriksaan fakta teknis, bukan sebagai pengganti feedback target. Tidak ada screenshot yang digunakan. Feedback dicatat sebagai kutipan dari percakapan chat.
+Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & character
+Target dipetakan secara konkret: teman dekat pengguna WhatsApp, rekan mahasiswa STI, ketua organisasi kampus, nasabah mobile banking, dan pengguna WhatsApp atau Android secara umum. Kebutuhan informasi mereka dibedakan tanpa mengubah fakta dasarnya.
+Objective & state
+State awal setiap target berbeda. Teman dan public perlu mengenali modus, technical peer perlu memahami mekanisme, manager perlu menentukan aturan, sedangkan customer perlu mengetahui langkah penanganan. State tujuannya adalah setiap target memahami risiko dan tindakan yang sesuai dengan perannya.
+Repertoire & language
+Repertoire berubah dari peringatan personal, penjelasan teknis, ringkasan risiko organisasi, instruksi untuk nasabah, hingga pengumuman publik. Batas teknis bahwa file tidak otomatis terpasang tetap dipertahankan dan klaim diperiksa menggunakan sumber terkait.
+Response & adaptation
+Respons teman menunjukkan bahwa ia dapat membedakan tahap menerima file dan memasang APK. Karena core meaning dipahami dengan tepat, versi friend dipertahankan.
+Agreement & action
+Setiap versi memiliki tindakan yang jelas, seperti tidak memasang APK, memeriksa sumber, mengaktifkan perlindungan, atau menghubungi bank. Feedback target membuktikan pemahaman, tetapi belum membuktikan apakah tindakan tersebut akan dijalankan.
+Relationship outcome
+Versi friend menggunakan nada peringatan yang tetap akrab dan tidak menyalahkan target. Respons teman menunjukkan bahwa pesan diterima tanpa menimbulkan ketegangan.
+Penggunaan AI
+AI digunakan untuk membantu membedakan tingkat detail pada lima target dan memeriksa konsistensi core meaning. Saya tetap memeriksa klaim teknis menggunakan sumber Bank Indonesia dan Google.
+Feedback dan Tindak Lanjut
+Feedback yang diterima: “ohh pahamm paham, berarti bahayanya tuh kalo aplikasinya udah diinstal kan, kalo masih nerima file di whatsapp doang belum bahaya. okedehh makasiih banyak infonya sann” dari target versi friend.
+Adaptation/replay: Target dapat menjelaskan kembali bahwa risiko muncul setelah aplikasi dipasang, bukan saat file hanya diterima. Karena meaning dipahami dengan tepat, versi friend dipertahankan.
+Next practice: Setelah memeriksa pemahaman, saya akan melanjutkan dengan pertanyaan singkat mengenai tindakan yang akan dilakukan target jika menerima file serupa.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence Singkat
+Person & Character
+3
+Lima target dibedakan berdasarkan kebutuhan dan tanggung jawab, bukan stereotipe.
+Objective & State
+3
+Core meaning dan perubahan pemahaman yang dituju konsisten pada semua versi.
+Repertoire, Language & AI
+4
+Lima repertoire memiliki target konkret, rationale yang jelas, batas teknis yang konsisten, dan pemeriksaan fakta menggunakan sumber terkait.
+Response & Adaptation
+3
+Respons target digunakan untuk mempertahankan versi friend dan memperbaiki metode checking understanding berikutnya.
+Agreement, Action & Relationship
+3
+Setiap versi memiliki tindakan yang spesifik dan nada versi friend tetap menjaga hubungan.
+Total: 16 / 20, Kompeten
+Assessment Dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Ihsan Fadhlih Akbar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://frnkensteinn.github.io/kipp-students/index.html
+- https://frnkensteinn.github.io/kipp-students/assets/logo.png
+- https://frnkensteinn.github.io/kipp-students/course/index.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/index.html
+- https://frnkensteinn.github.io/kipp-students/examples/index.html
+- https://frnkensteinn.github.io/kipp-students/lk/index.html
+- https://frnkensteinn.github.io/kipp-students/slides.html
+- https://frnkensteinn.github.io/kipp-students/slides-pdf/index.html
+- https://frnkensteinn.github.io/kipp-students/assessment/index.html
+- https://frnkensteinn.github.io/kipp-students/about.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-03.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-06.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-08.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-09.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-10.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-11.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-12.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-13.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-14.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-15.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#konteks-dan-peta-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#lima-versi-pesan
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#konsistensi-meaning
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#feedback-understanding
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://frnkensteinn.github.io/kipp-students/examples/week-04.html
+- https://www.bi.go.id/id/publikasi/ruang-media/cerita-bi/Pages/modus-penipuan-online-apk.aspx
+- https://support.google.com/android/answer/12623953?hl=en
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

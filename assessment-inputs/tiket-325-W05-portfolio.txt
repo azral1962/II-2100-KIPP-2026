@@ -1,0 +1,172 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 325
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://yoofromlv.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery interview bersama There (rekan live reporter AsMeng Kidang Pinanjung) mengenai masalah keterlambatan materi publikasi kegiatan.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Sabtu sore , 4 Oktober 2025 , pukul 17.00 WIB di pendopo lokasi AsMeng Kidang Pinanjung , sekitar 20 menit setelah sesi mengajar anak-anak selesai. Sesi diskusi santai dilakukan dua orang antara saya dan There (Theresia).
+Persons dan relationship: Saya (live reporter AsMeng) dan There (rekan sesama live reporter dan penanggung jawab materi dokumentasi lapangan). Hubungan kerja sejajar , saling percaya , dan terbiasa berkoordinasi dalam tim AsMeng Kidang Pinanjung bersama Chasey.
+Objective dan initial state: Saya masuk ke percakapan dengan asumsi bahwa rendahnya engagement unggahan live report AsMeng di media sosial disebabkan oleh kurangnya frekuensi postingan dari tim. Saya berencana mengusulkan penambahan jumlah postingan harian. Namun sebelum mengajukan solusi , saya ingin menguji asumsi ini bersama There untuk membedakan antara gejala permukaan (request) dan akar masalah (problem) serta menyepakati shared problem statement.
+Evidence
+Catatan wawancara penemuan masalah (discovery interview) dirangkum dari memori segera setelah diskusi selesai.
+Initial assumption sebelum interview: - Rendahnya keterlibatan (engagement) publik terjadi karena jumlah unggahan live report kurang banyak. - Pengajar di lapangan kurang disiplin dalam mengabadikan momen mengajar. - Solusi bayangan awal: Mewajibkan setiap pengajar mengirim minimal 5 foto per sesi dan menambah jadwal unggah menjadi 4 kali sehari.
+Pertanyaan discovery yang disiapkan: 1. Bisa ceritain alur pengumpulan foto dan video dari pengajar di lapangan sampai masuk ke kita sebagai tim live reporter? 2. Di bagian mana persisnya proses pelaporan ini paling sering mengalami hambatan? 3. Apa dampak konkret yang terasa pada hasil publikasi AsMeng saat alur tersebut terhambat? 4. Kendala utama apa yang sebenarnya dihadapi teman teman di lokasi Kidang Pinanjung saat sesi mengajar berlangsung? 5. Hal apa dari alur pelaporan sekarang yang sudah berjalan baik dan tidak boleh diubah?
+Ringkasan percakapan (sekitar 20 menit):
+Saya: “There , gue lagi mau evaluasi keterlibatan publikasi AsMeng Kidang Pinanjung nih. Sebelum gue bikin usulan baru , boleh ceritain dulu alur pengumpulan materi dari lapangan sampai ke tangan kita?” There: “Alurnya sebenarnya pengajar ambil foto saat mengajar , lalu dikirim ke grup internal. Masalahnya , foto-foto itu baru masuk ke kita malam hari setelah semua kegiatan kelar.” Saya: “Jadi hambatan utamanya bukan di kesediaan mereka ambil foto , tapi di waktu pengirimannya ke kita?” There: “Iya betul. Di lokasi mengajar Kidang Pinanjung itu sinyal seluler sangat minim. Selain itu , para pengajar fokus penuh mendampingi anak-anak , jadi ga sempat milih dan kirim foto saat sesi berlangsung.” Saya: “Apa dampak konkretnya ke publikasi kita kalau materi baru terkumpul malam hari?” There: “Kita baru bisa unggah live report jam 10 malam. Pada jam segitu , audiens media sosial sudah tidak aktif , jadi jangkauan dan engagement konten kita drop drastis. Kita juga sebagai live reporter jadi kelelahan harus mengedit malam-malam.” Saya: “Kendala utamanya berarti murni di ketersediaan jaringan dan keterbatasan waktu pengajar ya?” There: “Betul banget. Jadi kalau dipaksa nambah jumlah postingan , malah makin memberatkan tim lapangan dan kita sendiri.” Saya: “Hal apa yang menurut lo sudah oke dan jangan diubah dari sistem sekarang?” There: “Kualitas foto dari pengajar sebenarnya sudah bagus banget dan alami. Momen anak-anak belajar dapet banget , cuma masalah timing kirimnya aja.”
+Pembaruan pembacaan setelah interview:
+Asumsi awal saya (“jumlah postingan kurang”) terbukti keliru. Jumlah foto memadai dan pengajar aktif mengambil dokumen. Root cause yang muncul: keterbatasan sinyal lokasi dan fokus pengajar menyebabkan penumpukan pengiriman materi di malam hari (bottleneck) , sehingga waktu unggah melewati jam efektif audiens.
+Shared problem statement yang dikonfirmasi There:
+“Tim live reporter AsMeng Kidang Pinanjung membutuhkan alur pengumpulan materi dokumentasi yang ringkas saat jeda istirahat tanpa mengganggu fokus mengajar dan terkendala sinyal lokasi , karena keterlambatan penerimaan materi membuat publikasi terpaksa terunggah larut malam saat engagement audiens sudah turun drastis.”
+Saya membacakan ulang rumusan ini kepada There. There menyetujui penuh rumusan masalah bersama ini sebelum kami mendiskusikan opsi solusi teknis lebih lanjut.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+There diperlakukan sebagai pemilik otoritas lapangan yang paham kendala riil Kidang Pinanjung. Pertanyaan diawali dengan kata buka “bisa ceritain” tanpa menggiring lawan bicara ke asumsi pribadi.
+Objective & state
+Saya menetapkan asumsi awal secara tertulis lalu siap mengujinya di lapangan. Saat data menunjukkan bahwa masalahnya adalah timing pengiriman dan sinyal , saya langsung membuang hipotesis awal tanpa bersikap defensif.
+Repertoire & language
+Menggunakan teknik pemisahan antara Problem (sinyal dan keterlambatan kirim) , Need (alur pengumpulan saat jeda) , Request (keinginan unggah tepat waktu) , dan Solution (opsi teknis). Paraphrase digunakan untuk mengunci fakta sebelum masuk ke rumusan masalah.
+Response & adaptation
+Terjadi adaptasi real-time saat mendapati fakta bahwa menambah postingan justru akan merusak alur kerja tim. Diskusi dialihkan dari kuantitas konten menuju efisiensi alur pengiriman.
+Agreement/action
+Shared problem statement dirumuskan bersama , dibacakan ulang , dan dikonfirmasi oleh There sebelum ada proposal solusi yang diajukan.
+Relationship outcome
+There merasa dihargai karena kendala teknis tim lapangan dipahami dengan baik. Kerjasama di divisi live reporter bersama There dan Chasey menjadi lebih solid.
+Penggunaan AI
+AI tidak digunakan dalam percakapan wawancara maupun penyusunan shared problem statement. AI hanya dimanfaatkan setelah wawancara selesai untuk membantu memetakan dan memberi label pada kutipan transkrip ke dalam kategori Problem , Need , Constraint , dan Solution agar analisis dokumen menjadi rapi dan terstruktur.
+Feedback dan tindak lanjut
+Feedback yang diterima: There mengonfirmasi bahwa pendekatan mendengarkan terlebih dahulu membuat tim merasa tidak dipojokkan oleh target publikasi media sosial.
+Adaptation/replay: Rumusan shared problem statement yang telah dikonfirmasi dijadikan dasar bersama untuk menyusun alur pengumpulan materi via satu penanggung jawab lapangan saat jam istirahat siang.
+Next practice: Selalu memverifikasi constraint teknis lapangan (seperti ketersediaan sinyal dan beban kerja partner) sebelum merancang target kinerja baru.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Partner diwawancarai sebagai pemegang otoritas lapangan , pertanyaan bersifat terbuka tanpa menggiring
+Objective & State
+4
+Asumsi awal diuji dan terbukti salah , adaptasi pemikiran dilakukan seketika berbasis data wawancara
+Repertoire, Language & AI
+4
+Membedakan problem, need, dan constraint dengan jelas; paraphrase digunakan secara tepat; AI hanya untuk pelabelan post-interview
+Response & Adaptation
+4
+Mengikuti alur fakta lapangan dan mengabaikan rencana awal penambahan jumlah postingan
+Agreement, Action & Relationship
+3
+Shared problem statement dikonfirmasi bersama There sebelum menyusun solusi , pengujian efektivitas alur baru masih berjalan
+Total: 19/20 - Lanjut. Seluruh indikator utama komunikasi discovery telah dipenuhi. Proses pengujian asumsi berhasil mengubah pandangan awal dan menghasilkan shared problem statement yang disepakati bersama partner kerja , walaupun implementasi alur pengumpulan materi yang baru masih memerlukan evaluasi pada kegiatan AsMeng berikutnya.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Tio Christian Doly Silitonga
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://yoofromlv.github.io/kipp-students/index.html
+- https://yoofromlv.github.io/kipp-students/assets/logo.png
+- https://yoofromlv.github.io/kipp-students/course/index.html
+- https://yoofromlv.github.io/kipp-students/portfolio/index.html
+- https://yoofromlv.github.io/kipp-students/examples/index.html
+- https://yoofromlv.github.io/kipp-students/lk/index.html
+- https://yoofromlv.github.io/kipp-students/slides.html
+- https://yoofromlv.github.io/kipp-students/slides-pdf/index.html
+- https://yoofromlv.github.io/kipp-students/assessment/index.html
+- https://yoofromlv.github.io/kipp-students/about.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-02.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-03.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-04.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-08.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-09.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-10.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-11.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-12.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-13.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-14.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-15.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://yoofromlv.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

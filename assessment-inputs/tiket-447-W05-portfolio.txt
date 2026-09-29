@@ -1,0 +1,199 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 447
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://matematikal.github.io/kipp-studentt/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Discovery Interview — Motivasi & Persepsi Gambar Teknik – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
+🛠️ FASE 1: PERSIAPAN & WAWANCARA (5 PERTANYAAN PENEMUAN)
+💡 Repertoar Pertanyaan Profesional Tambahan:
+📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
+👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+Evidence
+✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+📐 Formula Standar:
+✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+🎯 FASE 4: REFLEKSI INTRAPRIBADI
+📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Professional
+Discovery
+Discovery menuju shared problem statement mengenai persepsi awal terhadap mata kuliah Gambar Teknik.
+LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+Materi Pendamping Penugasan Bab 5: Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama
+“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.” — Komunikasi Interpersonal dan Publik, Bab 5
+📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
+Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah terlalu cepat menyodorkan solusi atau membuat fitur sebelum benar-benar memahami masalahnya. Permintaan awal dari rekan kerja atau pelanggan (seperti meminta dibuatkan “aplikasi baru”, “pemberitahuan SMS”, atau “sistem pencatatan otomatis”) sering kali bukanlah solusi terbaik. Kebutuhan nyata mereka mungkin hanyalah akses informasi yang lebih cepat, kejelasan pembagian tugas, atau pengurangan waktu tunggu.
+Lembar kerja ini dirancang untuk menuntun Anda melakukan Wawancara Penemuan Kebutuhan yang berempati, mendengarkan secara mendalam sebelum menjelaskan, serta merumuskan Pernyataan Masalah Pelanggan (Customer Problem Statement) secara presisi.
+🛠️ FASE 1: PERSIAPAN & WAWANCARA (5 PERTANYAAN PENEMUAN)
+Sebelum melakukan wawancara selama 15–20 menit dengan narasumber (rekan kerja, mahasiswa, staf kampus, atau pemilik usaha mikro di sekitar Anda), pelajari 5 Pertanyaan Penemuan berikut yang berfungsi sebagai kompas penelusuran Anda:
+Apa yang sedang terjadi? (Minta contoh peristiwa secara konkret, bukan penjelasan umum).
+Mengapa hal itu menjadi masalah? (Temukan dampak nyata, beban, kerugian, atau hambatan emosionalnya).
+Siapa yang terdampak? (Kenali pribadi dan peran spesifik mereka dalam sistem tersebut).
+Keadaan yang lebih baik seperti apa? (Rumuskan hasil akhir yang diharapkan, bukan berupa fitur atau teknologi tertentu).
+Apa kendalanya? (Periksa batas-batas nyata seperti waktu, biaya, kebijakan, kemampuan teknis, dan risiko).
+💡 Repertoar Pertanyaan Profesional Tambahan:
+Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan berikut secara proporsional: * Pertanyaan Tertutup (Memastikan fakta): “Apakah laporan ini dikirimkan setiap hari Senin?” * Pertanyaan Klarifikasi (Memeriksa istilah): “Apa yang Ibu maksud dengan sistem yang ‘siap digunakan’?” * Pertanyaan Dampak (Memahami akibat): “Siapa saja yang akan terhambat jika data ini terlambat Anda terima?” * Pertanyaan Masa Depan (Merumuskan hasil): “Jika masalah ini selesai, seperti apa alur kerja ideal yang Anda bayangkan?”
+⚠️ Pemberitahuan Etis & Privasi: Pastikan Anda mendapatkan persetujuan lisan/tertulis dari narasumber, jelaskan bahwa data sensitif mereka akan dilindungi/disamarkan, dan wawancara bersifat sukarela.
+📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
+👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+Nama Samaran: Fal
+Peran/Pekerjaan Nyata: Mahasiswa Teknik Biomedis
+Domain Hubungan: Rekan Mahasiswa
+Konteks Lingkungan: Studio Gambar Teknik / Laboratorium Rekayasa Biomedis & Perancangan Alat Kesehatan
+📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+Evidence
+Aku: “Bisa ceritakan pengalaman konkret minggu lalu saat kamu mengerjakan tugas Gambar Teknik untuk perancangan instrumen medis?”
+Fal: “Wah, itu pas hari Kamis kemarin. Saya ada tugas bikin sketsa dan model CAD 3D untuk cangkang (enclosure) alat pemantau denyut jantung. Saya sudah luangkan waktu sekitar 7 jam dari malam sampai subuh buat bikin modelnya. Tapi pas asistensi sama asisten lab di hari Jumat pagi, pengerjaan saya ditolak total karena penentuan sudut proyeksi Eropa/Amerika-nya terbalik dan toleransi geometrisnya ngasal.”
+Aku: “Apa dampak langsung dari penolakan itu ke kamu, baik secara waktu maupun emosional?”
+Fal: “Dampaknya kerasa banget. Saya harus rework total dari nol pada H-1 deadline pengumpulan ulang. Waktu yang harusnya dipakai buat belajar kuis Kimia dan Pemrograman jadi tersita. Secara emosional jujur stres dan burnout banget, sampai sempat ragu apakah saya salah masuk jurusan karena merasa dipaksa jadi anak Teknik Mesin murni.”
+Aku: “Selain kamu sendiri, siapa saja pihak lain yang ikut terdampak oleh persoalan ini?”
+Fal: “Teman-teman seangkatan di Biomedis rata-rata mengalami hal serupa, jadi suasana kelas agak demotivasi. Asisten lab juga keteteran karena harus mengoreksi kesalahan mendasar yang sama berulang kali. Efek panjangnya, pas nanti kerja kelompok interdisiplin sama anak STI buat integrasi hardware ke software, komunikasi teknis kita bakal terhambat kalau standar bacanya beda.”
+Aku: “Tanpa menyebutkan alat atau aplikasi canggih, situasi ideal seperti apa yang sebenarnya kamu harapkan?”
+Fal: “Saya butuh pemahaman mendasar dulu tentang kenapa anak Biomedis harus belajar Gambar Teknik fisik ini dan bagaimana hubungannya dengan sistem medis yang diintegrasikan ke perangkat lunak/sensor. Selain itu, saya butuh acuan verifikasi mandiri buat mengevaluasi kebenaran aturan gambar saya sebelum maju ke asisten.”
+Aku: “Apa saja kendala atau constraint nyata di lapangan yang membatasi kamu saat ini?”
+Fal: “Waktu tatap muka asistensi terbatas banget, cuma sekitar 10 sampai 15 menit per orang. Spesifikasi laptop teman-teman juga beda-beda kalau menjalankan software berat, ditambah jadwal praktikum lab Biomedis lain sudah sangat padat di semester awal ini.”
+Pertanyaan 1: Kejadian Nyata & Contoh Konkret
+Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber: > Saat menyusun sketsa dan model CAD 3D untuk modul cangkang (enclosure) alat pemantau denyut jantung, Fal menghabiskan waktu lebih dari 7 jam. Namun saat asistensi, pekerjaannya ditolak oleh asisten laboratorium karena tidak memenuhi toleransi presisi geometri dan standar proyeksi teknis. Fal juga kebingungan bagaimana standar gambar teknis fisik ini nantinya diintegrasikan dengan komponen elektronik/sensor dan antarmuka sistem informasi medis.
+Pertanyaan 2: Dampak Nyata & Beban Masalah
+Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka: > Fal harus melakukan rework total pada H-1 tenggat waktu pengumpulan. Hal ini memotong waktu belajarnya untuk mata kuliah Sains Dasar dan Pemrograman, serta memicu tingkat kecemasan (burnout) tinggi karena merasa tidak memiliki intuisi keruangan dan standar rekayasa medis yang benar.
+Pertanyaan 3: Pemetaan Pihak Terdampak
+Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini? > Mahasiswa Teknik Biomedis (mengalami krisis motivasi dan alokasi waktu), Asisten Praktikum (waktu terbuang untuk mengoreksi kesalahan mendasar yang sama secara berulang), serta Tim Proyek Multidisiplin (hambatan komunikasi teknis antara perancang fisik alat medis dan pengembang sistem informasinya).
+Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)
+Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya. > Mahasiswa memiliki pemahaman yang jelas mengenai keterkaitan Gambar Teknik dengan standar manufaktur perangkat medis, serta memiliki panduan acuan verifikasi mandiri (self-check checklist) sebelum maju ke sesi asistensi resmi.
+Pertanyaan 5: Batasan & Kendala Lapangan
+Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka? > Ketersediaan waktu tatap muka asistensi sangat terbatas (sekitar 10–15 menit per mahasiswa), variasi spesifikasi komputer perorangan dalam menjalankan perangkat lunak CAD, serta padatnya jadwal praktikum laboratorium lain.
+✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasumber Anda. Aturan utama: Pernyataan ini TIDAK BOLEH menyebutkan solusi teknis (seperti aplikasi, website, database, dll.)!
+📐 Formula Standar:
+[Pribadi/Peran] mengalami [keadaan yang dapat diamati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].
+💡 Contoh Model Buku (Kasus Kantin Kampus):
+Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.
+✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+Susun draf pertama Anda setelah selesai mewawancarai narasumber: > Mahasiswa Teknik Biomedis mengalami kesulitan memahami standar presisi dan proyeksi Gambar Teknik ketika menyelesaikan tugas perancangan alat kesehatan, sehingga waktu pengerjaan membengkak, pengerjaan ulang tinggi, dan timbul kecemasan belajar. Ia membutuhkan kejelasan pemahaman aturan gambar teknis serta instrumen validasi mandiri sebelum asistensi, dengan mempertimbangkan keterbatasan waktu interaksi dengan asisten laboratorium dan padatnya beban praktikum.
+🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+Bacakan draf pertama Anda kepada narasumber, minta masukan mereka (“Apakah rumusan ini menggambarkan situasi Anda?”), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber: > Mahasiswa Teknik Biomedis mengalami krisis motivasi dan kecemasan akibat tingginya tingkat kesalahan aturan proyeksi serta ketidakjelasan relevansi Gambar Teknik fisik terhadap integrasi sistem medis ketika mengerjakan tugas perancangan instrumen, sehingga waktu belajar mata kuliah utama tersita dan pengerjaan ulang harus dilakukan berulang kali. Ia membutuhkan pemahaman konteks penerapan Gambar Teknik dalam ekosistem perangkat medis terintegrasi serta panduan validasi mandiri sebelum asistensi, dengan mempertimbangkan alokasi waktu asistensi yang terbatas dan keterbatasan daya dukung perangkat keras.
+🎯 FASE 4: REFLEKSI INTRAPRIBADI
+Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini: 1. Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan? 2. Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh? 3. Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?
+Jurnal Refleksi: Sebagai mahasiswa Sistem dan Teknologi Informasi (STI), dorongan awal saya adalah langsung menawarkan solusi teknologis seperti “membuatkan aplikasi pemeriksa berkas CAD otomatis” atau “membuatkan repositori materi berbasis web”. Saya harus menahan ego tersebut untuk mendengarkan beban emosional dan hambatan pemahaman nyata yang dialami Aris.
+Asumsi awal saya mengira mahasiswa Teknik Biomedis kesulitan sekadar karena pengoperasian perangkat lunak CAD. Namun, wawancara mendalam membuktikan bahwa akar masalahnya terletak pada ketiadaan titik temu antara perancangan fisik medis dengan integrasi sistem serta ketiadaan alat verifikasi mandiri sebelum asistensi.
+Langkah nyata yang segera saya lakukan untuk menjaga kepercayaan profesional adalah menyusun ringkasan panduan verifikasi mandiri (checklist) standar gambar teknis serta membagikan peta pemikiran (mindmap) sederhana mengenai bagaimana rancangan fisik Biomedis berinteraksi dengan Sistem & Teknologi Informasi (seperti IoT Medis dan UI/UX instrumen medis) dalam waktu 1x24 jam.
+📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
+Kriteria Evaluasi
+⭐ Belum Tampak (Skor < 60)
+⭐⭐ Mulai Berkembang (Skor 60-79)
+⭐⭐⭐ Cakap / Unggul (Skor 80-100)
+Skor Mandiri
+Kualitas Mendengarkan
+Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah.
+Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak.
+Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh.
+92
+Ketepatan Rumusan Masalah
+Rumusan masalah masih berupa usulan solusi teknis (misal: “Memerlukan aplikasi database”).
+Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber.
+Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi.
+90
+Etika & Penjagaan Privasi
+Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber.
+Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif.
+Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati.
+95
+Keandalan & Hubungan
+Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber.
+Menyatakan batas secara umum namun tindak lanjutnya masih mengambang.
+Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya.
+95
+Total: 93/100 — Unggul.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Muhammad Aquilla Arizqy
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://matematikal.github.io/kipp-studentt/index.html
+- https://matematikal.github.io/kipp-studentt/assets/logo.png
+- https://matematikal.github.io/kipp-studentt/course/index.html
+- https://matematikal.github.io/kipp-studentt/portfolio/index.html
+- https://matematikal.github.io/kipp-studentt/examples/index.html
+- https://matematikal.github.io/kipp-studentt/lk/index.html
+- https://matematikal.github.io/kipp-studentt/slides.html
+- https://matematikal.github.io/kipp-studentt/slides-pdf/index.html
+- https://matematikal.github.io/kipp-studentt/assessment/index.html
+- https://matematikal.github.io/kipp-studentt/about.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-01.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-02.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-03.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-08.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-09.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-10.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-11.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-12.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-13.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-14.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-15.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#lembar-kerja-praktis-wawancara-penemuan-kebutuhan-formula-pernyataan-masalah-pelanggan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#pengantar-nilai-ada-dalam-pengalaman-penerima
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#fase-1-persiapan-wawancara-5-pertanyaan-penemuan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#repertoar-pertanyaan-profesional-tambahan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#fase-2-lembar-pengerjaan-mahasiswa
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#profil-narasumber-disamarkan-demi-privasi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#log-catatan-wawancara-gunakan-5-pertanyaan-penemuan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#evidence
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#fase-3-formulasi-pernyataan-masalah-pelanggan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#formula-standar
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#draft-1-pernyataan-masalah-awal-sebelum-konfirmasi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#fase-4-refleksi-intrapribadi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html#fase-5-rubrik-penilaian-mandiri-self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

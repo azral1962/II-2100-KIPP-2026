@@ -1,0 +1,175 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 507
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, dan repair saat perdebatan desain maskot Hackathon.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+Konteks performance
+Tanggal dan setting: Sesi kerja kelompok offline dan koordinasi lanjutan via grup WhatsApp pada hari Sabtu, 26 September 2026 dalam rangka persiapan lomba AI Hackathon. Percakapan intens terjadi saat kami sedang melakukan finalisasi aset visual (logo dan maskot).
+Persons dan relationship: Saya berkomunikasi dengan tiga rekan satu tim: G (bertindak sebagai desainer utama), J, dan T. Hubungan kami adalah teman dekat, namun memiliki ego dan selera masing-masing dalam urusan desain.
+Objective dan initial state: Kami menghadapi kebuntuan dalam memilih desain maskot. G membuat 3 opsi: 1 desain 3D menggunakan AI, 1 desain ilustrasi manual (dengan warna hitam dan putih), dan 1 desain minimalis menggunakan Canva. Initial state: Tensi cukup tinggi (Ketegangan 7/10). Saya menyukai desain ilustrasi manual (agar tidak terlihat AI slop), J menyukai desain AI 3D (karena terlihat canggih), dan T menyukai desain Canva yang minimalis. Ada juga miskomunikasi di mana T mengira saya menyetujui logo Canva, padahal saya bermaksud memilih desain ilustrasi manual. Objective saya: meluruskan miskomunikasi pilihan logo dan mencapai kesepakatan desain maskot final tanpa saling menjatuhkan selera anggota tim.
+Evidence
+Bagian 1: Transkrip Obrolan Grup WhatsApp (Miskomunikasi Penggunaan Logo pada Website) (Percakapan malam harinya terkait integrasi logo hitam-putih ke dalam kode website)
+G: “@T bisa ga kodingannya dibuat berdasarkan dark/bright mode nya? kalo bisa logo nya pake yg hitam putih ini aja. soalnya kalo yg logo minimalis agak kurang ga si? trus kalo yg item sm putih itu mnrt gw ga ai slop, uda bagus”
+T: “bisa, di darkmode dia putih, di light mode dia hitam”
+Saya: “bah, kalo mau pake item putih gw si stuju aja, soalnya klo cari warna lagi si G blm tau mau warna apa tadi katanya”
+(Keesokan paginya)
+Saya: “wah T lu ga ngerti maksud gua kah? pake yg ini pas background putih, pake yg ini pas background hitam”
+Saya: “maksud gw logonya pake yg manual itu loh bukan yg canva”
+T: “lah gajadi pake yg minimalis? lu ga ada ngomong disini pake yg itu. gw kira pake yg dari canva. tinggal kelarin aja sih sama penamaan sisanya pas”
+Saya: “walah gw kira udah paham. Ohh coba dipasang dlu, nnti G kasih yg HD lagi, itu kan belum kelar”
+Bagian 2: Rekonstruksi Percakapan Langsung (Offline) saat Perdebatan Maskot
+J: “Gua kurang sreg sama yang manual atau minimalis. Desain 3D dari AI ini paling masuk akal, kelihatannya lebih proper dan modern.”
+Saya: “Gua ngerti maksud lo J, kelihatannya memang lebih mulus. Tapi jujur, gua khawatir. Ini lomba AI Hackathon, kalau aset visual kita murni generate AI tanpa sentuhan personal, juri mungkin mikir kita kurang effort dan kelihatan AI slop banget.”
+T: “Kalau gitu pakai yang Canva aja, minimalis tapi aman.”
+G (Desainer): “Tapi yang Canva terlalu basic, jujur gua ngerasa kurang nendang buat lomba gede begini.”
+Saya: “Gini ges. Gua perhatiin kita udah sejam muter-muter debat selera masing-masing. Gua ngerasa agak pusing dan khawatir kita bakal buang waktu terlalu banyak di aset visual padahal codingan utama belum kelar. Kita butuh satu keputusan final sekarang yang paling rasional buat kriteria lomba AI ini. Gimana kalau kita kompromi untuk pakai desain AI 3D pilihan J karena relevan dengan tema lomba, TAPI G tolong retouch atau edit warnanya secara manual biar nggak kelihatan terlalu mentah dari prompt AI nya. Kalian setuju nggak?”
+J, T, & G: “Nah, boleh deh gitu.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Dalam debat awal, saya melihat J, T, dan G sebagai rekan tim dengan fokus yang berbeda. G fokus pada estetika, J pada kesan teknologi, dan T pada kesederhanaan. Dengan memahami meaning di balik preferensi mereka, saya bisa menemukan jalan tengah.
+Objective & state
+State awal: Ketegangan 7/10 karena ego desain masing-masing. Objective saya adalah efisiensi waktu kerja dan mencapai mufakat. Daripada memaksakan desain manual pilihan saya, saya mengubah state menjadi kolaboratif dengan merelakan pilihan ego saya sendiri demi tujuan bersama yang lebih rasional (pakai 3D AI yang di-retouch).
+Repertoire & language
+Saya menggunakan struktur O-F-N-R pada perdebatan langsung untuk mencegah debat kusir. Saya menyampaikan (boundary) secara jelas tanpa menyerang selera mereka. Di grup WhatsApp, saat saya menyadari ada miskomunikasi dan sempat merespons dengan nada kesal, namun saya segera mengevaluasi bahasa saya. Ketika T menjelaskan kebingungannya, saya menurunkan ego, tidak memperpanjang perdebatan secara defensif, melainkan merespons dengan nada santai dan langsung berfokus menawarkan solusi.
+Response & adaptation
+Saat J bersikeras dengan AI 3D, saya melakukan validation without approval. Saya memvalidasi bahwa desainnya memang bagus, tetapi saya menyampaikan concern saya mengenai sentimen juri terhadap AI slop. Respons saya adalah adaptasi dari menolak mentah-mentah menjadi menawarkan modifikasi. Di chat WA, ketika T mengira saya menyetujui logo Canva, saya beradaptasi melakukan perbaikan cepat (repair) dengan menjelaskan ulang maksud saya tanpa memperpanjang argumen siapa yang salah ketik.
+Agreement/action
+Kesepakatan akhir tercapai secara spesifik: 1) Maskot menggunakan desain 3D AI pilihan J namun di-retouch manual oleh G; 2) Logo menggunakan versi hitam putih dari G (bukan Canva) yang di-coding dinamis oleh T menyesuaikan dark/light mode website.
+Relationship outcome
+Ketegangan mereda dari 7/10 menjadi 2/10. Karena saya mendengarkan dan mengintegrasikan kebutuhan mereka, tidak ada anggota yang merasa ide desainnya diabaikan sepenuhnya. Hubungan tim tetap solid dan bisa langsung fokus kembali ke pengerjaan coding website.
+Penggunaan AI
+Alat dan peran AI: Menggunakan Gemini sebagai asisten pemeriksa struktur format O-F-N-R (Observation, Feeling, Need, Request).
+Prompt: “Bantu saya menstrukturkan kerangka O-F-N-R dari perdebatan tim hackathon saya mengenai desain AI vs Manual.”
+Bagian output: AI membantu saya memecah kalimat saya menjadi struktur O-F-N-R yang teridentifikasi secara jelas. Namun, seluruh isi dialog (baik percakapan langsung maupun chat grup WhatsApp) sepenuhnya berasal dari memori dan screenshot WhatsApp saya pribadi.
+Pemeriksaan accuracy, privacy, dan authority: Tidak ada intervensi AI dalam cara saya mendengarkan atau merespons rekan saya pada saat kejadian berlangsung. AI hanya bertindak untuk membantu saya menganalisis ulang komunikasi yang telah terjadi. Saya menyamarkan nama asli J, T, dan G menjadi inisial untuk melindungi privasi mereka.
+Feedback dan tindak lanjut
+Feedback yang diterima: Persetujuan instan “Nah, boleh deh gitu” dari rekan-rekan saat rapat offline merupakan umpan balik nyata bahwa rumusan O-F-N-R yang saya ajukan berhasil menembus kebuntuan tanpa membuat mereka merasa diserang seleranya. Pada chat WA, T yang awalnya kesal karena salah paham akhirnya menurut dan fokus pada teknis pengerjaan.
+Adaptation/replay: Kelemahan pada episode ini terjadi di grup WhatsApp. Saya berasumsi T sudah mengerti konteks desain mana yang saya maksud, yang ternyata salah. Saya meluruskan kesalahpahaman tersebut secara baik-baik namun tegas.
+Next practice: Ke depannya, ketika menyetujui suatu keputusan visual secara online, saya tidak akan lagi menggunakan kata ganti penunjuk ambigu. Saya akan selalu menyebutkan nama objeknya secara spesifik (misal: “oke, kita fix pakai logo hitam-putih buatan G”) atau membalas (reply) langsung gambar yang dimaksud agar pengertiannya benar-benar sama.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Membaca preferensi J, T, dan G secara utuh tanpa melabeli selera mereka buruk, mengutamakan identitas sebagai rekan kerja.
+Objective & State
+4
+Ketegangan debat awal direduksi secara sadar demi objektif utama menyelesaikan coding website tepat waktu.
+Repertoire, Language & AI
+4
+Menggunakan O-F-N-R secara lengkap saat debat. Penggunaan AI dideklarasikan secara proporsional.
+Response & Adaptation
+4
+Melakukan validation pandangan J sebelum menawarkan modifikasi, serta melakukan repair saat terjadi miskom di WA dengan T.
+Agreement, Action & Relationship
+4
+Mencapai kompromi spesifik terkait pengerjaan maskot dan coding logo tanpa merusak relasi dan ego perorangan.
+Total: 20/20 — Lanjut
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Nathanael Louis Cahyono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://nathanaellouis.github.io/kipp-students/index.html
+- https://nathanaellouis.github.io/kipp-students/assets/logo.png
+- https://nathanaellouis.github.io/kipp-students/course/index.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/index.html
+- https://nathanaellouis.github.io/kipp-students/examples/index.html
+- https://nathanaellouis.github.io/kipp-students/lk/index.html
+- https://nathanaellouis.github.io/kipp-students/slides.html
+- https://nathanaellouis.github.io/kipp-students/slides-pdf/index.html
+- https://nathanaellouis.github.io/kipp-students/assessment/index.html
+- https://nathanaellouis.github.io/kipp-students/about.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-02.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-06.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-07.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-08.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-09.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-10.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-11.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-12.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-13.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-14.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-15.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

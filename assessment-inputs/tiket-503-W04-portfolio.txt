@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 503
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core meaning
+Evidence understanding
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Analisis dan batas
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Core meaning
+Fakta yang tidak boleh berubah: Cara kerja dan fungsi dasar Machine Learning (Model Prediksi), yaitu sebuah sistem komputer yang tidak diprogram dengan aturan baku, melainkan belajar mengenali pola dari data masa lalu untuk membuat keputusan atau tebakan di masa depan.
+Target/character
+Versi language
+Alasan adaptasi
+Anak-anak (Sepupu Kelas 6 SD)
+“Machine Learning itu kayak kamu belajar bedain kucing dan anjing. Awalnya ditunjukin gambar, terus dikasih tahu mana yang kucing. Lama-lama otak kamu hafal cirinya. Nah, komputer juga gitu, dia belajar dari banyak contoh gambar biar besoknya bisa nebak sendiri tanpa harus diajarin lagi!”
+Menggunakan analogi organik (belajar mengenali hewan) untuk merepresentasikan proses training data dan prediction secara sangat konkret dan relevan dengan dunia anak-anak.
+Friend (Teman Non-IT)
+“Gini bro, Spotify bisa tahu lagu kesukaan lu bukan karena ada orang yang milihin di kantor mereka, tapi sistemnya belajar dari kebiasaan lu nge-skip atau nge-like lagu. Intinya dia nyari pola dari data masa lalu lu buat nebak selera lu ke depan.”
+Bahasa kasual (“bro”, “lu”) dan menggunakan use case yang sangat akrab di kehidupan sehari-hari (aplikasi spotify) untuk menciptakan kedekatan dan pemahaman instan.
+Technical peer (Sesama Tim Data Science)
+“Model Random Forest-nya udah beres di-train pakai dataset historis. Akurasi validasinya tembus 85%, tapi masih rentan overfitting kalau ada outlier. Kita perlu tuning hyperparameter-nya lagi sebelum di-deploy ke production.”
+Relevan dan presisi tinggi. Penjelasan menggunakan kalimat teknis (dataset, overfitting, outlier, tuning, deploy) agar instruksi operasional analisis data jelas tanpa ambiguitas bagi sesama developer.
+Manager (Pengambil Keputusan)
+“Implementasi model prediksi ini akan membantu kita mengotomatisasi proses klasifikasi dengan tingkat akurasi 85%. Ini akan mengurangi beban kerja manual tim secara signifikan, meskipun di awal kita tetap perlu memonitor munculnya anomali data.”
+Berfokus pada dampak (value proposition), otomasi, akurasi, efisiensi kerja, dan manajemen risiko yang menjadi metrik utama seorang manager yang berperan dalam pengambilan keputusan.
+Public (Masyarakat Luas)
+“Machine Learning adalah teknologi kecerdasan buatan yang memungkinkan komputer belajar dari pengalaman masa lalu. Teknologi inilah yang bekerja di balik layar untuk memudahkan hidup kita, mulai dari mengenali wajah di smartphone hingga memprediksi cuaca secara akurat.”
+Tidak membedah rumitnya algoritma di balik layar, melainkan menjawab kegelisahan publik dengan menunjukkan manfaat praktis teknologi tersebut dalam keseharian.
+Evidence understanding
+Saya menguji draf versi “Anak-anak” kepada sepupu saya yang duduk di bangku kelas 6 SD. Saya sama sekali tidak menyebutkan istilah teknis seperti “algoritma” atau “dataset”. Saya hanya menceritakan analogi anak kecil yang belajar membedakan hewan.
+Sepupu saya merespons: “Oh, berarti kalau dari awal komputernya sengaja diajarin pakai gambar yang salah, misalnya gambar kucing tapi dikasih nama anjing, nanti komputernya bakal salah nebak terus dong?”
+Respons ini membuktikan keberhasilan transfer makna secara mutlak. Ia secara intuitif berhasil mengabstraksikan konsep “belajar dari contoh” dan menemukan prinsip paling krusial dalam ilmu data bahwa kualitas tebakan komputer bergantung penuh pada kualitas data awalnya (garbage in, garbage out). Saya merespons, “Pinter banget! Betul, makanya data contohnya nggak boleh salah.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Sepupu (kelas 6 SD) belum paham dunia IT, sehingga butuh analogi konkret (belajar mengenali hewan). Empat audiens lain dibedakan menurut kebutuhan: teman non-IT butuh contoh sehari-hari (Spotify), rekan teknis butuh presisi operasional, manager butuh dampak dan efisiensi, publik butuh relevansi manfaat praktis.
+Objective & state
+Inti utama komputer belajar dari data masa lalu, bukan diprogram dengan aturan kaku tersampaikan di kelima versi. Objective tercapai karena setelah diberi penjelasan dengan analogi, mereka dapat mengerti.
+Repertoire & language
+Anak-anak memakai analogi kucing/anjing. Friend memakai use case Spotify dengan bahasa kasual (“bro”, “lu”). Technical peer memakai istilah teknis presisi tinggi (Random Forest, dataset, overfitting, tuning). Manager memakai kerangka otomasi, akurasi, efisiensi kerja, dan anomali data. Public memakai penjelasan kecerdasan buatan, prediksi cuaca, dan pengenalan wajah.
+Response & adaptation
+Respons dari sepupu (bertanya soal gambar kucing yang dilabeli anjing) sangat akurat dan kritis, sehingga versi Anak-anak tidak perlu saya ubah lagi. Adaptasi justru terjadi pada versi Manager; saya menyesuaikan bahasa setelah mengevaluasi draf awal, mengubah istilah outlier menjadi “anomali data”.
+Agreement/action
+Ada kesepahaman pada makna inti Machine Learning, dibuktikan lewat respons kritis sepupu. Untuk audiens lain, ada ekspektasi tindakan yang tersirat: rekan teknis perlu melakukan tuning, manager perlu memonitor anomali.
+Relationship outcome
+Interaksi berjalan setara tanpa ada kesan menggurui. Sepupu merasa diapresiasi (“Pinter banget!”), membuktikan bahwa menyederhanakan bahasa tidak berarti merendahkan kecerdasan lawan bicara. Hubungan tetap hangat dan kolaboratif.
+Penggunaan AI
+Alat dan peran AI: Gemini saya gunakan sebagai alat uji untuk menjadi reviewer dalam mendeteksi apakah ada kebocoran istilah teknis di kelima draf yang saya buat sendiri.
+Prompt penting: “Bantu saya mendeteksi apakah ada kebocoran istilah teknis IT yang sulit dipahami pada 5 versi draf penjelasan Machine Learning ini, khususnya pada target audiens non-teknis.”
+Bagian output yang diubah/ditolak: Digunakan: masukan terkait kata outlier pada draf Manager yang dinilai terlalu berbau statistik. Diubah: kata outlier saya adaptasi dan ganti menjadi “anomali data” agar lebih bersahabat untuk konteks manajerial.
+Pemeriksaan accuracy, privacy, dan authority: Accuracy: kebenaran inti penjelasan diuji langsung ke manusia (sepupu). Privacy: identitas target disamarkan (hanya disebut peran atau tingkat pendidikan). Authority: keluaran AI hanya dijadikan saran review; bukti transfer makna yang sah berasal dari respons langsung sepupu saya, dan keputusan skor akhir ada pada saya.
+Apa yang tetap dipelajari sebagai manusia: Saya belajar bahwa penyederhanaan bahasa bukan berarti kita menganggap audiens itu bodoh. Sepupu yang masih SD ternyata bisa menyimpulkan logika yang sangat fundamental dalam Data Science jika diberi analogi yang tepat.
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Oh, berarti kalau dari awal komputernya sengaja diajarin pakai gambar yang salah, misalnya gambar kucing tapi dikasih nama anjing, nanti komputernya bakal salah nebak terus dong?” (Respons kritis sepupu saya setelah mendengar analogi versi Anak-anak).
+Adaptation/replay: Berdasarkan masukan dari Gemini, saya melakukan revisi pada draf Manager dengan mengganti istilah outlier. Untuk versi Anak-anak, karena respons yang diberikan sudah melampaui ekspektasi pemahaman, draf tersebut tidak saya ubah. Replay ke audiens nyata lainnya belum dilakukan.
+Next practice: Sebelum mempresentasikan hasil project atau model Machine Learning ke dosen penguji maupun pihak sponsor ke depannya, saya akan selalu memetakan core meaning dan menyaring istilah teknis IT nya terlebih dahulu. Tujuannya agar mereka bisa langsung berfokus pada value atau hasil bisnisnya tanpa terintimidasi oleh bahasa teknis.
+Analisis dan batas
+Repertoire yang saya gunakan berubah drastis dari bercerita analogi fabel kepada sepupu, percakapan tongkrongan santai kepada sahabat, sinkronisasi teknikal kepada rekan tim Data Science, pitching efisiensi operasional kepada manager, hingga edukasi literasi digital kepada publik. Autentisitas saya tetap terjaga karena inti utama komputer belajar dari data masa lalu tidak terdistorsi di versi mana pun.
+Saya menggunakan Gemini sebagai alat uji. Saya memberikan kelima versi draf di atas dan memintanya mendeteksi apakah ada kebocoran istilah teknis. Gemini menemukan bahwa kata outlier pada draf Manager berpotensi tidak dipahami dengan baik jika managernya berasal dari latar belakang non-statistik. Berdasarkan masukan tersebut, saya mengadaptasi bahasa saya dengan mengganti kata outlier menjadi “anomali data” yang jauh lebih bersahabat untuk konteks managerial.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima target audiens dipetakan profilnya berdasarkan perbedaaan pola pikir, literasi teknologi, dan kebutuhan informasi.
+Objective & State
+4
+Kebenaran inti mengenai definisi dan fungsi Machine Learning tidak terdistorsi atau dimanipulasi di semua ragam bahasa.
+Repertoire, Language & AI
+4
+Terjadi kelenturan gaya bahasa yang tampak dengan jelas antar target. AI dilibatkan secara kritis sebagai asisten reviewer pendeteksi istilah teknis.
+Response & Adaptation
+4
+Pengujian pemahaman pada sepupu menghasilkan kesimpulan mandiri yang sangat kritis.
+Agreement, Action & Relationship
+4
+Membangun jembatan komunikasi yang setara dengan tidak memaksakan istilah IT, sehingga setiap audiens mendapat pemahaman utuh tanpa merasa diintimidasi oleh kerumitan materi yang saya sampaikan.
+Total: 20/20 — Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Nathanael Louis Cahyono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://nathanaellouis.github.io/kipp-students/index.html
+- https://nathanaellouis.github.io/kipp-students/assets/logo.png
+- https://nathanaellouis.github.io/kipp-students/course/index.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/index.html
+- https://nathanaellouis.github.io/kipp-students/examples/index.html
+- https://nathanaellouis.github.io/kipp-students/lk/index.html
+- https://nathanaellouis.github.io/kipp-students/slides.html
+- https://nathanaellouis.github.io/kipp-students/slides-pdf/index.html
+- https://nathanaellouis.github.io/kipp-students/assessment/index.html
+- https://nathanaellouis.github.io/kipp-students/about.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-01.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-02.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-05.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-06.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-07.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-08.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-09.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-10.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-11.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-12.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-13.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-14.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-15.html
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://nathanaellouis.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

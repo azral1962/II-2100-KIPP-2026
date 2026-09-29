@@ -1,0 +1,115 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 422
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map & Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relational Boundary & Trade-Off Management
+Multi-Audience Communication & Adaptation
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Identitas Mitra & Asumsi Awal
+Bagian B: Bukti Adaptasi Responsif Selama Wawancara (Loop: Mendengar \(\rightarrow\) Menyesuaikan \(\rightarrow\) Klarifikasi)
+1. Momen Sinyal Mitra (R.A. Defensif)
+2. Penyesuaian Strategi Pertanyaan (Adaptasi Langsung)
+3. Klarifikasi Ulang (Re-clarification)
+Bagian C: Rumusan Masalah Bersama (Shared Problem Statement)
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement dengan bukti adaptasi responsif selama sesi.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 27 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 05 Lengkap
+Bagian A: Identitas Mitra & Asumsi Awal
+Mitra Bicara: Inisial R.A. (Koordinator Divisi Acara UKM Kampus).
+Asumsi Awal Saya: R.A. kurang disiplin mengatur waktu pengerjaan materi acara.
+Bagian B: Bukti Adaptasi Responsif Selama Wawancara (Loop: Mendengar \(\rightarrow\) Menyesuaikan \(\rightarrow\) Klarifikasi)
+1. Momen Sinyal Mitra (R.A. Defensif)
+Pada menit ke-3, saat ditanyakan pertanyaan awal, R.A. merespons dengan nada ragu dan defensif: “Bukan tim kita yang lambat kok Win, emang alur persetujuan dari dosen dan sponsor aja yang ribet…”
+2. Penyesuaian Strategi Pertanyaan (Adaptasi Langsung)
+Melihat sinyal rasa tidak nyaman ini, saya seketika merubah strategi: * Perubahan Nada/Tone: Menurunkan tempo bicaraku dan menyampaikan empati (“Paham banget R, pasti pusing ya harus mengondisikan banyak pihak”). * Perubahan Pertanyaan: Mengubah dari pertanyaan mencari penyebab menjadi pertanyaan pemetaan alur: “Boleh cerita enggak, di titik mana proses persetujuan itu biasanya paling lama tertahan?”
+3. Klarifikasi Ulang (Re-clarification)
+R.A. menjadi sangat terbuka dan menceritakan bahwa dosen pembina dan sponsor sering memberikan revisi tumpang tindih di H-1.
+Saya mengklarifikasi ulang: “Berarti penumpukan kerja ini terjadi karena belum adanya cutoff time revisi yang disepakati dosen dan sponsor ya, bukan karena masalah internal tim acara?”
+R.A. mengonfirmasi: “Nah iya tepat banget Win! Itu akar masalahnya!”
+Bagian C: Rumusan Masalah Bersama (Shared Problem Statement)
+“Koordinator Divisi Acara (R.A.) mengalami penumpukan alur kerja dan revisi berulang di menit-menit akhir ketika menyiapkan rundown kegiatan UKM, sehingga tim acara terpaksa lembur dan mengalami kelelahan emosional. Ia membutuhkan kepastian batas waktu (cutoff time) persetujuan materi dari pihak internal dan eksternal, dengan mempertimbangkan aturan wajib validasi dari dosen pembina dan sponsor.”
+Kembali ke atas
+Multi-Audience Communication & Adaptation
+Target–Attention Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-a-identitas-mitra-asumsi-awal
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-b-bukti-adaptasi-responsif-selama-wawancara-loop-mendengar-rightarrow-menyesuaikan-rightarrow-klarifikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#momen-sinyal-mitra-r.a.-defensif
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#penyesuaian-strategi-pertanyaan-adaptasi-langsung
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#klarifikasi-ulang-re-clarification
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#bagian-c-rumusan-masalah-bersama-shared-problem-statement
+- https://ambreluee.github.io/kipp-students/lk/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
