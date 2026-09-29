@@ -1,0 +1,236 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 548
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence
+Konteks dan relationship state
+Catatan percakapan
+Analisis listening, clarity, boundary, dan request
+Listening
+Clarity
+Request
+Boundary
+Response dan adaptation
+Agreement dan action
+Relationship outcome
+Reflection
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence
+Konteks dan relationship state
+Saya melakukan percakapan dengan seorang teman kuliah yang berada dalam satu jurusan dengan saya, yaitu Sistem dan Teknologi Informasi.
+Percakapan terjadi dalam konteks persiapan mengikuti lomba CTF (Capture The Flag). Pada awalnya, teman saya merasa belum kompeten dan belum menguasai materi yang dibutuhkan untuk mengikuti lomba tersebut.
+State sebelum percakapan: hubungan kami sebagai teman kuliah sudah baik, tetapi dalam konteks persiapan lomba terdapat keraguan dari teman saya mengenai kemampuan dirinya untuk mempelajari materi CTF.
+Objective saya: membantu teman saya melihat bahwa masih terdapat waktu untuk belajar dan mendorongnya agar mulai mempersiapkan diri daripada menganggap dirinya tidak mampu sejak awal.
+Catatan percakapan
+Percakapan ini ditulis dalam bentuk catatan/parafrasa, bukan transcript verbatim, karena saya tidak mencatat percakapan kata per kata.
+Tahap
+Catatan percakapan
+Saya
+Saya menyampaikan kepada teman bahwa sebaiknya dia tetap belajar dan berusaha karena waktu menuju lomba masih sekitar tiga bulan.
+Teman
+Teman saya merespons bahwa dia akan belajar dan berusaha mengejar materi CTF, terutama dengan mempelajari materi yang tersedia di website OverTheWire.
+Saya
+Saya menyetujui rencana tersebut dan menyampaikan bahwa jika ada bagian yang membingungkan, dia dapat bertanya kepada saya melalui grup atau pesan pribadi.
+Teman
+Teman saya kemudian mulai mengikuti proses belajar dan kami dapat belajar bersama dalam persiapan menghadapi lomba.
+Percakapan tersebut menunjukkan adanya response dari kedua pihak. Saya tidak hanya menyampaikan dorongan, tetapi juga memberikan ruang kepada teman untuk menentukan tindakan yang akan dilakukan. Teman kemudian merespons dengan memilih untuk belajar dan mengejar materi yang dibutuhkan.
+Analisis listening, clarity, boundary, dan request
+Listening
+Listening dalam percakapan ini terlihat dari bagaimana saya memahami masalah utama teman saya, yaitu rasa belum kompeten dalam mempelajari materi CTF.
+Saya tidak langsung menganggap bahwa teman tersebut tidak mampu mengikuti lomba. Saya merespons kondisi tersebut dengan mempertimbangkan bahwa masih tersedia waktu sekitar tiga bulan sebelum lomba.
+Response teman juga memberikan informasi baru bahwa ia bersedia belajar dan mengejar materi CTF melalui website OverTheWire. Dengan demikian, percakapan berkembang dari kondisi “belum merasa kompeten” menjadi rencana belajar yang lebih konkret.
+Clarity
+Saya menyampaikan pesan yang cukup jelas, yaitu bahwa masih ada waktu untuk belajar dan teman saya dapat menggunakan waktu tersebut untuk mengejar materi yang belum dikuasai.
+Fokus komunikasi bukan pada hasil lomba, tetapi pada proses persiapan yang masih dapat dilakukan.
+Request
+Request yang saya sampaikan secara implisit adalah agar teman saya tetap mencoba belajar dan tidak berhenti hanya karena merasa belum kompeten.
+Setelah teman menyatakan akan belajar, saya juga memberikan kesempatan untuk bertanya apabila mengalami kesulitan, baik melalui grup maupun pesan pribadi.
+Boundary
+Dalam percakapan ini tidak terdapat boundary yang bersifat membatasi perilaku teman. Saya lebih banyak memberikan dukungan dan menawarkan bantuan jika terdapat materi yang belum dipahami.
+Namun, saya tetap memberikan ruang bagi teman untuk menentukan sendiri proses belajarnya. Saya tidak menentukan bahwa ia harus belajar dengan cara tertentu.
+Response dan adaptation
+Response teman terhadap percakapan menunjukkan bahwa ia menerima dorongan tersebut dengan keputusan untuk mulai belajar dan mengejar materi CTF melalui OverTheWire.
+Setelah mengetahui bahwa teman bersedia belajar, saya menyesuaikan peran saya dari sekadar memberikan dorongan menjadi teman belajar yang dapat membantu ketika terdapat materi yang belum dipahami.
+Hal ini membuat komunikasi tidak berhenti pada pemberian motivasi, tetapi berlanjut menjadi proses belajar bersama.
+Agreement dan action
+Agreement: kami sama-sama melanjutkan persiapan untuk mengikuti lomba dengan belajar materi CTF terlebih dahulu. Jika terdapat materi yang membingungkan, teman saya dapat bertanya melalui grup atau pesan pribadi.
+Action yang dilakukan:
+Teman saya mulai mempelajari materi CTF melalui website OverTheWire.
+Kami melanjutkan proses belajar bersama.
+Materi yang belum dipahami dapat didiskusikan bersama.
+Persiapan tetap dilakukan meskipun sebelumnya teman saya merasa belum kompeten.
+Relationship outcome
+Hubungan kami sebagai teman kuliah berkembang menjadi hubungan belajar bersama dalam konteks persiapan lomba.
+Pada akhirnya, kami memang tidak memenangkan lomba CTF tersebut. Namun, proses belajar memberikan pengalaman yang berharga. Pada awal persiapan, teman saya belum mampu menjawab soal CTF sama sekali. Setelah melalui proses belajar, ia mampu menjawab sekitar 3–5 soal yang memiliki poin cukup besar.
+Hasil tersebut menunjukkan adanya perkembangan kemampuan dibandingkan kondisi awal, meskipun tujuan akhir berupa kemenangan dalam lomba tidak tercapai.
+Percakapan yang awalnya membahas keraguan terhadap kemampuan berubah menjadi kesepakatan untuk belajar dan saling membantu. Dengan demikian, relationship kami tidak hanya sebagai teman satu jurusan, tetapi juga menjadi teman belajar dalam persiapan kompetisi.
+Reflection
+Dari percakapan ini saya memahami bahwa dalam personal conversation, saya tidak selalu perlu langsung memberikan solusi terhadap masalah seseorang. Hal yang lebih penting adalah memahami kondisi orang tersebut dan membantu mengubah masalah yang awalnya terasa besar menjadi tindakan yang dapat dilakukan.
+Pada awalnya, teman saya merasa belum kompeten untuk mengikuti lomba CTF. Jika saya hanya melihat kondisi tersebut, mungkin saya juga dapat menganggap bahwa persiapan sudah terlambat. Namun, saya melihat bahwa masih terdapat sekitar tiga bulan sebelum lomba sehingga masih ada kesempatan untuk belajar.
+Saya kemudian menyampaikan dorongan untuk tetap belajar. Response teman saya menunjukkan bahwa ia bersedia mencoba dengan mempelajari materi melalui OverTheWire. Dari situ, percakapan berkembang menjadi proses belajar bersama.
+Saya juga belajar bahwa outcome sebuah relationship conversation tidak harus selalu berupa tercapainya hasil akhir yang diinginkan. Kami tidak memenangkan lomba, tetapi proses komunikasi menghasilkan tindakan nyata dan perkembangan kemampuan. Teman yang awalnya belum mampu menjawab soal sama sekali akhirnya dapat menjawab sekitar 3–5 soal dengan poin yang cukup besar.
+Pengalaman ini membuat saya memahami bahwa listening, clarity, dan response dapat membantu mengubah keraguan menjadi action yang lebih konkret, sekaligus memperkuat hubungan sebagai teman dan rekan belajar.
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Fathir Mulya Gibran
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fathirmulbran-wq.github.io/kipp-students/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/assets/logo.png
+- https://fathirmulbran-wq.github.io/kipp-students/course/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/examples/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/assessment/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/about.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-01.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-05.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-06.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-07.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-08.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-09.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-10.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-11.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-12.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-13.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-14.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-15.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#evidence-1
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#konteks-dan-relationship-state
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#catatan-percakapan
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#analisis-listening-clarity-boundary-dan-request
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#listening
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#clarity
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#request
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#boundary
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#response-dan-adaptation
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#agreement-dan-action
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#relationship-outcome
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html#reflection
+- https://fathirmulbran-wq.github.io/kipp-students/examples/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
