@@ -1,0 +1,160 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 522
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://davindrarn-commits.github.io/repo/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode
+Event: Tanggal 18 September (H-1 deadline lomba Business Case Competition / BCC), analisis kasus belum selesai—termasuk bagian saya sendiri—sementara rekan tim sulit dihubungi/responsif lambat.
+Lapisan
+Catatan Pribadi
+Fact
+Deadline submission lomba BCC adalah tanggal 19 September; analisis kelompok belum tuntas pada tanggal 18 September; anggota tim slow-response di grup chat; belum ada berkas final yang diunggah
+Initial story
+“Tim saya tidak bertanggung jawab, bagian saya bakal berantakan, dan kami pasti gagal submit tepat waktu karena semuanya bakal dibebankan ke saya.”
+Emotion/body signal
+Panik 8/10, cemas 8/10, gelisah/tidak tenang, fokus terpecah (kesulitan memulai pengerjaan)
+Reactive character
+“The Blamer / Victim” yang ingin marah di grup, mengeluhkan keadaan, dan menyalahkan rekan tim yang menghilang
+Desired character
+“The Ownership Problem Solver” yang mengambil kendali atas apa yang bisa dikontrol (bagian sendiri & alur kerja) tanpa menunggu orang lain untuk mulai bertindak
+Initial story melampaui fakta: lambatnya respon rekan tim dan mepetnya tenggat waktu adalah tantangan riil (fakta), namun asumsi bahwa “pasti gagal” dan “harus menanggung kekesalan sendirian” adalah narasi emosional yang justru menghambat eksekusi.
+Alternative narratives
+Capacity & constraint hypothesis: Anggota tim mungkin sedang mengalami kendala akses/kesibukan tak terduga pada H-1, bukan sengaja melarikan diri atau tidak peduli pada lomba.
+Proactive ownership: Daripada menghabiskan energi menunggu balasan grup, fokus awal terbaik adalah menuntaskan kerangka analisis bagian sendiri dan menyusun draf solusi awal yang bisa langsung diuji.
+AI-assisted momentum: Penggunaan AI sebagai sparring partner diskusi dapat mempercepat sintesis analisis tanpa harus mengandalkan respons real-time dari manusia saat situasi terdesak.
+Alternative kedua dan ketiga paling berguna karena langsung mengarahkan energi panik menjadi aksi terukur tanpa memperkeruh suasana kelompok.
+Internal conversation dan agreement
+The Blamer: “Banting hp aja lah, percuma dikerjain kalau temen-temen pada ngilang pas H-1 deadline.”
+The Problem Solver: “Kalau kita ikut berhenti, lomba ini pasti gagal total. Apa yang bisa kita selesaikan sendiri dalam 2 jam ke depan?”
+Davindra: “Saya akan tarik napas, bangun pagi-pagi tanggal 19, memakai AI untuk diskusi memperdalam analisis, lalu melempar draf solusi ke grup agar tim punya bahan konkrit untuk disetujui.”
+Internal agreement: Tanggal 19 pagi, berhentikan overthinking, langsung buka laptop untuk menyelesaikan analisis dibantu diskusi AI, lalu kirimkan draf solusi ke grup sebelum jam makan siang.
+Evidence tindakan
+Sesi Diskusi AI (19 Pagi): Melakukan iterasi interaktif dengan AI untuk mempertajam analisis dan merancang opsi solusi kasus (bukan sekadar copy-paste prompt/output).
+Inisiasi Grup (19 Siang): Mengirimkan rancangan solusi ke grup WhatsApp/Discord tim untuk dimintai persetujuan dan tanggapan cepat.
+Eksekusi Final & Submission (19 Sore–Malam): Menyusun Executive Summary berdasarkan solusi yang disepakati bersama tim hingga berhasil melakukan submission sebelum deadline.
+Feedback tim: Rekan tim menyetujui draf solusi yang dikirimkan siang hari, sehingga fokus tim di sisa waktu bisa langsung dialihkan ke penulisan Executive Summary dan perapihan berkas.
+Feedback, AI, dan refleksi
+Penggunaan AI dalam episode ini berfungsi sebagai collaborative thinking tool saat mengalami kendala komunikasi antar-manusia. AI membantu memvalidasi logika analisis ketika pikiran sedang panik.
+Next practice: Untuk kompetisi berikutnya, akan dibuat checkpoint internal (H-3 dan H-2) serta kesepakatan contingency plan di awal agar tidak terjadi kepanikan yang mendadak pada H-1.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Karakter The Blamer dan The Problem Solver dipisahkan secara jelas dari realita fakta
+Objective & State
+3
+Tingkat kepanikan (8/10) berhasil ditransformasikan menjadi aksi terstruktur sejak pagi
+Repertoire, Language & AI
+3
+Penggunaan jeda/pause internal dan pemanfaatan AI sebagai rekan diskusi dinamis
+Response & Adaptation
+3
+Mengubah strategi dari menunggu tim menjadi pengambil inisiatif draf awal
+Agreement, Action & Relationship
+3
+Keputusan mandiri menghasilkan kesepakatan tim siang hari dan submit tepat waktu
+Total: 15/20 — Kompeten.
+```
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Davindra Rasya Nugroho
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://davindrarn-commits.github.io/repo/index.html
+- https://davindrarn-commits.github.io/repo/assets/logo.png
+- https://davindrarn-commits.github.io/repo/course/index.html
+- https://davindrarn-commits.github.io/repo/portfolio/index.html
+- https://davindrarn-commits.github.io/repo/examples/index.html
+- https://davindrarn-commits.github.io/repo/lk/index.html
+- https://davindrarn-commits.github.io/repo/slides.html
+- https://davindrarn-commits.github.io/repo/slides-pdf/index.html
+- https://davindrarn-commits.github.io/repo/assessment/index.html
+- https://davindrarn-commits.github.io/repo/about.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-01.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-04.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-06.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-07.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-08.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-09.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-10.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-11.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-12.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-13.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-14.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-15.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#kompetensi-target
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#evidence-wajib
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#episode
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#alternative-narratives
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#evidence-tindakan
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,147 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 523
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://davindrarn-commits.github.io/repo/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks dan relationship state
+Potongan transcript
+Analisis listening, boundary, dan repair
+Relationship outcome dan evidence
+Self-assessment
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks dan relationship state
+Saya melakukan percakapan langsung dengan rekan tim pendampingan (inisial “T”) mengenai dinamika koordinasi dan rasa canggung yang sempat muncul di antara kami bertiga selama bertugas. Sebelum percakapan ini, terdapat asumsi implisit bahwa salah satu anggota bersikap pasif, sementara di sisi lain ada perasaan “ditinggalkan” dari interaksi kelompok.
+State sebelum percakapan: Kepercayaan antar-rekan tim masih ada namun diselimuti canggung dan asumsi sepihak. Ketegangan berada di skala 6/10. Objective saya adalah mengklarifikasi persepsi tersebut secara langsung lewat wawancara/diskusi terbuka, mendengarkan perasaannya, serta menyepakati batasan (boundary) dan cara komunikasi yang lebih inklusif.
+Potongan transcript
+Saya: “Gua mau ngobrol santai bentar nih soal dinamika kita bertiga kemarin. Jujur, kemarin sempat ada kabar kalau lu ngerasa rada ditinggalin pas kita koordinasi. Gua minta maaf banget ya kalau bikin lu ngerasa gitu, soalnya awalnya gua mikir lu yang ragu atau mager gabung sama kita.”
+T: “Iya jujur pas awal-awal gua emang ngerasa kalian udah asyik berdua duluan, jadi gua bingung mau masuk obrolannya gimana dan berujung canggung.”
+Saya: “Oalah, berarti poin utamanya di rasa canggung buat mulai masuk ya, bukan karena lu enggan berkontribusi?”
+T: “Iya betul. Gua pengen ikut nimbrung, tapi kadang segan kalau acaranya udah terlalu malam atau waktunya mepet.”
+Saya: “Paham-paham. Jadi ke depannya gua bakal selalu info dan ajak lu langsung dari awal. Tapi kalau ada agenda malam dan lu merasa udah kemalaman, lu terbuka aja ya buat bilang enggak.”
+T: “Sip, makasih ya bro udah mau ngobrolin ini langsung.”
+Analisis listening, boundary, dan repair
+Dalam percakapan ini, saya menerapkan active listening dengan memparafraksikan jawaban T (“berarti poin utamanya di rasa canggung… bukan karena enggan berkontribusi?”) untuk memastikan pemahaman saya tepat tanpa menghakimi.
+Repair: Percakapan diawali dengan tindakan repair dari saya, yaitu mengakui asumsi awal yang keliru dan meminta maaf atas ketidaknyamanan yang dirasakan T.
+Boundary & Request: T menyampaikan batasan (boundary) pribadi terkait jam kegiatan di malam hari. Saya menerima batasan tersebut dan menyampaikan request agar T tetap menyampaikan secara terbuka jika ada hal yang membuatnya kurang nyaman di lain waktu.
+Relationship outcome dan evidence
+Pembersihan Asumsi: Asumsi sepihak bahwa T “mager/pasif” terbukti salah; masalah sebenarnya adalah hambatan canggung di awal interaksi.
+Kesepakatan Komunikasi Inklusif: Kami sepakat bahwa setiap pembagian tugas atau ajakan kumpul akan diinformasikan secara transparan sejak awal.
+Penghormatan Batasan: Memahami dan menghormati batas jam malam rekan tim tanpa memberi stigma negatif.
+Penurunan Ketegangan: Skala ketegangan turun dari 6/10 menjadi 2/10. Percakapan langsung ini berhasil mencairkan rasa canggung dan membangun fondasi relasi kerja yang lebih profesional.
+AI tidak digunakan dalam transkrip ini karena percakapan bersifat personal dan berlangsung secara langsung.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Kebutuhan keterlibatan dan rasa nyaman rekan diakui secara jujur
+Objective & State
+3
+Mengubah ketegangan asumsi menjadi claritas relasi lewat wawancara terbuka
+Repertoire, Language & AI
+3
+Menerapkan inisiasi repair, paraphrase aktif, dan konfirmasi pesan
+Response & Adaptation
+4
+Mengadaptasi ekspektasi tim terhadap batasan jam malam rekan
+Agreement, Action & Relationship
+3
+Terbentuk kesepakatan keterbukaan ajakan dan saling menghormati batasan
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Davindra Rasya Nugroho
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://davindrarn-commits.github.io/repo/index.html
+- https://davindrarn-commits.github.io/repo/assets/logo.png
+- https://davindrarn-commits.github.io/repo/course/index.html
+- https://davindrarn-commits.github.io/repo/portfolio/index.html
+- https://davindrarn-commits.github.io/repo/examples/index.html
+- https://davindrarn-commits.github.io/repo/lk/index.html
+- https://davindrarn-commits.github.io/repo/slides.html
+- https://davindrarn-commits.github.io/repo/slides-pdf/index.html
+- https://davindrarn-commits.github.io/repo/assessment/index.html
+- https://davindrarn-commits.github.io/repo/about.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-01.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-04.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-06.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-07.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-08.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-09.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-10.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-11.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-12.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-13.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-14.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-15.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#kompetensi-target
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#evidence-wajib
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#konteks-dan-relationship-state
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#potongan-transcript
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#analisis-listening-boundary-dan-repair
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#relationship-outcome-dan-evidence
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html#self-assessment
+- https://davindrarn-commits.github.io/repo/examples/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

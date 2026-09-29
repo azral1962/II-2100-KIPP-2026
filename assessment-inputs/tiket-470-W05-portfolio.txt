@@ -1,0 +1,186 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 470
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://csd-hub.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Professional Discovery Interview
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Shared problem statement
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting:
+Sekitar masa perkuliahan, percakapan dilakukan secara langsung dengan teman sekelas ketika ia mengalami kesulitan dalam melakukan setup Visual Studio Code untuk keperluan perkuliahan.
+Persons dan relationship:
+Saya berbicara dengan teman sekelas yang sedang mengalami kendala dalam menggunakan Visual Studio Code.
+Objective dan initial state:
+Tujuan saya adalah memahami kesulitan yang dialami teman sebelum memberikan bantuan. Pada awalnya saya mengira masalahnya adalah teman saya tidak memahami coding yang sedang dikerjakan.
+Evidence
+Teman sekelas saya mengatakan bahwa ia mengalami kesulitan ketika menggunakan Visual Studio Code.
+Initial assumption saya adalah bahwa ia tidak mengerti coding yang sedang dikerjakan. Sebelum langsung memberikan solusi, saya bertanya:
+“Apa yang ga lu ngerti?”
+Setelah mendengar jawabannya, saya mengetahui bahwa masalah utamanya bukan pada pemahaman coding, tetapi pada setup Visual Studio Code yang belum berhasil dilakukan.
+Setelah mengetahui masalah tersebut, saya membantu melakukan setup Visual Studio Code sekaligus menjelaskan langkah-langkahnya agar teman saya dapat memahami prosesnya.
+Setelah dibantu, teman saya mengucapkan terima kasih.
+Kontribusi saya adalah melakukan discovery melalui pertanyaan terlebih dahulu, kemudian membantu menyelesaikan masalah setup sambil menjelaskan prosesnya.
+Shared problem statement
+Teman saya membutuhkan bantuan dalam melakukan setup Visual Studio Code agar dapat mulai menggunakan lingkungan pemrograman yang diperlukan untuk perkuliahan.
+Problem statement ini terbentuk setelah saya menanyakan bagian yang tidak dipahami dan mengetahui bahwa kendalanya berada pada proses setup, bukan pada pemahaman coding.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya berbicara dengan teman sekelas sehingga menggunakan bahasa yang santai dan langsung. Saya juga berusaha memahami kendalanya sebelum memberikan bantuan.
+Objective & state
+Tujuan awalnya adalah mengetahui bagian yang membuat teman kesulitan. Saya awalnya mengira masalahnya adalah coding, tetapi setelah bertanya ternyata masalahnya adalah setup Visual Studio Code.
+Repertoire & language
+Saya menggunakan pertanyaan sederhana, yaitu “Apa yang ga lu ngerti?” untuk mengetahui bagian yang menjadi kendala. Setelah masalah ditemukan, saya menggunakan penjelasan langkah-langkah setup untuk membantu.
+Response & adaptation
+Saya mengubah asumsi awal setelah mendapatkan informasi dari teman. Awalnya saya mengira masalahnya adalah coding, tetapi kemudian menyesuaikan bantuan karena masalah sebenarnya adalah setup Visual Studio Code.
+Agreement/action
+Setelah mengetahui masalahnya, saya membantu melakukan setup Visual Studio Code sambil menjelaskan prosesnya kepada teman.
+Relationship outcome
+Teman dapat memperoleh bantuan untuk melakukan setup dan memberikan respons berupa ucapan terima kasih. Interaksi tetap berjalan dengan baik.
+Penggunaan AI
+Tidak menggunakan AI.
+Discovery dan bantuan dilakukan secara langsung dengan teman sekelas. Saya tidak menggunakan AI untuk menentukan masalah atau memberikan solusi dalam percakapan tersebut.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Teman saya mengucapkan terima kasih setelah saya membantu melakukan setup Visual Studio Code dan menjelaskan prosesnya.
+Adaptation/replay:
+Saya menyadari bahwa asumsi awal saya mengenai masalah coding tidak langsung benar. Dengan bertanya terlebih dahulu, saya dapat mengetahui bahwa masalah sebenarnya berada pada setup Visual Studio Code. Jika menghadapi situasi serupa, saya akan mempertahankan kebiasaan untuk bertanya sebelum memberikan solusi.
+Next practice:
+Saya akan lebih sering mengajukan pertanyaan untuk memahami masalah sebenarnya sebelum langsung memberikan solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3 – Kompeten
+Saya menyesuaikan bahasa dengan teman sekelas dan berusaha memahami kondisi yang dialaminya sebelum membantu.
+Objective & State
+3 – Kompeten
+Saya memiliki tujuan untuk mengetahui bagian yang menjadi kendala. Saya juga mampu menyadari bahwa asumsi awal saya mengenai coding tidak sesuai dengan masalah sebenarnya.
+Repertoire, Language & AI
+3 – Kompeten
+Saya menggunakan pertanyaan sederhana untuk menggali masalah dan kemudian menjelaskan setup Visual Studio Code secara langsung.
+Response & Adaptation
+3 – Kompeten
+Saya mengubah asumsi setelah mendapatkan informasi baru dan menyesuaikan bantuan dari masalah coding menjadi masalah setup.
+Agreement, Action & Relationship
+3 – Kompeten
+Saya membantu melakukan setup sambil menjelaskan prosesnya, dan teman memberikan respons positif berupa ucapan terima kasih.
+Total: 15 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Mouristio R. A. K. L. Praing
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://csd-hub.github.io/kipp-students/index.html
+- https://csd-hub.github.io/kipp-students/assets/logo.png
+- https://csd-hub.github.io/kipp-students/course/index.html
+- https://csd-hub.github.io/kipp-students/portfolio/index.html
+- https://csd-hub.github.io/kipp-students/examples/index.html
+- https://csd-hub.github.io/kipp-students/lk/index.html
+- https://csd-hub.github.io/kipp-students/slides.html
+- https://csd-hub.github.io/kipp-students/slides-pdf/index.html
+- https://csd-hub.github.io/kipp-students/assessment/index.html
+- https://csd-hub.github.io/kipp-students/about.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-01.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-04.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-06.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-07.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-08.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-09.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-10.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-11.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-12.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-13.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-14.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-15.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#professional-discovery-interview
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://csd-hub.github.io/kipp-students/portfolio/index.html#category=Professional
+- https://csd-hub.github.io/kipp-students/portfolio/index.html#category=Discovery
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

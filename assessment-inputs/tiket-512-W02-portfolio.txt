@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 512
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode: Keterlambatan Progres Tugas Besar Visual Novel “MIRROR”
+Event: Anggota tim tidak membalas pesan WhatsApp terkait update progress kinerja selama beberapa jam.
+Fact (Pengamatan): Pesan saya belum dijawab selama beberapa jam. Belum ada laporan progress yang dikirimkan.
+Initial story: Tim mengabaikan instruksi saya. Mereka menganggap saya bukan Project Manager tugas besar yang tegas. Proyek ini akan gagal rilis sesuai jadwal yang telah ditentukan.
+Emotional/body signal: Mesal 6/10 (menandai batas pribadi yang mungkin dilanggar), Cemas 8/10 (Mengantisipasi ketidakpastian), detak jantuk berdebat agak cepat, berulang kali mengecek ponsel(Hp).
+Reactive character: “Sang Hakim” (menyalahkan diri sendiri karena kurang tegas) dan “Sang Pencemas” (membersar-besarkan ancaman keterlambatan perilisian tugas).
+Desired character: “Perencana” yang berfokus pada langkah konkret dan tindak lanjut, serta “Pembelajar” yang mencari tahu fakta sebenarnya tanpa vonis.
+Alternative Narratives:
+Kebutuhan Saat Ini: Anggota tim mungkin sedang kelelahan secara fisik atau memiliki kesibukan mendesak lain di luar kewajibannya sebagai anggota tim, sehingga belum sempat membuka pesan instruksi pengerjaan tugas.
+Kendala Teknis: Anggota tim mungkin sedang mengalami kesulitan dalam memahami atau mengerjakan tugas yang diberikan dan sedanh berusaha memperbaikinya sebelum melapor.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Tejradi pergulatan antara “Sang Hakim” dan “Sang Pencemas” yang bereaksi secara otomatis, sebelum akhirnya dialihkan secara sadar kepada “Perencana. Karakter internal dikenal tanpa menjadikannya identitas permanen.
+Objective & state
+Bergeser dari unhealthy state (merasa kehilangan kendali dan lumpuh oleh kecemasan) menuju healthy state yang dipimpin oleh narasi pertumbuhan dan tujuan proyek.
+Repertoire & language
+Menggunakan teknik “Keheningan & Jeda Fisik” untuk memperlambat pikiran dan memisahkan antara fakta obyektif (pesan belum dibalas) dan asumsi subyektif (saya diabaikan).
+Response & adaptation
+Memanfaatkan milidetik antara peristiwa dan reaksi untuk “Memasuki Ruang Jeda”. Respons diadaptasi dari dorongan awal untuk kesal menjadi tidandakan mencari data (bertanya.)
+Agreement/action
+Internal agreement menghasilkan pilihan untuk “Menunda Reaksi” hingga emosi mereda, dilanjut dengan “Mencari Data” melalui pesan klarifikasi asertif.
+Relationship outcome
+Mengubah arah percakapan intrapribadi menjadi tindakan eksternal yang nyata. Hubungan dengan anggota tim tetap terjada dengan baik tanpa adanya konflik yang tidak perlu akibat asumsi yang salah.
+Penggunaan AI
+Menggunakan AI (Cermin AI) sebagai pelatih netral untuk menguraikan benang kusut pemaknaan.
+Promt: “Berikut kejadian dalam kerja kelompok tim saya dalam mengerjakan projek: Anggota tim proyek saya tidak membalas pesan instruksi pengerjaan tugas dari saya. Saya merasa kesal karena merasa diremehkan dan proyek belum ada progress. Pisahkan mana yang merupakan pengamatan objektif dan mana yang merupalan asumsi saya. Ajukan 3 pertanyaan reflektif, tapi jangan mendiagnosis saya.”
+Output: Bagian analisis yang memisahan fakta (“pesan belum dibalas”) dan vonis (“diremehkan”) saya gunakan sepenuhnya. Pertanyaan reflektif dari AI membantu mengaktifkan karakter “Pembelajar”.
+Pembelajaran Manusia: AI membantu memperlihatkan ilusi relaitas; namun, keputusan untuk menekan ego dan mengirim pesan asertif sepenuhnya membuduhkan kedewasaan batin manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Mengubah kalimat follow-up dari “Kenapa progres belum dilkirim?” menjadi pertanyaan klarifikasi yang berbasis empati (“Apakah ada kendala teknis?”). Respons anggota tim membuktikan bahwa asumsi awal saya keliru.
+Next practice: Saat menghadapi kebuntuan komunikasi, saya akan melatih metode TIADA (Target, Attention, Interest, Desire, Action) sebagai kompas navigasi sebelum memberikan respons eksternal.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Berhasil mengenali peran Sang Pencemas dan mengaktifkan Perencanaan.
+Objective & State
+3
+Mengubah narasi dari reaktif menjadi narasi pertumbuhan.
+Repertoire, Language & AI
+4
+Berhasil menggunakan ruang jeda dan Cermin AI secara efektif.
+Response & Adaptation
+3
+Tindakan disesuikan setelah menyadari perbedaa fakta dan vonis pikiran (asumsi awal).
+Agreement, Action & Relationship
+3
+Tindak spesifik diambil (pesan klarifikasi) dan menjaga profesionalitas.
+Total: 16 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-02.html#kompetensi-target
+- https://athus1104.github.io/repo/portfolio/week-02.html#evidence-wajib
+- https://athus1104.github.io/repo/portfolio/week-02.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-02.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-02.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-02.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

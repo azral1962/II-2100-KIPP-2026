@@ -1,0 +1,161 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 514
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Konteks performance
+Tanggal dan setting: Tanggal dan setting: 23 September 2026, Kampus ITB & Diskusi Daring. Bentuk kegiatan berupa eksperimen komunikasi dan alih ragam bahasa (code-switching) terhadap satu konsep teknis jaringan komputer ke lima audiens berbeda.
+Persons dan relationship: 1. Adik sepupu usia 10 tahun (siswa SD, hubungan keluarga dekat). 2. Sahabat karib non-teknik (mahasiswa SBM/FSRD, pertemanan akrab sebaya). 3. Rekan mahasiswa seangkatan program studi Sistem dan Teknologi Informasi (kolaborator teknis sebaya). 4. Manajer proyek / Pengambil keputusan bisnis (hubungan profesional atasan-bawahan/klien). 5. Publik umum / Masyarakat pengguna layanan digital (audiens heterogen luas).
+Objective dan initial state: - Initial state: Adanya Curse of Knowledge di mana penjelasan konsep transmisi data jaringan cenderung kaku, penuh singkatan protokol teknis (handshake, ACK, retransmission, packet loss), sehingga audiens non-teknis merasa terasing, bosan, atau salah tangkap. - Objective: Menerjemahkan satu makna inti kebenaran (transmisi data andal berbasis verifikasi potongan) ke dalam 5 register bahasa yang lentur, relevan, dan berdaya guna tanpa mengorbankan integritas faktual.
+Evidence
+Konsep Teknis Inti: Mekanisme Pengiriman Paket Data Andal pada Protokol Transport (TCP/IP).
+Makna Inti / Kebenaran Utuh (Core Truth): > “Menjamin dokumen atau pesan digital yang dikirim melintasi jaringan internet sampai di tujuan secara utuh, berurutan, dan tanpa cacat melalui pembagian unit kecil serta verifikasi tanda terima dua arah, meskipun saluran lalu lintas jaringan sedang padat atau mengalami gangguan.”
+Transkrip Draf 5 Ragam Bahasa (Artefak Komunikasi):
+Ragam 1: Anak-Anak (Usia ~10 Tahun) > “Bayangkan kamu membuat robot besar dari balok Lego, lalu ingin mengirimkannya ke rumah temanmu yang jauh. Kalau robotnya dikirim langsung utuh, kotaknya terlalu besar dan tas kurir tidak akan muat. Jadi, kamu membongkar robot itu menjadi ratusan balok kecil. Di setiap balok, kamu tempelkan stiker angka: nomor 1, nomor 2, sampai 100, lalu kamu masukkan ke kantong-kantong pos. Temanmu memegang buku petunjuknya. Begitu balok nomor 1 sampai, dia meneleponmu: ‘Balok 1 sudah ada!’. Kalau ternyata balok nomor 5 jatuh di jalan dan hilang, temanmu akan teriak: ‘Kirim balok nomor 5 lagi ya!’. Setelah semua 100 balok lengkap tanpa ada yang kurang, barulah robotnya dirakit kembali persis seperti semula di rumah temanmu.”
+Ragam 2: Sahabat Dekat (Beda Bidang / Non-Teknik) > “Bro, lu pernah mikir nggak sih, pas lu ngirim video tugas 500 MB atau nonton streaming, gimana caranya file segede itu bisa nembus kabel internet tanpa bikin macet total? Logikanya tuh kayak lu mau ngirim motor vespa utuh tapi cuma punya bagasi motor bebek. Mau nggak mau vespanya lu preteli dulu jadi baut, roda, sama setang, terus dikasih label nomor urut. Pas nyampe di seberang, temen lu ngecek satu-satu. Tiap ada komponen nyampe, dia chat ‘oke aman’. Kalau ada satu baut yang jatuh di jalan, sistem bakal langsung ngirim baut cadangan tanpa perlu lu ngulang kirim seluruh motor dari awal. Begitu semua baut lengkap, langsung dirakit lagi jadi vespa utuh di layar HP dia. Makanya video lu nggak pernah kepotong setengah-setengah layarnya.”
+Ragam 3: Rekan Teknis (Mahasiswa STI / Sesama Engineer) > “Pada transport layer, transmisi data end-to-end yang reliable diimplementasikan menggunakan protokol TCP di atas network layer IP yang un-reliable (best-effort). Sesi diawali dengan three-way handshake (SYN, SYN-ACK, ACK) guna sinkronisasi ISN dan alokasi buffer. Stream data dipecah menjadi MSS (Maximum Segment Size) diskret. Integritas urutan dijamin melalui sequence numbering 32-bit dan mekanisme cumulative ACK. Jika segment loss terjadi akibat network congestion atau CRC check error, sistem mendeteksinya melalui RTO adaptif maupun triple duplicate ACK (fast retransmit) untuk mengeksekusi retransmisi deterministik pada segmen yang hilang, tanpa memicu overhead transfer ulang pada seluruh stream data.”
+Ragam 4: Manajer Bisnis / Pengambil Keputusan Organisasi > “Dalam penyediaan layanan aplikasi kita, integritas data transmisi berdampak langsung pada biaya operasional dan kepuasan pelanggan. Bayangkan risiko finansial dan audit jika invoice transaksi atau dokumen kontrak pengguna korup di tengah jalan akibat koneksi seluler yang putus-nyambung. Mekanisme transmisi data berbasis paket andal ini memastikan efisiensi bandwidth cloud: kita tidak perlu membakar kuota server dengan mengirim ulang seluruh file saat terjadi gangguan koneksi, melainkan hanya menambal bagian yang gagal secara cerdas. Ini meminimalkan dispute transaksi, menekan beban tim support komplain, dan menjaga reputasi reliabilitas layanan kita di level enterprise.”
+Ragam 5: Publik Luas (Masyarakat / Nilai Sosial) > “Di zaman serba digital sekarang, hampir semua urusan kita bergantung pada internet—dari pendaftaran bantuan sosial, berkas kependudukan, hingga rekam medis di rumah sakit. Protokol jaringan digital dirancang dengan prinsip perlindungan dan kepastian: tidak boleh ada satu pun lembar dokumen penting warga yang hilang, tercecer, atau tertukar di tengah jalan hanya karena sinyal ponsel melemah. Sistem ini bekerja seperti jasa pos tercatat yang teliti memeriksa setiap halaman dokumen sebelum diserahkan, memastikan setiap warga menerima pelayanan publik secara utuh, aman, dan adil tanpa dirugikan oleh kendala teknis jaringan.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Audiens memiliki latar belakang, horizon kognitif, dan motivasi yang sangat kontras: anak-anak membutuhkan objek visual-taktil (Lego); sahabat membutuhkan kedekatan emosional dan bahasa setara (bro, ngobrol tongkrongan); rekan teknis menuntut presisi standar RFC; manajer berfokus pada mitigasi risiko finansial & efisiensi biaya; publik umum membutuhkan jaminan keamanan hak dan keadilan sosial.
+Objective & state
+Menggeser state dari ketidaktahuan/kebingungan akibat jargon teknis (Curse of Knowledge) menjadi pemahaman intuitif yang relevan dengan peran masing-masing, tanpa mengurangi esensi mekanisme reliable delivery (paket, penomoran urut, konfirmasi penerimaan, dan pengiriman ulang).
+Repertoire & language
+Memanfaatkan kelenturan register: beralih dari metafora mainan (anak), analogi fungsional otomotif (sahabat), terminologi formal jaringan layer 4 (rekan teknis), terminologi bisnis ROI & SLA (manajer), hingga wacana hak publik dan keadilan akses layanan (publik luas).
+Response & adaptation
+Mengadaptasi umpan balik awal di mana penjelasan tentang “tanda terima (ACK)” awalnya terlalu teoritis, disesuaikan menjadi “laporan chat/telepon” pada anak & sahabat, serta “pos tercatat” pada publik agar prinsip verifikasi dua arah langsung tertangkap.
+Agreement/action
+Setiap audiens mampu menangkap pesan utama: rekan teknis sepakat pada rancangan protokol; manajer menyetujui anggaran keandalan infrastruktur; sahabat dan publik memahami mengapa data mereka tidak lenyap saat sinyal buruk.
+Relationship outcome
+Terjalin relasi yang setara tanpa kesan merendahkan (condescending) atau pamer kepandaian; tercipta kepercayaan bahwa teknologi hadir untuk melayani kebutuhan nyata manusia.
+Penggunaan AI
+Alat dan peran AI: Google Gemini (LLM) digunakan sebagai mitra uji sparring kognitif (critical sparring partner) untuk menguji sensitivitas audiens dan mendeteksi bias jargon (curse of knowledge).
+Prompt atau instruksi penting: > “Bertindaklah sebagai teman nongkrong non-teknik yang kritis dan seorang anak usia 10 tahun. Uji draf penjelasan berikut tentang paket data dan TCP: bagian mana yang masih terdengar seperti buku teks, membosankan, atau memakai istilah yang tidak kamu pahami?”
+Bagian output yang digunakan, diubah, atau ditolak:
+Digunakan: Masukan AI mengenai pentingnya menyertakan elemen konfirmasi balik (acknowledgment) dalam analogi mainan, bukan sekadar memecah barang.
+Diubah: Gaya bahasa yang awalnya disarankan AI masih agak terlalu baku untuk obrolan sahabat (“Kawan, apakah kamu tahu…”); diubah manual menjadi gaya bahasa sehari-hari yang autentik (“Bro, lu pernah kepikiran nggak sih…”).
+Ditolak: Usul AI untuk menganalogikan transmisi data dengan “kereta api barang berurutan”, karena dinilai kurang menggambarkan pengiriman ulang bagian yang hilang secara mandiri (selective retransmission).
+Pemeriksaan accuracy, privacy, dan authority: Tidak ada data privat/rahasia yang diunggah ke AI. Keakuratan teknis mekanisme TCP (RFC 793/TCP handshake & sliding window) diverifikasi silang dengan buku teks standar arsitektur jaringan komputer.
+Apa yang tetap Anda pelajari sebagai manusia: AI dapat merangkai sinonim dan padanan kata, tetapi empati untuk merasakan tingkat kecemasan audiens (misal: ketakutan manajer atas kerugian finansial atau ketakutan publik atas hilangnya berkas resmi) tetap merupakan intuisi kemanusiaan yang harus diasah secara sadar.
+Feedback dan tindak lanjut
+Feedback yang diterima: Pada draf awal register sahabat, penjelasan langsung melompat dari motor yang dipreteli ke perakitan kembali, sehingga rekan yang diajak simulasi bertanya: “Kalau bautnya jatuh di jalan, motor di sana tahu dari mana kalau ada yang kurang?”
+Adaptation/replay: Menambahkan peran komunikasi timbal balik: pihak penerima aktif memberi tahu item mana yang sudah sampai dan meminta kirim ulang suku cadang yang hilang sebelum proses rakit selesai.
+Next practice: Melatih real-time code switching secara spontan dalam presentasi lisan 2 menit tanpa bantuan catatan naskah tertulis.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Analisis profil lima audiens sangat spesifik, mengenali perbedaan nilai, kebutuhan, dan tingkat abstraksi masing-masing karakter.
+Objective & State
+4
+Target transformasi pemahaman terukur jelas dan didukung penjagaan kebenaran inti (fidelity) di seluruh draf.
+Repertoire, Language & AI
+4
+Diferensiasi register sangat kontras dan natural; pemanfaatan AI terdokumentasi kritis dengan evaluasi mandiri.
+Response & Adaptation
+3
+Berhasil memperbaiki analogi konfirmasi dua arah berdasarkan simulasi pertanyaan audiens non-teknik.
+Agreement, Action & Relationship
+4
+Penjelasan berhasil membangun rasa aman, menghargai martabat pendengar, dan menghubungkan teknologi dengan nilai kemaslahatan nyata.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-04.html#konteks-performance
+- https://athus1104.github.io/repo/portfolio/week-04.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-04.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-04.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-04.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

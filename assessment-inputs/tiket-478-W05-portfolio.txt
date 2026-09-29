@@ -1,0 +1,133 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 478
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan dan Shared problem statement
+Evidence, feedback, dan next step
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Initial assumption dan rencana discovery
+Initial assumption: Saya berasumsi bahwa Umi pengelola kos sering mengganti kode gembok pagar (hingga 3 kali sebulan) karena kualitas gemboknya buruk dan mudah rusak, sehingga kita membutuhkan sistem gembok digital (smart door lock) agar lebih awet.
+Rencana Discovery (5 Pertanyaan Utama): Saya melakukan wawancara (berbasis percakapan nyata) dengan “Mitra U” (Pemilik Kos) untuk mencari tahu akar masalahnya. 1. Apa yang sedang terjadi? (Bertanya alasan gembok sering diganti). 2. Mengapa hal itu menjadi masalah? (Menggali dampak ke Umi dan penghuni). 3. Siapa yang terdampak? (Memeriksa pihak selain anak kos). 4. Keadaan yang lebih baik seperti apa? (Mencari tahu ekspektasi Umi tentang akses kos). 5. Apa kendalanya? (Memeriksa alasan Umi tidak memakai opsi pengamanan lain).
+Potongan transcript
+Mahasiswa: “Umi, akhir-akhir ini kode gembok sering banget diganti ya, dari 36790 jadi 34578, terus diganti lagi. Itu gemboknya yang gampang rusak atau gimana Umi?” Mitra U: “Iya, ada yang nggak bisa buka, dipaksa jadi rusak. Kayak tadi orang tua anak bawah yang lagi jenguk, nggak bisa buka gembok angkanya, ditarik-tarik sampai jebol. Terus kadang gemboknya malah hilang diambil orang pas gerbang kebuka sore-sore.” Mahasiswa: “Oh, jadi masalahnya ditarik paksa sama tamu ya Umi? Emangnya seberapa ngerepotin sih Umi kejadian kayak gini buat Umi dan penghuni lain?” Mitra U: “Repot banget. Umi harus beli gembok baru terus, nge-chat ngingetin kode baru ke semua anak kos satu-satu. Terus keamanannya juga rawan, kemarin ada anak luar asal masuk aja karena dikasih kunci sama temannya, kita jadi kaget.” Mahasiswa: “Idealnya, Umi pengen akses masuk kosan ini jalannya gimana supaya aman tapi nggak pada ngerusak gembok?” Mitra U: “Pengennya tuh gerbang selalu dikunci rapat habis keluar-masuk. Dan kuncinya gampang dipakai, jadi kalau ada keluarga yang jenguk nggak bingung terus ngerusak gembok lagi.” Mahasiswa: “Kira-kira apa yang bikin Umi belum beralih ke kunci kartu atau kunci digital biar orang tua nggak usah muter-muter angka gembok?” Mitra U: “Biayanya lumayan mahal buat pasang di pagar luar. Terus takutnya percuma kalau anak kosnya masih ceroboh biarin pagar terbuka atau ngasih akses sembarangan ke teman luar.”
+Pembaruan pembacaan dan Shared problem statement
+Pembaruan Pembacaan: Initial assumption saya tentang “gembok berkualitas buruk” terbukti salah. Hasil discovery menunjukkan akar masalahnya adalah Human Error & Usability (ketidakmampuan orang awam/tamu menggunakan gembok kombinasi angka). Constraint utamanya adalah anggaran (biaya kunci digital mahal) dan perilaku ceroboh penghuni. Menawarkan solusi teknologi mahal tidak akan menyelesaikan masalah jika pagar tetap dibiarkan terbuka oleh penghuni.
+Shared problem statement yang dikonfirmasi: > “Pemilik dan penghuni kos (Peran) mengalami kerusakan gembok berulang dan risiko keamanan (Keadaan) ketika tamu atau orang tua penghuni kesulitan mengoperasikan gembok kombinasi angka (Konteks), sehingga keamanan aset terancam dan menimbulkan biaya penggantian terus-menerus bagi pemilik (Dampak). Mereka membutuhkan cara pengamanan gerbang yang sangat mudah dipahami oleh orang awam (Hasil/Kemampuan), dengan mempertimbangkan anggaran kosan terbatas dan kebiasaan mahasiswa yang sering lupa menutup gerbang (Kendala).”
+Pernyataan masalah (Shared problem statement) ini telah dirangkum dan dikonfirmasi kepada Mitra U, dan beliau menyetujui bahwa fokus masalahnya ada pada kemudahan pemakaian kunci oleh tamu serta kedisiplinan penghuni, bukan pada kecanggihan alatnya.
+Evidence, feedback, dan next step
+Evidence Artefak: [https://drive.google.com/file/d/1taXJ7coMCJIFcfWebbZ72t7EEDQ6yclC/view?usp=sharing] (Tangkapan layar percakapan dengan pengelola kos yang menunjukkan keluhan tentang gembok yang rusak akibat dipaksa oleh tamu/orang tua penghuni). Transkrip wawancara di atas dikembangkan dari log percakapan nyata ini.
+Feedback Observer: Terdapat pertanyaan yang sedikit leading di bagian akhir (“Kira-kira apa yang bikin Umi belum beralih ke kunci kartu…”), yang berisiko membuat narasumber terkurung pada ide “kunci kartu” dari pewawancara.
+Next practice: Pada discovery berikutnya, saya akan menggunakan pertanyaan murni terkait kendala: “Apa kendala Umi untuk membuat sistem yang gampang dipakai itu?” tanpa menyisipkan ide solusi apa pun di dalam pertanyaan.
+Penggunaan AI: Tidak menggunakan AI untuk melakukan wawancara, membaca empati narasumber, atau merumuskan formula Problem Statement. AI hanya digunakan sebagai asisten pemformatan tabel dan hierarki Markdown agar laporan sesuai standar Quarto repositori.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Mewawancarai pemangku kepentingan (stakeholder) nyata (pengelola kos) dengan melihat masalah dari sudut pandang kerugiannya.
+Objective & State
+4
+Berhasil mengubah asumsi solusi teknis (“beli gembok canggih”) menjadi penemuan masalah nyata (“tamu kesulitan pakai gembok”).
+Repertoire, Language & AI
+3
+Menerapkan 5 pertanyaan discovery (Apa, Mengapa, Siapa, Hasil, Kendala) secara terstruktur. Batas AI jelas.
+Response & Adaptation
+3
+Mengadaptasi arah pertanyaan setelah mengetahui penyebab rusaknya gembok adalah orang tua/tamu.
+Agreement, Action & Relationship
+4
+Merumuskan Shared Problem Statement menggunakan formula yang persis dengan standar buku ajar.
+Total: 18/20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#potongan-transcript
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#pembaruan-pembacaan-dan-shared-problem-statement
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

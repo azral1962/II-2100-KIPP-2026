@@ -1,0 +1,151 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 500
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode yang dianalisis dan Evidence
+Perubahan language
+Penggunaan AI
+Self-assessment
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+CatatanStatus pengerjaan
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — reflective learner
+Diri sendiri saat prokrastinasi atau menerima feedback
+Memisahkan evaluasi teknis dari identitas diri dan segera memulai aksi
+Jurnal fact/story; “Faktanya tugas belum selesai, bukan berarti tidak mampu; mulai 5 menit sekarang.”
+Terjebak self-blame; tulis tiga fakta sebelum mengambil kesimpulan
+Family — kakak
+Adik yang sedang memilih kegiatan sekolah
+Membantu ia mengenali minat tanpa mendikte keputusannya
+Pertanyaan terbuka, paraphrase, opsi; “Dari pilihan ini, mana yang paling bikin kamu penasaran?”
+Menggurui; minta izin sebelum memberi saran
+Friends — sahabat
+Teman dekat yang sedang kewalahan beban kuliah
+Memberi ruang emosional yang aman sesuai kebutuhannya
+Active listening, validation tagging; “Mau didengar dulu buat lepas stres, atau mau kita bedah solusinya?”
+Terlalu cepat memberi solusi; tahan respons minimal lima detik
+Work — koordinator tim
+Rekan satu tim proyek (Fathir dan anggota kelompok)
+Menjaga target progres proyek tetap tercapai dengan pembagian peran eksplisit
+Fact-checking, option framing, written confirmation; “Supaya target aman, opsi mana yang paling realistis?”
+Terdengar menuduh; pisahkan fakta dari asumsi sebelum menegur
+Community — anggota panitia
+Pengurus dan anggota divisi kegiatan kampus
+Mendorong keterlibatan aktif seluruh anggota dan mencapai konsensus
+Round-robin check-in, summary, voting bila perlu; “Kita sudah dengar opsi A, bagaimana tanggapan divisi lain?”
+Rapat didominasi suara vokal; undang peserta pasif secara langsung
+Episode yang dianalisis dan Evidence
+Konteks: Desain antarmuka (UI wireframe) bagian “Fathir” belum diunggah padahal presentasi progres tinggal 24 jam. Dimas awalnya melihat Fathir sebagai “anggota yang meremehkan tugas dan lepas tangan”. Itu adalah story, bukan fakta. Fakta yang tersedia baru satu: repositori Figma belum ada pembaruan sejak tiga hari lalu.
+Objective: Beralih dari kebuntuan dan prasangka menjadi pembagian kerja darurat yang disepakati, sambil menjaga hubungan kerja tim.
+Dimas: “Figma bagian flow login masih kosong per sore ini. Sebelum kita lanjut, ada kendala teknis atau kendala lain yang bikin progresnya tertahan?”
+Fathir: “Laptop gue layarnya bergaris parah dari kemarin lusa, baru masuk tempat servis tadi siang. File lokalnya belum sempat gue sync ke cloud.”
+Dimas: “Berarti kendalanya murni di akses hardware dan file, bukan di konsep alurnya. Betul begitu?”
+Fathir: “Iya, konsep dan wireframe kasarnya sebenarnya sudah beres di buku catatan.”
+Dimas: “Foto sketsa di buku itu sekarang dan kirim ke grup. Biar gue atau anggota lain yang digitalkan ke Figma sore ini. Lo fokus ambil laptop setelah magrib untuk review hasilnya. Masuk akal?”
+Response Fathir mengubah repertoire Dimas dari penagihan tenggat menjadi redistribusi beban darurat secara real-time. Agreement akhirnya: Fathir mengirim foto catatan kerja dalam 15 menit, Dimas mendigitalkan komponen kunci hingga pukul 19.00, dan Fathir memeriksa alur akhirnya pada pukul 21.00.
+Perubahan language
+Sebagai sahabat, Dimas akan berkata, “Santai dulu, bro. Laptop rusak emang bikin stres, istirahat dulu aja malam ini.” Sebagai koordinator, ia berkata, “Kendalanya di akses hardware; kirim foto sketsanya sekarang biar tim bantu digitalkan sebelum jadwal review malam ini.” Core care tetap ada, tetapi responsibility dan action berbeda.
+Penggunaan AI
+AI saya gunakan untuk membantu saya menyusun format, memeriksa apakah hasil saya sudah sesuai atau belum.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3
+Membedakan identitas pertemanan dari karakter koordinator yang fokus output
+Objective & State
+3
+Mengubah initial state buntu menjadi pembagian kerja konkret dan terukur
+Repertoire, Language & AI
+3
+Klarifikasi berbasis fakta; batasan AI transparan dan kritis menolak bias AI
+Response & Adaptation
+4
+Menata ulang alur kerja secara instan di lapangan ketika menerima fakta baru tanpa resistensi
+Agreement, Action & Relationship
+3
+Owner, deadline, dan artefak disepakati tertulis tanpa merusak iklim tim
+Total: 16/20 — Sangat Kompeten. Mencapai level 4 pada dimensi Response & Adaptation karena menunjukkan fleksibilitas taktis seketika saat fakta lapangan menggugurkan asumsi awal, sementara dimensi lain memenuhi kriteria level 3.
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Dimas Nurizki Falah
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://dimasrizkk.github.io/kipp-students/index.html
+- https://dimasrizkk.github.io/kipp-students/assets/logo.png
+- https://dimasrizkk.github.io/kipp-students/course/index.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/index.html
+- https://dimasrizkk.github.io/kipp-students/examples/index.html
+- https://dimasrizkk.github.io/kipp-students/assessment/index.html
+- https://dimasrizkk.github.io/kipp-students/about.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-03.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-04.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-05.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-06.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-07.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-08.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-09.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-10.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-11.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-12.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-13.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-14.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-15.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis-dan-evidence
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

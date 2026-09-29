@@ -1,0 +1,182 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 515
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement pada operasional gerai depot air minum.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan narasumber profesional.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting: Bulan Maret 2026, Wawancara langsung tatap muka di gerai depot air minum, berdurasi sekitar 1 jam, dalam konteks analisis proses bisnis dan kebutuhan operasional gerai.
+Persons dan relationship: Narasumber merupakan pemilik gerai waralaba depot air minum. Hubungan awal adalah relasi profesional-kenalan (teman orang tua), sehingga terdapat modal kepercayaan awal, namun tetap memerlukan pendekatan terstruktur agar diskusi tidak bergeser menjadi obrolan santai tanpa tujuan bisnis objektif.
+Objective dan initial state: - Initial state: Terdapat asumsi sepihak bahwa gerai memerlukan digitalisasi menyeluruh (kasir digital, sensor stok, pemesanan online) dan narasumber merasa alur di lapangan sering tidak sesuai SOP standar. - Objective: Menggali akar masalah operasional yang sebenarnya, menahan dorongan mempresentasikan solusi teknis di awal, dan menyepakati rumusan masalah bersama (shared problem statement).
+Evidence
+1. Asumsi Awal vs Realitas
+Asumsi Awal Mahasiswa: Gerai membutuhkan transformasi digital penuh mencakup POS/kasir terintegrasi, sensor stok otomatis, dan katalog digital.
+Realitas Lapangan: Hambatan utama bukan pada ketiadaan teknologi penjualan, melainkan inkonsistensi alur kerja di lapangan terhadap SOP, terutama koordinasi kurir saat pengantaran galon dan pelacakan status fisik barang.
+2. Pertanyaan Penemuan Kebutuhan (5 Pertanyaan Inti)
+Observasi: “Bagaimana alur kerja harian pengantaran galon dan pencatatan transaksi saat jam sibuk?”
+Dampak: “Ketika beberapa tahapan di lapangan tidak berjalan sesuai SOP, apa dampak langsungnya ke pencatatan stok dan waktu kurir?”
+Konteks Peran: “Siapa yang paling terbebani ketika terjadi perbedaan antara catatan kasir dan barang yang keluar bersama kurir?”
+Aspirasi: “Kondisi ideal seperti apa yang diharapkan agar operasional pengantaran tetap rapi tanpa memperlambat kerja kurir?”
+Batas (Constraint): “Kendala apa yang membuat SOP standar sulit dipatuhi secara kaku oleh tim lapangan?”
+3. Kutipan Kunci & Parafrasa
+Kutipan Kunci Narasumber: “Banyak hal di lapangan yang kalau dipaksa mengikuti SOP awal malah bikin antrean macet. Kurir buru-buru jalan, jadi pencatatan status sering terlambat atau tercecer.”
+Parafrasa Mahasiswa (Mengecek Pemahaman): “Jadi masalah utamanya bukan pada ketiadaan minat berdigitalisasi, melainkan bagaimana sistem pencatatan pengantaran bisa cukup luwes mengikuti kecepatan kerja kurir di lapangan tanpa melanggar kontrol stok?”
+Konfirmasi Narasumber: “Tepat. Kalau sistemnya ribet dan bikin kurir lama menginput, ujung-ujungnya tidak akan dipakai di lapangan.”
+4. Evolusi Pernyataan Masalah
+Draf Awal (Sebelum Konfirmasi):
+Gerai membutuhkan sistem informasi dan kasir digital terpadu untuk mendigitalkan seluruh proses jual-beli air minum.
+Draf Final / Shared Problem Statement (Setelah Konfirmasi):
+> Pemilik dan staf operasional gerai mengalami ketidaksesuaian pencatatan status pengantaran dan stok fisik dengan SOP ketika volume pengantaran galon sedang tinggi, sehingga terjadi selisih rekapitulasi harian dan ketidakpastian status pesanan pelanggan.
+> Mereka membutuhkan mekanisme pelacakan alur pengantaran galon yang ringkas dan mudah dipatuhi kurir, dengan mempertimbangkan keterbatasan waktu kurir saat bertugas dan fleksibilitas penyesuaian SOP lokal gerai.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Narasumber adalah pelaku usaha yang berorientasi praktis dan berhati-hati terhadap beban kerja staf. Karena sudah mengenal secara personal, saya harus aktif memandu percakapan agar tetap berfokus pada peran dan misi bisnis (komunikasi profesional), bukan sekadar afeksi pribadi.
+Objective & state
+Menggeser tujuan dari yang awalnya ingin “mendemonstrasikan konsep sistem digital canggih” menjadi “memahami hambatan manusiawi di balik ketidaksesuaian SOP”. State awal berupa asumsi fitur bergeser ke pemahaman kendala operasional nyata.
+Repertoire & language
+Menghindari jargon teknis arsitektur perangkat lunak atau istilah sistem yang rumit. Menggunakan bahasa masalah berbasis alur kerja sehari-hari (lead time, beban kurir, kemudahan konfirmasi).
+Response & adaptation
+Sadar akan jebakan Prescription Trap, saya menahan diri untuk tidak langsung mendemokan mock-up/rancangan sistem di 10 menit pertama. Saat narasumber menyebutkan kendala kepatuhan SOP, saya langsung mengadaptasi pertanyaan untuk menggali kendala perilaku kurir alih-alih memaksakan fitur baru.
+Agreement/action
+Menghasilkan kesepakatan bersama mengenai shared problem statement yang menitikberatkan pada kemudahan pelacakan delivery galon, bukan digitalisasi menyeluruh yang membebani.
+Relationship outcome
+Kepercayaan profesional meningkat karena narasumber merasa didengarkan kesulitannya di lapangan, bukan sekadar dijadikan objek pengujian aplikasi mahasiswa.
+Penggunaan AI
+Alat dan peran AI: Menggunakan AI (Gemini) sebagai mitra diskusi untuk menstrukturkan catatan wawancara ke dalam kerangka 5 Pertanyaan Penemuan Kebutuhan dan memvalidasi rumusan Shared Problem Statement.
+Prompt atau instruksi penting: Meminta AI mengidentifikasi potensi bias solusi (prescription bias) dari asumsi awal digitalisasi gerai air minum dan merapikannya sesuai template Anatomi Problem Statement.
+Bagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur formulasi problem statement; menolak saran AI yang menambahkan fitur e-commerce/pemesanan online karena tidak sesuai dengan kendala nyata narasumber di lapangan.
+Pemeriksaan accuracy, privacy, dan authority: Nama spesifik pemilik dan data keuangan gerai dianonimkan untuk menjaga privasi. Seluruh poin analisis diverifikasi langsung berdasarkan fakta percakapan lapangan.
+Apa yang tetap Anda pelajari sebagai manusia: Memahami dinamika psikologis bahwa mendengarkan secara aktif membutuhkan disiplin ego untuk menahan diri tidak segera pamer solusi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Narasumber mengapresiasi karena fokus diskusi bergeser ke kemudahan kerja staf lapangan: “Bagus kalau sudut pandangnya begitu, karena percuma sistem secanggih apa pun kalau anak-anak kurir di lapangan malah terbebani dan malas pakai.”
+Adaptation/replay: Di awal wawancara, saya hampir tergoda untuk langsung memperlihatkan diagram alur sistem yang sudah saya rancang. Setelah menyadari narasumber lebih banyak mengeluhkan kepatuhan SOP, saya menunda presentasi ide dan beralih melakukan parafrasa atas kekhawatiran operasional beliau.
+Next practice: Pada wawancara discovery berikutnya, saya akan secara eksplisit mengalokasikan timer visual/mental minimal 10 menit pertama murni untuk investigasi dampak masalah dan kendala sebelum membahas alternatif solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Berhasil menavigasi relasi pertemanan orang tua menjadi interaksi profesional yang saling menghargai peran bisnis.
+Objective & State
+3
+Berhasil mendefinisikan shared problem statement meskipun sempat terpengaruh asumsi awal ingin memvalidasi ide sistem.
+Repertoire, Language & AI
+4
+Menggunakan parafrasa berorientasi masalah tanpa jargon teknis, serta memanfaatkan AI secara etis untuk pemetaan pola.
+Response & Adaptation
+3
+Mampu menahan diri dari godaan mendemonstrasikan prototipe dan beradaptasi saat isu SOP diangkat oleh narasumber.
+Agreement, Action & Relationship
+4
+Mendapatkan validasi eksplisit atas rumusan masalah bersama dan memperkuat kredibilitas serta kepercayaan narasumber.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-05.html#kompetensi-target
+- https://athus1104.github.io/repo/portfolio/week-05.html#evidence-wajib
+- https://athus1104.github.io/repo/portfolio/week-05.html#konteks-performance
+- https://athus1104.github.io/repo/portfolio/week-05.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-05.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-05.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-05.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

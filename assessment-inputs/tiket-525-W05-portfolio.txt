@@ -1,0 +1,153 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 525
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://davindrarn-commits.github.io/repo/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Evidence, feedback, dan next step
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Initial assumption dan rencana discovery
+Dalam rangka tugas wawancara Ospek Jurusan (OSJUR), saya berasumsi bahwa senior/kating yang bertindak sebagai pewawancara akan bersikap senioritas, galak, dan terkesan intimidating (“abang-abangan”) sehingga sesi wawancara akan berlangsung tegang dan formal. Saya mewawancarai Kating “R” (inisial teranonymisasi) untuk memahami ekspektasi riil senior terhadap mahasiswa baru.
+Pertanyaan utama yang disiapkan:
+Bagaimana kesan dan pengalaman Anda selama menjalani perkuliahan di jurusan ini?
+Tantangan terbesar apa yang biasanya dihadapi mahasiswa tingkat dua seperti kami saat awal masuk jurusan?
+Apa ekspektasi sebenarnya dari kating terhadap angkatan kami melalui kegiatan OSJUR ini?
+Bagaimana cara terbaik membangun hubungan dan komunikasi yang efektif antara kating dan adik tingkat?
+Constraint atau batasan apa yang tetap harus dijaga dalam interaksi antara kating dan maba?
+Potongan transcript
+Saya: “Jujur Kak, awal mau wawancara kami sempat ragu dan takut katingnya bakal galak atau senioritas.”
+Kating R: “Santai aja, bro. Kita di kampus itu sama-sama belajar. OSJUR itu dibuat bukan buat nakut-nakutin, tapi biar kalian kenal kultur jurusan dan nggak kaget pas masuk labtek.”
+Saya: “Jadi tantangan utamanya sebenarnya bukan soal senioritas, tapi adaptasi akademik dan cara koordinasi angkatan?”
+Kating R: “Yup, betul banget. Banyak maba pusing di awal karena kaget sama alur tugas kelompok dan kaku mau nanya ke kating. Padahal kalau mau diajak nongkrong atau diskusi santai, kita terbuka banget.”
+Saya: “Apa yang perlu tetap kita jaga pas interaksi santai kayak gini?”
+Kating R: “Tetap saling respek aja, tahu batasan waktu kalau mau nanya tugas, dan jangan sungkan buat inisiasi sapa atau ajak ngobrol duluan.”
+Pembaruan pembacaan
+Initial assumption mengenai “kating galak/senioritas” tidak terbukti. Evidence dari wawancara menunjukkan bahwa hambatan komunikasi antara maba dan kating berasal dari mutual distance (persepsi takut/canggung dari maba, serta kating yang bingung mencari cara mendekati maba tanpa berkesan menggurui).
+Shared problem statement yang dikonfirmasi Kating R:
+“Mahasiswa baru dan kating membutuhkan ruang interaksi informal yang santai (seperti nongkrong bareng) untuk mencairkan rasa canggung dan mempermudah transfer pengalaman akademik, karena kesan awal yang kaku membuat maba sungkan meminta bantuan saat mengalami kesulitan belajar.”
+Kating R menyetujui frasa ini dan menambahkan bahwa inisiatif dari maba untuk menyapa/mengajak diskusi duluan sangat diapresiasi oleh senior.
+Evidence, feedback, dan next step
+Catatan poin wawancara teranonymisasi dan dokumentasi foto fiktif/anonymized saat nongkrong bareng.
+Pesan konfirmasi shared problem statement via WhatsApp/Discord dari Kating R.
+Feedback observer (rekan kelompok wawancara): Proses discovery berjalan sangat mencair; saya berhasil mengarahkan obrolan dari formal menjadi wawancara eksploratif yang hangat.
+Next practice: Menghilangkan prasangka awal (prejudice) terhadap figur senior/atasan dalam sesi discovery berikutnya dan memperbanyak pertanyaan terbuka.
+AI digunakan untuk merapikan sintesis transkrip dan membantu mengelompokkan kutipan ke dalam kategori fakta, interpretasi, dan solusi. Nama asli narasumber disamarkan demi privasi.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Ekspektasi dan persepsi kating sebagai narasumber dipetakan jernih
+Objective & State
+3
+Asumsi “kating galak” diperbarui menjadi shared problem statement interaksi santai
+Repertoire, Language & AI
+3
+Menggunakan open question, paraphrase, validasi emosi, dan perapihan AI
+Response & Adaptation
+3
+Mampu mengubah atmosfer tegang menjadi obrolan nongkrong santai di lapangan
+Agreement, Action & Relationship
+3
+Problem statement dikonfirmasi narasumber dan membuka relasi relasi yang berkelanjutan
+Total: 15/20 — Kompeten.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Davindra Rasya Nugroho
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://davindrarn-commits.github.io/repo/index.html
+- https://davindrarn-commits.github.io/repo/assets/logo.png
+- https://davindrarn-commits.github.io/repo/course/index.html
+- https://davindrarn-commits.github.io/repo/portfolio/index.html
+- https://davindrarn-commits.github.io/repo/examples/index.html
+- https://davindrarn-commits.github.io/repo/lk/index.html
+- https://davindrarn-commits.github.io/repo/slides.html
+- https://davindrarn-commits.github.io/repo/slides-pdf/index.html
+- https://davindrarn-commits.github.io/repo/assessment/index.html
+- https://davindrarn-commits.github.io/repo/about.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-01.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-02.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-03.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-04.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-06.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-07.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-08.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-09.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-10.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-11.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-12.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-13.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-14.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-15.html
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#kompetensi-target
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#evidence-wajib
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#potongan-transcript
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#pembaruan-pembacaan
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://davindrarn-commits.github.io/repo/portfolio/week-05.html#self-assessment
+- https://davindrarn-commits.github.io/repo/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
