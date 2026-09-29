@@ -1,0 +1,163 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 164
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://gunther25.github.io/kipp-Students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map — Minggu 1
+Intra-Self Communication Journal
+Relationship Conversation: Mendengarkan Tanpa Memperbaiki
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography
+Target–Attention Challenge
+Portfolio KIPP-2 · Faiq Fadhlul Bahri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://gunther25.github.io/kipp-Students/index.html
+- https://gunther25.github.io/kipp-Students/assets/logo.png
+- https://gunther25.github.io/kipp-Students/course/index.html
+- https://gunther25.github.io/kipp-Students/portfolio/index.html
+- https://gunther25.github.io/kipp-Students/examples/index.html
+- https://gunther25.github.io/kipp-Students/lk/index.html
+- https://gunther25.github.io/kipp-Students/slides.html
+- https://gunther25.github.io/kipp-Students/slides-pdf/index.html
+- https://gunther25.github.io/kipp-Students/assessment/index.html
+- https://gunther25.github.io/kipp-Students/about.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-02.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-03.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-06.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-07.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-08.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-09.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-10.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-11.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-12.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-13.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-14.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-15.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#kompetensi-target
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#evidence-wajib
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#konteks-performance
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#evidence
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#analisis-komunikasi
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#penggunaan-ai
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#self-assessment
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html#assessment-dosen
+- https://gunther25.github.io/kipp-Students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

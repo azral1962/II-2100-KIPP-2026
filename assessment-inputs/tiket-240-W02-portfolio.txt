@@ -1,0 +1,171 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 240
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Peristiwa utama terjadi pada 10 Mei 2026, saat sesi tanya-jawab babak final kompetisi BCC Sandbox 3.0. Refleksi dan obrolan evaluasi dengan tim dilakukan beberapa hari setelahnya, secara langsung (tatap muka) di kos saya.
+Persons dan relationship: Z dan T, rekan satu tim dalam kompetisi BCC Sandbox 3.0.
+Objective dan initial state: Ingin memisahkan fakta dari cerita batin atas momen tidak bisa menjawab pertanyaan juri, dan merancang respons yang disengaja alih-alih reaksi otomatis. Initial state: rasa malu 7/10 dan detak jantung sempat terpantau naik ke ~120 bpm di smartwatch saat momen tersebut terjadi.
+Evidence
+PDF pitch deck yang disubmit ke BCC Sandbox 3.0 — menunjukkan isi proposal asli, termasuk judul dan bagian konten yang menjadi sorotan pertanyaan juri.
+Beberapa screenshot diskusi grup tim — menunjukkan proses koordinasi tim selama persiapan pitch deck.
+Tautan folder evidence: https://drive.google.com/drive/folders/1YUPZQB8zT9bXCze6aCe72FLH6nzZKFSg?usp=sharing
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Karakter reaktif yang muncul otomatis adalah “Penyalah” — dorongan melimpahkan kesalahan ke Z dan T atas lemahnya analisis pasar. Karakter yang ingin saya tunjukkan (desired character) adalah “Analis/Pembelajar” — yang memisahkan fakta dari asumsi dan mencari faktor sistemik (waktu, pembagian kerja) alih-alih individu. Kedua karakter ini dibedakan secara sadar lewat Lembar Kerja Tiga Narasi, bukan dibiarkan jadi identitas tetap.
+Objective & state
+Initial state terukur: malu 7/10, HR ~120 bpm. Target state: kebiasaan preventif yang konkret dan bisa dicek — checklist konsistensi judul/isi sebelum submit, dan satu sesi simulasi tanya-jawab sebelum presentasi tim berikutnya.
+Repertoire & language
+Menggunakan kerangka “Tiga Kacamata” (Narasi Korban, Analitis, Pertumbuhan) dari Lembar Kerja Bab 2 untuk memisahkan fakta, interpretasi, dan narasi identitas. Proses menulis (jurnal reflektif) digunakan untuk memperlambat pemaknaan otomatis sebelum merespons.
+Response & adaptation
+Obrolan langsung dengan Z dan T di kos mengubah arah narasi: dari kecenderungan menyalahkan individu (Narasi Korban) menjadi kesepakatan bersama yang berbasis sistem — “harusnya kita bisa lebih cek kesesuaian judul dan solusi”. Feedback nyata dari tim ini yang membentuk ulang rencana tindak lanjut, bukan cuma refleksi personal saya sendiri.
+Agreement/action
+Kesepakatan tim: bila ikut lomba bareng lagi, akan lebih teliti. Kesepakatan pribadi saya: membuat checklist konsistensi dan mengajak simulasi tanya-jawab pada tugas kelompok berikutnya, dengan Z, T, dan N sebagai pendamping yang akan memberi masukan jujur.
+Relationship outcome
+Alih-alih menjauh dari tim (dorongan reaktif “males diajak proyek bareng lagi”), obrolan di kos justru memperkuat hubungan — muncul kesepakatan bersama dan rasa saling memahami kekurangan yang sama-sama dialami, bukan saling menyalahkan.
+Penggunaan AI
+Saya menggunakan Claude (asisten AI) untuk membantu menyusun proses refleksi berdasarkan Lembar Kerja Bab 2.
+Alat dan peran AI: Digunakan sebagai fasilitator tanya-jawab — mengajukan pertanyaan pemisah fakta/interpretasi/emosi, dan membantu merapikan bahasa dari draf kasar saya menjadi kalimat yang lebih runtut untuk tiga narasi (Korban, Analitis, Pertumbuhan).
+Prompt/instruksi penting: Saya menceritakan kejadian BCC Sandbox 3.0 apa adanya, lalu AI menanyakan detail spesifik (fakta, interpretasi pertama, sensasi tubuh, faktor kendali, dsb.) satu per satu.
+Bagian yang digunakan/diubah/ditolak: Draf awal Narasi Korban dari AI sempat lebih ekstrem dari yang saya rasakan sebenarnya; saya sesuaikan supaya tetap jujur dengan kadar emosi saya yang sebenarnya (marah tapi tidak berlebihan). Isi faktual (nama kompetisi, jumlah tim, kutipan pikiran pertama, isi obrolan dengan tim) sepenuhnya berasal dari ingatan saya sendiri, bukan buatan AI.
+Pemeriksaan accuracy, privacy, dan authority: Nama rekan tim ditulis inisial saja (Z, T, N) untuk menjaga privasi; tidak ada detail identitas dosen/juri yang dicantumkan.
+Yang tetap saya pelajari sebagai manusia: Proses memilah mana fakta dan mana cerita batin tetap saya lakukan sendiri — AI hanya membantu strukturnya, bukan menentukan apa yang benar-benar saya rasakan atau langkah tindak lanjut apa yang saya pilih.
+Feedback dan tindak lanjut
+Feedback yang diterima: Dalam obrolan langsung dengan Z dan T di kos setelah kompetisi, kami sama-sama sepakat: “harusnya kita bisa lebih cek kesesuaian judul dan solusi.”
+Adaptation/replay: Dari kesepakatan itu, rencana konkret saya (checklist konsistensi + simulasi tanya-jawab) bukan lagi sekadar niat personal, tapi juga kesepakatan tim — bila ikut lomba bersama lagi, kami akan lebih teliti mengecek hal ini bersama-sama.
+Next practice: Sebelum submit tugas kelompok berikutnya, saya akan proaktif mengajak tim melakukan cross-check konsistensi judul-isi dan simulasi tanya-jawab, tanpa menunggu diingatkan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Karakter reaktif (Penyalah) dan desired character (Analis/Pembelajar) dibedakan tajam lewat tiga narasi, tanpa dijadikan identitas tetap
+Objective & State
+3
+Initial state terukur (malu 7/10, HR ~120), target state konkret (checklist + simulasi Q&A), tapi belum sempat diuji karena belum ada tugas kelompok baru untuk mencobanya
+Repertoire, Language & AI
+4
+Kerangka Tiga Kacamata dan jurnal reflektif digunakan; AI dipakai secara sadar, dengan draf yang dikoreksi ulang agar tetap jujur pada pengalaman asli
+Response & Adaptation
+3
+Obrolan nyata dengan tim mengubah arah narasi dari menyalahkan individu menjadi kesepakatan berbasis sistem, meski feedback ini verbal (di kos) dan belum punya bukti tertulis/terdokumentasi
+Agreement, Action & Relationship
+4
+Kesepakatan konkret dengan tim dan tiga pendamping (Z, T, N); hubungan dengan tim menguat, bukan menjauh
+Total: 18/20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/week-02.html
+- https://drive.google.com/drive/folders/1YUPZQB8zT9bXCze6aCe72FLH6nzZKFSg?usp=sharing
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

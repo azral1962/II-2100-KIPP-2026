@@ -1,0 +1,224 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 135
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 4 — Five-Language Translation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 4 — Five-Language Translation
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core Meaning
+Tabel Penerjemahan 5 Bahasa (Five-Language Translation)
+Evidence Understanding & Verification Test
+Analisis Repertoire & Batas AI
+Self-Assessment (Rubrik Evaluasi Mandiri)
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Tugas Minggu 4 — Five-Language Translation
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+CatatanStatus Pengerjaan
+Nama Mahasiswa: Keisha. Kembali ke Indeks Portofolio.
+Core Meaning
+Fakta Inti yang Tidak Boleh Berubah (Unchanging Truth):
+Berdasarkan arahan dari mentor lomba pada sesi mentoring kemarin, tim kami (Keisha, Aqila, Fayza) merestrukturisasi penentuan masalah (problem statement) menggunakan metode Issue Tree. Pendalaman ini memperjelas akar masalah hingga ke cabang variabel utama, dan seluruh penyesuaian Bab 1 (Latar Belakang & Identifikasi Masalah) pada draf proposal wajib diselesaikan sebelum hari Jumat pukul 17.00 WIB.
+Tabel Penerjemahan 5 Bahasa (Five-Language Translation)
+Target / Character
+Versi Language
+Rationale Adaptasi Bahasa
+1. Teammate / Peer
+(Aqila & Fayza)
+“Guys, hasil sesi mentoring kemarin mentor minta kita pertajam problem statement pakai Issue Tree. Jadi akar masalah kita di Bab 1 bakal makin jelas cabang-cabangnya. Fayza, boleh tolong rapihin peta Issue Tree-nya, terus aku sama Aqila yang turunkan ke narasi proposal sebelum Jumat jam 5 sore ya?”
+Inklusif, ajakan kolaboratif, & komunikatif. Menggunakan istilah akrab, membagi pengerjaan secara adil, serta menegaskan tenggat waktu pengerjaan bersama tanpa memicu kesan panik.
+2. Mentor / Dosen Pembimbing
+“Sesuai dengan masukan Bapak/Ibu pada sesi mentoring, kami telah membedah problem statement proposal menggunakan kerangka Issue Tree. Pendekatan ini berhasil mengidentifikasi akar masalah utama secara rinci. Kami sedang melakukan finalisasi revisi Bab 1 dan siap mengirimkan draf terbarunya sebelum Jumat pukul 17.00 WIB.”
+Hormat, profesional, & responsif. Menunjukkan apresiasi atas arahan mentor, melaporkan progres dengan terminologi analitis (restrukturisasi, kerangka kerja), serta memberikan kepastian tenggat revisi.
+3. Investor / Dewan Juri (Proposal Executive Summary)
+“Analisis masalah kami dibangun menggunakan pendekatan Issue Tree yang komprehensif untuk mengisolasi titik hambatan (bottleneck) utama di industri secara presisi. Hal ini memastikan bahwa solusi bisnis yang kami tawarkan tepat sasaran, memiliki dasar validasi yang kuat, dan meminimalkan risiko eksekusi di lapangan.”
+Persuasif, berorientasi nilai (value-driven), & bernada yakin. Menekankan ketajaman metodologi (Issue Tree) sebagai bukti bahwa solusi bisnis bukan sekadar tebakan, melainkan hasil analisis yang valid.
+4. Target User / Customer
+“Kami memahami bahwa masalah utama yang sering Anda hadapi bukan sekadar biaya, melainkan rumitnya alur proses yang ada saat ini. Oleh karena itu, layanan kami dirancang khusus untuk memangkas setiap hambatan tersebut secara langsung agar Anda bisa bertransaksi dengan lebih cepat dan mudah.”
+Empatik, ramah, & bebas jargon metodologi. Menerjemahkan hasil analisis Issue Tree menjadi bentuk pemahaman atas pain point pengguna tanpa perlu menyebutkan istilah teknis Issue Tree.
+5. Public / Panitia Lomba (Klarifikasi Portal)
+“Tim kami sedang melakukan pembaruan berkas proposal pada bagian identifikasi masalah dan kerangka analisis sesuai dengan rekomendasi sesi mentoring. Berkas revisi final berformat PDF akan diunggah ke portal resmi sebelum tenggat hari Jumat pukul 17.00 WIB.”
+Informatif, formal, & lugas. Menyampaikan pembaruan administratif untuk audiens umum/panitia tanpa membeberkan strategi atau detail internal tim.
+Evidence Understanding & Verification Test
+Keisha melakukan uji keterbacaan pesan versi Teammate kepada Aqila dan versi User/Customer kepada kawan di luar tim tanpa memberikan latar belakang tambahan.
+Umpan Balik Responden: Rekan luar tim memahami bahwa produk/layanan bertujuan mempermudah alur proses, tetapi bertanya: “Apakah masalah biaya memang sudah tidak menjadi kendala lagi?”
+Adaptasi Pesan (Refinement): Keisha menyempurnakan pesan versi Customer menjadi:
+“Kami memahami bahwa hambatan terbesar Anda adalah alur proses yang rumit dan biaya yang tidak transparan. Solusi kami hadir untuk memangkas kerumitan tersebut sekaligus memberikan efisiensi biaya secara langsung.”
+Adaptasi ini memastikan Core Meaning hasil pembedahan Issue Tree tersampaikan secara utuh tanpa membingungkan pengguna.
+Analisis Repertoire & Batas AI
+Fleksibilitas Repertoire: Core meaning tetap 100% konsisten (penerapan Issue Tree dari masukan mentor dan tenggat Jumat 17.00 WIB), namun gaya komunikasi menyesuaikan kebutuhan penerima: dari koordinasi pembagian tugas (rekan tim), laporan rasa hormat (mentor), penegasan ketajaman analisis (juri), bentuk empati pain point (pengguna), hingga kepatuhan berkas (panitia).
+Penggunaan & Integrasi AI secara Etis: AI (LLM) digunakan untuk mengecek apakah kelima versi bahasa tetap mempertahankan substansi dasar (saran mentor, analisis masalah, dan tenggat waktu Jumat 17.00 WIB). Keisha menolak usulan AI yang menambahkan klaim “Proposal awal dianggap gagal total oleh mentor” karena tidak sesuai dengan fakta sesi mentoring.
+Self-Assessment (Rubrik Evaluasi Mandiri)
+Dimensi
+Skor
+Evidence & Alasan Konkret (Level 4 Criteria)
+Person & Character
+4
+Membedakan 5 target audiens secara mendalam berdasarkan kebutuhan informasi, power dynamics (mentor vs juri vs rekan), dan konteks perannya.
+Objective & State
+4
+Core meaning (restrukturisasi masalah dengan Issue Tree & tenggat Jumat 17.00 WIB) dipertahankan secara utuh dan terverifikasi di seluruh gaya bahasa.
+Repertoire, Language & AI
+4
+Menyajikan adaptasi 5 gaya bahasa yang kontras dan tepat konteks, dilengkapi rationale mendalam, serta pengujian AI yang kritis terhadap halusinasi narasi.
+Response & Adaptation
+4
+Umpan balik tes keterbacaan langsung digunakan untuk memperjelas narasi pain point pada versi pengguna (Customer).
+Agreement, Action & Relationship
+4
+Menghasilkan instruksi pengerjaan yang jelas (pembagian Bab 1), menjaga rasa hormat pada mentor, dan memperkuat kerja sama internal tim.
+Total Skor: 20/20 — Exemplary (Sangat Unggul). ## Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 5 — Discovery Interview
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#tabel-penerjemahan-5-bahasa-five-language-translation
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#evidence-understanding-verification-test
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#analisis-repertoire-batas-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#self-assessment-rubrik-evaluasi-mandiri
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://keishaanazla-glitch.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

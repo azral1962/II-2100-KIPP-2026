@@ -1,0 +1,218 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 353
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://satepadanh.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Evidence, feedback, dan next step
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Initial assumption dan rencana discovery
+Saya awalnya berasumsi bahwa masalah utama teman saya dalam tugas kelompok adalah anggota kelompok yang kurang aktif sehingga diperlukan sistem pembagian tugas yang lebih teratur. Untuk menguji asumsi tersebut, saya melakukan percakapan dengan seorang teman mahasiswa yang cukup sering mengerjakan tugas kelompok. Pertanyaan utama:
+Apa yang biasanya terjadi ketika kelompokmu mengerjakan tugas bersama?
+Bagian mana yang paling sering membuat pengerjaan terhambat?
+Siapa saja yang paling terdampak ketika hal tersebut terjadi?
+Kalau prosesnya berjalan lebih baik, kondisi seperti apa yang kamu harapkan?
+Apa kendala yang membuat kondisi tersebut sulit tercapai?
+Potongan transcript
+Saya: “Biasanya yang paling bikin ribet pas kerja kelompok itu bagian apa?” Teman: “Kadang tuh bukan orangnya nggak kerja, tapi gue tuh kaya, ngga tahu mereka udah ngerjain sampai mana. Update-nya nyampur sama chat lain gitu.”
+Saya: “Jadi masalahnya lebih ke progresnya susah kelihatan, bukan karena mereka nggak ngerjain?”
+Teman: “Iya. Kadang ternyata udah dikerjain, cuma nggak ada info samsek. Terus ada juga yang ngira bagian tertentu belum ada, jadi malah dikerjain dua orang.”
+Saya: “Kalau kejadian kaya gitu emang kenapa?”
+Teman: “Buang waktu jujur. Kadang juga baru nyadar ada bagian yang belum dikerjain pas udah deket deadline”
+Saya: “Kalo gitu, misal kondisinya lebih ideal, apa yang menurut lu paling penting berubah?” Teman: “Pengennya sih biar tau siapa ngerjain apa dan udah sampe mana tanpa harus scroll chat ke atas. Terus kalo bisa ga usah pake sesuatu yang ribet, kaya aplikasi baru atau apalah”
+Pembaruan pembacaan
+Asumsi awal saya bahwa masalah utama adalah anggota kelompok yang kurang aktif ternyata tidak sepenuhnya tepat. Dari percakapan, saya menemukan bahwa sebagian masalah justru berasal dari ketidakjelasan informasi mengenai pembagian tugas dan progres pekerjaan.
+Masalah tersebut menyebabkan pekerjaan ganda, bagian tugas terlewat, serta pengecekan progres baru dilakukan ketika deadline sudah dekat.
+Constraint yang muncul adalah kelompok tidak menginginkan proses tambahan yang rumit atau memerlukan anggota mempelajari sistem baru hanya untuk melakukan koordinasi sederhana.
+Shared problem statement yang dikonfirmasi:
+“Mahasiswa yang bekerja dalam kelompok kesulitan mengetahui pembagian tugas dan progres setiap anggota karena informasi tersebar di antara banyak percakapan, sehingga pekerjaan dapat terduplikasi atau terlambat diketahui belum selesai. Mereka membutuhkan cara yang sederhana untuk mengetahui tanggung jawab dan progres kelompok tanpa menambah proses yang rumit.”
+Teman saya menyetujui rumusan tersebut.
+Evidence, feedback, dan next step
+Tidak ada evidence konkret yang menyatakan isi percakapan karena percakapan dilakukan lewat google meet yang tidak direkam. Hanya ada chat ajakan call tanpa konteks.
+Next practice: mencari pengalaman dari mahasiswa lain yang memiliki situasi serupa sebelum menyimpulkan bahwa masalah tersebut umum terjadi.
+AI dipakai untuk parafrase cerita awal yang saya berikan.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Pengalaman dan kebutuhan narasumber digali dari sudut pandangnya
+Objective & State
+3
+Asumsi awal berubah setelah mendapat evidence baru
+Repertoire, Language & AI
+3
+Menggunakan pertanyaan terbuka, dampak, paraphrase, dan clarification; batas AI jelas
+Response & Adaptation
+3
+Fokus berubah dari “anggota tidak aktif” menjadi masalah visibilitas progres
+Agreement, Action & Relationship
+3
+Shared problem statement dikonfirmasi dan next step ditentukan
+Total: 15/20 — Kompeten.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Azka Fathiyya Haryadi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://satepadanh.github.io/kipp-students/index.html
+- https://satepadanh.github.io/kipp-students/assets/logo.png
+- https://satepadanh.github.io/kipp-students/course/index.html
+- https://satepadanh.github.io/kipp-students/portfolio/index.html
+- https://satepadanh.github.io/kipp-students/examples/index.html
+- https://satepadanh.github.io/kipp-students/lk/index.html
+- https://satepadanh.github.io/kipp-students/slides.html
+- https://satepadanh.github.io/kipp-students/slides-pdf/index.html
+- https://satepadanh.github.io/kipp-students/assessment/index.html
+- https://satepadanh.github.io/kipp-students/about.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-01.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-02.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-03.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-06.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-07.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-08.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-09.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-10.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-11.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-12.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-13.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-14.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-15.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html#self-assessment-1
+- https://satepadanh.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

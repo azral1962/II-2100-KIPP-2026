@@ -1,0 +1,246 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 360
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://matematikal.github.io/kipp-studentt/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+A. Deskripsi Tugas
+B. Identitas Mahasiswa
+C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+D. Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+F. Rubrik Evaluasi Mandiri & Penilaian Portofolio
+G. Contoh Pengisian Singkat (Sebagai Inspirasi)
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Prinsip Utama: “Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami.”
+A. Deskripsi Tugas
+Salah satu rintangan komunikasi terbesar bagi seorang calon profesional adalah “Kutukan Pengetahuan” (Curse of Knowledge)—situasi di mana Anda sangat memahami sebuah konsep rumit, hingga Anda lupa rasanya menjadi orang yang belum mengetahuinya. Akibatnya, Anda cenderung menggunakan istilah teknis (jargon) kaku yang justru menjauhkan gagasan Anda dari pendengar.
+Dalam tugas ini, Anda ditantang untuk melatih kelenturan register dan alih ragam bahasa (code-switching). Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam lima versi bahasa komunikasi yang berbeda tanpa mengubah esensi kebenarannya.
+B. Identitas Mahasiswa
+Nama Lengkap: Muhammad Aquilla Arizqy
+NIM: 18225017
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 28/09/2026
+C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan “sumsum” atau kebenaran inti dari pesan Anda.
+Konsep Teknis yang Dipilih: (Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.) Jawab: Gangguan Akses Sistem (Server Overload & Downtime) pada Layanan Edunex Saat Ujian Tengah Semester (UTS).
+Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah): (Tuliskan definisi asli lengkap dengan jargon teknisnya) Jawab: High-traffic spike saat pelaksanaan UTS memicu kondisi resource exhaustion pada server Edunex, menyebabkan layanan mengalami downtime atau unresponsive status. Pemulihan layanan dilakukan dengan eskalasi insiden dari pengawas ke system administrator, diiringi penyesuaian konfigurasi submission deadline tanpa mengubah allocated test duration.
+Daftar Jargon Teknis & Artian Sederhananya: Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.
+Jargon 1: High-traffic spike \(\rightarrow\) Arti Sederhana: Lonjakan pengguna yang mengakses platform secara bersamaan dalam satu waktu
+Jargon 2: Server overload / Downtime \(\rightarrow\) Arti Sederhana: Server tumbang atau tidak sanggup merespons karena bebannya melebihi kapasitas
+Jargon 3: Submission deadline extension \(\rightarrow\) Arti Sederhana: Perpanjangan batas akhir pengiriman tugas/jawaban, bukan perpanjangan durasi pengerjaan
+Kebenaran Inti (Marrow of the Message): (Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia) Jawab: Saat Edunex mengalami down akibat lonjakan pengguna di periode UTS, mahasiswa wajib melaporkan kendala tersebut ke pengawas agar diteruskan ke admin Edunex; durasi jam pengerjaan soal tidak bertambah, namun tenggat waktu pengumpulan jawaban diperpanjang
+D. Tahap 2: Matriks Terjemahan Lima Bahasa
+Sekarang, bawa kebenaran inti di atas menggunakan “kendaraan” bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+Karakteristik Pendengar: Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
+Strategi: Gunakan analogi fisik atau cerita yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
+Draf Terjemahan Anda: Bayangkan pintu gerbang sekolah tiba-tiba macet karena semua anak ingin masuk bersamaan saat jam ujian. Kamu cukup lapor ke guru pengawas di depan kelas. Guru akan memberitahu penjaga sekolah untuk memperbaiki pintunya. Jam mengerjakan ujianmu tidak ditambah, tapi guru memberi ekstra waktu untuk mengumpulkan kertas ujianmu agar tidak terlambat
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+Karakteristik Pendengar: Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
+Strategi: Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
+Draf Terjemahan Anda: Santai dulu, Edunex emang lagi down gara-gara semua orang serentak login pas UTS. Langsung kabarin pengawas ujianmu aja biar mereka teruskan ke admin Edunex. Tenang, waktu buat ngerjain soalnya emang enggak nambah, tapi tenggat pengumpulan (submit) jawabannya diulur kok
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+Karakteristik Pendengar: Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
+Strategi: Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
+Draf Terjemahan Anda: Terjadi high-traffic spike saat window UTS yang memicu server overload dan kondisi unresponsive pada Edunex. User harus segera melakukan escalation ticket via pengawas ujian untuk diteruskan ke sysadmin. Langkah mitigasinya adalah submission deadline extension tanpa mengubah allocated test duration
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+Karakteristik Pendengar: Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
+Strategi: Tekankan nilai tambah (value proposition), biaya (cost), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
+Draf Terjemahan Anda: Kapasitas server Edunex mengalami kendala akibat lonjakan beban bersamaan selama UTS, yang memengaruhi proses pengumpulan jawaban. Prosedur penangannya: pengawas merekap laporan kendala untuk diteruskan ke tim IT/admin Edunex, lalu mengambil kebijakan memperpanjang batas waktu submit tanpa menambah alokasi durasi pengerjaan demi menjaga kelancaran operasional
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Karakteristik Pendengar: Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
+Strategi: Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
+Draf Terjemahan Anda: Akses portal Edunex sempat mengalami perlambatan akibat tingginya jumlah pengguna secara bersamaan pada pelaksanaan UTS. Pihak pengelola bersama pengawas ujian telah berkoordinasi untuk menangani kendala tersebut dan memberikan kelonggaran perpanjangan batas waktu pengumpulan jawaban bagi para mahasiswa
+E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.
+Ragam bahasa mana yang paling sulit Anda buat? Mengapa? Jawab: Ragam bahasa untuk pelanggan/mahasiswa pengguna dan publik. Tantangan utamanya adalah memisahkan dengan jelas antara “durasi pengerjaan soal” dan “tenggat pengumpulan jawaban” agar tidak memicu salah paham, tanpa harus menggunakan istilah teknis internal server
+Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri? Jawab: Proses ini menyadarkan saya bahwa keahlian teknis bukan diukur dari seberapa rumit istilah yang kita gunakan, melainkan seberapa presisi kita menyampaikan hakikat masalah dan solusinya kepada orang yang awam dengan bidang tersebut
+Catatan Penggunaan AI Kopilot (Jika Ada): Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI. Jawab: “Uji kelima versi kalimat di atas. Pastikan fakta kunci tidak berubah: Edunex overload saat UTS, alur lapor lewat pengawas ke admin, serta ketegasan bahwa durasi pengerjaan tidak bertambah tetapi tenggat submit diperpanjang.” dan AI sempat memberi saran untuk menambahkan klausa “seluruh ujian akan diulang”. Saran tersebut langsung ditolak dan dihapus karena bertentangan dengan fakta kebijakan resmi yang tidak membatalkan atau mengulang ujian
+F. Rubrik Evaluasi Mandiri & Penilaian Portofolio
+Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.
+Kriteria
+Skor 4 (Sangat Baik)
+Skor 3 (Baik)
+Skor 2 (Cukup)
+Skor 1 (Kurang)
+Skor Mandiri
+Keutuhan Makna (Fidelity)
+Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa.
+Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak.
+Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa.
+Makna inti rusak atau berubah total di berbagai ragam bahasa.
+4
+Kelenturan Register (Code-switching)
+Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing.
+Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens.
+Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan).
+Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama.
+3
+Kualitas Analogi & Penjelasan
+Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika.
+Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya.
+Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens.
+Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik).
+4
+Kedalaman Refleksi
+Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas.
+Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut.
+Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda.
+Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat).
+3
+Total Skor (Maksimal 16)
+14 / 16
+G. Contoh Pengisian Singkat (Sebagai Inspirasi)
+Konsep: Database Replication (Replikasi Basis Data)
+Kebenaran Inti: Menyalin dan menyimpan data yang sama di beberapa komputer berbeda secara otomatis agar jika satu komputer rusak, data kita tetap aman dan aplikasi tidak mati.
+Terjemahan Ragam Anak-Anak: “Bayangkan kamu punya buku gambar kesayangan. Karena takut bukunya hilang atau ketumpahan air, kamu meminta mesin ajaib untuk menyalin gambar yang sama ke buku gambar teman-temanmu secara otomatis. Jadi, kalau buku gambarmu basah, kamu tinggal pinjam buku milik temanmu dan bisa lanjut mewarnai tanpa sedih!”
+Terjemahan Ragam Manajer: “Untuk menjamin kelangsungan operasional bisnis dan meminimalkan risiko downtime akibat kegagalan server tunggal, kita menerapkan replikasi data ke wilayah sekunder. Hal ini memastikan pemulihan bencana (disaster recovery) berjalan instan dengan toleransi kehilangan data mendekati nol, sehingga transaksi pelanggan tidak terganggu.”
+Core meaning
+Fakta yang tidak boleh berubah: Edunex mengalami overload/down saat UTS berlangsung sehingga mahasiswa mengalami kendala akses/unggah. Pengguna harus melapor ke pengawas ujian, yang kemudian meneruskan masalah ini ke tim pengelola/admin Edunex. Waktu pengerjaan tidak ditambah, namun tenggat pengiriman/submit diperpanjang.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Edunex lagi down nih gara-gara overload UTS. Langsung kabarin pengawas ujianmu aja biar dilaporin ke admin Edunex. Tenang, waktu pengerjaan emang ga nambah tapi waktu submit-nya diperpanjang kok!”
+Ringkas, santai, menenangkan, dan memberikan langkah praktis langsung.
+Technical peer
+“High-traffic spike saat UTS menyebabkan server Edunex overload/unresponsive. User diminta escalate ticket/laporan via pengawas untuk dilanjutkan ke sysadmin Edunex. Submission deadline diperpanjang tanpa mengubah durasi pengerjaan.”
+Menggunakan terminologi teknis (traffic spike, sysadmin, submission deadline) untuk menjelaskan akar masalah dan mitigasi.
+Manager
+“Overload server Edunex saat UTS berdampak pada kelancaran pengumpulan jawaban mahasiswa. Prosedur mitigasi: pengawas merekap laporan kendala ke tim IT/admin Edunex dan memperpanjang batas waktu submit mahasiswa.”
+Berfokus pada dampak operasional, mekanisme penanganan berjenjang, dan solusi manajemen risiko.
+Customer/student user
+“Jika Anda mengalami kendala akses Edunex akibat server overload saat UTS, harap segera laporkan ke pengawas ujian Anda. Pengawas akan meneruskan laporan ke admin Edunex. Waktu pengerjaan tidak bertambah, namun tenggat submit diperpanjang.”
+Jelas, berfokus pada aksi yang harus dilakukan mahasiswa tanpa beban istilah teknis internal.
+Public
+“Layanan portal Edunex sempat mengalami kendala akses akibat peningkatan trafik saat periode UTS. Penanganan dilakukan bersama pengawas dan tim pengelola Edunex dengan perpanjangan batas pengumpulan jawaban.”
+Bersifat informatif umum, menjaga reputasi, dan mengarahkan pada solusi tanpa membagikan log internal.
+Evidence understanding
+Uji coba dilakukan terhadap versi Customer/student user kepada salah satu mahasiswa yang sedang mengikuti UTS. Pengujian langsung dilakukan menggunakan draf versi Pelanggan/Mahasiswa (Student User) kepada salah satu mahasiswa peserta UTS. Secara umum, ia langsung memahami instruksi utama untuk melapor kepada pengawas apabila terjadi kendala pada Edunex. Namun, muncul pertanyaan krusial dari responden: “Apakah kalau Edunex down, alokasi jam pengerjaan soal saya otomatis bertambah?”
+Diberikan penjelasan tambahan: “Waktu pengerjaan soal tidak ditambah, namun waktu/tenggat submit diperpanjang.” Adaptasi ini memperjelas kondisi dan batasan tanpa mengubah core meaning awal.
+Analisis dan batas
+Keragaman register (repertoire) disesuaikan secara cermat dengan profil tiap audiens—mulai dari gaya obrolan santai antarteman, istilah teknis yang presisi untuk rekan sejawat, bahasa formal berorientasi manajemen, panduan praktis untuk mahasiswa, hingga penyampaian resmi yang menenangkan bagi publik umum.
+Saran alternatif dari AI yang menyarankan penambahan opsi “seluruh ujian akan diulang” secara tegas ditolak dan dieleminasi, karena tidak sesuai dengan fakta di lapangan serta berpotensi melanggar kebijakan resmi instansi
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Profil kelima audiens berhasil dibedakan melalui gaya bahasa, sudut pandang, dan tingkat kedalaman informasi yang relevan
+Objective & State
+3
+Informasi inti (core facts) serta langkah taktis yang harus diambil pengguna tersampaikan secara konsisten di semua ragam bahasa
+Repertoire, Language & AI
+4
+Menguasai lima register bahasa yang kontras, dilengkapi alasan adaptasi yang rasional, serta bersikap kritis dalam menyaring masukan AI
+Response & Adaptation
+4
+Tanggap terhadap umpan balik penguji melalui klarifikasi langsung mengenai perbedaan durasi pengerjaan vs tenggat submit
+Agreement, Action & Relationship
+3
+Alur instruksi pelaporan ke pengawas dan keputusan perpanjangan waktu pengumpulan tersampaikan dengan tegas dan persuasif
+Total: 17/20 — Kompeten.
+Kembali ke atas
+Relationship Conversation
+Discovery Interview — Motivasi & Persepsi Gambar Teknik
+Portfolio KIPP-2 · Muhammad Aquilla Arizqy
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://matematikal.github.io/kipp-studentt/index.html
+- https://matematikal.github.io/kipp-studentt/assets/logo.png
+- https://matematikal.github.io/kipp-studentt/course/index.html
+- https://matematikal.github.io/kipp-studentt/portfolio/index.html
+- https://matematikal.github.io/kipp-studentt/examples/index.html
+- https://matematikal.github.io/kipp-studentt/lk/index.html
+- https://matematikal.github.io/kipp-studentt/slides.html
+- https://matematikal.github.io/kipp-studentt/slides-pdf/index.html
+- https://matematikal.github.io/kipp-studentt/assessment/index.html
+- https://matematikal.github.io/kipp-studentt/about.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-01.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-02.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-03.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-08.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-09.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-10.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-11.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-12.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-13.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-14.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-15.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#a.-deskripsi-tugas
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#b.-identitas-mahasiswa
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#c.-tahap-1-detoks-jargon-dekonstruksi-konsep
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#d.-tahap-2-matriks-terjemahan-lima-bahasa
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#ragam-bahasa-anak-anak-usia-10-tahun
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#ragam-bahasa-sahabat-beda-bidang-program-studi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#ragam-bahasa-publik-umum-masyarakat-luas
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#e.-tahap-3-refleksi-pembelajaran-intrapribadi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#f.-rubrik-evaluasi-mandiri-penilaian-portofolio
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#g.-contoh-pengisian-singkat-sebagai-inspirasi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#core-meaning
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#evidence-understanding
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#analisis-dan-batas
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

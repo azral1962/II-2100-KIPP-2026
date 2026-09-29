@@ -1,0 +1,185 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 182
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Catatan Dialog Internal (Intra-Self Episode)
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode通信 (intrapersonal) dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Penampilan Mini Konser “Jejak Nada” KPA-ITB (Keluarga Paduan Angklung ITB) di panggung pertunjukan.
+Persons dan relationship: Penulis sebagai pemain angklung dalam tim ansambel, berinteraksi secara internal dengan diri sendiri di tengah tekanan panggung dan ekspektasi penonton.
+Objective dan initial state:
+Initial state: Penulis mengalami kecemasan tinggi (stage fright), panik impulsif (automatic reaction), dan overthinking takut melakukan kesalahan nada (ruined performance).
+Objective: Bertransisi dari reaction (kecemasan destruktif) menuju response (kesadaran penuh/mindfulness) untuk tampil optimal dan menikmati pertunjukan.
+Evidence state awal: Tubuh terasa tegang, tangan gemetar saat memegang angklung, dan pikiran didominasi oleh asumsi negatif dari penonton.
+Evidence
+Gambar 1: Dokumentasi Penampilan Mini Konser “Jejak Nada” KPA-ITB
+Catatan Dialog Internal (Intra-Self Episode)
+Event (Peristiwa): Momen beberapa menit sebelum dan saat berdiri di panggung Mini Konser “Jejak Nada” KPA-ITB.
+Fact (Fakta Objektif): Penulis memegang angklung, berdiri dalam formasi kelompok, ada partitur lagu yang sudah dilatih, dan penonton memenuhi ruangan.
+Initial Story (Narasi Otomatis/Reaksi): “Kalau gw salah ayun nada satu kali aja, seluruh harmoni lagu bakal rusak, dan gw bakal bikin malu tim KPA-ITB di depan semua orang.”
+Emotion (Emosi): Cemas (8/10), gelisah, dan tertekan.
+Alternative Narrative 1 (Perspektif Penonton): “Penonton datang untuk menikmati keindahan musik angklung secara keseluruhan, bukan untuk mencari-cari kesalahan kecil individu. Kesalahan mikro dalam pertunjukan live adalah hal wajar.”
+Alternative Narrative 2 (Perspektif Tim): “Ini adalah permainan kelompok (ensemble). Gw gak tampil sendirian; ada rekan se-tim di kiri-kanan yang saling melengkapi dan mendukung harmoni lagu.”
+Internal Agreement (Kesepakatan Diri): “Gw memilih untuk melepaskan beban perfeksionisme. Gw akan fokus pada tempo, mendengarkan nada patokan dari teman sebelah, dan menikmati setiap getaran angklung yang gw mainkan.”
+Action (Tindakan Terukur): Mengambil napas dalam 3 kali (grounding exercise), tersenyum, menyelaraskan posisi angklung, dan fokus mendengarkan komando konduktor.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Event & Fact
+Event: Tampil di Mini Konser “Jejak Nada” KPA-ITB.
+Fact: Memegang instrumen angklung sesuai bagian nada, ada ratusan penonton di auditorium, lagu sudah dilatih selama berbulan-bulan.
+Story & Emotion
+Initial Story: “Satu kesalahan kecil akan merusak seluruh penampilan.”
+Emotion: Kecemasan panggung tinggi (8/10), takut dinilai buruk.
+Internal Character
+Terjadi pergeseran dari karakter “The Fearful Perfectionist” (yang mendikte bahwa Kegagalan = Bencana) menjadi “The Mindful Performer” (yang fokus pada proses ekspresi seni dan kolektivitas tim).
+Repertoire & Language
+Menggunakan teknik reframing internal (self-talk positive) dan teknik fisiologis (deep breathing). Mengganti diksi internal dari “Gw harus sempurna” menjadi “Gw hadir untuk berbagi musik bersama tim”.
+Choice & Action
+Choice: Menolak larut dalam kepanikan impulsif.
+Action: Mengatur pernapasan, melakukan kontak mata suportif dengan teman sebelah, dan mengeksekusi ayunan angklung dengan yakin.
+Outcome/Response
+Penampilan berjalan lancar dan penuh penghayatan. Kecemasan turun dari 8/10 menjadi 2/10 (fokus penuh pada musik). Penulis berhasil mengubah reaction (panik panggung) menjadi response (kehadiran utuh/presence).
+Penggunaan AI
+Alat dan peran AI: Gemini sebagai alat bantu sintesis untuk mendekomposisi pengalaman intrapersonal saat konser ke dalam kerangka Event-Fact-Story-Emotion-Choice-Action.
+Prompt atau instruksi penting: “Bantu rapikan analisis komunikasi intra-self untuk penampilan mini konser angklung ke dalam format template Quarto minggu 2.”
+Bagian output yang digunakan, diubah, atau ditolak: Digunakan untuk penataan tabel dan diksi akademik. Ditolak jika terdapat bagian yang terlalu mendramatisir emosi di luar pengalaman nyata Penulis.
+Pemeriksaan accuracy, privacy, dan authority: Foto dokumentasi adalah milik pribadi (mini-konser.jpeg). Narasi dialog internal sepenuhnya merefleksikan proses mental asli Penulis saat konser.
+Apa yang tetap Anda pelajari sebagai manusia: Memahami pentingnya memisahkan Fact (fakta panggung) dari Story (pikiran ketakutan buatan sendiri) agar tidak terjebak dalam automatic reaction.
+Feedback dan tindak lanjut
+Feedback yang diterima: Kemampuan mengenali initial story secara cepat di bawah tekanan tinggi (seperti panggung konser) adalah kunci utama agar emosi tidak mengambil alih tindakan (emotional hijacking).
+Adaptation/replay: Di masa depan, sebelum memasuki situasi bertekanan tinggi (seperti presentasi atau ujian), Penulis akan menerapkan grounding/alternative narrative lebih awal sebelum puncaknya kecemasan.
+Next Practice: Melakukan pause (jeda 3 detik) dan refleksif napas setiap kali merasakan gejala fisik cemas sebelum mengambil keputusan atau tindakan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Jelas mengenali pergeseran internal character dari perfeksionis cemas menjadi mindful performer.
+Objective & State
+4
+Penurunan kecemasan dari 8/10 ke 2/10 terdokumentasi melalui kesadaran transisi reaction ke response.
+Repertoire, Language & AI
+4
+Berhasil memisahkan Fact vs Story serta menguraikan dua alternative narratives secara spesifik.
+Response & Adaptation
+3
+Menggunakan teknik pernapasan dan reframing sebagai respons adaptif panggung.
+Agreement, Action & Relationship
+4
+Eksekusi tindakan nyata di panggung terbukti lewat suksesnya penampilan Mini Konser “Jejak Nada” KPA-ITB.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Siap dinilai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Ahmad Ibrahim Alhakim
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rawrwrwr.github.io/Hikumikum/index.html
+- https://rawrwrwr.github.io/Hikumikum/assets/logo.png
+- https://rawrwrwr.github.io/Hikumikum/course/index.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/index.html
+- https://rawrwrwr.github.io/Hikumikum/examples/index.html
+- https://rawrwrwr.github.io/Hikumikum/lk/index.html
+- https://rawrwrwr.github.io/Hikumikum/slides.html
+- https://rawrwrwr.github.io/Hikumikum/slides-pdf/index.html
+- https://rawrwrwr.github.io/Hikumikum/assessment/index.html
+- https://rawrwrwr.github.io/Hikumikum/about.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-01.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-05.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-06.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-07.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-08.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-09.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-10.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-11.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-12.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-13.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-14.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-15.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#kompetensi-target
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#evidence-wajib
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#konteks-performance
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#evidence
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#catatan-dialog-internal-intra-self-episode
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#analisis-komunikasi
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#penggunaan-ai
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#self-assessment
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html#assessment-dosen
+- https://rawrwrwr.github.io/Hikumikum/examples/week-02.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/images/mini-konser.jpeg
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

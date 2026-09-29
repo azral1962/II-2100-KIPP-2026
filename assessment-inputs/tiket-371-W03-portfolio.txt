@@ -1,0 +1,163 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 371
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kyaolp.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kyaolp.github.io/kipp-students/index.html
+- https://kyaolp.github.io/kipp-students/assets/logo.png
+- https://kyaolp.github.io/kipp-students/course/index.html
+- https://kyaolp.github.io/kipp-students/portfolio/index.html
+- https://kyaolp.github.io/kipp-students/examples/index.html
+- https://kyaolp.github.io/kipp-students/lk/index.html
+- https://kyaolp.github.io/kipp-students/slides.html
+- https://kyaolp.github.io/kipp-students/slides-pdf/index.html
+- https://kyaolp.github.io/kipp-students/assessment/index.html
+- https://kyaolp.github.io/kipp-students/about.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-02.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-04.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-05.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-06.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-07.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-08.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-09.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-10.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-11.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-12.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-13.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-14.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-15.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://kyaolp.github.io/kipp-students/examples/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

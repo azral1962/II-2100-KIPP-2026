@@ -1,0 +1,212 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 153
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core meaning
+Evidence understanding
+Analisis dan batas
+Konteks performance
+Evidence
+Matriks Terjemahan Lima Bahasa
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Core meaning
+Fakta yang tidak boleh berubah: Dark Patterns (khususnya false affordance pada iklan gim interaktif) adalah trik atau elemen desain antarmuka digital yang sengaja mengelabui ketidaksadaran pengguna saat berinteraksi dengan layar, sehingga pengguna melakukan tindakan yang tidak dikehendaki (berpindah ke toko aplikasi untuk pengunduhan) tanpa persetujuan yang jujur (informed consent).
+Target/character
+Versi language
+Alasan adaptasi
+Customer / User (Anak-anak ~10 tahun)
+“Pernahkah kamu melihat iklan gim yang interaktif (iklan yang dapat dimainkan? ) beberapa detik pertama iklannya memang bisa dimainkan, tetapi beberapa saat kemudian layar berpindah ke tempat pengunduhan Gim tersebut. Kamu yang sedang memainkan iklan tidak sadar jika kamu menyentuh iklan tersebut dan bukan lagi Gim nya.”
+Menggunakan contoh riil yang sangat konkret dan akrab bagi anak-anak tanpa menggunakan istilah teknis atau akademis.
+Friend (Sahabat Beda Prodi)
+“Kamu pernah gak lagi main gim terus muncul iklan yang katanya bisa dicoba dipencet-pencet? Awalnya emang bisa dimainin, tapi pas lagi asyik ngetap, tiba-tiba layarnya langsung pindah sendiri ke Play Store/App Store. Itu tuh bukan kamu yang salah pencet, tapi emang Dark Pattern dari desainer iklannya. Mereka bikin jebakan biar jari mu tanpa sadar nge-klik iklannya.”
+Bahasa santai, akrab, dan hangat (informal slang), berfokus pada meluruskan rasa bersalah pengguna saat terkena jebakan antarmuka.
+Technical peer (Rekan Teknis / Sejurusan STI)
+“Dalam perancangan UI/UX, praktik ini mengacu pada Dark Patterns yang memanfaatkan Cognitive Bias dan False Affordance. Pengembang sengaja memanipulasi heuristik navigasi dan area sentuh (hitbox) pada antarmuka iklan interaktif, sehingga mengarahkan user input secara paksa ke Store URI tanpa informed consent untuk mendongkrak metrik konversi.”
+Menggunakan terminologi standar industri dan parameter teknis yang presisi untuk menjelaskan mekanisme logika sistem.
+Manager (Pengambil Keputusan / Bisnis)
+“Meskipun penerapan Dark Patterns pada antarmuka iklan ini mendongkrak angka klik secara drastis dalam jangka pendek, dampak jangka panjangnya sangat berisiko bagi bisnis. Hal ini merusak kepercayaan pengguna (brand trust), menyebabkan bounce rate tinggi, serta berisiko mendapat penalti dari platform penyedia iklan akibat pelanggaran panduan UX.”
+Menekankan dampak bisnis, manajemen risiko, proyeksi reputasi jangka panjang, dan metrik keberlanjutan produk.
+Public (Masyarakat Luas)
+“Pernahkah Anda mendapati layar HP tiba-tiba berpindah ke halaman pengunduhan aplikasi saat sedang mencoba iklan permainan? Hal ini bukanlah kesalahan atau ketidaktelitian Anda, melainkan hasil dari trik desain digital (Dark Patterns) yang sengaja membingungkan pengguna. Paham akan hal ini penting agar masyarakat terhindar dari pengunduhan tak disengaja yang merugikan kuota atau data.”
+Bahasa inklusif, formal namun lugas, menghubungkan konsep teknologi dengan edukasi hak konsumen digital dan perlindungan data pribadi.
+Evidence understanding
+Uji pemahaman dilakukan dengan menyampaikan versi Technical Peer kepada seorang teman sejurusan (mahasiswa Sistem dan Teknologi Informasi).
+Respon awal target: Teman saya memahami bahwa yang dimaksud adalah manipulasi hitbox pada antarmuka iklan, namun ia memberi tanggapan: “Penjelasannya udah nangkep banget soal teknisnya, tapi kalau cuma nyebut mendongkrak metrik konversi, kesannya kayak sekadar teknik marketing biasa. Padahal poin utamanya kan ada unsur manipulasi etika UI/UX-nya.”
+Adaptasi/Refinansi: Menanggapi masukan tersebut, saya menegaskan batas definisi dalam diskusi bahwa manipulasi hitbox ini dilakukan secara sengaja (intentional deceptive design) untuk memotong alur navigasi normal pengguna, bukan sekadar optimalisasi antarmuka biasa.
+Hasil akhir: Teman menyetujui bahwa istilah false affordance dan forced redirection pada draf teknis sudah secara akurat menggambarkan pelanggaran etika UI/UX tersebut tanpa mengubah pesan inti.
+Analisis dan batas
+Variasi repertoire diubah secara signifikan mulai dari narasi pengalaman konkret (anak-anak), percakapan informal (sahabat), technical brief (rekan teknis), decision/risk brief (manajer), hingga public awareness notice (publik umum).
+Versi publik umum tidak menyertakan rincian istilah arsitektur antarmuka seperti hitbox atau Store URI agar tidak membingungkan audiens awam (curse of knowledge). Sebaliknya, versi teknis menuntut presisi terminologi agar sejawat STI memahami mechanism di balik manipulasi event listener antarmuka.
+Catatan Penggunaan AI Kopilot: Pada awalnya, AI memberikan draf untuk ragam bahasa anak-anak, tetapi bahasanya menurut saya masih terlalu kaku dan sulit dipahami oleh anak-anak. Oleh karena itu, saya menyusun sendiri kalimat ragam anak-anak menggunakan contoh konkret yang lebih intuitif, yaitu iklan gim interaktif yang tiba-tiba berpindah ke tempat pengunduhan.
+Selanjutnya, saya menggunakan AI untuk membantu menyelaraskan draf lainnya agar topik iklan gim interaktif ini menjadi benang merah yang konsisten di semua versi tanpa mengorbankan kebenaran inti konsep Dark Patterns.
+Konteks performance
+Tanggal dan setting: 27 September 2026.
+Persons dan relationship: - Saya (Mahasiswa Sistem dan Teknologi Informasi). - Rekan Mahasiswa Sejurusan STI (Rekan Teknis / Observer uji pemahaman).
+Objective dan initial state: - Objective: Menerjemahkan konsep teknis STI (Dark Patterns / False Affordance pada iklan gim interaktif) ke dalam 5 ragam bahasa yang berbeda tanpa menggeser kebenaran inti (core meaning). - Initial State: Konsep Dark Patterns terperangkap dalam jargon kaku UI/UX yang sulit dipahami oleh masyarakat awam atau anak-anak (curse of knowledge).
+Evidence
+Matriks Terjemahan Lima Bahasa
+Core Meaning: Dark Patterns (khususnya false affordance pada iklan gim interaktif) adalah trik atau elemen desain antarmuka digital yang sengaja mengelabui ketidaksadaran pengguna saat berinteraksi dengan layar, sehingga pengguna melakukan tindakan yang tidak dikehendaki (berpindah ke toko aplikasi untuk pengunduhan) tanpa persetujuan yang jujur (informed consent).
+Customer / User (Anak-anak ~10 tahun): > “Pernahkah kamu melihat iklan gim yang interaktif (iklan yang dapat dimainkan? ) beberapa detik pertama iklannya memang bisa dimainkan, tetapi beberapa saat kemudian layar berpindah ke tempat pengunduhan Gim tersebut. Kamu yang sedang memainkan iklan tidak sadar jika kamu menyentuh iklan tersebut dan bukan lagi Gim nya.”
+Friend (Sahabat Beda Prodi): > “Lu pernah kagak lagi main gim terus muncul iklan yang katanya bisa dicoba dipencet-pencet? Awalnya emang bisa dimainin, tapi pas lu lagi asyik ngetap, tiba-tiba layarnya langsung pindah sendiri ke Play Store. Itu tuh bukan lu yang salah pencet, tapi emang Dark Pattern dari desainer iklannya. Mereka bikin jebakan biar jari lu tanpa sadar nge-klik iklannya.”
+Technical Peer (Rekan Teknis / STI): > “Dalam perancangan UI/UX, praktik ini mengacu pada Dark Patterns yang memanfaatkan Cognitive Bias dan False Affordance. Pengembang sengaja memanipulasi heuristik navigasi dan area sentuh (hitbox) pada antarmuka iklan interaktif, sehingga mengarahkan user input secara paksa ke Store URI tanpa informed consent untuk mendongkrak metrik konversi.”
+Manager (Pengambil Keputusan / Bisnis): > “Meskipun penerapan Dark Patterns pada antarmuka iklan ini mendongkrak angka klik secara drastis dalam jangka pendek, dampak jangka panjangnya sangat berisiko bagi bisnis. Hal ini merusak kepercayaan pengguna (brand trust), menyebabkan bounce rate tinggi, serta berisiko mendapat penalti dari platform penyedia iklan akibat pelanggaran panduan UX.”
+Public (Masyarakat Luas): > “Pernahkah Anda mendapati layar HP tiba-tiba berpindah ke halaman pengunduhan aplikasi saat sedang mencoba iklan permainan? Hal ini bukanlah kesalahan atau ketidaktelitian Anda, melainkan hasil dari trik desain digital (Dark Patterns) yang sengaja membingungkan pengguna. Paham akan hal ini penting agar masyarakat terhindar dari pengunduhan tak disengaja yang merugikan kuota atau data.”
+Kontribusi Pribadi: Merumuskan core meaning, menuliskan draf ragam bahasa anak-anak secara mandiri, serta mengevaluasi dan menyelaraskan 4 ragam bahasa lainnya.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Membedakan 5 audiens berdasarkan tingkat pemahaman teknis dan kebutuhan informasi. Anak-anak membutuhkan narasi konkret, sahabat membutuhkan nada santai, rekan teknis membutuhkan presisi, manajer membutuhkan proyeksi risiko/bisnis, dan publik membutuhkan edukasi hak konsumen.
+Objective & state
+Memastikan pesan inti—bahwa pengalihan layar ini adalah jebakan desain yang sengaja dan bukan kesalahan jari pengguna—tetap tersampaikan utuh di kelima registrasi bahasa.
+Repertoire & language
+Melakukan code-switching secara kontras: dari cerita intuitif (anak), bahasa gaul/informal (sahabat), istilah standar industri seperti hitbox & Store URI (teknis), bahasa manajerial/risiko (manajer), hingga bahasa resmi yang komunikatif (publik).
+Response & adaptation
+Beradaptasi saat menguji draf teknis ke teman sejurusan. Ketika ia menilai penjelasannya terkesan seperti optimalisasi marketing biasa, saya menegaskan batas etika desain (intentional deceptive design) untuk memperjelas konteksnya.
+Agreement/action
+Tercapainya kesepahaman dari audiens (rekan sejurusan) bahwa manipulasi hitbox pada antarmuka iklan merupakan pelanggaran etika UI/UX yang merugikan pengguna.
+Relationship outcome
+Mempererat interaksi profesional dengan rekan sejurusan melalui diskusi kritis, serta melatih kemampuan empati komunikasi tanpa terjebak curse of knowledge.
+Penggunaan AI
+Alat dan peran AI: Gemini digunakan sebagai sparrring partner untuk menguji kelenturan register dan menyelaraskan konsistensi pesan antar-audiens.
+Prompt penting: > “Saya sudah membuat penjelasan ragam anak-anak dengan kalimat sendiri berbasis iklan gim interaktif yang mengalihkan layar. Tolong bantu pastikan agar ragam lainnya sudah sesuai.”
+Bagian output yang diubah/ditolak: Draf awal AI untuk ragam anak-anak ditolak sepenuhnya karena bahasanya masih kaku dan terlalu akademis. Saya menggantinya dengan draf buatan sendiri yang menggunakan contoh iklan gim interaktif.
+Pemeriksaan accuracy, privacy, dan authority: Memastikan AI tidak menambahkan klaim berlebihan yang tidak akurat (seperti menyebut Dark Pattern pasti mengandung virus/malware).
+Apa yang tetap dipelajari sebagai manusia: Kepekaan rasa (sense of empathy) dalam memilih analogi dunia nyata yang intuitif bagi lawan bicara tidak bisa digantikan oleh AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Penjelasannya udah nangkep banget soal teknisnya, tapi kalau cuma nyebut mendongkrak metrik konversi, kesannya kayak sekadar teknik marketing biasa. Padahal poin utamanya kan ada unsur manipulasi etika UI/UX-nya.” — (Masukan dari teman sejurusan STI saat uji pemahaman draf teknis).
+Adaptation/replay: Saya memperjelas batasan konteks pada draf teknis dengan menekankan bahwa tindakan ini merupakan manipulasi hitbox dan false affordance yang sengaja memotong informed consent pengguna, bukan sekadar optimalisasi antarmuka biasa.
+Next practice: Berlatih menyampaikan dampak risiko teknologi dan etika keilmuan STI kepada pemangku kepentingan bisnis secara lebih ringkas dan berorientasi pada tindakan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Kelima audiens dibedakan secara tegas berdasarkan konteks, karakter, dan kebutuhan informasinya.
+Objective & State
+4
+Kebenaran inti (core meaning) terkait manipulasi antarmuka iklan terjaga utuh di kelima versi.
+Repertoire, Language & AI
+4
+Draf , terutama bahasa untuk anak-anak disusun mandiri, AI digunakan secara bijak untuk menyelaraskan register bahasa lainnya.
+Response & Adaptation
+3
+Mampu merespons feedback teknis dari teman sejurusan dengan memperjelas batasan etika desain.
+Agreement, Action & Relationship
+3
+Setiap versi memiliki tujuan komunikasi dan relevansi tindakan yang jelas bagi audiensnya.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#matriks-terjemahan-lima-bahasa
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,174 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 183
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Lingkungan SMA (menjelang pengumuman OSN hingga masa pasca-pengumuman dan perkuliahan).
+Persons dan relationship: Penulis dan N (sahabat dekat selama hampir 2 tahun, teman pertama di SMA, tipe pertemanan yang sangat akrab dan selalu beraktivitas bersama). N memiliki karakteristik gaya bercanda yang harsh (kasar) dan cenderung tidak mempedulikan perasaan orang lain.
+Objective dan initial state:
+Initial state: Hubungan sangat dekat (skala ketegangan awal 1/10), namun Penulis terbiasa memendam perasaan dan mentoleransi candaan N demi menjaga keharmonisan pertemanan.
+Objective: Menjaga kesehatan emosional dan memproses rasa kecewa secara mandiri setelah gagal di OSN (momen krusial yang diposisikan sebagai jalur prestasi menuju ITB).
+Evidence state awal: Penulis berjuang keras belajar dan menjaga integritas saat tes OSN (menolak menyontek/bekerja sama), lalu menerima pesan ejekan dari N pasca-pengumuman.
+Evidence
+Berikut pesan singkat dari N via WhatsApp pasca-pengumuman OSN yang menjadi pemicu utama:
+N: “Yahahah ga lolos kan lu, mampus! Gw juga ga lolos sih, tapi seenggaknya gw gak yang paling tolol di mata pelajaran gw. Itu temen lu pada lolos kok lu gak lolos anjir, lawak.”
+Tindakan dan Catatan Respons Penulis (Implicit Boundary & Cut-off): 1. Digital Boundary: Membaca pesan tanpa membalas (no response), lalu segera memblokir kontak WhatsApp N. 2. Physical & Social Boundary (Hari berikutnya di sekolah): Pindah tempat duduk dari yang biasanya nempel bersama N. Mengabaikan keberadaan N (cuekin), menolak kontak mata, dan tidak merespons saat N mencoba mengikutinya. 3. Social Relocation: Menghindari N dengan cara menghampiri kelompok teman lain di mana N tidak akrab, sehingga N terisolasi (bermain HP sendiri di kelas). 4. Long-term Distance (Masa Kuliah): Saat N menghubungi kembali di masa kuliah, Penulis merespons dengan gaya dry text, slow response, dan tidak membuka ruang untuk percakapan mendalam.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Penulis: Bertransformasi dari passive/tolerant friend menjadi penegak batas tegas (hard boundary enforcer) demi melindungi kesehatan emosional.
+N: Menggunakan gaya insensitive humor, tidak menyadari keseriusan emosional pada momen kegagalan Penulis.
+Objective & state
+Initial State: Ketegangan melonjak cepat dari 1/10 menjadi 10/10 pasca-pesan ejekan.
+Objective: Bukan perbaikan hubungan (repair), melainkan pemutusan akses sosial (self-preservation & cut-off).
+Repertoire & language
+Menggunakan Implicit Code & Non-Verbal Withdrawal: memblokir kontak, pengabaian (silence), pindah tempat duduk, penolakan kontak mata, dan penarikan diri secara fisik. Explicit verbal statement sengaja tidak digunakan karena desire for forgiveness/repair Penulis sudah nol.
+Response & adaptation
+N awalnya tidak memahami kode pengabaian dan tetap mengejek saat di sekolah. Penulis beradaptasi dengan memperketat penarikan diri (pindah tempat duduk dan bergabung dengan kelompok teman lain) sampai N tidak lagi memiliki akses interaksi.
+Agreement/action
+Tidak ada kesepakatan verbal (unilateral decision). Penulis mengambil keputusan pemutusan hubungan (hard cut-off) secara mandiri dan penuh.
+Relationship outcome
+Hubungan sahabat dekat terputus total menjadi distant acquaintance. Namun terdapat delayed realization pada N: saat pengumuman UTBK, respons N berubah menjadi lebih kalem dan suportif dibanding saat OSN, menandakan ia akhirnya menyadari kesalahannya meskipun relasi tidak bisa kembali seperti semula.
+Penggunaan AI
+Alat dan peran AI: Gemini sebagai alat bantu analisis untuk mensintesis kronologi empiris pribadi ke dalam kerangka akademik ilmu komunikasi (implicit boundary, emotional threshold, unilateral cut-off).
+Prompt atau instruksi penting: “Bantu sesuaikan draf pengalaman pribadi pemutusan pertemanan pasca-OSN ke dalam struktur template Quarto Relationship Conversation minggu 3.”
+Bagian output yang digunakan, diubah, atau ditolak: Diterima untuk kategorisasi analisis komunikasi dan penyusunan konteks. Ditolak pada poin saran yang mendorong perbaikan verbal (repair), karena tidak merepresentasikan pilihan tindakan faktual Penulis.
+Pemeriksaan accuracy, privacy, dan authority: Identitas disamarkan (inisial N). Seluruh kronologi dan respons bersumber penuh dari pengalaman nyata Penulis.
+Apa yang tetap Anda pelajari sebagai manusia: Memahami bahwa implicit boundary membutuhkan waktu bagi lawan bicara untuk menyadarinya, serta menyadari bahwa menetapkan hard boundary demi kesehatan emosional adalah hak dan tindakan yang valid dalam hubungan interpersonal.
+Feedback dan tindak lanjut
+Feedback yang diterima: Penarikan diri secara implicit (ngode/blokir) berisiko membuat lawan bicara butuh waktu lama untuk menyadari kesalahannya. Namun jika emosi sudah melewati batas toleransi (threshold), penarikan diri secara langsung dapat diterima sebagai bentuk perlindungan diri.
+Adaptation/replay: Jika menghadapi situasi serupa di masa depan, Penulis dapat mempertimbangkan untuk menyampaikan satu kalimat explicit boundary singkat sebelum melakukan penarikan diri.
+Next Practice: Menyampaikan satu kalimat tegas secara lugas saat pertama kali merasa batas pribadi dilanggar (misal: “Candaan lu di situasi ini gak bisa gw terima”).
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Mengenali dinamika peran pribadi dari serba-memaklumi menjadi penegak batas emosional yang tegas.
+Objective & State
+4
+Menyebutkan lonjakan ketegangan (1/10 ke 10/10) dan alasan objektivitas pemutusan relasi.
+Repertoire, Language & AI
+4
+Menguraikan penggunaan implicit boundary, non-verbal withdrawal, dan pelaporan AI secara transparan.
+Response & Adaptation
+3
+Beradaptasi memindahkan lokasi fisik saat kode awal (blokir) belum dipahami lawan bicara.
+Agreement, Action & Relationship
+4
+Pemutusan hubungan (hard cut-off) tereksekusi nyata hingga perkuliahan dengan bukti delayed realization pada N.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Siap dinilai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Ahmad Ibrahim Alhakim
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rawrwrwr.github.io/Hikumikum/index.html
+- https://rawrwrwr.github.io/Hikumikum/assets/logo.png
+- https://rawrwrwr.github.io/Hikumikum/course/index.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/index.html
+- https://rawrwrwr.github.io/Hikumikum/examples/index.html
+- https://rawrwrwr.github.io/Hikumikum/lk/index.html
+- https://rawrwrwr.github.io/Hikumikum/slides.html
+- https://rawrwrwr.github.io/Hikumikum/slides-pdf/index.html
+- https://rawrwrwr.github.io/Hikumikum/assessment/index.html
+- https://rawrwrwr.github.io/Hikumikum/about.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-01.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-05.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-06.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-07.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-08.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-09.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-10.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-11.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-12.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-13.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-14.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-15.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#kompetensi-target
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#evidence-wajib
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#konteks-performance
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#evidence
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#analisis-komunikasi
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#penggunaan-ai
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#self-assessment
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html#assessment-dosen
+- https://rawrwrwr.github.io/Hikumikum/examples/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

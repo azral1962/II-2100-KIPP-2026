@@ -1,0 +1,182 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 278
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
+📝 FASE 1: RENCANA DISCOVERY & ASUMSI AWAL
+Initial Assumption & Rencana Wawancara
+📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
+👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+📓 2. Log Catatan Wawancara (Menggunakan Potongan Transkrip)
+✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN (SHARED PROBLEM STATEMENT)
+📐 Formula Standar:
+✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Shared Problem Statement bersama Kak Aurel)
+🎯 FASE 4: REFLEKSI INTRAPRIBADI & ANALISIS BATAS
+📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+Materi Pendamping Penugasan Bab 5: Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama
+Nama Lengkap: Maximillian Jose Andreas Aditjandra
+Tanggal Pengerjaan: 27 September 2026
+“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.” — Komunikasi Interpersonal dan Publik, Bab 5
+📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
+Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah terlalu cepat menyodorkan solusi atau membuat fitur sebelum benar-benar memahami masalahnya. Permintaan awal dari rekan kerja atau pelanggan sering kali bukanlah solusi terbaik. Lembar kerja ini dirancang untuk menuntun Anda melakukan Wawancara Penemuan Kebutuhan yang berempati, mendengarkan secara mendalam sebelum menjelaskan, serta merumuskan Pernyataan Masalah Pelanggan (Customer Problem Statement) secara presisi.
+📝 FASE 1: RENCANA DISCOVERY & ASUMSI AWAL
+Initial Assumption & Rencana Wawancara
+Asumsi Awal (Jose): Masalah utama pemilik UMKM online dalam mengelola biaya platform adalah persoalan matematis yang dapat diselesaikan dengan membangun sistem prediktif Machine Learning untuk memetakan pola pemotongan biaya admin.
+Rencana Pertanyaan Discovery:
+Ceritakan terakhir kali Anda mengalami kendala terkait potongan biaya admin di platform e-commerce.
+Pada bagian mana dari proses tersebut yang paling menghambat operasional atau strategi harga Anda?
+Apa dampaknya terhadap margin keuntungan dan strategi penetapan harga produk (pricing) Anda?
+Cara apa yang selama ini Anda gunakan untuk mengatasi atau mencari kejelasan informasi tersebut?
+Constraint atau batasan apa (seperti birokrasi platform) yang harus dipertimbangkan?
+📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
+👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+Nama Samaran: Kak Aurel
+Peran/Pekerjaan Nyata: Pemilik UMKM (Toko Online Skincare di E-commerce)
+Domain Hubungan: Pelanggan / Target Pasar (Konteks: Observasi Kebutuhan Seller)
+Konteks Lingkungan: Obrolan kasual secara tatap muka di cafe (wawancara tidak direkam untuk menjaga kenyamanan, berbasis catatan ingatan).
+📓 2. Log Catatan Wawancara (Menggunakan Potongan Transkrip)
+Jose: “Kak, boleh ceritakan pengalaman pas kena potong biaya admin di Shopee kemarin? Gimana rasanya waktu tahu nominalnya nggak sesuai ekspektasi?”
+Kak Aurel: “Iya, itu yang bikin pusing. Pemotongan biaya adminnya dirasa nggak transparan. Tiba-tiba persentasenya berubah atau kepotong besar tanpa ada rincian perhitungan atau dasar yang jelas di setiap transaksi.”
+Jose: “Jadi masalah utamanya ada di ketidakjelasan variabel perhitungannya ya, Kak? Seberapa sering hal itu bikin margin keuntungan kegeser?”
+Kak Aurel: “Banget! Margin jadi nggak menentu. Terpaksa aku harus sedikit menaikkan harga jual produk secara mendadak demi menutup biaya admin yang nggak bisa diprediksi itu, dan itu bikin pembeli komplain.”
+Jose: “Waktu Kak Aurel coba tanya ke Customer Service (CS), respons mereka gimana?”
+Kak Aurel: “Pernah aku tanyain, tapi CS nggak bisa bantu karena alasan ‘aturan kerahasiaan dan keamanan data perusahaan’. Formula perhitungannya dikunci total.”
+✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN (SHARED PROBLEM STATEMENT)
+📐 Formula Standar:
+[Pribadi/Peran] mengalami [keadaan yang dapat diamati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].
+✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+Pemilik UMKM online mengalami pemotongan biaya admin yang tiba-tiba dan tidak memiliki rincian pasti ketika berjualan di platform e-commerce, sehingga ia terpaksa menaikkan harga barang yang membebani pembeli. Ia membutuhkan transparansi perhitungan agar bisa menyesuaikan harga dengan stabil, dengan mempertimbangkan kendala bahwa Customer Service dilarang membeberkan variabel perhitungan tersebut dengan alasan rahasia perusahaan.
+🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Shared Problem Statement bersama Kak Aurel)
+Pemilik UMKM online mengalami pemotongan biaya admin yang tidak transparan dan bervariasi ketika memproses transaksi di e-commerce, sehingga margin keuntungannya tergerus dan terpaksa membebankan kenaikan harga pada pembeli. Ia membutuhkan kemampuan untuk mengetahui dasar variabel potongan secara pasti agar dapat merancang strategi harga (pricing) yang stabil ke depan, dengan mempertimbangkan kendala birokrasi platform tertutup yang mengunci formula perhitungan sebagai data rahasia perusahaan.
+(Kak Aurel mengonfirmasi bahwa rumusan ini secara tepat menangkap inti masalah operasionalnya tanpa terjebak pada janji solusi instan).
+🎯 FASE 4: REFLEKSI INTRAPRIBADI & ANALISIS BATAS
+Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?
+Selama mendengarkan, pikiran saya sebagai mahasiswa Komputasi langsung bekerja memikirkan solusi (over-directing). Insting awal saya adalah ingin menyodorkan ide: “Kenapa nggak kita buatkan sistem prediktif pakai Machine Learning saja untuk menghitung pola adminnya?” Namun, saya memilih diam dan mendengarkan keluhannya sampai habis.
+Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?
+Asumsi saya terbukti keliru. Saya berpikir masalah ini murni persoalan matematis yang bisa diselesaikan teknologi prediktif (AI). Ternyata akar masalahnya ada di birokrasi dan kebijakan tertutup. Sistem Machine Learning terhebat pun akan sulit dibangun jika kita tidak diberi akses terhadap variabel/parameter dasar pengukurannya dari pihak e-commerce.
+Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?
+Saya harus menepati janji untuk tidak membocorkan identitas tokonya ke publik demi menjaga kelangsungan bisnisnya di platform tersebut. Selain itu, saya berjanji tidak akan menyodorkan “solusi teknis palsu” yang sebenarnya tidak bisa diterapkan (infeasible) akibat blokade birokrasi tersebut.
+📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Kriteria Evaluasi
+⭐ Belum Tampak (Skor < 60)
+⭐⭐ Mulai Berkembang (Skor 60-79)
+⭐⭐⭐ Cakap / Unggul (Skor 80-100)
+Skor Mandiri
+Kualitas Mendengarkan
+Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah.
+Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak.
+Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh.
+⭐⭐⭐ (85)
+Ketepatan Rumusan Masalah
+Rumusan masalah masih berupa usulan solusi teknis (misal: “Memerlukan aplikasi database”).
+Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber.
+Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi.
+⭐⭐ (75)
+Etika & Penjagaan Privasi
+Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber.
+Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif.
+Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati.
+⭐⭐⭐ (90)
+Keandalan & Hubungan
+Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber.
+Menyatakan batas secara umum namun tindak lanjutnya masih mengambang.
+Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya.
+⭐⭐⭐ (85)
+Self-Assessment Dimensi Penilaian Tambahan: | Dimensi | Skor | Evidence Singkat | |—|—:|—| | Person & Character | 3 | Pengalaman dan constraint pelaku UMKM dipetakan secara nyata | | Objective & State | 3 | Asumsi awal (pembuatan AI prediktif) diperbarui menjadi problem statement berbasis birokrasi tertutup | | Repertoire, Language & AI | 3 | Pertanyaan terbuka, parafrase, konfirmasi, dan pemanfaatan AI secara terbatas untuk memetakan fakta/asumsi | | Response & Adaptation | 3 | Menahan solusi teknis awal setelah mendengarkan batasan kebijakan CS | | Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi bersama Kak Aurel; komitmen penjagaan privasi terjaga |
+Total Skor Mandiri: 15 / 20 — Kompeten.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Maximillian Jose Andreas Aditjandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ilovecomputer-python.github.io/kipp-students/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assets/logo.png
+- https://ilovecomputer-python.github.io/kipp-students/course/index.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/index.html
+- https://ilovecomputer-python.github.io/kipp-students/examples/index.html
+- https://ilovecomputer-python.github.io/kipp-students/lk/index.html
+- https://ilovecomputer-python.github.io/kipp-students/slides.html
+- https://ilovecomputer-python.github.io/kipp-students/slides-pdf/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assessment/index.html
+- https://ilovecomputer-python.github.io/kipp-students/about.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-01.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-03.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-06.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-08.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-09.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-10.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-11.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-12.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-13.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-14.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-15.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#lembar-kerja-praktis-wawancara-penemuan-kebutuhan-formula-pernyataan-masalah-pelanggan
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#pengantar-nilai-ada-dalam-pengalaman-penerima
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#fase-1-rencana-discovery-asumsi-awal
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#initial-assumption-rencana-wawancara
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#fase-2-lembar-pengerjaan-mahasiswa
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#profil-narasumber-disamarkan-demi-privasi
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#log-catatan-wawancara-menggunakan-potongan-transkrip
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#fase-3-formulasi-pernyataan-masalah-pelanggan-shared-problem-statement
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#formula-standar
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#draft-1-pernyataan-masalah-awal-sebelum-konfirmasi
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#draft-2-pernyataan-masalah-terkonfirmasi-shared-problem-statement-bersama-kak-aurel
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#fase-4-refleksi-intrapribadi-analisis-batas
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#fase-5-rubrik-penilaian-mandiri-self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,206 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 150
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Konteks performance
+Evidence
+Ringkasan Hasil Wawancara Discovery
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Initial assumption dan rencana discovery
+Saya berasumsi bahwa mahasiswa yang mengambil jadwal perkuliahan maraton sore (13.00–18.00) keberatan jika jam pulang diundur lebih malam, dan masalah utamanya adalah keinginan untuk menyelesaikan kelas secepat mungkin. Saya mewawancarai MD (nama disamarkan), mahasiswa seangkatan STI, untuk memahami bagaimana ia mengelola waktu ibadah Ashar di tengah transisi kelas yang padat sebelum mengusulkan bentuk solusi apa pun.
+Pertanyaan Discovery Utama: 1. Ceritakan pengalaman konkretmu pas dapat jadwal kuliah maraton dari jam 13.00 sampai 18.00. Bagaimana persisnya cara kamu mengatur waktu sholat Ashar di antara transisi kelas? 2. Mengapa situasi terburu-buru di jam transisi itu menjadi masalah buatmu? Apa dampaknya? 3. Selain kamu sendiri, siapa lagi yang ikut terkena imbas dari transisi waktu yang mepet ini? 4. Jika situasi ini bisa diperbaiki, seperti apa alur transisi atau jadwal ideal yang kamu harapkan? 5. Menurut pandanganmu, apa kendala atau batasan dari pihak kampus yang membuat jeda waktu sholat ini sulit diberikan?
+Potongan transcript
+Saya: “Boleh cerita pengalaman konkretmu pas dapat jadwal kuliah maraton dari jam 13.00 sampai 18.00? Gimana persisnya cara kamu ngatur waktu buat sholat Ashar di antara transisi kelas itu?”
+MD: “Hari di mana kita ada jadwal dari jam 1 sampe jam 6 adalah hari yang sangat melelahkan, apalagi kita tidak dikasih waktu sholat secara eksplisit di jadwal. Jadi kita harus membolos salah satu kelas, antara awal jam Jarkom atau awal jam PBD.”
+Saya: “Mengapa situasi terburu-buru itu jadi masalah buatmu? Apa dampaknya ke ibadah atau fokus kelas?”
+MD: “Situasi terburu-buru saat ibadah karena kita membolos kelas membuat sholat kita menjadi terburu-buru.”
+Saya: “Siapa saja yang ikut terdampak oleh kondisi ini?”
+MD: “Pihak terdampak tentu diri kita dan temen yang beragama sama, dan juga dosen yang mengajar karena dia harus merelakan beberapa muridnya bolos demi sholat.”
+Saya: “Kalau situasi ini bisa diperbaiki, jadwal ideal seperti apa yang kamu harapkan?”
+MD: “Sebenarnya jadwal yang ideal adalah kita diberi selang waktu 30 menit di jadwal untuk sholat. Misal selesai Arsikom jam 3, maka mulai Jarkom jam 3.30. Waktu pulang menjadi 18.30. Menurut saya lebih baik pulangnya dimundurin daripada sholat terburu-buru.”
+Saya: “Apa kendala dari kampus yang bikin jeda ini susah diberikan?”
+MD: “Itu mungkin terjadi karena padatnya jadwal dan timpangnya jumlah mahasiswa dan kelas yang tersedia di ITB Ganesha.”
+Pembaruan pembacaan
+Asumsi awal saya bahwa “mahasiswa pasti menolak jika jam kuliah selesai lebih malam” ternyata keliru. Evidence dari wawancara menunjukkan bahwa kebutuhan mendasar narasumber adalah ketenangan ibadah dan kepastian hadir utuh di kelas, bukan sekadar pulang cepat. MD secara eksplisit menyatakan lebih memilih jam pulang bergeser ke pukul 18.30 asal diberikan jeda waktu transisi yang cukup (30 menit).
+Shared Problem Statement yang Dikonfirmasi MD:
+“Mahasiswa Muslim STI ITB yang mengambil perkuliahan maraton sore membutuhkan jeda waktu transisi resmi (minimal 30 menit) di antara jam kuliah untuk menunaikan ibadah dengan tenang dan hadir utuh di awal kelas, meskipun harus menerima konsekuensi waktu pulang yang lebih lambat, karena ketiadaan alokasi waktu ibadah pada jadwal membuat sholat terburu-buru dan mengorbankan kehadiran di kelas.”
+MD menyetujui rumusan ini karena secara akurat menggambarkan dilema yang dialaminya tanpa langsung memaksakan pembuatan aplikasi atau sistem teknis tertentu.
+Konteks performance
+Tanggal dan setting: 27 September 2026.
+Persons dan relationship: Saya (Mahasiswa STI) dan MD (Nama disamarkan, Teman Seangkatan STI). Hubungan bersifat rekan sejawat/mahasiswa.
+Objective dan initial state: - Objective: Menggali kebutuhan riil pengguna terkait masalah jadwal perkuliahan tanpa melompat ke solusi teknis, serta merumuskan shared problem statement. - Initial State: Masalah dipandang sebatas keluhan jadwal padat, dengan asumsi mahasiswa hanya ingin pulang cepat.
+Evidence
+Ringkasan Hasil Wawancara Discovery
+Problem Impact:
+Kualitas ibadah terganggu (sholat terburu-buru).
+Rasa bersalah dan kehilangan materi akibat datang terlambat/membolos di awal kelas.
+Dosen pengajar kehilangan kehadiran mahasiswa pada 15–20 menit pertama kelas.
+Constraints:
+Kepadatan kurikulum akademik.
+Keterbatasan ketersediaan ruang kelas fisik dibanding jumlah mahasiswa di ITB Ganesha.
+Shared Problem Statement:
+MD berpendapat bahwa jadwal kelas yang tanpa jeda bisa membuat tidak khusyuk saat beribadah.
+Link Bukti Google Drive
+Kontribusi Pribadi: Merancang 5 pertanyaan discovery bebas-solusi, memandu jalannya wawancara tanpa melakukan leading questions, serta menyusun dan mengonfirmasi shared problem statement bersama narasumber.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Memahami peran MD sebagai mahasiswa yang harus menyeimbangkan kewajiban akademis dan ibadah di tengah keterbatasan fasilitas/jadwal kampus.
+Objective & state
+Berhasil mengubah pemahaman awal dari sekadar “keinginan pulang cepat” menjadi “kebutuhan akan ketenangan ibadah dan keutuhan kehadiran di kelas”.
+Repertoire & language
+Menggunakan pertanyaan terbuka (open-ended discovery questions) dan teknik paraphrasing santai tanpa mendikte jawaban narasumber.
+Response & adaptation
+Menahan diri untuk tidak langsung menawarkan solusi mengubah jadwal
+Agreement/action
+Mencapai kesepakatan (shared agreement) pada rumusan pernyataan masalah yang telah dibacakan ulang dan dikonfirmasi oleh MD.
+Relationship outcome
+Menjaga kepercayaan rekan sejawat dengan mendengarkan keluh kesahnya secara jujur.
+Penggunaan AI
+Alat dan peran AI: Gemini / AI Kopilot digunakan untuk membantu merapikan struktur Quarto Markdown dan mengelompokkan log wawancara ke dalam format Customer Problem Statement.
+Prompt penting: > “Bantu saya menyusun draf Portofolio Minggu 5 berdasarkan hasil wawancara nyata ini. Pastikan tidak menambah-nambah solusi teknis yang tidak masuk akal, jaga fakta asli dari narasumber, dan format sesuai Quarto template.”
+Bagian output yang diubah/ditolak: Draf awal AI sempat menyarankan ide refleksi terkait “membuat aplikasi pengingat sholat” atau “sistem pengaduan digital”. Output ini ditolak sepenuhnya karena tidak rasional dan melenceng dari akar masalah (masalahnya ada pada struktur jadwal perkuliahan, bukan karena mahasiswa lupa sholat).
+Pemeriksaan accuracy, privacy, dan authority: Identitas narasumber disamarkan menjadi “MD”, dan seluruh kutipan diambil langsung dari jawaban asli narasumber tanpa manipulasi fakta.
+Apa yang tetap dipelajari sebagai manusia: Kepekaan untuk menahan ego engineering (tidak langsung menyodorkan solusi aplikasi) dan mendengarkan kompromi riil pengguna (kerelaan pulang lebih malam demi ibadah tenang).
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Pernyataan masalahnya udah pas banget mewakili apa yang kita rasain pas kuliah sore. Kita kemungkinan gak masalah pulang sedikit lebih sore asal dikasih jeda sholat yang jelas daripada harus bolos-bolos awal kelas.” .
+Adaptation/replay: Mengubah rumusan problem statement yang tadinya fokus pada “keinginan mempercepat kelas” menjadi fokus pada “penyediaan jeda transisi resmi walau jam pulang bergeser”.
+Next practice: Membawa shared problem statement ini sebagai bahan masukan konkret ke forum evaluasi kurikulum prodi atau pengurus Himpunan Mahasiswa.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Mengidentifikasi kebutuhan dan dilema narasumber secara jujur tanpa stereotyping.
+Objective & State
+4
+Mengubah asumsi awal menjadi shared problem statement yang dikonfirmasi narasumber.
+Repertoire, Language & AI
+4
+Menggunakan pertanyaan terbuka; menolak usulan AI yang tidak rasional (seperti aplikasi pengingat sholat).
+Response & Adaptation
+3
+Berhasil menahan ego solusi teknis setelah mendengarkan penjelasan utuh narasumber.
+Agreement, Action & Relationship
+3
+Pernyataan masalah disepakati bersama; langkah tindak lanjut ke forum prodi terdefinisi.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#ringkasan-hasil-wawancara-discovery
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-05.html
+- https://drive.google.com/file/d/17TOa0reXH7KJ6VeuyZqboqoKhkYk0rFy/view?usp=sharing
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

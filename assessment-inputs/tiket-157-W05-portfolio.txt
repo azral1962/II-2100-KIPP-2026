@@ -1,0 +1,156 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 157
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Evidence, feedback, dan next step
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery untuk menyusun shared problem statement bersama server Plumeria Cafe & Creative Space.
+Kompetensi target
+Mendengarkan sebelum menawarkan solusi dan membangun shared problem statement bersama person.
+Evidence wajib
+Asumsi awal dan pertanyaan discovery.
+Transcript/parafrase, dampak masalah, dan constraint.
+Shared problem statement yang telah dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Initial assumption dan rencana discovery
+Saya awalnya mengira masalah utama di Plumeria Cafe & Creative Space adalah server yang kurang teliti dalam mengingat pesanan pelanggan. Karena itu, saya sempat membayangkan solusi berupa pelatihan tambahan untuk server. Untuk menguji asumsi tersebut, saya mewawancarai “Kak T”, salah satu server di Plumeria Cafe.
+Pertanyaan utama yang saya siapkan:
+Bisa ceritakan kejadian terakhir ketika pesanan sempat salah diantar ke meja?
+Di bagian mana Kak T paling mengalami kesulitan?
+Apa dampaknya terhadap pekerjaan Kak T atau pelanggan?
+Kalau masalah tersebut bisa teratasi, seperti apa alur kerja yang Kak T harapkan?
+Apakah ada batasan dari sisi waktu, biaya, atau kebiasaan tim yang perlu dipertimbangkan?
+Potongan transcript
+Kak T: “Minggu lalu ada pesanan matcha yang saya antar ke meja yang salah, soalnya pelanggan duduk sendiri tanpa nomor meja, jadi saya cuma nebak dari arah datangnya orang tadi.”
+Kezia: “Berarti masalahnya bukan Kak T lupa, tapi memang nggak ada cara untuk tahu pesanan itu punya meja mana?”
+Kak T: “Betul, dari kasir juga struknya cuma dicetak biasa, nggak ada nomor meja atau nomor pesanan.”
+Kezia: “Seberapa sering kejadian seperti ini muncul?”
+Kak T: “Hampir tiap jam ramai, apalagi kalau kitchen dan bar sama-sama selesai bareng, saya jadi bingung mana punya siapa.”
+Kezia: “Kalau masalah ini selesai, kira-kira alur kerja seperti apa yang Kak T bayangkan?”
+Kak T: “Saya cuma butuh cara pasti buat tahu pesanan ini punya meja mana, tanpa nebak-nebak atau nanya ke pelanggan satu-satu.”
+Kezia: “Ada batasan yang perlu saya tahu, misalnya soal waktu training tim atau kebiasaan pelanggan?”
+Kak T: “Timnya kebanyakan part time jadi nggak bisa training lama, dan pelanggan di sini terbiasa cari tempat duduk sendiri, jadi caranya harus tetap simpel buat mereka juga.”
+Pembaruan pembacaan
+Setelah wawancara, saya menyadari bahwa asumsi awal tentang server yang kurang teliti ternyata tidak didukung oleh temuan yang ada. Masalahnya justru bermula dari tidak adanya penanda yang menghubungkan pesanan dengan meja pelanggan sejak dari kasir. Akibatnya, informasi yang dibutuhkan server untuk mengantar pesanan dengan tepat sudah tidak tersedia ketika pesanan sampai ke tahap pengantaran. Hal ini juga dapat berdampak pada barista, kitchen crew, dan pelanggan.
+Namun, satu wawancara belum cukup untuk mengetahui seberapa besar masalah ini memengaruhi pengalaman pelanggan secara keseluruhan. Karena itu, saya menganggap hasil wawancara ini sebagai discovery awal yang masih perlu dikonfirmasi melalui perspektif kasir dan kitchen crew.
+Shared problem statement yang kemudian dikonfirmasi oleh Kak T:
+“Server Plumeria Cafe mengalami kesulitan memastikan pesanan sampai ke meja yang tepat saat jam ramai karena tidak ada penanda yang menghubungkan pesanan dengan pelanggan sejak pesanan dibuat, sehingga pesanan salah antar dan pelanggan harus menunggu lebih lama atau komplain. Tim membutuhkan cara memastikan kepemilikan tiap pesanan secara jelas dari kasir sampai meja, dengan mempertimbangkan waktu training staf part time yang terbatas dan kebiasaan pelanggan yang mencari tempat duduk sendiri.”
+Evidence, feedback, dan next step
+Catatan wawancara dibuat dengan persetujuan lisan Kak T dan identitasnya disamarkan.
+Transcript dianonimkan dan diberi penanda waktu wawancara.
+Dua hari setelah wawancara, saya mengirimkan kembali problem statement kepada Kak T dan meminta koreksi secara eksplisit.
+Pada discovery berikutnya, saya akan mewawancarai kasir dan kitchen crew untuk melihat alur pesanan dari sisi lain sebelum menarik kesimpulan mengenai problem statement untuk seluruh tim.
+AI digunakan untuk membantu memberi label fact, interpretation, dan solution suggestion pada transcript. Saya memeriksa kembali setiap label dengan catatan wawancara dan tidak memasukkan nama maupun kontak asli narasumber.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Saya melihat Kak T bukan hanya dari perannya sebagai server, tetapi juga dari pengalaman menghadapi jam ramai dan kondisi kerjanya sebagai staf part time
+Objective & State
+4
+Tujuan wawancara sudah ditentukan sejak awal, lalu asumsi bahwa server kurang teliti diuji melalui lima pertanyaan discovery
+Repertoire, Language & AI
+4
+Saya menggunakan open question, paraphrase, dan confirmation secara berurutan. AI hanya membantu memberi label pada transcript, lalu hasilnya saya periksa kembali secara manual
+Response & Adaptation
+4
+Saya tidak melanjutkan usulan pelatihan setelah mengetahui bahwa masalah utamanya berkaitan dengan tidak adanya penanda pesanan dan meja. Asumsi awal kemudian saya sesuaikan dengan hasil wawancara
+Agreement, Action & Relationship
+4
+Problem statement dikonfirmasi kembali kepada Kak T, rumusannya disesuaikan berdasarkan koreksinya, dan wawancara lanjutan dengan kasir serta kitchen crew direncanakan
+Total: 20/20
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://kazei0.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

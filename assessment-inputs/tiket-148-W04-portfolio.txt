@@ -1,0 +1,150 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 148
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Core meaning
+Fakta yang tidak boleh berubah: Akurasi yang tinggi pada data latihan tidak berarti model machine learning akan memiliki performa yang sama pada data baru. Jika model hanya “menghafal” data latihan (overfitting), model dapat gagal melakukan generalisasi pada situasi yang belum pernah ditemui.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Bayangin kamu cuma belajar dari 10 soal latihan, lalu pas ujian soalnya sedikit berbeda kamu langsung bingung. Nah, model AI yang lagi aku kerjain juga bisa seperti itu, kelihatan pintar saat latihan tapi belum tentu akurat saat menghadapi data baru.”
+Menggunakan analogi ujian sehari-hari, tanpa istilah teknis, dan dengan nada yang santai
+Technical peer
+“Training accuracy tinggi tapi validation/test accuracy jauh di bawahnya, menunjukkan indikasi overfitting karena model fitting ke noise. Aku sudah menambahkan cross-validation dan early stopping di pipeline LightGBM-nya.”
+Menggunakan istilah teknis yang presisi dan langsung menyebutkan mitigasi yang digunakan
+Manager
+“Model saat ini memiliki risiko overfitting sehingga akurat pada pengujian internal tetapi performanya bisa menurun saat digunakan pada data nyata. Jika tidak diantisipasi sejak awal, hal ini dapat menyebabkan keputusan bisnis yang keliru dan biaya perbaikan yang lebih besar.”
+Menekankan risiko, dampak terhadap keputusan, dan urgensi
+Customer/student user
+“Prediksi yang Anda lihat saat ini masih bisa berubah karena modelnya sedang diuji agar tidak hanya ‘menghafal’ data lama. Kami akan memberi kabar setelah hasilnya sudah cukup stabil untuk digunakan.”
+Menjelaskan dampak praktis tanpa jargon dan memberikan kepastian mengenai tindak lanjut
+Public
+“Kadang aplikasi rekomendasi memberikan saran yang aneh karena sistemnya hanya menghafal pola lama, bukan benar-benar memahami selera kamu yang terus berubah. Karena itu, AI yang kita gunakan sehari-hari perlu terus diuji kembali.”
+Menggunakan konteks umum, tanpa detail proyek, dan mudah dipahami
+Evidence understanding
+Kezia menguji versi friend kepada teman yang bukan dari jurusan STI tanpa memberikan penjelasan tambahan. Teman tersebut memahami bahwa hasil yang bagus pada latihan belum tentu berarti hasilnya juga bagus pada data baru. Namun, ia bertanya, “Terus kalau modelnya salah nebak, siapa yang rugi?” Kezia kemudian menambahkan kalimat, “Kalau salah, prediksinya bisa menyesatkan orang yang memakainya, makanya harus dites dulu sebelum benar-benar dipakai.”
+Analisis dan batas
+Repertoire disesuaikan dari obrolan santai sehari-hari untuk friend, istilah teknis yang presisi untuk technical peer, bahasa yang menekankan risiko dan biaya bisnis untuk manager, hingga penjelasan dampak praktis disertai kepastian tindak lanjut untuk customer. Sementara itu, versi public dibuat lebih umum dan tidak menggunakan detail proyek. Kezia tidak menganggap versi public sesuai untuk customer karena pengguna yang keputusan atau tindakannya bergantung langsung pada hasil prediksi membutuhkan informasi tindak lanjut yang lebih spesifik dibandingkan publik secara umum.
+AI (Claude) digunakan untuk memeriksa apakah kelima versi tetap menyampaikan kebenaran inti yang sama, sekaligus memastikan istilah dan nada yang digunakan sesuai dengan masing-masing audiens. Kezia menolak saran AI untuk menambahkan klaim “dijamin akurat” pada versi customer karena klaim tersebut tidak didukung fakta dan dapat menyesatkan pengguna.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Lima audiens nyata dengan kebutuhan yang berbeda berhasil diidentifikasi.
+Objective & State
+4
+Kebenaran inti tentang risiko overfitting tetap konsisten di kelima versi, meskipun titik awal pemahaman setiap audiens berbeda.
+Repertoire, Language & AI
+4
+Lima repertoire berbeda disusun sesuai kebutuhan masing-masing, termasuk penolakan terhadap satu klaim AI yang tidak didukung fakta.
+Response & Adaptation
+4
+Pertanyaan dari teman mendorong adanya satu penyesuaian kalimat tambahan.
+Agreement, Action & Relationship
+4
+Tindak lanjut berupa pemberian informasi kembali mengenai hasil model sudah tersirat.
+Total: 20 / 20
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://kazei0.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

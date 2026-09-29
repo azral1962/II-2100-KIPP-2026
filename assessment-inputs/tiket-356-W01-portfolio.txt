@@ -1,0 +1,171 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 356
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kyaolp.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Perubahan language
+Evidence, AI, dan feedback
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — problem solver
+Diri sendiri saat menghadapi masalah teknis atau tugas yang mentok
+Memecah masalah jadi bagian kecil dan memutuskan langkah berikutnya, bukan panik atau menunda
+Menulis masalah dulu, memisahkan fakta dari asumsi, "Apa yang sudah pasti, apa yang baru dugaan?"
+Terlalu lama mencari solusi sempurna sendirian; tetapkan batas waktu sebelum minta bantuan
+Family — adik
+Kakak yang sedang mendaftar kerja di luar negeri, komunikasi jarak jauh
+Mendukung tanpa menambah beban
+Mendengarkan lewat chat, bertanya
+Dukungan jadi basa-basi ("semangat ya!"); tanya dulu "mau didengar atau butuh bantu urus sesuatu?"
+Friends — teman
+Teman dekat yang sedang punya masalah
+Hadir sesuai kebutuhannya
+Listening, bahasa santai, tidak langsung memberi solusi
+Buru-buru menyelesaikan masalahnya; tunggu ia selesai cerita
+Work — ketua kelompok
+Anggota kelompok tugas kuliah
+Membuat pembagian tugas dan tenggat jelas
+Check-in, pembagian tugas, konfirmasi tertulis
+Terdengar memerintah, atau sungkan menegur; jelaskan alasan tenggat, bukan cuma tuntutannya
+Community — anggota panitia
+Panitia lain, pengisi acara, peserta
+Merekam momen penting dan menyerahkan hasil tepat waktu
+Koordinasi singkat, konfirmasi jadwal dan titik liputan, bahasa kerja yang ringkas
+Bekerja sendirian di balik kamera; tanyakan momen mana yang wajib ditangkap sebelum acara
+Perubahan language
+Sebagai teman, saya berkata ke Gawa, "Kamu mau cerita dulu aja, atau mau langsung kita urai bareng?" Sebagai ketua kelompok, saya berkata ke anggota yang bagiannya belum masuk, "kita butuh bagian ini sebelum digabung hari Sabtu. Pembagian mana yang realistis buat kamu?" Kepedulianmu sama, yaitu memastikan orang itu tidak ditinggal sendirian dengan masalahnya.
+Evidence, AI, dan feedback
+[Gambar: Bukti Minggu 1]
+Dalam meet tersebut, saya bertugas sebagai seorang teman yang membantu teman saya yang kesusahan dan membantu memimpin bagaimana kita mengurus pembagian tugas untuk dibagi rata agar yang lain tidak merasa terbebankan.
+Penggunaan AI: Tidak ada penggunaan AI
+Feedback: Tidak ada observer untuk minggu ini
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3
+Lima character dipetakan lengkap dengan person, relationship, dan risikonya
+Objective & State
+3
+State awal dan tujuan tiap episode jelas
+Repertoire, Language & AI
+3
+Language berubah sesuai character
+Response & Adaptation
+3
+Mereka memberi response dengan baik
+Agreement, Action & Relationship
+3
+Kesepakatan jelas, dan masalah selesai
+Total: 15/20 — Kompeten. Belum level 4 karena beberapa alasan belum konkret.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Davin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kyaolp.github.io/kipp-students/index.html
+- https://kyaolp.github.io/kipp-students/assets/logo.png
+- https://kyaolp.github.io/kipp-students/course/index.html
+- https://kyaolp.github.io/kipp-students/portfolio/index.html
+- https://kyaolp.github.io/kipp-students/examples/index.html
+- https://kyaolp.github.io/kipp-students/lk/index.html
+- https://kyaolp.github.io/kipp-students/slides.html
+- https://kyaolp.github.io/kipp-students/slides-pdf/index.html
+- https://kyaolp.github.io/kipp-students/assessment/index.html
+- https://kyaolp.github.io/kipp-students/about.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-02.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-03.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-04.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-05.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-06.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-07.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-08.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-09.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-10.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-11.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-12.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-13.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-14.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-15.html
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://kyaolp.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://kyaolp.github.io/kipp-students/examples/week-01.html
+- https://kyaolp.github.io/kipp-students/assets/Buktiweek1.jpeg
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

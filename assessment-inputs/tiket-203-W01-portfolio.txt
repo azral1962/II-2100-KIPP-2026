@@ -1,0 +1,218 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 203
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://gunther25.github.io/kipp-Students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map — Minggu 1 – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map — Minggu 1
+Indeks Portfolio
+Character Map — Minggu 1
+Intra-Self Communication Journal
+Relationship Conversation: Mendengarkan Tanpa Memperbaiki
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography
+Portofolio Wawancara Penemuan Kebutuhan: Discovery & Problem Statement
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+1. Lima Character dalam 5 Domain Kehidupan
+2. Analisis Kontras Dua Peran Utama (Episode yang Dianalisis)
+3. Perubahan Language (Language Translation)
+4. Analisis Komunikasi Terstruktur
+5. Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+6. Penggunaan AI
+7. Feedback dan Tindak Lanjut
+8. Evaluasi Diri (Self-Assessment)
+Assessment Dosen / Assessor
+Character Map — Minggu 1
+Fondasi
+Person
+Peta Karakter Komunikasi Pribadi: Pemetaan 5 domain kehidupan, analisis kontras dua peran, dan penetapan sasaran pertumbuhan perilaku terukur.
+Kompetensi Target
+Membedakan Person (martabat & nilai inti manusia), Personality (kecenderungan batin), dan Narrative Character (peran komunikatif)[cite: 1], serta mampu memilih objective, repertoire, dan language yang sesuai dengan tuntutan situasi tanpa mengorbankan integritas relasi[cite: 1].
+CatatanStatus Lembar Kerja
+Dokumen ini disusun sebagai artefak pertama dalam Portofolio Komunikasi Mingguan. Seluruh percakapan dan analisis didasarkan pada pengalaman interaksi nyata dalam lingkungan akademik dan personal.
+1. Lima Character dalam 5 Domain Kehidupan
+Berikut adalah pemetaan peran komunikatif saya di lima domain kehidupan[cite: 1]:
+Domain Kehidupan
+Peran (Narrative Character)
+Siapa yang Dijumpai
+Tanggung Jawab Utama Komunikasi
+Risiko & Latihan Perilaku
+Diri Sendiri (Intra-Self)
+Pembelajar Reflektif
+Diri sendiri saat menerima umpan balik/kegagalan
+Memisahkan fakta objektif dari asumsi (story) dan memilih tindakan perbaikan[cite: 1]
+Risiko: Self-blame berlebihan. Latihan: Catat 3 fakta sebelum mengambil kesimpulan.
+Keluarga / Sahabat
+Pendengar Empatis
+Adik / Sahabat dekat yang sedang tertekan
+Menghadirkan rasa aman, mendengar tanpa menghakimi, dan memvalidasi emosi[cite: 1]
+Risiko: Terlalu cepat memberi solusi. Latihan: Tahan diri 3 menit pertama untuk fokus mendengar.
+Profesional / Akademik
+Co-Developer & Pengembang Fitur Tim
+Anggota tim proyek mata kuliah & Dosen
+Memastikan pembagian tugas jelas, tenggat waktu disepakati, dan progres transparan
+Risiko: Terdengar kaku/memerintah. Latihan: Gunakan pertanyaan berbasis problem-solving bersama.
+Komunitas
+Koordinator Pengorganisasian Media
+Pengurus dan anggota organisasi kampus
+Membuka ruang partisipasi, merangkum gagasan, dan mencapai kesepakatan layak[cite: 1]
+Risiko: Dominasi diskusi. Latihan: Mengundang suara anggota yang lebih diam.
+Dunia / Publik
+Kontributor Gagasan Teknis
+Pembaca publik / Komunitas pengembang di media sosial
+Menyampaikan pemikiran teknis/edukatif secara bertanggung jawab dan jujur
+Risiko: Mengabaikan keragaman audiens. Latihan: Gunakan bahasa yang inklusif dan lugas.
+2. Analisis Kontras Dua Peran Utama (Episode yang Dianalisis)
+Konteks Interaksi:
+Pada pengerjaan tugas proyek kelompok pembuatan situs web lokal, salah satu anggota tim (Budi) belum menyerahkan draf analisis tugasnya hingga melewati tenggat yang disepakati selama 1 hari.
+Kondisi Awal (Initial State):
+Secara otomatis (Personality kecenderungan saya yang menyukai keteraturan), saya merasa jengkel dan menganggap Budi “tidak bertanggung jawab”. Namun, menyadari bahwa itu adalah narasi (story) dan bukan fakta objektif, saya secara sadar mengambil Narrative Character sebagai Co-Developer / Tim Proyek yang berfokus pada penyelesaian masalah dan pemeliharaan relasi[cite: 1].
+Penggalan Percakapan Nyata:
+Saya: “Halo Budi, sebelum kita menyusun jadwal revisi minggu ini, boleh ceritakan kendala apa yang dialami pada draf bagian analisis?”
+Budi: “Maaf banget, minggu ini jadwal praktikum padat dan laptop sempat bermasalah, jadi draf baru selesai sekitar 40%.”
+Saya: “Baik, berarti hambatan utamanya di ketersediaan waktu dan kendala teknis ya. Apakah pemahaman saya sudah tepat?”
+Budi: “Iya betul, sekarang laptop sudah aman.”
+Saya: “Oke. Agar target pengunggahan repo kelompok tidak terhambat, apakah lebih realistis jika kita membagi sisa analisis ini menjadi dua bagian, atau kamu butuh perpanjangan waktu sampai besok pagi?”
+Budi: “Kalau dibagi dua bagian dan saya selesaikan poin 1-2 malam ini, itu sangat membantu.”
+Hasil Kesepakatan (Agreement & Action):
+Budi menyelesaikan poin 1-2 pada pukul 21.00, saya membantu mengulas poin 3, dan pengunggahan ke repositori GitHub dapat dilakukan tepat waktu tanpa merusak hubungan kerja kelompok.
+3. Perubahan Language (Language Translation)
+Perbedaan penggunaan bahasa (repertoire & language) ketika berpindah peran naratif[cite: 1]:
+Sebagai Pendengar Empatis (Sahabat):
+“Kamu lagi kerasa kewalahan ya minggu ini? Mau cerita dulu apa yang bikin berat, atau mau langsung kita cari solusinya bareng?”
+(Fokus: Kehadiran emosional dan rasa aman)[cite: 1]
+Sebagai Co-Developer Tim (Profesional):
+“Tim kita butuh draf analisis ini masuk sebelum jadwal update repo; pilihan pembagian kerja mana yang paling realistis untuk kita eksekusi malam ini?”
+(Fokus: Kejelasan tanggung jawab, tindakan nyata, dan target bersama)[cite: 1]
+4. Analisis Komunikasi Terstruktur
+Elemen Komunikasi
+Evidence dan Analisis
+Person & Character
+Menghargai Budi sebagai manusia utuh yang memiliki beban praktikum (Person), bukan sekadar melabelinya “anggota tidak disiplin”[cite: 1]. Mengambil peran Co-Developer untuk menyelesaikan kendala bersama[cite: 1].
+Objective & State
+Mengubah kondisi dari ketidakpastian/kejengkelan (initial state) menjadi kesepakatan pembagian tugas yang realistis (desired state)[cite: 1].
+Repertoire & Language
+Menggunakan teknik pertanyaan terbuka, klarifikasi/paraphrase, dan penawaran opsi rasional[cite: 1].
+Response & Adaptation
+Saat mengetahui laptop Budi sempat rusak, saya langsung menyesuaikan ekspektasi dan menawarkan bantuan pembagian tugas, bukan memaksakan tenggat lama.
+Agreement & Action
+Budi menyelesaikan poin 1–2 pukul 21.00; saya mengulas sisanya. Tindakan terukur dan jelas pemilik tugasnya (owner & deadline).
+Relationship Outcome
+Relasi kerja tetap terjaga dengan baik, rasa saling percaya meningkat, dan tugas selesai tepat waktu[cite: 1].
+5. Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+Nilai Utama (Core Values): Kejujuran, Penghargaan, dan Keadilan[cite: 1].
+Kekuatan Komunikasi: Mampu berpikir analitis, lugas, dan terstruktur dalam menyampaikan poin-poin ide.
+Pola Hambatan Otomatis: Cenderung menjadi kaku, tergesa-gesa memberi penilaian (judgmental), dan ingin langsung mengontrol situasi saat berada di bawah tekanan tenggat waktu.
+Ketegangan Peran & Kepribadian:
+Saya cenderung ingin menyelesaikan tugas dengan cepat dan mengontrol secara sepihak ketika ada keterlambatan (kepribadian), tetapi peran saya sebagai Co-Developer Tim menuntut saya untuk mendengarkan kendala rekan kelompok terlebih dahulu dan membangun kesepakatan bersama (perilaku komunikasi).[cite: 1]
+Sasaran Pertumbuhan Perilaku Terukur (4–6 Minggu Ke Depan):
+Ketika ada anggota kelompok yang belum memenuhi kesepakatan atau saat terjadi ketidaksepahaman dalam tim, saya akan menahan diri untuk tidak langsung memberikan arahan/kritik selama minimal 3 menit pertama. Saya akan mengajukan minimal 2 pertanyaan klarifikasi untuk memahami situasi mereka sebelum menentukan opsi solusi bersama.
+Umpan Balik Jujur (Feedback Partner): Rekan tim praktikum (Inisial: B.A.).
+6. Penggunaan AI
+Alat yang Digunakan: AI Generatif (Gemini).
+Peran AI: Digunakan sebagai kompas dan cermin refleksi untuk mengecek apakah draf narasi percakapan saya masih mengandung prasangka (story) atau sudah berbasis fakta (fact)[cite: 1].
+Evaluasi dan Batas Otoritas: Saya menolak usulan draf saran AI yang merekomendasikan untuk melaporkan langsung keterlambatan Budi ke dosen, karena AI tidak memahami konteks relasi jangka panjang dan usaha Budi yang sebenarnya. Otoritas keputusan dan pemeliharaan relasi tetap sepenuhnya di tangan saya sebagai manusia[cite: 1].
+7. Feedback dan Tindak Lanjut
+Feedback yang Diterima: Observer (B.A.) mencatat bahwa saya sudah bersikap tenang dan tidak menghakimi, namun penyampaian opsi solusi masih terasa agak terlalu cepat ditawarkan sebelum Budi selesai menjelaskan seluruh kendalanya.
+Next Practice: Berhenti dan memberi jeda 5 detik setelah mendengarkan jawaban penting dari lawan bicara sebelum memberikan tanggapan balik.
+8. Evaluasi Diri (Self-Assessment)
+Dimensi penilaian
+Skor (1–4)
+Evidence & Alasan Ringkas
+Person & Character
+4
+Mampu membedakan Person, Personality, dan Narrative Character secara jernih di 5 domain kehidupan[cite: 1].
+Objective & State
+4
+Initial state dan desired state dalam episode percakapan dijelaskan secara eksplisit dan terukur[cite: 1].
+Repertoire, Language & AI
+3
+Perubahan bahasa tercermin jelas[cite: 1]; penggunaan AI transparan dengan batas otorisasi yang tegas[cite: 1]. Masih perlu memperluas variasi respons non-verbal.
+Response & Adaptation
+3
+Mampu beradaptasi terhadap fakta baru dari Budi, meskipun jeda mendengarkan masih bisa ditingkatkan lagi.
+Agreement, Action & Relationship
+4
+Menghasilkan kesepakatan konkret (owner, deadline) dan memperkuat relasi saling percaya[cite: 1].
+Total Skor Self-Assessment: 18 / 20 — Kompeten Unggul
+Assessment Dosen / Assessor
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Faiq Fadhlul Bahri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://gunther25.github.io/kipp-Students/index.html
+- https://gunther25.github.io/kipp-Students/assets/logo.png
+- https://gunther25.github.io/kipp-Students/course/index.html
+- https://gunther25.github.io/kipp-Students/portfolio/index.html
+- https://gunther25.github.io/kipp-Students/examples/index.html
+- https://gunther25.github.io/kipp-Students/lk/index.html
+- https://gunther25.github.io/kipp-Students/slides.html
+- https://gunther25.github.io/kipp-Students/slides-pdf/index.html
+- https://gunther25.github.io/kipp-Students/assessment/index.html
+- https://gunther25.github.io/kipp-Students/about.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-02.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-03.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-06.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-07.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-08.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-09.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-10.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-11.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-12.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-13.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-14.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-15.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#kompetensi-target
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#lima-character-dalam-5-domain-kehidupan
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#analisis-kontras-dua-peran-utama-episode-yang-dianalisis
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#perubahan-language-language-translation
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#analisis-komunikasi-terstruktur
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#eksplorasi-kepribadian-dan-sasaran-pertumbuhan
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#penggunaan-ai
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#evaluasi-diri-self-assessment
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html#assessment-dosen-assessor
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

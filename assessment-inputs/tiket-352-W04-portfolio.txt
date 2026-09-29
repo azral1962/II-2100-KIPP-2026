@@ -1,0 +1,219 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 352
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://satepadanh.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Core meaning
+Saya membahas mengenai dampak perkembangan Artificial Intelligence dalam kehidupan sehari-hari kepada beberapa orang dengan latar belakang dan tingkat pemahaman yang berbeda.
+Fakta yang tidak boleh berubah: AI dapat membantu manusia melakukan berbagai pekerjaan dengan lebih cepat dan efisien, tetapi juga memiliki risiko seperti kesalahan informasi, ketergantungan, perubahan jenis pekerjaan, serta masalah privasi. Karena itu, AI sebaiknya digunakan sebagai alat bantu dan tetap membutuhkan pertimbangan manusia.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“AI tuh ngebantu banget buat banyak hal, especially kalo buat nugas. Tapi kalau terlalu ngandelin juga bahaya, soalnya AI bisa salah dan kita jadi males ngecek sendiri.”
+Bahasa santai dan menggunakan contoh yang relatable
+Orang dengan usia tua
+“Sekarang komputer sudah bisa membantu banyak pekerjaan, misalnya mencari informasi atau membantu menulis. Memang bisa mempermudah pekerjaan, tetapi hasilnya tidak selalu benar. Jadi tetap perlu diperiksa dan jangan memberikan informasi pribadi sembarangan.”
+Menghindari jargon dan fokus pada manfaat serta risiko
+Anak kecil
+“AI itu kaya pembantu pintar di komputer. Dia bisa bantu jawab pertanyaan kamu dengan cepat. Tapi kadang jawabannya bisa salah, jadi tetap harus tanya orang dewasa atau cek lagi.”
+Menggunakan analogi sederhana dan menekankan aturan penggunaan yang mudah dipahami
+Technical peer
+“AI dapat meningkatkan productivity melalui automation dan decision support, tetapi ada trade-off seperti hallucination, bias dari training data, privacy risk, dan potensi overreliance. Karena itu output tetap perlu validation dan human oversight.”
+Menggunakan jargon karena audiens memiliki pemahaman teknis
+Public
+“AI dapat memberi manfaat besar dalam pendidikan, pekerjaan, layanan publik, dan kehidupan sehari-hari. Namun, pengguna tetap perlu menyadari bahwa AI dapat menghasilkan informasi yang salah atau bias dan dapat memengaruhi privasi serta dunia kerja. Karena itu, penggunaan AI perlu disertai literasi dan pengawasan manusia.”
+Bahasa lebih netral, inklusif, dan membahas dampak yang relevan bagi masyarakat luas
+Evidence understanding
+Perbedaan respons terlihat dari jenis penjelasan yang dibutuhkan oleh masing-masing audiens. Pada teman sebaya, contoh penggunaan sehari-hari lebih mudah dipahami dibandingkan penjelasan teknis. Untuk orang yang lebih tua dan anak-anak, saya perlu mengurangi istilah asing dan menggunakan contoh yang lebih konkret.
+Sementara itu, kepada technical peer saya dapat menggunakan istilah seperti hallucination, training data, dan human oversight tanpa menjelaskan semuanya dari awal karena kami memiliki pengetahuan dasar yang serupa.
+Analisis dan batas
+Meaning utama tidak berubah: AI dapat memberikan manfaat, tetapi juga memiliki risiko sehingga penggunaannya tetap membutuhkan pertimbangan manusia.
+Yang berubah adalah aspek yang saya tonjolkan. Kepada anak-anak dan orang yang lebih tua, saya lebih menekankan keamanan dan pemeriksaan ulang. Kepada teman, saya menggunakan contoh yang dekat dengan kehidupan sehari-hari. Kepada technical peer, penjelasan menjadi lebih spesifik mengenai risiko teknis. Untuk publik, saya membahas dampaknya secara lebih luas terhadap kehidupan masyarakat.
+AI digunakan untuk memilik kata-kata yang tepat dalam pengerjaan portofolio
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Bahasa dan fokus disesuaikan dengan usia, pengetahuan, dan kebutuhan audiens
+Objective & State
+3
+Core meaning dan action konsisten
+Repertoire, Language & AI
+4
+Menggunakan analogi, bahasa informal, jargon teknis, dan penjelasan publik
+Response & Adaptation
+3
+Tingkat detail dan istilah berubah sesuai kemampuan audiens
+Agreement, Action & Relationship
+3
+Semua versi memberi arah yang sama: gunakan AI secara kritis dan tetap lakukan verifikasi
+Total: 17/20 — Kompeten.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Azka Fathiyya Haryadi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://satepadanh.github.io/kipp-students/index.html
+- https://satepadanh.github.io/kipp-students/assets/logo.png
+- https://satepadanh.github.io/kipp-students/course/index.html
+- https://satepadanh.github.io/kipp-students/portfolio/index.html
+- https://satepadanh.github.io/kipp-students/examples/index.html
+- https://satepadanh.github.io/kipp-students/lk/index.html
+- https://satepadanh.github.io/kipp-students/slides.html
+- https://satepadanh.github.io/kipp-students/slides-pdf/index.html
+- https://satepadanh.github.io/kipp-students/assessment/index.html
+- https://satepadanh.github.io/kipp-students/about.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-01.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-02.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-03.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-05.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-06.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-07.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-08.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-09.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-10.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-11.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-12.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-13.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-14.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-15.html
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://satepadanh.github.io/kipp-students/portfolio/week-04.html#self-assessment-1
+- https://satepadanh.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

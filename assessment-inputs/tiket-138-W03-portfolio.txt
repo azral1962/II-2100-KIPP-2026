@@ -1,0 +1,153 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 138
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks dan relationship state
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Konteks dan relationship state
+Saya dan R adalah teman sekelas yang sudah cukup dekat. Latihan dilakukan pada 27 September 2026 melalui percakapan WhatsApp, mengikuti seluruh langkah panduan “Mendengarkan Tanpa Memperbaiki” (persiapan peran, sesi bercerita, umpan balik, tukar peran, refleksi mandiri).
+State sebelum percakapan: hubungan saya dan R sudah dekat sebelum latihan ini dimulai. Objective latihan adalah mempraktikkan mendengarkan pada tiga tingkat (kata, makna, pribadi) tanpa buru-buru memberi solusi, dan baru menawarkan saran setelah diminta secara eksplisit oleh R.
+Evidence
+Rekaman percakapan (screenshot chat WhatsApp) sesi 1 — R sebagai Pembicara, saya sebagai Pendengar — dan sesi 2 — tukar peran, saya sebagai Pembicara, R sebagai Pendengar — dapat dilihat di tautan Google Drive.
+Kontribusi saya: seluruh pertanyaan terbuka, parafrasa, tebakan perasaan/kebutuhan, dan Pertanyaan Emas pada sesi 1 ditulis dan dikirim langsung oleh saya secara real-time kepada R.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+R dikenal sebagai teman sekelas yang terbuka soal kebiasaan menunda tugas kuliah. Kebutuhan R (tetap merasa mampu menyelesaikan tugas, namun butuh cara mengelola waktu) dikenali lewat parafrasa dan tebakan perasaan yang dikonfirmasi benar oleh R sendiri.
+Objective & state
+Hubungan sudah dekat sejak sebelum latihan (state awal). Objective saya sebagai Pendengar adalah menahan diri dari memberi solusi sampai R menyatakan kebutuhannya secara eksplisit lewat Pertanyaan Emas.
+Repertoire & language
+Saya menggunakan observasi fakta (tanpa generalisasi “selalu/tidak pernah”), satu pertanyaan terbuka, satu parafrasa yang dikonfirmasi akurat, tebakan perasaan/kebutuhan yang disampaikan secara tentatif (“sepertinya…”), dan menutup dengan Pertanyaan Emas sebelum menawarkan saran.
+Response & adaptation
+R merespons dengan meminta saran secara eksplisit, sehingga saya baru memberi saran setelah otonominya dihormati. Pada sesi tukar peran, dinamika berbalik: saat saya menjadi Pembicara, R justru langsung memberi analisis dan saran tanpa Pertanyaan Emas — ini menjadi bahan refleksi soal betapa mudahnya kebiasaan “memperbaiki” muncul meski niatnya baik.
+Agreement/action
+Tidak ada kesepakatan formal (bukan topik boundary/konflik), namun R menerima saran yang saya tawarkan (“Oke, terima kasih sarannya”) dan diskusi berakhir positif tanpa ketegangan.
+Relationship outcome
+Setelah latihan, saya dan R merasa makin memahami gaya ngobrol satu sama lain. Ketegangan hubungan tetap rendah sejak awal (sudah dekat) hingga akhir sesi.
+Penggunaan AI
+Saya menggunakan Claude (Anthropic) untuk membantu memahami dan memberi instruk tentang apa aja yang dilakukan di tugas ini. Dialog berasal dari percakapan asli saya dengan R di WhatsApp (bukti screenshot terlampir di Google Drive).
+Alat dan peran AI: Claude digunakan mehamai dan apa saja yang harus dilakukan di tugas ini.
+Prompt/instruksi penting: saya menjelaskan konteks tugas, lalu meminta arahan dari ai tentang apa aja yang harus dilakukan.
+Bagian yang digunakan/diubah/ditolak: kalimat parafrasa dan tebakan perasaan yang dikirim ke R adalah saran dari AI yang saya setujui dan kirim sendiri.
+Pemeriksaan accuracy, privacy, authority: saya memverifikasi seluruh isi sesuai screenshot chat asli; identitas R disamarkan menjadi inisial “R” untuk menjaga privasi; keputusan akhir isi refleksi dan self-assessment tetap saya tentukan sendiri.
+Yang tetap saya pelajari sebagai manusia: praktik mendengarkan tanpa menyela tetap saya lakukan sendiri secara langsung dengan R; AI hanya membantu di memahami dan memberi instruksi tugas.
+Feedback dan tindak lanjut
+Feedback yang diterima: R menyampaikan bahwa ia merasa paling didengarkan pada saat saya memastikan/mengklarifikasi kondisinya melalui parafrasa, dan tidak ada momen di mana saya terlihat berasumsi atau terburu-buru memberi solusi.
+Adaptation/replay: Karena R secara eksplisit meminta saran di akhir sesi, saya menyesuaikan respons dari sekadar mendengarkan menjadi memberi saran singkat dan konkret (memecah tugas jadi bagian kecil, menjadikan waktu bermain sebagai reward), sesuai otonomi yang R nyatakan sendiri.
+Next practice: Melatih diri untuk tetap mengajukan Pertanyaan Emas bahkan ketika lawan bicara (atau saya sendiri) sudah cenderung membuka topik dengan nada minta pendapat, seperti yang terjadi saat saya menjadi Pembicara dan R langsung memberi saran tanpa menanyakan kebutuhan saya lebih dulu.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Kebutuhan R (mampu selesai tepat waktu, butuh kelola waktu) dikenali lewat parafrasa & tebakan yang dikonfirmasi
+Objective & State
+3
+State awal (sudah dekat) dan objective menahan diri dari solusi dinyatakan
+Repertoire, Language & AI
+4
+Observasi, parafrasa, tebakan tentatif, Pertanyaan Emas dipakai lengkap; penggunaan AI dideklarasikan jujur
+Response & Adaptation
+4
+Saran baru diberikan setelah R minta eksplisit; dinamika dua arah (dengar & bicara) dianalisis
+Agreement, Action & Relationship
+3
+Tidak ada boundary formal, namun outcome positif dan pemahaman gaya ngobrol meningkat
+Total: 18/20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#konteks-dan-relationship-state
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://drive.google.com/drive/folders/1CVGVAhobwR_pKo_Kg9FMZF4rrY4B6Z8A?usp=sharing
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

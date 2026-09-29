@@ -1,0 +1,168 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 267
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa
+A. Deskripsi Tugas
+B. Identitas Mahasiswa
+C. Tahap 1: Detoks Jargon & Core Meaning (Dekonstruksi Konsep)
+D. Tahap 2: Matriks Terjemahan Lima Bahasa
+E. Evidence Understanding & Analisis Batas
+F. Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+G. Rubrik Evaluasi Mandiri & Penilaian Portofolio
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa
+Kuliah 4: Bahasa yang Menjembatani Makna
+Prinsip Utama: “Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami.”
+A. Deskripsi Tugas
+Salah satu rintangan komunikasi terbesar bagi seorang calon profesional adalah “Kutukan Pengetahuan” (Curse of Knowledge)—situasi di mana Anda sangat memahami sebuah konsep rumit, hingga Anda lupa rasanya menjadi orang yang belum mengetahuinya. Akibatnya, Anda cenderung menggunakan istilah teknis (jargon) kaku yang justru menjauhkan gagasan Anda dari pendengar.
+Dalam tugas ini, Anda ditantang untuk melatih kelenturan register dan alih ragam bahasa (code-switching). Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam lima versi bahasa komunikasi yang berbeda tanpa mengubah esensi kebenarannya.
+B. Identitas Mahasiswa
+Nama Lengkap: Maximillian Jose Andreas Aditjandra
+NIM: 18225023
+Program Studi: Sistem dan Teknologi Informasi, STEI-K ITB
+Tanggal Pengisian: 27 September 2026
+C. Tahap 1: Detoks Jargon & Core Meaning (Dekonstruksi Konsep)
+Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan “sumsum” atau kebenaran inti dari pesan Anda.
+Konsep Teknis yang Dipilih: Teknologi Blockchain dan Smart Contracts.
+Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah): Blockchain adalah buku besar digital dari transaksi ekonomi yang hampir tidak mungkin dimanipulasi. Buku besar terdistribusi ini diprogram tidak hanya untuk mencatat transaksi keuangan, tetapi juga untuk mencatat hampir semua hal yang bernilai bagi manusia (Don & Alex Tapscott). Pengamanannya mengandalkan mekanisme konsensus, kriptografi asimetris, dan eksekusi instruksi terdesentralisasi melalui kontrak pintar (smart contracts).
+Daftar Jargon Teknis & Artian Sederhananya:
+Jargon 1: Mekanisme Konsensus \(\rightarrow\) Arti Sederhana: Aturan “arisan atau vote teman”. Bayangkan 10 teman punya buku kas; catatan sah jika mayoritas setuju. Di blockchain, ini dilakukan otomatis oleh komputer agar tidak ada yang bisa berbohong.
+Jargon 2: Kriptografi Asimetris \(\rightarrow\) Arti Sederhana: Kotak surat dengan gembok digital. Anda punya alamat kotak (Kunci Publik) agar orang bisa memasukkan uang, dan Kunci Gembok (Kunci Privat) yang hanya dipegang Anda untuk mengambil isinya.
+Jargon 3: Kontrak Pintar \(\rightarrow\) Arti Sederhana: Mesin penjual otomatis (vending machine). Perjanjian robot “Jika… Maka…” tanpa perantara. Jika masuk Rp10.000, minuman otomatis turun. Tidak ada kasir manusia yang bisa menipu.
+Kebenaran Inti (Marrow of the Message / Core Meaning): Menghilangkan biaya perantara (seperti makelar atau bank) dan menciptakan sistem transaksi yang super aman, instan, serta transparan, sehingga membangun sistem yang saling percaya dan terhindar dari korupsi.
+D. Tahap 2: Matriks Terjemahan Lima Bahasa
+Target / Character
+Versi Language (Terjemahan)
+Alasan Adaptasi & Rationale
+1. Sahabat (Beda Bidang Studi)
+“Bro, lo tau kan kalau kita mau transfer duit, apalagi beda negara, pasti kena biaya admin bank dan prosesnya lama? Nah, blockchain tuh ibarat lo ngasih duit langsung ke tangan orangnya, tapi lewat internet. Catatannya dipegang bareng-bareng sama jutaan komputer, jadi nggak mungkin di-hack atau dikorupsi. Intinya, kita buang makelarnya, jadi transaksi lo super aman, instan, dan gratis dari potongan nggak jelas.”
+Menggunakan gaya bahasa informal, hangat, akrab, serta membersihkan istilah akademis yang kaku tanpa mendistorsi esensi penghilangan perantara.
+2. Rekan Teknis (Sesama Ahli / Sejurusan)
+“Sistem ini berjalan di atas decentralized distributed ledger yang di-maintain melalui consensus mechanism (seperti PoW/PoS) agar Byzantine Fault Tolerant. Semua state transition dan mutasi di-sign menggunakan asymmetric cryptography sehingga terhindar dari pemalsuan otoritas. Plus, kita bisa deploy smart contract di atasnya buat mengeksekusi logika if-then secara otomatis secara on-chain, yang bikin overhead third-party hilang dan trust 100% bergantung pada kriptografi.”
+Memenuhi tuntutan efisiensi, akurasi tinggi, pembuktian logis, jargon presisi, serta singkatan standar industri.
+3. Manajer Keuangan (Pitching Bisnis)
+“Bapak/Ibu, untuk portofolio investasi dan arus kas perusahaan kita, teknologi ini menawarkan efisiensi perlindungan aset yang luar biasa. Kita bisa memotong middle-man fees (biaya perbankan dan makelar) secara signifikan. Karena pencatatan transaksinya transparan dan didistribusikan secara real-time, proses audit keuangan menjadi jauh lebih cepat dan risiko fraud (penggelapan dana) bisa dicegah sepenuhnya. Ditambah lagi, pencairan dividen atau dana investasi dapat dieksekusi otomatis menggunakan smart contract, sehingga cash flow perusahaan lebih lancar dan aman.”
+Berorientasi pada hasil, efisiensi alokasi sumber daya, manajemen risiko, serta penekanan pada value proposition dan kelancaran cash flow.
+4. Customer / Pengguna (Pelaku UMKM / Non-Teknis)
+“Bapak/Ibu pelaku usaha, bayangkan sistem pencatatan keuangan toko Anda diverifikasi otomatis oleh jaringan komputer publik tanpa perlu lewat bank perantara yang mahal. Biaya admin pangkas habis, dan tidak ada pihak yang bisa memanipulasi transaksi Anda.”
+Menjelaskan dampak operasional dan aksi nyata bagi pelaku bisnis tanpa membebani mereka dengan rumus kriptografi yang rumit.
+5. Publik Umum (Lansia / Masyarakat Luas)
+“Bapak dan Ibu, selama ini kita menyimpan uang dan mencatat transaksi lewat bank. Bank bertugas sebagai buku catatan raksasa, namun terkadang ada biaya potongan bulanan atau bahkan risiko sistem eror. Nah, teknologi ini ibarat buku catatan bersama milik masyarakat luas. Ketika Bapak/Ibu mengirim uang, semua sistem akan otomatis menjadi saksi yang adil. Tidak ada satupun yang bisa mengubah catatan atau menipu. Uang Bapak/Ibu langsung sampai detik itu juga, tanpa perantara, tanpa potongan biaya mahal, dan pastinya sangat aman.”
+Menghubungkan konsep dengan nilai sosial, keamanan, keadilan, serta inklusivitas agar mudah dipahami seketika tanpa memicu penolakan psikologis (legacy system).
+E. Evidence Understanding & Analisis Batas
+Uji Pemahaman (Testing): Jose menguji versi Manajer Keuangan dalam bentuk simulasi pitching bersama AI (berperan sebagai manajer keuangan). Target awalnya merespons dengan bertanya apakah sistem ini memerlukan perubahan total pada infrastruktur akuntansi yang sedang berjalan.
+Adaptasi Respon: Jose menambahkan penekanan kalimat: “Implementasi dilakukan secara bertahap (modular), dimulai dari pencatatan transaksi lintas batas tanpa mematikan sistem pembukuan internal yang ada.” Adaptasi ini memperjelas mitigasi risiko migrasi sistem tanpa mengubah core meaning desentralisasi.
+Analisis Repertoire & Batas: Repertoire berubah dari obrolan kasual antar-sahabat, spesifikasi arsitektur teknis, decision brief investasi, instruksi operasional UMKM, hingga pengumuman publik. Jose menyadari bahwa publik umum tidak memerlukan detail teknis consensus mechanism, sementara rekan teknis justru membutuhkan akurasi parameter arsitektur tersebut. AI digunakan secara terbatas untuk memverifikasi apakah kelima variasi tetap mempertahankan esensi penghilangan perantara, dan Jose menolak usulan AI yang menambahkan jargon spekulatif di luar fakta inti.
+F. Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.
+Ragam bahasa mana yang paling sulit Anda buat? Mengapa? Menurut saya, yang paling sulit adalah menerjemahkannya kepada publik umum, khususnya masyarakat lansia. Mereka umumnya sudah memiliki pemahaman mapan (legacy system) bahwa bank konvensional adalah institusi paling aman, sehingga mereka sering kali merasa denial terhadap konsep baru yang menghilangkan peran bank. Sangat menantang menjelaskan “ketiadaan perantara” tanpa membuat mereka merasa tidak aman. Sebaliknya, menjelaskan kepada rekan sejawat atau manajer keuangan justru lebih terstruktur karena ada parameter bisnis atau teknis yang jelas.
+Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri? Sebagai mahasiswa di bidang komputasi (STEI-K), dekonstruksi ini menyadarkan saya bahwa secanggih apa pun algoritma kriptografi atau baris code yang saya buat, teknologinya akan gagal diadopsi jika tidak ada trust (kepercayaan). Menjelaskan blockchain bukan tentang seberapa hebat matematikanya, melainkan tentang bagaimana meyakinkan publik bahwa uang dan data mereka aman. Ini mengubah fokus saya: kehebatan teknis hanyalah separuh jalan, separuh lainnya adalah kemampuan empati dalam berkomunikasi.
+Catatan Penggunaan AI Kopilot (Khususnya Roleplay & Fact-Check): Saya menggunakan AI untuk mensimulasikan peran (roleplay) sebagai seorang manajer keuangan tempat saya mencoba melakukan pitching, serta untuk memverifikasi konsistensi core meaning di setiap register bahasa agar terhindar dari Curse of Knowledge.
+G. Rubrik Evaluasi Mandiri & Penilaian Portofolio
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+3
+Lima target audiens dibedakan berdasarkan kebutuhan dan karakteristik psikologisnya, bukan sekadar stereotipe.
+Objective & State
+3
+Kebenaran inti (core meaning) dari teknologi desentralisasi tetap konsisten dan utuh di seluruh versi terjemahan tanpa distorsi makna.
+Repertoire, Language & AI
+4
+Lima repertoire bahasa dieksplorasi secara mendalam dengan rationale adaptasi yang jelas, didukung simulasi roleplay AI dan fact-check yang terukur.
+Response & Adaptation
+3
+Pertanyaan simulasi dari manajer keuangan menghasilkan klarifikasi terkait strategi implementasi modular yang aman.
+Agreement, Action & Relationship
+3
+Pesan menjembatani kesenjangan pemahaman secara efektif, memastikan setiap audiens memahami implikasi praktis bagi mereka.
+Total Skor Mandiri: 16 / 20 — Kompeten.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Maximillian Jose Andreas Aditjandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ilovecomputer-python.github.io/kipp-students/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assets/logo.png
+- https://ilovecomputer-python.github.io/kipp-students/course/index.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/index.html
+- https://ilovecomputer-python.github.io/kipp-students/examples/index.html
+- https://ilovecomputer-python.github.io/kipp-students/lk/index.html
+- https://ilovecomputer-python.github.io/kipp-students/slides.html
+- https://ilovecomputer-python.github.io/kipp-students/slides-pdf/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assessment/index.html
+- https://ilovecomputer-python.github.io/kipp-students/about.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-01.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-03.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-06.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-08.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-09.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-10.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-11.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-12.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-13.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-14.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-15.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#a.-deskripsi-tugas
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#b.-identitas-mahasiswa
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#c.-tahap-1-detoks-jargon-core-meaning-dekonstruksi-konsep
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#d.-tahap-2-matriks-terjemahan-lima-bahasa
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#e.-evidence-understanding-analisis-batas
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#f.-tahap-3-refleksi-pembelajaran-intrapribadi
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html#g.-rubrik-evaluasi-mandiri-penilaian-portofolio
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

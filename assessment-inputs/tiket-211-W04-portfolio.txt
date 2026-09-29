@@ -1,0 +1,182 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 211
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://gunther25.github.io/kipp-Students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography
+Indeks Portfolio
+Character Map — Minggu 1
+Intra-Self Communication Journal
+Relationship Conversation: Mendengarkan Tanpa Memperbaiki
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography
+Portofolio Wawancara Penemuan Kebutuhan: Discovery & Problem Statement
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Identifikasi & Arti Sederhana Jargon
+Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+2. Ragam Bahasa: Sahabat (Beda Program Studi)
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+4. Ragam Bahasa: Manajer / Pengambil Keputusan (Aspek Bisnis)
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Uji Coba Understanding & Adaptasi Pesan
+Feedback dari Target (Sahabat - Rian, Mahasiswa Manajemen)
+Refleksi Pembelajaran (Intrapribadi) & Catatan AI
+Refleksi Diri
+Catatan Penggunaan AI Kopilot
+Self-Assessment
+Portofolio Terjemahan Lima Bahasa: Public Key Cryptography
+Fondasi
+Language
+Menerjemahkan satu kebenaran inti konsep teknis ke dalam lima ragam bahasa audiens tanpa merusak esensi makna.
+CatatanPrinsip Utama Bab 4
+“Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami.”[cite: 4]
+Kompetensi Target
+Mengadaptasi repertoire dan pilihan bahasa tanpa mengubah kebenaran inti konsep (core meaning) dengan mengatasi kecenderungan “Kutukan Pengetahuan” (Curse of Knowledge)[cite: 4].
+Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Konsep Teknis yang Dipilih: Enkripsi Kunci Publik (Public Key Cryptography / Kriptografi Asimetris).
+Definisi Teknis Awal (Buku Teks): “Skema kriptografi asimetris yang menggunakan sepasang kunci terinterkoneksi secara matematis—kunci publik untuk enkripsi data dan kunci privat untuk dekripsi data—guna menjamin kerahasiaan (confidentiality), integritas, serta autentikasi komunikasi digital tanpa perlu membagikan kunci rahasia terlebih dahulu melalui saluran yang tidak aman.”
+Identifikasi & Arti Sederhana Jargon
+Jargon Teknis
+Arti Sederhana
+Kriptografi Asimetris
+Metode pengamanan data yang menggunakan dua kunci berbeda (publik & privat) yang berpasangan secara matematis[cite: 4].
+Enkripsi & Dekripsi
+Enkripsi: Mengacak pesan asli menjadi kode rahasia.
+Dekripsi: Membuka acakan kode rahasia kembali menjadi pesan asli.
+Autentikasi & Kerahasiaan
+Memastikan pengirim pesan adalah orang yang asli (bukan penipu) dan memastikan isinya hanya bisa dibaca oleh penerima yang berhak[cite: 4].
+Kebenaran Inti (Marrow of the Message): Cara aman mengirim pesan rahasia di internet menggunakan dua kunci berbeda, di mana siapa saja boleh mengunci pesannya, tetapi hanya satu orang pemilik kunci rahasia yang bisa membukanya.
+Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+Karakteristik Pendengar: Menggunakan pemikiran konkret, menyukai imajinasi, dan belum mengenal istilah akademis[cite: 4].
+Draf Terjemahan: > “Bayangkan kamu punya celengan gembok ajaib di kelas. Semua temanmu boleh memasukkan surat rahasia lewat lubang celengan itu dan langsung menguncinya. Tapi, cuma kamu satu-satunya orang yang pegang kunci untuk membuka celengan itu. Jadi, walaupun celengan itu dipegang atau dilihat teman-teman lain, surat rahasiamu tetap aman dan tidak ada yang bisa baca!”
+2. Ragam Bahasa: Sahabat (Beda Program Studi)
+Karakteristik Pendengar: Setara, santai, hangat, dan tanpa istilah akademis kaku[cite: 4].
+Draf Terjemahan: > “Gampangnya gini, kalau kamu mau kirim pesan rahasia ke aku lewat internet, aku bakal bagiin gembok terbuka yang bisa dipakai siapa aja. Kamu tinggal kunci pesanmu pakai gembok itu, lalu kirim ke aku. Nah, cuma aku yang punya kunci fisiknya buat ngebuka gembok itu. Jadi walaupun pesan itu diintip orang di tengah jalan, mereka gak bakal bisa buka.”
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+Karakteristik Pendengar: Tuntutan efisiensi, akurasi tinggi, serta pembuktian logis[cite: 4].
+Draf Terjemahan: > “Kita mengimplementasikan asymmetric public-key cryptography berbasis algoritma RSA/ECC. Pengirim mengenkripsi payload menggunakan public key penerima, dan hanya corresponding private key milik penerima yang secara matematis mampu melakukan decryption. Ini menjamin confidentiality dan non-repudiation tanpa memerlukan pre-shared key exchange di awal.”
+4. Ragam Bahasa: Manajer / Pengambil Keputusan (Aspek Bisnis)
+Karakteristik Pendengar: Berorientasi hasil, efisiensi alokasi sumber daya, manajemen risiko, dan dampak bisnis[cite: 4].
+Draf Terjemahan: > “Dengan menerapkan sistem kunci publik ini, pelanggan dapat mengunggah dokumen sensitif (seperti KTP atau bukti transfer) secara langsung dan aman. Kita tidak perlu menyimpan kunci rahasia di jalur transmisi, sehingga menekan risiko kebocoran data pelanggan hingga 99%, menghindarkan perusahaan dari denda pelanggaran privasi data, serta meningkatkan kepercayaan konsumen saat bertransaksi.”
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Karakteristik Pendengar: Heterogen, berfokus pada dampak langsung bagi keselamatan, kemudahan, atau kehidupan sehari-hari[cite: 4].
+Draf Terjemahan: > “Teknologi ini bekerja persis seperti kotak surat rumah Anda. Siapa saja atau kurir mana pun bisa memasukkan surat ke dalam celah kotak surat tersebut, tetapi hanya Anda sebagai pemilik rumah yang memegang kunci untuk membuka dan membaca isi surat di dalamnya. Ini memastikan data pribadi Anda tetap aman saat berbelanja online atau menggunakan aplikasi perbankan.”
+Uji Coba Understanding & Adaptasi Pesan
+Feedback dari Target (Sahabat - Rian, Mahasiswa Manajemen)
+Pengujian: Draf versi Sahabat dibaca oleh Rian tanpa memberikan penjelasan latar belakang terlebih dahulu.
+Respon & Pertanyaan: Rian memahami konsep gembok dan kunci, namun bertanya: “Kenapa gemboknya harus dibagi-bagikan ke umum di awal? Apa gak bahaya kalau gemboknya dicuri orang?”
+Adaptasi Pesan: Menambahkan kalimat penjelas pada versi Sahabat: “Gemboknya aman dibagiin ke siapa aja karena gembok cuma berfungsi buat mengunci pesan, bukan buat membukanya. Yang berbahaya itu kalau kunci pembukanya yang tersebar.” Adaptasi ini memperjelas mekanisme tanpa menambah jargon teknis[cite: 4].
+Refleksi Pembelajaran (Intrapribadi) & Catatan AI
+Refleksi Diri
+Ragam Bahasa Paling Sulit: Ragam Anak-Anak dan Manajer[cite: 4].
+Anak-Anak: Menuntut pembongkaran total konsep abstrak matematis menjadi objek fisik nyata tanpa mengurangi logika dasarnya[cite: 4].
+Manajer: Menuntut pergeseran pola pikir dari “bagaimana cara kerjanya” menjadi “apa dampak finansial dan risikonya bagi organisasi”[cite: 4].
+Perubahan Cara Pandang Keilmuan: Proses dekonstruksi jargon menyadarkan saya bahwa memahami sebuah ilmu bukan berarti mampu menghafal istilah rumitnya, melainkan mampu menjelaskan esensinya kepada siapa saja[cite: 4].
+Catatan Penggunaan AI Kopilot
+Prompt AI yang Digunakan: "Uji draf berikut: [Draf Versi Anak-Anak]. Berperanlah sebagai anak sekolah dasar usia 10 tahun. Apakah ada kata yang membuatmu bingung atau terlalu kaku?"
+Umpan Balik AI: AI menyarankan untuk mengganti kata “data digital” dan “transmisi” menjadi “surat rahasia” dan “celengan gembok”, karena anak usia 10 tahun lebih cepat mencerna objek yang dapat diimajinasikan secara fisik[cite: 4].
+Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Membedakan kebutuhan 5 audiens secara spesifik tanpa menggunakan stereotip kaku[cite: 4].
+Objective & State
+3
+Kebenaran inti (marrow of the message) terjaga konsisten di seluruh versi terjemahan[cite: 4].
+Repertoire, Language & AI
+4
+Menggunakan 5 register bahasa yang kontras, bersih dari jargon pada ragam non-teknis, dan memanfaatkan AI secara efektif[cite: 4].
+Response & Adaptation
+3
+Menguji draf pada target nyata (Rian) dan merevisi penjelasan berdasarkan responnya[cite: 4].
+Agreement, Action & Relationship
+4
+Menjaga martabat audiens, membangun kejelasan, serta merumuskan refleksi intrapribadi yang mendalam[cite: 4].
+Total: 18/20 — Unggul.
+Kembali ke atas
+Relationship Conversation: Mendengarkan Tanpa Memperbaiki
+Portofolio Wawancara Penemuan Kebutuhan: Discovery & Problem Statement
+Portfolio KIPP-2 · Faiq Fadhlul Bahri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://gunther25.github.io/kipp-Students/index.html
+- https://gunther25.github.io/kipp-Students/assets/logo.png
+- https://gunther25.github.io/kipp-Students/course/index.html
+- https://gunther25.github.io/kipp-Students/portfolio/index.html
+- https://gunther25.github.io/kipp-Students/examples/index.html
+- https://gunther25.github.io/kipp-Students/lk/index.html
+- https://gunther25.github.io/kipp-Students/slides.html
+- https://gunther25.github.io/kipp-Students/slides-pdf/index.html
+- https://gunther25.github.io/kipp-Students/assessment/index.html
+- https://gunther25.github.io/kipp-Students/about.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-01.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-02.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-03.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-05.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-06.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-07.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-08.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-09.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-10.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-11.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-12.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-13.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-14.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-15.html
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#kompetensi-target
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#tahap-1-detoks-jargon-dekonstruksi-konsep
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#identifikasi-arti-sederhana-jargon
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#tahap-2-matriks-terjemahan-lima-bahasa
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#ragam-bahasa-anak-anak-usia-10-tahun
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#ragam-bahasa-sahabat-beda-program-studi
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#ragam-bahasa-manajer-pengambil-keputusan-aspek-bisnis
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#ragam-bahasa-publik-umum-masyarakat-luas
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#uji-coba-understanding-adaptasi-pesan
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#feedback-dari-target-sahabat---rian-mahasiswa-manajemen
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#refleksi-pembelajaran-intrapribadi-catatan-ai
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#refleksi-diri
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#catatan-penggunaan-ai-kopilot
+- https://gunther25.github.io/kipp-Students/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

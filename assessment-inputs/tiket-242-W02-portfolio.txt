@@ -1,0 +1,166 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 242
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Episode
+Event: Teman A meminta saya mengganti data tabel karena dirasa kurang bisa dipahami dalam konteks lomba.
+Lapisan
+Deskripsi
+Fact
+Seluruh isi tabel dan penjelasannya harus direvisi karena kurang spesifik.
+Initial story
+“Teman berpendapat bahwa tabel kurang jelas bersamaan dengan berbagai pertanyaan; teman mungkin menganggap isi tabel kurang dapat diandalkan.”
+Emotion/body signal
+Malu (skala 6/10)
+Reactive character
+“Pembela”: merasa bahwa isi tabel sudah cukup dan tidak perlu direvisi.
+Desired character
+“Pembelajar”: berusaha menelaah kembali isi tabel apakah benar-benar masih ambigu.
+Alternative narratives
+Invitation to improve: Pendapat teman sebenarnya demi kebaikan kelompok, karena dapat memengaruhi nilai kelompok pada lomba.
+Constraint hypothesis: Kondisi larut malam dan batas waktu yang sudah dekat membuat saya mengantuk dan kurang fokus, tetapi revisi ini bukan dikerjakan saya seorang sehingga masih sangat memungkinkan.
+Internal conversation dan agreement
+Pembela: “Pendapat teman mungkin benar, tetapi batas waktu pengumpulan semakin dekat dan mengubah hal kecil pada tabel bisa memengaruhi penjelasan detail di bawahnya.”
+Pembelajar: “Merevisi ini memberi saya pelajaran agar tetap teliti dan menyusun argumen yang lebih konkret.”
+Saya: “Saya akan berargumen mengenai titik yang kurang jelas sembari mencoba memikirkan tabel rancangan yang lebih konkret dan akan memutuskan setelahnya.”
+Internal agreement: “Saya setuju akan merevisi tabel setelah berdiskusi dengan teman saya.”
+Evidence tindakan
+Dokumen pendukung: Dokumen kerja yang memuat tabel hasil revisi.
+Dokumentasi koordinasi: Diskusi melalui Google Meet bersama mitra.
+Mitra A: “Kita butuh angka dan penjelasan yang lebih konkret dari ini agar sama-sama paham.”
+Saya: Melakukan revisi tabel secara langsung dengan dibantu oleh teman tersebut.
+Feedback, AI, dan refleksi
+Tidak menggunakan AI pada pengerjaan utama tugas ini; penggunaan AI hanya sebatas menanyakan contoh situasi baru yang lebih konkret sebagai pembanding.
+Next practice: Ketika menerima masukan, saya akan mengambil jeda (pause) untuk mencerna masukannya terlebih dahulu, lalu menanyakan alasannya serta meminta bantuannya dalam menilai kembali hasil revisi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Berhasil mengidentifikasi pergeseran karakter internal dari Pembela (reaktif) menjadi Pembelajar (reflektif).
+Objective & State
+3
+Mampu mengelola emosi malu (6/10) serta mengarahkan initial story defensif menjadi objektif perbaikan tabel.
+Repertoire, Language & AI
+3
+Menggunakan dialog internal berbasis klarifikasi dan menerapkan konsep pause tanpa ketergantungan pada AI.
+Response & Adaptation
+4
+Beradaptasi secara terbuka dengan merespons masukan Mitra A dan bersedia merevisi rancangan tabel bersama.
+Agreement, Action & Relationship
+4
+Mencapai internal agreement yang jelas dan ditindaklanjuti dengan aksi pengerjaan revisi tabel di Google Meet.
+Total: 17 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#episode
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-02.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

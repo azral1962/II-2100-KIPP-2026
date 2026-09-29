@@ -1,0 +1,160 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 141
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Core meaning
+Fakta yang tidak boleh berubah: API adalah penghubung yang memungkinkan dua sistem atau aplikasi yang berbeda saling bertukar data dan bekerja sama, tanpa salah satu pihak perlu mengetahui cara kerja internal pihak lainnya.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda.”
+Analogi dari pengalaman sehari-hari, tanpa istilah teknis, agar terasa ngobrol bukan menggurui
+Technical peer
+“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”
+Presisi istilah dan parameter standar industri untuk audiens yang menuntut akurasi teknis
+Manager
+“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”
+Fokus pada value, biaya, dan risiko bisnis, bukan mekanisme teknis
+Customer/student user
+“Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di ‘jembatan’ (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut.”
+Menjelaskan dampak konkret dan action yang harus diambil, tanpa perlu tahu istilah “API” secara mendalam
+Public
+“Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada ‘jembatan penghubung’ (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir.”
+Menghubungkan konsep ke keamanan dan kemudahan hidup sehari-hari, bahasa inklusif untuk audiens heterogen
+Evidence understanding
+Saya menguji versi Friend kepada T, mahasiswa Fakultas Kedokteran Gigi (FKG) — dipilih karena benar-benar berbeda bidang keilmuan dari IT, sehingga representatif sebagai target “beda program studi”. Percakapan dilakukan lewat chat WhatsApp pada 27 September 2026.
+Screenshot percakapan WhatsApp dengan T tersimpan di folder evidence: Link Google Drive. Kontribusi saya: menyusun dan mengirim draf versi Friend, serta menyusun pertanyaan verifikasi teach-back di bawah ini.
+Setelah membaca draf, T menjawab singkat: “iya paham.” Karena jawaban afirmatif saja rawan basa-basi, saya melakukan verifikasi lanjutan dengan meminta T menjelaskan kembali (teach-back) memakai kata-katanya sendiri. T menjawab:
+“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”
+Jawaban ini menangkap kebenaran inti dengan akurat — penghubung, dua sistem independen, permintaan lintas sistem — meski T memakai istilah “sistem” alih-alih analogi “pelayan/perantara” yang saya pakai. Ini menunjukkan T tidak sekadar menghafal kalimat saya, tapi benar-benar memahami dan mereformulasi konsepnya sendiri dengan bahasanya.
+Analisis dan batas
+Repertoire berubah dari obrolan santai antar-teman, penjelasan presisi antar-sesama ahli, ringkasan berorientasi keputusan untuk manajer, instruksi praktis untuk pengguna, hingga narasi berbasis dampak sosial untuk publik. Saya tidak menganggap versi Friend otomatis berlaku untuk semua audiens awam — versi Customer sengaja dibuat lebih berorientasi tindakan (apa yang harus dilakukan saat API bermasalah) dibanding versi Public yang lebih bersifat kesadaran umum tanpa tuntutan aksi.
+AI (Claude) digunakan dalam: (1) membantu memahami tugas dan memberi instruksi apa yang harus dikerjakan, dan (2) berperan sebagai “anak 10 tahun” untuk menguji versi paling sederhana sebelum diuji ke manusia sungguhan — hasilnya menunjukkan draf awal saya melompat ke istilah “program komputer” tanpa penjelasan, sehingga saya revisi. Saya yang menentukan kebenaran inti, memilih target uji, dan menilai apakah jawaban T benar-benar menunjukkan pemahaman — bagian ini tidak digantikan AI karena butuh penilaian langsung terhadap respons manusia yang sesungguhnya.
+Next practice: menguji versi Manager atau Public ke target sungguhan (bukan hanya versi Friend), untuk memastikan repertoire lain juga benar-benar dipahami, bukan cuma diasumsikan berhasil berdasarkan logika saya sendiri.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Lima target dibedakan berdasarkan kebutuhan nyata, namun baru satu audiens (Friend) yang tervalidasi langsung ke orang sungguhan
+Objective & State
+3
+Kebenaran inti konsisten di kelima versi; versi Customer masih berbasis skenario asumsi, belum insiden nyata
+Repertoire, Language & AI
+4
+Lima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan dengan batas yang jelas
+Response & Adaptation
+4
+Verifikasi teach-back membuktikan pemahaman akurat target, bukan sekadar klaim “paham”
+Agreement, Action & Relationship
+3
+Relationship dengan target terjaga secara natural, namun belum ada elemen negosiasi/keputusan eksplisit seperti skenario transaksional
+Total: 17/20 — Kompeten.
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/week-04.html
+- https://drive.google.com/drive/folders/1GTPovPimiYMOqSUz0g8DZ40iViawqF1d?usp=sharing
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

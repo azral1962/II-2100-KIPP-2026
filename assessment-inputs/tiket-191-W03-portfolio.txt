@@ -1,0 +1,153 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 191
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks dan relationship state
+Potongan transcript
+Analisis listening, boundary, dan repair
+Relationship outcome dan evidence
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks dan relationship state
+Saya rutin mendampingi adik saya yang duduk di bangku kelas VI SD belajar. Minggu ini materinya adalah membaca piktogram dan diagram batang. Sebelumnya, saya sering tidak sabar, merebut pensilnya, dan langsung memberitahukan jawaban akhir (seperti “Ini tomatnya jelas 40 kg” atau “Tinggi Ari itu 160 cm jelas-jelas”).
+State sebelum percakapan: Kepercayaan adik kepada saya sebagai kakak masih baik, tetapi adik menjadi takut salah, mudah frustrasi, dan merasa bodoh jika belajar dengan saya. Ketegangan berada pada skor 8/10. Objective saya adalah memperbaiki cara saya mengajar (melakukan repair) dan memvalidasi kebingungannya tanpa merendahkan.
+Potongan transcript
+Adik: (melempar pensil) “Aku nggak ngerti! Piktogram tomat ini gambarnya ada yang separuh, ini gimana cara hitungnya?!”
+Saya: “Adik kesal ya karena gambar tomatnya nggak utuh, jadi susah dipasin sama angka di sampingnya?” (Mendengarkan Tingkat 2 - Makna)
+Adik: “Iya! Kemarin Kakak langsung bilang ini 40 kg, tapi aku bingung dari mana bisa 40 kg.”
+Saya: “Maaf ya, kemarin Kakak langsung kasih tahu jawabannya tanpa jelasin langkahnya pelan-pelan. Kakak ngerti kalau itu bikin adik merasa makin bingung.” (Langkah Repair)
+Adik: “Aku takut salah jawab di PR.”
+Saya (OPKP): “Kakak lihat adik udah capek belajar dari tadi siang [O]. Kakak khawatir kalau dipaksa sekarang malah nggak masuk materinya [P], karena Kakak ingin adik paham konsepnya pelan-pelan, bukan sekadar selesai PR-nya [K]. Bagaimana kalau kita istirahat 15 menit, lalu kita gambar ulang piktogramnya sama-sama? [P]”
+Adik: “Iya, mau istirahat dulu. Nanti temenin aku hitung yang gambar separuh ya.”
+Analisis listening, boundary, dan repair
+Saya menekan insting untuk memarahi atau langsung menuliskan perhitungan matematika untuknya. Saya menggunakan parafrasa untuk mengonfirmasi bahwa frustrasinya berasal dari representasi visual gambar yang terpotong.
+Repair: Saya secara eksplisit meminta maaf karena pendekatan pengajaran saya di hari sebelumnya (yang terlalu cepat menyodorkan jawaban 40 kg dan 160 cm) berdampak buruk pada pemahamannya. Boundary & Request: Menggunakan formula OPKP (Observasi, Perasaan, Kebutuhan, Permintaan), saya mengusulkan jeda waktu 15 menit agar emosinya stabil sebelum melanjutkan logika matematika.
+Relationship outcome dan evidence
+Objek sengketa (buku tugas piktogram kelas V)I diselesaikan setelah istirahat tanpa ada ketegangan urat saraf.
+Observer (Ibu saya) mencatat bahwa ini pertama kalinya sesi belajar kami tidak diakhiri dengan tangisan adik.
+Ketegangan yang saya dan adik rasakan turun secara drastis dari 8/10 menjadi 2/10.
+AI tidak digunakan untuk mengintervensi percakapan ini karena relasi yang terjalin menuntut kehadiran dan empati manusiawi saya secara utuh sebagai seorang kakak.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Mengakui kebutuhan emosional adik yang merasa tertinggal.
+Objective & State
+4
+Ketegangan awal tinggi, target meredakan emosi tercapai.
+Repertoire, Language & AI
+3
+Mempraktikkan parafrasa (Tingkat 2) dan formula asertif OPKP.
+Response & Adaptation
+4
+Jeda 15 menit digunakan sebagai adaptasi dari kebuntuan belajar.
+Agreement, Action & Relationship
+4
+Ada perbaikan relasi (repair eksplisit terkait kesalahan kemarin) yang diterima dengan baik.
+Total: 18/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#konteks-dan-relationship-state
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#potongan-transcript
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#analisis-listening-boundary-dan-repair
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#relationship-outcome-dan-evidence
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://cpu-61.github.io/kipp-students/examples/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
