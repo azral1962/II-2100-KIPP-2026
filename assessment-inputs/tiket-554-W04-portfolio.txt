@@ -1,0 +1,256 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 554
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://moorrrrrr.github.io/repo/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+B. Identitas Mahasiswa
+C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+D. Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Analisis Perubahan Bahasa
+Feedback understanding
+E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+B. Identitas Mahasiswa
+Nama Lengkap: Cecilia Maura Ciptami Paskadina
+NIM: 18225049
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 15 September 2026
+C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan “sumsum” atau kebenaran inti dari pesan Anda.
+Konsep Teknis yang Dipilih: (Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.) Jawab: Stack
+Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah): (Tuliskan definisi asli lengkap dengan jargon teknisnya) Jawab: Stack adalah struktur data linier abstrak yang mengikuti prinsip LIFO (Last In, First Out) , di mana elemen data hanya dapat ditambahkan (push) dan dihapus (pop) dari satu ujung yang disebut top.
+Daftar Jargon Teknis & Artian Sederhananya: Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.
+Jargon 1: LIFO \(\rightarrow\) Arti Sederhana: Data yang terkahir dimasukkan adalah data yang akan keluar pertama kali saat ‘stack’ ini dipanggil
+Jargon 2: Struktur data linier \(\rightarrow\) Arti Sederhana: pengaturan data dengan satu urutan
+Jargon 3: Pop \(\rightarrow\) Arti Sederhana: Menghapus data teratas stack
+Jargon 4: Push \(\rightarrow\) Arti Sederhana: Menambahkan data baru ke posisi paling atas stack
+Jargon 5: Top \(\rightarrow\) Arti Sederhana: Posisi paling atas stack, satu-satunya tempat data bisa ditambah atau diambil
+Kebenaran Inti (Marrow of the Message): (Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia) Jawab: Stack adalah cara menyimpan data di mana yang terakhir masuk adalah yang pertama keluar, seperti tumpukan piring. Ini memungkinkan komputer mengingat “di mana ia berada” saat menjalankan perintah bertingkat, seperti tombol undo atau navigasi halaman web.
+D. Tahap 2: Matriks Terjemahan Lima Bahasa
+Sekarang, bawa kebenaran inti di atas menggunakan “kendaraan” bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+Karakteristik Pendengar: Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
+Strategi: Gunakan analogi fisik atau cerita yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
+Draf Terjemahan Anda: Coba bayangkan tumpukan piring di rak dapur. Kalau Ibu mau ambil piring, piring yang paling atas itu yang pertama diambil, kan? Nah, komputer juga menyimpan data seperti itu. Data yang terakhir ditaruh di tumpukan, itu yang pertama diambil. Makanya disebut ‘terakhir masuk, pertama keluar’. Ini dipakai di tombol undo di game kamu, kalau kamu menekan undo, yang dibatalkan adalah hal terakhir yang kamu lakukan.
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+Karakteristik Pendengar: Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
+Strategi: Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
+Draf Terjemahan Anda: Jadi gini, bayangin kamu lagi numpuk buku di meja. Buku yang paling akhir kamu taruh di atas, itu yang paling gampang kamu ambil lagi. Komputer juga gitu cara nyimpen datanya, yang terakhir masuk, itu yang pertama keluar. Makanya disebut LIFO, Last In First Out. Ini kepake banget di fitur undo di aplikasi edit foto kamu, atau tombol back di browser. Setiap kali kamu klik back, itu kayak ngambil buku paling atas dari tumpukan.
+Revisi setelah feedback Bunga: Nah, terus apa yang terjadi kalau tumpukan bukunya udah terlalu tinggi? Di komputer, tumpukan data ini juga punya batas memori. Kalau kita terus-terusan nambah data tanpa pernah ngambil, tumpukannya bisa “runtuh” — atau istilah kerennya stack overflow.
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+Karakteristik Pendengar: Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
+Strategi: Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
+Draf Terjemahan Anda: Stack adalah ADT (Abstract Data Type) dengan operasi terbatas: push (menambah ke top), pop (menghapus dari top), peek (melihat top tanpa menghapus), dan isEmpty. Semua operasi O(1). Implementasi umum: array dinamis atau linked list. Bedanya dengan Queue: Queue itu FIFO, enqueue di rear, dequeue di front. Stack itu LIFO, push dan pop di ujung yang sama.
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+Karakteristik Pendengar: Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
+Strategi: Tekankan nilai tambah (value proposition), biaya (cost), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
+Draf Terjemahan Anda: Stack adalah cara menyimpan dan mengelola data dalam program komputer dengan prinsip LIFO (Last In, First Out), data yang terakhir masuk adalah yang pertama keluar. Analoginya seperti tumpukan piring: piring yang paling atas (terakhir diletakkan) adalah yang pertama diambil. Investasi kecil dalam pemahaman struktur data ini menghasilkan penghematan biaya pengembangan dan pemeliharaan yang signifikan, serta mengurangi risiko teknis pada fitur-fitur kritis.
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Karakteristik Pendengar: Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
+Strategi: Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
+Draf Terjemahan Anda: Pernahkah Anda menekan tombol undo di ponsel setelah salah ketik? Atau tombol back di browser saat ingin kembali ke halaman sebelumnya? Di balik tombol-tombol itu ada cara kerja yang disebut stack. Bayangkan tumpukan piring di dapur, piring yang terakhir ditaruh di atas, itu yang pertama diambil. Komputer juga begitu: yang terakhir dicatat, itu yang pertama dibatalkan atau dikembalikan.
+Analisis Perubahan Bahasa
+Audiens
+Perubahan Language
+Perubahan Repertoire
+Alasan
+Anak
+Kalimat pendek, kata konkret, tidak ada jargon
+Analogi piring + koneksi ke game
+Pemikiran konkret, rentang perhatian pendek
+Sahabat
+Santai, “gini”, “banget”, tanpa menggurui
+Analogi buku + aplikasi sehari-hari
+Setara usia, ingin ngobrol santai
+Rekan Teknis
+Presisi, O(1), ADT, use case
+Notasi Big-O, perbandingan struktur
+Menuntut akurasi dan efisiensi
+Manajer
+Berorientasi hasil, metrik, risiko
+Hubungan ke biaya dan bisnis
+Berorientasi hasil dan alokasi sumber daya
+Publik
+Inklusif, pertanyaan retoris, tanpa jargon
+Analogi piring + undo/back
+Heterogen, ingin dampak langsung
+Feedback understanding
+Saya menunjukkan draf versi Sahabat yang menggunakan analogi tumpukan buku, lalu meminta Bunga (teman berbeda jurusan) menjelaskan ulang dengan kata-katanya sendiri. Bunga menjawab bahwa stack itu “kayak tumpukan buku, yang terakhir ditaruh di atas itu yang pertama diambil,” dan saat ditanya kenapa disebut LIFO ia bisa menjelaskan “Last In First Out” dengan benar serta memberi contoh sendiri yaitu tombol undo di HP. Ia juga bertanya apa yang terjadi kalau tumpukannya terlalu tinggi, yang menunjukkan ia tidak sekadar menghafal tapi mencoba memperluas analogi. Dari respons ini saya menyimpulkan versi Sahabat berhasil karena target beda bidang mampu menjelaskan ulang konsep dengan analogi sendiri dan memberi contoh nyata, sehingga saya hanya perlu menambahkan sedikit penjelasan tentang batas memori stack (stack overflow) untuk menjawab rasa penasarannya.
+E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.
+Ragam bahasa mana yang paling sulit Anda buat? Mengapa? Jawab: Ragam bahasa ke manajer. Awalnya saya kesulitan karena saya terbiasa menjelaskan Stack dari sisi bagaimana cara kerjanya, bukan apa dampaknya bagi bisnis. Saya perlu belajar menghubungkan detail teknis ke metrik bisnis seperti biaya, risiko, dan pengalaman pelanggan.
+Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri? Jawab: Saya menyadari bahwa selama ini saya menjelaskan Stack dengan definisi buku teks, ‘struktur data linier dengan prinsip LIFO’, tanpa pernah benar-benar memikirkan mengapa orang lain harus peduli. Proses dekonstruksi ini memaksa saya bertanya: ‘Apa masalah nyata yang diselesaikan Stack?’ Ternyata jawabannya bukan ‘menyimpan data,’ tapi ‘mengelola urutan operasi yang harus dibalik.’ Ini mengubah cara saya melihat semua konsep teknis: bukan sebagai kumpulan definisi, tapi sebagai solusi untuk masalah manusia.
+Catatan Penggunaan AI Kopilot (Jika Ada): Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI. Jawab: prompt yang digunakan: “Berperanlah sebagai anak berusia 10 tahun yang tidak tahu apa itu stack. Baca draf versi Anak-Anak ini dan katakan bagian mana yang membingungkan atau tidak kamu mengerti.” Feedback dari AI: AI (sebagai anak 10 tahun) merespons bahwa analogi “tumpukan piring di rak dapur” sudah cukup jelas, tapi kalimat “terakhir masuk, pertama keluar” terasa seperti hafalan karena tidak ada contoh nyata. AI menyarankan menambahkan contoh yang dekat dengan dunia anak, seperti tombol undo di game. Revisi yang dilakukan: Saya menambahkan kalimat: “Ini dipakai di tombol undo di game kamu — kalau kamu menekan undo, yang dibatalkan adalah hal terakhir yang kamu lakukan.” Kalimat ini menjawab feedback AI dan membuat konsep lebih konkret bagi anak usia 10 tahun.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Cecilia Maura Ciptami Paskadina
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://moorrrrrr.github.io/repo/index.html
+- https://moorrrrrr.github.io/repo/assets/logo.png
+- https://moorrrrrr.github.io/repo/course/index.html
+- https://moorrrrrr.github.io/repo/portfolio/index.html
+- https://moorrrrrr.github.io/repo/examples/index.html
+- https://moorrrrrr.github.io/repo/lk/index.html
+- https://moorrrrrr.github.io/repo/slides.html
+- https://moorrrrrr.github.io/repo/slides-pdf/index.html
+- https://moorrrrrr.github.io/repo/assessment/index.html
+- https://moorrrrrr.github.io/repo/about.html
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html
+- https://moorrrrrr.github.io/repo/portfolio/week-01.html
+- https://moorrrrrr.github.io/repo/portfolio/week-02.html
+- https://moorrrrrr.github.io/repo/portfolio/week-03.html
+- https://moorrrrrr.github.io/repo/portfolio/week-05.html
+- https://moorrrrrr.github.io/repo/portfolio/week-06.html
+- https://moorrrrrr.github.io/repo/portfolio/week-07.html
+- https://moorrrrrr.github.io/repo/portfolio/week-08.html
+- https://moorrrrrr.github.io/repo/portfolio/week-09.html
+- https://moorrrrrr.github.io/repo/portfolio/week-10.html
+- https://moorrrrrr.github.io/repo/portfolio/week-11.html
+- https://moorrrrrr.github.io/repo/portfolio/week-12.html
+- https://moorrrrrr.github.io/repo/portfolio/week-13.html
+- https://moorrrrrr.github.io/repo/portfolio/week-14.html
+- https://moorrrrrr.github.io/repo/portfolio/week-15.html
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#kompetensi-target
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#b.-identitas-mahasiswa
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#c.-tahap-1-detoks-jargon-dekonstruksi-konsep
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#d.-tahap-2-matriks-terjemahan-lima-bahasa
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#ragam-bahasa-anak-anak-usia-10-tahun
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#ragam-bahasa-sahabat-beda-bidang-program-studi
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#ragam-bahasa-publik-umum-masyarakat-luas
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#analisis-perubahan-bahasa
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#feedback-understanding
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#e.-tahap-3-refleksi-pembelajaran-intrapribadi
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#evidence-wajib
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#konteks-performance
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#evidence
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#analisis-komunikasi
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#penggunaan-ai
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#self-assessment
+- https://moorrrrrr.github.io/repo/portfolio/week-04.html#assessment-dosen
+- https://moorrrrrr.github.io/repo/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
