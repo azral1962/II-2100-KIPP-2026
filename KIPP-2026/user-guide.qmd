@@ -1,5 +1,19 @@
 # Panduan pengguna
 
+## UTS pada Minggu 08
+
+W08 menggantikan tugas mingguan ke-8. Isi indeks `portfolio/week-08.qmd`,
+makalah dan lima laporan pada `portfolio/UTS/`, lalu publikasikan halaman HTML.
+Perbarui tautan indeks bila nama laporan bersufiks NIM. Gunakan `/submit W08`,
+`/llm TICKET`, dan `/hasil W08` seperti submission biasa.
+
+UTS dinilai dengan enam dimensi per sesi: makalah 10%, sesi 1/2a/2b/3a/3b
+masing-masing 18%. `/skor A08` menampilkan nilai UTS resmi /100 setelah moderasi
+dosen. Evidence atau descriptor yang belum cukup diberi BT; nilai final belum
+dihitung sampai semua komponen sah. Ambang 3.0 dan total /20 pada panduan ini
+berlaku untuk minggu lain. Jika evidence/acuan diperbaiki setelah penilaian,
+mintalah operator mengantrekan ulang tiket UTS yang belum resmi.
+
 ## Tujuan layanan
 
 Student Course Services membantu mahasiswa untuk:

@@ -3,6 +3,3 @@ __pycache__/
 *.py[cod]
 .*.lock
 telegram-offset.txt
-
-/.quarto/
-**/*.quarto_ipynb
