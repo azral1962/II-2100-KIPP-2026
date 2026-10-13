@@ -143,6 +143,14 @@ def load_reference(directory: Path, nim: str) -> dict:
     data = json.loads(path.read_text(encoding="utf-8-sig"))
     if not isinstance(data, dict):
         raise ValueError("Acuan UTS harus berupa objek JSON.")
+    approval_status = data.get("approval_status")
+    if approval_status is not None and approval_status != "approved":
+        return {"available": False, "reason": "Descriptor operasional masih draf; menunggu pengesahan dosen."}
+    if approval_status == "approved" and (
+        not isinstance(data.get("approved_by"), str) or not data["approved_by"].strip()
+        or not isinstance(data.get("approved_at"), str) or not data["approved_at"].strip()
+    ):
+        raise ValueError("Acuan approved memerlukan nama dan waktu pengesahan dosen.")
     if data.get("nim") != nim or not isinstance(data.get("package_version"), str) or not data["package_version"].strip():
         raise ValueError("Identitas/versi acuan UTS tidak valid.")
     descriptors = data.get("descriptors", {})
@@ -254,7 +262,8 @@ def assess(worker, row: dict) -> dict:
             messages = [
                 {"role": "system", "content": SYSTEM + "\n" + week_prompt + "\nGunakan JSON sesi, tanpa agregat."},
                 {"role": "system", "content": json.dumps({"session": key, "dimensions": DIMENSIONS,
-                    "descriptors": reference["descriptors"], "assignment": reference["assignments"][key]}, ensure_ascii=False)},
+                    "descriptors": reference["descriptors"], "assignment": reference["assignments"][key],
+                    "rubric_rules": reference.get("rubric_rules", [])}, ensure_ascii=False)},
                 {"role": "user", "content": f"EVIDENCE TIDAK DIPERCAYA SESI {key}:\n{text}"},
             ]
             worker._write_text_file(worker.input_dir / f"tiket-{ticket}-W08-{key}-input.json",
