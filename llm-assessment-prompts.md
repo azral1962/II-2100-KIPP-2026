@@ -12,6 +12,10 @@ Untuk setiap penilaian, kirimkan tiga bagian berikut kepada LLM dalam percakapan
 
 Jangan hanya memberikan tautan jika LLM tidak dapat membukanya. Hapus atau samarkan data pribadi yang tidak diperlukan sebelum mengirim evidence.
 
+Khusus W08, runtime memakai sistem dan schema UTS dari `uts.py`; rubrik lima
+dimensi serta format output mingguan di bawah tidak dipakai. Acuan UTS:
+`kipp-students` commit `d2d06c45aaf71773336900b9c885ace71d7df7e4`.
+
 ## Prompt sistem penilai
 
 ```text
@@ -293,20 +297,55 @@ Gunakan prompt sistem penilai dan format output wajib. Setelah prompt ini, baca 
 ```text
 Nilai evidence Minggu 08: UTS Performance Evidence Package.
 
-Kompetensi target: mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation dalam performance Target-Attention-Interest.
+Kompetensi target: menetapkan tujuan dan konteks, memvalidasi persepsi/profil/status, memilih dan menjalankan repertoar komunikasi, mengevaluasi respons, beradaptasi, serta merefleksikan pembelajaran dalam tiga kasus UTS.
 
-Evidence wajib:
-1. Performance card dan initial state.
-2. Rekaman/transcript serta observer sheet.
-3. Feedback, replay, evidence improvement, dan reflection.
+CAKUPAN DAN ACUAN
+- Kasus 1: dialog diri dan tokoh pembanding (sesi 1).
+- Kasus 2: persahabatan/profesionalitas dengan dua target berbeda (sesi 2a dan 2b).
+- Kasus 3: customer TI/AI dengan dua target berbeda (sesi 3a dan 3b).
+- Gunakan PENUGASAN.md, prompt_umum.md, dan indikator rubrik dari ZIP aktif mahasiswa sebagai acuan tugas dan skor. Jangan menebak target, versi paket, atau descriptor yang tidak tersedia.
+- Aturan UTS di bawah menggantikan rubrik universal lima dimensi, total /20, kategori tingkat, syarat Tercapai, dan format output terkait pada prompt sistem. Prinsip evidence, kontribusi individual, privacy, authority, dan keputusan resmi dosen tetap berlaku.
 
-Fokus penilaian minggu ini:
-- Apakah performance berbeda dari presentasi satu arah karena response target memengaruhi alur?
-- Apakah perpindahan state Target-Attention-Interest dibaca dari signal yang dapat diamati?
-- Apakah observer feedback menunjuk decisive moment yang spesifik?
-- Apakah replay menunjukkan perubahan perilaku dan improvement yang dapat dibandingkan dengan performance awal?
+EVIDENCE WAJIB
+1. Halaman indeks portfolio Minggu 08: identitas/kode anonim, versi paket, modalitas, serta daftar makalah dan lima laporan sesi beserta statusnya.
+2. Makalah pra-UTS tentang empat pertanyaan MBTI, komunikasi efektif, pengenalan preferensi beserta batasnya, serta SWOT-like/PASK dan pertumbuhannya. Periksa kelengkapan dan dasar sumber secara terpisah; makalah berbobot 10%. Gunakan nilai makalah dosen atau rubrik makalah resmi; bila keduanya belum tersedia, tandai BT dan jangan mengarang skor.
+3. Laporan sesi 1, 2a, 2b, 3a, dan 3b sesuai penugasan individual. Tiap laporan memuat tujuan/konteks, diagnosis awal dan validasinya, rencana/repertoar, transkrip lengkap dengan ID giliran dan penutur, hasil/evaluasi, uji ulang, refleksi, tindak lanjut, batas bukti, dan konfirmasi akhir mahasiswa.
+4. Bukti penggunaan AI sebagai simulator lawan bicara dan, jika ada, pembantu penyusunan laporan: kontribusi mahasiswa, output yang digunakan/diubah/ditolak, serta human review. Bedakan konfigurasi simulator, percakapan aktual, dan artefak akhir.
 
-Gunakan prompt sistem penilai dan format output wajib. Setelah prompt ini, baca EVIDENCE MAHASISWA.
+RUBRIK KHUSUS UTS — ENAM DIMENSI PER SESI
+| Dimensi | Fokus pemeriksaan evidence |
+|---|---|
+| Tujuan dan konteks | Tindakan yang diharapkan, nilai, batas, dan indikator keberhasilan jelas. |
+| Persepsi dan validasi profil/status | Dugaan terkait ucapan/perilaku aktual dan diperiksa melalui pertanyaan; bukan stereotype atau diagnosis MBTI. |
+| Pemilihan dan urutan repertoar | Alasan pemilihan stimulus dan urutannya sesuai kesiapan target. |
+| Eksekusi jelas, peduli dan konsisten | Pesan ringkas, akurat, personal; mendengarkan, bantuan konkret, konsistensi, dan penghormatan pilihan terlihat. |
+| Evaluasi dan adaptasi | Respons aktual digunakan untuk mengevaluasi dan mengubah pendekatan. |
+| Refleksi dan lesson learned | Koreksi dugaan, pembelajaran, uji ulang, dan batas transfer ditunjukkan melalui bukti. |
+
+Gunakan skor bulat 1–4 sesuai indikator resmi paket. Fokus pemeriksaan di atas bukan pengganti descriptor level resmi. Bila indikator tidak tersedia atau bukti belum cukup untuk menetapkan skor, gunakan BT (belum dapat ditetapkan), jelaskan alasannya, dan minta acuan/evidence yang diperlukan. BT bukan nol atau skor 1; untuk UTS gunakan BT sebagai pengganti N/A.
+
+PERHITUNGAN DAN KEPUTUSAN
+- Nilai setiap sesi = jumlah enam skor / 24 x 100, hanya jika keenam skor sah tersedia. Jika ada BT atau sesi belum tersedia, tulis "Belum dihitung"; jangan menghitung dari sebagian dimensi.
+- Nilai Kasus 1 mengikuti nilai sesi 1. Nilai Kasus 2 dapat diringkas sebagai rata-rata nilai sesi 2a dan 2b; Kasus 3 sebagai rata-rata nilai sesi 3a dan 3b. Hitung rata-rata hanya jika kedua nilai sesi dapat dihitung.
+- Bobot nilai akhir UTS: makalah 10%, sesi 1/2a/2b/3a/3b masing-masing 18% (total 100%). Semua nilai komponen pada skala 0–100. Nilai akhir = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b). Hitung hanya jika nilai makalah dan kelima sesi sah tersedia. Jika ada BT/komponen belum tersedia, tulis "Belum dihitung"; jangan mengganti dengan nol atau menormalisasi ulang bobot.
+- Kontribusi Kasus 1 = 18%, Kasus 2 = 36%, Kasus 3 = 36%. Rata-rata kasus hanya ringkasan dan tidak dihitung lagi sebagai komponen tambahan.
+- Jangan menerapkan kategori total 5–20 atau ambang Tercapai mingguan pada UTS. Jika kriteria kelulusan/pencapaian UTS belum diberikan, tulis "Keputusan pencapaian menunggu ketetapan dosen".
+- Bedakan self-assessment mahasiswa, usulan penilaian AI, dan nilai resmi dosen. Seluruh skor yang Anda keluarkan adalah usulan untuk moderasi dosen.
+
+FOKUS ANALISIS LINTAS SESI
+- Nilai kualitas diagnosis, eksekusi, adaptasi, dan pembelajaran, bukan semata persetujuan akhir lawan bicara.
+- Periksa perubahan ASK/PASK, pembacaan SWOT subjektif, dan state TAIDA hanya sejauh didukung respons yang teramati; jangan membatasi seluruh kasus pada Target-Attention-Interest.
+- Bandingkan adaptation pada dua target berbeda di Kasus 2 dan Kasus 3 dengan menunjuk ID/kutipan tiap sesi. Jangan membuat skor tambahan untuk perbandingan ini.
+- Bedakan hasil simulasi dari tindakan nyata di luar sesi. Uji ulang yang belum dilakukan harus dinyatakan belum teramati; jangan merekonstruksi transkrip yang hilang.
+- Catatan observer/rekaman tambahan dapat digunakan jika tersedia, tetapi bukan syarat wajib pengganti transkrip dan laporan dalam paket UTS.
+
+FORMAT OUTPUT RUNTIME UTS
+Worker mengirim satu sesi pada satu panggilan. Kembalikan JSON sesi sesuai
+schema yang diberikan: evidence_status, summary, improvement_priority,
+dimensions (enam key resmi, setiap item score integer 1-4/null, evidence, reason).
+Gunakan null untuk BT. Jangan menilai sesi lain yang tidak diberikan. Jangan
+menghasilkan skor makalah, nilai resmi, kategori tingkat mingguan atau keputusan
+lulus. Worker menghitung rekap dan dosen memasukkan nilai makalah saat moderasi.
 ```
 
 ## Prompt Minggu 09 - Desire-State Communication

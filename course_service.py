@@ -228,11 +228,13 @@ class ParticipantRegistry:
         queue_csv_path: str | Path = "antrian.csv",
         page_validator: PortfolioPageValidator | None = None,
         llm_report_dir: str | Path = "assessment-results",
+        uts_assessment_csv_path: str | Path | None = None,
     ) -> None:
         self.csv_path = Path(csv_path)
         self.assessment_csv_path = Path(assessment_csv_path)
         self.queue_csv_path = Path(queue_csv_path)
         self.llm_report_dir = Path(llm_report_dir)
+        self.uts_assessment_csv_path = Path(uts_assessment_csv_path) if uts_assessment_csv_path else self.assessment_csv_path.with_name("uts-assessment.csv")
         self._lock = threading.Lock()
         self.repo_validator = repo_validator or GitHubRepositoryValidator()
         self.page_validator = page_validator or PortfolioPageValidator()
@@ -402,8 +404,10 @@ class ParticipantRegistry:
                 "Akun Telegram ini belum terdaftar. Daftar dahulu dengan /reg NIM.",
             )
 
-        assessment_rows = self._read_assessment_rows()
         nim = participant["NIM"].strip()
+        if code == "A08":
+            return self._uts_score(nim)
+        assessment_rows = self._read_assessment_rows()
         assessment = next(
             (row for row in assessment_rows if row["NIM"].strip() == nim),
             None,
@@ -555,12 +559,20 @@ class ParticipantRegistry:
     @staticmethod
     def _format_llm_result(row: dict[str, str]) -> str:
         status = row["status"].strip().upper()
+        is_uts = row["week"].strip().upper() == "W08"
+        legacy_uts = is_uts and status in {"TERCAPAI", "PERLU REVISI", "BELUM DAPAT DINILAI"}
+        if legacy_uts:
+            status = "HASIL W08 LAMA — PERLU ASSESSMENT UTS"
         lines = [
             f"Hasil LLM tiket {row['tiket'].strip()}",
             f"Minggu: {row['week'].strip().upper()}",
             f"Status: {status}",
-            f"Total rubrik: {row['skor'].strip() or '-'}",
+            (f"Nilai UTS /100: {row['skor'].strip() if status == 'UTS DISETUJUI' else 'Belum dihitung'}"
+             if is_uts else f"Total rubrik: {row['skor'].strip() or '-'}"),
         ]
+        if legacy_uts:
+            lines.append("Hasil /20 lama tidak menjadi nilai UTS. Kirim ulang /submit W08.")
+            return "\n".join(lines)
         if status == "MENUNGGU PERSETUJUAN":
             lines.append(
                 "Catatan: hasil LLM ini masih sementara dan belum menjadi nilai resmi."
@@ -583,7 +595,8 @@ class ParticipantRegistry:
         week = row["week"].strip().upper()
         if not ticket.isdigit() or not re.fullmatch(r"W(?:0[1-9]|1[0-5])", week):
             return ""
-        report_path = self.llm_report_dir / f"tiket-{ticket}-{week}.md"
+        suffix = "-uts-v1" if week == "W08" else ""
+        report_path = self.llm_report_dir / f"tiket-{ticket}-{week}{suffix}.md"
         try:
             report = report_path.read_text(encoding="utf-8-sig").strip()
         except (OSError, UnicodeDecodeError):
@@ -593,6 +606,28 @@ class ParticipantRegistry:
         content = sections[2] if len(sections) == 3 else report
         content = content.split("\n## Data terstruktur", maxsplit=1)[0].strip()
         return content
+
+    def _uts_score(self, nim: str) -> RegistrationResult:
+        from uts import OFFICIAL_COLUMNS
+        try:
+            with exclusive_file_lock(self.uts_assessment_csv_path):
+                with self.uts_assessment_csv_path.open(encoding="utf-8-sig", newline="") as source:
+                    reader = csv.DictReader(source)
+                    if reader.fieldnames != list(OFFICIAL_COLUMNS):
+                        raise ValueError("Header nilai UTS tidak sesuai kontrak.")
+                    rows = list(reader)
+            matches = [row for row in rows if row.get("NIM", "").strip() == nim]
+            latest = max(matches, key=lambda row: int(row["ticket"])) if matches else None
+            if latest:
+                value = Decimal(latest["final"])
+                if not value.is_finite() or not 0 <= value <= 100:
+                    raise ValueError("Nilai UTS tidak valid")
+                return RegistrationResult("uts_score", f"Nilai resmi UTS: {latest['final']} /100.\nKeputusan pencapaian menunggu ketetapan dosen.")
+        except FileNotFoundError:
+            pass
+        except (OSError, KeyError, ValueError, InvalidOperation) as exc:
+            raise ParticipantDataError(f"Data nilai UTS tidak dapat dibaca: {exc}") from exc
+        return RegistrationResult("uts_score_empty", "A08 diganti UTS. Nilai resmi UTS belum tersedia. Gunakan /submit W08 dan /hasil W08.")
 
     def submit(self, telegram_id: int, week_code: str) -> RegistrationResult:
         code = week_code.strip().upper()

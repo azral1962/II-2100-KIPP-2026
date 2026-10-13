@@ -104,6 +104,7 @@ def main() -> None:
         assessment_csv_path=assessment_file,
         queue_csv_path=queue_file,
         llm_report_dir=llm_report_dir,
+        uts_assessment_csv_path=resolve_project_path(project_dir, os.environ.get("UTS_ASSESSMENT_CSV", "uts-assessment.csv")),
     )
     page_timeout = _positive_int("LLM_PAGE_TIMEOUT", "30")
     page_max_bytes = _positive_int("LLM_PAGE_MAX_BYTES", "2000000")
@@ -131,6 +132,10 @@ def main() -> None:
         max_evidence_chars=_positive_int("LLM_MAX_EVIDENCE_CHARS", "100000"),
         auto_approve=_boolean_env("LLM_AUTO_APPROVE", False),
         lease_seconds=_positive_int("LLM_LEASE_SECONDS", "900"),
+        uts_assessment_path=resolve_project_path(project_dir, os.environ.get("UTS_ASSESSMENT_CSV", "uts-assessment.csv")),
+        uts_reference_dir=resolve_project_path(project_dir, os.environ.get("UTS_REFERENCE_DIR", "uts-references")),
+        uts_page_loader=lambda url: fetch_portfolio_page(url, timeout=page_timeout,
+            max_bytes=page_max_bytes, restrict_redirects=True),
     )
     try:
         TelegramBot(

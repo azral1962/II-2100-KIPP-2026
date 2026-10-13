@@ -164,7 +164,7 @@ class AssessmentResult:
 @dataclass(frozen=True)
 class AssessmentUpdate:
     column: str
-    score: int | None
+    score: int | Decimal | None
     total: str | None
 
 
@@ -281,6 +281,7 @@ def fetch_portfolio_page(
     url: str,
     timeout: int = 30,
     max_bytes: int = 2_000_000,
+    restrict_redirects: bool = False,
 ) -> str:
     """Download a portfolio page and return visible text plus referenced links."""
     try:
@@ -308,8 +309,23 @@ def fetch_portfolio_page(
         },
         method="GET",
     )
+    opener = urllib.request.urlopen
+    if restrict_redirects:
+        allowed_prefix = parsed.path.rsplit("/", 1)[0] + "/"
+
+        class ScopedRedirect(urllib.request.HTTPRedirectHandler):
+            def redirect_request(self, req, fp, code, msg, headers, newurl):
+                target = urllib.parse.urlsplit(newurl)
+                path = urllib.parse.unquote(target.path)
+                if (target.scheme != "https" or target.netloc != parsed.netloc
+                        or not path.startswith(allowed_prefix) or target.query
+                        or ".." in path.split("/") or "\\" in path):
+                    raise PermanentAssessmentError("Redirect evidence UTS keluar dari scope repo.")
+                return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+        opener = urllib.request.build_opener(ScopedRedirect()).open
     try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
+        with opener(request, timeout=timeout) as response:
             content_type = response.headers.get_content_type()
             if content_type not in {"text/html", "application/xhtml+xml", "text/plain"}:
                 raise PermanentAssessmentError(
@@ -323,6 +339,10 @@ def fetch_portfolio_page(
             charset = response.headers.get_content_charset() or "utf-8"
     except PermanentAssessmentError:
         raise
+    except urllib.error.HTTPError as exc:
+        if restrict_redirects and exc.code in {404, 410}:
+            raise PermanentAssessmentError("Halaman evidence UTS belum tersedia.") from exc
+        raise RemoteRequestError(f"Halaman portfolio tidak dapat diambil: {exc}") from exc
     except (urllib.error.URLError, TimeoutError, OSError) as exc:
         raise RemoteRequestError(f"Halaman portfolio tidak dapat diambil: {exc}") from exc
 
@@ -911,6 +931,8 @@ def _decimal_text(value: Decimal) -> str:
 def _assessment_total(row: dict[str, str], nim: str) -> str:
     total = Decimal("0")
     for column in ASSESSMENT_CODES:
+        if column == "A08":
+            continue  # Historical slot; W08 now has a separate UTS /100 grade.
         raw_score = row[column].strip()
         if not raw_score:
             continue
@@ -980,6 +1002,8 @@ def update_assessment_file(
     if not re.fullmatch(r"W(?:0[1-9]|1[0-5])", normalized_week):
         raise PermanentAssessmentError(f"Kode minggu tidak valid: {week}")
     column = f"A{normalized_week[1:]}"
+    if normalized_week == "W08":
+        raise PermanentAssessmentError("W08 adalah UTS; gunakan approval khusus UTS, bukan A08.")
     score = official_score_from_result(result)
     if score is None:
         return AssessmentUpdate(column=column, score=None, total=None)
@@ -1088,6 +1112,9 @@ class AssessmentWorker:
         auto_approve: bool = False,
         lease_seconds: int = 900,
         worker_id: str | None = None,
+        uts_assessment_path: Path | None = None,
+        uts_reference_dir: Path | None = None,
+        uts_page_loader: Callable[[str], str] | None = None,
     ) -> None:
         self.queue_path = queue_path
         self.assessment_path = assessment_path
@@ -1097,10 +1124,17 @@ class AssessmentWorker:
         self.report_dir = report_dir
         self.client = client
         self.page_loader = page_loader
+        self.uts_page_loader = uts_page_loader or page_loader
         self.max_evidence_chars = max_evidence_chars
         self.auto_approve = auto_approve
         self.lease_seconds = lease_seconds
         self.worker_id = worker_id or f"{socket.gethostname()}:{os.getpid()}"
+        self.uts_assessment_path = uts_assessment_path or resolve_project_path(
+            prompt_path.parent, os.environ.get("UTS_ASSESSMENT_CSV", "uts-assessment.csv")
+        )
+        self.uts_reference_dir = uts_reference_dir or resolve_project_path(
+            prompt_path.parent, os.environ.get("UTS_REFERENCE_DIR", "uts-references")
+        )
 
     def _is_stale(self, row: dict[str, str]) -> bool:
         if row["status"].strip().upper() != PROCESSING_STATUS:
@@ -1191,6 +1225,8 @@ class AssessmentWorker:
         ticket = row["tiket"].strip()
         week = row["week"].strip().upper()
         page_url = row["url"].strip()
+        if week == "W08":
+            return self._process_uts(row)
         existing_report = self._report_path(ticket, week)
         if existing_report.exists():
             try:
@@ -1303,7 +1339,65 @@ class AssessmentWorker:
             )
         return update
 
-    def approve_ticket(self, ticket: str) -> AssessmentUpdate:
+    def _uts_participant(self, nim: str) -> dict[str, str]:
+        _, rows = _read_csv_rows(self.participant_path, REQUIRED_COLUMNS, "peserta")
+        matches = [item for item in rows if item["NIM"].strip() == nim]
+        if len(matches) != 1:
+            raise PermanentAssessmentError("Peserta UTS harus cocok tepat satu kali.")
+        return matches[0]
+
+    def retry_uts(self, ticket: str) -> None:
+        with exclusive_file_lock(self.queue_path):
+            fieldnames, rows = read_queue(self.queue_path)
+            matches = [row for row in rows if row["tiket"].strip() == ticket.strip()]
+            if len(matches) != 1 or matches[0]["week"].strip().upper() != "W08":
+                raise PermanentAssessmentError("Retry khusus tiket UTS W08.")
+            row = matches[0]
+            if row["status"].strip().upper() not in {REVIEW_STATUS, FAILED_STATUS}:
+                raise PermanentAssessmentError("Retry UTS hanya untuk tiket menunggu moderasi atau gagal.")
+            row.update(status=PENDING_STATUS, skor="", ringkasan="", saran="", worker_id="", updated_at=utc_now_text())
+            write_queue(self.queue_path, fieldnames, rows)
+
+    def _process_uts(self, row: dict[str, str]) -> bool:
+        import uts
+        from course_service import build_portfolio_url
+        participant = self._uts_participant(row["nim"].strip())
+        if row["url"].strip() != build_portfolio_url(participant["repo"], "W08"):
+            raise PermanentAssessmentError("URL UTS tidak cocok dengan repo peserta terdaftar.")
+        try:
+            report = uts.assess(self, row)
+        except (ValueError, KeyError, TypeError, OSError) as exc:
+            raise PermanentAssessmentError(f"Assessment UTS tidak valid: {exc}") from exc
+        self._write_text_file(self._report_path(row["tiket"].strip(), "W08", "-uts-v1"),
+                              uts.render(report), "laporan UTS")
+        values = {key: uts.session_score(item["dimensions"]) for key, item in report["sessions"].items()}
+        summary = "; ".join(f"Sesi {key}: {uts.score_text(value)} /100" for key, value in values.items())
+        return self._update_ticket(row["tiket"].strip(), status=REVIEW_STATUS,
+            expected_status=PROCESSING_STATUS, require_worker=True, worker_id="", score="",
+            summary=summary + ". Nilai makalah dan moderasi dosen diperlukan; total belum dihitung.",
+            suggestion="Lengkapi evidence/descriptor yang BT, lalu minta moderasi dosen.")
+
+    def approve_ticket(self, ticket: str, *, paper_score: str | None = None,
+                       assessor: str | None = None) -> AssessmentUpdate:
+        # Holding the queue lock prevents approval racing a claim/resubmission.
+        with exclusive_file_lock(self.queue_path):
+            fieldnames, rows = read_queue(self.queue_path)
+            matches = [row for row in rows if row["tiket"].strip() == ticket.strip()]
+            if len(matches) == 1 and matches[0]["week"].strip().upper() == "W08":
+                import uts
+                row = matches[0]
+                if row["status"].strip().upper() not in {REVIEW_STATUS, uts.APPROVED}:
+                    raise PermanentAssessmentError("Tiket UTS belum siap untuk moderasi.")
+                try:
+                    update = uts.approve(self, row, paper_score, assessor)
+                except (ValueError, KeyError, TypeError, OSError) as exc:
+                    raise PermanentAssessmentError(f"Persetujuan UTS gagal: {exc}") from exc
+                row["status"] = uts.APPROVED
+                row["skor"] = update.total or ""
+                row["ringkasan"] = f"Nilai resmi UTS: {update.total} /100. Keputusan pencapaian menunggu ketetapan dosen."
+                row["updated_at"] = utc_now_text()
+                write_queue(self.queue_path, fieldnames, rows)
+                return update
         _, rows = read_queue(self.queue_path)
         matches = [row for row in rows if row["tiket"].strip() == ticket.strip()]
         if len(matches) != 1:
@@ -1519,9 +1613,12 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         metavar="TICKET",
         help=(
             "Setujui hasil LLM yang berstatus MENUNGGU PERSETUJUAN dan tulis "
-            "nilai resminya ke assessment.csv."
+            "nilai resminya ke assessment.csv (UTS ke uts-assessment.csv)."
         ),
     )
+    parser.add_argument("--paper-score", help="Nilai makalah UTS resmi dosen pada skala 0-100.")
+    parser.add_argument("--assessor", help="Nama dosen yang memoderasi UTS.")
+    mode.add_argument("--retry-uts", metavar="TICKET", help="Antrekan ulang UTS belum resmi setelah evidence/acuan diperbaiki.")
     return parser.parse_args(argv)
 
 
@@ -1609,11 +1706,15 @@ def main() -> int:
         max_evidence_chars=max_evidence_chars,
         auto_approve=_boolean_env("LLM_AUTO_APPROVE", False),
         lease_seconds=_positive_int("LLM_LEASE_SECONDS", "900"),
+        uts_assessment_path=resolve_project_path(project_dir, os.environ.get("UTS_ASSESSMENT_CSV", "uts-assessment.csv")),
+        uts_reference_dir=resolve_project_path(project_dir, os.environ.get("UTS_REFERENCE_DIR", "uts-references")),
+        uts_page_loader=lambda url: fetch_portfolio_page(url, timeout=page_timeout,
+            max_bytes=page_max_bytes, restrict_redirects=True),
     )
 
     if args.approve is not None:
         try:
-            update = worker.approve_ticket(args.approve)
+            update = worker.approve_ticket(args.approve, paper_score=args.paper_score, assessor=args.assessor)
         except (PermanentAssessmentError, QueueDataError) as exc:
             LOGGER.error("Persetujuan tiket %s gagal: %s", args.approve, exc)
             return 1
@@ -1621,6 +1722,15 @@ def main() -> int:
         if update.score is not None:
             score_text = f"{update.column}={update.score}, TOTAL={update.total}"
         print(f"Tiket {args.approve} disetujui: {score_text}.")
+        return 0
+
+    if args.retry_uts is not None:
+        try:
+            worker.retry_uts(args.retry_uts)
+        except (PermanentAssessmentError, QueueDataError) as exc:
+            LOGGER.error("Retry UTS gagal: %s", exc)
+            return 1
+        print(f"Tiket UTS {args.retry_uts} kembali ANTRI; jalankan /llm atau --once.")
         return 0
 
     try:
@@ -1640,4 +1750,7 @@ def main() -> int:
 
 
 if __name__ == "__main__":
+    # uts lazily imports worker helpers; keep CLI exception classes identical.
+    import sys
+    sys.modules["llm"] = sys.modules[__name__]
     raise SystemExit(main())

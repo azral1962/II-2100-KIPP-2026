@@ -1,5 +1,29 @@
 # Referensi teknis
 
+## Kontrak khusus UTS W08
+
+`llm.py` mendispatch W08 ke `uts.py` sebelum cache/parser assessment mingguan.
+Worker mengambil indeks dan enam artefak tertaut pada `portfolio/UTS/` milik
+repo peserta terdaftar. Loader UTS membatasi redirect dan ukuran unduhan.
+Acquisition, snapshot, schema enam dimensi per sesi dan kalkulasi Decimal
+terpisah dari kontrak lima dimensi /20 untuk minggu lain.
+
+Acuan resmi operator dibaca dari `UTS_REFERENCE_DIR/NIM.json`; lihat
+`uts-references/README.md` di root repo. Descriptor level yang tidak tersedia
+menghasilkan BT. Hasil JSON/Markdown memakai suffix `-W08-uts-v1`; cache
+mencocokkan hash evidence, acuan, prompt dan schema. Transkrip tidak dipotong.
+Snapshot dan request individual tersimpan lokal di `assessment-inputs/`.
+
+UTS tidak auto-approve. `python llm.py --approve N --paper-score 80 --assessor
+"Nama Dosen"` menyimpan nilai resmi /100 ke `UTS_ASSESSMENT_CSV`, default
+`uts-assessment.csv`. `/skor A08` membaca receipt UTS; A08 di `assessment.csv`
+tetap historis. TOTAL yang dihitung ulang mengecualikan A08. Sebelum menjalankan
+versi baru, migrasikan CSV aktual dengan `python uts.py --migrate-weekly
+assessment.csv`; backup dibuat sekali. `python llm.py --retry-uts N` mengantrekan
+ulang UTS belum resmi setelah evidence/acuan diperbaiki, termasuk tiket W08 lama.
+Detail operasional: `UTS-ASSESSMENT.md` di root repo. Kontrak nilai/approval
+mingguan pada bagian berikut berlaku untuk W01–W07 dan W09–W15.
+
 ## Ruang lingkup
 
 Bab ini mendokumentasikan kode dan artefak runtime Student Course Services.

@@ -5,3 +5,6 @@ assessment-results/
 assessment-inputs/
 .*.lock
 telegram-offset.txt
+uts-assessment.csv
+uts-references/*.json
+*.before-uts.bak

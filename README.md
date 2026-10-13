@@ -1,5 +1,22 @@
 # Student Course Services II2100
 
+## UTS menggantikan W08
+
+W08 memakai assessment UTS khusus: makalah 10%, lima sesi masing-masing 18%,
+enam dimensi per sesi dan nilai resmi /100. Worker membaca laporan tertaut pada
+indeks portfolio; W01–W07 dan W09–W15 tetap memakai assessment mingguan yang ada.
+`/skor A08` membaca nilai UTS resmi; kolom A08 lama dipertahankan sebagai sejarah.
+TOTAL tugas mingguan aktif mengecualikan A08 dan tidak menjumlahkan nilai UTS.
+
+Lihat [panduan UTS dan migrasi](UTS-ASSESSMENT.md) serta
+[format acuan dosen](uts-references/README.md). Sebelum menjalankan versi baru,
+migrasikan TOTAL CSV aktual dengan `python uts.py --migrate-weekly assessment.csv`.
+Perintah membuat backup dan mempertahankan nilai historis A08.
+Persetujuan UTS: `python llm.py --approve 7 --paper-score 80 --assessor "Nama Dosen"`.
+UTS selalu membutuhkan moderasi eksplisit; `LLM_AUTO_APPROVE` hanya berlaku untuk
+minggu biasa. Bagian rubrik /20, ambang 3.0 dan approval tanpa nilai makalah pada
+panduan di bawah berlaku untuk assessment mingguan selain W08.
+
 Bot Telegram untuk interaksi mahasiswa yang terdaftar dengan instruktur.
 
 Dokumentasi Quarto tersedia di [`KIPP-2026/user-guide.qmd`](KIPP-2026/user-guide.qmd)
