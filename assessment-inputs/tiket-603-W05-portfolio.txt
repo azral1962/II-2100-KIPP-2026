@@ -1,0 +1,229 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 603
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks Performance
+Initial Assumption dan Pertanyaan Discovery
+Transcript dan Paraphrase
+Pembaruan Pembacaan
+Problem, Impact, Need, Constraint, dan Authority
+Shared Problem Statement dan Konfirmasi
+Agreement dan Tindak Lanjut
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery interview tentang rendahnya kehadiran pada program mentoring akademik.
+Kompetensi target
+Mendengar sebelum menawarkan solusi dan membangun shared problem statement bersama person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript atau paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks Performance
+Identitas partner discovery disamarkan. Namanya diganti dengan inisial M.
+Saya mewawancarai M, koordinator program mentoring akademik di himpunan. Kami pernah bekerja dalam satu kepanitiaan, tetapi pada program ini ia memiliki authority atas jadwal dan mentor, sedangkan saya hanya diminta membantu mengevaluasi komunikasi peserta. Percakapan berlangsung 32 menit setelah kelas.
+Data awal yang saya lihat: 64 mahasiswa mendaftar, tetapi rata-rata hanya 21 hadir per sesi. Initial assumption saya adalah pengingat kurang sering dan poster tidak cukup menarik. Saya sudah terpikir membuat reminder otomatis, tetapi sengaja tidak menawarkan solusi itu sebelum discovery selesai.
+Initial Assumption dan Pertanyaan Discovery
+Initial assumption: peserta lupa jadwal karena reminder hanya dikirim sekali; solusi awal yang saya bayangkan adalah reminder H-1 dan satu jam sebelum sesi.
+Pertanyaan yang saya siapkan:
+“Ceritakan alur peserta dari mendaftar sampai hadir di sesi pertama.”
+“Di titik mana paling banyak peserta berhenti merespons?”
+“Apa dampaknya bagi mentor dan peserta yang tetap hadir?”
+“Apa yang sudah pernah dicoba, dan bagaimana respons peserta?”
+“Constraint apa yang tidak bisa langsung diubah?”
+“Siapa yang punya authority mengubah jadwal, kapasitas, dan cara konfirmasi?”
+“Apa yang harus tetap dipertahankan dari program sekarang?”
+Transcript dan Paraphrase
+Saya: “Kak, gua sempat mikir masalahnya reminder, tapi gua belum mau lompat ke situ. Bisa ceritain alur peserta dari daftar sampai sesi pertama?”
+M: “Mereka isi form, pilih bidang, terus kami masukkan grup. Jadwal baru diumumkan setelah mentor terkumpul, kadang empat atau lima hari kemudian.”
+Saya: “Di jeda itu mereka sudah memilih waktu, atau baru tahu setelah masuk grup?”
+M: “Baru tahu. Form cuma tanya bidang, bukan availability.”
+Saya: “Jadi sebagian pendaftar mungkin bukan lupa, tetapi baru tahu jadwalnya setelah proses matching?”
+M: “Iya. Waktu kami tanya yang nggak datang, banyak yang bentrok praktikum atau unit.”
+Saya: “Berapa banyak yang membalas alasan bentrok dibanding yang tidak merespons sama sekali?”
+M: “Dari 43 yang absen sesi pertama, 26 bilang bentrok, 9 tidak membalas, sisanya bilang sudah tidak butuh.”
+Saya: “Berarti reminder mungkin membantu sembilan orang yang tidak merespons, tapi tidak menyelesaikan bentrok 26 orang. Dampaknya ke mentor apa?”
+M: “Mentor sudah menyiapkan materi untuk delapan orang, yang datang dua. Ada yang merasa waktunya tidak dihargai. Di sisi lain kami nggak bisa buka terlalu banyak slot karena mentor cuma sebelas.”
+Saya: “Apa yang pernah dicoba?”
+M: “Pernah reminder H-1. Kehadiran naik sedikit, tapi tetap banyak bentrok. Kami juga pernah minta konfirmasi ulang, malah adminnya berat karena dicek manual.”
+Saya: “Kalau kita pisahkan problem, ada ketidakcocokan jadwal, kapasitas mentor terbatas, dan proses konfirmasi manual membebani admin. Mana yang paling kritis menurut lu?”
+M: “Jadwal. Kalau dari awal tahu availability, kami bisa matching lebih masuk akal. Tapi jadwal praktikum beberapa jurusan baru keluar belakangan.”
+Saya: “Jadi availability awal pun punya uncertainty. Siapa yang boleh mengubah form dan jadwal?”
+M: “Form bisa gua ubah. Jadwal akhir perlu persetujuan para mentor. Jadwal praktikum jelas bukan authority kami.”
+Saya: “Apa yang jangan sampai hilang kalau prosesnya diubah?”
+M: “Peserta tetap harus bisa memilih bidang, dan mentor jangan dipaksa buka slot yang mereka nggak sanggup.”
+Pembaruan Pembacaan
+Initial assumption saya hanya menjelaskan sebagian kecil masalah. Reminder dapat membantu peserta yang lupa atau tidak merespons, tetapi mayoritas ketidakhadiran yang memiliki jawaban disebabkan bentrok. Root problem-nya bukan sekadar frekuensi pesan, melainkan matching dilakukan sebelum availability kedua pihak cukup terlihat. Selain itu terdapat uncertainty karena jadwal praktikum dapat berubah dan constraint kapasitas sebelas mentor.
+Saya menahan diri untuk tidak menawarkan reminder otomatis sebagai jawaban utama. Percakapan dialihkan ke impact, constraint, authority, dan hal yang harus dipertahankan.
+Problem, Impact, Need, Constraint, dan Authority
+Unsur
+Hasil discovery
+Problem
+Peserta baru mengetahui jadwal setelah matching; availability peserta dan mentor belum dipertemukan secara eksplisit.
+Impact
+Peserta bentrok, mentor menyiapkan materi untuk kursi kosong, dan kepercayaan mentor terhadap komitmen peserta menurun.
+Existing attempt
+Reminder H-1 sedikit menaikkan kehadiran; konfirmasi manual menambah beban admin tetapi tidak menyelesaikan bentrok.
+Need
+Proses matching yang memakai availability dan tetap dapat menangani perubahan jadwal.
+Constraint
+Hanya sebelas mentor; availability mentor terbatas; jadwal praktikum sebagian peserta muncul belakangan; admin tidak sanggup mengecek konfirmasi satu per satu.
+Authority
+M dapat mengubah form; mentor menyetujui slot akhir; tim tidak berwenang mengubah jadwal praktikum.
+Non-negotiable
+Peserta tetap memilih bidang dan mentor tidak dipaksa membuka slot di luar kapasitas.
+Solution
+Belum dipilih saat discovery; reminder otomatis tetap salah satu opsi pendukung, bukan definisi problem.
+Shared Problem Statement dan Konfirmasi
+Saya menyampaikan rumusan pertama:
+Saya: “Gua coba rangkum: peserta mentoring butuh jadwal yang cocok sejak awal karena pengumuman yang terlambat membuat mereka lupa atau bentrok, lalu mentor menyiapkan sesi untuk kursi kosong.”
+M: “Bagian ‘pengumuman terlambat’ kurang tepat. Bukan telat diumumkan, kami memang baru bisa menentukan setelah mentor terkumpul. Masalahnya availability belum masuk matching.”
+Saya memperbaikinya:
+Saya: “Oke. Berarti: peserta dan mentor membutuhkan proses matching yang mempertemukan bidang serta availability, sambil memberi ruang untuk perubahan jadwal, karena jadwal yang baru terlihat setelah matching menyebabkan banyak bentrok. Dampaknya peserta kehilangan sesi dan mentor menyiapkan materi untuk peserta yang tidak hadir. Prosesnya juga tidak boleh menambah pengecekan manual atau memaksa mentor membuka slot.”
+M: “Iya, itu pas. Tambahin bahwa perubahan jadwal praktikum bukan sesuatu yang bisa kami kontrol.”
+Saya: “Setuju. Jadi uncertainty jadwal praktikum dicatat sebagai constraint eksternal, bukan kesalahan admin.”
+M: “Nah, itu baru sesuai.”
+Shared problem statement final:
+Peserta dan mentor membutuhkan proses matching yang mempertemukan pilihan bidang dan availability serta menyediakan mekanisme untuk perubahan jadwal, karena jadwal yang baru terlihat setelah matching menyebabkan bentrok dan kursi kosong. Dampaknya peserta kehilangan kesempatan belajar dan mentor menyiapkan sesi untuk peserta yang tidak hadir. Proses baru tidak boleh menambah pengecekan manual, memaksa mentor membuka slot di luar kapasitas, atau menganggap perubahan jadwal praktikum berada dalam kendali tim mentoring.
+Agreement dan Tindak Lanjut
+Kami sepakat saya akan memetakan tiga alternatif proses - availability matrix, pemilihan slot setelah daftar mentor tersedia, dan waitlist - tanpa memilih solusi sebelum menilai beban admin. M akan memberikan rekap anonim sesi pertama dan meminta dua mentor memeriksa apakah problem statement mewakili dampak mereka. Review dijadwalkan Kamis pukul 19.00.
+Pada review, M menyampaikan dua mentor setuju dengan rumusan dampak, tetapi meminta agar pembatalan mendadak juga dicatat. Kami memasukkannya sebagai risiko yang perlu diuji pada tahap desain, bukan mengubah problem statement tanpa data.
+Analisis Komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+M diperlakukan sebagai pemilik proses dengan authority terbatas, bukan sekadar orang yang perlu menyetujui ide saya. Perspektif peserta, mentor, admin, dan pemilik jadwal praktikum dibedakan.
+Objective & state
+Hipotesis reminder diuji dan dipersempit. Beberapa objective - kehadiran, beban admin, kapasitas mentor, pilihan bidang - serta uncertainty jadwal dikelola bersama.
+Repertoire & language
+Open question, numeric probe, paraphrase, separation of problem-need-solution, constraint dan authority mapping, serta teach-back digunakan berurutan.
+Response & adaptation
+Data 26/43 peserta mengubah arah discovery. Koreksi M atas frasa “pengumuman terlambat” langsung memperbaiki causal framing dan mencegah blame pada admin.
+Agreement, action & relationship
+Shared problem statement dikoreksi dua kali dan dikonfirmasi. Next step memiliki owner, artefak, pihak review, waktu, dan batas belum memilih solusi.
+Penggunaan AI
+AI digunakan setelah interview untuk mengelompokkan catatan menjadi problem, impact, need, constraint, authority, dan candidate solution. Saya mengoreksi output AI yang menyebut reminder otomatis sebagai “kebutuhan”; itu adalah solusi yang saya bawa sebelum discovery. AI tidak membuat angka, ucapan M, konfirmasi, atau feedback mentor.
+Feedback dan Tindak Lanjut
+Feedback terpenting adalah koreksi M bahwa penentuan jadwal bukan terlambat, melainkan bergantung pada ketersediaan mentor. Koreksi itu mengubah attribution dan mencegah solusi yang menyalahkan admin. Next practice saya adalah selalu meminta partner mengoreksi kata sebab-akibat dalam problem statement, bukan hanya bertanya “sudah sesuai?”. Indikatornya adalah partner dapat menunjuk bagian yang perlu diubah dan versi final mencatat authority serta uncertainty.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Perspektif, role, power, dan batas authority peserta, mentor, admin, dan pihak eksternal dipetakan.
+Objective & State
+4
+Hipotesis awal berubah berdasarkan data; beberapa objective dan uncertainty dikelola bersama.
+Repertoire, Language & AI
+4
+Discovery sequence lengkap, separation problem-solution, authority mapping, teach-back, dan batas AI memiliki rationale.
+Response & Adaptation
+4
+Angka ketidakhadiran dan dua koreksi partner mengubah arah pertanyaan serta causal framing.
+Agreement, Action & Relationship
+4
+Problem statement dikonfirmasi, koreksi dipertahankan, dan next step memiliki owner, review, waktu, serta batas keputusan.
+Total: 20 / 20 - Lanjut
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Ihsan Fadhlih Akbar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://frnkensteinn.github.io/kipp-students/index.html
+- https://frnkensteinn.github.io/kipp-students/assets/logo.png
+- https://frnkensteinn.github.io/kipp-students/course/index.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/index.html
+- https://frnkensteinn.github.io/kipp-students/examples/index.html
+- https://frnkensteinn.github.io/kipp-students/lk/index.html
+- https://frnkensteinn.github.io/kipp-students/slides.html
+- https://frnkensteinn.github.io/kipp-students/slides-pdf/index.html
+- https://frnkensteinn.github.io/kipp-students/assessment/index.html
+- https://frnkensteinn.github.io/kipp-students/about.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-03.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-06.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-08.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-09.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-10.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-11.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-12.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-13.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-14.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-15.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-pertanyaan-discovery
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#transcript-dan-paraphrase
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#problem-impact-need-constraint-dan-authority
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement-dan-konfirmasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#agreement-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

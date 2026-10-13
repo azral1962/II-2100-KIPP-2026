@@ -1,0 +1,200 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 817
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaelengi.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Attention evidence dan solution hypothesis
+Interest pitch dan demonstration
+Hidden concern dan adaptation
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Attention evidence dan solution hypothesis
+Setelah diskusi Minggu 6, saya membandingkan ringkasan perubahan jadwal pada dua minggu rutin. Dalam narasi ini terdapat 14 perubahan; tiga tidak tercatat sama pada kalender layanan dan pemberitahuan, dan dua memerlukan konfirmasi ulang. Data tersebut memperkuat alasan untuk menguji proses, tetapi tidak membuktikan bahwa semua perubahan jadwal selalu bermasalah.
+Problem yang diakui: peserta dan mentor membutuhkan status jadwal bimbingan yang konsisten setelah terjadi perubahan, dengan tetap memakai alat kampus yang tersedia dan menjaga informasi pribadi.
+Solution hypothesis: formulir perubahan jadwal di LMS yang sudah dipakai dapat mengirim permintaan kepada mentor. Kalender layanan menampilkan status yang telah dikonfirmasi, sedangkan peserta melihat detail miliknya setelah masuk ke akun. Mekanisme ini berpotensi mengurangi pengecekan lintas kanal tanpa membuka nama atau topik bimbingan di tampilan bersama.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Perubahan jadwal tercatat berbeda di dua kanal
+Satu formulir LMS untuk request dan satu status jadwal yang diperbarui setelah mentor mengonfirmasi
+Peserta dan mentor memiliki rujukan status yang sama
+Lebih sedikit konfirmasi ulang dan risiko mengikuti jadwal lama
+Informasi bimbingan bersifat pribadi
+Tampilan bersama hanya menunjukkan slot tersedia/terisi; detail peserta hanya terlihat oleh pihak berwenang
+Mengurangi paparan nama dan konteks bimbingan
+Proses lebih jelas tanpa mengorbankan privasi
+Perubahan dapat belum disetujui mentor
+Status dibedakan menjadi “menunggu konfirmasi” dan “terkonfirmasi”
+Request tidak langsung menimpa jadwal yang berlaku
+Mengurangi konflik dan beban klarifikasi
+Interest pitch dan demonstration
+Saya menyampaikan pitch kepada Naufal, koordinator program:
+“Dari 14 perubahan pada dua minggu rutin, tiga belum tercatat sama di kalender dan pemberitahuan, dan dua perlu dikonfirmasi ulang. Saya membuat alur sederhana di LMS yang sudah dipakai: peserta mengirim request perubahan, mentor mengonfirmasi, lalu status yang sudah pasti diperbarui. Tampilan bersama hanya menunjukkan slot tersedia atau terisi; detail jadwal hanya terlihat oleh peserta terkait dan mentor. Ini belum membuktikan jumlah konfirmasi akan turun. Boleh saya tunjukkan mockup alurnya?”
+Naufal melihat mockup selama sekitar satu menit. Ia menjawab, “Status menunggu dan terkonfirmasi itu membantu. Tapi apakah mentor harus memperbarui dua tempat? Dan jangan sampai topik bimbingan terlihat di kalender bersama.” Ia kemudian meminta melihat versi yang membatasi akses dan mengurangi input berulang.
+Permintaan tersebut merupakan signal Interest: Naufal ingin memahami bagaimana mekanisme bekerja dan bagaimana ia cocok dengan constraint layanan. Itu belum berarti ia menyetujui implementasi.
+Hidden concern dan adaptation
+Saya semula mengira concern utama Naufal adalah kesesuaian teknis LMS. Pertanyaannya menunjukkan dua concern yang lebih spesifik: privasi detail bimbingan dan beban mentor jika status harus diperbarui di beberapa tempat.
+Saya mengadaptasi mockup: kalender bersama hanya memuat slot tersedia/terisi tanpa nama atau topik; request dan persetujuan berada dalam satu alur LMS; status “menunggu” tidak mengganti jadwal yang sudah terkonfirmasi. Peserta hanya melihat detail booking miliknya setelah login, dan mentor menjadi pihak yang mengonfirmasi perubahan.
+Saya juga membatasi klaim solusi. Saya tidak menyebut mekanisme ini pasti mengurangi kesalahan; tujuan uji awal adalah melihat apakah status lebih mudah dipahami dan apakah jumlah konfirmasi ulang berubah.
+Konteks performance
+Tanggal dan setting: Tindak lanjut setelah pemeriksaan agregat pada Minggu 6, saat saya menunjukkan mockup alur perubahan jadwal melalui LMS kepada koordinator program.
+Persons dan relationship: Saya sebagai pengusul uji proses; Naufal sebagai koordinator yang bertanggung jawab atas layanan; mentor dan mahasiswa sebagai pengguna alur. Nama digunakan sebagai nama samaran.
+Objective dan initial state: Saya ingin menguji apakah mekanisme perubahan jadwal yang lebih jelas cukup relevan untuk ditinjau lebih lanjut. Naufal sudah mengakui issue pada tahap Attention, tetapi belum mengetahui bagaimana mekanisme dapat menjaga privasi dan tidak menambah beban mentor.
+Evidence
+Evidence tugas ini terdiri dari ringkasan agregat 14 perubahan jadwal, solution hypothesis, mockup alur, response Naufal yang direkonstruksi, serta revisi mekanisme sebelum uji terbatas. Angka, mockup, dan percakapan merupakan bagian dari narasi asumsi yang disusun untuk tugas, bukan data layanan atau rekaman nyata. Detail pribadi peserta tidak dimasukkan.
+Agreement/action: Naufal tertarik meninjau mockup yang telah direvisi dan menyepakati walkthrough lanjutan dengan satu mentor untuk menguji alur. Kesepakatan ini adalah evaluasi mockup, bukan persetujuan untuk memasang fitur ke LMS atau menjalankan pilot operasional.
+Ukuran uji yang diusulkan: jumlah perubahan yang statusnya tidak cocok, jumlah konfirmasi ulang, dan waktu yang diperlukan mentor untuk memproses perubahan. Keberhasilan belum diklaim sebelum uji dilakukan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya menyesuaikan pitch untuk Naufal sebagai koordinator yang perlu mempertimbangkan pengalaman peserta, kerja mentor, dan privasi layanan. Saya mengambil character kolaborator yang menunjukkan mechanism dan menerima challenge, bukan pembela solusi.
+Objective & state
+Evidence dua minggu rutin membawa issue dari Attention menuju pembahasan solusi. Naufal bertanya tentang mekanisme dan meminta versi lanjutan, yang menunjukkan Interest; ia belum memberi approval implementasi.
+Repertoire, Language & AI
+Pitch menghubungkan problem, mechanism, benefit, dan value tanpa feature dumping. Mockup membantu menjelaskan alur, sementara istilah “menunggu” dan “terkonfirmasi” memperjelas status. Peran AI dalam menyusun skenario dan menguji konsistensi dijelaskan di bawah.
+Response & adaptation
+Pertanyaan Naufal mengungkap concern privasi dan workload. Saya menghapus nama/topik dari tampilan bersama, menggabungkan request dan approval dalam satu alur, serta membedakan status pending dari confirmed.
+Agreement/action
+Naufal setuju meninjau mockup revisi bersama satu mentor. Scope berhenti pada walkthrough; belum ada persetujuan implementasi atau klaim dampak operasional.
+Relationship outcome
+Saya merespons keberatan sebagai informasi tentang kebutuhan layanan, bukan penolakan personal. Batas klaim dan langkah uji yang terukur membantu menjaga kepercayaan dengan target.
+Penggunaan AI
+Saya menggunakan AI hanya untuk membantu merapikan struktur jawaban dan memperjelas bahasa berdasarkan informasi yang sudah saya serahkan sendiri. AI tidak digunakan untuk menghasilkan ide utama, menentukan karakter, atau menulis isi analisis dari nol. Saya tetap mengawasi isi jawaban, menyesuaikan dengan pengalaman dan fakta yang saya alami, serta memastikan bahwa apa yang ditulis benar-benar mencerminkan pemikiran saya.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Adaptation/replay:
+Next practice:
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Value dan constraint koordinator, mentor, serta peserta tercermin dalam rancangan.
+Objective & State
+3
+Attention dibedakan dari Interest dan approval; target meminta detail mekanisme lanjutan.
+Repertoire, Language & AI
+3
+Pitch menghubungkan problem ke value, memakai mockup, dan mengungkapkan peran AI serta sifat asumsi narasi.
+Response & Adaptation
+4
+Concern privasi dan workload mengubah visibilitas data serta alur konfirmasi.
+Agreement, Action & Relationship
+4
+Ada kesepakatan walkthrough lanjutan dan metrik uji, tanpa mengklaim implementasi atau dampak yang belum terjadi.
+Total: 17 / 20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Daffa Ramadhan Elengi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaelengi.github.io/kipp-students/index.html
+- https://daffaelengi.github.io/kipp-students/assets/logo.png
+- https://daffaelengi.github.io/kipp-students/course/index.html
+- https://daffaelengi.github.io/kipp-students/portfolio/index.html
+- https://daffaelengi.github.io/kipp-students/examples/index.html
+- https://daffaelengi.github.io/kipp-students/lk/index.html
+- https://daffaelengi.github.io/kipp-students/slides.html
+- https://daffaelengi.github.io/kipp-students/slides-pdf/index.html
+- https://daffaelengi.github.io/kipp-students/assessment/index.html
+- https://daffaelengi.github.io/kipp-students/about.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-01.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-02.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-03.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-08.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-09.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-10.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-11.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-12.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-13.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-14.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-15.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://daffaelengi.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

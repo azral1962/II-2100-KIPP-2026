@@ -88,8 +88,8 @@ Setelah mengetahui bahwa masalahnya adalah ketidakjelasan tugas, saya membantu m
 Perubahan language
 Sebelum mengetahui kondisinya, sebagai rekan kerja, saya akan berkata, “Kok kamu belum ikut ngerjain?” Setelah mengetahui bahwa ia masih bingung dengan tugasnya, sebagai rekan kerja, saya berkata, “Bagian mana yang masih bikin bingung? Kita bahas dulu.” Cara berkomunikasi saya berubah setelah mendapatkan informasi baru, dari langsung menuntut hasil menjadi mencoba memahami masalah dan membantu mencari jalan keluarnya.
 Evidence, AI, dan feedback
-Evidence: Chat dengan anggota, pembagian tugas, dan perubahan progress pekerjaan sebelum dan setelah dilakukan follow-up.
-Artefak AI: Analisis menggunakan AI untuk membantu memisahkan fakta, asumsi, dan informasi yang belum dapat dipastikan dari situasi yang terjadi.
+Evidence: Chat dengan anggota, pembagian tugas, dan perubahan progress pekerjaan sebelum dan setelah dilakukan follow-up. Chat dengan anggota
+Artefak AI: Analisis menggunakan AI untuk membantu memisahkan fakta, asumsi, dan informasi yang belum dapat dipastikan dari situasi yang terjadi. Artefak analisis AI
 AI digunakan sebagai alat bantu untuk memisahkan fakta dari asumsi dalam melihat situasi. Hasil analisis AI kemudian saya cek kembali dengan evidence yang ada. Saya tidak menggunakan AI sebagai sumber fakta mengenai kondisi anggota.
 Saya sudah mencoba memahami kondisi anggota sebelum mengambil tindakan, tetapi saya seharusnya melakukan check-in lebih awal sebelum pekerjaan mulai tertinggal.
 Next practice: Jika ada anggota yang mulai kurang terlibat, saya akan melakukan check-in lebih awal untuk mengetahui apakah ada kendala sebelum membuat kesimpulan mengenai keaktifannya.
@@ -151,6 +151,8 @@ Tautan yang ditemukan pada halaman:
 - https://minei114.github.io/kipp-students/portfolio/week-01.html#perubahan-language
 - https://minei114.github.io/kipp-students/portfolio/week-01.html#evidence-ai-dan-feedback
 - https://minei114.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://minei114.github.io/kipp-students/portfolio/evidence-week1.pdf
+- https://minei114.github.io/kipp-students/portfolio/ai-analysis-week1.pdf
 ---
 
 Lampiran yang dapat diperiksa:

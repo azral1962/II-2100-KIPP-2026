@@ -1,0 +1,158 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 806
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Intra-Self Communication Journal
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Shared problem statement
+Feedback, AI, dan refleksi
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Episode
+Peristiwa: Saya melakukan wawancara discovery dengan Kak Aurel, seorang pemilik UMKM online, untuk memahami masalah yang dihadapi dalam mengelola biaya admin pada platform e-commerce. Pada awalnya, saya mengasumsikan bahwa masalah tersebut terutama merupakan persoalan matematis yang dapat diselesaikan dengan sistem prediktif Machine Learning. Namun, hasil wawancara menunjukkan bahwa persoalan utamanya justru berkaitan dengan ketidaktransparanan biaya admin dan keterbatasan informasi dari pihak platform.
+Lapisan
+Catatan Jose
+Fact
+Kak Aurel mengalami pemotongan biaya admin dari platform e-commerce (Shopee) yang dirasa tidak transparan. Tidak terdapat rincian atau dasar yang jelas mengenai persentase maupun nominal biaya yang dibebankan pada setiap transaksi.
+Initial assumption
+“Masalah utama ini adalah persoalan matematis yang dapat diselesaikan dengan sistem prediktif Machine Learning untuk memetakan pola pemotongan biaya admin.”
+Impact
+Ketidakpastian biaya admin membuat margin keuntungan menjadi tidak menentu. Kak Aurel kemudian perlu menaikkan harga jual untuk menutup biaya tersebut, sehingga pembeli dapat merasa terbebani.
+Constraint
+Ketika mencoba meminta penjelasan kepada Customer Service (CS), Kak Aurel tidak memperoleh formula atau variabel perhitungan karena adanya kebijakan kerahasiaan dan keamanan data perusahaan.
+Desired state
+Kak Aurel membutuhkan transparansi dan kejelasan mengenai dasar penentuan biaya admin agar dapat memperkirakan biaya dan menyusun strategi pricing dengan lebih stabil.
+Asumsi awal saya ternyata terlalu cepat mengarahkan masalah ke solusi teknologi. Wawancara menunjukkan bahwa sebelum membicarakan solusi, saya perlu memahami terlebih dahulu akar masalah, pihak yang terdampak, serta batasan yang benar-benar ada di lapangan.
+Alternative narratives
+Technology-first: Masalah dapat dipandang sebagai persoalan matematis yang dapat diselesaikan dengan sistem prediktif Machine Learning.
+Problem-first: Masalah utama bukan sekadar menghitung biaya admin, tetapi ketidaktersediaan informasi mengenai variabel yang menentukan biaya tersebut.
+Constraint-aware: Solusi teknologi tidak dapat langsung menjadi jawaban apabila sumber informasi utama masih tertutup oleh kebijakan platform.
+Alternative kedua dan ketiga lebih sesuai dengan hasil discovery. Saya menyadari bahwa solusi yang terlihat canggih belum tentu menjawab masalah sebenarnya. Bahkan sistem Machine Learning yang baik akan sulit bekerja apabila data dan parameter dasar yang dibutuhkan tidak dapat diakses.
+Dengan demikian, fokus saya bergeser dari “teknologi apa yang dapat dibuat?” menjadi “kemampuan apa yang sebenarnya dibutuhkan oleh narasumber dalam menghadapi masalah ini?”
+Internal conversation dan agreement
+Initial Jose: “Masalahnya kelihatannya matematis. Kenapa tidak dibuat sistem prediktif menggunakan Machine Learning untuk menghitung pola biaya admin?”
+Discovery Jose: “Tunggu. Sebelum menentukan solusi, saya perlu memahami pengalaman konkretnya. Apa yang sebenarnya membuat biaya admin menjadi masalah?”
+Reflective Jose: “Ternyata persoalannya bukan hanya sulit menghitung biaya, tetapi karena variabel dan formula perhitungannya sendiri tidak transparan. Kalau sumber datanya tidak tersedia, solusi teknologi yang saya bayangkan belum tentu feasible.”
+Jose: “Saya akan menahan dorongan untuk langsung menawarkan teknologi dan memusatkan perhatian pada problem statement yang benar-benar dikonfirmasi oleh narasumber.”
+Internal agreement: Saya sepakat untuk tidak memaksakan solusi teknologi yang belum terbukti dapat diterapkan. Saya akan memprioritaskan pemahaman terhadap masalah, dampak, kebutuhan, dan batasan narasumber sebelum menentukan bentuk solusi.
+Evidence tindakan
+Dalam proses wawancara, saya menahan dorongan untuk langsung menawarkan solusi Machine Learning dan memilih menggali pengalaman konkret Kak Aurel terlebih dahulu. Pertanyaan diarahkan pada kejadian nyata, dampak terhadap margin dan harga jual, pihak yang terdampak, keadaan ideal, serta kendala yang dihadapi.
+Hasil wawancara menunjukkan bahwa ketidaktransparanan biaya admin menyebabkan margin keuntungan sulit diprediksi. Untuk mengantisipasinya, Kak Aurel perlu menaikkan harga jual produk, yang kemudian dapat berdampak pada pembeli.
+Saya juga menggali batasan yang muncul ketika Kak Aurel menghubungi CS. Informasi mengenai formula atau variabel perhitungan tidak diberikan karena alasan kerahasiaan dan keamanan data perusahaan. Temuan ini menjadi titik penting karena menunjukkan bahwa solusi berbasis prediksi tidak dapat langsung dianggap feasible tanpa akses terhadap parameter yang relevan.
+Berdasarkan hasil tersebut, saya menyusun dan mengonfirmasi shared problem statement bersama Kak Aurel, dengan fokus pada kebutuhan untuk memahami dasar biaya admin dan menyusun strategi pricing yang lebih stabil.
+Shared problem statement
+Pemilik UMKM online mengalami pemotongan biaya admin yang tidak transparan dan bervariasi ketika memproses transaksi di e-commerce, sehingga margin keuntungannya tergerus dan terpaksa membebankan kenaikan harga pada pembeli. Ia membutuhkan kemampuan untuk mengetahui dasar variabel potongan secara pasti agar dapat merancang strategi harga (pricing) yang stabil ke depan, dengan mempertimbangkan kendala birokrasi platform tertutup yang mengunci formula perhitungan sebagai data rahasia perusahaan.
+Rumusan tersebut lebih tepat dibanding asumsi awal karena tidak langsung menjanjikan solusi teknologi. Fokusnya berada pada masalah yang dialami, dampaknya, kemampuan yang dibutuhkan, dan constraint yang membatasi.
+Feedback, AI, dan refleksi
+Feedback terpenting dari proses discovery ini adalah bahwa saya perlu mengurangi kecenderungan over-directing sebagai mahasiswa Komputasi. Ketika mendengar masalah yang terlihat dapat diselesaikan dengan teknologi, saya cenderung langsung memikirkan bentuk sistem yang dapat dibuat. Namun, proses wawancara menunjukkan bahwa solusi baru dapat dipertimbangkan setelah masalah dan batasannya benar-benar dipahami.
+Saya juga belajar bahwa shared problem statement harus dibangun berdasarkan pengalaman narasumber, bukan hanya berdasarkan interpretasi saya sendiri. Perubahan dari asumsi “masalah matematis” menjadi masalah “ketidaktransparanan dan keterbatasan akses informasi” menjadi bukti bahwa proses discovery berhasil mengubah cara saya melihat persoalan.
+AI tidak dijadikan bukti utama dalam proses ini karena tidak terdapat bukti fisik penggunaan AI yang dapat dilampirkan. Karena itu, dimensi AI tidak saya maksimalkan.
+Next practice: Dalam discovery berikutnya, saya akan menahan dorongan untuk menawarkan solusi pada awal percakapan dan terlebih dahulu memastikan tiga hal: fakta masalah, kebutuhan narasumber, dan constraint yang membatasi solusi.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Saya mampu mengenali kecenderungan over-directing dan mengubah peran dari “pemberi solusi” menjadi discovery partner yang berfokus memahami pengalaman narasumber.
+Objective & State
+4
+Tujuan wawancara bergeser dari mencari pembenaran untuk solusi Machine Learning menjadi memahami problem, dampak, kebutuhan, dan constraint secara objektif.
+Repertoire, Language & AI
+3
+Menggunakan pertanyaan terbuka, parafrase, konfirmasi, dan pendalaman masalah. Namun, tidak terdapat bukti fisik penggunaan AI sehingga dimensi ini tidak dimaksimalkan.
+Response & Adaptation
+4
+Saya mampu mengubah asumsi awal setelah menemukan bahwa akar masalah lebih berkaitan dengan transparansi dan kebijakan platform daripada sekadar persoalan matematis.
+Agreement, Action & Relationship
+4
+Shared problem statement dikonfirmasi bersama narasumber, privasi dijaga, dan saya berkomitmen untuk tidak memberikan solusi teknis yang belum terbukti feasible.
+Total Skor Mandiri: 19 / 20 — Sangat Kompeten.
+Kembali ke atas
+Intra-Self Communication Journal
+Target–Attention Challenge
+Portfolio KIPP-2 · Maximillian Jose Andreas Aditjandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ilovecomputer-python.github.io/kipp-students/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assets/logo.png
+- https://ilovecomputer-python.github.io/kipp-students/course/index.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/index.html
+- https://ilovecomputer-python.github.io/kipp-students/examples/index.html
+- https://ilovecomputer-python.github.io/kipp-students/lk/index.html
+- https://ilovecomputer-python.github.io/kipp-students/slides.html
+- https://ilovecomputer-python.github.io/kipp-students/slides-pdf/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assessment/index.html
+- https://ilovecomputer-python.github.io/kipp-students/about.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-01.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-03.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-06.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-08.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-09.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-10.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-11.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-12.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-13.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-14.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-15.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#episode
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#alternative-narratives
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#internal-conversation-dan-agreement
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#evidence-tindakan
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#feedback-ai-dan-refleksi
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

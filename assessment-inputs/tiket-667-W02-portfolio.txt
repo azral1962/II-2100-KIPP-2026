@@ -1,0 +1,204 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 667
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode
+Event: Saat mengecek progres tim lomba BURU-BURU (proyek NUSATANI, GEMASTIK XIX), saya melihat beberapa milestone internal terlewat, grup tim sepi selama beberapa hari, dan beberapa bagian desain belum dikerjakan padahal tenggat semakin dekat.
+Lapisan
+Catatan saya
+Fact
+Beberapa milestone internal terlewat; tidak ada update di grup selama beberapa hari; anggota tim sedang memiliki kuis dan praktikum; belum ada pembicaraan langsung tentang kendala masing-masing
+Initial story
+“Mereka tidak terlalu peduli dengan lomba ini. Kalau aku menegur, nanti aku dianggap terlalu menekan. Lebih cepat kalau aku kerjakan sendiri saja.”
+Emotion/body signal
+Cemas 7/10, kesal 5/10, lelah 7/10; dada terasa berat, sulit fokus mengerjakan tugas lain, dan ingin langsung membuka file desain untuk mengerjakan semuanya malam itu juga
+Reactive character
+“Solo Fixer” yang ingin diam-diam mengambil alih pekerjaan anggota dan memendam rasa lelah agar tidak merepotkan orang lain
+Desired character
+“Open Leader” yang menyampaikan kondisinya secara jujur, menanyakan kapasitas anggota, dan membagi ulang tugas bersama
+Initial story melampaui fakta. Faktanya hanya menunjukkan progres melambat dan komunikasi berkurang, bukan bahwa anggota tidak peduli. Saya juga belum pernah menanyakan kondisi mereka, sehingga “mereka tidak peduli” dan “aku akan dianggap menekan” adalah tebakan, bukan evidence.
+Alternative narratives
+Shared constraint: Semua anggota, termasuk saya, sedang menghadapi beban akademik yang padat. Progres melambat karena keterbatasan waktu, bukan karena anggota tidak peduli.
+Information gap: Anggota mungkin menunggu kejelasan dari saya sebagai ketua tentang bagian mana yang harus dikerjakan dan sampai kapan. Grup yang sepi bisa jadi tanda kebingungan, bukan ketidakpedulian.
+Leadership cost: Mengambil alih semua pekerjaan terlihat seperti solusi cepat, tetapi membuat saya kewalahan, menutup kesempatan anggota untuk berkontribusi, dan tidak menyelesaikan akar masalah komunikasi.
+Alternatif kedua paling berguna karena sesuai dengan fakta (pembagian tugas belum pernah dibicarakan ulang) dan langsung menghasilkan tindakan yang bisa saya lakukan sebagai ketua, tanpa menyalahkan anggota maupun diri sendiri.
+Internal conversation dan agreement
+Solo Fixer: “Udah, nggak usah ribet. Kerjain aja sendiri malam ini, daripada nunggu mereka.”
+Open Leader: “Kita belum tahu kenapa mereka diam. Kalau aku kerjain semua, aku yang burnout dan masalah komunikasinya tetap ada. Tanya dulu kondisi mereka.”
+Solo Fixer: “Tapi kalau aku nanya, nanti kesannya aku nagih dan bikin suasana nggak enak.”
+Open Leader: “Nanyanya bisa sambil jujur soal kondisiku juga. Aku juga lagi capek, dan itu wajar disampaikan.”
+Saya: “Aku nggak akan langsung ngerjain bagian mereka. Aku tulis dulu faktanya, lalu ajak tim ngobrol soal kondisi masing-masing dan pembagian ulang.”
+Internal agreement: Malam itu juga, saya mengirim pesan ke grup tim untuk mengajak diskusi singkat tentang kondisi masing-masing dan pembagian ulang tugas. Saya juga berkomitmen tidak mengerjakan bagian anggota lain sebelum diskusi itu terjadi.
+Konteks performance
+Tanggal dan setting: Agustus 2026, setelah tahap riset lapangan dan wawancara pengguna proyek NUSATANI selesai. Refleksi dilakukan secara mandiri saat saya mengecek progres tim, sebelum diskusi tim secara daring.
+Persons dan relationship: Diri saya sendiri sebagai Team Leader tim BURU-BURU. Dua rekan tim (F. dan satu rekan lainnya) terlibat secara tidak langsung sebagai pihak yang saya pikirkan dalam percakapan batin ini.
+Objective dan initial state: State awal: saya cemas dan lelah, berencana diam-diam mengerjakan bagian anggota lain, dan belum berkomunikasi dengan tim. State yang ingin dicapai: memilih response yang lebih sadar, yaitu menyampaikan kondisi saya dan membuka diskusi dengan tim sebelum mengambil keputusan sepihak.
+Evidence
+Contoh komunikasi di grup tim BURU-BURU: saya membagikan logbook yang telah selesai, menjawab pertanyaan rekan tentang cara pengumpulan, dan rekan membagikan tautan prototipe Figma NUSATANI
+Evidence tindakan:
+Diskusi pembagian ulang tugas bersama tim, yang merupakan pelaksanaan internal agreement ini dan dianalisis pada portofolio Minggu 1.
+Tangkapan layar grup tim di atas, yang menunjukkan praktik saling memberi update di grup: saya menyampaikan bahwa logbook sudah selesai, rekan bertanya secara terbuka tentang cara pengumpulan dan langsung dijawab, lalu rekan membagikan progres prototipe Figma. Pola ini sesuai dengan kesepakatan tim untuk memberi update singkat secara rutin di grup.
+Response anggota: Salah satu rekan menyampaikan bahwa ia sebenarnya bisa mengerjakan bagiannya, tetapi menunggu kejelasan batas pekerjaannya. Evidence ini memperbarui story saya: keterlambatan bukan karena anggota tidak peduli, melainkan karena pembagian tugas yang belum jelas.
+Keterbatasan evidence: Pesan ajakan diskusi yang saya kirim ke grup tidak saya simpan tangkapan layarnya, sehingga evidence yang dilampirkan adalah contoh komunikasi tim dalam grup yang sama.
+Kontribusi saya: melakukan refleksi fact dan story, mengirim pesan ajakan diskusi, memimpin diskusi pembagian ulang tugas, dan aktif memberi update progres di grup. Nama rekan dan tautan dokumen tim pada tangkapan layar telah disamarkan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Dua internal character dibedakan, yaitu Solo Fixer dan Open Leader. Keduanya bukan identitas tetap, melainkan kecenderungan yang muncul di bawah tekanan. Solo Fixer sejalan dengan pola hambatan saya di Lembar Kerja Bab 01, yaitu menyimpan perasaan dan menyelesaikan semuanya sendiri.
+Objective & state
+Reaction awal adalah dorongan mengambil alih pekerjaan anggota, disertai cemas dan lelah yang tinggi. Desired response adalah membuka komunikasi dengan tim. State berubah dari rencana bertindak sepihak menjadi kesepakatan batin untuk bertanya terlebih dahulu.
+Repertoire & language
+Saya menggunakan pemisahan fact dan story, penamaan emosi dengan skala, jeda sebelum bertindak, dan dialog batin. Bahasa batin berubah dari “mereka tidak peduli” menjadi “kita belum tahu kenapa mereka diam”.
+Response & adaptation
+Alternatif information gap membuat saya menyadari bahwa sebagian masalah mungkin berasal dari instruksi saya yang kurang jelas. Rencana pun berubah dari mengerjakan sendiri menjadi memperjelas pembagian bersama tim.
+Agreement/action
+Internal agreement dijalankan pada malam yang sama melalui pesan ajakan diskusi ke grup, lalu dilanjutkan dengan diskusi pembagian ulang tugas. Setelah itu, grup tim kembali aktif dengan update progres dari saya maupun rekan.
+Relationship outcome
+Hubungan dengan diri sendiri membaik karena saya tidak memaksakan diri menanggung semuanya. Hubungan dengan tim juga terjaga karena tidak ada anggota yang dilabeli tidak peduli dan tidak ada pekerjaan yang diambil alih diam-diam. Rekan kembali nyaman bertanya dan berbagi progres secara terbuka di grup.
+Penggunaan AI
+Alat dan peran AI: Claude, untuk membantu menyusun struktur jurnal sesuai contoh Minggu 2, memberi contoh pemisahan fact dan story, serta merapikan kode Quarto.
+Prompt atau instruksi penting: Meminta bantuan menyesuaikan template Intra-Self Journal dengan episode tim lomba dari portofolio Minggu 1, mengikuti format contoh yang diberikan dosen.
+Bagian output yang digunakan, diubah, atau ditolak: Struktur tabel lapisan dan alternative narratives saya gunakan. Skala emosi, sinyal tubuh, dan dialog batin saya periksa ulang dan pastikan sesuai dengan yang saya rasakan saat itu. Keterangan evidence saya sesuaikan dengan isi tangkapan layar yang benar-benar saya miliki.
+Pemeriksaan accuracy, privacy, dan authority: Episode berasal dari pengalaman nyata. Nama anggota ditulis dengan inisial, dan nama serta tautan dokumen tim pada tangkapan layar disamarkan sebelum diunggah. Saya tidak memasukkan identitas anggota tim ke AI.
+Apa yang tetap saya pelajari sebagai manusia: Mengenali sinyal tubuh dan emosi saya sendiri, memilih untuk berhenti sejenak sebelum bertindak, dan memutuskan sendiri response yang lebih sehat.
+Feedback dan tindak lanjut
+Feedback yang diterima: Dalam diskusi, salah satu rekan tim menyampaikan bahwa ia menunggu kejelasan pembagian tugas dari saya. Masukan ini menunjukkan bahwa story awal saya (“mereka tidak peduli”) tidak didukung fakta.
+Adaptation/replay: Setelah memisahkan fact dan story, saya tidak mengerjakan bagian anggota secara diam-diam, tetapi mengajak tim berdiskusi. Responsnya, anggota menyampaikan kendala mereka, tugas terbagi ulang dengan tenggat yang realistis, dan grup kembali aktif dengan update progres.
+Next practice: Setiap kali muncul dorongan untuk mengambil alih pekerjaan orang lain, saya akan menulis tiga kolom (fact, story, next question) selama 5 menit sebelum bertindak, lalu mengirim satu pertanyaan kepada pihak terkait.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Dua internal character dibedakan dan dikaitkan dengan pola dari Lembar Kerja Bab 01 tanpa dijadikan identitas tetap
+Objective & State
+3
+Reaction dan desired response jelas; emosi dinamai dengan skala
+Repertoire, Language & AI
+3
+Pemisahan fact/story, jeda, dan dialog batin digunakan; batas AI dinyatakan
+Response & Adaptation
+3
+Alternatif information gap dan respons rekan mengubah rencana dari mengerjakan sendiri menjadi berdiskusi
+Agreement, Action & Relationship
+3
+Internal agreement menghasilkan diskusi pembagian ulang tugas; grup kembali aktif dengan update progres
+Total: 15 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Sarah Christine Rebecca Tambunan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sarah-chreta.github.io/kipp-students/index.html
+- https://sarah-chreta.github.io/kipp-students/assets/logo.png
+- https://sarah-chreta.github.io/kipp-students/course/index.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/index.html
+- https://sarah-chreta.github.io/kipp-students/examples/index.html
+- https://sarah-chreta.github.io/kipp-students/lk/index.html
+- https://sarah-chreta.github.io/kipp-students/slides.html
+- https://sarah-chreta.github.io/kipp-students/slides-pdf/index.html
+- https://sarah-chreta.github.io/kipp-students/assessment/index.html
+- https://sarah-chreta.github.io/kipp-students/about.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-03.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-05.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-06.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-07.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-08.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-09.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-10.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-11.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-12.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-13.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-14.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-15.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#episode
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://sarah-chreta.github.io/kipp-students/portfolio/images/M02-update-grup-tim.jpg
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

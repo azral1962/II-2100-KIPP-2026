@@ -1,0 +1,239 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 642
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Detoks jargon
+Lima versi language dan alasan adaptasi
+Lampiran pelaksanaan dan respons
+Pemeriksaan makna dan batas penjelasan
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Lima versi penjelasan 2FA, alasan adaptasi, dan lampiran respons mitra melalui WhatsApp.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Konteks performance
+Tanggal dan setting: penjelasan 2FA dilakukan melalui WhatsApp. Catatan kegiatan mencantumkan rentang 22–28 September 2026, tetapi tanggal tersebut tidak terlihat pada potongan screenshot. Lampiran menampilkan waktu pesan 17.02 dan balasan 17.03; waktu ini tidak digunakan untuk menyimpulkan tanggal kegiatan.
+Persons dan relationship: Saya menjadi pemberi penjelasan. Teman saya memperagakan lima profil: teman, rekan teknis, manajer, pengguna, dan masyarakat umum.
+Objective dan initial state: Tujuan saya adalah menjelaskan perbedaan dua langkah login dengan dua jenis faktor, lalu menyesuaikan bahasa dengan kebutuhan tiap profil. Untuk rekan teknis, saya membahas ketepatan rancangan; untuk manajer, risiko kehilangan akses; untuk pengguna, petunjuk aktivasi; dan untuk publik, analogi yang mudah dibayangkan. Lampiran memperlihatkan penjelasan dan respons setelahnya, bukan pengukuran pemahaman awal peserta.
+Evidence
+Detoks jargon
+Konsep teknis: Autentikasi dua faktor atau two-factor authentication (2FA).
+Definisi teknis: 2FA menggunakan dua kategori faktor autentikasi yang berbeda. Kategori tersebut dapat berupa sesuatu yang diketahui, dimiliki, atau melekat pada diri pengguna. Contoh yang digunakan dalam portofolio ini adalah kata sandi (knowledge) dan bukti penguasaan autentikator (possession). Rujukan: glosarium NIST tentang autentikasi multifaktor.
+Jargon
+Arti sederhana
+Autentikasi
+Pemeriksaan bukti identitas saat pengguna masuk ke akun.
+Knowledge factor
+Sesuatu yang diketahui pengguna, misalnya kata sandi atau PIN yang diketik sebagai rahasia login.
+Possession factor
+Bukti bahwa pengguna menguasai autentikator, misalnya aplikasi autentikator yang sudah dihubungkan ke akun.
+TOTP
+Kode sekali pakai yang berubah menurut waktu; contoh menggunakan enam angka dan interval 30 detik.
+Recovery code
+Kode cadangan untuk memulihkan akses, jika disediakan oleh layanan.
+Core meaning: 2FA memakai dua jenis bukti berbeda, sehingga mengetahui kata sandi saja biasanya belum cukup untuk masuk ke akun.
+Kata sandi dan PIN yang keduanya diketik sebagai rahasia login masih termasuk kategori pengetahuan. Kombinasi kata sandi dan bukti dari aplikasi autentikator menjadi contoh dua kategori berbeda; ini bukan satu-satunya kombinasi 2FA.
+Lima versi language dan alasan adaptasi
+Rumusan berikut merangkum penjelasan untuk tiap profil. Kutipan respons pada bagian berikut mengikuti teks yang terlihat di screenshot. Catatan batas teknis dipisahkan dari percakapan, bukan dianggap sebagai ucapan tambahan yang sudah disampaikan.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Bro, password dan PIN itu sama-sama hal yang kita hafal. Kalau 2FA, gabungkan password dengan bukti dari perangkatmu, misalnya kode dari aplikasi autentikator yang sudah terhubung ke akun.”
+Bahasa akrab dan contoh login sehari-hari membantu menjelaskan perbedaan faktor tanpa membebani teman dengan jargon.
+Technical peer
+“Password + PIN masih satu kategori, yaitu knowledge factor. Untuk contoh rancangan ini, gunakan password + TOTP dari autentikator agar melibatkan knowledge dan possession.”
+Istilah kategori faktor dan TOTP dipertahankan agar rekan teknis dapat menilai rancangan, bukan hanya jumlah langkah login.
+Manager
+“Dalam penerapan 2FA, bukti dari perangkat melengkapi kata sandi. Siapkan juga pemulihan akses agar anggota tidak kehilangan akses kerja ketika HP hilang atau rusak.”
+Penjelasan menekankan manfaat keamanan, risiko operasional, dan kebutuhan panduan sebelum penerapan.
+Customer/user
+“Untuk contoh ini, gunakan kata sandi dan kode dari aplikasi autentikator. Saat aktivasi, scan QR sesuai petunjuk layanan, lalu simpan kode cadangan di tempat aman jika tersedia.”
+Pengguna membutuhkan petunjuk yang dapat diikuti. Mekanisme dua faktor tetap disebut, sementara jumlah kode dan langkah rinci mengikuti layanan.
+Public
+“Bayangkan pintu yang membutuhkan kode rahasia dan kartu akses. Mengetahui kodenya saja belum cukup. Pada akun, contohnya kata sandi dan bukti dari perangkatmu.”
+Analogi konkret membedakan sesuatu yang diketahui dan dimiliki tanpa istilah teknis yang panjang.
+Lampiran pelaksanaan dan respons
+Buka folder lampiran W04.
+Kelima gambar menampilkan pesan penjelasan dan balasan pada gelembung terpisah. Kontribusi saya adalah penjelasan pada pesan keluar; respons terlihat pada pesan masuk. Potongan gambar tidak menampilkan nama kontak atau tanggal percakapan, sehingga identitas pengirim dan tanggal belum dapat diverifikasi dari gambar saja. Lampiran mendokumentasikan pertukaran pesan; laporan peserta tentang tindakan tidak disamakan dengan log aplikasi atau bukti implementasi sistem.
+1. Friend — bahasa santai
+Buka screenshot Friend.
+Respons : “Oalah gitu, pantesan kemarin pas aku aktifin 2FA di Google disuruh scan QR lewat HP. Berarti kalau cuma password doang emang kurang aman ya. Sip, paham bro!”
+Hasil dan batas: Respons menghubungkan penjelasan dengan pengalaman aktivasi di Google. Aktivasi tersebut dilaporkan sebagai pengalaman sebelumnya, bukan tindakan baru. Respons belum menjelaskan ulang secara lengkap mengapa password + PIN satu kategori.
+2. Technical peer — bahasa teknis
+Buka screenshot Technical peer.
+Respons: “Bener juga, PIN cuma nambah panjang rahasia tapi faktornya tetep sama. Oke, draf alur login-nya tak perbaiki jadi Password + TOTP Authenticator biar sesuai standar keamanan.”
+Hasil dan batas: Respons menyebut kategori faktor yang tetap sama dan menyepakati perubahan draf dalam skenario. Kalimat “tak perbaiki” menunjukkan komitmen, bukan bukti bahwa kode, PR, atau dokumen rancangan sudah diubah.
+3. Manager — bahasa manajemen risiko
+Buka screenshot Manager.
+Respons: “Setuju, mitigasi risikonya dapet. Tolong siapkan panduan singkat penyimpanan recovery code-nya dulu sebelum kebijakan 2FA diwajibkan ke semua tim ya.”
+Hasil dan batas: Respons menunjukkan persetujuan dan kebutuhan panduan pemulihan sebelum penerapan dalam skenario. Tidak ada klaim bahwa kebijakan organisasi atau panduan tersebut sudah diterapkan.
+4. Customer/user — bahasa panduan praktis
+Buka screenshot User.
+Respons: “Udah aku cobain! Tadi pas scan QR langsung keluar kode 6 angka yang berubah tiap 30 detik di HP. Kode cadangannya juga udah tak simpan di Notes terproteksi. Berhasil login!”
+Hasil dan batas: Peserta melaporkan scan QR, kode yang berubah, penyimpanan kode cadangan, dan keberhasilan login. Screenshot membuktikan adanya laporan tertulis tersebut, bukan secara langsung membuktikan pengujian aplikasi. Delapan kode cadangan pada pesan penjelasan merupakan rincian skenario, bukan ketentuan semua layanan. Kode rahasia tidak ditampilkan pada lampiran.
+5. Public — bahasa analogi
+Buka screenshot Public.
+Respons: “Analoginya pas banget, kunci + kartu akses langsung bikin kebayang bedanya. Pantesan sekarang m-banking sama WA sering minta verifikasi dari HP juga. Makasih infonya ya!”
+Hasil dan batas: Respons menunjukkan bahwa analogi membantu peserta membayangkan perbedaan bukti. Penyebutan m-banking dan WhatsApp tidak membuktikan mekanisme 2FA tertentu atau aktivasi baru pada layanan tersebut.
+Pemeriksaan makna dan batas penjelasan
+Inti yang dipertahankan adalah dua kategori bukti berbeda. Rumusan manajer dan pengguna di tabel memperjelas mekanisme tersebut karena pesan pada lampiran lebih menekankan pemulihan dan langkah penggunaan.
+Pada analogi publik, ucapan “tetep gak bisa masuk” terlalu mutlak jika dianggap sebagai jaminan keamanan akun. Rumusan yang lebih tepat adalah “kata sandi bocor saja biasanya belum cukup untuk masuk”. Memiliki sembarang HP juga bukan faktor autentikasi; perangkat atau autentikator harus terhubung dengan akun. OTP yang diketik manual tidak kebal phishing. Koreksi ini merupakan refleksi setelah pemeriksaan, bukan bukti replay tambahan kepada peserta. Rujukan: NIST — persyaratan autentikator.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Satu mitra memainkan lima peran. Kebutuhan informasi dibedakan: kedekatan teman, ketepatan teknis, keputusan operasional, petunjuk penggunaan, dan pemahaman umum. Kewenangan manajer dan rekan teknis berlaku dalam skenario.
+Objective & state
+Tujuannya menjaga makna dua faktor sambil membuat penjelasan relevan bagi tiap profil. Respons setelah penjelasan tersedia, tetapi pemahaman awal tidak diukur secara terpisah.
+Repertoire & language
+Bahasa santai, istilah teknis, pertimbangan risiko, instruksi, dan analogi digunakan sesuai profil. Makna diperiksa agar dua langkah tidak disamakan dengan dua faktor.
+Response & adaptation
+Respons teknis memberi penjelasan tentang kategori yang sama; respons manajer meminta panduan pemulihan. Keduanya memberi dasar untuk tindak lanjut. Screenshot belum menunjukkan balasan saya sesudah permintaan tersebut, sehingga pelaksanaan adaptasi lanjutan tidak diklaim.
+Agreement/action
+Ada komitmen memperbaiki draf dalam skenario, permintaan panduan, dan laporan percobaan pengguna. Komitmen, laporan tindakan, dan bukti pelaksanaan aplikasi dibedakan.
+Relationship outcome
+Mitra memberi respons, persetujuan, dan permintaan lanjutan. Ini menunjukkan keterlibatan, bukan bukti perubahan hubungan jangka panjang.
+Penggunaan AI
+Saya menggunakan AI untuk membantu menata portofolio, menyelaraskan penjelasan dengan lampiran, dan memeriksa ketepatan konsep melalui sumber NIST. Instruksi yang saya berikan adalah mengecek bukti dan QMD, lalu merapikan format sesuai tugas.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rekan teknis menjelaskan kategori faktor, manajer meminta panduan pemulihan, pengguna melaporkan percobaan, dan publik menyatakan analogi membantu pemahaman. Respons setiap profil disertakan melalui tautan lampiran masing-masing.
+Adaptation/replay: Penjelasan dibedakan menurut kebutuhan setiap peran. Pada pemeriksaan portofolio, saya memperjelas definisi dua faktor, membatasi analogi, dan memisahkan laporan tindakan dari bukti hasil. Lampiran belum memperlihatkan replay koreksi teknis tersebut.
+Next practice: Pada percakapan berikutnya, saya akan meminta mitra menjelaskan kembali mengapa password + PIN berbeda dari password + kode autentikator. Saya juga akan menyimpan dokumentasi yang menampilkan tanggal serta identitas peserta secukupnya, dengan data pribadi dan kode rahasia tetap dilindungi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima kebutuhan profil dipetakan beserta batas kewenangan.
+Objective & State
+4
+Makna inti dan tujuan tiap versi dinyatakan; batas pengukuran pemahaman awal dijelaskan.
+Repertoire, Language & AI
+4
+Lima ragam bahasa, alasan adaptasi, pemeriksaan makna, dan peran AI dijelaskan.
+Response & Adaptation
+3
+Respons tiap profil dilampirkan; replay setelah feedback belum terlihat pada screenshot.
+Agreement, Action & Relationship
+3
+Komitmen dalam skenario dan laporan tindakan tersedia; implementasi nyata tidak diklaim tanpa artefak hasil.
+Total: 18 / 20
+Skor ini merupakan penilaian mandiri, bukan penilaian dosen.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#detoks-jargon
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#lima-versi-language-dan-alasan-adaptasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#lampiran-pelaksanaan-dan-respons
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#pemeriksaan-makna-dan-batas-penjelasan
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://csrc.nist.gov/glossary/term/multi_factor_authentication
+- https://drive.google.com/drive/folders/1jhH34ERm7fKIjH-arblicB4G8Mx6BvFL
+- https://drive.google.com/file/d/1Z41lS3_uHVZgJ4SU9iDQAREXHwrZMvZS/view
+- https://drive.google.com/file/d/1n1CWj5zJx8KIqwU_FTvRQtBlNyEtHeeD/view
+- https://drive.google.com/file/d/1whWpoEkYSUKWLzch_4gJryQOx_rs5l4A/view
+- https://drive.google.com/file/d/1YzdSlumimUG47QpAXKDubN5R3exitM6g/view
+- https://drive.google.com/file/d/1ov_54N8mB7kLPN1egL4-8TSLHKvVXCPs/view
+- https://pages.nist.gov/800-63-4/sp800-63b/authenticators/
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

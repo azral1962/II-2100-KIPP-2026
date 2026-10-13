@@ -1,0 +1,205 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 803
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sabsibb.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+FONDASI RELATIONSHIP: RELATIONSHIP CONVERSATION
+1. Konteks Performance
+2. Evidence (Transcript dan Catatan Percakapan)
+3. Analisis Komunikasi
+4. Penggunaan AI
+5. Feedback dan Tindak Lanjut
+6. Self-Assessment & Rekomendasi Dosen
+Self-Assessment Mahasiswa
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, complex weak signal detection, emotion validation, trade-off management, adaptation, dan repair.
+FONDASI RELATIONSHIP: RELATIONSHIP CONVERSATION
+Kompetensi Target:
+Melakukan personal conversation dan komunikasi kelompok berbasis listening, weak signal awareness, clarity, boundary, adaptation, dan relationship awareness.
+1. Konteks Performance
+Tanggal dan Setting:
+23–26 September 2026; Komunikasi asinkron via grup WhatsApp tugas kelompok mata kuliah Bahasa Inggris (Kel 3: English).
+Persons dan Relationship:
+Saya (Pengkoordinasi/Ketua Kelompok Tugas) dan Rekan A & Rekan B (Anggota Kelompok). Hubungan interpersonal berupa teman seangkatan dan rekan kerja kelompok.
+Objective dan Initial State:
+Initial State: Pesan inisiasi pembagian tugas yang saya kirimkan hari Rabu tidak direspons hingga Jumat siang. Saat membalas, terdapat weak signal berupa pesan sangat singkat, yang kemudian saya validasi sebagai beban mental (mental load) berat akibat tugas lain. Namun, setelah divalidasi dan diberi task breakdown, Rekan A tetap menunjukkan resistensi waktu (tidak bisa mengerjakan segera) karena clash dengan acara organisasinya.
+Weak Signal yang Diamati (Fokus Revisi):
+Perubahan gaya bahasa dan hilangnya emoji yang mengindikasikan mental load tinggi.
+Timing dan ambiguitas respons saat diberikan draf tugas, mengindikasikan bahwa validasi emosi dan low-friction task belum cukup untuk mengubah behavior eksekusi rekan.
+Objective State: Mengelola trade-off antara menegakkan otoritas deadline kelompok dan mentoleransi beban pribadi rekan. Mempraktikkan authority check dan repair tanpa menyerang saat validasi emosi tidak langsung membuahkan kepatuhan.
+2. Evidence (Transcript dan Catatan Percakapan)
+Catatan Evidence: Bukti di bawah adalah salinan teks percakapan grup WhatsApp. Transkrip ini mendokumentasikan dinamika saat validasi emosi gagal secara instan mengubah status quo, sehingga memaksa saya melakukan trade-off dan repair terkait batas waktu penyelesaian.
+Transkrip Autentik Percakapan Grup WhatsApp (Kel 3: English)
+[Rabu, 10.43] — Saya (Initiating & Setting Boundary):
+“guysss”
+“mnurut aku kta udh bisa deh bagi tugas dri skrg utk ppt dn bkin smpe final draftnya krna deadline minggu depan”
+“klo bisa ga mepet deadline spy kta bs tnya pendapat ibunya dlu. tlong responnya ya guyss jujur aga susah klo bbrp doang yg responn”
+(Jeda Asinkron: Tidak ada balasan selama 2 hari hingga Jumat Siang)
+[Jumat, 11.56] — Rekan A (Micro-signal / Tentative Response):
+“mbb boleh”
+[Jumat, 11.58] — Saya (Reading Micro-Signal & Checking Mental Load):
+“tumben banget balesnya singkat wkwk, kalian lagi pada hectic atau capek banget kah minggu ini? amann? keliatannya lagi pada sibuk bgt dan mumet yaa”
+[Jumat, 12.01] — Rekan A (Validating the Signal & Expressing Mental Load):
+“iyaa sori bgt, lagi ada proker sama tugas matkul lain numpuk bgt minggu ini 😭 kepala udh ngebul bgt jujur mood agak berantakan wkwk”
+[Jumat, 12.03] — Saya (Adaptation & Task Structuring — Lowering Friction):
+“paham pahaam. semangat guyss, wajar sih lg minggu padet. nah biar tugas inggris ini ga nambah beban mikir dari nol, ini aku udh buatin breakdown tugasnya yaa (P1 sampe P4). take your time milihnya”
+[Jumat, 14.16] — Rekan A (Resistance / Ambiguity Timing):
+“makasih bgt udh dibuatin breakdownnya. tp sori bgt kyknya aku baru bisa nyentuh tugas ini besok (sabtu) malem deh, beneran lg dikejar raker proker buat besok pagi sampe sore. gapapa kan?”
+[Jumat, 14.25] — Saya (Managing Trade-off, Authority Check & Repair):
+(Menyadari validasi awal tidak menyelesaikan masalah timeline. Saya harus menyeimbangkan empati dengan limitasi tugas)
+“waduh, hmm. jujur kalo baru mulai sabtu malem agak rawan sih soalnya minggu pagi udh hrs submit, takut ga keburu direview bareng. gini deh komprominya, bisa ga dimaksimalin sabtu sore jam 4 udh mulai ngerjain? nanti kalo kmu emg stuck di bagian kamu (P2), kabarin aja aku bantu cariin bbrp datanya biar prosesmu lebih cepet. gmn?”
+[Jumat, 14.30] — Rekan A (Commitment / Successful Repair):
+“oke siap paham, masuk akal. sabtu jam 4 sore aku langsung garap bagianku. makasih bgt yaa pengertian dan tawarannya, sori jd ngerepotin deadline kita”
+[Jumat, 14.32] — Saya (Verbal Repair & Closing):
+“santaiii, good luck rakernya besok! let me know kalo butuh backup.”
+3. Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Memosisikan diri sebagai pemimpin yang adaptif. Saya tidak hanya menagih tugas, tapi menunjukkan fleksibilitas mengelola konflik antara deadline tugas dan urgensi pribadi (raker proker rekan).
+Objective & State
+Mengubah state kepasifan dan potensi konflik menjadi kesepakatan win-win. Dari kondisi “terancam telat karena prioritas lain” menjadi “komitmen eksekusi dengan jaring pengaman (backup data)”.
+Repertoire & Language
+Menggunakan negosiasi asertif yang ramah. Penolakan halus disuarakan dengan “waduh, hmm. jujur… agak rawan” (mempertahankan otoritas tugas), dilanjutkan dengan solusi “gini deh komprominya…” (memberikan jalan keluar).
+Weak Signal & Adaptation
+(Fokus Revisi Tiket 786): Saya menangkap weak signal ganda. Pertama, pesan singkat “mbb boleh” sebagai tanda kelelahan. Kedua, respons “baru bisa nyentuh sabtu malem” sebagai bentuk resistensi. Saya beradaptasi dengan tidak memaksakan “harus sekarang”, melainkan merancang trade-off waktu (mundur ke Sabtu sore) yang disetujui bersama.
+Response & Adaptation
+Ketika Rekan A mengatakan tidak bisa bekerja hingga Sabtu malam, saya mempraktikkan authority check bahwa Sabtu malam melewati batas toleransi (boundary). Saya me-repair situasi dengan menawarkan support pengerjaan data jika ia mentok, demi mengamankan kepatuhan pada target waktu Sabtu sore.
+Agreement / Action
+Boundary: Menolak request pengerjaan Sabtu malam karena membahayakan timeline kelompok.
+Action: Disepakati pengerjaan digeser ke Sabtu pukul 16.00 dengan backup system dari saya.
+Relationship Outcome
+Psychological safety terjaga meski terjadi penolakan awal. Rekan A merasa kepentingannya didengar namun tetap bertanggung jawab pada kelompok tanpa merasa diserang/dihakimi.
+4. Penggunaan AI
+Alat dan Peran AI:
+AI digunakan untuk mensimulasikan skenario trade-off berdasarkan umpan balik Asesor (Tiket 786), serta membedah cara melakukan penolakan yang asertif tanpa melukai hubungan profesional kelompok.
+Prompt atau Instruksi Penting:
+> “Berdasarkan revisi tiket 786, simulasikan situasi di mana setelah saya memvalidasi emosi teman saya, dia tetap tidak mau langsung mengerjakan karena ada urusan raker proker. Bagaimana cara saya menegur dan mengamankan deadline (authority check) tanpa terdengar bossy?”
+Bagian Output yang Digunakan, Diubah, atau Ditolak:
+Digunakan: Konsep trade-off (kompromi batas waktu) dan penawaran bantuan bersyarat (partial backup).
+Diubah: Gaya bahasa kaku dari AI disesuaikan menjadi bahasa percakapan mahasiswa (“waduh, hmm. jujur agak rawan…”).
+Pemeriksaan Accuracy, Privacy, dan Authority:
+Situasi konflik kepentingan didasarkan pada pengalaman riil di lapangan. Tidak ada data pribadi sensitif yang dibagikan kepada AI. Otoritas penentuan batas deadline (Sabtu sore) murni dari perhitungan timeline riil saya.
+Apa yang Tetap Dipelajari sebagai Manusia:
+Saya belajar bahwa empati dan validasi emosi bukan “tombol ajaib” yang seketika membuat orang mematuhi instruksi. Ketika validasi gagal mengubah status quo, kemampuan melakukan repair dan trade-off (memberi kelonggaran yang terukur dengan batas tegas) adalah kunci nyata dari kepemimpinan kolaboratif.
+5. Feedback dan Tindak Lanjut
+Feedback yang Diterima (Dari Asesor & Kelompok):
+Dari Asesor (Tiket 786): Ditekankan pentingnya mengelola situasi di mana weak signal dan emotion validation tidak langsung menyelesaikan masalah eksekusi tugas.
+Dari Kelompok: Rekan A sangat menghargai bahwa saya berani berkata jujur mengenai kekhawatiran deadline (“agak rawan”) dan menawar jadwal dengan masuk akal, tanpa menyalahkan prokernya. Hal ini justru memacu rasa segan dan tanggung jawabnya untuk on time pada hari Sabtu.
+Adaptation / Replay:
+Skenario telah direkayasa ulang (replay) ke arah penanganan konflik prioritas: Validasi -> Resistensi muncul -> Authority check (menegaskan boundary deadline) -> Tawarkan Trade-off (kompromi jam & backup) -> Sepakat.
+Next Practice:
+Ke depannya, jika menghadapi kelelahan rekan yang berdampak parah pada timeline, saya akan selalu menyiapkan buffer time di awal dan membiasakan open negotiation tentang kapan mereka benar-benar punya kapasitas energi untuk bekerja, sebelum menetapkan deadline internal absolut.
+6. Self-Assessment & Rekomendasi Dosen
+Self-Assessment Mahasiswa
+Dimensi Penilaian
+Skor (1–4)
+Evidence Singkat
+Person & Character
+4
+Menyeimbangkan empati terhadap beban personal rekan dengan ketegasan menjaga komitmen tugas tanpa menggunakan koersi.
+Objective & State
+4
+Sukses menavigasi clash prioritas dan menghasilkan kesepakatan eksekusi baru (Sabtu sore) tanpa memicu sikap defensif.
+Repertoire, Language & AI
+4
+Melakukan authority check secara luwes (“jujur agak rawan…”) dan memberikan solusi jalan tengah di chat teks asinkron.
+Response & Adaptation
+4
+(Fokus Bukti Baru): Menghadapi resistensi penundaan tugas, beradaptasi dengan memberikan toleransi mundur jadwal hingga batas maksimal, disertai tawaran bantuan.
+Agreement, Action & Relationship
+4
+Menghasilkan komitmen kerja (Sabtu pukul 16.00) dan boundary waktu yang tegas, sekaligus me-repair ketegangan melalui tawaran kolaborasi data.
+Total Skor Mahasiswa: 20 / 20 — (Kategori: Unggul / Sangat Kompeten)
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Sabrina Aurelyn Sibarani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sabsibb.github.io/kipp-students/index.html
+- https://sabsibb.github.io/kipp-students/assets/logo.png
+- https://sabsibb.github.io/kipp-students/course/index.html
+- https://sabsibb.github.io/kipp-students/portfolio/index.html
+- https://sabsibb.github.io/kipp-students/examples/index.html
+- https://sabsibb.github.io/kipp-students/lk/index.html
+- https://sabsibb.github.io/kipp-students/slides.html
+- https://sabsibb.github.io/kipp-students/slides-pdf/index.html
+- https://sabsibb.github.io/kipp-students/assessment/index.html
+- https://sabsibb.github.io/kipp-students/about.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-01.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-06.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-07.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-08.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-09.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-10.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-11.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-12.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-13.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-14.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-15.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#fondasi-relationship-relationship-conversation
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#evidence-transcript-dan-catatan-percakapan
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#self-assessment-rekomendasi-dosen
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#self-assessment-mahasiswa
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

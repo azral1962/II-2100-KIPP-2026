@@ -1,0 +1,199 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 815
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaelengi.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan dan shared problem statement
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Initial assumption dan rencana discovery
+Saya awalnya berasumsi bahwa mahasiswa sering melewatkan sesi bimbingan sebaya karena lupa jadwal. Solusi yang langsung terpikir adalah mengirim lebih banyak reminder otomatis. Sebelum mengusulkan solusi, saya berbicara dengan Naya, seorang mentor sebaya yang membantu mengatur sesi belajar.
+Pertanyaan discovery yang saya siapkan:
+Ceritakan perubahan jadwal sesi terakhir yang perlu kamu tangani.
+Bagaimana kamu mengetahui jadwal yang akhirnya disepakati mahasiswa?
+Apa yang terjadi ketika informasi di kanal berbeda tidak sama?
+Seberapa besar dampaknya terhadap waktu mentor dan mahasiswa?
+Hal apa yang perlu dijaga jika proses ini diperbaiki?
+Saya sengaja tidak memulai dengan pertanyaan tentang reminder atau aplikasi agar tidak mendorong Naya menerima solusi yang sudah saya bayangkan.
+Potongan transcript
+Saya: “Ceritakan perubahan jadwal sesi terakhir yang perlu kamu tangani.”
+Naya: “Ada mahasiswa yang minta pindah hari lewat chat. Aku mengubah kalender kelompok, tapi pesan yang dikirim di kanal lain masih menyebut jadwal lama.”
+Saya: “Jadi mahasiswa dan mentor bisa melihat jadwal berbeda setelah ada perubahan?”
+Naya: “Iya. Minggu lalu ada enam perubahan. Dua di antaranya harus aku konfirmasi satu per satu karena jadwal di chat dan kalender tidak cocok.”
+Saya: “Apa akibatnya ketika belum jelas jadwal mana yang berlaku?”
+Naya: “Waktu habis untuk mengecek ulang. Pernah juga seorang mahasiswa datang sesuai jadwal lama, sementara mentornya mengikuti jadwal baru.”
+Saya: “Apa yang sekarang kamu lakukan untuk mencegahnya?”
+Naya: “Aku cek chat dan kalender sebelum sesi. Tapi kalau ada perubahan mendadak, aku harus menghubungi orangnya lagi.”
+Saya: “Apa yang penting untuk tetap dijaga kalau proses ini diperbaiki?”
+Naya: “Jangan menambah aplikasi baru. Jadwal pribadi mahasiswa juga jangan terlihat oleh orang yang tidak perlu tahu.”
+Saya: “Kalau aku rangkum, masalah utamanya bukan semata-mata lupa, tetapi perubahan jadwal tidak selalu tersampaikan dan tercatat dengan cara yang sama. Dampaknya adalah waktu konfirmasi tambahan dan risiko datang pada waktu yang keliru. Apakah itu sesuai dengan pengalamanmu?”
+Naya: “Iya. Itu lebih tepat daripada bilang mahasiswa sering lupa.”
+Dialog ini adalah rekonstruksi naratif, bukan transkrip verbatim.
+Pembaruan pembacaan dan shared problem statement
+Wawancara mengubah asumsi awal saya. Informasi yang muncul menunjukkan bahwa setidaknya pada pengalaman Naya, persoalan berkaitan dengan perubahan jadwal yang tersebar di chat dan kalender, bukan hanya daya ingat mahasiswa. Dalam enam perubahan pada minggu yang dibahas, dua memerlukan konfirmasi tambahan. Contoh mahasiswa yang datang pada jadwal lama menunjukkan dampak yang dapat diamati, tetapi satu wawancara belum cukup untuk menyimpulkan bahwa pola ini berlaku di seluruh layanan.
+Shared problem statement yang dikonfirmasi Naya:
+“Mahasiswa dan mentor sebaya membutuhkan cara yang jelas untuk mengetahui jadwal bimbingan yang paling mutakhir, karena perubahan yang disampaikan melalui kanal berbeda dapat membuat mahasiswa dan mentor mengikuti waktu yang tidak sama, menambah kerja konfirmasi, dan menyebabkan sesi terlewat. Proses perbaikan perlu memakai alat yang sudah tersedia serta menjaga kerahasiaan jadwal pribadi.”
+Saya tidak memasukkan reminder otomatis atau aplikasi baru ke dalam problem statement karena keduanya merupakan ide solusi, bukan bagian dari masalah yang dikonfirmasi.
+Konteks performance
+Tanggal dan setting: Wawancara discovery singkat setelah sesi bimbingan sebaya, membahas cara perubahan jadwal dikelola.
+Persons dan relationship: Saya sebagai pewawancara mahasiswa dan Naya sebagai mentor sebaya yang terlibat langsung dalam koordinasi jadwal. Nama digunakan sebagai nama samaran.
+Objective dan initial state: Saya ingin memahami penyebab sesi bimbingan tidak berjalan sesuai jadwal sebelum mengusulkan perbaikan. State awal saya adalah percaya bahwa mahasiswa sekadar lupa; setelah mendengar pengalaman Naya, fokus bergeser ke konsistensi informasi perubahan dan dampaknya.
+Evidence
+Evidence tugas ini berupa daftar pertanyaan discovery, rekonstruksi transcript, catatan impact dan constraint, serta shared problem statement yang dinyatakan kembali oleh Naya dalam narasi. Angka enam perubahan dan dua konfirmasi tambahan menggambarkan kasus yang dibahas, bukan hasil survei seluruh mahasiswa. Nama Naya adalah nama samaran; tidak ada identitas atau jadwal pribadi yang dicantumkan.
+Impact yang teridentifikasi: mentor perlu mengecek lebih dari satu kanal dan menghubungi mahasiswa kembali; pada satu kejadian yang diceritakan, mahasiswa datang mengikuti jadwal lama sementara mentor mengikuti jadwal baru.
+Constraint: tidak menambah aplikasi baru dan tidak membuka jadwal pribadi kepada orang yang tidak berkepentingan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya berbicara dengan Naya sebagai mentor yang mengalami proses koordinasi secara langsung, bukan menganggapnya hanya sebagai sumber persetujuan atas ide saya. Saya memilih character penyelidik yang mendengar dan memeriksa pemahaman sebelum proposing.
+Objective & state
+Objective saya adalah menemukan problem yang benar-benar dialami. Asumsi awal mengarah ke lupa jadwal; respons Naya memindahkan fokus ke ketidaksamaan informasi perubahan. Saya menandai bahwa bukti berasal dari satu percakapan dan belum menggambarkan prevalensi seluruh layanan.
+Repertoire & language
+Pertanyaan terbuka meminta contoh kejadian, alur kerja, dampak, workaround, dan constraint. Paraphrase saya merangkum problem tanpa memasukkan aplikasi atau reminder sebagai solusi. Saya meminta Naya mengonfirmasi rumusan tersebut.
+Response & adaptation
+Ketika Naya mengoreksi asumsi “mahasiswa lupa”, saya tidak mempertahankan hipotesis reminder. Saya memperbarui problem statement menjadi isu konsistensi jadwal dan kebutuhan menjaga privasi.
+Agreement/action
+Naya mengonfirmasi shared problem statement. Langkah berikut yang relevan adalah menguji apakah pola kanal yang tidak sinkron muncul pada mentor lain sebelum mempertimbangkan solusi.
+Relationship outcome
+Percakapan menjaga ruang bagi Naya untuk memperbaiki interpretasi saya. Konfirmasi atas rumusan masalah memberi dasar bersama untuk discovery lanjutan tanpa menganggap ia telah menyetujui solusi tertentu.
+Penggunaan AI
+Saya menggunakan AI hanya untuk membantu merapikan struktur jawaban dan memperjelas bahasa berdasarkan informasi yang sudah saya serahkan sendiri. AI tidak digunakan untuk menghasilkan ide utama, menentukan karakter, atau menulis isi analisis dari nol. Saya tetap mengawasi isi jawaban, menyesuaikan dengan pengalaman dan fakta yang saya alami, serta memastikan bahwa apa yang ditulis benar-benar mencerminkan pemikiran saya.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Adaptation/replay:
+Next practice:
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Pengalaman Naya dan perannya dalam proses diperlakukan sebagai sumber pemahaman, bukan sekadar pemberi persetujuan.
+Objective & State
+4
+Asumsi awal diperbarui berdasarkan kejadian, impact, dan constraint yang diungkapkan partner.
+Repertoire, Language & AI
+3
+Pertanyaan terbuka dan paraphrase digunakan; peran AI serta batas rekonstruksi dijelaskan.
+Response & Adaptation
+3
+Saya menahan solusi awal dan mengubah rumusan problem mengikuti koreksi partner.
+Agreement, Action & Relationship
+3
+Shared problem statement dikonfirmasi dan next step ditetapkan; discovery masih perlu diperluas ke partner lain.
+Total: 16 / 20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Daffa Ramadhan Elengi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaelengi.github.io/kipp-students/index.html
+- https://daffaelengi.github.io/kipp-students/assets/logo.png
+- https://daffaelengi.github.io/kipp-students/course/index.html
+- https://daffaelengi.github.io/kipp-students/portfolio/index.html
+- https://daffaelengi.github.io/kipp-students/examples/index.html
+- https://daffaelengi.github.io/kipp-students/lk/index.html
+- https://daffaelengi.github.io/kipp-students/slides.html
+- https://daffaelengi.github.io/kipp-students/slides-pdf/index.html
+- https://daffaelengi.github.io/kipp-students/assessment/index.html
+- https://daffaelengi.github.io/kipp-students/about.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-01.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-02.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-03.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-08.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-09.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-10.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-11.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-12.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-13.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-14.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-15.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan-dan-shared-problem-statement
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://daffaelengi.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

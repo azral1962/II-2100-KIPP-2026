@@ -1,0 +1,165 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 669
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response melalui pembedahan fakta dan asumsi batin.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 5-6 Mei 2026, koordinasi persiapan asistensi proyek Odoo via grup WhatsApp kelompok.
+Persons dan relationship: Pel (saya), Rekan A, dan Rekan B (Rekan kelompok tugas akademik).
+Objective dan initial state: - Objective: Mengubah respons dari asumsi internal yang menyalahkan (“kelompok tidak peduli”) menjadi komunikasi proaktif untuk mengatur jadwal diskusi proyek Odoo sebelum asistensi. - Initial state: Mengalami kecemasan dan kekesalan karena pesan yang mengabarkan jadwal asistensi sekaligus menanyakan progres proyek pada malam hari tidak dibalas sama sekali hingga keesokan harinya.
+Evidence
+Transkrip Chat WhatsApp (Disamarkan): > [5/5, 21:18] Pel: tadi gw udah book asistensi jam 8 buat besok yak > [5/5, 21:18] Pel: ini odoo kita jadinya gmn deh😭 > (Tidak ada balasan sama sekali malam itu dan pagi harinya).
+Proses Internal: Saya sempat memproduksi asumsi bahwa mereka tidak peduli dan saya dibiarkan panik sendiri. Namun, saya menahan diri untuk tidak mengirim pesan marah-marah dan menunggu hingga siang hari.
+Tindak Lanjut (Action): > [5/6, 14:27] Pel: sore ini pada kosong gaa > [5/6, 14:32] Rekan A: jam brpp > [5/6, 14:38] Pel: jam 4an gitu. bebas sih. mari kita bahas odoo odoo ini > [5/6, 16:01] Rekan A: jam 5 kurang bs gaa. mau dmn > [5/6, 16:21] Pel: online aja bole gaa udah tidak di nangor > (Diskusi berlanjut dengan lancar via GMeet, membahas limitasi aplikasi Odoo yang bisa dipakai hingga 15-20 apps).
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Internal character saya awalnya terjebak sebagai “Korban” (victim narrative). Namun, saya berhasil menggesernya menjadi Reflective Learner yang mencari fakta rasional (analytical narrative).
+Objective & state
+Saya beralih dari state cemas dan emosional karena pesan diabaikan, menuju state yang tenang dan proaktif mencari jadwal diskusi pengganti di sore hari.
+Repertoire & language
+Saya mengubah self-talk dari menyalahkan (“Mereka tidak peduli”) menjadi memaklumi konteks (“Mungkin mereka sudah tidur karena pesan dikirim jam 21:18”). Hal ini membuat bahasa eksternal saya (follow-up) tetap santai dan inviting (“sore ini pada kosong gaa”).
+Response & adaptation
+Saat rangsangan terjadi (diabaikan semalaman), saya tidak reaktif. Saya memberikan jeda, lalu beradaptasi mengirimkan pesan konfirmasi di jam 14:27 siang yang merupakan waktu yang lebih wajar untuk berkomunikasi.
+Agreement/action
+Terjadi internal agreement untuk mengelola kecemasan. Secara eksternal, rekan-rekan merespons baik, menyepakati online meeting jam 17:00, dan proyek dapat dikoordinasikan dengan lancar sebelum jadwal asistensi jam 20:00.
+Relationship outcome
+Relasi kerja akademik tetap terjaga tanpa adanya drama atau asumsi negatif yang merusak. Koordinasi berhasil dilakukan tepat waktu.
+Penggunaan AI
+Saya menggunakan AI (Gemini) untuk membantu menstrukturisasi draft Lembar Kerja dan merapikan formatting markdown agar transcript percakapan nyata saya dapat disajikan dengan rapi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Respons Rekan A dan Rekan B yang langsung membalas pesan follow-up pada jam luang mereka dan antusias membedah strategi (limitasi trial Odoo) membuktikan bahwa asumsi awal saya (“mereka tidak peduli”) tidak berdasar fakta.
+Adaptation/replay: Daripada mendiamkan atau memarahi kelompok, saya berhasil melakukan inisiasi diskusi baru (“mari kita bahas odoo odoo ini”) yang membuka jalan bagi penyelesaian masalah.
+Next practice: Saya akan melatih diri untuk tidak melakukan konfirmasi mendesak atau melempar pertanyaan berat di grup pada waktu istirahat malam (di atas jam 21.00), untuk meminimalisasi kepanikan diri sendiri jika tidak segera mendapat balasan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Keberhasilan memisahkan posisi internal antara Korban (berasumsi) dan Pembelajar yang analitis.
+Objective & State
+4
+Transisi eksplisit dari kepanikan malam hari menuju koordinasi proaktif siang harinya.
+Repertoire, Language & AI
+3
+Perubahan self-talk dan perbedaan bahasa sebelum/sesudah delay tergambar di transcript.
+Response & Adaptation
+4
+Terdapat jeda (pause) antara rangsangan (chat tak dibalas) dan respons (tindak lanjut siang hari).
+Agreement, Action & Relationship
+4
+Terlaksananya GMeet sore hari untuk membedah limitasi aplikasi sebelum tenggat asistensi.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-02.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

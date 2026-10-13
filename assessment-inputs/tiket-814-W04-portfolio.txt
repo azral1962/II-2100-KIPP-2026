@@ -1,0 +1,196 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 814
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaelengi.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core meaning
+Lima versi language
+Evidence understanding
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Core meaning
+Pesan inti: Lokakarya “Strategi Belajar Menjelang Ujian” yang semula dijadwalkan Rabu, 21 Oktober 2026 pukul 15.00 di Ruang 204 dipindahkan ke Kamis, 22 Oktober 2026 pukul 16.00 secara daring melalui Microsoft Teams karena Ruang 204 digunakan untuk ujian. Peserta terdaftar perlu mengonfirmasi kehadiran melalui formulir paling lambat Selasa, 20 Oktober pukul 12.00. Tautan Teams akan dikirim pada Rabu, 21 Oktober.
+Fakta yang harus tetap sama dalam semua versi: nama workshop; jadwal baru; perubahan dari tatap muka ke daring; alasan perubahan ruang; batas konfirmasi peserta terdaftar; waktu pengiriman tautan Teams.
+Lima versi language
+Target/person
+Versi language
+Adaptasi repertoire dan alasan
+Friend
+“Eh, workshop Strategi Belajar yang Rabu jam 3 di Ruang 204 pindah ke Kamis jam 4 online di Teams, ya. Ruangnya dipakai ujian. Kalau sudah daftar, konfirmasi lagi di form sebelum Selasa jam 12 siang. Link Teams dikirim Rabu.”
+Pesan percakapan, singkat, dan langsung menyebut tindakan yang perlu dilakukan teman. Istilah “online” dan “link” sesuai percakapan sehari-hari.
+Technical peer
+“Update event: Strategi Belajar Menjelang Ujian berpindah dari Rabu, 21 Oktober, 15.00, Ruang 204 ke Kamis, 22 Oktober, 16.00, Microsoft Teams. Penyebab: Ruang 204 dialokasikan untuk ujian. Minta peserta terdaftar mengonfirmasi ulang melalui form paling lambat Selasa, 20 Oktober, 12.00; tautan Teams dikirim Rabu, 21 Oktober.”
+Memakai format change notice yang mudah dipindahkan ke kalender dan kanal operasional; tanggal dan waktu eksplisit untuk mengurangi salah jadwal.
+Manager
+“Mohon dicatat perubahan jadwal workshop Strategi Belajar Menjelang Ujian: dari Rabu, 21 Oktober pukul 15.00 di Ruang 204 menjadi Kamis, 22 Oktober pukul 16.00 melalui Microsoft Teams. Ruang semula digunakan untuk ujian. Peserta terdaftar diminta konfirmasi melalui formulir sebelum Selasa, 20 Oktober pukul 12.00; tautan dikirim Rabu.”
+Ringkasan keputusan menonjolkan perubahan, alasan operasional, serta dua tindak lanjut yang perlu dipantau panitia.
+Customer/student user
+“Jadwal workshop Strategi Belajar Menjelang Ujian berubah. Acara berlangsung Kamis, 22 Oktober 2026 pukul 16.00 secara online melalui Microsoft Teams, bukan Rabu, 21 Oktober pukul 15.00 di Ruang 204. Ruang 204 dipakai untuk ujian. Jika Anda sudah terdaftar, konfirmasi kehadiran melalui formulir paling lambat Selasa, 20 Oktober pukul 12.00. Tautan Teams dikirim pada Rabu, 21 Oktober.”
+Mengutamakan informasi yang perlu dilakukan peserta, menjelaskan jadwal lama dan baru, serta menghindari jargon internal.
+Public
+“Perubahan jadwal: lokakarya Strategi Belajar Menjelang Ujian kini berlangsung Kamis, 22 Oktober 2026 pukul 16.00 melalui Microsoft Teams. Acara semula dijadwalkan Rabu, 21 Oktober pukul 15.00 di Ruang 204; ruang tersebut digunakan untuk ujian. Peserta terdaftar perlu mengonfirmasi kehadiran melalui formulir sebelum Selasa, 20 Oktober pukul 12.00. Tautan daring dikirim Rabu.”
+Pengumuman mandiri dengan konteks cukup bagi pembaca luas. Istilah teknis diminimalkan dan tindakan peserta disebut tanpa detail operasional panitia.
+Evidence understanding
+Saya menguji versi untuk peserta dengan seorang teman yang berperan sebagai calon peserta. Setelah membaca draf awal, ia memahami bahwa acara berpindah ke Kamis dan berlangsung online, tetapi bertanya, “Kalau aku sudah daftar, pendaftaranku otomatis pindah atau harus konfirmasi lagi?”
+Pertanyaan itu menunjukkan bahwa kata “peserta terdaftar diminta konfirmasi ulang” belum cukup menjelaskan tindakan dan batas waktunya. Saya memperjelas versi customer dengan menyebut formulir dan tenggat Selasa pukul 12.00. Saya juga memeriksa empat versi lainnya agar semuanya menyampaikan tenggat dan cara konfirmasi dengan konsisten.
+Versi customer setelah adaptasi: “Jadwal workshop Strategi Belajar Menjelang Ujian berubah. Acara berlangsung Kamis, 22 Oktober 2026 pukul 16.00 secara online melalui Microsoft Teams, bukan Rabu, 21 Oktober pukul 15.00 di Ruang 204. Ruang 204 dipakai untuk ujian. Jika Anda sudah terdaftar, konfirmasi kehadiran melalui formulir paling lambat Selasa, 20 Oktober pukul 12.00. Tautan Teams dikirim pada Rabu, 21 Oktober.”
+Konteks performance
+Tanggal dan setting: Penyusunan pengumuman perubahan jadwal workshop kampus untuk kanal percakapan, koordinasi panitia, peserta terdaftar, dan publik.
+Persons dan relationship: Saya sebagai panitia yang menyampaikan perubahan; teman sebagai peer teknis dan calon peserta dalam uji pemahaman; manager sebagai pengambil keputusan; serta pembaca publik yang belum tentu mengenal istilah internal acara.
+Objective dan initial state: Saya ingin semua target mengetahui jadwal baru dan peserta terdaftar melakukan konfirmasi sebelum tenggat. Pada draf awal, informasi perubahan jadwal sudah jelas, tetapi cara serta batas waktu konfirmasi belum cukup menonjol bagi peserta.
+Evidence
+Evidence yang disusun untuk tugas ini adalah pernyataan core meaning, lima versi pesan, dan catatan uji pemahaman dengan seorang teman sebagai calon peserta. Kontribusi saya adalah menentukan fakta yang tidak boleh berubah, memilih informasi yang dibutuhkan tiap target, dan merevisi versi peserta setelah menerima pertanyaan tentang konfirmasi ulang. Dialog uji pemahaman merupakan rekonstruksi singkat, bukan rekaman atau kutipan verbatim.
+Tindakan setelah feedback: Saya menambahkan instruksi konfirmasi melalui formulir beserta tenggat yang spesifik ke versi customer, lalu menyelaraskan informasi tersebut di versi lain.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya membedakan lima target berdasarkan kebutuhan informasi: kedekatan dan kecepatan bagi teman, ketepatan operasional bagi peer teknis, ringkasan keputusan bagi manager, instruksi yang dapat dilakukan bagi peserta, dan konteks mandiri bagi publik. Saya tidak mengasumsikan semua orang memahami istilah panitia.
+Objective & state
+Core meaning mempertahankan perubahan jadwal, alasan, tenggat konfirmasi, dan waktu pengiriman tautan. Objective-nya agar target dapat memahami jadwal yang berlaku dan peserta terdaftar tahu tindakan berikutnya. Pertanyaan calon peserta menjadi evidence bahwa kejelasan tindakan awal masih kurang.
+Repertoire & language
+Repertoire bergeser dari pesan singkat, change notice teknis, ringkasan keputusan, instruksi layanan, hingga pengumuman publik. Saya mengubah susunan dan kepadatan informasi, bukan tanggal, alasan, atau tindakan yang diminta.
+Response & adaptation
+Calon peserta memahami perubahan waktu dan format, tetapi masih ragu apakah perlu melakukan konfirmasi. Saya menyesuaikan redaksi dengan menyebut formulir dan deadline secara eksplisit, lalu menyamakan detail itu di kelima versi.
+Agreement/action
+Peserta yang sudah terdaftar perlu mengonfirmasi melalui formulir sebelum Selasa, 20 Oktober pukul 12.00; panitia mengirim tautan Teams pada Rabu, 21 Oktober. Dua tindakan ini dinyatakan jelas dan tidak tertukar.
+Relationship outcome
+Pesan yang sesuai target mengurangi risiko kebingungan tanpa menyembunyikan perubahan. Dalam uji pemahaman, pertanyaan calon peserta membantu memperjelas instruksi. Pengujian ini terbatas pada satu pembaca dan tidak membuktikan seluruh target akan memahami pesan dengan cara yang sama.
+Penggunaan AI
+Saya menggunakan AI hanya untuk membantu merapikan struktur jawaban dan memperjelas bahasa berdasarkan informasi yang sudah saya serahkan sendiri. AI tidak digunakan untuk menghasilkan ide utama, menentukan karakter, atau menulis isi analisis dari nol. Saya tetap mengawasi isi jawaban, menyesuaikan dengan pengalaman dan fakta yang saya alami, serta memastikan bahwa apa yang ditulis benar-benar mencerminkan pemikiran saya.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Adaptation/replay:
+Next practice:
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Lima target dibedakan menurut kebutuhan informasinya tanpa mengandalkan stereotipe.
+Objective & State
+3
+Core meaning, objective, dan kesenjangan pemahaman awal dinyatakan secara spesifik.
+Repertoire, Language & AI
+4
+Lima repertoire disusun dengan rationale dan dibantu AI, lalu fakta inti diperiksa konsistensinya.
+Response & Adaptation
+4
+Pertanyaan calon peserta menghasilkan revisi instruksi dan penyelarasan tenggat di kelima versi.
+Agreement, Action & Relationship
+3
+Deadline konfirmasi dan pengiriman link eksplisit; pengujian pemahaman baru mencakup satu calon peserta.
+Total: 17 / 20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Daffa Ramadhan Elengi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaelengi.github.io/kipp-students/index.html
+- https://daffaelengi.github.io/kipp-students/assets/logo.png
+- https://daffaelengi.github.io/kipp-students/course/index.html
+- https://daffaelengi.github.io/kipp-students/portfolio/index.html
+- https://daffaelengi.github.io/kipp-students/examples/index.html
+- https://daffaelengi.github.io/kipp-students/lk/index.html
+- https://daffaelengi.github.io/kipp-students/slides.html
+- https://daffaelengi.github.io/kipp-students/slides-pdf/index.html
+- https://daffaelengi.github.io/kipp-students/assessment/index.html
+- https://daffaelengi.github.io/kipp-students/about.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-01.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-02.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-03.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-08.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-09.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-10.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-11.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-12.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-13.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-14.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-15.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#lima-versi-language
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://daffaelengi.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

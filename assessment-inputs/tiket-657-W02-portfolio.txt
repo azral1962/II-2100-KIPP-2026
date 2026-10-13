@@ -1,0 +1,197 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 657
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Konteks performance
+Evidence
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Episode
+Event: Mitra A meminta saya merevisi tabel Proyeksi Keuangan (FINPRO) pada Executive Summary lomba Business Case Competition (BCC) karena asumsi anggaran pemasaran terasa berlebihan dan kurang realistis.
+Lapisan
+Deskripsi
+Fact
+Pada tabel FINPRO awal, strategi pemasaran dianggarkan untuk mengadakan 2–3 lomba per bulan dengan total anggaran Rp 30.000.000,-/bulan. Mitra A mengusulkan revisi menjadi 1 lomba rutin per bulan dengan anggaran Rp 30.000.000,- per lomba. Perubahan ini berdampak langsung pada penyesuaian baris Total Cost dan titik Break-Even Point (BEP).
+Initial story
+“Teman mengkritik tabel FINPRO-ku karena menganggap asumsi pemasaranku tidak masuk akal; teman mungkin mengira aku kurang teliti dalam menghitung proyeksi keuangan kelompok.”
+Emotion/body signal
+Cemas & Malu (skala 6/10)
+Reactive character
+“Pembela”: merasa bahwa anggaran 2–3 lomba per bulan sudah bagus untuk mempercepat traksi dan tidak perlu diubah karena rumusnya sudah terlanjur dibuat.
+Desired character
+“Pembelajar”: berusaha menelaah kembali kelayakan asumsi keuangan agar berkas Executive Summary kami rasional dan defensible di mata juri BCC.
+Alternative narratives
+Invitation to improve: Masukan Mitra A sangat valid untuk menyelamatkan kredibilitas Executive Summary kelompok, karena juri BCC sangat sensitif terhadap asumsi keuangan yang terlampau agresif atau tidak realistis.
+Constraint hypothesis: Diskusi dilakukan malam hari mendekati deadline pengumpulan, membuat saya sempat panik membayangkan dampak perubahan rumus Cost dan BEP, tetapi revisi ini bisa dikerjakan dengan cepat jika fokus pada baris pemasaran saja.
+Long-term growth vs. Ego protection (Trade-off Replay Scenario):
+Skenario A (Menolak kritik / Mempertahankan draf lama): Saya melindungi ego dari rasa cemas/malu sesaat dan terhindar dari kerepotan mengedit rumus spreadsheet malam ini. Namun, dampak jangka panjangnya adalah membentuk pola mental defensif (fragile ego), merusak kepercayaan mitra, serta menanggung risiko kegagalan fatal saat diuji juri BCC akibat data yang tidak rasional.
+Skenario B (Menerima kritik / Merevisi draf - Dipilih): Saya harus menoleransi rasa tidak nyaman dan rasa malu sesaat akibat kekeliruan asumsi awal. Namun, dampak jangka panjangnya adalah mengasah ketahanan psikologis (growth mindset), memperkuat sinergi tim, serta menghasilkan dokumen FINPRO yang solid, rasional, dan defensible.
+Internal conversation dan agreement
+Pembela: “Asumsi 2–3 lomba ini kan buat mengejar traksi cepat, lagian kalau diubah sekarang kita harus menyesuaikan ulang rumus Total Cost dan BEP di lembar FINPRO.”
+Pembelajar: “Namun kalau dipikirkan lagi, mengadakan 3 lomba sebulan dengan budget segitu secara operasional sangat tidak realistis. Lebih baik menoleransi cemas sesaat daripada mempertahankan kesalahan yang berisiko jangka panjang bagi tim.”
+Saya: “Saya memilih Skenario B untuk pertumbuhan jangka panjang. Saya akan menahan keinginan mempertahankan draf lama, lalu mendiskusikan angka rasionalnya bersama Mitra A dan langsung merevisi baris FINPRO tersebut.”
+Internal agreement: “Saya setuju untuk mengubah asumsi pemasaran di tabel FINPRO menjadi 1 lomba per bulan dan menyesuaikan baris Cost serta BEP saat itu juga demi kualitas jangka panjang.”
+Konteks performance
+Tanggal dan setting: 19 September 2026, Sesi final review berkas Executive Summary pada malam hari menjelang tenggat pengumpulan Lomba Business Case Competition (BCC).
+Persons dan relationship: Saya (Anggota tim penanggung jawab model FINPRO) dengan Mitra A (Ketua Tim BCC). Hubungan bersifat kolaboratif dan saling percaya sebagai rekan seperjuangan lomba, di mana Mitra A berperan memastikan keselarasan seluruh bagian Executive Summary, sementara saya bertanggung jawab atas keakuratan proyeksi finansial.
+Objective dan initial state: - State awal: Muncul emosi cemas dan malu (skala 6/10) serta kecenderungan defensif (Initial Story) akibat anggapan bahwa kritik Mitra A terhadap tabel FINPRO meragukan ketelitian saya sebagai penanggung jawab bagian keuangan. - Objektif: Mengelola emosi reaktif secara mandiri (menggeser karakter Pembela ke Pembelajar), mencerna masukan secara objektif, serta mengeksekusi revisi asumsi pemasaran FINPRO (menjadi 1 lomba/bulan @ Rp 30 juta) beserta penyesuaian baris Cost dan BEP secara real-time demi menjaga kredibilitas berkas tim.
+Evidence
+Transkrip Percakapan & Bukti Tindakan Revisi Tabel FINPRO:
+Diskusi berlangsung malam hari saat review akhir Executive Summary Lomba BCC.
+Mitra A: “Jal, pas aku cek ulang tabel FINPRO di Executive Summary, bagian biaya pemasarannya kayaknya agak berlebihan deh. Di sini kamu mengusulkan kita mengadakan 2–3 lomba per bulan dengan budget 30 juta per bulan. Secara operasional itu terlalu padat dan rentan dipertanyakan juri BCC karena tidak realistis.”
+Saya (Internal Pause & Switch Character): (Mengambil jeda 3 detik, menahan karakter Pembela yang bersuara internal “Tapi kan makin banyak lomba makin bagus traksinya…”, lalu mengaktifkan karakter Pembelajar).
+Saya (Respon Eksternal): “Oalah, begitu ya. Menurutmu angka ideal yang lebih rasional di mata juri seperti apa, Daf?”
+Mitra A: “Mending kita sederhanakan jadi 1 lomba rutin aja per bulan, dengan alokasi anggaran Rp 30 juta per lomba. Secara eksekusi jauh lebih masuk akal dan gak terkesan over-promising.”
+Saya: “Poin bagus banget, masukan yang sangat valid! Oke, aku buka file spreadsheet FINPRO nya sekarang ya, kita edit langsung asumsi pemasarannya.”
+Proses & Hasil Konkret Revisi Tabel FINPRO Secara Real-Time:
+Saya: “Oke, aku share screen ya. Di baris Pemasaran, angka frekuensinya aku ubah dari ‘2–3 lomba/bulan’ menjadi ‘1 lomba rutin per bulan (@ Rp 30.000.000,-)’.”
+Mitra A: “Sip! Karena frekuensi lombanya berkurang, coba cek dampak ke baris Total Cost-nya.”
+Saya: “Sip, rumus di baris Total Operational Cost otomatis turun mengikuti penyesuaian biaya pemasaran ini. Dampaknya, kalkulasi titik Break-Even Point (BEP) di tabel bawah juga otomatis ter-update jadi lebih realistis dan terukur.”
+Mitra A: “Nah, mantap Jal! Sekarang struktur tabel FINPRO di Executive Summary kita jauh lebih padat, rasional, dan aman kalau dites juri.”
+Saya: “Sip, terima kasih banyak koreksinya ya! Berkas Executive Summary siap kita export ke PDF.”
+Tabel Pembanding Hasil Revisi FINPRO (Bukti Konkret Tindakan):
+Elemen FINPRO
+Draf Sebelum Revisi (Agresif / Kurang Realistis)
+Draf Sesudah Revisi (Kredibel / Rasional)
+Asumsi Pemasaran
+2–3 lomba per bulan (Total Rp 30.000.000,-/bulan)
+1 lomba rutin per bulan (Anggaran Rp 30.000.000,- per lomba)
+Baris Total Cost
+Over-budget akibat frekuensi proyek terlalu tinggi
+Total Cost berkurang & teralokasi secara proporsional
+Kalkulasi BEP
+Proyeksi BEP spekulatif dan rentan dikritik juri
+Kalkulasi BEP bergeser menjadi lebih realistis & terukur
+Feedback, AI, dan refleksi
+Penggunaan AI hanya sebatas menanyakan contoh situasi baru yang lebih konkret sebagai pembanding dan parafrase untuk membantu pengerjaan tugas ini.
+Next practice: Ketika menerima masukan, saya akan mengambil jeda (pause) untuk mencerna masukannya terlebih dahulu, lalu menyimulasikan trade-off jangka panjang (Skenario A vs B) sebelum merespons dan mengeksekusi revisi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Berhasil memetakan dan secara sadar mengendalikan pergeseran karakter internal dari Pembela (reaktif) menuju Pembelajar (reflektif).
+Objective & State
+4
+Mampu mengelola emosi cemas/malu (6/10) serta merumuskan 3 alternative narratives mendalam terkait dampak psikologis & replay trade-off jangka panjang (Skenario A vs B).
+Repertoire, Language & AI
+3
+Menggunakan dialog internal berbasis klarifikasi dan menerapkan konsep pause sebelum merespons tanpa ketergantungan AI.
+Response & Adaptation
+4
+Beradaptasi secara terbuka dengan merespons masukan Mitra A secara positif dan bersedia merevisi tabel FINPRO bersama.
+Agreement, Action & Relationship
+4
+Mencapai internal agreement dan dibuktikan dengan tindakan langsung merevisi tabel FINPRO (mengubah asumsi pemasaran 2–3 lomba menjadi 1 lomba/bulan, serta memperbarui baris Cost dan BEP).
+Total: 19 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#episode
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-02.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,238 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 718
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mkafkaa.github.io/repo/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Core meaning
+Evidence understanding dan adaptasi
+Artifact revisi berdasarkan feedback
+Analisis dan batas
+Bukti yang dilampirkan
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+CatatanCara mengisi portofolio ini
+Pilih satu pesan nyata yang perlu disampaikan kepada lima target berbeda. Ganti semua teks dalam tanda kurung siku [seperti ini]. Isi lima versi berdasarkan fakta yang sama; yang berubah adalah pilihan bahasa, tingkat detail, fokus, dan tindakan yang diminta.
+Urutan kerja:
+Tetapkan core meaning: fakta, dampak, dan action yang tidak boleh berubah.
+Tulis lima versi untuk friend, technical peer, manager, customer, dan public.
+Jelaskan alasan perubahan language dan repertoire pada setiap versi.
+Uji sedikitnya satu versi kepada target yang sesuai dan catat pemahamannya.
+Perbaiki pesan jika ada bagian yang disalahpahami.
+Isi analisis, feedback, tindak lanjut, dan self-assessment pada template umum.
+Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika sebuah informasi belum diketahui, tandai sebagai hal yang perlu dikonfirmasi.
+Core meaning
+Konteks pesan: Saya menjelaskan konsep jaringan komputer kepada lima audiens dengan latar belakang dan kebutuhan berbeda. Konsep ini dipilih karena sesuai dengan bidang Sistem dan Teknologi Informasi dan memiliki banyak istilah teknis yang perlu diterjemahkan ke bahasa sehari-hari.
+Fakta yang tidak boleh berubah: Jaringan komputer menghubungkan dua atau lebih perangkat melalui koneksi kabel atau nirkabel. Perangkat tersebut berkomunikasi menggunakan protokol, bertukar data, dan berbagi sumber daya. Data dapat dibagi menjadi paket, diberi alamat tujuan, lalu diarahkan melalui perangkat seperti switch dan router.
+Dampak bagi target: Semua target membutuhkan pemahaman yang berbeda: anak-anak membutuhkan gambaran konkret, sahabat membutuhkan penjelasan santai, rekan teknis membutuhkan presisi, manajer membutuhkan dampak bisnis, dan publik membutuhkan hubungan dengan layanan digital serta keamanan data.
+Action yang diharapkan: Penerima memahami fungsi dasar jaringan komputer dan dapat menghubungkannya dengan kebutuhan mereka, tanpa mengubah fakta inti atau menyimpulkan bahwa semua masalah jaringan memiliki solusi yang sama.
+Batasan penting: Lima versi harus mempertahankan makna inti yang sama. Penyederhanaan untuk anak-anak dan publik tidak boleh mengubah konsep. Istilah teknis seperti IP address, router, packet, dan protokol digunakan hanya ketika relevan. Definisi diperiksa menggunakan IBM Think dan istilah TCP diperiksa menggunakan RFC 9293 dari IETF.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file itu berjalan menuju perangkat teman dengan bantuan alamat dan aturan komunikasi. Kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang.
+Bahasa dibuat santai, memakai contoh laptop, HP, printer, dan Wi-Fi, serta menghindari istilah akademis agar terasa seperti percakapan biasa.
+Technical peer
+Computer network terdiri dari node yang berkomunikasi melalui protocol stack, umumnya TCP/IP. Data aplikasi dienkapsulasi menjadi packet dan dikirim berdasarkan addressing pada IP layer. Switch meneruskan frame di dalam LAN berdasarkan MAC address, sedangkan router meneruskan packet antar-network berdasarkan routing table. TCP menyediakan delivery yang andal dan flow control; UDP memiliki overhead serta latency yang lebih rendah tanpa jaminan delivery. Kinerja jaringan dapat dilihat dari throughput, latency, packet loss, dan availability.
+Jargon, singkatan, dan parameter teknis dipertahankan karena target membutuhkan efisiensi dan presisi, bukan analogi panjang.
+Manager
+Jaringan komputer adalah fondasi agar sistem dan karyawan dapat mengakses aplikasi, berbagi data, dan melayani pelanggan. Investasi pada jaringan yang stabil dan aman dapat mengurangi downtime dan mempercepat kolaborasi. Biaya perangkat, koneksi, pemeliharaan, dan keamanan perlu dibandingkan dengan risiko gangguan operasional, kehilangan data, dan layanan yang tidak dapat diakses.
+Fokus dialihkan ke nilai bisnis, downtime, risiko, biaya, pemantauan performa, dan cadangan koneksi karena target membutuhkan dasar pengambilan keputusan.
+Customer/user
+Jaringan komputer adalah penghubung yang membuat kita bisa mengirim pesan, mengikuti kelas daring, melakukan pembayaran, menonton video, dan memakai layanan digital. Router membantu data menemukan tujuan, sedangkan aturan komunikasi membantu perangkat saling memahami. Gunakan kata sandi yang kuat, perbarui perangkat, dan berhati-hati saat memakai Wi-Fi publik.
+Penjelasan menggunakan dampak langsung dan tindakan yang bisa dilakukan pengguna, tanpa jargon internal atau detail implementasi yang tidak diperlukan.
+Public
+Jaringan komputer adalah penghubung yang membuat berbagai layanan digital dapat digunakan dalam kehidupan sehari-hari. Jaringan yang baik harus cukup cepat, dapat diandalkan, dan dilindungi agar data pribadi tidak mudah disalahgunakan.
+Informasi teknis yang terlalu rinci dihilangkan agar relevan bagi masyarakat luas; fokusnya adalah kemudahan, keamanan, dan kebiasaan penggunaan yang bertanggung jawab.
+Pemeriksaan konsistensi: Kelima versi tetap menyampaikan bahwa jaringan menghubungkan perangkat untuk bertukar data melalui aturan komunikasi. Perbedaannya hanya pada tingkat detail, gaya bahasa, analogi, fokus bisnis, dan tindakan praktis. Tidak ada versi yang mengubah fungsi dasar jaringan atau menambahkan klaim bahwa jaringan selalu aman dan bebas gangguan.
+Evidence understanding dan adaptasi
+Target yang diuji: Teman Saya
+Metode uji: Meminta teman saya membaca versi sahabat, lalu menjelaskan kembali makna dan tindakan yang ia pahami.
+Pertanyaan pemahaman: “Menurutmu, apa inti jaringan komputer dari penjelasan ini?” dan “Apa yang bisa dilakukan atau dipahami setelah membaca pesan ini?”
+Response target: Teman saya mengatakan bahwa inti jaringan komputer adalah untuk menghubungkan perangkat agar dapat saling berkomunikasi dan berbagi data. Ia juga menyadari bahwa ada aturan dan protokol yang memungkinkan komunikasi ini terjadi.
+Feedback dari target: Teman saya memberikan feedback bahwa versi sahabat cukup mudah dipahami dan memberikan informasi yang relevan. Namun, ia menyarankan agar penjelasan lebih detail tentang bagaimana protokol bekerja.
+Revisi berdasarkan feedback: Saya merevisi versi Friend dengan menambahkan protokol sebagai aturan tentang format pesan dan urutan pengiriman. Core meaning tetap sama.
+Artifact revisi berdasarkan feedback
+Draf Sebelum (versi Friend):
+Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file itu berjalan menuju perangkat teman dengan bantuan alamat dan aturan komunikasi. Kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang.
+Feedback target: Penjelasan mudah dipahami, tetapi perlu lebih detail tentang bagaimana protokol bekerja.
+Draf Sesudah (versi Friend):
+Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file dipecah menjadi paket kecil dan dikirim menuju alamat perangkat teman. Protokol adalah aturan sederhana yang mengatur format pesan, urutan pengiriman, dan apa yang dilakukan jika ada paket yang terlambat atau hilang. Karena itu, kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang.
+Perubahan yang dapat diverifikasi: Saya menambahkan tiga fungsi protokol—format pesan, urutan pengiriman, dan penanganan paket terlambat/hilang—serta contoh paket saat mengirim file. Saya tidak mengubah fakta inti tentang perangkat, pertukaran data, alamat, dan kemungkinan pengiriman ulang.
+Analisis dan batas
+Perubahan repertoire: Repertoire bergerak dari analogi bertukar kartu untuk anak-anak, bahasa santai untuk sahabat, jargon TCP/IP dan metrik jaringan untuk rekan teknis, decision brief berbasis risiko untuk manajer, hingga penjelasan dampak dan keamanan untuk publik.
+Risiko salah tafsir: Versi anak-anak paling berisiko menyederhanakan jaringan secara berlebihan, sedangkan versi teknis berisiko tidak dipahami oleh audiens nonteknis. Risiko dikurangi dengan mempertahankan hubungan pengirim-penerima, alamat, aturan, dan tujuan data pada versi sederhana, serta membatasi jargon pada versi teknis.
+Batas adaptasi: Fungsi dasar jaringan, peran protokol, dan hubungan antara perangkat serta data tidak boleh berubah. Saya tidak boleh mengklaim bahwa router menjamin keamanan atau bahwa TCP selalu membuat koneksi bebas masalah. Batas ini menjaga akurasi teknis dan mencegah pembaca mengambil keputusan berdasarkan informasi yang berlebihan.
+Bukti yang dilampirkan
+Lima draf versi pesan pada LK Bab 4.
+Feedback atau konfirmasi pemahaman dari sedikitnya satu target.
+Revisi sebelum dan sesudah feedback; perubahan konkret pada versi Friend dilampirkan di atas.
+Catatan observer atau hasil simulasi.
+Sumber definisi IBM Think dan RFC 9293 dari IETF.
+Kontribusi saya: Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan satu teman sudah dilakukan dan revisi tertulis berdasarkan feedback dilampirkan; empat target lain masih belum diuji.
+Pada bagian Analisis komunikasi di bawah, jelaskan lima target sebagai Person & character, konsistensi core meaning sebagai Objective & state, pilihan bahasa sebagai Repertoire & language, hasil uji sebagai Response & adaptation, dan feedback/action sebagai Agreement, Action & Relationship.
+Konteks performance
+Tanggal dan setting: Draf disusun pada 28 September 2026 berdasarkan LK Bab 4. Konsep jaringan komputer diterjemahkan ke lima konteks audiens melalui tulisan dan refleksi mandiri.
+Persons dan relationship: Lima target komunikasi adalah anak-anak, sahabat dari bidang berbeda, rekan teknis satu program studi, manajer atau pengambil keputusan, dan publik umum. Uji pemahaman yang terdokumentasi dilakukan kepada satu teman; empat target lain masih berupa simulasi.
+Objective dan initial state: Objective saya adalah menjaga satu core meaning tentang jaringan komputer sambil menyesuaikan repertoire dan language. Initial state saya adalah memiliki definisi teknis dan jargon, tetapi belum memiliki feedback pemahaman dari target.
+Evidence
+Lima versi penjelasan jaringan komputer pada bagian matriks di atas.
+Daftar jargon dan arti sederhananya.
+Rujukan IBM Think dan IETF RFC 9293.
+Refleksi tentang kesulitan membuat versi anak-anak.
+Feedback target tersedia dari satu teman; artifact draf sebelum dan sesudah feedback sudah dilampirkan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Lima audiens dibedakan berdasarkan pengetahuan, kebutuhan, dan peran mereka. Anak-anak membutuhkan analogi konkret; sahabat membutuhkan bahasa akrab; rekan teknis membutuhkan presisi; manajer membutuhkan dampak dan risiko; publik membutuhkan manfaat serta keamanan.
+Objective & state
+Core meaning tetap menghubungkan perangkat untuk bertukar data dan berbagi sumber daya melalui aturan komunikasi. Draf awal yang teknis diubah menjadi lima versi dengan tingkat detail berbeda, tanpa mengganti tujuan penjelasan.
+Repertoire & language
+Repertoire berubah dari analogi bertukar kartu, contoh Wi-Fi, istilah TCP/IP dan metrik, decision brief, hingga imbauan keamanan publik. Penggunaan AI dicatat dan istilah diperiksa terhadap sumber.
+Response & adaptation
+Satu teman memberi feedback bahwa versi Friend mudah dipahami tetapi memerlukan penjelasan protokol. Saya menambahkan definisi sederhana dan contoh paket pada Draf Sesudah. Empat target lain belum diuji, sehingga generalisasi keberhasilan masih terbatas.
+Agreement, Action & Relationship
+Action yang dilakukan adalah meminta feedback, mencatat saran, dan merevisi versi Friend. Feedback tersebut menjadi dasar perubahan konkret; pengujian pada empat target lain masih menjadi tindak lanjut.
+Relationship outcome
+Revisi menunjukkan bahwa saya menanggapi kebutuhan pemahaman target tanpa mengubah core meaning. Dampak hubungan pada empat target lain belum dapat dinilai karena belum ada uji terdokumentasi.
+Penggunaan AI
+Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima audiens dan memeriksa perbedaan formalitas serta detail. Prompt yang digunakan meminta penjelasan jaringan komputer untuk anak-anak, sahabat, rekan teknis, manajer, dan publik dengan core meaning yang tetap sama. Saya menggunakan output sebagai bahan draf, memeriksa definisi dan istilah terhadap IBM Think serta RFC 9293, dan mengubah kalimat agar sesuai dengan bahasa sehari-hari. Saya tidak memasukkan data pribadi. Pemahaman konsep, pemilihan fakta, dan keputusan akhir tetap menjadi tanggung jawab saya.
+Feedback dan tindak lanjut
+Feedback yang diterima: Satu teman memahami fungsi dasar jaringan dan menilai versi Friend mudah dipahami, tetapi meminta penjelasan lebih detail tentang cara kerja protokol. Feedback tersebut sudah ditindaklanjuti melalui artifact Draf Sebelum dan Draf Sesudah. Empat target lain belum diuji.
+Adaptation/replay: Setelah mendapatkan target uji, saya menanyakan inti yang dipahami dan merevisi bagian protokol berdasarkan feedback. Replay berikutnya adalah menguji empat versi lain, mencatat pemahaman masing-masing target, lalu membuat revisi before/after hanya jika feedback menunjukkan kebutuhan perubahan.
+Next practice: Saya akan meminta satu sahabat dari bidang berbeda membaca versi sahabat atau publik, mencatat pemahamannya tanpa memberi penjelasan tambahan, lalu memperbaiki draf berdasarkan bagian yang tidak dipahami.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima audiens dibedakan berdasarkan kebutuhan dan tingkat pengetahuan.
+Objective & State
+4
+Core meaning jaringan komputer dijaga di lima versi.
+Repertoire, Language & AI
+4
+Analogi, bahasa santai, jargon teknis, decision brief, dan bahasa publik digunakan sesuai target; AI dan pemeriksaan sumber dicatat.
+Response & Adaptation
+3
+Satu teman memberi feedback tentang kebutuhan detail protokol dan revisi tertulis sudah dibuat; empat target lain belum diuji.
+Agreement, Action & Relationship
+3
+Feedback sudah diterjemahkan menjadi perubahan konkret, tetapi pengujian pada empat target lain belum dilakukan.
+Total: 17 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: Uji sedikitnya satu versi kepada target nyata dan lampirkan feedback serta revisinya.
+Keputusan: Belum dinilai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Kafka Ghaisan Yusuf
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mkafkaa.github.io/repo/index.html
+- https://mkafkaa.github.io/repo/assets/logo.png
+- https://mkafkaa.github.io/repo/course/index.html
+- https://mkafkaa.github.io/repo/portfolio/index.html
+- https://mkafkaa.github.io/repo/examples/index.html
+- https://mkafkaa.github.io/repo/lk/index.html
+- https://mkafkaa.github.io/repo/slides.html
+- https://mkafkaa.github.io/repo/slides-pdf/index.html
+- https://mkafkaa.github.io/repo/assessment/index.html
+- https://mkafkaa.github.io/repo/about.html
+- https://mkafkaa.github.io/repo/portfolio/week-04.html
+- https://mkafkaa.github.io/repo/portfolio/week-01.html
+- https://mkafkaa.github.io/repo/portfolio/week-02.html
+- https://mkafkaa.github.io/repo/portfolio/week-03.html
+- https://mkafkaa.github.io/repo/portfolio/week-05.html
+- https://mkafkaa.github.io/repo/portfolio/week-06.html
+- https://mkafkaa.github.io/repo/portfolio/week-07.html
+- https://mkafkaa.github.io/repo/portfolio/week-08.html
+- https://mkafkaa.github.io/repo/portfolio/week-09.html
+- https://mkafkaa.github.io/repo/portfolio/week-10.html
+- https://mkafkaa.github.io/repo/portfolio/week-11.html
+- https://mkafkaa.github.io/repo/portfolio/week-12.html
+- https://mkafkaa.github.io/repo/portfolio/week-13.html
+- https://mkafkaa.github.io/repo/portfolio/week-14.html
+- https://mkafkaa.github.io/repo/portfolio/week-15.html
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#kompetensi-target
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#evidence-wajib
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#core-meaning
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#evidence-understanding-dan-adaptasi
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#artifact-revisi-berdasarkan-feedback
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#analisis-dan-batas
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#bukti-yang-dilampirkan
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#konteks-performance
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#evidence
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#analisis-komunikasi
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#penggunaan-ai
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#self-assessment
+- https://mkafkaa.github.io/repo/portfolio/week-04.html#assessment-dosen
+- https://mkafkaa.github.io/repo/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

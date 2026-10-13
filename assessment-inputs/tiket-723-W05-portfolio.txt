@@ -1,0 +1,159 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 723
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Empathetic Interviewing, Neutralizing Assumptions & Systemic Constraints – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Empathetic Interviewing, Neutralizing Assumptions & Systemic Constraints
+Indeks Portfolio
+Character Map & Dynamic Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relationship Conversation
+Multi-Audience Communication & Adaptation
+Empathetic Interviewing, Neutralizing Assumptions & Systemic Constraints
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Context & Initial Assumption Neutralization
+Verbatim Interaction & Real-Time Dynamic Loop
+Systemic Constraints Analysis
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Empathetic Interviewing, Neutralizing Assumptions & Systemic Constraints
+Personal
+Interview
+Problem Statement
+Deklarasi uji asumsi awal, transkrip dialog verbatim penyesuaian strategi komunikasi real-time, analisis constraint birokrasi, tindak lanjut, dan analisis AI.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 29 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 05 Lengkap
+Context & Initial Assumption Neutralization
+Target Interview: R.A. (Penanggung Jawab Koordinasi Eksternal Tim)
+Initial Assumption (Sebelum Wawancara): Saya berasumsi bahwa R.A. kurang memiliki komitmen, tidak disiplin, dan suka menunda-nunda penyerahan laporan validasi eksternal.
+Formulasi Replay Shift Pandangan:
+“Saya datang dengan asumsi awal bahwa R.A. kurang disiplin dalam mengelola waktu, namun setelah mendengar keterangannya mengenai revisi mendadak dari dosen/sponsor pada H-1 jam 22.00 WIB serta batasan kaku SOP dual-signature kampus, saya mengubah pandangan saya bahwa R.A. bukanlah individu yang lalai, melainkan pihak yang terkunci oleh bottleneck birokrasi eksternal yang tidak memiliki batas waktu penyerahan (cutoff time).”
+Verbatim Interaction & Real-Time Dynamic Loop
+Berikut adalah transkrip percakapan langsung (verbatim turn-taking) yang membuktikan perubahan respons R.A. secara nyata setelah Winda mengubah pendekatan komunikasinya:
+Turn 1 — Winda (Pertanyaan Awal Menuduh):
+“R.A., aku mau tanya soal laporan validasi eksternal minggu lalu. Kenapa ya bagianmu selalu mepet banget dikirimnya mendekati deadline?”
+Turn 2 — R.A. [Respons Defensif & Sinyal Lemah]:
+(R.A. menundukkan kepala, menghela napas panjang, memutus kontak mata selama 4 detik, dan menjawab dengan suara memelan)
+“Ya… kan kamu tahu sendiri urusan sama pihak luar enggak gampang Win. Aku udah usahain semampuku kok…”
+Turn 3 — Winda [Deteksi Sinyal Defensif & Adaptasi Strategi]:
+(Winda menyadari rasa tertekan R.A., sengaja menurunkan nada suara menjadi lembut, meletakkan pulpen, dan bersandar rileks)
+“Eh, sorry banget R.A., aku enggak maksud menyalahkan atau menyudutkan kamu sama sekali. Aku paham banget posisi koordinasi eksternal itu penuh tekanan. Bisakah kamu cerita ke aku, di titik alur mana hambatan terbesar biasanya muncul pas kamu komunikasi sama dosen atau sponsor?”
+Turn 4 — R.A. [Respons Terbuka Setelah Adaptasi Winda]:
+(R.A. mendongak, kontak mata kembali tersambung, nada bicaranya berubah menjadi emosional dan terbuka)
+“Jujur Win… aku sebenernya stres banget. Bukan aku sengaja nunda-nunda. Dosen pembimbing dan pihak sponsor itu baru ngirim revisi susulan di H-1 jam 22.00 WIB secara mendadak. SOP kampus minta tanda tangan basah mereka berdua. Aku terpaksa begadang ngerjain sendirian karena aku enggak enak ganggu teman-teman kalau harus ngechatin malam-malam.”
+Turn 5 — Winda [Validasi & Formulasi Shared Problem Statement]:
+“Bentar, jadi kamu menanggung semua revisi mendadak itu sendirian gara-gara SOP dual-signature kampus? Berarti masalah utamanya bukan di kedisiplinan kamu, tapi di ketiadaan batas waktu (cutoff time) revisi dari pihak luar dan ketiadaan wewenang kamu buat menolak revisi susulan. Tepat begitu R.A.?”
+Turn 6 — R.A. [Konfirmasi Eksplisit Akar Masalah]:
+(R.A. mengangguk mantap, ekspresi wajahnya terlihat sangat lega)
+“Nah! Iya tepat banget Win! Itu akar masalah utamanya! Aku cuma bingung gimana cara nolak revisi dosen kalau udah mepet deadline tanpa bikin mereka tersinggung.”
+Systemic Constraints Analysis
+SOP Dual-Signature Kemahasiswaan: Aturan administratif kampus mewajibkan pengesahan bertingkat yang tidak fleksibel.
+Ketimpangan Power Relationship: Sebagai mahasiswa, R.A. tidak memiliki posisi tawar (authority) untuk menolak permintaan dosen pembimbing di luar jam kerja.
+Zero-Budget Overage Rule: Aturan dana kegiatan yang ketat melarang R.A. mengambil keputusan revisi secara mandiri.
+Penggunaan AI
+AI (Claude) digunakan setelah sesi wawancara selesai untuk dua hal:
+Memisahkan fakta dan story: Saya memasukkan draf catatan wawancara dan meminta AI membedakan fakta teramati (“R.A. menerima revisi H-1 jam 22.00 WIB”) dari asumsi subjektif saya (“R.A. takut menegur dosen karena pasif”). AI membantu saya menyadari bahwa ketakutan R.A. dipicu oleh ketimpangan power relation struktural kampus, bukan kecenderungan kepribadian.
+Draft struktur tabel Shared Problem Statement: Saya memberikan deskripsi umum mengenai hambatan birokrasi, AI menyusun draft poin masalah. Saya merevisi bagian “dampak” karena draft awal AI terlalu fokus pada keterlambatan berkas, bukan pada beban emosional R.A.
+Output AI yang ditolak: AI merekomendasikan solusi agar R.A. mengabaikan revisi susulan dosen jika dikirim melebihi jam kerja. Output ini saya tolak penuh karena berisiko memicu sanksi akademis bagi tim dan tidak realistis dalam konteks hierarki kampus.
+Apa yang tetap saya pelajari sebagai manusia: Kepekaan dalam mendeteksi perubahan gestur R.A. (menunduk dan napas berat) serta keberanian untuk langsung meminta maaf dan merubah nada bicara secara mendadak adalah keterampilan manusiawi yang tidak bisa digantikan oleh algoritma AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: Pesan WhatsApp dari R.A. setelah sesi: “Win, makasih banget ya tadi udah mau dengerin cerita jujurku dan enggak langsung menyalahkan. Aku berasa plong banget akhirnya ada yang paham beban koordinasi eksternal.”
+Adaptation/replay: Saya menindaklanjuti hasil wawancara dengan membawa isu ini ke rapat pleno tim keesokan harinya. Kami menetapkan aturan bersama (Action Plan): “Aturan Cutoff Time H-2 pukul 17.00 WIB untuk revisi eksternal, dan bilamana ada revisi susulan, Ketua Tim dan Winda yang akan pasang badan mendampingi R.A. berkomunikasi dengan dosen.”
+Next practice: Sebelum memulai sesi evaluasi performa anggota di masa depan, saya menetapkan protokol pertanyaan pembuka: “Kendala sistemik atau birokrasi luar apa yang sedang menghambat pekerjaanmu minggu ini?” untuk mencegah tim terjebak dalam bias stereotip personal.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Berhasil meruntuhkan asumsi stereotipik awal (“kurang disiplin”) menjadi pemahaman struktural (korban bottleneck birokrasi); memetakan power dynamic ketimpangan hubungan dosen vs mahasiswa.
+Objective & State
+4
+State awal (stres/defensif) dan state akhir (lega/tervalidasi) dideklarasikan eksplisit; mengurai objective ganda (ketepatan tenggat + perlindungan beban emosional mitra + kepatuhan SOP kampus) secara transparan.
+Repertoire, Language & AI
+4
+Repertoire diubah secara luwes dari interogatif ke eksploratif empatik; penggunaan AI dibatasi dengan rationale kuat — output AI yang menyarankan mengabaikan dosen secara aktif ditolak.
+Response & Adaptation
+4
+Sinyal defensif terdeteksi di Turn 2; Winda beradaptasi instan di Turn 3 (menurunkan nada & meminta maaf); di-replay melalui penetapan Action Plan Cutoff Time dan pendampingan resmi di pleno tim.
+Agreement, Action & Relationship
+4
+Agreement eksplisit tercapai (Shared Problem Statement dikonfirmasi); action plan konkret dengan Shared Authority (H-2 cutoff); relationship repair berhasil mengubah defensifitas menjadi kepemimpinan kolaboratif.
+Total: 20/20 - Lanjut. Seluruh dimensi mencapai level 4: complexity dikelola dengan menangani beberapa objective secara bersamaan, signal lemah dideteksi dan ditindaklanjuti, trade-off dikomunikasikan secara eksplisit, dan relationship repair dilakukan secara reflektif dengan hasil yang terukur.
+Kembali ke atas
+Multi-Audience Communication & Adaptation
+Target–Attention Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#context-initial-assumption-neutralization
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#verbatim-interaction-real-time-dynamic-loop
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#systemic-constraints-analysis
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://ambreluee.github.io/kipp-students/lk/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

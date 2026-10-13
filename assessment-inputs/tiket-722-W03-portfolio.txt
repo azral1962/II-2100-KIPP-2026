@@ -1,0 +1,171 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 722
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map & Dynamic Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Relationship Conversation
+Multi-Audience Communication & Adaptation
+Empathetic Interviewing, Neutralizing Assumptions & Systemic Constraints
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Relationship Conversation
+FONDASI
+RELATIONSHIP
+Evidence listening, boundary, request, dan repair saat miskom alur koding backend di tim proyek.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretaan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Selasa malam, 22 September 2026. Panggilan voice call dua orang via Discord sekitar pukul 20.30–21.00 WIB.
+Persons and relationship: Winda (penanggung jawab integrasi) dan M.R. (rekan tim koding backend). Hubungan profesional-kawan dengan trust level cukup tinggi. Namun di proyek ini belum pernah ada kesepakatan tertulis soal batas jam diskusi harian; semuanya diasumsikan fleksibel tanpa konfirmasi eksplisit.
+Objective dan initial state: Winda menemukan bahwa pembahasan modul backend baru selesai setengahnya dan M.R. menuntut untuk lembur koding sampai jam 23.00 WIB. State awal: M.R. merasa cemas/panik takut lupa alur logika (ketegangan sekitar 7/10). Objective Winda: meluruskan alur logika tanpa merusak hubungan tim, meminta kepastian dokumentasi, serta menyepakati boundary offline jam 21.00 WIB.
+Evidence
+Catatan
+Catatan percakapan direkonstruksi dari memori langsung sesaat setelah voice call selesai (pukul 21.02 WIB). Winda catat di notes HP sebelum lupa. Bagian yang merupakan kontribusi Winda: inisiatif membuka percakapan, paraphrase kebutuhan M.R., menyatakan boundary jam istirahat, dan menawarkan prosedur dokumentasi di Notion.
+Ringkasan percakapan (voice call sekitar 20.30):
+M.R.: “Win, ini kan kita baru bahas setengah dari modul backend. Kalau kita stop jam 21.00 sekarang, jujur aku khawatir banget besok pagi kita lupa sama alur logika yang tadi udah disketsain. Harusnya kita push lanjut aja sampai jam 23.00 malam ini biar kelar semua!”
+Winda: “R, gua denger ada nada panik pas lu bilang ‘lupa alur logika’. Lu ngerasa khawatir banget ya membayangkan besok kita blank pas koding bareng?”
+M.R.: “Iya Win… jujur gua takut banget kalau besok kita buang waktu 2 jam cuma buat re-recall logika dari nol. Gua trauma proyek semester lalu keteteran gara-gara ini.”
+Winda: “Gua paham banget rasa khawatir dan trauma itu, R. Jadi kebutuhan utama lu malam ini tuh kepastian dokumentasi alur yang jelas biar besok kita langsung eksekusi tanpa bingung, bener gitu?”
+M.R.: “Iya, persis Win! Asal ada catatannya, gua tenang.”
+Winda: “Oke, gua ngerti situasinya bener-bener dadakan dan gua nggak mau bikin lu cemas. Tapi yang jadi concern gua: gua butuh menjaga stamina fisik dan harus offline jam 21.00. Gimana kalau 15 menit terakhir ini (20.45–21.00) kita stop nambah materi baru, terus kita pakai khusus buat rekap poin kunci logika ke Notion? Lu dapet kepastian catatan rapi, dan gua tetep bisa istirahat tepat waktu. Deal nggak?”
+M.R.: “Wah, deal banget kalau gitu Win! Solusi itu jauh lebih efisien daripada kita paksakan lembur sampai jam 23.00 tapi makin blur. Gua minta maaf ya udah maksa lembur tadi.”
+Winda: “Gua juga minta maaf kalau cara gua menolak di awal tadi kesannya ketus.”
+Setelah call, Winda dan M.R. update dokumen bersama di Notion: menambahkan rekap poin kunci logika backend dan catatan bahwa diskusi harian maksimal diakhiri pukul 21.00 WIB.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Winda mengenali bahwa M.R. bukan asal menuntut lembur — dia merespons kecemasan dari trauma proyek masa lalu secara langsung dan tidak punya ruang kepastian. Memahami konteks itu mengubah framing Winda dari “M.R. egois” menjadi “sistem dokumentasi kita yang belum rapi”. Ini mencegah Winda menyerang karakter M.R. dan memungkinkan percakapan tetap produktif.
+Objective & state
+State awal: ketegangan 7/10, M.R. cemas takut lupa alur koding. Objective Winda bukan menang argumen, tapi memastikan alur koding aman di H+1 dan ada prosedur dokumentasi yang disepakati ke depan. Dengan objective itu Winda bisa memilih kata lebih hati-hati dan tidak defensif waktu M.R. mendesak lembur.
+Repertoire & language
+Winda menggunakan O-F-N-R: Observation (“gua denger nada panik pas lu bilang ‘lupa alur’”), Feeling (“lu ngerasa khawatir banget”), Need (“kebutuhan utama lu malam ini tuh kepastian dokumentasi alur”), Request (“gimana kalau 15 menit terakhir kita rekap ke Notion?”). Paraphrase di tengah percakapan membuka informasi baru — kondisi M.R. yang trauma proyek lalu. Tanpa paraphrase itu, Winda mungkin langsung lompat ke penolakan dan M.R. tidak merasa didengar.
+Response & adaptation
+Waktu M.R. bilang situasinya cemas dan trauma proyek lalu, Winda acknowledge itu sebelum menyampaikan dampaknya ke jam istirahat. Kalau Winda skip acknowledgment dan langsung “tapi gua tetep offline jam 21.00”, M.R. kemungkinan defensif. Winda juga adaptasi repair: bukan hanya minta M.R. berubah, tapi mengakui keketusannya di awal.
+Agreement/action
+Disepakati: prosedur rekap 15 menit ke Notion sebelum jam 21.00 WIB. Dokumen Notion diperbarui bersama dengan struktur logika koding. Agreement ini konkret, bisa dicek, dan tidak bergantung pada memori verbal.
+Relationship outcome
+Ketegangan turun dari 7/10 ke 1/10 setelah call. Winda dan M.R. lanjut koding bareng keesokan harinya tanpa canggung. Winda juga jadi lebih sadar bahwa asumsi “nanti ingat sendiri” tidak cukup sebagai sistem koordinasi saat ada variabel ketidakpastian tinggi.
+Penggunaan AI
+Tidak menggunakan AI untuk percakapan ini. Percakapan berlangsung via voice call Discord dan menyangkut relasi interpersonal dengan rekan tim proyek. Rekonstruksi catatan percakapan dilakukan sendiri dari memori langsung sesaat setelah call. AI tidak dilibatkan dalam proses mendengarkan, merespons, atau menyusun kesepakatan.
+Feedback dan tindak lanjut
+Feedback yang diterima: M.R. bilang di akhir call — “gua nggak nyangka lo bakal dengerin dulu sebelum langsung nolak lembur.” Itu sinyal bahwa paraphrase yang Winda lakukan sebelum menyampaikan concern benar-benar terasa berbeda dari ekspektasinya. Di hari koding, alur berjalan lancar sesuai dokumen Notion.
+Adaptation/replay: Setelah percakapan ini, Winda mengubah habit di tim: setiap kali ada perubahan atau materi koding yang belum tuntas mendekati jam 20.45 WIB, Winda langsung menginisiasi rekap singkat di Notion sebelum room ditutup. Lebih cepat dari voice call malam dan lebih terkontrol.
+Next practice: Melatih repair lebih awal — tidak menunggu sampai ada ketegangan yang terasakan, tapi proaktif check-in ke rekan kerja di tengah proyek untuk memastikan ekspektasi masih selaras.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Konteks M.R. dikenali sebelum menyampaikan dampak; framing bergeser dari karakter ke sistem dokumentasi.
+Objective & State
+4
+State awal (7/10, khawatir lupa alur) dan objective (prosedur rekap bersama) dinyatakan eksplisit sebelum call.
+Repertoire, Language & AI
+4
+O-F-N-R digunakan secara urut; paraphrase membuka informasi baru yang mengubah arah percakapan.
+Response & Adaptation
+4
+Acknowledge situasi M.R. sebelum menyampaikan need; repair dua arah, bukan satu pihak.
+Agreement, Action & Relationship
+4
+Prosedur rekap Notion + boundary jam 21.00 disepakati dan dijalankan; ketegangan turun dari 7/10 ke 1/10.
+Total: 20 / 20
+CatatanAssessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Fact, Emotion, Story & Narrative Reframing
+Multi-Audience Communication & Adaptation
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

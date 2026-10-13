@@ -1,0 +1,166 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 692
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://eira2510.github.io/kipp/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Minggu 4 — Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Minggu 4 — Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Minggu 4 — Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Lima versi terjemahan (Five-Language Translation)
+Analisis komunikasi dan adaptasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Minggu 4 — Five-Language Translation Portfolio
+Komunikasi Interpersonal
+Adaptasi
+Evidence adaptasi repertoire dan language untuk lima target tanpa mengubah core meaning.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai karakter dan target audiens yang berbeda.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Konteks performance
+Tanggal dan setting: Mei - Juni 2026. Pengumuman jadwal pengambilan jaket angkatan Vertera (STEI-K 25).
+Persons dan relationship: Diri saya (Obert) selaku Kepala Divisi Project berinteraksi dengan lima kelompok audiens yang berbeda tingkat formalitas dan kepentingannya.
+Objective dan initial state: * Initial state: Informasi mengenai jadwal pengambilan jaket masih tersebar dan berpotensi menimbulkan kebingungan massa angkatan jika disampaikan dengan satu nada bicara yang sama. * Objective: Menyampaikan pesan inti (core meaning: Jaket Vertera bisa diambil tanggal 2 Juni saat malam keakraban) secara akurat ke 5 target berbeda tanpa kehilangan kejelasan informasi.
+Lima versi terjemahan (Five-Language Translation)
+Friend (Teman Dekat / Divisi Inti): > “Weh, ada info nih. Jaket angkatan Vertera udah bisa diambil pas malam keakraban tanggal 2 Juni besok ya, jangan sampe lupa!”
+Technical Peer (Rekan Panitia / Divisi Project): > “Pagi/Siang/Sore/Malam semua, untuk logistik distribusi Jakang Vertera dijadwalkan on-site pada tanggal 2 Juni bertepatan dengan agenda malam keakraban. Mohon persiapkan diri sesuai jobdesk masing-masing sehingga semuanya bisa berjalan dengan lancar ya.”
+Manager (Atasan / Ketua Pelaksana / Kepala Divisi Event): > “Halo [Nama/Atasan], izin melaporkan bahwa distribusi fisik jaket angkatan Vertera (Jakang) akan dilangsungkan pada tanggal 2 Juni saat malam keakraban guna memaksimalkan tingkat kehadiran massa.”
+Customer (Target Audiens / Massa Angkatan STEI-K 25): > “Halo rekan-rekan massa Vertera! Pengumuman penting: Jaket angkatan kalian sudah bisa diambil pada tanggal 2 Juni 2026 bertempat di rangkaian acara malam keakraban. Jika ada pertanyaan terkait teknis pengambilan, bisa hubungi nomor di bawah ini, terima kasih.”
+Public (Publik Luar / Pihak Vendor): > “Pemberitahuan resmi terkait jadwal distribusi logistik pakaian angkatan mahasiswa STEI-K 25 (Vertera) akan dilaksanakan pada tanggal 2 Juni 2026 dalam agenda malam keakraban kampus.”
+Analisis komunikasi dan adaptasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya menyesuaikan tingkat formalitas, sapaan, dan struktur kalimat berdasarkan relasi kuasa dan kedekatan dengan masing-masing target.
+Objective & state
+Memastikan inti informasi (core meaning) sampai tanpa distorsi makna, menyesuaikan dengan tingkat urgensi penerima pesan.
+Repertoire, language & AI
+Menggunakan variasi kosakata kasual untuk teman, instruksional untuk rekan teknis, profesional-struktural untuk manajer, persuasif-informatif untuk customer, dan formal untuk publik. AI digunakan untuk meninjau konsistensi arti inti.
+Response & adaptation
+Merespons umpan balik cepat dari perwakilan massa yang mengonfirmasi lokasi pengambilan.
+Agreement, action & relationship
+Informasi diterima dengan jelas oleh kelima target, meminimalkan miskomunikasi jadwal, dan menjaga hubungan profesional serta personal.
+Penggunaan AI
+Alat dan peran AI: Menggunakan Gemini sebagai alat bantu peninjau (translator checker) untuk memastikan inti informasi tetap seragam di kelima gaya bahasa.
+Prompt atau instruksi penting: “Bantu saya menyesuaikan kalimat ‘Jaket Vertera bisa diambil 2 Juni saat malam keakraban’ ke dalam 5 gaya bahasa mulai dari teman dekat hingga pihak formal tanpa mengubah inti pesannya.”
+Bagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur terjemahan dari AI, namun memodifikasi pilihan kata (slang mahasiswa ITB) agar terdengar natural di bagian friend dan customer.
+Pemeriksaan accuracy, privacy, dan authority: Tidak ada data pribadi atau rahasia organisasi yang disebarkan; pesan murni berupa informasi logistik acara.
+Apa yang tetap Anda pelajari sebagai manusia: Pemilihan diksi yang tepat sangat bergantung pada pemahaman konteks sosial dan hubungan emosional dengan lawan bicara yang tidak bisa ditebak sepenuhnya oleh mesin.
+Feedback dan tindak lanjut
+Feedback yang diterima: Perwakilan massa angkatan (customer) merespons dengan cepat: “Akhrinya, oke mantap, berarti pas makrab (malam keakraban) langsung ambil ya.”
+Adaptation/replay: Mengingat respons tersebut sangat efektif, ke depannya format pengumuman ringkas semacam ini akan dijadikan standar broadcast informasi logistik.
+Next practice: Melatih kecepatan adaptasi terjemahan pesan secara lisan (real-time translation) saat menghadapi pertanyaan mendadak dari berbagai tipe audiens dalam satu forum terbuka.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Memetakan 5 target audiens secara presisi dari level teman hingga publik.
+Objective & State
+4
+Memastikan core meaning tetap konsisten di seluruh variasi bahasa.
+Repertoire, Language & AI
+4
+Variasi diksi bahasa tampak kontras dan sesuai dengan fungsi karakternya.
+Response & Adaptation
+4
+Mendapatkan konfirmasi pemahaman (feedback) yang valid dari target audiens.
+Agreement, Action & Relationship
+4
+Informasi tersampaikan dengan mulus tanpa memicu kebingungan atau gesekan relasi.
+Total: 20/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Obert Chandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://eira2510.github.io/kipp/index.html
+- https://eira2510.github.io/kipp/assets/logo.png
+- https://eira2510.github.io/kipp/course/index.html
+- https://eira2510.github.io/kipp/portfolio/index.html
+- https://eira2510.github.io/kipp/examples/index.html
+- https://eira2510.github.io/kipp/lk/index.html
+- https://eira2510.github.io/kipp/slides.html
+- https://eira2510.github.io/kipp/slides-pdf/index.html
+- https://eira2510.github.io/kipp/assessment/index.html
+- https://eira2510.github.io/kipp/about.html
+- https://eira2510.github.io/kipp/portfolio/week-04.html
+- https://eira2510.github.io/kipp/portfolio/week-01.html
+- https://eira2510.github.io/kipp/portfolio/week-02.html
+- https://eira2510.github.io/kipp/portfolio/week-03.html
+- https://eira2510.github.io/kipp/portfolio/week-05.html
+- https://eira2510.github.io/kipp/portfolio/week-06.html
+- https://eira2510.github.io/kipp/portfolio/week-07.html
+- https://eira2510.github.io/kipp/portfolio/week-08.html
+- https://eira2510.github.io/kipp/portfolio/week-09.html
+- https://eira2510.github.io/kipp/portfolio/week-10.html
+- https://eira2510.github.io/kipp/portfolio/week-11.html
+- https://eira2510.github.io/kipp/portfolio/week-12.html
+- https://eira2510.github.io/kipp/portfolio/week-13.html
+- https://eira2510.github.io/kipp/portfolio/week-14.html
+- https://eira2510.github.io/kipp/portfolio/week-15.html
+- https://eira2510.github.io/kipp/portfolio/week-04.html#kompetensi-target
+- https://eira2510.github.io/kipp/portfolio/week-04.html#evidence-wajib
+- https://eira2510.github.io/kipp/portfolio/week-04.html#konteks-performance
+- https://eira2510.github.io/kipp/portfolio/week-04.html#lima-versi-terjemahan-five-language-translation
+- https://eira2510.github.io/kipp/portfolio/week-04.html#analisis-komunikasi-dan-adaptasi
+- https://eira2510.github.io/kipp/portfolio/week-04.html#penggunaan-ai
+- https://eira2510.github.io/kipp/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://eira2510.github.io/kipp/portfolio/week-04.html#self-assessment
+- https://eira2510.github.io/kipp/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

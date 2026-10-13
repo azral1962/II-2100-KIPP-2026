@@ -1,0 +1,154 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 825
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 3 — Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 3 — Relationship Conversation
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Konteks performance
+Potongan Transcript (Percakapan Utama & Observasi Mikro)
+Transkrip Percakapan Lanjutan (Evidence Verifikasi Target)
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Tugas Minggu 3 — Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+CatatanStatus Pengerjaan
+Nama Mahasiswa: Keisha Nazla Ananta Putri (NIM: 18225059). Kembali ke Indeks Portofolio.
+Konteks performance
+Tanggal dan setting: Selasa malam di Kamar Kos Aqila & Warung Martabak dekat Kampus ITB. Koordinasi dan repair dilanjutkan via grup WhatsApp pukul 20.02 WIB.
+Persons dan relationship: Keisha (penulis) dan Aqila (Rekan satu tim lomba & sahabat karib). Keisha menginap di kos Aqila untuk kerja kelompok, namun Aqila mendadak ada ujian online dengan syarat kamar harus steril.
+Objective dan initial state: Keisha merasa sedikit bingung (stress 6/10). Aqila sangat cemas, sungkan, dan merasa bersalah (anxiety 8/10) karena harus “mengusir” Keisha keluar malam-malam. Objective: Mengatur ulang boundary jadwal kerja kelompok tanpa memicu rasa bersalah (guilt) pada Aqila, serta menjaga psychological safety.
+Evidence: Transkrip percakapan langsung, tabel observasi adaptasi mikro (dilengkapi cek verbal real-time), dan tangkapan layar WhatsApp pasca-ujian yang memverifikasi hilangnya guilt dari target.
+Potongan Transcript (Percakapan Utama & Observasi Mikro)
+State Awal Percakapan: Aqila meremas ujung bajunya, intonasi memelan, dan pandangan merunduk saat menjelaskan syarat ruangan steril.
+<<<<<<< HEAD > Keisha: (Menurunkan intonasi suara agar rileks, melonggarkan postur tubuh) “Qil, santai aja. Aku tahu kamu ada assessment penting yang syaratnya kamar harus steril. Aku keluar sebentar ya, sekalian mau cari makan malam buat kita berdua.”
+======= > Keisha: (Menurunkan intonasi suara agar rileks, tersenyum) “Qil, santai aja. Aku tahu kamu ada assessment penting yang syaratnya kamar harus steril. Aku keluar sebentar ya, sekalian mau cari makan malam buat kita berdua.”
+>>>>>>> 935527f67d7b8bd37203d2f0ad3d663dd1684abc > Aqila: “Duh Kei, maaf banget ya… Kamu kan menginap di sini buat bantu pengerjaan lomba kita, tapi aku malah bikin kamu harus keluar malam-malam begini.”
+> Keisha: “Jadi kamu merasa tidak enak karena jadwal assessment-mu bentrok sama waktu kerja lomba kita?” (Active Paraphrasing)
+> Aqila: (Menarik napas panjang) “Iya betul, aku merasa bersalah banget jadi menghambat pengerjaan proposal kita.”
+> Keisha: “Aku sama sekali tidak merasa terganggu, Qil. Akademik kamu tetap prioritas utama. Selama kamu assessment, aku bisa sekalian rehat dan cari makan. Oh iya, pas aku balik nanti, aku beliin Martabak kesukaanmu ya biar kita bisa makan bareng begitu assessment-mu selesai.”
+> Aqila: (Otot bahunya mulai rileks) “Wah, makasih banyak ya Kei! Nanti begitu assessment-ku selesai jam 20.00, aku langsung text kamu biar kamu bisa masuk lagi dan kita lanjut finalisasi proposal sambil makan martabak.”
+<<<<<<< HEAD > Keisha: “Sip, kesepakatan ya! Lihat muka aku, tenang dan santai banget kan? Focus on your assessment first, sampai ketemu jam 8 malam.” (Verbal Check-in) > Aqila: (Tersenyum dan menghela napas lega) “Iya Kei, ngeliat kamu senyum santai gitu aku jadi merasa jauh lebih lega sekarang. Makasih ya.” (Real-time Feedback Loop) ======= > Keisha: “Sip, kesepakatan ya! Lihat muka aku, tenang dan santai banget kan? Focus on your assessment first, sampai ketemu jam 8 malam.” (Verbal Check-in & Care Signal) >>>>>>> 935527f67d7b8bd37203d2f0ad3d663dd1684abc
+Transkrip Percakapan Lanjutan (Evidence Verifikasi Target)
+[WhatsApp Chat Log — Selasa, 20.02 WIB]
+Aqila: “Kei, assessment-ku baru banget selesai nih! Kamu posisi di mana? Sini masuk lagi.”
+Keisha: “Ini aku lagi jalan di lorong kosan nih bawa Martabak Telur & Manis. Luar biasa ujiannya lancar kan?”
+Aqila: “Lancar banget Kei! Beneran makasih banyak ya, tadi pas aku ngomong kamar harus steril, ekspresi mukamu tenang banget dan langsung senyum santai. Waktu kamu bilang ‘lihat muka aku, santai kan’, itu ngebantu banget. Aku sempat panik takut kamu kesal/mrengut, tapi responmu bikin aku lega banget dan bisa fokus ujian tanpa kepikiran rasa bersalah.”
+Keisha: “Sip! Kan kita tim, santai aja. Yuk buka martabaknya terus kita tuntaskan Bab 1 proposal kita malam ini!”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Menganalisis karakter Aqila yang sensitif dan mudah merasa bersalah (guilt) saat kepentingannya mengganggu orang lain, serta Keisha yang berusaha empatik tanpa defensif. Framing bergeser dari “pengusiran” menjadi “jeda logistik”.
+Objective & state
+Mengubah state awal cemas dan bersalah (anxiety 8/10, stress 6/10) menjadi tenang, nyaman, dan saling percaya (anxiety <2/10) terbukti via screenshot WA dan kepastian jadwal jam 20.00.
+Repertoire & language
+Menggunakan Active Paraphrasing (“Jadi kamu merasa tidak enak…”), penataan Boundary, serta Care Signal melalui makanan kesukaan. Terdapat verbal check-in eksplisit di akhir percakapan untuk meyakinkan target.
+<<<<<<< HEAD | Response & adaptation | Terbukti dari deteksi sinyal lemah (meremas baju, pandangan merunduk): Keisha secara sadar menurunkan pitch suara dan tersenyum. Keisha memverifikasi adaptasinya secara lisan (“Lihat muka aku…”), dan Aqila langsung memberikan umpan balik verbal real-time (“Iya Kei, ngeliat kamu senyum santai gitu aku jadi merasa jauh lebih lega…”) yang menegaskan adaptasi mikro tersebut bukan sekadar asumsi pelapor. | ======= | Response & adaptation | Terbukti dari deteksi sinyal lemah (meremas baju, pandangan merunduk): Keisha secara sadar menurunkan pitch suara dan tersenyum. Keisha juga memverifikasi adaptasinya secara verbal (“Lihat muka aku…”) yang mana langsung diakui efeknya oleh Aqila di chat pukul 20.02 WIB. | >>>>>>> 935527f67d7b8bd37203d2f0ad3d663dd1684abc | Agreement/action | Menyepakati jeda waktu (keluar kamar hingga pukul 20.00 WIB) dan tindakan nyata membelikan makan malam bersama. | | Relationship outcome | Rasa canggung hilang sepenuhnya, psychological safety terjaga, terbukti dari percakapan WhatsApp yang cair setelahnya. |
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan: * Alat dan peran AI: ChatGPT (GPT-4o) digunakan secara terbatas untuk brainstorming teori Repair Conversation. * Prompt atau instruksi penting: “Saya sedang di kos teman (Aqila). Tiba-tiba dia ada ujian online (kamar harus steril) dan dia merasa sangat bersalah saat meminta saya keluar. Beri saran cara merespons tanpa membuatnya merasa bersalah (Empathic Listening).” * Bagian output yang digunakan, diubah, atau ditolak: * Dipakai: Validasi perasaan melalui active paraphrasing. * Ditolak (Dokumentasi Rationale Kuat): ChatGPT mengeluarkan respons persis seperti ini: “Saran 3: Buatlah ‘Kontrak Waktu Kerja’ tertulis atau kesepakatan formal di kalender bersama agar kejadian serupa tidak terulang.” Usulan ini ditolak keras karena pendekatan kontraktual/formal sangat mekanis, kaku, dan buta terhadap power dynamic persahabatan di kos. Menggunakan kontrak tertulis justru akan merusak trust dan menciptakan kecanggungan (awkwardness). Keputusan membeli martabak (Care Signal) murni intuisi empati manusia yang tidak disarankan oleh AI. * Pemeriksaan accuracy, privacy, dan authority: * Privacy: Nama mata kuliah ujian, alamat kos, dan detail personal Aqila tidak diinput ke dalam prompt. * Authority: Otoritas eksekusi komunikasi sepenuhnya berada pada Keisha sebagai manusia yang memahami relasi afektif, mengesampingkan saran AI yang tidak relevan dengan budaya kasual mahasiswa. * Apa yang tetap Anda pelajari sebagai manusia: AI gagal membaca intimacy level antar-sahabat. Empati dan care signal (seperti makanan) sering kali jauh lebih efektif meredakan guilt daripada prosedur formal.
+Feedback dan tindak lanjut
+<<<<<<< HEAD * Feedback yang diterima: Target memberikan konfirmasi verbal real-time (“…ngeliat kamu senyum santai gitu aku jadi merasa jauh lebih lega…”). Aqila juga merespons pasca-ujian via WA: “Waktu kamu bilang ‘lihat muka aku, santai kan’, itu ngebantu banget. Responmu bikin aku lega banget dan bisa fokus ujian tanpa kepikiran rasa bersalah.” ======= * Feedback yang diterima: Aqila merespons pasca-ujian via WA: “Waktu kamu bilang ‘lihat muka aku, santai kan’, itu ngebantu banget. Responmu bikin aku lega banget dan bisa fokus ujian tanpa kepikiran rasa bersalah.” >>>>>>> 935527f67d7b8bd37203d2f0ad3d663dd1684abc * Adaptation/replay: Keisha memastikan ruang fisik diberikan tanpa memperlihatkan raut muka kesal atau terburu-buru, dan melakukan verifikasi lisan secara langsung. * Next practice: Melakukan sinkronisasi silang jadwal kalender akademik atau ujian sebelum memutuskan menginap untuk kerja kelompok, agar clash jadwal bisa diantisipasi lebih awal.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Memetakan kebutuhan emosional Aqila (guilt) secara tajam tanpa defensif.
+Objective & State
+4
+Mengubah state anxiety 8/10 menjadi <2/10 melalui validasi emosi dan kesepakatan waktu.
+Repertoire, Language & AI
+4
+Menggunakan paraphrasing alami. Melampirkan kutipan output saran AI yang ditolak beserta rationale tajam berbasis konteks relasi kultural.
+<<<<<<< HEAD | Response & Adaptation | 4 | Mendeteksi sinyal non-verbal, merespons dengan adaptasi mikro (pitch suara, senyum), dan tervalidasi via real-time feedback loop dari target. | ======= | Response & Adaptation | 4 | Mendeteksi sinyal non-verbal, merespons dengan adaptasi mikro (pitch suara, senyum), dan tervalidasi via verbal check-in. | >>>>>>> 935527f67d7b8bd37203d2f0ad3d663dd1684abc | Agreement, Action & Relationship | 4 | Kesepakatan waktu dipatuhi, care signal (martabak) tereksekusi, dan trust antarsahabat justru meningkat. |
+Total: 20 / 20
+Kembali ke atas
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 4 — Five-Language Translation
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#potongan-transcript-percakapan-utama-observasi-mikro
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#transkrip-percakapan-lanjutan-evidence-verifikasi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

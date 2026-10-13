@@ -1,0 +1,199 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 600
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Pembedahan Lapisan Batin
+Initial Story dan Alternative Narratives
+Percakapan Batin dan Internal Agreement
+Evidence Tindakan
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Mengubah reaksi defensif setelah menerima kritik menjadi tindakan revisi yang terukur.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode
+Identitas pihak lain disamarkan. Nama rekan kelompok diganti dengan inisial S.
+Pada Rabu pukul 16.20 saya menerima komentar dari asisten praktikum pada draft laporan kelompok: “alur analisis belum bisa diikuti; grafik muncul tanpa penjelasan mengapa metrik ini dipakai.” Saya yang menyusun bagian analisis langsung merasa pekerjaan saya dianggap buruk. Pada saat yang sama, laporan harus dikumpulkan keesokan hari dan dua anggota kelompok sedang mengerjakan bagian lain.
+Pembedahan Lapisan Batin
+Lapisan
+Catatan
+Event
+Komentar revisi muncul di dokumen bersama, lalu ketua kelompok menandai nama saya di grup.
+Fact
+Komentar menyebut dua hal: alur belum mudah diikuti dan alasan pemilihan metrik belum ditulis. Tidak ada kalimat bahwa seluruh analisis salah atau saya tidak kompeten. Tenggat tersisa sekitar 20 jam.
+Initial story
+“Asisten menganggap analisis gua jelek; teman-teman pasti merasa gua menghambat.”
+Emotion dan body signal
+Malu 7/10, kesal 6/10, dada terasa tegang, dan dorongan menutup dokumen.
+Reactive character
+Pembela diri yang ingin menjelaskan bahwa grafik dibuat sesuai pembagian tugas dan waktu pengerjaan terbatas.
+Protective character
+Anggota tim yang takut kehilangan kepercayaan kelompok jika mengakui bagian saya belum jelas.
+Desired character
+Analis yang mampu menguji kritik, meminta kejelasan, dan memperbaiki artefak tanpa mengubah data agar terlihat bagus.
+Uncertainty
+Saya belum tahu apakah masalahnya hanya pada narasi atau juga pada pilihan metrik. Saya juga belum tahu bagian mana yang paling membingungkan pembaca.
+Initial Story dan Alternative Narratives
+Initial story: komentar itu adalah penilaian menyeluruh terhadap kemampuan saya dan tanda bahwa kontribusi saya mengecewakan tim.
+Alternative narrative 1 - masalah komunikasi: data dan perhitungannya mungkin benar, tetapi hubungan antara pertanyaan, metrik, grafik, dan kesimpulan belum terlihat bagi pembaca yang tidak mengikuti proses analisis.
+Alternative narrative 2 - sinyal risiko sebelum tenggat: komentar diberikan sebelum pengumpulan, sehingga masih ada kesempatan memperbaiki bagian yang akan membingungkan penilai. Menanyakan titik kebingungan lebih berguna daripada menebak.
+Alternative narrative 3 - kritik bisa mencakup dua lapisan: mungkin bukan hanya tulisan yang kurang jelas; pemilihan metrik juga bisa belum tepat. Karena itu saya perlu siap mengganti struktur atau metrik jika alasan awal tidak bertahan saat diuji.
+Ketiga narasi alternatif tidak otomatis menyatakan semuanya baik-baik saja. Narasi itu membuka pilihan yang dapat diuji: meminta contoh bagian yang sulit diikuti, memeriksa kembali alasan metrik, dan mengajak satu teman membaca tanpa penjelasan tambahan.
+Percakapan Batin dan Internal Agreement
+Pembela diri: “Kalau langsung revisi, seolah-olah gua mengakui pekerjaannya asal.”
+Pengatur tenggat: “Kalau kita debat dulu, waktunya habis dan laporannya tetap tidak jelas.”
+Analis: “Kita tidak perlu memilih antara membela diri dan menerima semua kritik. Pisahkan dulu dua klaimnya, cari bagian yang tidak terbaca, lalu uji metriknya.”
+Pembela diri: “Tapi kalau ternyata metriknya memang salah?”
+Analis: “Lebih aman mengetahuinya sekarang. Tanggung jawab kita bukan mempertahankan draft, tetapi mempertahankan analisis yang bisa dijelaskan.”
+Internal agreement pukul 16.34: saya tidak akan membalas saat emosi masih tinggi. Dalam 15 menit saya akan menulis ulang fakta kritik, lalu sebelum pukul 17.00 mengirim dua pertanyaan klarifikasi. Setelah mendapat jawaban, saya akan membuat revisi 45 menit dan meminta seorang anggota kelompok melakukan blind read. Jika metrik tidak dapat dijustifikasi, saya akan mengusulkan penggantian dan menjelaskan dampaknya kepada tim.
+Evidence Tindakan
+Pada 16.48 saya mengirim pesan:
+Saya: “Kak, terima kasih sudah menandai bagian ini. Supaya revisinya tepat: yang paling sulit diikuti transisi dari data ke grafiknya, atau interpretasi setelah grafik? Untuk metrik, apakah masalahnya alasan pemilihan belum tertulis atau metriknya sendiri kurang sesuai?”
+Asisten: “Utamanya transisi. Metriknya masih masuk akal, tapi jelaskan kenapa pakai median, bukan mean, karena datanya timpang.”
+Saya mengubah struktur menjadi: pertanyaan analisis → kondisi distribusi data → alasan memakai median → grafik → interpretasi. Pada 18.02 saya meminta S membaca bagian itu tanpa penjelasan lisan.
+S: “Sekarang kebaca. Di versi lama grafiknya kayak muncul tiba-tiba. Tapi kalimat terakhir masih seolah median membuktikan penyebab.”
+Saya: “Benar, itu terlalu jauh. Gua ubah jadi menunjukkan pola, bukan penyebab.”
+Versi revisi selesai pukul 18.17. Ketua kelompok mengonfirmasi pada 18.31 bahwa bagian tersebut siap digabung. Setelah laporan dinilai, tidak ada catatan lanjutan pada pilihan metrik dan kelompok memperoleh komentar bahwa interpretasi sudah mengikuti data.
+Analisis Komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya mengenali pembela diri, pelindung reputasi, pengatur tenggat, dan analis sebagai internal character dengan objective berbeda, bukan menyebut diri “terlalu sensitif”.
+Objective & state
+Objective ganda adalah menjaga kualitas analisis, memenuhi tenggat, dan tetap terbuka pada kemungkinan metrik salah. State bergerak dari kepastian defensif menuju uncertainty yang dapat diuji.
+Repertoire & language
+Repertoire mencakup pause, fact-story separation, tiga alternative narratives, pertanyaan klarifikasi, blind read, dan pembatasan klaim. AI tidak dipakai untuk menciptakan feedback.
+Response & adaptation
+Jawaban asisten mempersempit masalah ke transisi dan rationale median. Feedback S menangkap overclaim baru; saya mengubah “penyebab” menjadi “pola”. Dua loop feedback menghasilkan dua adaptation berbeda.
+Agreement, action & relationship
+Internal agreement mempunyai waktu dan kondisi eskalasi. Tindakan selesai sesuai jadwal, kontribusi kelompok tidak tertunda, dan komunikasi dengan asisten tetap terbuka.
+Penggunaan AI
+Setelah revisi selesai, AI digunakan untuk menandai kalimat yang berupa fact, story, dan prediction dalam jurnal saya. Saya menolak saran AI untuk menulis bahwa komentar asisten “bersifat suportif” karena tone tersebut tidak dapat dipastikan dari teks. Data, balasan asisten, dan feedback S tidak dibuat atau dilengkapi oleh AI.
+Feedback dan Tindak Lanjut
+Feedback asisten membuktikan initial story saya terlalu luas: masalah spesifiknya adalah transisi dan alasan metrik. Feedback S menunjukkan saya masih bisa overclaim setelah struktur diperbaiki. Pada tugas berikutnya saya akan melakukan blind read sebelum meminta review asisten. Indikatornya: pembaca dapat menjawab “mengapa metrik ini dipakai?” dan membedakan pola dari sebab tanpa penjelasan lisan.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Empat internal character dengan objective dan risiko berbeda dipetakan tanpa mengubah emotion menjadi fakta eksternal.
+Objective & State
+4
+Kualitas, tenggat, reputasi, dan uncertainty tentang metrik dikelola secara eksplisit.
+Repertoire, Language & AI
+4
+Pause, pemisahan fakta-story, tiga narasi, klarifikasi, blind read, dan batas AI digunakan dengan rationale.
+Response & Adaptation
+4
+Dua respons eksternal menghasilkan perubahan struktur dan koreksi overclaim.
+Agreement, Action & Relationship
+4
+Agreement bertenggat dilaksanakan, laporan terintegrasi, dan hubungan kerja tetap terjaga.
+Total: 20 / 20 - Lanjut
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Ihsan Fadhlih Akbar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://frnkensteinn.github.io/kipp-students/index.html
+- https://frnkensteinn.github.io/kipp-students/assets/logo.png
+- https://frnkensteinn.github.io/kipp-students/course/index.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/index.html
+- https://frnkensteinn.github.io/kipp-students/examples/index.html
+- https://frnkensteinn.github.io/kipp-students/lk/index.html
+- https://frnkensteinn.github.io/kipp-students/slides.html
+- https://frnkensteinn.github.io/kipp-students/slides-pdf/index.html
+- https://frnkensteinn.github.io/kipp-students/assessment/index.html
+- https://frnkensteinn.github.io/kipp-students/about.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-03.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-06.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-08.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-09.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-10.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-11.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-12.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-13.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-14.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-15.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#episode
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#pembedahan-lapisan-batin
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#initial-story-dan-alternative-narratives
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#percakapan-batin-dan-internal-agreement
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

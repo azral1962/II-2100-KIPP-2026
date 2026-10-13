@@ -56,6 +56,8 @@ Evidence wajib
 Transcript atau catatan percakapan.
 Evidence listening dan response.
 Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 Konteks performance
 Tanggal dan setting: Sesi kerja kelompok offline dan koordinasi lanjutan via grup WhatsApp pada hari Sabtu, 26 September 2026 dalam rangka persiapan lomba AI Hackathon. Percakapan intens terjadi saat kami sedang melakukan finalisasi aset visual (logo dan maskot).
 Persons dan relationship: Saya berkomunikasi dengan tiga rekan satu tim: G (bertindak sebagai desainer utama), J, dan T. Hubungan kami adalah teman dekat, namun memiliki ego dan selera masing-masing dalam urusan desain.
@@ -164,6 +166,7 @@ Tautan yang ditemukan pada halaman:
 - https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
 - https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#self-assessment
 - https://nathanaellouis.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://nathanaellouis.github.io/kipp-students/examples/week-03.html
 ---
 
 Lampiran yang dapat diperiksa:

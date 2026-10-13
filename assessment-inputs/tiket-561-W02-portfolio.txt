@@ -1,0 +1,166 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 561
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sabsibb.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode: Tekanan Persiapan Acara Besar di Tengah Tuntutan Akademik dan Ketimpangan Tim
+Event: Guru penanggung jawab terus menuntut kesempurnaan acara dengan sisa waktu persiapan hanya 1 bulan, bersamaan dengan tingginya tuntutan akademik untuk mempertahankan ranking, sementara pengerjaan teknis divisi acara seluas 11 orang panitia hanya ditanggung oleh 2–3 orang.
+Fact (Pengamatan): Waktu menuju hari H tersisa 30 hari. Ada 8 anggota divisi yang tidak memberikan respons atau tidak berkontribusi nyata dalam pengerjaan teknis. Saya harus merombak rundown hingga pukul 02.00 WIB.
+Initial story: Saya merasa terjebak dan diperlakukan tidak adil. Kenapa saya harus menanggung semua beban ini sendirian? Acara ini akan berantakan dan nilai akademik saya akan hancur karena anggota lain tidak bertanggung jawab dan guru hanya tahu menuntut.
+Emotional/body signal: Marah 9/10 (merasa batas kemampuan pribadi dilanggar), Cemas 8/10 (takut akademik dan acara gagal bersamaan), lelah fisik berat, leher terasa tegang, serta insomnia karena terus memikirkan revisi rundown.
+Reactive character: “Sang Korban” (merasa terjebak dan menyalahkan keadaan/orang lain) serta “Sang Pencemas” (membesar-besarkan ancaman kegagalan total di acara maupun akademik).
+Desired character: “Pengelola Respons” yang berfokus pada penetapan batas (boundaries) dan komunikasi asertif, serta “Perencana” yang memetakan prioritas secara terstruktur.
+Alternative Narratives:
+Kebutuhan & Kondisi Anggota: Anggota tim yang pasif mungkin merasa bingung dengan pembagian tugas yang belum spesifik, atau sedang menghadapi kendala pribadi/akademik yang tidak mereka komunikasikan secara terbuka.
+Karakteristik Tuntutan Eksternal: Tuntutan dari guru merupakan bentuk ekspektasi dan kepedulian terhadap keberhasilan acara, bukan serangan personal. Saya memiliki hak untuk menyampaikan batasan kapasitas tim secara jujur dan profesional.
+Evidence
+Artefak Digital & Riwayat Waktu: Catatan revisi rundown acara yang diperbarui pada pukul 02.14 WIB menunjukkan beban pengerjaan mandiri di luar jam operasional normal.
+Catatan Evaluasi Internal: Dokumentasi pembagian tugas awal yang memperlihatkan ketimpangan distribusi beban kerja (hanya 3 dari 11 anggota yang aktif mengeksekusi item pekerjaan).
+Tindakan Lanjutan (Kontribusi Pribadi): Pembuatan dokumen breakdown tugas baru berbasis checklist dan deadline spesifik yang kemudian dikirimkan ke grup divisi untuk mendelegasikan ulang tanggung jawab secara transparan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Terjadi pergeseran dari “Sang Korban” yang menyalahkan situasi menjadi “Pengelola Respons” yang menyadari bahwa saya memiliki kendali atas tindakan dan batasan diri saya sendiri.
+Objective & state
+Bergeser dari unhealthy state (marah, kewalahan, dan merasa terisolasi) menuju healthy state yang lebih tenang dan fokus pada solusi rasional.
+Repertoire & language
+Menggunakan teknik “Stop & Breathe” saat merespons revisi malam hari untuk memisahkan antara beban emosional dan tugas teknis yang perlu diselesaikan.
+Response & adaptation
+Memilih untuk menunda respons impulsif saat marah, lalu mengubah pendekatan dari mengambil alih semua pekerjaan menjadi menyusun pembagian tugas eksplisit.
+Agreement/action
+Internal agreement untuk tidak lagi mengerjakan tugas anggota lain secara sepihak, dilanjutkan dengan mengomunikasikan re-delegasi tugas secara rinci kepada tim.
+Relationship outcome
+Menjaga kedewasaan komunikasi internal. Mencegah timbulnya konflik terbuka akibat ledakan emosi dan membangun sistem kerja yang lebih transparan.
+Penggunaan AI
+Menggunakan AI (Cermin AI) sebagai pelatih netral untuk menguraikan benang kusut pemaknaan.
+Prompt: “Saya merasa sangat burnout dan marah karena persiapan acara sisa 1 bulan, guru menuntut banyak hal, saya harus menjaga ranking akademik, dan dari 11 panitia hanya 2-3 orang yang bekerja. Bantu saya memisahkan antara fakta objektif dari situasi ini dan emosi/asumsi yang membuat saya merasa terjebak.”
+Output: Bagian analisis yang memisahkan fakta (“sisa waktu 1 bulan”, “8 anggota pasif”) dan vonis/asumsi (“saya terjebak sendirian dan pasti gagal”) saya gunakan sepenuhnya untuk mengaktifkan karakter “Pengelola Respons”.
+Pembelajaran Manusia: AI memberikan kejelasan struktur berpikir; namun, keputusan untuk menekan ego, menyadari kelelahan, dan menyikapi situasi secara bijak sepenuhnya membutuhkan kepemimpinan batin dari diri sendiri.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan ringkasan berbasis evidence perubahan dari reaksi otomatis ke respon terencana.
+Adaptation/replay: Mengubah kalimat respons di grup dari bentuk keluhan pasif-agresif menjadi pembagian tugas berbasis checklist dan deadline yang tegas untuk 8 anggota yang sebelumnya pasif.
+Next practice: Saat menghadapi kebuntuan dan beban berlebih di kepanitiaan, saya akan melatih pembuatan batasan kerja (boundaries) dan delegasi terbuka sebelum mengambil alih pekerjaan orang lain.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Berhasil mengenali “Sang Korban” dan beralih ke “Pengelola Respons”.
+Objective & State
+3
+Mampu meredakan kecemasan dan kelelahan mental menjadi langkah terstruktur.
+Repertoire, Language & AI
+4
+Menggunakan jeda reflektif dan Cermin AI untuk memisahkan fakta dari emosi.
+Response & Adaptation
+3
+Mengubah tindakan dari memendam/menyelesaikan sendiri menjadi delegasi tugas.
+Agreement, Action & Relationship
+3
+Menetapkan batasan kerja yang jelas tanpa merusak dinamika kepanitiaan.
+Total: 16 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Sabrina Aurelyn Sibarani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sabsibb.github.io/kipp-students/index.html
+- https://sabsibb.github.io/kipp-students/assets/logo.png
+- https://sabsibb.github.io/kipp-students/course/index.html
+- https://sabsibb.github.io/kipp-students/portfolio/index.html
+- https://sabsibb.github.io/kipp-students/examples/index.html
+- https://sabsibb.github.io/kipp-students/lk/index.html
+- https://sabsibb.github.io/kipp-students/slides.html
+- https://sabsibb.github.io/kipp-students/slides-pdf/index.html
+- https://sabsibb.github.io/kipp-students/assessment/index.html
+- https://sabsibb.github.io/kipp-students/about.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-01.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-06.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-07.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-08.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-09.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-10.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-11.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-12.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-13.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-14.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-15.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

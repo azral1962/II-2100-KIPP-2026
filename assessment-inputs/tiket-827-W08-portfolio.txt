@@ -1,0 +1,149 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 827
+Minggu: 08
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+
+Isi halaman portfolio:
+---
+week-08 – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Portfolio Minggu 8 — UTS KIPP
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identitas dan status paket
+Makalah dan lima laporan
+Portfolio Minggu 8 — UTS KIPP
+Makalah pra-UTS dan lima laporan kasus individual.
+TipMulai mengisi
+Baca instruksi UTS, jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. Lihat contoh jawaban Minggu 8 untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+Identitas dan status paket
+Elemen
+Isi mahasiswa
+Nama
+[Isi]
+NIM
+[Isi sebagai teks; pertahankan nol di awal]
+Kelas
+[Isi]
+Periode/tanggal pelaksanaan
+[Isi tanggal aktual setiap sesi pada laporan]
+Versi bank/paket aktif
+[Salin dari PENUGASAN.md dalam ZIP Anda]
+Modalitas
+[Teks/suara; sumber transkripsi]
+Status pengumpulan
+[Belum diunggah/sudah diunggah; bukti bila tersedia]
+Makalah dan lima laporan
+Tahap
+Template untuk diisi
+Target sesuai ZIP
+Status
+Bukti/ID atau bagian yang masih kurang
+Pra-UTS
+paper.qmd
+Kajian empat pertanyaan MBTI/PASK
+Belum dimulai
+[Isi]
+1
+hasil_1.qmd
+Diri; [nama/ID pembanding]
+Belum dimulai
+[Isi]
+2a
+hasil_2a.qmd
+[Nama/ID target pertama kasus 2]
+Belum dimulai
+[Isi]
+2b
+hasil_2b.qmd
+[Nama/ID target kedua; berbeda dari 2a]
+Belum dimulai
+[Isi]
+3a
+hasil_3a.qmd
+[Nama/ID target pertama kasus 3]
+Belum dimulai
+[Isi]
+3b
+hasil_3b.qmd
+[Nama/ID target kedua; berbeda dari 3a]
+Belum dimulai
+[Isi]
+Kembali ke atas
+Problem–Solution Interest Pitch
+Desire-State Communication
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://silinderpejal.github.io/kipp-students/index.html
+- https://silinderpejal.github.io/kipp-students/assets/logo.png
+- https://silinderpejal.github.io/kipp-students/course/index.html
+- https://silinderpejal.github.io/kipp-students/portfolio/index.html
+- https://silinderpejal.github.io/kipp-students/examples/index.html
+- https://silinderpejal.github.io/kipp-students/lk/index.html
+- https://silinderpejal.github.io/kipp-students/slides.html
+- https://silinderpejal.github.io/kipp-students/slides-pdf/index.html
+- https://silinderpejal.github.io/kipp-students/assessment/index.html
+- https://silinderpejal.github.io/kipp-students/about.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-02.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-03.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-06.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-09.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-11.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-12.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-13.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-14.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-15.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html#identitas-dan-status-paket
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html#makalah-dan-lima-laporan
+- https://silinderpejal.github.io/kipp-students/lk/lk-UTS/index.html
+- https://silinderpejal.github.io/kipp-students/examples/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/UTS/paper.html
+- https://silinderpejal.github.io/kipp-students/portfolio/UTS/hasil_1.html
+- https://silinderpejal.github.io/kipp-students/portfolio/UTS/hasil_2a.html
+- https://silinderpejal.github.io/kipp-students/portfolio/UTS/hasil_2b.html
+- https://silinderpejal.github.io/kipp-students/portfolio/UTS/hasil_3a.html
+- https://silinderpejal.github.io/kipp-students/portfolio/UTS/hasil_3b_07381119.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

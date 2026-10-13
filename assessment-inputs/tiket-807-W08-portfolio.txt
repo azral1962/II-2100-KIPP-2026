@@ -1,0 +1,142 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 807
+Minggu: 08
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://minei114.github.io/kipp-students/portfolio/week-08.html
+
+Isi halaman portfolio:
+---
+UTS Performance Evidence Package – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+UTS Performance Evidence Package
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Performance card
+Decisive moment
+Observer feedback dan replay
+Evidence package
+Self-assessment
+Reflection
+UTS Performance Evidence Package
+Assessment
+UTS
+Integrated performance Target–Attention–Interest.
+Performance card
+Person/target: Teman yang menjadi target percakapan.
+Initial state: Target sudah mengetahui adanya masalah, tetapi masih memiliki pertimbangan sebelum menerima pendekatan yang ditawarkan.
+Objective: Membawa target dari Attention menuju Interest dengan menunjukkan relevance dari problem dan solution yang dibahas.
+Evidence: Respons target selama percakapan dan perubahan respons setelah stimulus disesuaikan.
+Boundary: Tidak memaksakan persetujuan dan tidak menganggap respons positif sebagai bukti bahwa masalah sudah selesai.
+Decisive moment
+Mahasiswa: Menyampaikan problem dan solution yang dianggap relevan dengan kondisi target.
+Target: Memberikan respons yang menunjukkan adanya pertimbangan terhadap solution yang ditawarkan.
+Mahasiswa: Mengakui pertimbangan tersebut dan menyesuaikan penjelasan agar lebih sesuai dengan kebutuhan target.
+Response target menunjukkan bahwa pendekatan awal belum sepenuhnya menjawab pertimbangannya. Mahasiswa kemudian tidak langsung mempertahankan pitch, tetapi menggunakan respons tersebut untuk menyesuaikan cara penyampaian dan memperjelas value yang relevan bagi target.
+Observer feedback dan replay
+Observer memberikan feedback bahwa mahasiswa sudah mampu mempertahankan arah percakapan ketika target memberikan respons yang berbeda dari perkiraan awal. Mahasiswa juga tidak langsung menganggap keraguan target sebagai penolakan.
+Pada replay, mahasiswa menyadari bahwa beberapa bagian masih terlalu cepat dalam menjelaskan solution. Pendekatan kemudian diperbaiki dengan lebih memperhatikan respons target sebelum melanjutkan ke penjelasan berikutnya.
+Feedback tersebut membantu mahasiswa membedakan antara target yang sekadar mendengarkan dengan target yang benar-benar menunjukkan Interest.
+Evidence package
+Performance card digunakan untuk menentukan target, initial state, objective, evidence, dan boundary.
+Transcript/performance digunakan untuk melihat stimulus, respons, dan adaptation selama percakapan.
+Feedback digunakan untuk mengevaluasi cara mahasiswa membaca respons target.
+Replay digunakan untuk melihat bagian yang masih dapat diperbaiki.
+Tidak terdapat bukti fisik tambahan yang dapat dilampirkan untuk mendukung evaluasi secara lebih objektif.
+AI digunakan sebagai bantuan refleksi untuk mengevaluasi hubungan antara stimulus, respons, dan adaptation. Namun, karena tidak terdapat artefak AI atau bukti fisik yang dapat diverifikasi, penggunaannya belum dapat dinilai secara maksimal.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Mampu mengenali karakteristik, kebutuhan, dan kondisi target sebelum menentukan pendekatan
+Objective & State
+4
+Initial state dan perubahan respons target dapat dibedakan selama performance
+Repertoire, Language & AI
+3
+Repertoire dan bahasa disesuaikan dengan target, tetapi belum memiliki bukti fisik/artefak AI yang dapat diverifikasi
+Response & Adaptation
+4
+Mampu menggunakan respons target untuk menyesuaikan pendekatan
+Agreement, Action & Relationship
+4
+Percakapan tetap diarahkan pada kebutuhan target tanpa memaksakan persetujuan
+Total: 19/20 — Kompeten.
+Reflection
+Performance ini menunjukkan bahwa keberhasilan komunikasi tidak hanya ditentukan oleh seberapa baik stimulus awal disiapkan, tetapi juga oleh kemampuan membaca respons target dan melakukan adaptation. Respons yang berbeda dari perkiraan tidak selalu berarti penolakan, sehingga perlu dilihat kembali apa yang menjadi pertimbangan target.
+Hal yang masih perlu diperbaiki adalah penggunaan evidence yang lebih lengkap. Proses performance sudah dapat direfleksikan melalui transcript dan feedback, tetapi belum didukung bukti fisik yang dapat digunakan untuk membandingkan improvement secara lebih objektif.
+AI dapat membantu proses refleksi, terutama untuk melihat apakah stimulus, respons, dan adaptation sudah saling berkaitan. Namun, tanpa artefak yang dapat diverifikasi, AI belum cukup untuk menjadi bukti utama performance.
+Kembali ke atas
+Problem–Solution Interest Pitch
+Desire-State Communication
+Portfolio KIPP-2 · Michelle Nataneilla
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://minei114.github.io/kipp-students/index.html
+- https://minei114.github.io/kipp-students/assets/logo.png
+- https://minei114.github.io/kipp-students/course/index.html
+- https://minei114.github.io/kipp-students/portfolio/index.html
+- https://minei114.github.io/kipp-students/examples/index.html
+- https://minei114.github.io/kipp-students/lk/index.html
+- https://minei114.github.io/kipp-students/slides.html
+- https://minei114.github.io/kipp-students/slides-pdf/index.html
+- https://minei114.github.io/kipp-students/assessment/index.html
+- https://minei114.github.io/kipp-students/about.html
+- https://minei114.github.io/kipp-students/portfolio/week-08.html
+- https://minei114.github.io/kipp-students/portfolio/week-01.html
+- https://minei114.github.io/kipp-students/portfolio/week-02.html
+- https://minei114.github.io/kipp-students/portfolio/week-03.html
+- https://minei114.github.io/kipp-students/portfolio/week-04.html
+- https://minei114.github.io/kipp-students/portfolio/week-05.html
+- https://minei114.github.io/kipp-students/portfolio/week-06.html
+- https://minei114.github.io/kipp-students/portfolio/week-07.html
+- https://minei114.github.io/kipp-students/portfolio/week-09.html
+- https://minei114.github.io/kipp-students/portfolio/week-10.html
+- https://minei114.github.io/kipp-students/portfolio/week-11.html
+- https://minei114.github.io/kipp-students/portfolio/week-12.html
+- https://minei114.github.io/kipp-students/portfolio/week-13.html
+- https://minei114.github.io/kipp-students/portfolio/week-14.html
+- https://minei114.github.io/kipp-students/portfolio/week-15.html
+- https://minei114.github.io/kipp-students/portfolio/week-08.html#performance-card
+- https://minei114.github.io/kipp-students/portfolio/week-08.html#decisive-moment
+- https://minei114.github.io/kipp-students/portfolio/week-08.html#observer-feedback-dan-replay
+- https://minei114.github.io/kipp-students/portfolio/week-08.html#evidence-package
+- https://minei114.github.io/kipp-students/portfolio/week-08.html#self-assessment
+- https://minei114.github.io/kipp-students/portfolio/week-08.html#reflection
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

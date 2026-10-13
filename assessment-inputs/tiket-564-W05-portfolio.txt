@@ -1,0 +1,182 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 564
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement pada alur pemantauan proyek harian.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan narasumber profesional.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting: Bulan September 2026, Wawancara langsung tatap muka di area kerja narasumber, berdurasi sekitar 1 jam, dalam konteks analisis proses pemantauan pekerjaan harian dan pengambilan keputusan operasional.
+Persons dan relationship: Narasumber merupakan pemilik usaha / manajer operasional proyek. Hubungan awal adalah relasi profesional-kenalan, sehingga memerlukan pendekatan terstruktur agar diskusi tidak bergeser menjadi sekadar obrolan santai tanpa tujuan bisnis yang objektif.
+Objective dan initial state: - Initial state: Terdapat asumsi sepihak bahwa mitra membutuhkan aplikasi/sistem pencatatan proyek terpusat baru karena cara pemantauan saat ini masih tergolong manual. - Objective: Menggali akar masalah operasional yang sebenarnya, menahan dorongan mempresentasikan solusi teknis di awal (no premature proposing), dan menyepakati rumusan masalah bersama (shared problem statement).
+Evidence
+1. Asumsi Awal vs Realitas
+Asumsi Awal Mahasiswa: Mitra membutuhkan aplikasi atau sistem informasi pencatatan proyek terpusat yang baru untuk menggantikan proses pemantauan manual.
+Realitas Lapangan: Hambatan utama bukan pada media pencatatan (Excel), melainkan keterbaruan data (data freshness) dan rasa ragu sebelum mengambil keputusan akibat informasi di rekap yang belum diperbarui oleh tim di lapangan.
+2. Pertanyaan Penemuan Kebutuhan (5 Pertanyaan Inti)
+Observasi: “Bisa diceritakan Pak, terakhir kali Bapak perlu mengecek perkembangan salah satu proyek yang sedang jalan, alurnya seperti apa?”
+Dampak: “Di antara dua hal ini, mana yang paling mengganggu operasional: waktu yang habis untuk membuka file, atau rasa ragu karena datanya belum tentu kondisi terbaru?”
+Konteks Peran: “Seberapa besar dampaknya ke keputusan bisnis ketika status progres proyek di lapangan belum pasti?”
+Aspirasi: “Kondisi ideal seperti apa yang diharapkan agar pemantauan proyek tetap pasti tanpa menghambat alur kerja?”
+Batas (Constraint): “Jika alur pemantauan ini nanti dirapikan, hal penting apa yang tidak boleh berubah atau tidak boleh terganggu?”
+3. Kutipan Kunci & Parafrasa
+Kutipan Kunci Narasumber: “Biasanya saya buka file Excel rekap dulu buat lihat statusnya. Nah, kalau informasinya di situ kurang jelas atau ragu, baru saya telepon atau chat lagi orang yang pegang proyek di lapangan.”
+Parafrasa Mahasiswa (Mengecek Pemahaman): “Berarti data awal sebenarnya sudah ada di rekap Excel, tetapi untuk memastikan kondisi paling update di lapangan, Bapak masih harus konfirmasi manual lagi ke tim ya?”
+Konfirmasi Narasumber: “Iya betul. Soalnya sering kali file Excel itu belum sempat di-update sama anak-anak lapangan pas mereka lagi padat kerjaan.”
+4. Evolusi Pernyataan Masalah
+Draf Awal (Sebelum Konfirmasi):
+Mitra membutuhkan sistem informasi pencatatan proyek terpusat berbasis aplikasi untuk mendigitalkan seluruh alur pemantauan progres harian.
+Draf Final / Shared Problem Statement (Setelah Konfirmasi):
+> Pemilik usaha dan pengambil keputusan mengalami kesulitan mendapatkan gambaran terbaru mengenai perkembangan proyek ketika informasi di rekap Excel belum selalu diperbarui oleh tim lapangan, sehingga pengambilan keputusan operasional dan pengadaan material menjadi tertahan.
+> Mereka membutuhkan mekanisme pemantauan yang memberikan kepastian informasi proyek yang terbaru dan andal, dengan mempertimbangkan keterbatasan waktu tim site dan tidak menambah beban kerja administrasi di lapangan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Narasumber adalah pengambil keputusan yang berorientasi praktis dan berhati-hati terhadap beban kerja staf site. Saya harus aktif memandu percakapan agar tetap berfokus pada peran dan misi bisnis (komunikasi profesional), bukan sekadar perbincangan umum.
+Objective & state
+Menggeser tujuan dari yang awalnya ingin “merekomendasikan aplikasi pencatatan baru” menjadi “memahami kendala keterbaruan data di balik pemantauan proyek”. State awal berupa asumsi fitur bergeser ke pemahaman kendala operasional nyata.
+Repertoire & language
+Menghindari jargon teknis arsitektur perangkat lunak. Menggunakan bahasa masalah berbasis alur kerja sehari-hari (keandalan data, waktu konfirmasi, beban admin lapangan).
+Response & adaptation
+Sadar akan jebakan Prescription Trap, saya menahan diri untuk tidak langsung menyarankan software tertentu di awal. Saat narasumber menyebutkan kendala keterbaruan data Excel, saya langsung mengadaptasi pertanyaan untuk menggali penyebab riil ketidakpastian data alih-alih memaksakan fitur baru.
+Agreement/action
+Menghasilkan kesepakatan bersama mengenai shared problem statement yang menitikberatkan pada kepastian data terbaru, bukan pemodelan sistem baru yang membebani.
+Relationship outcome
+Kepercayaan profesional meningkat karena narasumber merasa didengarkan kesulitannya di lapangan, bukan sekadar dijadikan objek pengujian ide tugas perkuliahan.
+Penggunaan AI
+Alat dan peran AI: Menggunakan AI (Gemini) sebagai mitra diskusi untuk menstrukturkan catatan wawancara ke dalam kerangka 5 Pertanyaan Penemuan Kebutuhan dan memvalidasi rumusan Shared Problem Statement.
+Prompt atau instruksi penting: Meminta AI mengidentifikasi potensi bias solusi (prescription bias) dari asumsi awal pembuatan aplikasi proyek dan merapikannya sesuai template Anatomi Problem Statement.
+Bagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur formulasi problem statement; menolak saran AI yang menambahkan fitur rekomendasi software otomatis karena tidak sesuai dengan kendala nyata narasumber di lapangan.
+Pemeriksaan accuracy, privacy, dan authority: Nama spesifik pemilik dan data proyek dianonimkan untuk menjaga privasi. Seluruh poin analisis diverifikasi langsung berdasarkan fakta percakapan lapangan.
+Apa yang tetap Anda pelajari sebagai manusia: Memahami dinamika psikologis bahwa mendengarkan secara aktif membutuhkan disiplin ego untuk menahan diri tidak segera memamerkan solusi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Narasumber mengapresiasi karena fokus diskusi bergeser ke keandalan data dan beban kerja staf: “Bagus kalau sudut pandangnya begitu, karena mau pakai sistem apa pun kalau anak-anak lapangan merasa ribet menginput, datanya tetap tidak akan update.”
+Adaptation/replay: Di awal wawancara, saya hampir tergoda untuk langsung memperlihatkan konsep aplikasi pencatatan proyek yang sudah saya bayangkan. Setelah menyadari narasumber lebih terganggu oleh keterbaruan data, saya menunda presentasi ide dan beralih melakukan parafrasa atas kekhawatiran operasional beliau.
+Next practice: Pada wawancara discovery berikutnya, saya akan secara eksplisit mengalokasikan timer visual/mental minimal 10 menit pertama murni untuk investigasi dampak masalah dan kendala sebelum membahas alternatif solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Berhasil menavigasi interaksi menjadi perbincangan profesional yang saling menghargai peran bisnis dan kendala lapangan.
+Objective & State
+3
+Berhasil mendefinisikan shared problem statement meskipun sempat terpengaruh asumsi awal ingin memvalidasi ide sistem.
+Repertoire, Language & AI
+4
+Menggunakan parafrasa berorientasi masalah tanpa jargon teknis, serta memanfaatkan AI secara etis untuk pemetaan pola.
+Response & Adaptation
+3
+Mampu menahan diri dari godaan mendemonstrasikan prototipe dan beradaptasi saat isu keterbaruan data diangkat narasumber.
+Agreement, Action & Relationship
+4
+Mendapatkan validasi eksplisit atas rumusan masalah bersama dan memperkuat kredibilitas serta kepercayaan narasumber.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Sabrina Aurelyn Sibarani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sabsibb.github.io/kipp-students/index.html
+- https://sabsibb.github.io/kipp-students/assets/logo.png
+- https://sabsibb.github.io/kipp-students/course/index.html
+- https://sabsibb.github.io/kipp-students/portfolio/index.html
+- https://sabsibb.github.io/kipp-students/examples/index.html
+- https://sabsibb.github.io/kipp-students/lk/index.html
+- https://sabsibb.github.io/kipp-students/slides.html
+- https://sabsibb.github.io/kipp-students/slides-pdf/index.html
+- https://sabsibb.github.io/kipp-students/assessment/index.html
+- https://sabsibb.github.io/kipp-students/about.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-01.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-06.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-07.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-08.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-09.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-10.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-11.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-12.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-13.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-14.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-15.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

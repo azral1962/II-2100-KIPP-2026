@@ -1,0 +1,97 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 790
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Minggu 4 — Five-Language Translation Portfolio
+PortfolioMinggu 4
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Indeks
+Five-Language Translation Portfolio
+Satu meaning untuk lima person atau character.
+Minggu 4
+Status Siap dinilai
+Self 19
+Assessor —
+Fondasi Language
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Konteks performance
+Tanggal dan setting: 18 Oktober 2026. Penyesuaian pengumuman persiapan praktikum minggu pertama mata kuliah Jaringan Komunikasi.
+Persons dan relationship: Beragam audiens yang berhubungan dengan persiapan lab jaringan.
+Objective dan initial state: Menyampaikan core meaning: “Semua praktikan harus mengubah password default akun server lab mereka paling lambat hari Jumat agar bisa mengikuti praktikum minggu depan.”
+Evidence
+Core Meaning: “Wajib ubah password default akun server lab via SSH sebelum hari Jumat.”
+Friend (Teman Seangkatan): “Eh Naufal, jangan lupa login SSH terus ganti password default akun lab Jarkom kamu sebelum Jumat ya, biar minggu depan bisa ikut praktikum.”
+Technical Peer (Rekan Asisten Lab): “Guys, pastikan semua script auto-generate akun praktikan udah ke-run sempurna. Tolong ingetin praktikan di kelas kalian buat force change password di shell sebelum Jumat.”
+Manager (Dosen Pembimbing Lab): “Pak, seluruh akun awal untuk praktikan di server lab sudah berhasil kami buat. Kami juga sudah menginstruksikan mereka untuk segera mengganti password default sebelum hari Jumat.”
+Customer (Mahasiswa Praktikan): “Halo teman-teman praktikan! Selamat datang di Lab Jaringan Komunikasi. Mohon segera masuk/login ke sistem dan ubah password default kalian paling lambat hari Jumat ini ya. Ini syarat wajib agar teman-teman bisa mengikuti modul awal minggu depan. Terima kasih!”
+Public (Sosmed Himpunan Mahasiswa): “⚠️ [INFO PRAKTIKUM JARKOM] ⚠️ Buat kamu yang ambil matkul Jarkom, jangan lupa ganti password default akun server lab kalian maksimal hari Jumat ini! Cek panduan login di link bio ya. #InfoJarkom #LabUpdate”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya menyesuaikan peran mulai dari teman biasa, rekan teknis (asisten), hingga pengumuman ramah untuk end-user (praktikan).
+Objective & state
+Target sadar akan kewajiban ganti password tanpa kebingungan teknis yang berlebih.
+Repertoire & language
+Kepada Technical Peer menggunakan jargon operasional (script, force change password, shell). Kepada Customer bahasanya lebih ramah, jelas, dan memotivasi.
+Response & adaptation
+Format dan sapaan pesan berbeda. Untuk Public, menggunakan emoji sebagai attention grabber.
+Agreement/action
+Pesan tersampaikan sesuai tingkat pemahaman target audiens.
+Relationship outcome
+Praktikan merasa disambut dengan baik, dan dosen merasa sistem sudah berjalan rapi.
+Penggunaan AI
+Menggunakan ChatGPT untuk meminta proofread versi Public dan Customer agar penyampaian kalimat lebih rapi dan empatik.
+Feedback dan tindak lanjut
+Feedback yang diterima: Dosen pembimbing membalas (Manager version): “Baik Agas, terima kasih. Pastikan ada panduan tertulis jika ada mahasiswa yang kebingungan cara login awal.”
+Adaptation/replay: Ke depan, saya akan langsung melampirkan link panduan singkat saat melaporkan hal teknis ke dosen maupun saat blast ke praktikan.
+Next practice: Melatih empati user-centric saat merancang pengumuman instruksi operasional.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima adaptasi peran terlihat jelas bedanya
+Objective & State
+4
+Inti pesan tetap terjaga (Ganti password sblm Jumat)
+Repertoire, Language & AI
+4
+Jargon disesuaikan dengan sangat baik
+Response & Adaptation
+3
+Feedback dosen divalidasi dan dicatat
+Agreement, Action & Relationship
+4
+Komunikasi berjalan efektif di semua lapisan
+Total skor self-assessment19/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-04.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,179 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 705
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map Journal
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Intra-Self Communication Journal
+Fondasi
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Konteks performance
+Tanggal dan setting: Kamis, 24 September 2026, 19:45–22:00 WIB; Workspace GitHub & kanal Discord tim proyek; Reviu Pull Request modul antrean transaksi & pembayaran.
+Persons dan relationship: Saya (pengembang modul backend) dan Rekan Peer Reviewer / Tech Lead tim (hubungan hierarkis fungsional sejajar dalam tim rekayasa perangkat lunak).
+Objective dan initial state: Menghentikan reaksi impulsif menolak koreksi teknis di ruang publik, lalu beralih memverifikasi latensi sistem secara empiris sebelum pukul 22:00 WIB. Initial state: detak jantung meningkat, rahang mengencang, dorongan kuat mengetik bantahan teknis bahwa reviewer tidak memahami pola arsitektur saya (fight reaction).
+Evidence
+Draft komentar balasan GitHub yang dibatalkan pada formulir input: “Logika ini sudah paling efisien untuk skenario sekarang. Kalau diubah pakai asynchronous worker malah nambah overengineering dan buang-buang waktu sprint.” (Dihapus sebelum dikirim). Digantikan tangkapan layar terminal hasil load testing k6 (50 VUs) dan commit refactoring d4e81a7. Kontribusi saya: menahan pengiriman balasan reaktif, menjalankan profiling benchmark lokal, merombak arsitektur ke bulk processing, dan menyajikan data faktual di thread PR.
+Dekonstruksi Elemen
+Event: Peer reviewer menandai baris kode commit saya di PR #14 dengan label Request Changes dan komentar: “Query transaction di loop ini blocking; tidak scalable kalau concurrent user tembus 50.”
+Fact: PR diberi status Request Changes; terdapat loop database query di baris 84–92; pengujian beban (load test) empiris di atas 30 concurrency memang belum pernah saya jalankan di lingkungan lokal.
+Story (Initial Reaction): “Dia meremehkan kompetensi teknis saya, sengaja memperlambat merge PR saya untuk menunjukkan pemahaman arsitekturnya lebih superior, dan menuntut optimasi prematur yang tidak realistis.”
+Emotion: Terancam, jengkel, tersinggung, defensif. Skala ketegangan tubuh: 8/10.
+Internal Character:
+The Code Protector: Karakter yang memandang kode sebagai kepemilikan pribadi/harga diri yang harus dibela mati-matian.
+The Systems Engineer: Karakter yang berpegang pada metrik empiris, stabilitas sistem, dan efisiensi waktu sprint.
+Alternative Narrative A (System Reality): “Komentar ini bukan tentang kredibilitas saya, melainkan kekhawatiran valid terhadap performa server saat sistem dipakai ramai-ramai. Reviewer bertindak sebagai jaring pengaman agar tim tidak begadang memperbaiki crash saat rilis.”
+Alternative Narrative B (Collaborative Calibration): “Reviewer mengidentifikasi potensi bottleneck yang saya lewatkan karena saya fokus pada fungsionalitas fitur. Ini peluang membuktikan reliabilitas sistem lewat data profiling konkret, bukan asumsi.”
+Internal Agreement:
+Menutup tab browser GitHub selama 15 menit.
+Tidak membalas komentar teks sebelum mengantongi data uji beban nyata (profiling benchmark).
+Jika pada concurrency 50 latensi > 500ms, saya lakukan refactoring. Jika di bawah 100ms, saya sertakan tangkapan layar benchmark secara netral.
+Action (Response):
+Pukul 20:30 WIB: Menjalankan skrip Apache Benchmark / k6 lokal dengan parameter 50 concurrent requests. Hasil: Latensi melonjak ke 1.420ms (terbukti blocking).
+Pukul 21:15 WIB: Mengubah arsitektur menjadi batch processing/bulk insert.
+Pukul 21:40 WIB: Menulis balasan terukur di PR: “Valid point. Hasil profiling 50 concurrent requests menunjukkan lonjakan latensi ke 1,4 detik karena blocking query. Sudah saya refactor ke bulk execution di commit d4e81a7. Latensi turun ke 84ms.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Muncul The Code Protector yang merasa tersinggung dan menganggap kritik kode sebagai serangan harga diri. Dinetralkan oleh The Systems Engineer yang menempatkan keandalan sistem dan metrik kuantitatif di atas pembelaan ego pribadi.
+Objective & state
+Berhasil meredakan ketegangan fisik (dari skala 8/10 menjadi 3/10) menggunakan jeda taktis 15 menit menjauh dari keyboard. Target respons berbasis data tercapai sebelum batas waktu 22:00 WIB.
+Repertoire & language
+Bahasa internal dialihkan dari tuduhan personal (“Dia sengaja memperlambat pekerjaan saya”) menjadi analisis masalah operasional (“Apakah query loop ini benar-benar blocking di atas 30 concurrency?”).
+Response & adaptation
+Mengganti dorongan berdebat panjang di kolom komentar PR menjadi pengujian beban langsung di terminal. Begitu latensi terbukti melonjak ke 1.420ms, saya mengakui celah arsitektur secara lugas tanpa dalih.
+Agreement/action
+Melaksanakan kesepakatan internal: tidak membalas sebelum ada data empiris, menyelesaikan refactoring bulk execution dalam 45 menit, dan melaporkan penurunan latensi ke 84ms di kolom komentar tepat pukul 21:40 WIB.
+Relationship outcome
+Reviewer memberikan approval dengan catatan: “Mitigasi cepat dan bukti ujinya jelas; PR approved.” Kolaborasi tim tetap terjaga solid tanpa friksi personal.
+Penggunaan AI
+Alat dan peran AI: Menggunakan AI (Gemini) sebagai alat bantu untuk cross-check draf argumen dan mengecek apakah reaksi saya terlalu defensif.
+Prompt atau instruksi penting: “Gua dapet komentar PR dari tech lead kayak gini: [komentar anonim]. Tolong pilihin mana bagian yang fakta teknis dan mana bagian yang kira-kira asumsi atau perasaan emosional gua sendiri.”
+Bagian output yang digunakan, diubah, atau ditolak:
+Digunakan: Saran AI untuk langsung pakai angka/benchmark waktu membalas komentar, daripada berdebat teori.
+Ditolak: AI sempat menyarankan buat bikin dokumen usulan arsitektur baru (RFC). Langkah ini saya tolak karena bikin tambah lama dan tidak realistis buat sisa waktu sprint.
+Pemeriksaan accuracy, privacy, dan authority: Kode, nama tim, dan variabel sensitif disamarkan/dibuat generik saat dimasukkan ke prompt. Semua keputusan perbaikan kode dan uji beban tetap dilakukan secara langsung di mesin lokal.
+Apa yang tetap Anda pelajari sebagai manusia: AI cuma bantu menyaring kalimat, tapi kesadaran untuk nahan emosi dan mau ngakuin kesalahan di kode sendiri tetap keputusan dari diri sendiri.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rekan tim menyampaikan melalui chat Discord: “Pendekatan solusinya rapi, langsung ada data pembanding sebelum dan sesudah refactor.”
+Adaptation/replay: Jika situasi serupa berulang, saya akan menyertakan metrik uji performa langsung pada deskripsi awal PR sebelum meminta reviu dari rekan tim.
+Next practice: Menerapkan protokol jeda 15 menit dan verifikasi data mandiri sebelum merespons komentar berstatus Request Changes.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Pemisahan tegas antara ego Code Protector dan integritas teknis Systems Engineer.
+Objective & State
+4
+State awal tegang berhasil ditenangkan penuh lewat jeda 15 menit; objective verifikasi empiris dan refactoring tercapai sebelum tenggat.
+Repertoire, Language & AI
+4
+Dialog internal berbasis verifikasi data; AI digunakan secara wajar untuk menyaring bias emosional tanpa menyerahkan keputusan teknis.
+Response & Adaptation
+4
+Menggeser reaksi defensif menjadi pembuktian empiris dan perbaikan kode nyata.
+Agreement, Action & Relationship
+3
+Komitmen internal tereksekusi tepat waktu; PR disetujui tanpa merusak hubungan kerja tim.
+Total: 19 / 20
+Kembali ke atas
+Character Map Journal
+Relationship Conversation
+Portfolio KIPP-2 · Dimas Nurizki Falah
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://dimasrizkk.github.io/kipp-students/index.html
+- https://dimasrizkk.github.io/kipp-students/assets/logo.png
+- https://dimasrizkk.github.io/kipp-students/course/index.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/index.html
+- https://dimasrizkk.github.io/kipp-students/examples/index.html
+- https://dimasrizkk.github.io/kipp-students/assessment/index.html
+- https://dimasrizkk.github.io/kipp-students/about.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-03.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-04.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-05.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-06.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-07.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-08.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-09.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-10.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-11.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-12.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-13.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-14.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-15.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#intra-self-communication-journal
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#fondasi
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

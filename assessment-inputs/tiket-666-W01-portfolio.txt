@@ -1,0 +1,197 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 666
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — reflective learner
+Diri sendiri saat evaluasi tugas
+Memisahkan kegagalan hasil kerja dari identitas diri
+Self-talk positif, evaluasi logis; “Apa yang bisa diperbaiki di masa depan?”
+Perfeksionisme berlebih; latihan jeda ambil napas sebelum mengevaluasi diri.
+Family/Friends — anak, kakak, sahabat
+Orang tua, Adik, Sahabat
+Memberikan ruang aman emosional dan dukungan
+Listening, empati, nada kasual; “Kamu lagi mau didengerin atau mau cari solusi?”
+Terlalu cepat memberi solusi; latihan diam 3 menit pertama.
+Work — mahasiswa, anggota kepanitiaan
+Rekan satu panitia, Dosen
+Menyelaraskan pembagian kerja dan memastikan tenggat tercapai
+Asertif, bertanya hambatan, check-in; “Kira-kira bagian ini realistis selesai kapan?”
+Terdengar pasif atau bossy; latihan konfirmasi ulang kesepakatan.
+Community — mentor
+Mentee
+Membangun kepercayaan diri dan pemahaman konsep mentee
+Analogi sederhana, dorongan, paraphrase; “Maksud kamu seperti ini, bukan?”
+Terlalu dominan berbicara; pancing mentee dengan pertanyaan terbuka.
+Public — anggota masyarakat
+Publik luas / pengguna media sosial
+Berkontribusi dan menyampaikan opini dengan beradab
+Bahasa sopan, objektif, tidak emosional.
+Terpancing argumen tidak sehat; latihan saring sebelum sharing.
+Konteks performance
+Tanggal dan setting: September 2026, koordinasi via grup chat (WhatsApp) dan Google Drive dalam rangka persiapan proyek kepanitiaan.
+Persons dan relationship: Pel (saya, sebagai Koordinator Acara/Staf Proyek) dan Rekan (Rekan satu divisi di kepanitiaan).
+Objective dan initial state: - Objective: Beralih dari komunikasi yang menghakimi/menyalahkan menjadi pencarian akar masalah agar data segera terkumpul, sambil menjaga hubungan profesional kerja. - Initial state: Rekan terlambat menyerahkan bagian riset datanya dan dokumen belum diunggah ke shared folder pada jam yang disepakati. Terdapat asumsi internal awal di kepala saya bahwa ia “kurang berkomitmen”, namun saya menahan asumsi tersebut.
+Evidence
+Transkrip Chat Koordinasi: > Pel: “Halo, aku cek di Drive laporannya belum masuk ya. Boleh di-share apa ada kendala teknis atau butuh bantuan?” > Rekan: “Maaf banget, aku lagi ada kuis mendadak jadi belum sempat rapihin datanya.” > Pel: “Oke, berarti kendalanya di waktu ya. Datanya sendiri kira-kira sudah berapa persen terkumpul?” > Rekan: “Udah 80% sih, tinggal formatting aja.” > Pel: “Gimana kalau kamu drop raw datanya sekarang, nanti aku bantu format biar kita tetap on track?”
+(Kontribusi saya adalah memprakarsai percakapan tanpa menuduh, mengidentifikasi akar masalah, dan menawarkan solusi kolaboratif).
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya memposisikan diri dalam karakter “Anggota Kepanitiaan” yang berorientasi pada penyelesaian proyek bersama, bukan sekadar teman yang memaklumi tanpa solusi.
+Objective & state
+Berhasil mengubah state macetnya pengumpulan tugas karena alasan kuis mendadak, menjadi kesepakatan kolaborasi penyelesaian format data.
+Repertoire & language
+Saya menggunakan repertoire “bertanya hambatan” dengan bahasa semi-formal yang tetap suportif (“Boleh di-share apa ada kendala teknis…”). Berbeda dengan bahasa sebagai Sahabat yang mungkin akan fokus ke validasi lelahnya kuis.
+Response & adaptation
+Saat Rekan merespons hambatan utamanya adalah waktu karena kuis, saya beradaptasi dari sekadar menagih tugas, beralih menawarkan bantuan konkret (merapikan format data mentah).
+Agreement/action
+Kesepakatan tercapai dengan cepat: Rekan segera menyerahkan data 80% miliknya, dan saya mengambil alih tindakan formatting. Proyek kembali berjalan lancar.
+Relationship outcome
+Relasi kerja tetap profesional dan terawat. Rekan merasa terbantu di saat darurat (kuis), dan tidak ada rasa saling menyalahkan yang bisa merusak kerja sama tim ke depannya.
+Penggunaan AI
+Saya menggunakan AI (Gemini) untuk membantu menstrukturisasi penyampaian cerita, membetulkan format tabel dan markdown agar sesuai dengan kriteria yang diminta oleh panduan, serta mengecek tata bahasa. Keseluruhan analisis peran, refleksi problem-solver, dan contoh percakapan tetap berasal dari evaluasi dan pengalaman nyata saya sendiri.
+Feedback dan tindak lanjut
+Feedback yang diterima: Respons Rekan yang kooperatif dan langsung memberikan data mentahnya membuktikan bahwa tawaran kolaboratif lebih efektif daripada instruksi yang menekan.
+Adaptation/replay: Saya menahan dorongan kepribadian problem-solver yang biasanya ingin marah/menyimpulkan prematur, dan mengubahnya dengan memberikan pertanyaan terbuka mengenai hambatan teknis.
+Next practice: Saat ada rekan atau orang terdekat yang melakukan kesalahan atau keterlambatan, saya akan menahan diri untuk tidak langsung mengambil asumsi negatif/labeling. Setidaknya saya akan memberikan ruang jeda (bertanya tentang hambatan nyata) sebelum mengambil kesimpulan atau memberikan teguran.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Person, relationship, dan character dipetakan dengan jernih untuk ke-5 domain kehidupan.
+Objective & State
+3
+State awal yang berasumsi berhasil diubah menuju state penyelesaian masalah.
+Repertoire, Language & AI
+3
+Perbedaan language antar character disesuaikan secara jelas dan relevan dengan tanggung jawabnya.
+Response & Adaptation
+4
+Sangat adaptif dari instruksi menagih menjadi tawaran kolaborasi setelah mendengar masalah.
+Agreement, Action & Relationship
+3
+Kesepakatan peran baru (formatting) tercapai tanpa merusak rasa saling menghargai.
+Total: 17 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-01.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,298 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 650
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Tahap awal: 27 September 2026, tiga percakapan terpisah lewat chat WhatsApp (T, D, H). Tahap revisi setelah asesmen: 5 Oktober 2026, dua percakapan WhatsApp tambahan (J dan A).
+Persons dan relationship:
+T — teman satu kuliah, mahasiswa Fakultas Kedokteran Gigi (FKG). Dipilih untuk versi Friend karena bidangnya jauh dari IT.
+D — teman sejurusan Sistem dan Teknologi Informasi. Dipilih untuk versi Technical peer karena punya latar belakang teknis yang setara untuk menilai presisi istilah.
+H — teman SMA, sekarang kuliah Manajemen di universitas berbeda. Diminta roleplay sebagai manajer untuk versi Manager. Karena H memang berlatar belakang manajemen, responsnya dinilai sebagai kecocokan register dengan cara berpikir bisnis, bukan bukti bahwa versi ini bisa mengubah pola pikir orang yang benar-benar awam bisnis.
+J — teman, mahasiswa non-IT. Dipilih untuk versi Customer karena memakai aplikasi sehari-hari sebagai pengguna, bukan dari bidang IT. J menjawab sebagai dirinya sendiri, bukan roleplay.
+A — orang tua, non-IT. Dipilih untuk versi Public karena diperkirakan benar-benar awam teknologi. Semua balasan A di tahap revisi berstatus teks berlabel AI (lihat Evidence 5 dan Batas evidence), sehingga profil A di bawah belum terverifikasi.
+Objective dan initial state:
+Objective: menyampaikan makna inti API dalam lima ragam bahasa tanpa mengubah core meaning, lalu memverifikasi pemahaman lewat target nyata untuk sebanyak mungkin ragam.
+Initial state per target:
+Target
+Initial state
+Cara diperoleh
+T
+Bidang jauh dari IT; pengetahuan awal tentang API tidak diukur
+Tidak diukur sebelum pesan dikirim
+D
+Sejurusan STI, dipakai untuk uji presisi istilah, bukan uji pemahaman awam
+Tidak diukur
+H
+Latar belakang manajemen, bukan teknis
+Tidak diukur
+J
+Sudah mengenal API secara garis besar (“penghubung atau jembatan antar aplikasi”, contoh “Login dengan Google”). Awalnya mengira “API” adalah api untuk memasak
+Ditanyakan sebelum versi dikirim (Evidence 4)
+A
+Menurut balasannya: belum mengenal API dalam arti teknologi, memakai dompet digital untuk isi pulsa dan bayar token listrik
+Ditanyakan sebelum versi dikirim, tetapi balasannya berlabel AI (Evidence 5)
+Karena J sudah paham API sejak awal, hasil tes J menguji kejelasan saran dan reaksi terhadap kata “jembatan (API)”, bukan pembelajaran konsep.
+Core meaning yang tidak boleh berubah, dipecah menjadi tiga klaim:
+K1: API menghubungkan dua sistem atau aplikasi yang berbeda.
+K2: Penghubungan itu memungkinkan keduanya bertukar data dan bekerja sama.
+K3: Salah satu pihak tidak perlu mengetahui cara kerja internal pihak lainnya.
+Pengecekan tiap versi terhadap tiga klaim ini ada di bagian Analisis komunikasi.
+Evidence
+Lima versi di bawah ditulis dari core meaning yang sama. Pengujian: Friend ke T (orang sungguhan), Technical peer ke D (orang sungguhan), Manager ke H (roleplay), Customer ke J (orang sungguhan, Evidence 4), dan Public ke A (respons berlabel AI, Evidence 5). Transkrip percakapan ada setelah tabel.
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda. Jadi satu aplikasi nggak perlu tau isi dalem aplikasi satunya, cukup ‘minta tolong’ lewat si perantara ini. Itu keajaiban di balik hampir semua app yang lo pake sehari-hari.”
+Analogi dari pengalaman sehari-hari, tanpa istilah teknis, agar terasa ngobrol bukan menggurui
+Technical peer
+“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”
+Presisi istilah dan parameter standar industri untuk audiens yang menuntut akurasi teknis. Versi ini menggambarkan web API, bukan semua jenis API
+Manager
+“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”
+Fokus pada value, biaya, dan risiko bisnis, bukan mekanisme teknis
+Customer/student user (versi revisi pra-uji)
+“Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, salah satu kemungkinan penyebabnya adalah gangguan di ‘jembatan’ (API) yang menghubungkan aplikasi itu ke sistem pembayaran. Cek dulu apakah saldomu sempat terpotong. Kalau belum, tunggu beberapa menit lalu coba lagi; kalau sudah terpotong atau masih gagal, lapor ke help desk aplikasi tersebut.”
+Menjelaskan dampak konkret dan tindakan yang harus diambil, tanpa perlu memahami istilah “API” secara mendalam. Direvisi sebelum diuji (lihat di bawah tabel)
+Public
+“Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada ‘jembatan penghubung’ (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir.”
+Menghubungkan konsep ke keamanan dan kemudahan hidup sehari-hari, bahasa inklusif untuk audiens heterogen. Tidak diubah di tahap revisi karena belum ada bukti non-AI bahwa ada bagian yang membingungkan
+Revisi pra-uji versi Customer (5 Oktober 2026). Sebelum dikirim ke J, saya merevisi versi awal karena dua kalimatnya terlalu pasti dan berisiko bagi pembaca nyata.
+Versi awal (27 September 2026): “Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di ‘jembatan’ (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut.”
+Alasan revisi: “biasanya bukan aplikasinya yang rusak” mengklaim penyebab secara pasti padahal penyebab bisa beragam; “tunggu lalu ulangi” bisa berujung membayar dua kali bila saldo sempat terpotong.
+Perubahan: klaim penyebab dilunakkan menjadi “salah satu kemungkinan”, ditambah langkah “cek dulu apakah saldomu sempat terpotong”, dan lapor ke help desk juga bila saldo sudah terpotong.
+Uji understanding: transkrip lima percakapan WhatsApp, ditulis ulang apa adanya dari screenshot asli (27 September 2026 untuk T, D, H; 5 Oktober 2026 untuk J dan A). Waktu dicantumkan hanya bila terlihat di screenshot; […] menandai bagian pesan yang tertutup jendela lain atau terpotong pada screenshot; emoji ditulis sebagai teks dalam kurung siku.
+1. T (versi Friend) — teach-back: respons awal T hanya “Iya paham”, jadi saya meminta T menjelaskan ulang dengan kata-kata sendiri.
+Saya: Eh boleh minta tolong bentar? Gue lagi ngerjain tugas kuliah, disuruh jelasin konsep IT ke orang yang bukan anak IT. Coba baca ini, terus jujur aja kalo ada yang bikin bingung ya:
+“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda. Jadi satu aplikasi nggak perlu tau isi dalem aplikasi satunya, cukup ‘minta tolong’ lewat si perantara ini. Itu keajaiban di balik hampir semua app yang lo pake sehari-hari.”
+Nah abis baca itu, lo ngerti API ngapain gak? Kalo ada bagian yang blur/bingung, bilang aja santai, […] [emoji: tangan berdoa]
+T (8:57 pm): Iya paham
+Saya: Eh mantap! Btw buat lengkapin tugas gue, boleh minta tolong satu lagi? Coba jelasin balik ke gue p[…] fungsinya buat apa sih (versi simpelnya aja, nggak usah teknis)? Ini biar gue bisa buktiin lo benera[…] wkwk
+T (9:02 pm): Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin
+2. D (versi Technical peer) — teach-back dan cek presisi: D menjelaskan ulang dengan kata-kata sendiri. Pertanyaan saya soal istilah yang kurang presisi tidak dijawab secara eksplisit: D hanya meminta konfirmasi lewat “gitu kan?” dan tidak menandai istilah apa pun.
+Saya (11:38 am): Bro/sis, boleh bantu tes sebentar buat tugas komunikasi gue? Baca penjelasan teknis ini terus jelasin balik pake kata-kata lo sendiri ya (bukan diulang persis):
+“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”
+Setelah itu, kasih tau juga: ada istilah yang menurut lo kurang pas atau kurang presisi gak? Penting buat validasi tugas gue nih [emoji: tangan berdoa]
+D (11:40 am): Siap, Nih penjelasan versi gue:
+API itu ibarat perantara atau “pintu masuk” yang menghubungkan aplikasi (client) sama server lewat protokol internet (HTTP/HTTPS). Client bisa minta data, ngirim data baru, ngupdate, atau menghapus data pake metode standar (GET, POST, PUT, DELETE). Data yang dipertukarkan biasanya dibungkus rapi dalam format JSON atau XML. Supaya aman dan gak berantakan, aksesnya dilindungi sistem kunci (API Key/OAuth 2.0) serta dibatasi jumlah pemanggilannya biar server gak overload (rate limiting).
+D (11:40 am): gitu kan?
+Saya: iya bener
+3. H (versi Manager) — reaksi roleplay: H diminta roleplay sebagai manajer/pengambil keputusan bisnis dan bereaksi atas versi Manager.
+Saya: Boleh bantu roleplay bentar buat tugas kuliah gue? Anggap posisi kamu manajer/pengambil keputusan bisnis yang gak pah[…] Baca ini terus kasih reaksi kamu kayak beneran lagi dengerin laporan kerja:
+“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”
+Kira-kira dari posisi manajer, keputusan/pertanyaan apa yang bakal kamu ajukan setelah denger ini? Jawab santai aja sesua[…] kamu, ini beneran kepake buat tugas gue [emoji: tangan berdoa]
+H (11:43 am): “Wah, dapet banget poinnya! Dari kacamata bisnis, ini artinya kita nggak cuma jualan produk akhir, tapi juga monetisasi infrastruktur kita sendiri biar time-to-market makin kencang dan kran revenue baru terbuka lewat mitra.
+Terkait risiko keamanan data, itu emang pertimbangan utama. Tapi dari sisi business decision, dampaknya justru ke cost-benefit analysis: anggaran keamanan yang kita keluarkan bakal sebanding sama potensi liability dan loss of trust kalau sampai bocor. Jadi keamanannya kita hitung sebagai bentuk investasi risiko (risk mitigation cost), bukan sekadar beban teknis.
+Langkah selanjutnya tinggal matengin model monetisasinya (apakah pay-per-call, subscription, atau revenue sharing) dan nentuin risk appetite perusahaan.”
+4. J (versi Customer) — kondisi awal, lalu uji versi revisi (5 Oktober 2026): J menjawab sebagai dirinya sendiri, bukan roleplay. Kondisi awal ditanyakan lebih dulu, sebelum J membaca versi apa pun.
+Saya (3:02 pm): Eh boleh minta tolong sebentar buat tugas kuliah? Pertanyaan dulu ya: kamu pernah denger istilah “API” di aplikasi atau teknologi? Kalau pernah, menurutmu artinya apa? Jawab sejujurnya aja, nggak ada yang benar atau salah [emoji: tangan berdoa]
+J (3:03 pm): Pernah sih, beberapa kali dengar pas lagi buka pengaturan aplikasi atau pas baca artikel teknologi di internet. Jujur sebagai anak non-IT, awal-awal dengar kata API itu langsung mikirnya ke api yang panas buat masak. Tapi kalau dalam konteks teknologi atau aplikasi, setahu aku API itu semacam penghubung atau jembatan antar aplikasi. Jadi, dia itu sistem yang bikin satu aplikasi bisa “ngobrol” dan kerja sama dengan aplikasi lainnya secara otomatis. Contoh gampangnya yang sering aku lihat itu kayak fitur “Login dengan Google” di Spotify atau aplikasi belanja. Kita nggak perlu bikin akun baru dari nol, karena aplikasi itu bisa langsung ngambil data nama atau email kita dari Google lewat sistem API itu. Kurang lebih begitu sih pemahaman aku yang awam ini,
+5. A (versi Public) — respons berlabel AI. Seluruh balasan A di bawah dicatat sebagai teks yang disusun AI, bukan sebagai bukti pemahaman A secara langsung. Alasannya: balasan ketiga dimulai dengan kalimat khas asisten AI (“Berikut balasan yang natural dan pas dengan karakter”Bapak”…“), dan balasan itu menyebut”tebakan Bapak kemarin” padahal tebakan tersebut muncul pada hari yang sama. Saya tidak tahu apakah A mengetiknya sendiri, dibantu orang lain, atau memakai aplikasi AI, dan saya tidak menanyakannya lebih lanjut kepada A agar tidak merepotkan beliau. Karena balasan pertama dan kedua memiliki ciri serupa (sapaan “Le/Nduk” sekaligus, balasan kedua dibungkus tanda kutip, dan rujukan “ceritamu tadi” yang tidak ada di chat), kondisi awal A juga diberi label yang sama.
+Saya (3:19 pm): Eh boleh minta tolong sebentar buat tugas kuliah? Pertanyaan dulu ya: kamu pernah denger istilah “API” di aplikasi atau teknologi? Kalau pernah, menurutmu artinya apa? Jawab sejujurnya aja, nggak ada yang benar atau salah [emoji: tangan berdoa]
+A (3:24 pm): Walah, kalau denger kata API sih ya tiap hari Bapak lihat di bengkel atau pas ronda malam buat nyalain api unggun, Le/Nduk. Tapi kalau di dalam HP atau teknologi, jujur Bapak baru denger ini. Gak paham blas kalau soal singkatan-singkatan komputer begitu. Tapi kalau boleh Bapak tebak-tebak buah manggis dari ceritamu tadi, API itu mungkin kayak mandor proyek atau calo pasar di dalam HP ya? Maksudnya begini, kalau Bapak mau beli semen di toko bangunan tapi gak punya mobil, kan ada calo atau mandor yang ngaturin. Dia yang pesenin ke sopir truk, dia yang mastiin barangnya nyampe ke rumah Bapak dengan pas. Bapak gak perlu kenal sama sopir truknya, yang penting urusan beres lewat si mandor itu. Nah, mungkin API di HP itu juga begitu. Dia yang jadi makelar di belakang layar yang ngubungin satu aplikasi ke aplikasi lain biar kerjanya cepet dan gak repot. Ya namanya juga tebakan orang tua umur 50-an yang cuma tahu pakai HP buat WhatsApp-an sama lihat Facebook, pasti banyak salahnya.
+Saya (3:52 pm): Makasih ya, Pak, jawabannya menarik banget. Satu lagi sebelum lanjut: Bapak biasanya pakai ojek online atau dompet digital (GoPay, OVO, DANA, dan sejenisnya) nggak? Kalau iya, biasanya buat apa?
+A (3:55 pm): “Wah kalau itu Bapak pernah dan lumayan sering pakai, Le/Nduk. Biasanya dompet digital kayak GoPay atau DANA itu Bapak pakai buat isi pulsa HP, bayar token listrik bulanan, sama kadang dikirim uang jajan sama anak. Kalau ojek online jarang naik sih, paling sesekali kalau motor Bapak lagi masuk bengkel atau pas disuruh Ibu pesan makanan online.”
+Saya (3:58 pm): […] Habis baca, tolong jawab pakai kata-kata Bapak sendiri ya, nggak usah cari di internet atau tanya orang lain: (a) Inti tulisan ini apa menurut Bapak? (b) “Jembatan penghubung (API)” di situ maksudnya apa? (c) Habis baca ini, ada yang bakal Bapak cek atau lakukan di HP? Kalau ada kata yang kurang jelas, bilang aja ya, Pak. Boleh dijawab lewat voice note juga
+A (4:01 pm): Berikut balasan yang natural dan pas dengan karakter “Bapak” (ramah, menggunakan analogi sederhana, dan santai):Siap, Le/Nduk. Bapak coba jawab sejelasnya dari tangkapan orang tua ya: a. Inti tulisannya:Ingatin kita supaya gak sembarangan kasih izin ke aplikasi di HP. Soalnya aplikasi itu bisa saling terhubung, jadi kalau asal kasih izin ke aplikasi yang gak jelas, data pribadi kita bisa bahaya atau bocor. b. Maksud “Jembatan penghubung (API)”: Ya mirip kayak tebakan Bapak kemarin, ini kayak perantara atau “mandor”-nya. Dia yang nyambungin aplikasi ojek sama aplikasi dompet digital biar bisa saling kirim data dengan aman, jadi pas bayar tinggal sekali klik dan gak perlu repot pindah-pindah aplikasi. c. Yang bakal Bapak lakukan di HP:Bapak bakal lebih hati-hati. Nanti kalau ada aplikasi yang munculin tombol minta izin akses ini-itu, Bapak gak mau asal main pencet “Setuju” lagi. Sama nanti mau minta tolong anak Bapak buat ngecek HP, kira-kira ada aplikasi aneh yang minta izin gak jelas atau enggak.Kira-kira begitu menurut pemahaman Bapak, mudah-mudahan bener ya he he.
+Kontribusi saya: memilih kelima target berdasarkan relevansi profil masing-masing, menyusun dan mengirim pesan uji, meminta teach-back tambahan ke T, merevisi versi Customer sebelum diuji, menanyakan kondisi awal J dan A sebelum mengirim versi, memeriksa keaslian balasan A, dan menilai jenis evidence yang dihasilkan tiap respons. Draf pesan uji dan usulan revisi versi Customer disusun dengan bantuan Claude (lihat Penggunaan AI).
+Analisis komunikasi
+Pengecekan core meaning per versi. Tiga klaim (K1 menghubungkan dua sistem berbeda; K2 memungkinkan tukar data dan kerja sama; K3 pihak lain tidak perlu tahu isi dalam) dicek terhadap setiap versi.
+Versi
+K1
+K2
+K3
+Catatan
+Friend
+Ya
+Ketiganya eksplisit lewat analogi “perantara” dan “nggak perlu tau isi dalem”
+Technical peer
+Ya
+Tersirat
+K3 hanya lewat istilah “lapisan abstraksi”; versi ini menggambarkan web API (HTTP), bukan semua jenis API
+Manager
+Tersirat
+Tidak
+Sengaja: manajer butuh nilai, biaya, dan risiko; K1 dan K2 muncul sebagai “integrasi” mitra eksternal
+Customer
+Ya
+Tersirat
+Tidak
+Sengaja: pembaca butuh tahu apa yang harus dilakukan saat pembayaran gagal, bukan cara kerja internal
+Public
+Ya
+Tidak
+Sengaja: fokus pada kemudahan dan keamanan data, bukan mekanisme internal
+Pada Manager, Customer, dan Public, K3 tidak dimuat sebagai pilihan sadar karena audiensnya tidak membutuhkannya untuk bertindak. Inti K1 tetap ada di semua versi, jadi core meaning tidak berubah.
+Elemen
+Evidence dan analisis
+Person & character
+Lima audiens dipetakan dengan profil dan kondisi awal masing-masing: T (non-IT, butuh analogi), D (sejurusan, butuh presisi), H (manajemen, butuh kerangka bisnis), J (non-IT, pengguna aplikasi, sudah mengenal API secara garis besar), A (orang tua, diperkirakan awam, tetapi balasannya berlabel AI). T, D, dan J adalah orang sungguhan; H roleplay.
+Objective & state
+Core meaning dipecah menjadi tiga klaim dan dicek per versi (tabel di atas). Kondisi awal J dan A ditanyakan sebelum versi dikirim. Kondisi awal J nyata dan menunjukkan ia sudah paham API; kondisi awal A tidak bisa diandalkan karena berlabel AI. Kondisi awal T, D, dan H pada tahap awal tidak diukur.
+Repertoire & language
+Register berbeda kontras: analogi sehari-hari (Friend), istilah presisi industri (Technical peer), kerangka biaya-risiko-revenue (Manager), langkah tindakan konkret (Customer), dan keamanan serta kemudahan sehari-hari (Public). Tiga di antaranya dikonfirmasi cocok oleh T, D, dan H tanpa koreksi besar.
+Response & adaptation
+Adaptasi nyata terjadi pada T: jawaban “Iya paham” memicu teach-back tambahan. Versi Customer direvisi sebelum diuji, tetapi pemicunya adalah peninjauan risiko isi (klaim terlalu pasti, risiko bayar dobel), bukan respons target. Respons J terhadap versi revisi dicatat di Evidence 4; pada saat halaman ini disusun belum ada putaran perbaikan setelah respons J, sehingga tidak ada adaptasi tambahan yang diklaim dari J. Pada Public tidak ada putaran adaptasi, karena respons A berlabel AI dan tidak menunjukkan kebingungan nyata. D dan H menjadi evidence validasi kualitas draf, bukan evidence proses adaptasi.
+Agreement/action
+H sampai ke tahap mempertimbangkan langkah lanjutan (model monetisasi, risk appetite), tetapi ini roleplay. Tindakan yang J sebut seandainya pembayaran gagal terjadi padanya, beserta penilaiannya atas saran di versi Customer, dicatat di Evidence 4; bukti ini nyata tetapi terbatas pada satu orang yang sudah paham API. Tindakan yang disebut dalam balasan A (“lebih hati-hati memberi izin akses”) tidak dihitung karena berlabel AI.
+Relationship outcome
+Percakapan dengan T, D, H, dan J berlangsung santai dan kooperatif. Setelah balasan A terdeteksi bercirikan AI, saya memutuskan tidak meminta A mengulang lewat voice note demi menjaga kenyamanan beliau, dan menandai bagian itu sebagai belum teruji.
+Batas evidence:
+Public: satu-satunya respons untuk versi Public (A) berlabel AI. Ia hanya menunjukkan bahwa versi Public terbaca jelas oleh model bahasa dengan persona “orang tua awam”, bukan bukti bahwa orang awam sungguhan memahaminya. Versi Public berstatus belum teruji ke orang awam sungguhan.
+Customer: J sudah mengenal API sejak awal, jadi tes J menguji kejelasan saran dan reaksi terhadap kata “jembatan (API)”, bukan apakah konsep dapat dipahami orang yang belum mengenalnya. Hanya satu orang untuk audiens ini.
+Manager: H memiliki latar belakang manajemen dan hanya roleplay, sehingga responsnya sebagian dipengaruhi latar pendidikan dan bukan keputusan bisnis nyata.
+Technical peer: D sesama mahasiswa STI, sehingga validasinya soal presisi istilah, bukan keterpahaman orang awam. D tidak menjawab secara eksplisit pertanyaan tentang istilah yang kurang presisi.
+Percobaan A: percobaan lewat WhatsApp menghasilkan balasan yang memuat kalimat pembuka khas asisten AI, sehingga tidak dihitung sebagai respons A sendiri. Pelajaran: evidence lewat chat perlu diverifikasi keasliannya, terutama bila penerima bisa dibantu aplikasi atau orang lain.
+Catatan dosen: menurut penyampaian dosen kepada saya, percakapan dengan AI diperbolehkan dalam latihan ini, sehingga respons A tetap dicantumkan dengan label yang jelas.
+Penggunaan AI
+Alat dan peran AI: Claude (Anthropic). Tahap awal: menjelaskan tugas
+Prompt atau instruksi penting: jelaskan ke pada ku tugas ini.
+Bagian output yang digunakan, diubah, atau ditolak: Digunakan: draf lima versi, pesan uji, skrip pesan kondisi awal untuk J dan A, dan usulan revisi versi Customer (menambah langkah cek saldo dan melunakkan klaim penyebab). Diubah: skor Person & Character dan Response & Adaptation diperbarui mengikuti evidence terbaru; pecahan core meaning menjadi tiga klaim; catatan analisis membedakan evidence “adaptasi” (T) dari evidence “validasi” (D, H). Dikeluarkan dari status evidence langsung: balasan A. Awalnya saya menganggap balasan A sebagai respons A sendiri; setelah pemeriksaan, kalimat pembuka khas AI membuat saya mencatatnya sebagai teks berlabel AI, tanpa mengubah satu kata pun dari isinya.
+Pemeriksaan accuracy, privacy, dan authority: Accuracy: pesan dan respons T, D, H, J, dan A ditranskrip apa adanya dari screenshot, tidak dihaluskan, termasuk kalimat pembuka AI pada balasan A. Privacy: semua target hanya disebut dengan inisial dan relasi/profil umum. Authority: keputusan skor akhir dan interpretasi evidence tetap ada pada saya, bukan pada AI.
+Apa yang tetap dipelajari sebagai manusia: Latar belakang penerima memengaruhi seberapa “berhasil” sebuah versi bahasa terlihat (jurusan H, pengetahuan awal J), sehingga evidence yang baik perlu menyebutkan konteks penerima. Saya juga belajar bahwa evidence lewat chat perlu dicek keasliannya, dan bahwa kondisi awal target harus ditanyakan sebelum versi dikirim, bukan sesudahnya.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+T: awalnya “iya paham”, lalu lewat teach-back menjelaskan API sebagai penghubung dua sistem independen.
+D: menjelaskan ulang mekanisme API (client-server, HTTP, method CRUD, format data, autentikasi, rate limiting) secara akurat tanpa koreksi.
+H: mengevaluasi API sebagai peluang monetisasi dan mempertimbangkan risk mitigation cost serta langkah bisnis lanjutan.
+J: jawaban atas pertanyaan kondisi awal dan atas versi Customer revisi dicatat di Evidence 4.
+A: tidak dihitung sebagai feedback langsung karena berlabel AI. Isinya hanya menunjukkan versi Public terbaca jelas oleh model bahasa.
+Adaptation/replay:
+T: saya menambah langkah teach-back karena jawaban awal terlalu singkat untuk dijadikan bukti.
+Customer: versi direvisi sebelum diuji (versi awal → revisi, alasan, dan perubahan ada di bawah tabel Evidence). Hasil pengiriman versi revisi ke J dicatat di Evidence 4; belum ada putaran perbaikan setelahnya.
+Public: tidak ada revisi. Satu-satunya respons berlabel AI dan tidak menunjukkan kebingungan nyata, jadi saya tidak mengubah versi tanpa bukti. J dan A sama-sama awalnya mengira “API” sebagai api sungguhan; versi Public menempatkan istilah “API” dalam kurung setelah konsepnya dijelaskan, dan akan dievaluasi ulang bila penguji lisan juga tersandung di kata itu.
+D dan H: tidak ada revisi karena respons keduanya sudah menunjukkan pemahaman akurat sesuai register masing-masing.
+Next practice:
+Menguji versi Public secara lisan ke orang awam teknologi yang bisa ditemui langsung, dengan kondisi awal ditanyakan lebih dulu dan jawaban dicatat sendiri.
+Menguji versi Manager ke satu pengambil keputusan nyata (ketua organisasi, kakak tingkat, atau dosen), bukan roleplay.
+Menanyakan lagi ke D dengan pertanyaan lebih sempit, misalnya apakah versi teknis hanya cocok untuk web/REST API atau API secara umum.
+Menetapkan core meaning dan menanyakan kondisi awal target sebelum mengirim versi apa pun.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima audiens dipetakan dengan profil dan kondisi awal berbeda; T, D, dan J orang sungguhan, H roleplay, A berlabel AI
+Objective & State
+3
+Core meaning dipecah menjadi tiga klaim dan dicek per versi; kondisi awal J terdokumentasi, tetapi kondisi awal A tidak terverifikasi dan T, D, H tidak diukur
+Repertoire, Language & AI
+4
+Lima repertoire berbeda dengan rationale eksplisit; peran AI dan teks berlabel AI didokumentasikan apa adanya
+Response & Adaptation
+3
+Teach-back dengan T membuktikan adaptasi nyata; revisi Customer dipicu peninjauan isi, bukan respons target; tidak ada putaran adaptasi pada Public
+Agreement, Action & Relationship
+3
+Respons H menunjukkan pemikiran berorientasi keputusan, tetapi roleplay; tindakan A tidak dihitung karena berlabel AI
+Total: 17 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

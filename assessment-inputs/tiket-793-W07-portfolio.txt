@@ -1,0 +1,157 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 793
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://minei114.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Attention evidence dan solution hypothesis
+Interest pitch dan demonstration
+Hidden concern dan adaptation
+Evidence, AI, dan feedback
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Attention evidence dan solution hypothesis
+Dalam salah satu kepanitiaan, saya mengamati bahwa beberapa anggota beberapa kali menanyakan hal yang sebenarnya sama kepada koordinator, terutama terkait alur tugas, deadline, dan teknis pelaksanaan. Pertanyaan tersebut biasanya dijawab secara personal atau melalui grup, tetapi informasi yang sama tetap kembali ditanyakan oleh anggota lain.
+Saya melihat kemungkinan bahwa masalahnya bukan karena anggota tidak mau mencari informasi, tetapi karena informasi yang dibutuhkan belum tersedia dalam bentuk yang mudah dicari kembali.
+Solution hypothesis: membuat FAQ singkat yang berisi pertanyaan yang paling sering muncul sehingga anggota dapat mencari jawaban terlebih dahulu sebelum menghubungi koordinator.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Pertanyaan yang sama berulang
+FAQ berisi pertanyaan dan jawaban yang sering muncul
+Anggota dapat menemukan informasi lebih cepat
+Waktu koordinator untuk menjawab pertanyaan berulang dapat berkurang
+Informasi tersebar di beberapa chat
+Informasi penting dikumpulkan dalam satu halaman
+Anggota memiliki satu tempat untuk mencari informasi
+Koordinator tidak perlu mengulang penjelasan yang sama
+Anggota tidak yakin informasi yang digunakan masih berlaku
+Mencantumkan waktu pembaruan pada FAQ
+Anggota dapat mengetahui apakah informasi masih terbaru
+Risiko penyampaian informasi lama dapat dikurangi
+Interest pitch dan demonstration
+Saya membuat contoh FAQ sederhana yang hanya berisi beberapa pertanyaan yang paling sering ditanyakan. Saya kemudian menunjukkan prototype tersebut kepada target.
+Saya: “Aku coba rangkum beberapa pertanyaan yang paling sering muncul jadi FAQ singkat. Jadi kalau ada yang bingung soal alur atau deadline, mereka bisa cek ini dulu sebelum nanya langsung. Menurut kamu, model seperti ini bakal membantu atau malah bikin informasi makin membingungkan?”
+Target kemudian memberikan respons:
+Target: “Kayaknya membantu, tapi kalau informasinya berubah gimana? Takutnya orang malah baca FAQ yang sudah nggak sesuai.”
+Respons tersebut menunjukkan bahwa target tertarik dengan mekanismenya, tetapi masih memiliki concern terhadap keakuratan informasi.
+Hidden concern dan adaptation
+Awalnya saya mengira masalah utama hanya berkaitan dengan banyaknya pertanyaan yang berulang. Setelah mendengar respons target, saya menyadari bahwa concern yang lebih penting adalah informasi yang sudah tidak sesuai dengan kondisi terbaru.
+Saya kemudian mengadaptasi solusi. FAQ tidak lagi dibuat sebagai dokumen yang berisi seluruh informasi, tetapi hanya memuat informasi yang paling sering ditanyakan dan relatif stabil. Pada bagian atas juga ditambahkan keterangan last updated agar anggota dapat mengetahui kapan informasi terakhir diperbarui.
+Saya juga mengusulkan agar hanya satu PIC yang bertanggung jawab memperbarui FAQ ketika terdapat perubahan penting. Dengan begitu, FAQ tidak menjadi sumber informasi tambahan yang harus dikelola banyak orang.
+Target kemudian menyatakan bahwa format tersebut lebih masuk akal karena informasi yang berubah tetap dapat diperbarui tanpa membuat semua anggota harus mencari jawaban dari awal.
+Response tersebut menunjukkan signal Interest karena target tidak hanya mengakui adanya masalah, tetapi mulai membahas bagaimana mekanisme tersebut dapat digunakan dan apa yang perlu diperhatikan agar dapat berjalan.
+Evidence, AI, dan feedback
+Catatan mengenai beberapa pertanyaan yang berulang selama kegiatan menjadi dasar untuk menentukan isi FAQ.
+Prototype FAQ sederhana digunakan sebagai demonstration untuk menunjukkan mekanisme solusi.
+Response target menunjukkan hidden concern mengenai informasi yang dapat berubah.
+Adaptasi dilakukan dengan membatasi isi FAQ, menambahkan last updated, dan menentukan satu PIC untuk pembaruan.
+AI digunakan untuk mengecek hubungan antara problem, mechanism, expected benefit, dan value serta membantu mengidentifikasi kemungkinan concern dari solusi. AI tidak digunakan untuk membuat data jumlah pertanyaan atau menentukan isi akhir FAQ.
+Next practice: sebelum melakukan demonstration, saya akan lebih dulu menanyakan concern utama target agar prototype dapat disesuaikan sejak awal.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Solution disesuaikan dengan kebutuhan koordinator yang sering menerima pertanyaan berulang
+Objective & State
+4
+Problem dibedakan dari solution dan signal Interest dikenali dari response target
+Repertoire, Language & AI
+3
+Menggunakan pitch, prototype, dan pertanyaan terbuka; AI masih digunakan terutama untuk mengecek framing dan kemungkinan concern
+Response & Adaptation
+4
+Concern mengenai informasi yang berubah mengubah mekanisme FAQ dan cara pengelolaannya
+Agreement, Action & Relationship
+4
+Target menerima konsep yang telah diadaptasi dan menyepakati perlunya PIC untuk menjaga informasi tetap diperbarui
+Total: 19/20 — Kompeten.
+Kembali ke atas
+Target–Attention Challenge
+UTS Performance Evidence Package
+Portfolio KIPP-2 · Michelle Nataneilla
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://minei114.github.io/kipp-students/index.html
+- https://minei114.github.io/kipp-students/assets/logo.png
+- https://minei114.github.io/kipp-students/course/index.html
+- https://minei114.github.io/kipp-students/portfolio/index.html
+- https://minei114.github.io/kipp-students/examples/index.html
+- https://minei114.github.io/kipp-students/lk/index.html
+- https://minei114.github.io/kipp-students/slides.html
+- https://minei114.github.io/kipp-students/slides-pdf/index.html
+- https://minei114.github.io/kipp-students/assessment/index.html
+- https://minei114.github.io/kipp-students/about.html
+- https://minei114.github.io/kipp-students/portfolio/week-07.html
+- https://minei114.github.io/kipp-students/portfolio/week-01.html
+- https://minei114.github.io/kipp-students/portfolio/week-02.html
+- https://minei114.github.io/kipp-students/portfolio/week-03.html
+- https://minei114.github.io/kipp-students/portfolio/week-04.html
+- https://minei114.github.io/kipp-students/portfolio/week-05.html
+- https://minei114.github.io/kipp-students/portfolio/week-06.html
+- https://minei114.github.io/kipp-students/portfolio/week-08.html
+- https://minei114.github.io/kipp-students/portfolio/week-09.html
+- https://minei114.github.io/kipp-students/portfolio/week-10.html
+- https://minei114.github.io/kipp-students/portfolio/week-11.html
+- https://minei114.github.io/kipp-students/portfolio/week-12.html
+- https://minei114.github.io/kipp-students/portfolio/week-13.html
+- https://minei114.github.io/kipp-students/portfolio/week-14.html
+- https://minei114.github.io/kipp-students/portfolio/week-15.html
+- https://minei114.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://minei114.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://minei114.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://minei114.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://minei114.github.io/kipp-students/portfolio/week-07.html#evidence-ai-dan-feedback
+- https://minei114.github.io/kipp-students/portfolio/week-07.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

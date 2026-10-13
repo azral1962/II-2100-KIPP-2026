@@ -1,0 +1,490 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 609
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Five-Language Translation Portfolio
+Identitas
+1. Konsep Teknis yang Dipilih
+1.1 Definisi teknis
+2. Jargon Teknis
+3. Marrow of the Message
+4. Bahasa Pertama — Anak-Anak
+Target Audience
+Cara menjelaskan
+Respons dan adaptasi
+Perubahan bahasa
+Analisis
+5. Bahasa Kedua — Teman dari Jurusan Kesehatan
+Karakteristik Audience
+Cara menjelaskan
+Respons
+Adaptasi
+Analisis
+6. Bahasa Ketiga — Technical Peer
+Karakteristik Audience
+Cara menjelaskan
+Jargon yang digunakan
+Mengapa tidak disederhanakan seperti kepada anak?
+Analisis
+7. Bahasa Keempat — Pemilik Usaha
+Karakteristik Audience
+Cara menjelaskan
+Fokus komunikasi
+Analisis
+8. Bahasa Kelima — Orang Awam
+Target Audience
+Cara menjelaskan
+Inti yang perlu dipahami
+Analisis
+9. Perbandingan Lima Bahasa
+10. Response & Adaptation
+C — Anak 9 tahun
+Teman kesehatan
+Technical peer
+Pemilik usaha
+K — Orang awam
+11. Fidelity — Menjaga Makna
+12. Analogy & Explanation
+13. Refleksi
+13.1 Register yang paling sulit
+13.2 Jargon dan cara pandang terhadap bidang STI
+14. Pembelajaran tentang Komunikasi
+15. Penggunaan AI
+16. Self-Assessment
+17. Kesimpulan
+Five-Language Translation Portfolio
+Fondasi
+Language
+Menerjemahkan satu konsep teknis ke dalam lima bahasa sesuai karakteristik audiens tanpa mengubah makna inti.
+Five-Language Translation Portfolio
+Identitas
+Nama: Grasella
+Program Studi: Sistem dan Teknologi Informasi
+Konsep teknis: Database Replication
+1. Konsep Teknis yang Dipilih
+1.1 Definisi teknis
+Database replication adalah proses membuat dan memelihara salinan data dari sebuah database pada satu atau lebih database lain. Dengan adanya salinan tersebut, data tidak hanya bergantung pada satu lokasi sehingga sistem memiliki alternatif ketika database utama mengalami gangguan.
+Replication dapat dilakukan secara synchronous maupun asynchronous.
+Pada synchronous replication, perubahan pada database direplikasi secara sinkron sesuai mekanisme replikasi yang digunakan sehingga salinan dapat mengikuti perubahan sebelum transaksi dianggap selesai.
+Sementara itu, pada asynchronous replication, perubahan pada database utama dapat diteruskan ke database salinan tanpa harus menunggu proses replikasi selesai terlebih dahulu. Akibatnya, dapat terdapat jeda antara data pada database utama dan database salinan.
+Database replication dapat digunakan untuk mendukung availability, failover, dan keberlangsungan layanan ketika database utama mengalami gangguan.
+2. Jargon Teknis
+Beberapa jargon yang muncul dalam konsep Database Replication adalah:
+Jargon
+Penjelasan sederhana
+Database Replication
+Proses membuat dan mempertahankan salinan database di tempat lain sehingga data tidak hanya berada pada satu tempat.
+Synchronous Replication
+Perubahan data direplikasi secara sinkron sehingga database salinan mengikuti perubahan sesuai mekanisme sinkronisasi.
+Asynchronous Replication
+Perubahan pada database utama diteruskan ke database salinan tanpa harus menunggu proses replikasi selesai terlebih dahulu.
+Failover
+Proses pengalihan penggunaan sistem ke sistem atau database cadangan ketika sistem utama mengalami gangguan.
+High Availability
+Kondisi ketika sistem dirancang agar tetap tersedia dan dapat digunakan meskipun sebagian komponennya mengalami gangguan.
+Replication Lag
+Jeda waktu antara perubahan pada database utama dan perubahan yang sudah diterapkan pada database salinan.
+Dari jargon tersebut, hal yang paling penting untuk dipahami adalah bahwa istilah teknis sebenarnya digunakan untuk menjelaskan kebutuhan yang lebih sederhana: bagaimana menjaga agar data tetap tersedia ketika tempat utama mengalami masalah.
+3. Marrow of the Message
+Setelah memisahkan jargon dari makna utamanya, saya merumuskan inti pesan atau Marrow of the Message sebagai berikut:
+Database replication menjaga agar data memiliki salinan di lebih dari satu tempat sehingga ketika satu tempat mengalami masalah, sistem masih memiliki salinan yang dapat digunakan.
+Kalimat tersebut menjadi core meaning untuk seluruh versi komunikasi.
+Artinya, ketika saya mengubah bahasa berdasarkan audiens, saya tidak mengubah inti konsepnya. Yang berubah adalah bahasa, repertoire, contoh, tingkat detail, dan sudut pandang yang digunakan untuk menyampaikan konsep tersebut.
+4. Bahasa Pertama — Anak-Anak
+Target Audience
+Inisial: C
+Usia: 9 tahun
+Cara menjelaskan
+Untuk anak berusia 9 tahun, saya tidak memulai dengan istilah seperti server, database instance, replication lag, atau failover. Saya menggunakan analogi yang lebih dekat dengan pengalaman sehari-hari.
+Saya menjelaskan:
+Bayangkan kamu punya satu buku gambar yang sangat kamu suka. Kalau buku itu cuma ada satu dan tiba-tiba hilang atau rusak, gambar yang ada di dalamnya juga bisa hilang. Tetapi kalau kamu punya salinan buku tersebut dan menyimpannya di tempat lain, ketika buku pertama rusak atau hilang, kamu masih memiliki salinannya.
+Database replication kurang lebih seperti itu. Data yang ada di satu tempat dibuatkan salinan di tempat lain. Jadi, ketika tempat pertama mengalami masalah, masih ada salinan data yang dapat digunakan.
+Respons dan adaptasi
+C kemudian bertanya lebih lanjut untuk memahami konsep tersebut. Karena C ingin memahami lebih jauh, saya mempertahankan analogi yang sama dan memberikan penjelasan tambahan menggunakan contoh yang lebih konkret.
+Setelah diberikan penjelasan tersebut, C dapat memahami gagasan utama bahwa data dibuat memiliki salinan sehingga tidak hanya bergantung pada satu tempat.
+Perubahan bahasa
+Konsep teknis
+Bahasa untuk anak
+Database
+Buku yang berisi informasi
+Database replica
+Salinan buku
+Gangguan database
+Buku utama rusak atau hilang
+Data tetap tersedia
+Masih memiliki salinan
+Analisis
+Pada audience ini, tujuan saya bukan membuat C memahami seluruh mekanisme Database Replication secara teknis. Tujuannya adalah membuat C memahami ide dasar di balik konsep tersebut.
+Saya menggunakan analogi karena pengalaman konkret lebih mudah dipahami oleh anak dibandingkan definisi abstrak.
+Dengan demikian, saya melakukan code-switching dari bahasa teknis menjadi bahasa konkret tanpa mengubah core meaning.
+5. Bahasa Kedua — Teman dari Jurusan Kesehatan
+Karakteristik Audience
+Audience kedua adalah teman yang berasal dari jurusan kesehatan. Karena memiliki latar belakang berbeda dari Sistem dan Teknologi Informasi, saya tidak mengasumsikan bahwa ia familiar dengan istilah teknis database.
+Namun, saya juga tidak perlu menyederhanakannya sejauh ketika berbicara dengan anak berusia 9 tahun.
+Cara menjelaskan
+Saya menggunakan contoh yang lebih familiar dengan bidang kesehatan:
+Misalnya ada sebuah sistem yang digunakan untuk menyimpan data pasien. Jika seluruh data hanya tersimpan di satu tempat dan sistem utama mengalami gangguan, tenaga kesehatan dapat mengalami kesulitan ketika membutuhkan informasi tersebut.
+Dengan database replication, data dapat memiliki salinan di tempat lain. Jadi, ketika sistem utama mengalami masalah, masih terdapat salinan data yang dapat digunakan untuk membantu menjaga ketersediaan informasi.
+Respons
+Teman tersebut dapat memahami penjelasan dengan cukup baik dan kemudian bertanya lebih lanjut mengenai penggunaan Database Replication.
+Hal tersebut membuat pembicaraan bergeser dari sekadar definisi menuju pertanyaan:
+“Database replication sebenarnya digunakan untuk apa?”
+Saya kemudian menjelaskan bahwa replication berguna ketika sebuah sistem membutuhkan data yang tetap tersedia meskipun terjadi gangguan pada salah satu tempat penyimpanan.
+Adaptasi
+Saya menggunakan contoh:
+Database → sistem data kesehatan
+dan:
+Data → data pasien/informasi yang dibutuhkan
+Dengan demikian, teman dari bidang kesehatan dapat menghubungkan konsep teknologi dengan konteks yang lebih familiar baginya.
+Analisis
+Pada audience ini, saya tidak menghilangkan konsep teknis sepenuhnya. Saya hanya mengurangi jargon yang tidak diperlukan dan menggantinya dengan contoh yang lebih dekat dengan pengalaman audience.
+Hal ini menunjukkan bahwa adaptasi komunikasi tidak selalu berarti membuat bahasa sesederhana mungkin. Adaptasi berarti memilih tingkat kompleksitas yang sesuai dengan kebutuhan audience.
+6. Bahasa Ketiga — Technical Peer
+Karakteristik Audience
+Untuk technical peer, saya dapat menggunakan repertoire teknis karena audience sudah memiliki kemungkinan untuk memahami konsep teknologi dan database.
+Cara menjelaskan
+Database replication merupakan mekanisme untuk mempertahankan salinan data pada lebih dari satu database instance atau server. Replication dapat dilakukan secara synchronous maupun asynchronous.
+Pada synchronous replication, perubahan data direplikasi secara sinkron sesuai mekanisme yang digunakan sehingga salinan mengikuti perubahan sebelum transaksi dianggap selesai. Pada asynchronous replication, perubahan dapat diteruskan ke replica tanpa harus menunggu proses replikasi selesai sehingga dapat terjadi replication lag.
+Arsitektur replication dapat digunakan untuk meningkatkan availability dan mendukung failover apabila primary database mengalami gangguan.
+Jargon yang digunakan
+Pada audience ini saya dapat menggunakan:
+primary database,
+replica,
+synchronous replication,
+asynchronous replication,
+replication lag,
+availability,
+failover.
+Mengapa tidak disederhanakan seperti kepada anak?
+Karena tujuan komunikasi dengan technical peer berbeda.
+Jika saya menjelaskan kepada technical peer menggunakan analogi buku secara keseluruhan, penjelasan memang mungkin lebih mudah dipahami, tetapi dapat kehilangan presisi teknis yang sebenarnya dibutuhkan.
+Oleh karena itu, pada audience ini saya mempertahankan istilah teknis tetapi tetap memastikan hubungan antarkonsepnya jelas.
+Analisis
+Ini menunjukkan bahwa code-switching bukan berarti selalu menghilangkan jargon.
+Pada audience teknis, jargon justru dapat menjadi bahasa bersama yang membuat komunikasi lebih efisien dan presisi.
+Jadi, kemampuan menerjemahkan bukan hanya kemampuan untuk menyederhanakan, tetapi juga kemampuan untuk mengetahui kapan penyederhanaan diperlukan dan kapan istilah teknis justru dibutuhkan.
+7. Bahasa Keempat — Pemilik Usaha
+Karakteristik Audience
+Audience keempat adalah seseorang yang memiliki usaha.
+Berbeda dari technical peer, kebutuhan utama audience ini bukan memahami bagaimana replication bekerja secara internal.
+Hal yang lebih relevan adalah:
+biaya,
+risiko,
+keberlangsungan operasional,
+dampak ketika sistem berhenti,
+dan manfaat bagi bisnis.
+Cara menjelaskan
+Saya menjelaskan Database Replication dari perspektif bisnis:
+Database replication dapat dipahami sebagai cara menyediakan salinan data bisnis di tempat lain sehingga bisnis tidak sepenuhnya bergantung pada satu sistem utama.
+Misalnya sebuah usaha menggunakan sistem untuk menyimpan transaksi dan data pelanggan. Jika sistem utama mengalami gangguan, operasional dapat ikut terganggu. Dengan adanya salinan database, terdapat alternatif yang dapat digunakan ketika sistem utama bermasalah.
+Memang terdapat biaya tambahan untuk infrastruktur, penyimpanan, pengelolaan, dan pemeliharaan. Namun, biaya tersebut dapat dibandingkan dengan potensi kerugian ketika sistem berhenti dan data atau layanan tidak dapat diakses.
+Fokus komunikasi
+Saya sengaja tidak menjadikan istilah seperti replication lag atau synchronous replication sebagai pembahasan utama.
+Saya mengubah fokus dari:
+“Bagaimana replication bekerja?”
+menjadi:
+“Mengapa bisnis perlu mempertimbangkan adanya salinan data dan apa risikonya jika sistem utama mengalami gangguan?”
+Analisis
+Perubahan tersebut merupakan bentuk adaptasi repertoire.
+Untuk technical peer, nilai utama yang ditekankan adalah technical precision.
+Untuk pemilik usaha, nilai utama yang ditekankan adalah:
+risk → cost → operational continuity → business impact.
+Dengan demikian, konsep yang sama diterjemahkan menjadi bahasa pengambilan keputusan bisnis.
+8. Bahasa Kelima — Orang Awam
+Target Audience
+Inisial: K
+Untuk orang awam, saya kembali mengurangi istilah teknis dan menggunakan contoh yang dekat dengan kehidupan sehari-hari.
+Cara menjelaskan
+Saya menggunakan analogi file atau foto penting:
+Misalnya kamu memiliki foto atau file yang sangat penting. Kalau file tersebut hanya tersimpan di satu tempat dan perangkatnya rusak, kamu bisa kehilangan file tersebut.
+Karena itu, kamu bisa membuat salinan dan menyimpannya di tempat lain. Jadi, kalau perangkat utama bermasalah, kamu masih memiliki salinan.
+Database replication memiliki ide dasar yang mirip. Data memiliki salinan di tempat lain sehingga ketika tempat utama mengalami masalah, masih ada salinan yang dapat digunakan.
+Inti yang perlu dipahami
+K dapat menangkap gagasan utama bahwa:
+data tidak hanya disimpan di satu tempat sehingga ketika tempat utama mengalami masalah, masih ada salinan yang dapat digunakan.
+Analisis
+Untuk audience ini, saya tidak menggunakan istilah seperti replication lag, primary database, atau failover karena istilah tersebut tidak diperlukan untuk memahami pesan utama.
+Saya memilih contoh yang sudah familiar dalam kehidupan sehari-hari, yaitu membuat salinan file penting.
+Namun, saya juga menyadari bahwa analogi tersebut bukan berarti backup dan replication merupakan hal yang sama secara teknis.
+Analogi digunakan sebagai jembatan pemahaman, bukan sebagai definisi teknis.
+9. Perbandingan Lima Bahasa
+Audience
+Tujuan utama
+Bahasa
+Repertoire/Contoh
+Tingkat jargon
+C, 9 tahun
+Memahami ide dasar
+Sangat sederhana
+Buku dan salinan buku
+Sangat rendah
+Teman kesehatan
+Memahami penggunaan
+Sederhana–menengah
+Data pasien/sistem kesehatan
+Rendah
+Technical peer
+Memahami mekanisme
+Teknis dan presisi
+Replica, replication lag, failover
+Tinggi
+Pemilik usaha
+Memahami manfaat bisnis
+Bisnis
+Risiko, biaya, downtime, operasional
+Rendah–menengah
+K, orang awam
+Memahami konsep sehari-hari
+Sederhana
+Salinan file/foto
+Sangat rendah
+Tabel tersebut menunjukkan bahwa satu core meaning dapat memiliki banyak bentuk penyampaian.
+10. Response & Adaptation
+Hal yang saya pelajari dari proses ini adalah bahwa komunikasi tidak berhenti setelah saya menyampaikan informasi.
+Saya perlu melihat bagaimana audience merespons dan kemudian menentukan apakah saya perlu mempertahankan atau mengubah cara menjelaskan.
+C — Anak 9 tahun
+C bertanya lebih lanjut untuk memahami konsep.
+Response: C membutuhkan penjelasan tambahan.
+Adaptation: Saya mempertahankan analogi yang sama dan memberikan contoh yang lebih konkret.
+Teman kesehatan
+Teman dapat memahami penjelasan awal dan kemudian bertanya mengenai penggunaannya.
+Response: kebutuhan bergeser dari memahami definisi menjadi memahami manfaat/penerapan.
+Adaptation: Saya mengarahkan pembahasan pada penggunaan Database Replication dalam sistem yang menyimpan data penting.
+Technical peer
+Audience memiliki repertoire yang memungkinkan penggunaan jargon teknis.
+Response: penjelasan dapat dilakukan pada tingkat teknis.
+Adaptation: Saya mempertahankan istilah seperti replica, synchronous, asynchronous, replication lag, dan failover untuk menjaga presisi.
+Pemilik usaha
+Audience lebih membutuhkan perspektif bisnis.
+Response: kebutuhan utama bukan memahami mekanisme database secara detail.
+Adaptation: Saya menggeser pembahasan menjadi biaya, risiko, downtime, dan keberlangsungan operasional.
+K — Orang awam
+Audience membutuhkan pemahaman yang langsung dan konkret.
+Response: istilah teknis berpotensi menjadi hambatan.
+Adaptation: Saya menggunakan analogi salinan file yang familiar.
+11. Fidelity — Menjaga Makna
+Meskipun kelima versi menggunakan bahasa berbeda, saya memastikan bahwa tidak ada perubahan pada core meaning.
+Core meaning:
+Database replication menjaga agar data memiliki salinan di lebih dari satu tempat sehingga ketika satu tempat mengalami masalah, sistem masih memiliki salinan yang dapat digunakan.
+Pada anak, makna tersebut menjadi salinan buku.
+Pada teman kesehatan, menjadi salinan data yang membantu ketika sistem kesehatan mengalami gangguan.
+Pada technical peer, menjadi replica dan failover.
+Pada pemilik usaha, menjadi pengurangan risiko operasional.
+Pada orang awam, menjadi salinan file penting.
+Dengan demikian, saya melakukan perubahan pada cara penyampaian, bukan pada substansi inti.
+12. Analogy & Explanation
+Analogi yang paling membantu adalah salinan buku dan salinan file.
+Analogi buku cocok untuk anak karena dapat divisualisasikan dengan mudah:
+satu buku → dibuat salinan → satu buku rusak → masih ada buku lain.
+Sementara analogi file lebih cocok untuk orang awam karena membuat mereka dapat menghubungkan konsep dengan pengalaman menggunakan komputer atau perangkat digital.
+Namun, saya juga menyadari bahwa analogi memiliki batas.
+Database replication bukan sekadar “copy-paste database”.
+Di dalam implementasinya terdapat berbagai mekanisme teknis seperti:
+sinkronisasi,
+asynchronous replication,
+replication lag,
+consistency,
+failover,
+dan konfigurasi database.
+Karena itu, analogi digunakan sebagai starting point, kemudian dapat dikembangkan menjadi penjelasan teknis apabila audience membutuhkan detail lebih lanjut.
+13. Refleksi
+13.1 Register yang paling sulit
+Menurut saya, bagian yang paling sulit adalah menjelaskan konsep teknis kepada orang yang tidak memiliki latar belakang teknologi tanpa membuat konsep tersebut menjadi salah.
+Jika terlalu teknis, audience dapat kehilangan pemahaman karena terlalu banyak jargon.
+Namun, jika terlalu sederhana, terdapat risiko bahwa konsep yang sebenarnya kompleks menjadi terlalu disederhanakan.
+Saya akhirnya memahami bahwa tujuan komunikasi bukan membuat semua orang mengetahui seluruh detail teknis.
+Tujuannya adalah memberikan tingkat pemahaman yang tepat sesuai kebutuhan audience.
+13.2 Jargon dan cara pandang terhadap bidang STI
+Sebelumnya, istilah teknis seperti database replication, failover, dan high availability lebih terasa sebagai istilah yang digunakan di dalam dunia teknologi.
+Setelah melakukan proses deconstruction, saya menyadari bahwa jargon tersebut sebenarnya merepresentasikan kebutuhan yang lebih sederhana.
+Misalnya:
+Replication
+→ memiliki salinan data.
+Failover
+→ memiliki alternatif ketika sistem utama gagal.
+High Availability
+→ menjaga agar layanan tetap dapat digunakan.
+Dengan melihat makna di balik jargon, saya menjadi lebih mudah menjelaskan teknologi kepada orang dari bidang lain.
+Hal ini juga mengubah cara pandang saya terhadap peran seorang mahasiswa Sistem dan Teknologi Informasi.
+Seorang profesional STI tidak hanya perlu mengetahui bagaimana teknologi bekerja, tetapi juga perlu mampu menjelaskan:
+masalah apa yang diselesaikan teknologi tersebut dan mengapa teknologi tersebut relevan bagi orang yang menggunakannya.
+14. Pembelajaran tentang Komunikasi
+Tugas ini membuat saya memahami bahwa penguasaan materi dan penguasaan komunikasi merupakan dua kemampuan yang berbeda.
+Saya mungkin memahami Database Replication secara teknis, tetapi hal tersebut belum berarti saya mampu menjelaskannya kepada anak berusia 9 tahun, teman dari jurusan kesehatan, technical peer, pemilik usaha, dan orang awam menggunakan cara yang sama.
+Setiap audience memiliki:
+pengetahuan awal,
+kebutuhan,
+perhatian,
+pengalaman,
+dan vocabulary yang berbeda.
+Karena itu, komunikasi yang efektif membutuhkan kemampuan untuk membaca audience dan melakukan adaptation.
+Saya belajar bahwa:
+“Bahasa yang benar” bukan hanya bahasa yang secara teknis benar, tetapi bahasa yang memungkinkan audience memahami pesan sesuai kebutuhannya.
+15. Penggunaan AI
+Saya menggunakan AI sebagai copilot dalam proses mengembangkan dan mengevaluasi cara menjelaskan Database Replication kepada lima audience.
+AI membantu saya:
+mengidentifikasi jargon teknis;
+menyusun alternatif penjelasan sederhana;
+membandingkan register komunikasi;
+memeriksa apakah core meaning tetap dipertahankan;
+membantu menyusun refleksi;
+mengidentifikasi bagian yang terlalu teknis atau terlalu sederhana.
+Namun, pengalaman komunikasi dengan masing-masing audience tetap menjadi dasar dari portfolio ini.
+AI tidak menggantikan proses saya dalam memilih audience, menjelaskan konsep, menerima pertanyaan, dan menyesuaikan repertoire.
+16. Self-Assessment
+Kriteria
+Skor
+Alasan
+Fidelity
+4/4
+Saya mempertahankan core meaning Database Replication pada kelima versi dan tidak mengubah substansi ketika mengganti bahasa.
+Code-switching
+4/4
+Saya menyesuaikan register, jargon, tingkat detail, dan contoh berdasarkan karakteristik masing-masing audience.
+Analogy / Explanation
+4/4
+Saya menggunakan analogi buku dan salinan file serta konteks kesehatan dan bisnis untuk membantu audience memahami konsep tanpa menghilangkan makna utama.
+Depth of Reflection
+4/4
+Saya merefleksikan perbedaan kebutuhan audience, batas jargon, pentingnya adaptation, serta perubahan cara pandang terhadap komunikasi teknologi.
+Total
+16/16
+Tercapai
+17. Kesimpulan
+Melalui tugas ini, saya memahami bahwa satu konsep teknis dapat memiliki banyak cara penyampaian tanpa kehilangan makna.
+Database Replication dapat dijelaskan sebagai:
+“salinan buku” kepada anak,
+“salinan data agar informasi tetap tersedia” kepada teman dari bidang kesehatan,
+“replica, replication lag, dan failover” kepada technical peer,
+“pengurangan risiko downtime dan gangguan operasional” kepada pemilik usaha,
+dan
+“salinan file penting” kepada orang awam.
+Kelima bentuk tersebut memiliki bahasa dan repertoire yang berbeda, tetapi memiliki core meaning yang sama.
+Hal ini menjadi pembelajaran penting bagi saya sebagai mahasiswa Sistem dan Teknologi Informasi bahwa kemampuan teknis perlu berjalan bersama dengan kemampuan komunikasi.
+Teknologi yang kita pahami sendiri belum tentu dapat dipahami orang lain dengan cara yang sama. Karena itu, seorang profesional STI perlu mampu menerjemahkan teknologi ke dalam bahasa, contoh, dan sudut pandang yang relevan bagi setiap audience.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#five-language-translation-portfolio
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#identitas
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#konsep-teknis-yang-dipilih
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#definisi-teknis
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#jargon-teknis
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#marrow-of-the-message
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#bahasa-pertama-anak-anak
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#target-audience
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#cara-menjelaskan
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#respons-dan-adaptasi
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#perubahan-bahasa
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#analisis
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#bahasa-kedua-teman-dari-jurusan-kesehatan
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#karakteristik-audience
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#cara-menjelaskan-1
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#respons
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#adaptasi
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#analisis-1
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#bahasa-ketiga-technical-peer
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#karakteristik-audience-1
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#cara-menjelaskan-2
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#jargon-yang-digunakan
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#mengapa-tidak-disederhanakan-seperti-kepada-anak
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#analisis-2
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#bahasa-keempat-pemilik-usaha
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#karakteristik-audience-2
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#cara-menjelaskan-3
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#fokus-komunikasi
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#analisis-3
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#bahasa-kelima-orang-awam
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#target-audience-1
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#cara-menjelaskan-4
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#inti-yang-perlu-dipahami
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#analisis-4
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#perbandingan-lima-bahasa
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#response-adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#c-anak-9-tahun
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#teman-kesehatan
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#technical-peer
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#pemilik-usaha
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#k-orang-awam
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#fidelity-menjaga-makna
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#analogy-explanation
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#refleksi
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#register-yang-paling-sulit
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#jargon-dan-cara-pandang-terhadap-bidang-sti
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#pembelajaran-tentang-komunikasi
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html#kesimpulan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

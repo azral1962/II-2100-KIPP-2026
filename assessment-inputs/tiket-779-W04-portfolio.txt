@@ -1,0 +1,223 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 779
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Hasil Pengerjaan: Portofolio Terjemahan 5 Bahasa (Rulyansyah Fajar Ramadhan - 18225025)
+1. Core Meaning (Pesan Inti)
+2. Terjemahan untuk Lima Target Audiens Berbeda
+3. Alasan Perubahan Language dan Repertoire
+4. Feedback Understanding
+5. Self-Assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Hasil Pengerjaan: Portofolio Terjemahan 5 Bahasa (Rulyansyah Fajar Ramadhan - 18225025)
+1. Core Meaning (Pesan Inti)
+Pesan Inti: “Pengembangan fitur aplikasi kolaborasi ini sempat mengalami kendala teknis penundaan jadwal karena modul integrasi API butuh perbaikan logika, tetapi saat ini masalahnya sudah teratasi dan tim kembali fokus mengejar target rilis akhir minggu ini.”
+2. Terjemahan untuk Lima Target Audiens Berbeda
+Target Person / Character
+Bahasa & Repertoire yang Digunakan
+Hasil Terjemahan Pesan
+1. Friend (Sahabat/Kakak)
+Kasual, santai, penuh keakraban, fokus pada curhat kondisi beban kerja.
+“Eh, proyek aplikasi kelompokku kemarin sempat keteteran gara-gara API-nya error. Tapi santai, sekarang kodenya udah beres dan kita lagi ngebut buat kelarin semuanya minggu ini.”
+2. Technical Peer (Rekan Setim / Programer)
+Teknis, langsung pada inti masalah (to the point), menggunakan istilah arsitektur sistem.
+“Modul integrasi API mengalami bottleneck pada logika payload sebelumnya, namun sekarang bug tersebut sudah di-fix dan kita melanjutkan merge branch untuk target rilis akhir pekan.”
+3. Manager (Dosen / Asisten / Project Lead)
+Profesional, terstruktur, transparan, berorientasi pada solusi dan progres.
+“Melaporkan progres pengerjaan proyek: sempat terjadi kendala teknis pada modul API yang berdampak pada penyesuaian linimasa. Saat ini kendala telah diselesaikan dan tim kembali on-track untuk target penyelesaian akhir minggu.”
+4. Customer (Pengguna / Klien Fiktif)
+Empatik, menenangkan, minim istilah teknis yang membingungkan, fokus pada kenyamanan pengguna.
+“Halo! Mohon maaf atas sedikit keterlambatan pembaruan fitur kami. Tim kami sedang memastikan sistem berjalan jauh lebih stabil dan aman, dan pembaruan akan segera dapat Anda nikmati minggu ini.”
+5. Public (Masyarakat Luas / Komunitas Publik)
+Formal, edukatif, informatif, dan transparan secara umum.
+“Dalam proses pengembangan sistem digital, pembaruan performa dan peningkatan kestabilan integrasi data terus dilakukan demi menghadirkan pengalaman layanan yang optimal bagi seluruh pengguna.”
+3. Alasan Perubahan Language dan Repertoire
+Friend: Menggunakan bahasa lisan yang santai untuk mencairkan ketegangan emosional tanpa menuntut respons formal.
+Technical Peer: Menggunakan istilah teknis yang spesifik agar efisien dan langsung dipahami oleh sesama pengembang.
+Manager: Mengutamakan struktur pelaporan yang jelas, mencakup identifikasi masalah dan langkah mitigasinya secara profesional.
+Customer: Mengalihkan fokus dari masalah internal kode ke kepuasan dan kenyamanan pengguna akhir.
+Public: Menyampaikan informasi dalam bentuk pernyataan publik yang netral, informatif, dan menjaga reputasi profesional.
+4. Feedback Understanding
+Target yang Memberikan Umpan Balik: Rekan setim (Technical Peer) dan Kakak (Friend).
+Hasil Feedback: Pesan inti berhasil diterima dengan jelas oleh kedua belah pihak tanpa ada distorsi informasi, di mana rekan teknis memahami detail perbaikan API, sementara pihak keluarga memahami situasi kondisi pengerjaan tugas tanpa merasa khawatir berlebihan.
+5. Self-Assessment
+Dimensi
+Skor
+Alasan
+Ketepatan Core Meaning
+4
+Pesan inti (core meaning) tetap konsisten dan utuh di kelima versi terjemahan.
+Adaptasi Repertoire & Language
+4
+Pilihan nada, kosakata, dan gaya bahasa disesuaikan secara tepat dengan karakteristik setiap audiens.
+Kejelasan Konteks & Alasan
+4
+Alasan perubahan bahasa dijelaskan secara logis berdasarkan peran dan relasi.
+Validasi Feedback
+4
+Memuat bukti umpan balik pemahaman dari target audiens secara nyata.
+Total: 16/16 — Kompeten.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Rulyansyah Fajar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rulyansyahfr.github.io/kipp-students/index.html
+- https://rulyansyahfr.github.io/kipp-students/assets/logo.png
+- https://rulyansyahfr.github.io/kipp-students/course/index.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/index.html
+- https://rulyansyahfr.github.io/kipp-students/examples/index.html
+- https://rulyansyahfr.github.io/kipp-students/lk/index.html
+- https://rulyansyahfr.github.io/kipp-students/slides.html
+- https://rulyansyahfr.github.io/kipp-students/slides-pdf/index.html
+- https://rulyansyahfr.github.io/kipp-students/assessment/index.html
+- https://rulyansyahfr.github.io/kipp-students/about.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-01.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-02.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-03.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-05.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-06.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-07.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-08.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-09.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-10.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-11.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-12.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-13.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-14.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-15.html
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#hasil-pengerjaan-portofolio-terjemahan-5-bahasa-rulyansyah-fajar-ramadhan---18225025
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#core-meaning-pesan-inti
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#terjemahan-untuk-lima-target-audiens-berbeda
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#alasan-perubahan-language-dan-repertoire
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#feedback-understanding
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#self-assessment-1
+- https://rulyansyahfr.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://rulyansyahfr.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

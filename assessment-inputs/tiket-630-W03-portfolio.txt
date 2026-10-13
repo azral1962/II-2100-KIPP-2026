@@ -1,0 +1,170 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 630
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://csd-hub.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Refleksi
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Konteks performance
+Tanggal dan setting:
+Percakapan dilakukan secara langsung di kosan saya ketika sedang mengerjakan script game Metaforia Keluargaan untuk mata kuliah Kewarganegaraan bersama anggota kelompok.
+Persons dan relationship:
+Saya berbicara dengan salah satu anggota kelompok yang juga merupakan teman dekat saya. Kami sedang bekerja sama dalam menyusun cerita dan script game.
+Objective dan initial state:
+Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalnya terdapat perbedaan pendapat mengenai nasib karakter. Teman saya menginginkan semua karakter mati, sedangkan saya ingin beberapa karakter tetap hidup karena menurut saya tidak semua karakter harus mati agar ending tetap menarik.
+Evidence
+Percakapan terjadi ketika saya dan salah satu anggota kelompok sedang mengerjakan tugas mata kuliah Kewarganegaraan berupa game Metaforia Keluargaan. Dalam proses menyusun script, kami mengalami perbedaan pendapat mengenai ending cerita.
+Teman saya mengusulkan agar semua karakter dalam cerita meninggal. Saya memiliki pendapat berbeda karena menurut saya tidak semua karakter harus meninggal, terutama karakter yang masih memiliki peran dalam cerita.
+Saya kemudian menyampaikan pendapat saya dan kami mendiskusikan beberapa kemungkinan ending. Dalam diskusi tersebut, saya mempertimbangkan ide teman saya dan tidak langsung menolak seluruh usulannya. Saya juga menjelaskan alasan mengapa menurut saya beberapa karakter masih dapat dipertahankan.
+Setelah berdiskusi, kami menemukan jalan tengah. Beberapa karakter penting tetap hidup, sedangkan sebagian karakter lainnya ternyata hanya muncul dalam bentuk halusinasi atau mimpi yang dialami oleh karakter utama. Dengan demikian, ending cerita tetap memiliki unsur dari kedua pendapat kami.
+Hasil diskusi tersebut kemudian menjadi keputusan untuk ending script Metaforia Keluargaan yang kami kerjakan bersama.
+Kontribusi saya adalah menyampaikan pendapat, mempertimbangkan pendapat teman, dan ikut mencari alternatif ending yang dapat disepakati bersama.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya dan teman memiliki pandangan yang berbeda mengenai ending cerita. Karena kami juga merupakan teman dekat, saya berusaha menyampaikan pendapat tanpa menjadikan perbedaan tersebut sebagai masalah pribadi.
+Objective & state
+Tujuan saya adalah menemukan ending yang tetap menarik tanpa harus membuat semua karakter mati. Kondisi awalnya adalah adanya perbedaan pendapat mengenai nasib karakter dalam cerita.
+Repertoire & language
+Saya menyampaikan pendapat berdasarkan alur dan perkembangan karakter, bukan menyerang pendapat teman secara pribadi. Kami berdiskusi secara langsung dan membandingkan kemungkinan ending yang dapat digunakan. Namun, saya belum secara eksplisit menggunakan teknik validasi terhadap perasaan atau kebutuhan teman.
+Response & adaptation
+Setelah berdiskusi, saya tidak memaksakan agar semua karakter tetap hidup. Saya menyesuaikan ide awal dan menerima bahwa hanya beberapa karakter penting yang perlu tetap hidup.
+Agreement/action
+Kami menyepakati bahwa beberapa karakter penting tetap hidup, sementara karakter lainnya dapat menjadi bagian dari halusinasi atau mimpi karakter utama. Kesepakatan tersebut kemudian digunakan sebagai dasar ending script.
+Relationship outcome
+Perbedaan pendapat tidak menjadi konflik pribadi. Kami tetap dapat bekerja sama sebagai anggota kelompok dan menghasilkan ending yang menggabungkan kedua ide.
+Penggunaan AI
+Tidak menggunakan AI saat percakapan berlangsung.
+Percakapan dan pengambilan keputusan mengenai ending dilakukan secara langsung bersama anggota kelompok. Saya tidak menggunakan AI untuk menentukan hasil diskusi atau menggantikan proses pengambilan keputusan dengan teman.
+AI digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses komunikasi berdasarkan evidence yang saya tuliskan.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Hasil evaluasi LLM menunjukkan bahwa saya sudah mampu menjaga hubungan dan beradaptasi ketika terjadi perbedaan pendapat mengenai ending cerita. Namun, bukti spesifik mengenai listening aktif dan validasi terhadap pendapat atau perasaan teman masih terbatas karena saya belum memiliki kutipan percakapan yang menunjukkan teknik tersebut secara jelas.
+Adaptation/replay:
+Berdasarkan feedback tersebut, saya perlu melatih diri untuk melakukan validasi sebelum menyampaikan argumen. Contoh replay yang dapat saya gunakan dalam diskusi serupa adalah:
+“Aku ngerti kamu pengen semua karakter meninggal karena menurutmu ending-nya jadi lebih kuat. Menurutku ada beberapa karakter yang masih bisa dipertahankan, jadi mungkin kita bisa cari jalan tengah.”
+Contoh tersebut merupakan replay, bukan kutipan dari percakapan asli. Tujuannya adalah melatih saya untuk menunjukkan bahwa saya memahami sudut pandang teman terlebih dahulu sebelum menyampaikan pendapat sendiri.
+Next practice:
+Saya akan melatih listening aktif dengan lebih dulu memahami dan mengakui sudut pandang teman sebelum menyampaikan argumen. Jika terjadi perbedaan pendapat lagi, saya akan mencoba menggunakan pola Observation-Feeling-Need-Request (O-F-N-R) atau bentuk validasi sederhana sebelum mengajukan solusi.
+Refleksi
+Dari pengalaman ini, saya menyadari bahwa mencapai kesepakatan saja belum cukup untuk menunjukkan komunikasi yang baik. Saya sudah mampu beradaptasi dengan pendapat teman dan mencari jalan tengah, tetapi saya masih perlu menunjukkan proses mendengarkan dan validasi secara lebih jelas.
+Saya juga menyadari bahwa menjelaskan alasan dari pendapat sendiri berbeda dengan menunjukkan bahwa saya benar-benar memahami sudut pandang orang lain. Ke depannya, saya akan lebih memperhatikan bagian tersebut ketika berdiskusi dengan anggota kelompok.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3 – Kompeten
+Saya menyadari bahwa saya berbicara dengan anggota kelompok yang juga merupakan teman dekat, sehingga saya tetap menjaga hubungan ketika menyampaikan perbedaan pendapat.
+Objective & State
+3 – Kompeten
+Saya memahami bahwa saya dan teman memiliki tujuan yang sama untuk membuat ending yang menarik, tetapi memiliki pandangan berbeda mengenai nasib karakter.
+Repertoire, Language & AI
+2 – Berkembang
+Saya sudah menyampaikan pendapat dan berdiskusi untuk mencari solusi, tetapi belum memiliki bukti yang cukup mengenai listening aktif dan validasi secara eksplisit.
+Response & Adaptation
+3 – Kompeten
+Saya tidak terus mempertahankan ide awal dan bersedia menyesuaikan pendapat setelah mempertimbangkan ide teman.
+Agreement, Action & Relationship
+3 – Kompeten
+Kami berhasil mencapai kesepakatan dengan menggabungkan kedua ide menjadi ending baru, dan hubungan kerja sama tetap berjalan dengan baik.
+Total: 14 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Mouristio R. A. K. L. Praing
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://csd-hub.github.io/kipp-students/index.html
+- https://csd-hub.github.io/kipp-students/assets/logo.png
+- https://csd-hub.github.io/kipp-students/course/index.html
+- https://csd-hub.github.io/kipp-students/portfolio/index.html
+- https://csd-hub.github.io/kipp-students/examples/index.html
+- https://csd-hub.github.io/kipp-students/lk/index.html
+- https://csd-hub.github.io/kipp-students/slides.html
+- https://csd-hub.github.io/kipp-students/slides-pdf/index.html
+- https://csd-hub.github.io/kipp-students/assessment/index.html
+- https://csd-hub.github.io/kipp-students/about.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-01.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-04.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-06.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-07.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-08.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-09.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-10.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-11.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-12.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-13.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-14.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-15.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#refleksi
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,220 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 599
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima Character
+Konteks Performance
+Catatan Percakapan
+Evidence Tindakan dan Outcome
+Perubahan Language ketika Character Berubah
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Character Map
+Fondasi
+Person
+Pemetaan lima character dan adaptasi peran saat koordinasi tim lomba.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima Character
+Saya memahami personality sebagai kecenderungan yang relatif menetap, sedangkan character adalah peran yang saya pilih dalam relationship dan situasi tertentu. Karena itu, orang yang sama dapat menerima language yang berbeda ketika objective dan tanggung jawab saya berubah.
+Domain dan character
+Person dan relationship
+Objective dan responsibility
+Repertoire dan language
+Risiko dan latihan
+Intra-self - pengatur ritme belajar
+Diri sendiri ketika beberapa deadline berdekatan
+Menentukan prioritas tanpa mengabaikan kebutuhan istirahat; membedakan keterlambatan nyata dari rasa panik
+Audit fakta, time-boxing, dan self-talk: “yang harus selesai malam ini bagian mana?”
+Terlalu lama membuat rencana. Latihan: batasi planning sepuluh menit lalu mulai satu langkah terkecil.
+Keluarga - anak yang memberi kabar
+Ibu dan ayah yang tidak mengikuti istilah teknis perkuliahan
+Memberi gambaran keadaan secara jujur tanpa membuat mereka cemas
+Bahasa sederhana dan konfirmasi: “tugasnya terkendali, gua cuma pulang agak malam”
+Menyembunyikan kesulitan agar terlihat baik-baik saja. Latihan: sampaikan satu kendala beserta rencana menanganinya.
+Pertemanan - pendengar
+Teman dekat yang sedang kewalahan
+Memahami dulu apakah ia ingin didengar atau mencari solusi; menjaga kerahasiaan
+Paraphrase dan pilihan: “lu mau cerita dulu atau kita petakan bareng?”
+Masuk ke fixer mode. Latihan: lakukan dua paraphrase sebelum memberi saran.
+Akademik - rekan tim lomba
+Tiga rekan satu tim dengan kontribusi dan beban kuliah berbeda
+Menyelesaikan proposal tepat waktu sekaligus menjaga ownership setiap anggota
+Check-in, opsi trade-off, task list dengan owner dan tenggat, serta bahasa setara
+Terlihat mengambil alih karena saya memegang dokumen utama. Latihan: minta keberatan sebelum keputusan dikunci.
+Organisasi - staf acara
+Koordinator divisi yang memiliki authority formal dan staf lain yang setara
+Melaporkan risiko lebih awal dan meminta keputusan ketika scope berubah
+Update status-hambatan-kebutuhan keputusan
+Menunggu arahan karena takut melampaui peran. Latihan: bawa satu rekomendasi beserta batas kewenangan.
+Konteks Performance
+Pada Selasa pukul 21.10, tim beranggotakan saya, R, N, dan D sedang menyelesaikan proposal lomba inovasi digital. Tenggat tinggal 15 jam. Saya memegang dokumen utama, R menyusun solusi teknis, N mengolah riset pengguna, dan D membuat mockup.
+State awalnya: bagian riset belum masuk, mockup belum final, dan R ingin menambah fitur prediksi yang membutuhkan perubahan proposal. Objective saya bukan hanya mengirim proposal tepat waktu, tetapi juga menjaga agar keputusan scope tidak menghapus kontribusi salah satu anggota.
+Catatan Percakapan
+Catatan berikut ditulis ulang segera setelah panggilan Discord. Nama anggota tim diganti dengan inisial R, N, dan D.
+Saya: “Sebelum nambah fitur, boleh update singkat? Yang sudah aman apa, yang masih berisiko apa?”
+N: “Data wawancaranya sudah, tapi narasinya belum masuk. Kalau struktur berubah lagi gua harus nyesuaiin.”
+R: “Model prediksinya bisa jadi pembeda. Sayang kalau nggak dimasukin.”
+Saya: “Berarti ada dua kebutuhan: proposal harus konsisten sama data N, tapi unsur teknisnya juga jangan terlalu generik. Bro, versi minimum fitur prediksi yang bisa dijelaskan tanpa ubah alur utama apa?”
+R: “Bisa dijadiin rencana pengembangan, bukan fitur versi awal.”
+D: “Kalau gitu mockup gua nggak perlu dirombak total.”
+Saya: “Oke, usulnya: mockup tetap, temuan N masuk malam ini, fitur prediksi kita taruh di roadmap dan R pegang dua paragraf penjelasannya. Ada yang keberatan sebelum kita kunci?”
+N: “Gua setuju. Cuma bagian riset jangan dipotong jadi satu kalimat lagi ya.”
+Saya: “Noted. N tentukan dua temuan yang wajib dipertahankan. Gua nggak akan potong tanpa konfirmasi.”
+R: “Sip. Gua kirim sebelum jam sebelas.”
+Setelah rapat, D mengirim pesan pribadi: “Tadi R bilang sip, tapi nadanya kayak masih berat. Mungkin karena idenya turun jadi roadmap.” Saya menyadari persetujuan verbal belum tentu berarti ownership-nya tetap terjaga.
+Saya lalu menghubungi R:
+Saya: “Bro, gua mau cek lagi. Tadi kita sepakat fiturnya pindah ke roadmap, tapi gua takut keputusan cepatnya bikin kontribusi lu terasa dikecilkan. Ada yang masih mengganjal?”
+R: “Sedikit sih. Awalnya gua kira bagian teknis bakal jadi inti.”
+Saya: “Masuk akal. Gimana kalau lu tetap jadi owner bagian feasibility dan roadmap-nya kita beri ruang setengah halaman, selama klaimnya nggak melebihi data yang ada?”
+R: “Nah, kalau tetap ada bagian feasibility gua oke.”
+Evidence Tindakan dan Outcome
+Task list diperbarui pada 21.36: N - dua temuan riset (22.30), R - feasibility dan roadmap (23.00), D - mockup final (23.15), saya - integrasi dan pemeriksaan akhir (01.00).
+R menyerahkan bagian feasibility pukul 22.48; N mengonfirmasi kedua temuannya tidak dipotong.
+Proposal dikirim pukul 00.42, sebelum tenggat.
+Keesokan harinya R menulis, “format roadmap kemarin enak juga, teknisnya tetap kebaca tanpa maksa mockup berubah.”
+Perubahan Language ketika Character Berubah
+Untuk hambatan yang sama - sebuah pekerjaan belum selesai - language saya berubah sesuai character:
+Sebagai rekan tim lomba: “Versi minimum yang masih menjaga inti idenya apa, dan siapa owner-nya?” Fokusnya trade-off, ownership, dan keputusan bersama.
+Sebagai staf kepada koordinator: “Bagian ini berisiko lewat tenggat; gua merekomendasikan scope A, tetapi keputusan perubahan target ada pada Kakak.” Fokusnya authority dan eskalasi.
+Sebagai pengatur ritme belajar: “Faktanya bagian mana yang belum selesai, dan langkah 20 menit pertama apa?” Fokusnya memisahkan fakta dari rasa panik.
+Core meaning-nya tetap sama - ada pekerjaan yang perlu diselesaikan - tetapi objective, relationship, authority, dan repertoire berbeda.
+Analisis Komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+N dibaca sebagai pemilik data, R sebagai pemilik gagasan teknis, dan D sebagai pihak yang terkena dampak perubahan scope. Ketika peran R berubah dari pengusul fitur inti menjadi owner roadmap, stakes dan ownership-nya ikut berubah.
+Objective & state
+Saya mengelola ketepatan waktu, konsistensi data, dan ownership anggota. Ketidakpastian tersisa pada respons R meskipun ia berkata “sip”.
+Repertoire & language
+Saya memakai check-in, paraphrase dua kebutuhan, opsi minimum, invitation to dissent, task list, dan follow-up privat. Bahasa berubah sesuai character dan authority.
+Response & adaptation
+Sinyal lemah dari nada R disampaikan D. Saya membuka repair dan mengembalikan ownership melalui bagian feasibility.
+Agreement, action & relationship
+Agreement mencantumkan scope, owner, tenggat, hak N mengonfirmasi pemotongan, dan tindak lanjut dengan R. Proposal terkirim dan repair menghasilkan komentar positif.
+Penggunaan AI
+AI digunakan setelah percakapan untuk memeriksa apakah catatan sudah membedakan ucapan yang teramati dari interpretasi. AI sempat menyimpulkan R “kecewa”, tetapi saya menggantinya menjadi “gua menangkap kemungkinan keberatan” karena kekecewaan baru terkonfirmasi setelah saya bertanya langsung. AI tidak digunakan untuk menghasilkan respons anggota tim.
+Feedback dan Tindak Lanjut
+Feedback utama berasal dari D dan koreksi langsung R. Replay yang saya lakukan adalah membuka kembali agreement, menanyakan hal yang belum tersampaikan, lalu memperjelas ownership. Pada koordinasi berikutnya saya akan menutup rapat dengan pertanyaan kepada tiap owner: “apa yang masih mengganjal dari keputusan ini?” Indikator berhasilnya adalah keberatan muncul sebelum rapat ditutup, bukan melalui pihak ketiga.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima character dipetakan lintas domain; perubahan role, stakes, dan ownership R dibaca eksplisit.
+Objective & State
+4
+Ketepatan waktu, konsistensi data, ownership, dan ketidakpastian respons dikelola bersama.
+Repertoire, Language & AI
+4
+Check-in, paraphrase, trade-off, invitation to dissent, task list, repair, dan batas AI memiliki rationale.
+Response & Adaptation
+4
+Sinyal lemah ditindaklanjuti dan menghasilkan perubahan konkret pada ownership R.
+Agreement, Action & Relationship
+4
+Scope, owner, tenggat, authority, review, dan repair tercatat serta menghasilkan proposal tepat waktu.
+Total: 20 / 20 - Lanjut
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Ihsan Fadhlih Akbar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://frnkensteinn.github.io/kipp-students/index.html
+- https://frnkensteinn.github.io/kipp-students/assets/logo.png
+- https://frnkensteinn.github.io/kipp-students/course/index.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/index.html
+- https://frnkensteinn.github.io/kipp-students/examples/index.html
+- https://frnkensteinn.github.io/kipp-students/lk/index.html
+- https://frnkensteinn.github.io/kipp-students/slides.html
+- https://frnkensteinn.github.io/kipp-students/slides-pdf/index.html
+- https://frnkensteinn.github.io/kipp-students/assessment/index.html
+- https://frnkensteinn.github.io/kipp-students/about.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-03.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-06.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-08.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-09.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-10.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-11.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-12.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-13.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-14.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-15.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#catatan-percakapan
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#evidence-tindakan-dan-outcome
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#perubahan-language-ketika-character-berubah
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,173 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 810
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Core meaning
+Lima draf language dan alasan adaptasi
+Evidence understanding
+Analisis komunikasi
+Analisis dan batas
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Fondasi
+Language
+Lima draf bahasa untuk pemeliharaan sistem basis data, alasan adaptasi, serta lampiran pengujian feedback dan replay bersama rekan yang ditampilkan langsung pada halaman.
+CatatanIdentitas Mahasiswa
+Nama: Muhammad Nabil Aizar Ramadhan
+Fokus: Mengadaptasi repertoar dan bahasa (language) untuk lima profil audiens berbeda tanpa menggeser makna inti (core meaning).
+Core meaning
+Fakta yang tidak boleh berubah:
+Server basis data utama akan dinonaktifkan sementara untuk migrasi skema dan pembaruan keamanan (security patching) pada Rabu, 30 September 2026, pukul 21.00–23.00 WIB. Seluruh fitur yang membutuhkan autentikasi/akses data tidak dapat digunakan selama rentang waktu tersebut. Pengguna wajib menyimpan progres kerja sebelum pukul 20.50 WIB. Kanal bantuan darurat tersedia melalui meja bantuan (helpdesk).
+Lima draf language dan alasan adaptasi
+Target / Character
+Versi Language
+Alasan Adaptasi
+Friend (Rekan satu tim)
+“Bro, Rabu besok jam 21.00–23.00 malam server database utama bakal di-take down dulu buat security patch. Jangan ada yang coba uji rute atau input data di rentang jam itu ya. Tolong amanin dan save kerjaanmu sebelum jam 20.50. Kalau ada kendala darurat, kabari aku langsung ya.”
+Menggunakan sapaan akrab, nada kasual, instruksi langsung, dan penawaran bantuan personal tanpa birokrasi.
+Technical peer (Rekan pengembang backend/frontend)
+“Scheduled downtime: Klaster database production akan offline Rabu, 30 Sep, 21.00–23.00 WIB untuk eksekusi migrasi skema dan security patch. Layanan autentikasi dan API endpoints akan merespons HTTP 503. Pastikan background worker dihentikan dan seluruh sesi kerja lokal di-commit sebelum 20.50 WIB. Metrik dipantau via dasbor pengawas dan kanal Discord #infra-alerts.”
+Berorientasi pada mekanisme teknis eksplisit (HTTP 503, status worker, schema migration), kanal telemetri, dan protokol kerja antar-insinyur.
+Manager (Koordinator proyek)
+“Pemberitahuan pemeliharaan: Pembaruan keamanan infrastruktur basis data dijadwalkan pada Rabu, 30 Sep, pukul 21.00–23.00 WIB (estimasi masa henti 2 jam di luar jam sibuk). Dampak utama berupa penonaktifan sementara akses login pengguna. Risiko kehilangan data dimitigasi dengan snapshot backup otomatis pukul 20.45 WIB. Laporan pascamigrasi akan disampaikan melalui kanal koordinasi segera setelah verifikasi selesai.”
+Menitikberatkan manajemen risiko, justifikasi pemilihan waktu henti, mitigasi kehilangan data, dan kepastian alur pelaporan eksekutif.
+Customer / User (Pengguna portal aplikasi)
+“Layanan aplikasi web tidak dapat diakses sementara pada Rabu, 30 September, mulai pukul 21.00 hingga 23.00 WIB sehubungan dengan pemeliharaan rutin dan peningkatan keandalan sistem. Mohon simpan seluruh progres kerja Anda sebelum pukul 20.50 WIB agar data tidak terputus. Layanan dapat kembali diakses normal setelah pukul 23.00 WIB dengan melakukan login ulang menggunakan akun yang sama. Bantuan teknis dapat diakses via pusat bantuan.”
+Menggunakan register formal, sopan, bebas jargon arsitektur rumit, dan berfokus pada langkah keselamatan data serta kepastian tindakan pengguna.
+Public (Pengumuman umum / media sosial)
+“Pemberitahuan Pemeliharaan Layanan: Akses portal daring akan mengalami jeda operasional sementara pada Sabtu, 30 September 2026, pukul 21.00–23.00 WIB dalam rangka peningkatan keandalan infrastruktur digital. Akses penuh akan kembali dibuka setelah masa pemeliharaan selesai. Kami memohon maaf atas ketidaknyamanan ini dan mengapresiasi kerja sama Anda.”
+Disusun netral, ringkas, dan proporsional untuk audiens luas; menjaga reputasi institusi tanpa membeberkan celah keamanan spesifik.
+Evidence understanding
+Versi bahasa untuk Customer diuji coba secara langsung kepada seorang mahasiswa pengguna aplikasi tanpa memberikan penjelasan konteks awal tambahan.
+Target merespons bahwa ia memahami dengan jelas kapan sistem akan mati dan tindakan apa yang harus ia ambil (menyimpan pekerjaan sebelum 20.50 WIB). Namun, ia sempat menanyakan apakah akun yang sedang aktif akan otomatis terhapus atau apakah ia harus mendaftar ulang setelah jam 23.00.
+Berdasarkan umpan balik tersebut, draf versi customer disempurnakan dengan menyisipkan klausul:
+> “Layanan dapat kembali digunakan normal setelah pukul 23.00 WIB dengan melakukan login ulang menggunakan akun yang sama.”
+Penyesuaian ini memperjelas status sesi pengguna pascapemeliharaan tanpa mengubah fakta inti yang ada.
+Analisis komunikasi
+Elemen
+Evidence dan Analisis
+Person & character
+Banu diposisikan sebagai pengguna yang membutuhkan rasa aman terhadap integritas datanya. Lima draf profil bahasa dibedakan berdasarkan kepentingan fungsional masing-masing audiens tanpa generalisasi kaku.
+Objective & state
+Sasaran awal (menyampaikan jadwal henti sistem) berkembang menjadi penjaminan rasa aman pengguna. Keraguan Banu berhasil dijawab tuntas melalui adaptasi pesan.
+Repertoire & language
+Laras bahasa disesuaikan secara dinamis: bahasa akrab (friend), parameter teknis (peer), analisis risiko (manager), instruksional empatik (user), dan netral institusional (public). Makna inti tetap identik.
+Response & adaptation
+Pertanyaan verifikasi dari mitra tidak diabaikan, melainkan dijadikan dasar penyempurnaan penjelasan (replay) hingga memperoleh penegasan komitmen (closed-loop).
+Agreement / action
+Penerima secara eksplisit menyatakan akan menyimpan pekerjaannya sebelum pukul 20.50 WIB. Kesepakatan tercatat pada riwayat obrolan.
+Relationship outcome
+Penjelasan yang tanggap dan transparan menjaga rasa saling percaya antarpengembang dan mencegah kepanikan operasional.
+Analisis dan batas
+Repertoire bergeser secara adaptif mengikuti kebutuhan masing-masing karakter: dari obrolan koordinasi personal (chat sebaya), spesifikasi teknis (technical brief), laporan mitigasi risiko (executive summary), panduan instruksional layanan (user advisory), hingga pengumuman institusi publik (public notice).
+Tidak ada satu gaya bahasa yang universal; pengguna yang aktif di aplikasi membutuhkan tenggat penyimpanan yang tegas, sementara publik luas hanya memerlukan kepastian durasi tanpa perlu mengetahui detail konfigurasi database.
+AI digunakan secara terbatas untuk melakukan uji silang (fact-checking) konsistensi parameter: memastikan tanggal (30 September), rentang waktu (21.00–23.00 WIB), batas penyimpanan (20.50 WIB), dan kanal bantuan tetap hadir di kelima variasi pesan. Usulan AI yang sempat menambahkan kalimat spekulatif seperti “demi mencegah peretasan massal” ditolak secara sadar karena melebihi fakta acuan dan dapat menimbulkan kepanikan yang tidak perlu.
+Self-assessment
+Dimensi
+Skor (1–4)
+Evidence Singkat
+Person & Character
+3
+Kebutuhan rasa aman penerima dipetakan; lima audiens dibedakan berdasarkan peran fungsionalnya.
+Objective & State
+4
+Fakta inti konsisten di seluruh variasi; ketidakpastian sesi login diidentifikasi dan dituntaskan.
+Repertoire, Language & AI
+3
+Lima register bahasa memiliki rasionalisasi yang kuat; batas etis pemanfaatan AI dicantumkan transparan.
+Response & Adaptation
+3
+Umpan balik mitra direspons melalui replay spesifik yang menghasilkan konfirmasi pemahaman (closed-loop).
+Agreement, Action & Relationship
+3
+Komitmen tindakan penyimpanan data terverifikasi pada transkrip; batas hasil sistem dinyatakan secara jujur.
+Total Skor: 16 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#lima-draf-language-dan-alasan-adaptasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

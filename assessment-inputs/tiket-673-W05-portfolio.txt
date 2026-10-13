@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 673
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 26 September 2026, wawancara daring dengan rekan kelompok untuk mengungkap akar permasalahan keterlambatan pengumpulan laporan tugas besar.
+Persons dan relationship: Pel (saya, sebagai anggota kelompok) dan Rekan M (sebagai Ketua Kelompok / Compiler tugas besar).
+Objective dan initial state: - Objective: Menemukan akar permasalahan sebenarnya dari kepanikan kelompok saat mendekati deadline tugas, dan merumuskan shared problem statement tanpa langsung menawarkan solusi teknis. - Initial state: Terdapat kepanikan setiap kali kelompok harus mengumpulkan laporan. Asumsi awal saya (initial assumption) adalah anggota kelompok malas dan suka menunda-nunda, sehingga saya berpikir solusinya adalah memasang alarm bot reminder di grup chat.
+Evidence
+Transkrip / Parafrasa Discovery (5 Pertanyaan): * (Fact/Event) Pel: “Apa masalah utama yang paling bikin kamu stres pas ngurus kelompok kita?” -> M: “Banyak yang ngumpulin laporannya mepet jam 23.59. Baru pada kirim file jam setengah sebelas malam.” * (Impact) Pel: “Terus dampaknya ke kamu apa?” -> M: “Aku panik dan nggak punya waktu buat baca ulang kelogisan isi sama ngerapihin formatting. Takut nilainya jelek gara-gara berantakan.” * (Ideal State) Pel: “Idealnya kamu pengen proses kita jalan kayak gimana?” -> M: “Aku pengen bisa ngelihat status pengerjaan tiap orang tanpa harus nanya di grup satu-satu.” * (Constraint) Pel: “Kendalanya buat mantau selama ini apa?” -> M: “Jadwal kesibukan anak-anak beda-beda, dan kalau ngabarin lewat WA doang, chat-nya cepet banget ketumpuk obrolan lain.”
+Shared Problem Statement (Terkonfirmasi): “Rekan M sebagai ketua kelompok mengalami keterlambatan pengumpulan bahan saat mendekati tenggat waktu pengumpulan tugas, sehingga ia kehabisan waktu untuk me-review dan merapikan format laporan. Ia membutuhkan kemampuan memantau status pengerjaan setiap anggota secara riil tanpa perlu menagihnya secara manual, dengan mempertimbangkan kesibukan jadwal anggota yang berbeda-beda serta pesan komunikasi grup WA yang mudah tertumpuk.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya melepaskan karakter sebagai ‘orang IT’ yang ingin buru-buru bikin aplikasi/bot reminder. Saya memposisikan diri sebagai rekan sejawat yang mendengarkan kesulitan compiler tugas secara empatik.
+Objective & state
+Beralih dari sekadar berasumsi “anggota pemalas” menjadi memahami state kesulitan manajerial. M bergeser dari rasa frustrasi menjadi merasa dimengerti beban kerjanya.
+Repertoire & language
+Saya menggunakan pertanyaan terbuka berbasis penggalian (discovery questions) untuk menuntun M merumuskan keresahannya secara konkret, dari sekadar emosi menjadi fakta yang bisa dievaluasi.
+Response & adaptation
+Ketika mendengar M mengeluhkan chat WA yang tertumpuk, saya segera membuang ide awal saya (membuat bot pengingat WA), dan beradaptasi mencatat hal tersebut sebagai constraint (kendala) utama.
+Agreement/action
+M menyetujui rumusan Problem Statement yang saya draf. Sebagai aksi, saya berjanji untuk update pekerjaan secara proaktif pada dokumen bersama agar progresnya terlihat tanpa perlu chat WA.
+Relationship outcome
+Relasi kerja akademik membaik. Kesalahpahaman dapat dihindari, dan timbul rasa saling menghargai terhadap beban kerja ketua kelompok.
+Penggunaan AI
+Saya menggunakan AI (Gemini) untuk membantu menstrukturisasi draft Lembar Kerja dan merapikan formatting markdown agar transcript percakapan nyata saya dapat disajikan dengan rapi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rekan M menyatakan bahwa rumusan masalahnya sudah sangat mewakili isi kepalanya dan setuju bahwa masalah utamanya ada di sistem pelacakan (tracking) yang masih manual via WA.
+Adaptation/replay: Mengubah kalimat fokus perbaikan dari “membuat bot pengingat” (solusi prematur) menjadi “memastikan visibilitas pengerjaan” (kebutuhan riil).
+Next practice: Saat ada rekan kerja/akademik yang mengeluh tentang masalah teknis di proyek, saya akan menanyakan dampak (impact) masalah tersebut terlebih dahulu sebelum memberikan usulan perbaikan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Sadar penuh menahan ego IT untuk tidak langsung proposing (menyodorkan solusi).
+Objective & State
+4
+Berhasil mengekstrak permasalahan laten yang sering tidak disadari oleh tim.
+Repertoire, Language & AI
+3
+Menggunakan discovery questions untuk mendapatkan hasil konkret. AI dideklarasikan.
+Response & Adaptation
+4
+Mengubah arah asumsi secara total setelah mendengar hambatan soal komunikasi WA.
+Agreement, Action & Relationship
+3
+Partner mengonfirmasi draf masalah, memunculkan rasa saling percaya dalam relasi akademik.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

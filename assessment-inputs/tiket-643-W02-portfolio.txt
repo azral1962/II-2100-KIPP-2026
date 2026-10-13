@@ -1,0 +1,265 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 643
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Minggu 2 — Intra-Self Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Minggu 2 — Intra-Self Communication
+Indeks Portfolio
+Character Map
+Minggu 2 — Intra-Self Communication
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Konteks
+Event
+Fact, Story, dan Emotion
+Alternative narratives
+Internal conversation dan agreement
+Internal agreement
+Evidence proses
+Analisis komunikasi
+Perubahan dari reaction ke response
+Reflection
+Penggunaan AI
+Feedback dan tindak lanjut
+Feedback
+Adaptation
+Next practice
+Self-assessment
+Total: 20/20 — Lanjut
+Assessment dosen
+Minggu 2 — Intra-Self Communication
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response melalui pemisahan event, fact, story, emotion, internal character, choice, dan action.
+Kompetensi target
+Mampu memisahkan event, fact, story, emotion, internal character, choice, dan action, sehingga dapat mengubah reaction menjadi response yang lebih bertanggung jawab.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Perubahan dari reaction menuju response.
+Outcome dari pilihan tindakan yang dilakukan.
+Episode
+Konteks
+Episode ini terjadi ketika saya mengerjakan project browser berbasis C dalam tim. Saya bertanggung jawab mengerjakan fitur F07 Back/Forward, yang menggunakan dua stack untuk mengatur riwayat navigasi.
+Saat mengerjakan fitur tersebut, saya perlu memastikan implementasi saya dapat terintegrasi dengan struktur project dan perubahan dari anggota tim lainnya.
+Event
+Saya menemukan adanya perubahan pada project yang membuat saya perlu menyesuaikan implementasi fitur saya. Situasi ini membuat saya harus memastikan kembali apakah masalah tersebut berasal dari implementasi fitur saya, perubahan struktur dari anggota lain, atau proses integrasi project.
+Fact, Story, dan Emotion
+Lapisan
+Catatan saya
+Fact
+Ada perubahan pada project yang memengaruhi proses integrasi fitur F07 dan saya perlu menyesuaikan implementasi agar tetap sesuai dengan struktur project.
+Initial story
+“Jangan-jangan implementasi saya salah atau pekerjaan saya malah membuat integrasi tim menjadi bermasalah.”
+Emotion/body signal
+Saya merasa khawatir dan cukup frustrasi karena ingin fitur yang saya kerjakan dapat berjalan dengan benar dan tidak menghambat anggota tim lain.
+Reactive character
+“Fixer” yang ingin langsung memperbaiki masalah tanpa terlebih dahulu memahami sumber masalahnya.
+Desired character
+“Problem Solver yang sistematis” yang ingin memeriksa evidence terlebih dahulu sebelum menentukan tindakan.
+Initial story saya membuat saya hampir langsung menyimpulkan bahwa masalah tersebut berasal dari implementasi saya. Padahal, fakta yang tersedia belum cukup untuk membuktikan penyebabnya.
+Alternative narratives
+Setelah memisahkan fact dari story, saya membuat beberapa kemungkinan lain:
+Integration issue: perubahan dari bagian lain dalam project mungkin memengaruhi implementasi F07, sehingga masalah tidak sepenuhnya berasal dari kode saya.
+Interface/structure mismatch: implementasi saya mungkin benar secara konsep, tetapi belum sesuai dengan struktur atau interface yang digunakan project secara keseluruhan.
+Implementation error: ada kemungkinan memang terdapat kesalahan pada implementasi saya sendiri yang baru terlihat ketika fitur digabungkan dengan bagian lain.
+Alternative narratives tersebut membantu saya menyadari bahwa saya belum memiliki cukup evidence untuk langsung menyalahkan implementasi sendiri ataupun perubahan anggota lain.
+Saya kemudian memilih untuk memeriksa kode, alur data, dan struktur integrasi terlebih dahulu sebelum melakukan perubahan.
+Internal conversation dan agreement
+Saat itu terdapat dua kecenderungan dalam diri saya:
+Fixer: “Langsung ubah kodenya supaya error-nya hilang.”
+Problem Solver: “Tunggu. Kita belum tahu sumber masalahnya. Periksa dulu bagian mana yang berubah dan apa hubungan perubahan tersebut dengan F07.”
+Saya: “Saya akan memeriksa evidence terlebih dahulu. Setelah tahu sumber masalahnya, baru menentukan tindakan.”
+Internal agreement
+Saya membuat kesepakatan dengan diri sendiri:
+“Sebelum mengubah implementasi karena merasa panik atau khawatir, saya akan memeriksa fact terlebih dahulu, menentukan kemungkinan penyebab, lalu memilih satu tindakan yang paling sesuai dengan evidence.”
+Agreement tersebut mengubah cara saya menghadapi masalah dari langsung bereaksi menjadi melakukan diagnosis terlebih dahulu.
+Evidence proses
+Dalam proses pengerjaan F07, saya melakukan beberapa pemeriksaan:
+Memeriksa kembali implementasi Back Stack dan Forward Stack.
+Memeriksa alur perpindahan halaman ketika melakukan back dan forward.
+Memeriksa hubungan implementasi F07 dengan struktur project lainnya.
+Membandingkan kondisi sebelum dan sesudah perubahan.
+Setelah penyebab lebih jelas, baru menentukan bagian yang perlu diperbaiki.
+Hal penting yang saya sadari adalah bahwa masalah dalam project tim tidak selalu berarti implementasi saya salah. Saya perlu membedakan antara fakta yang benar-benar terlihat dengan interpretasi yang muncul secara otomatis.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & Character
+Saya mengenali dua internal character: “Fixer” yang ingin segera menyelesaikan masalah dan “Problem Solver yang sistematis” yang memilih memeriksa evidence terlebih dahulu.
+Objective & State
+Objective saya adalah membuat F07 dapat terintegrasi dengan baik tanpa melakukan perubahan yang tidak diperlukan. State awal saya adalah khawatir dan ingin langsung memperbaiki. State berikutnya menjadi lebih tenang setelah memeriksa sumber masalah.
+Repertoire & Language
+Repertoire saya berubah dari langsung mengubah kode menjadi debugging secara sistematis: memeriksa stack, alur navigasi, dan hubungan antarbagian project.
+Response & Adaptation
+Setelah memisahkan fact dari story, saya tidak langsung mengikuti asumsi awal. Saya menyesuaikan tindakan berdasarkan hasil pemeriksaan dan evidence yang ditemukan.
+Agreement & Action
+Internal agreement dijalankan dengan memeriksa fact terlebih dahulu sebelum melakukan perubahan kode. Action dilakukan setelah kemungkinan penyebab menjadi lebih jelas.
+Relationship outcome
+Dengan tidak langsung menyalahkan bagian tertentu, proses pengerjaan tetap berfokus pada penyelesaian masalah dan integrasi fitur dalam tim.
+Perubahan dari reaction ke response
+Reaction
+Response
+Trigger
+Menemukan masalah ketika mengintegrasikan F07
+Menemukan masalah yang sama
+Interpretasi
+“Mungkin kode saya yang salah.”
+“Saya belum punya cukup evidence untuk menentukan penyebabnya.”
+Internal character
+Fixer
+Problem Solver yang sistematis
+Tindakan
+Ingin langsung mengubah kode
+Memeriksa implementasi, alur stack, dan struktur project
+Outcome
+Risiko melakukan perubahan yang tidak diperlukan
+Tindakan lebih terarah berdasarkan evidence
+Perubahan utama bukan pada event-nya, tetapi pada cara saya memberikan makna terhadap event tersebut.
+Reflection
+Dari episode ini saya belajar bahwa komunikasi dengan diri sendiri terjadi bahkan sebelum saya berkomunikasi dengan anggota tim.
+Ketika melihat masalah dalam project, saya dapat langsung membangun story seperti “kode saya salah” atau “integrasi tim bermasalah”. Story tersebut kemudian memengaruhi emotion dan mendorong saya untuk bertindak secara reaktif.
+Dengan memisahkan fact dan story, saya mendapatkan ruang untuk memilih tindakan yang berbeda.
+Saya juga menyadari bahwa menjadi problem solver bukan berarti harus selalu langsung memperbaiki masalah. Terkadang response yang lebih baik adalah berhenti sebentar, mencari evidence, memahami konteks, lalu menentukan tindakan.
+Penggunaan AI
+AI digunakan sebagai alat bantu setelah saya memahami episode dan melakukan analisis sendiri.
+AI dapat membantu saya mengecek apakah struktur analisis sudah mencakup:
+event;
+fact;
+story;
+emotion;
+internal character;
+alternative narrative;
+choice;
+action; dan
+outcome.
+Namun, pengalaman, keputusan, dan interpretation dalam episode tetap berasal dari saya. AI tidak digunakan untuk membuat pengalaman atau kejadian yang tidak saya alami.
+Feedback dan tindak lanjut
+Feedback
+Feedback utama dari proses ini adalah hasil pemeriksaan terhadap project itu sendiri. Dengan memeriksa evidence sebelum bertindak, saya dapat memahami masalah dengan lebih terstruktur dibandingkan langsung melakukan perubahan karena asumsi awal.
+Adaptation
+Saya menerapkan pola yang sama untuk pengerjaan berikutnya:
+Fact → Story → Alternative → Evidence → Choice → Action
+Pola tersebut menjadi semacam checklist pribadi ketika saya menghadapi masalah dalam project atau kerja kelompok.
+Next practice
+Ketika menemukan masalah yang memicu reaksi kuat, saya akan:
+Menuliskan atau mengidentifikasi fact yang benar-benar terjadi.
+Memisahkan fact dari interpretation.
+Membuat minimal dua kemungkinan explanation.
+Memeriksa evidence.
+Memilih response berdasarkan evidence.
+Mengevaluasi outcome setelah tindakan dilakukan.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Saya mengidentifikasi dua internal character yang berbeda dan menyadari bahwa saya dapat memilih character mana yang memimpin tindakan.
+Objective & State
+4
+Saya mengidentifikasi objective untuk menyelesaikan masalah F07 dan membedakan state awal yang reaktif dengan state setelah melakukan pemeriksaan.
+Repertoire, Language & AI
+4
+Saya mengubah repertoire dari tindakan spontan menjadi debugging sistematis dan menggunakan AI hanya sebagai alat bantu evaluasi struktur refleksi.
+Response & Adaptation
+4
+Saya memisahkan fact dan story, membuat alternative narratives, kemudian menyesuaikan tindakan berdasarkan evidence.
+Agreement, Action & Relationship
+4
+Internal agreement diterjemahkan menjadi action yang jelas: memeriksa evidence terlebih dahulu sebelum melakukan perubahan dan menjaga fokus pada penyelesaian masalah tim.
+Total: 20/20 — Lanjut
+Saya mampu menunjukkan perubahan dari reaction menuju response dengan memisahkan event, fact, story, emotion, internal character, choice, dan action. Saya tidak langsung menjadikan interpretation awal sebagai kebenaran, tetapi memperluas kemungkinan explanation dan memilih tindakan berdasarkan evidence.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Fathir Mulya Gibran
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fathirmulbran-wq.github.io/kipp-students/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/assets/logo.png
+- https://fathirmulbran-wq.github.io/kipp-students/course/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/examples/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/assessment/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/about.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-01.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-05.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-06.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-07.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-08.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-09.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-10.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-11.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-12.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-13.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-14.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-15.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#episode
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#konteks
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#event
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#fact-story-dan-emotion
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#internal-agreement
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#evidence-proses
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#perubahan-dari-reaction-ke-response
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#reflection
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#feedback
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#adaptation
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#next-practice
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#total-2020-lanjut
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

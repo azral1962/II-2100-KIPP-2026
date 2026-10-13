@@ -1,0 +1,202 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 816
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaelengi.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Target map
+Attention pitch dan evidence
+Response dan state assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Target map
+Target person
+Relevance terhadap issue
+Authority dan kemampuan bertindak
+State awal dan kebutuhan komunikasi
+Arif, koordinator program bimbingan sebaya
+Bertanggung jawab atas kelancaran jadwal dan pengalaman peserta
+Dapat mengizinkan pemeriksaan proses dan menyetujui uji terbatas
+Belum melihat ringkasan ketidaksesuaian; perlu evidence yang ringkas dan tidak melebih-lebihkan pola
+Naya, mentor sebaya
+Menangani perubahan jadwal dan konfirmasi langsung
+Dapat menjelaskan current workaround, tetapi tidak menetapkan kebijakan program
+Sudah mengenali kejadian; perlu didengar sebagai sumber pengalaman operasional
+Mahasiswa peserta
+Terdampak jika menerima jadwal berbeda atau terlambat
+Dapat memvalidasi dampak dan mencoba proses baru
+Membutuhkan informasi jadwal yang jelas serta privasi atas jadwal pribadinya
+Admin LMS kampus
+Mengetahui kemampuan alat yang sudah tersedia
+Dapat memberi masukan teknis, tetapi bukan pemilik keputusan layanan
+Belum perlu diajak sebelum issue dan kebutuhan proses disepakati
+Saya memilih Arif, koordinator program, sebagai target attention. Ia memiliki relevansi terhadap keberlangsungan layanan dan wewenang untuk menyepakati langkah pemeriksaan berikutnya. Saya tidak langsung meminta persetujuan teknologi atau pilot.
+Attention pitch dan evidence
+Sebelum percakapan, saya membandingkan secara agregat 12 perubahan jadwal yang tercatat selama dua minggu pada kalender layanan dan ringkasan pemberitahuan. Empat perubahan tidak muncul dengan status yang sama di kedua sumber; tiga di antaranya membutuhkan konfirmasi ulang. Pemeriksaan ini menggunakan status dan jumlah kasus, bukan isi chat pribadi atau nama mahasiswa.
+“Dalam dua minggu terakhir, empat dari dua belas perubahan jadwal yang saya cek belum tercatat sama di kalender layanan dan pemberitahuan. Tiga perlu dikonfirmasi ulang. Dari wawancara mentor, satu mahasiswa juga pernah datang mengikuti jadwal lama. Saya belum menyimpulkan bahwa mahasiswa sering lupa atau bahwa kita butuh aplikasi baru. Apakah konsistensi informasi perubahan jadwal ini relevan untuk kelancaran layanan bimbingan?”
+Pitch menyebutkan evidence, ukuran sampel, serta batas kesimpulan. Tujuannya memperoleh perhatian pada issue, bukan menjual solusi.
+Response dan state assessment
+Response Arif: “Ya, jadwal yang tidak sama bisa mengganggu layanan. Tapi dua minggu itu mencakup awal semester, saat jadwal masih banyak berubah. Kita perlu tahu apakah ini juga terjadi pada minggu biasa.”
+Response tersebut mengakui issue sebagai relevan, sekaligus mempertanyakan apakah data cukup mewakili pola rutin. Saya menilai state Arif berubah dari belum melihat issue secara terukur menjadi Attention dengan reservation. Ia belum meminta demonstrasi solusi, sehingga saya tidak menganggapnya sudah berada pada tahap Interest.
+Saya menjawab:
+“Setuju, periode awal semester mungkin tidak mewakili minggu normal. Sebelum membahas solusi, apakah kita bisa membandingkan hitungan agregat dari dua minggu biasa dan mencatat berapa perubahan yang memerlukan konfirmasi ulang? Saya tidak perlu melihat isi pesan atau identitas mahasiswa.”
+Arif menyetujui pemeriksaan jumlah agregat bersama tim jadwal pada minggu berikutnya. Saya mengadaptasi objective dari meminta perhatian pada besarnya masalah menjadi menyepakati cara validasi yang lebih representatif dan tetap menjaga privasi.
+Konteks performance
+Tanggal dan setting: Diskusi singkat dengan koordinator program setelah saya menyusun ringkasan dua minggu perubahan jadwal bimbingan sebaya.
+Persons dan relationship: Saya menyampaikan temuan sebagai mahasiswa yang mengeksplorasi proses layanan; Arif adalah koordinator dengan tanggung jawab operasional. Naya menjadi sumber pengalaman discovery pada Minggu 5. Nama digunakan sebagai nama samaran.
+Objective dan initial state: Saya ingin mengetahui apakah konsistensi perubahan jadwal layak diperiksa sebagai issue layanan. State awal Arif adalah belum melihat ringkasan evidence; setelah pitch, ia mengakui relevansi issue tetapi mempertanyakan representativitas periode data.
+Evidence
+Evidence tugas ini terdiri dari target map, hitungan agregat atas 12 perubahan jadwal, attention pitch, response Arif yang direkonstruksi, dan kesepakatan untuk membandingkan periode minggu biasa. Empat perubahan yang belum konsisten dan tiga kebutuhan konfirmasi ulang adalah angka dalam narasi asumsi ini, bukan hasil audit sistem nyata. Analisis tidak menggunakan isi chat atau identitas peserta.
+Agreement/action: Arif setuju memeriksa hitungan agregat dari dua minggu rutin bersama tim jadwal. Saya akan membandingkan jumlah perubahan, ketidaksesuaian status, dan kebutuhan konfirmasi ulang tanpa membuka informasi pribadi.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya memilih Arif karena ia bertanggung jawab atas proses layanan dan dapat menyepakati pemeriksaan lanjutan, bukan sekadar karena ia memegang jabatan. Saya mengambil character analis yang ringkas, terbuka terhadap koreksi, dan tidak memaksa target menyetujui kesimpulan.
+Objective & state
+Objective awal adalah menguji relevansi issue. Arif mengakui dampaknya tetapi menandai keterbatasan sampel. State dibaca sebagai Attention dengan reservation, bukan Interest atau agreement untuk menerapkan solusi.
+Repertoire & language
+Pitch menyampaikan angka dengan denominator, satu contoh dampak, batas evidence, dan satu pertanyaan relevance. Saya menghindari jargon teknis dan menjelaskan bahwa pemeriksaan tidak memerlukan akses ke chat pribadi.
+Response & adaptation
+Keberatan tentang awal semester menunjukkan isu representativitas. Saya menerima batas itu dan mengubah objective menjadi pemeriksaan dua minggu rutin sebelum melanjutkan ke solusi.
+Agreement/action
+Arif menyetujui pemeriksaan jumlah agregat bersama tim jadwal. Scope data dibatasi pada jumlah perubahan dan status, tanpa nama atau isi pesan.
+Relationship outcome
+Percakapan menghasilkan pengakuan bahwa issue patut diperiksa lebih lanjut tanpa tekanan agar Arif menyetujui solusi. Transparansi tentang ukuran sampel dan privacy membantu menjaga kredibilitas serta kepercayaan kerja.
+Penggunaan AI
+Saya menggunakan AI hanya untuk membantu merapikan struktur jawaban dan memperjelas bahasa berdasarkan informasi yang sudah saya serahkan sendiri. AI tidak digunakan untuk menghasilkan ide utama, menentukan karakter, atau menulis isi analisis dari nol. Saya tetap mengawasi isi jawaban, menyesuaikan dengan pengalaman dan fakta yang saya alami, serta memastikan bahwa apa yang ditulis benar-benar mencerminkan pemikiran saya.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Adaptation/replay:
+Next practice:
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Target dipilih dari peran dan authority yang terkait langsung dengan issue.
+Objective & State
+3
+State Arif dibaca sebagai Attention dengan reservation, bukan Interest atau approval.
+Repertoire, Language & AI
+3
+Pitch ringkas menggunakan angka, batas evidence, bahasa nonteknis, dan disclosure AI.
+Response & Adaptation
+4
+Keberatan tentang representativitas mengubah objective menjadi validasi pada minggu rutin.
+Agreement, Action & Relationship
+3
+Ada kesepakatan pemeriksaan agregat dengan batas privasi yang jelas; hasil validasi belum tersedia dalam skenario ini.
+Total: 16 / 20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Daffa Ramadhan Elengi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaelengi.github.io/kipp-students/index.html
+- https://daffaelengi.github.io/kipp-students/assets/logo.png
+- https://daffaelengi.github.io/kipp-students/course/index.html
+- https://daffaelengi.github.io/kipp-students/portfolio/index.html
+- https://daffaelengi.github.io/kipp-students/examples/index.html
+- https://daffaelengi.github.io/kipp-students/lk/index.html
+- https://daffaelengi.github.io/kipp-students/slides.html
+- https://daffaelengi.github.io/kipp-students/slides-pdf/index.html
+- https://daffaelengi.github.io/kipp-students/assessment/index.html
+- https://daffaelengi.github.io/kipp-students/about.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-01.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-02.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-03.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-04.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-05.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-07.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-08.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-09.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-10.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-11.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-12.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-13.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-14.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-15.html
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#attention-pitch-dan-evidence
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#konteks-performance
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#evidence
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#feedback-dan-tindak-lanjut
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://daffaelengi.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+- https://daffaelengi.github.io/kipp-students/examples/week-06.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

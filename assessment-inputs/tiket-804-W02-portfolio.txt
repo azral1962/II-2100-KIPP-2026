@@ -1,0 +1,151 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 804
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Episode
+Event: Seorang rekan tim lomba bisnis mengutarakan keinginan untuk merombak ide dasar perlombaan ketika progres pengerjaan dokumen kami sudah mencapai sekitar 75%.
+Lapisan
+Catatan Jose
+Fact
+Rekan tim mengutarakan keinginan untuk merombak ide dasar ketika progres dokumen sudah sekitar 75%; saya merespons dengan menanyakan kembali maksudnya dan solusi spesifik yang ia tawarkan.
+Initial story
+“Dia meragukan kapabilitas saya dalam lomba ideasi bisnis karena ide awal tim merupakan hasil brainstorming saya.” Saya juga menyalahkan diri sendiri karena merasa tidak enakan untuk langsung menolak usulannya.
+Emotion/body signal
+Sedih, kecewa, dan kesal 7/10; merasa murung, kehilangan energi, dan terdiam menatap layar laptop dengan tatapan kosong.
+Reactive character
+“Victim” yang merasa terpojok dan tidak berdaya karena tidak enak menolak usulan rekan.
+Desired character
+“Growth Leader” yang mampu mengendalikan emosi, memahami tujuan bersama, dan mencari titik tengah yang realistis.
+Initial story melampaui fakta: rekan memang mengusulkan perubahan ide, tetapi hal tersebut belum membuktikan bahwa ia meragukan kemampuan saya. Ada kemungkinan bahwa ia hanya mengkhawatirkan daya saing ide dan ingin meningkatkan peluang tim untuk menang.
+Alternative narratives
+Team concern: rekan mungkin mempertanyakan ide karena khawatir konsep tersebut belum cukup kompetitif untuk lolos atau menang, bukan karena meragukan kemampuan saya.
+Risk-management: keinginan merombak ide pada progres 75% dapat dilihat sebagai persoalan risiko dan waktu, bukan sebagai konflik personal.
+Growth opportunity: ketidaksepakatan ini dapat menjadi kesempatan untuk melatih kontrol emosi, komunikasi asertif, dan pengambilan keputusan dalam tekanan waktu.
+Alternative ketiga paling berguna karena tetap mengakui bahwa situasinya sulit dan mengecewakan, tetapi mengarahkan perhatian saya pada tindakan yang masih dapat saya kendalikan.
+Internal conversation dan agreement
+Victim: “Pasrah sajalah, mungkin ideku memang kurang bagus. Tapi kesal sekali karena waktunya sudah sangat mepet, kenapa baru bilang sekarang?”
+Growth Leader: “Tujuannya kan sama-sama ingin menang. Membongkar total di progres 75% memang terlalu berisiko, tetapi kekhawatirannya juga tidak bisa diabaikan. Coba cari titik tengahnya.”
+Jose: “Saya tidak akan sekadar menolak secara emosional. Saya akan mengajak diskusi terbuka, menjelaskan risiko dari perombakan total, dan menawarkan penyesuaian atau iterasi ide.”
+Internal agreement: sebelum mengambil keputusan final, saya akan menenangkan diri dan memahami alasan rekan saya. Setelah itu, saya akan mengajak berdiskusi secara terbuka dan menawarkan penyesuaian ide, bukan perombakan total, dengan mempertimbangkan progres 75% dan waktu pengumpulan dokumen yang sudah dekat.
+Evidence tindakan
+Saya tidak langsung menolak usulan rekan meskipun merasa kecewa dan kesal.
+Saya mengambil jeda untuk meredakan reaktivitas sebelum melanjutkan percakapan.
+Saya mempertimbangkan kemungkinan bahwa kekhawatiran rekan berasal dari keinginannya agar tim memiliki peluang menang yang lebih besar.
+Saya menawarkan solusi berupa iterasi ide, yaitu mempertahankan dasar konsep tetapi menyesuaikan fitur atau penyampaiannya agar lebih kompetitif.
+Rekan menerima gagasan untuk melakukan penyesuaian daripada membongkar keseluruhan ide.
+Feedback, AI, dan refleksi
+Saya menggunakan komunikasi yang lebih asertif dan tidak defensif dengan mengakui kekhawatiran rekan terlebih dahulu sebelum menjelaskan risiko dari perombakan total. Saya juga meminta pendapat pihak terdekat sebagai sounding board untuk memastikan cara penyampaian saya tetap rasional dan tidak terdengar menghakimi.
+Saya tidak memiliki bukti fisik penggunaan AI dalam proses ini, sehingga aspek AI tidak menjadi dasar peningkatan skor pada dimensi ini.
+Next practice: ketika menghadapi konflik atau feedback serupa, saya akan memisahkan fact, story, dan next action sebelum memberikan respons agar tidak langsung mengikuti reaksi emosional.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Mampu membedakan karakter reaktif “Victim” dengan karakter yang ingin dipilih, yaitu “Growth Leader”, dan secara sadar mengarahkan diri pada respons yang lebih konstruktif.
+Objective & State
+4
+Mampu mengenali kondisi emosional dan fisik secara spesifik, kemudian mengubah reaksi berupa murung dan pasrah menjadi respons yang lebih tenang dan berorientasi pada solusi.
+Repertoire, Language & AI
+3
+Jeda emosional, komunikasi asertif, dan sounding board digunakan, tetapi tidak terdapat bukti fisik penggunaan AI.
+Response & Adaptation
+4
+Mampu mengubah interpretasi dari kemungkinan serangan personal menjadi kemungkinan kepedulian terhadap daya saing tim, lalu menyesuaikan strategi menjadi iterasi ide.
+Agreement, Action & Relationship
+4
+Internal agreement menghasilkan tindakan berupa diskusi dan kompromi yang mempertahankan progres, mengakomodasi kekhawatiran rekan, serta menjaga hubungan kerja tim.
+Total: 19/20 — Sangat Kompeten.
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Maximillian Jose Andreas Aditjandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ilovecomputer-python.github.io/kipp-students/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assets/logo.png
+- https://ilovecomputer-python.github.io/kipp-students/course/index.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/index.html
+- https://ilovecomputer-python.github.io/kipp-students/examples/index.html
+- https://ilovecomputer-python.github.io/kipp-students/lk/index.html
+- https://ilovecomputer-python.github.io/kipp-students/slides.html
+- https://ilovecomputer-python.github.io/kipp-students/slides-pdf/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assessment/index.html
+- https://ilovecomputer-python.github.io/kipp-students/about.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-01.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-03.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-06.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-08.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-09.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-10.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-11.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-12.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-13.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-14.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-15.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html#episode
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

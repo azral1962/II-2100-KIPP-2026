@@ -1,0 +1,238 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 655
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+1. Konteks Performance
+2. Evidence (Matriks Lima Bahasa)
+3. Analisis Komunikasi
+4. Penggunaan AI
+5. Feedback dan Tindak Lanjut
+6. Self-Assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Nama Lengkap: Muhammad Rafi Fadillah NIM: 18225115 Program Studi: Sistem dan Teknologi Informasi Tanggal Pengisian: 29 September 2026
+1. Konteks Performance
+Tanggal dan setting: Malam hari di kosan, setelah saya berhasil merakit prototipe tugas Smart Home Automation. Saya perlu menjelaskan alat ini ke berbagai pihak dengan tingkat pemahaman teknologi yang berbeda-beda. Persons dan relationship: Saya (mahasiswa STI pembuat alat IoT). Lima target: (1) Pacar (beda jurusan/non-IT), (2) Rekan teknis (teman sekelas STI), (3) Dosen pembimbing/evaluator, (4) Pemilik kos (Customer/Target pengguna), (5) Publik umum di media sosial. Objective dan initial state: Mengkomunikasikan cara kerja sistem IoT Smart Home yang menggunakan ESP32 dan MQTT. State awal: Jika saya menggunakan definisi jurnal teknis, orang awam akan bingung. Objective: Menerjemahkan esensi teknologi ini ke lima bahasa berbeda tanpa merubah kebenaran intinya (core meaning), serta melakukan tes pemahaman langsung ke target awam. Core meaning yang tidak boleh berubah: Mengendalikan peralatan listrik (lampu/saklar) dari jarak jauh menggunakan internet untuk memberikan kemudahan, keamanan, dan efisiensi.
+2. Evidence (Matriks Lima Bahasa)
+Kelimanya ditulis berdasarkan dekonstruksi makna inti. Setelah ditulis, saya menguji satu versi ke manusia asli untuk melihat apakah ada jargon yang masih bocor.
+Target/Character
+Versi Language
+Alasan Adaptasi
+Pacar (Non-IT)
+“Aku bikin sistem biar lampu kamar bisa dimatiin dari luar pakai HP. Ibarat kamu punya remote TV universal, tapi tombolnya ada di layar smartphone kamu, jadi kalau udah rebahan atau lagi di luar, tinggal pencet HP buat matiin lampu.”
+Menggunakan analogi fisik (remote TV) yang sangat akrab di keseharian; membuang total istilah teknis agar pesannya terasa relevan dengan kenyamanan sehari-hari.
+Technical Peer (Mahasiswa STI)
+“Gua implementasi smart home pakai mikrokontroler ESP32 nodeMCU. Komunikasinya pakai protokol MQTT publish-subscribe ke cloud server via Blynk API, jadi aktuasi ke pin GPIO buat nyalain relay 4-channel-nya lumayan low-latency.”
+Jargon teknis (MQTT, GPIO, Relay) aman dan wajib dipakai karena ada shared vocabulary; langsung to the point ke spesifikasi hardware dan protokolnya.
+Manager (Dosen Pembimbing)
+“Sistem otomasi ini dirancang untuk memangkas konsumsi energi. Dengan integrasi mikrokontroler berbiaya rendah dan kontrol terpusat, sistem ini memberikan efisiensi operasional dengan manajemen risiko downtime yang minimal pada beban listrik.”
+Dosen/Manajer tidak terlalu peduli urusan “rebahan”; mereka butuh konteks value (efisiensi energi) dan manajemen risiko, bahasanya formal dan terstruktur.
+Customer (Pemilik Kos)
+“Bapak bisa pasang alat ini di kosan supaya bisa ngontrol lampu lorong atau pompa air langsung dari HP Bapak dari rumah. Selain praktis, ini juga bisa nurunin tagihan listrik kosan karena alatnya bisa dijadwal otomatis matinya.”
+Konsumen butuh tahu keuntungan langsung di dompet mereka (tagihan turun) dan kepraktisan, tanpa perlu diajari apa itu cloud server.
+Public (Followers Instagram)
+“Sering panik lupa matiin lampu kos pas udah sampai kampus? Teknologi smart home ini solusinya! Kita bisa ngontrol saklar listrik dari mana aja cuma modal HP dan internet. Bikin hidup praktis dan hemat listrik. Bye-bye boros energi!”
+Bahasa dibuat sangat inklusif, relatable dengan masalah umum (lupa matiin lampu), dan tone-nya kasual-promotif sesuai platform medsos.
+Uji Understanding & Bukti Adaptasi (Feedback Wajib): Saya membacakan draf pertama versi Pacar kepada pacar saya saat kami sedang voice call. * Draf awal saya: “Aku bikin sistem nyalain lampu pakai ESP32 yang dikontrol lewat aplikasi Blynk di HP. Ibarat remote TV…” * Respons/Feedback Pacar: “Bentar, ESP32 tuh apaan? Nama robot? Terus Blynk itu aplikasi apaan, semacam game?” * Adaptasi (Revisi Real-Time): Saya menyadari Kutukan Pengetahuan masih terjadi. Saya langsung menghapus kata “ESP32” dan “Blynk”, lalu mengubahnya menjadi kalimat di tabel atas (“…sistem biar lampu kamar bisa dimatiin dari luar pakai HP”). * Outcome: Pacar saya langsung mengangguk paham dan menjawab, “Oh ngerti-ngerti, macem smart lamp yang biasa dijual di Shopee itu kan.”
+3. Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Lima target dianalisis berdasarkan apa yang relevan bagi mereka. Rekan teknis butuh spesifikasi, pemilik kos butuh kepastian irit biaya, dan pacar butuh kenyamanan/analogi simpel.
+Objective & State
+Core meaning (menyalakan alat listrik dari jauh via internet) tetap utuh di kelima versi. Saya mengecek ulang setiap kalimat untuk memastikan esensi ini tidak hilang.
+Repertoire & Language
+Jargon (NodeMCU, GPIO) murni dikurung hanya untuk versi rekan teknis. Versi lain menggunakan analogi (remote TV) atau bahasa value-driven (tagihan turun).
+Response & Adaptation
+Kebingungan pacar terhadap kata “ESP32” dan “Blynk” menjadi bukti feedback langsung. Adaptasi saya adalah membuang nama merk/hardware tersebut sepenuhnya dari percakapan awam.
+Agreement, Action & Outcome
+Action terlihat: Pemilik kos menyadari value ekonomi, dosen melihat value akademis/efisiensi. Outcome dari revisi feedback membuat pacar saya paham 100% tanpa merasa diintimidasi istilah IT.
+4. Penggunaan AI
+Saya tidak menggunakan AI untuk membuat terjemahan analoginya. Semua versi disusun manual dari pemahaman saya terhadap latar belakang kelima target tersebut. AI hanya saya gunakan setelah draf selesai untuk merapikan formatting tabel (Markdown) agar selaras dengan rubrik evaluasi, sementara proses uji feedback dilakukan langsung bersama manusia nyata (pacar saya).
+5. Feedback dan Tindak Lanjut
+Feedback yang diterima: Pacar saya menyadarkan saya bahwa sekadar menyebut nama komponen elektronik (walaupun bagi mahasiswa STI itu hal dasar) sudah cukup membuat orang non-IT kebingungan dan kehilangan gambaran besarnya. Adaptation/Replay: Saya menghapus seluruh identitas teknis komponen (brand/hardware) ketika berbicara dengan orang awam, dan menggantinya murni dengan fungsi akhirnya (apa yang bisa dilakukan alat itu). Next practice: Ke depannya, setiap saya harus mempresentasikan proyek IT ke klien atau panitia non-teknis, saya wajib membedah “Marrow of the Message” (Kebenaran Inti) terlebih dahulu sebelum membuat slide presentasi, agar tidak terjebak menggunakan bahasa coding di depan audiens bisnis.
+6. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Lima target dianalisis berdasarkan vocabulary dan kebutuhannya yang sangat kontras.
+Objective & State
+4
+Core meaning (kontrol jarak jauh) ditetapkan dan dijaga keutuhannya di semua versi.
+Repertoire, Language
+4
+Jargon diisolasi hanya untuk tech peer; analogi fisik digunakan tepat sasaran.
+Response & Adaptation
+4
+Feedback dari pacar yang kebingungan (bukti nyata) langsung direspons dengan revisi teks menghilangkan istilah “ESP32”.
+Agreement, Action
+4
+Setiap bahasa memicu implied action yang relevan; outcome pemahaman target tercapai setelah revisi.
+Total
+20/20
+Seluruh dimensi mencapai level maksimal dengan memasukkan loop feedback manusia secara eksplisit.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://muhrafifad.github.io/kipp-students/index.html
+- https://muhrafifad.github.io/kipp-students/assets/logo.png
+- https://muhrafifad.github.io/kipp-students/course/index.html
+- https://muhrafifad.github.io/kipp-students/portfolio/index.html
+- https://muhrafifad.github.io/kipp-students/examples/index.html
+- https://muhrafifad.github.io/kipp-students/lk/index.html
+- https://muhrafifad.github.io/kipp-students/slides.html
+- https://muhrafifad.github.io/kipp-students/slides-pdf/index.html
+- https://muhrafifad.github.io/kipp-students/assessment/index.html
+- https://muhrafifad.github.io/kipp-students/about.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-01.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-02.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-06.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-07.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-08.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-09.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-10.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-11.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-12.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-13.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-14.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-15.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#konteks-performance-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#evidence-matriks-lima-bahasa
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html#self-assessment-1
+- https://muhrafifad.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

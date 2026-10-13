@@ -1,0 +1,192 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 761
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 2 September 2026, saat pengerjaan lomba game development Ifest Unpad. Saya sedang berkomunikasi dengan visual artist mengenai asset yang dibutuhkan untuk game agar dapat segera digunakan dalam implementasi gameplay.
+Persons dan relationship: Saya berperan sebagai programmer sekaligus game production dalam tim yang terdiri dari enam orang. Lima target komunikasi dalam latihan ini adalah: (1) teman satu tim yang tidak terlalu membutuhkan detail teknis, (2) rekan teknis sesama programmer atau anggota yang memahami proses development, (3) game production atau orang yang bertanggung jawab memantau progress tim, (4) player atau calon pengguna game, dan (5) publik yang hanya membutuhkan gambaran umum mengenai proses pengembangan game.
+Objective dan initial state: Saya perlu menyampaikan kebutuhan asset kepada visual artist agar asset yang dibuat dapat digunakan sesuai kebutuhan implementasi game. Pada saat itu, progress tracker yang digunakan tim cukup berantakan sehingga beberapa kebutuhan asset perlu dijelaskan kembali secara langsung melalui WhatsApp. Saya juga mengetahui bahwa visual artist sedang mengerjakan banyak hal sehingga saya perlu menentukan prioritas asset dan menghindari pemberian instruksi yang terlalu banyak sekaligus.
+Core meaning yang tidak boleh berubah: Asset enemy dan bomb perlu diprioritaskan karena dibutuhkan untuk melanjutkan implementasi gameplay. Enemy membutuhkan desain dengan animasi idle dan death, sedangkan bomb membutuhkan beberapa asset yang mendukung interaction dan efeknya. Asset juga memiliki kebutuhan ukuran dan penggunaan tertentu yang perlu disesuaikan dengan implementasi game.
+Evidence
+Lima versi language berdasarkan kebutuhan masing-masing target:
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Untuk sekarang fokus bikin enemy sama bomb dulu yaa. Enemy-nya perlu idle sama animasi pas mati, terus bomb juga perlu asset buat efeknya. Yang penting dua itu dulu biar bagian game-nya bisa aku lanjut kerjain.”
+Menggunakan bahasa santai dan mengurangi detail teknis karena teman tidak membutuhkan spesifikasi lengkap. Fokusnya adalah apa yang perlu dikerjakan terlebih dahulu dan kenapa hal tersebut penting.
+Technical peer
+“Enemy sama bomb jadi prioritas dulu. Enemy butuh idle dan death animation, sedangkan bomb perlu asset untuk explosion effect dan interaction di game. Sprite enemy dan bomb 96x96. Untuk UI atau asset lain bisa menyusul setelah dua bagian ini aman.”
+Menggunakan istilah teknis seperti sprite, animation, interaction, dan resolution karena technical peer memiliki shared vocabulary. Informasi dibuat lebih spesifik agar dapat langsung diterjemahkan menjadi task implementasi.
+Manager / game production
+“Untuk menjaga progress implementasi, enemy dan bomb perlu diprioritaskan terlebih dahulu. Enemy membutuhkan idle dan death animation, sedangkan bomb membutuhkan asset untuk interaction dan efek. Ukuran asset enemy dan bomb adalah 96x96. Setelah dua kategori ini selesai, asset lain dapat dilanjutkan sesuai progress.”
+Menekankan prioritas, dependency terhadap progress, dan pembagian pekerjaan. Detail teknis yang tidak berpengaruh terhadap keputusan dikurangi, sementara informasi yang membantu monitoring progress tetap dipertahankan.
+Customer / player
+“Di game ini, enemy akan memiliki animasi saat diam dan saat dikalahkan, sedangkan bomb memiliki visual yang mendukung efek penggunaannya. Asset tersebut sedang diprioritaskan supaya fitur gameplay utama bisa segera digunakan.”
+Player tidak membutuhkan istilah seperti sprite resolution atau asset state. Bahasa diarahkan pada apa yang akan terlihat dan dialami oleh pengguna dalam game.
+Public
+“Dalam proses pengembangan game, kami sedang memprioritaskan asset enemy dan bomb karena keduanya dibutuhkan untuk menyelesaikan bagian gameplay utama. Setelah asset utama selesai, pengembangan visual lainnya akan dilanjutkan.”
+Publik hanya membutuhkan konteks umum mengenai proses development. Detail teknis seperti ukuran sprite dan state animation tidak diperlukan karena tidak membantu pemahaman audiens umum.
+Feedback understanding dari target:
+Dalam percakapan WhatsApp dengan visual artist A pada 2 September 2026, saya awalnya memberikan informasi bahwa enemy perlu dibuat tetapi belum menjelaskan spesifikasi visualnya secara cukup jelas.
+[9/2, 11:54] A: Enemy nya
+[9/2, 11:54] A: Ada
+[9/2, 11:54] A: Kayak spesifik ga
+Pertanyaan tersebut menunjukkan bahwa informasi yang saya berikan sebelumnya belum cukup untuk membuat A memahami bentuk asset yang harus dibuat. Saya kemudian mengadaptasi language dengan memberikan detail yang lebih konkret:
+[9/2, 12:33] Saya: Enemynya white chocolate, dark chocolate, sama milk chocolate. Desainnya kayak monster (tapi imut) bisa ambil referensi dari cookie run
+[9/2, 12:34] Saya: Terus animasinya idle sama pas mati
+Saya juga kemudian memberikan informasi mengenai bomb:
+[9/2, 13:40] Saya: Sama buat bom powdered sugar, gummy worms, sour candy, jelly bean
+[9/2, 13:40] Saya: Itu ada efek ledakannya juga
+[9/2, 14:23] Saya: size buat enemy sama bom 96 x 96 ya
+Dari feedback tersebut, saya dapat melihat bahwa ketika target meminta spesifikasi, saya perlu mengubah repertoire dari instruksi umum menjadi brief yang lebih konkret dengan memberikan contoh jenis asset, bentuk visual, animation state, effect, dan ukuran.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Lima target memiliki kebutuhan informasi yang berbeda. Teman membutuhkan inti task dengan bahasa santai, technical peer membutuhkan spesifikasi implementasi, game production membutuhkan prioritas dan progress, player membutuhkan gambaran tentang hasil yang akan dilihat dalam game, sedangkan publik membutuhkan konteks umum tanpa detail internal.
+Objective & state
+Core meaning ditentukan terlebih dahulu agar perubahan language tidak mengubah fakta utama. Semua versi tetap menyampaikan bahwa enemy dan bomb merupakan prioritas karena dibutuhkan untuk gameplay, enemy memiliki kebutuhan animation, dan bomb memiliki kebutuhan interaction atau effect.
+Repertoire & language
+Repertoire berubah berdasarkan target. Versi friend menggunakan bahasa percakapan, technical peer menggunakan istilah seperti sprite dan animation, manager menggunakan bahasa prioritas dan dependency, player menggunakan bahasa yang berorientasi pada pengalaman bermain, sedangkan public menggunakan ringkasan proses development.
+Response & adaptation
+Feedback dari visual artist menunjukkan bahwa brief awal belum cukup spesifik. Ketika A bertanya apakah enemy memiliki spesifikasi tertentu, saya mengubah cara komunikasi dengan memberikan jenis enemy, referensi visual, animation state, jenis bomb, effect, dan ukuran asset. Adaptasi dilakukan untuk memperjelas meaning, bukan untuk mengubah kebutuhan asset.
+Agreement/action
+Setiap versi memiliki action yang berbeda. Friend dan technical peer diarahkan untuk memahami prioritas asset, manager dapat menggunakan informasi tersebut untuk memantau progress, player memahami fitur visual yang akan muncul dalam game, dan public mendapatkan gambaran mengenai prioritas development.
+Relationship outcome
+Adaptasi language membuat komunikasi dengan visual artist dapat dilanjutkan setelah brief awal dianggap belum cukup jelas. Saya belajar bahwa memberikan informasi yang lebih banyak bukan selalu berarti lebih baik. Informasi perlu dipilih berdasarkan kebutuhan orang yang menerima pesan dan tahap pekerjaan yang sedang dilakukan.
+Penggunaan AI
+Saya menggunakan AI untuk membantu memeriksa apakah lima versi tetap mempertahankan core meaning yang sama dan apakah perbedaan language serta repertoire pada masing-masing target sudah cukup jelas. Penyusunan konteks dan evidence berasal dari pengalaman serta percakapan saya sendiri. Saya tidak menggunakan AI untuk membuat kejadian atau feedback yang tidak terjadi dalam proses game development.
+Feedback dan tindak lanjut
+Feedback yang diterima: Visual artist bertanya apakah enemy memiliki spesifikasi tertentu setelah saya memberikan instruksi awal. Pertanyaan tersebut menunjukkan bahwa brief awal belum memberikan informasi yang cukup untuk langsung diterjemahkan menjadi asset. Setelah itu, saya memberikan detail mengenai jenis enemy, referensi visual, animation state, jenis bomb, effect, dan ukuran asset.
+Adaptation/replay: Jika mengulang situasi tersebut, saya akan memberikan brief dengan struktur yang lebih jelas sejak awal: jenis asset, fungsi asset di dalam game, visual reference, animation atau state yang dibutuhkan, ukuran, dan prioritas. Saya juga akan memisahkan asset yang harus dikerjakan segera dari asset yang dapat menyusul agar penerima tidak merasa semua kebutuhan harus dikerjakan sekaligus.
+Next practice: Ke depannya, sebelum memberikan task kepada anggota dengan bidang berbeda, saya ingin menentukan terlebih dahulu informasi minimum yang mereka butuhkan untuk mulai bekerja. Untuk visual artist, informasi tersebut dapat berupa fungsi asset, reference, ukuran, state, layer, dan prioritas. Dengan begitu, saya tidak perlu terus menambahkan informasi melalui banyak pesan terpisah.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Saya membedakan lima target berdasarkan kebutuhan informasi dan shared vocabulary, bukan hanya berdasarkan status atau jabatan.
+Objective & State
+4
+Saya menetapkan core meaning sebelum membuat lima versi sehingga perubahan language tidak mengubah kebutuhan utama asset.
+Repertoire, Language & AI
+4
+Saya mengubah repertoire dari bahasa percakapan, technical brief, progress brief, user-oriented explanation, hingga public announcement sesuai target. AI hanya digunakan untuk mengecek konsistensi meaning.
+Response & Adaptation
+4
+Pertanyaan visual artist mengenai spesifikasi enemy menghasilkan perubahan konkret pada brief berupa reference, animation state, jenis asset, effect, dan ukuran.
+Agreement, Action & Relationship
+4
+Setiap versi diarahkan pada kebutuhan action target yang berbeda dan pengalaman dari komunikasi dengan visual artist digunakan sebagai dasar untuk memperbaiki cara memberikan brief berikutnya.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Erin Cherryl Angela
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://silinderpejal.github.io/kipp-students/index.html
+- https://silinderpejal.github.io/kipp-students/assets/logo.png
+- https://silinderpejal.github.io/kipp-students/course/index.html
+- https://silinderpejal.github.io/kipp-students/portfolio/index.html
+- https://silinderpejal.github.io/kipp-students/examples/index.html
+- https://silinderpejal.github.io/kipp-students/lk/index.html
+- https://silinderpejal.github.io/kipp-students/slides.html
+- https://silinderpejal.github.io/kipp-students/slides-pdf/index.html
+- https://silinderpejal.github.io/kipp-students/assessment/index.html
+- https://silinderpejal.github.io/kipp-students/about.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-02.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-03.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-06.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-09.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-11.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-12.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-13.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-14.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-15.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://silinderpejal.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

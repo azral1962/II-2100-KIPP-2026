@@ -1,0 +1,200 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 747
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Initial assumption dan discovery
+Potongan transcript
+Pembaruan pembacaan
+Shared problem statement
+Problem impact dan constraint
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting: Percakapan dilakukan dalam konteks kegiatan magang ketika saya berdiskusi dengan teman sesama intern yang sedang mengalami kesulitan menggunakan Docker untuk mengerjakan tugas terkait data pipeline. Tanggal spesifik percakapan tidak dicatat dalam evidence yang tersedia.
+Persons dan relationship: Saya berbicara dengan teman sesama intern. Kami berada dalam konteks yang sama sebagai peserta magang dan sama-sama mengerjakan tugas yang berkaitan dengan teknis/data. Hubungan kami adalah sebagai rekan sesama intern sehingga percakapan berlangsung secara informal dan kolaboratif.
+Objective dan initial state: Objective saya adalah memahami terlebih dahulu sumber kesulitan teman sebelum memberikan solusi.
+Initial assumption saya adalah teman belum memahami alur penggunaan Docker. Namun, saya belum mengetahui apakah masalahnya berada pada Docker secara keseluruhan, pengalaman sebelumnya, atau bagian tertentu dari proses penggunaannya.
+Initial assumption dan discovery
+Initial assumption: Teman belum memahami alur penggunaan Docker.
+Untuk memeriksa asumsi tersebut, saya mengajukan beberapa pertanyaan discovery:
+Pernah menggunakan Docker sebelumnya?
+Sudah pernah melihat tutorial Docker?
+Bagian mana yang belum kamu pahami?
+Masalahnya berada di bagian mana?
+Pertanyaan tersebut digunakan untuk mengetahui pengalaman sebelumnya, usaha yang sudah dilakukan, dan bagian spesifik yang menjadi hambatan sebelum saya memberikan solusi.
+Potongan transcript
+Catatan: Bagian berikut merupakan rekonstruksi/paraphrase dari percakapan yang telah dilakukan, bukan transcript verbatim. Dialog ditulis kembali untuk merepresentasikan inti pertanyaan, respons, dan proses konfirmasi masalah.
+. Teman sesama intern: “Jev, aku masih bingung deh cara pakai docker gimana.” Saya: “Udah pernah pakai docker kah sebelumnya?” Teman sesama intern: “Udah sih tapi masih bingung” Saya: “Udah pernah liat tutorialnya di youtube?” Teman sesama intern: “Sudah, tapi masih bingung.” Saya: “Bagian apa yang masih bingung?” Teman sesama intern: “Bagian cara menyambungkan docker ke dalam VS codenya.” Saya: “Oh, jadi kamu belum tahu cara mengintegrasikan docker ke VS code ya?” Teman sesama intern: “Yes.”
+Pembaruan pembacaan
+Initial assumption saya adalah teman belum memahami alur penggunaan Docker secara umum.
+Setelah melakukan discovery, saya menemukan bahwa teman sebenarnya sudah pernah menggunakan Docker dan sudah pernah melihat tutorial. Namun, ia masih mengalami kesulitan pada bagian yang lebih spesifik, yaitu cara mengintegrasikan Docker dengan VS Code.
+Dengan demikian, saya memperbarui pembacaan masalah dari “belum memahami cara menggunakan Docker” menjadi kesulitan dalam menghubungkan atau mengintegrasikan Docker dengan VS Code untuk kebutuhan tugas intern.
+Shared problem statement
+Shared problem statement yang dikonfirmasi teman: Teman saya sudah pernah menggunakan Docker dan melihat tutorial, tetapi masih kesulitan mengintegrasikan Docker dengan VS Code untuk mengerjakan tugas intern.
+Teman mengonfirmasi pembacaan tersebut setelah saya melakukan paraphrase dengan pertanyaan, “Oh, jadi kamu belum tahu cara mengintegrasikan Docker ke VS Code ya?” dan memberikan respons “Yes.”
+Problem impact dan constraint
+Problem impact: Kesulitan mengintegrasikan Docker dengan VS Code membuat teman belum dapat menggunakan workflow Docker di VS Code dengan lancar untuk kebutuhan tugas intern.
+Constraint: Teman sudah pernah menggunakan Docker dan sudah pernah melihat tutorial di YouTube, sehingga masalahnya bukan karena belum pernah mendapatkan informasi mengenai Docker. Hambatannya lebih spesifik pada proses integrasi Docker dengan VS Code.
+Evidence
+Evidence utama berupa catatan retrospektif mengenai percakapan, rekonstruksi/paraphrase dialog, serta tindakan setelah masalah berhasil dipersempit.
+Kontribusi saya dalam discovery adalah: memulai dengan pertanyaan mengenai pengalaman teman menggunakan Docker, menanyakan apakah teman sudah pernah melihat tutorial, menggali bagian spesifik yang masih membingungkan, melakukan paraphrase terhadap masalah, meminta konfirmasi sebelum menyimpulkan shared problem statement.
+Discovery menunjukkan bahwa initial assumption saya terlalu umum. Teman ternyata sudah pernah menggunakan Docker dan melihat tutorial, tetapi masih mengalami kesulitan pada integrasi Docker dengan VS Code.
+Setelah masalah menjadi lebih spesifik, saya menggunakan bantuan AI untuk membantu menjelaskan cara mengintegrasikan Docker dengan VS Code. Saya tetap menyesuaikan langkah yang diberikan dengan kebutuhan dan kondisi teman.
+Evidence utama berasal dari catatan retrospektif dan hasil tindakan setelah percakapan. Tidak terdapat recording atau transcript verbatim.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & Character
+Saya berinteraksi dengan teman sesama intern dalam konteks pekerjaan/tugas teknis. Saya tidak langsung menganggap teman tidak memahami Docker secara keseluruhan, tetapi menggali pengalaman sebelumnya dan bagian yang spesifik menjadi hambatan.
+Objective & State
+Objective saya adalah memahami masalah sebelum memberikan solusi. Initial assumption saya adalah teman belum memahami cara menggunakan Docker, tetapi discovery menunjukkan bahwa ia sudah pernah menggunakan Docker dan melihat tutorial. Masalah kemudian dipersempit menjadi integrasi Docker dengan VS Code.
+Repertoire & Language
+Saya menggunakan pertanyaan sederhana dan bertahap: menanyakan pengalaman, tutorial yang sudah dilihat, lalu bagian yang masih membingungkan. Saya juga menggunakan paraphrase untuk memastikan pemahaman saya terhadap masalah.
+Response & Adaptation
+Respons teman bahwa ia sudah pernah menggunakan Docker dan melihat tutorial membuat saya tidak berhenti pada initial assumption. Saya melanjutkan dengan pertanyaan yang lebih spesifik sampai menemukan bahwa hambatannya berada pada integrasi Docker dengan VS Code.
+Agreement & Action
+Setelah saya melakukan paraphrase mengenai integrasi Docker dengan VS Code, teman memberikan konfirmasi “Yes”. Setelah masalah dikonfirmasi, saya melanjutkan ke tahap pemberian bantuan teknis.
+Relationship Outcome
+Percakapan berlangsung secara informal dan kolaboratif sebagai sesama intern. Teman dapat menyampaikan bagian yang masih membingungkan, sementara saya memberi ruang untuk menggali masalah sebelum memberikan solusi.
+Penggunaan AI
+AI digunakan sebagai alat bantu setelah proses discovery, bukan sebagai pengganti proses memahami masalah.
+Peran AI adalah membantu menjelaskan langkah integrasi Docker dengan VS Code setelah masalah sudah dipersempit melalui percakapan.
+Saya tetap melakukan human review terhadap penjelasan AI dan menyesuaikan langkah yang diberikan dengan kebutuhan tugas dan kondisi teman.
+AI tidak digunakan untuk menentukan masalah sejak awal. Masalah terlebih dahulu ditemukan melalui pertanyaan dan konfirmasi dengan teman.
+Accuracy diperiksa berdasarkan pemahaman saya terhadap Docker, VS Code, dan hasil ketika langkah tersebut diterapkan. Privacy dijaga dengan tidak memasukkan data pribadi yang tidak diperlukan ke dalam prompt. Authority tetap berasal dari pemahaman teknis, materi yang dipelajari, dan konteks pekerjaan/magang, bukan semata-mata dari output AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: Teman menyampaikan bahwa ia sudah pernah menggunakan Docker dan melihat tutorial di YouTube, tetapi masih bingung pada bagian integrasi Docker dengan VS Code. Setelah saya melakukan paraphrase, teman memberikan konfirmasi “Yes.”
+Adaptation/replay: Saya memperbarui initial assumption setelah mendapatkan informasi baru dari teman. Awalnya saya mengira masalahnya adalah penggunaan Docker secara umum, tetapi setelah discovery saya mempersempit masalah menjadi integrasi Docker dengan VS Code. Setelah masalah dikonfirmasi, saya menggunakan AI untuk membantu menjelaskan solusi yang relevan.
+Next practice: Pada discovery berikutnya, saya akan mempertahankan pola general question → specific question → paraphrase → confirmation agar initial assumption dapat diuji sebelum saya memberikan solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Saya memahami konteks teman sebagai sesama intern dan menggali pengalaman sebelumnya sebelum memberikan solusi.
+Objective & State
+3
+Saya memiliki initial assumption, kemudian memperbarui pembacaan setelah mengetahui bahwa masalah spesifiknya adalah integrasi Docker dengan VS Code.
+Repertoire, Language & AI
+3
+Saya menggunakan pertanyaan bertahap, paraphrase, dan AI sebagai alat bantu setelah discovery.
+Response & Adaptation
+4
+Saya tidak berhenti pada initial assumption dan menggunakan respons teman untuk mempersempit masalah dari penggunaan Docker secara umum menjadi integrasi Docker dengan VS Code.
+Agreement, Action & Relationship
+3
+Problem dikonfirmasi melalui paraphrase dan respons “Yes”, kemudian dilanjutkan dengan bantuan teknis dalam hubungan yang kolaboratif.
+Total:** 16 / 20 — **Kompeten
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Jevon Cleverivello Aritonang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://jevoncleverr.github.io/kipp-students/index.html
+- https://jevoncleverr.github.io/kipp-students/assets/logo.png
+- https://jevoncleverr.github.io/kipp-students/course/index.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/index.html
+- https://jevoncleverr.github.io/kipp-students/examples/index.html
+- https://jevoncleverr.github.io/kipp-students/lk/index.html
+- https://jevoncleverr.github.io/kipp-students/slides.html
+- https://jevoncleverr.github.io/kipp-students/slides-pdf/index.html
+- https://jevoncleverr.github.io/kipp-students/assessment/index.html
+- https://jevoncleverr.github.io/kipp-students/about.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-01.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-03.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-04.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-06.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-07.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-08.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-09.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-10.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-11.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-12.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-13.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-14.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-15.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-discovery
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#shared-problem-statement
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#problem-impact-dan-constraint
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

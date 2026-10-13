@@ -1,0 +1,166 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 674
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://eira2510.github.io/kipp/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Minggu 4 — Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence pemisahan event, fact, story, emotion, internal character, choice, dan action.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action dalam komunikasi dengan diri sendiri.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode
+Event: Teman seangkatan berbicara cukup lama dan berputar-putar dalam menyampaikan usulan di forum diskusi angkatan setelah saya membuka sesi pendapat.
+Lapisan
+Catatan Obert
+Fact
+Rekan seangkatan berbicara di forum angkatan selama beberapa menit dengan alur penjelasan yang melompat-lompat tanpa langsung menyebutkan poin inti usulannya.
+Initial story
+“Dia sengaja membuang-buang waktu forum dan tidak menghargai efisiensi diskusi angkatan kami.”
+Emotion/body signal
+Kesal 7/10, jengkel 8/10, rahang mengeras, ada dorongan kuat untuk langsung memotong pembicaraannya secara sinis.
+Reactive character
+“The Controller” yang ingin mendominasi forum, menghentikan pembicara, dan menegurnya secara langsung di depan umum agar tidak menyita waktu.
+Desired character
+“The Facilitator” yang menengahi alur diskusi secara objektif tanpa menyerang personal pembicara.
+Initial story melampaui fakta: komentar tersebut menilai cara penyampaian informasi yang belum terstruktur pada saat itu, bukan berarti individu tersebut berniat buruk atau sengaja mensabotase forum.
+Alternative narratives
+Information structure gap: gagasan orang tersebut sebenarnya relevan, tetapi ia belum terbiasa menyusun struktur argumen secara ringkas di hadapan forum besar.
+Invitation to structure: situasi ini memberi kesempatan bagi saya selaku pengurus/pemandu forum untuk mengarahkan alur secara konstruktif, bukan malah terbawa emosi.
+Time constraint reality: waktu forum memang terbatas, namun interupsi bisa dilakukan dengan koridor asertif yang fungsional, bukan reaktif-emosional.
+Alternative kedua paling berguna karena sesuai fakta dan menghasilkan tindakan fungsional tanpa harus memelihara rasa jengkel yang tidak produktif terhadap rekan seangkatan.
+Internal conversation dan agreement
+The Controller: “Potong langsung pembicaraannya sekarang dan katakan kalau dia buang-buang waktu.”
+The Facilitator: “Kita harus menjaga efisiensi forum tanpa mempermalukan orangnya. Tarik napas, lalu arahkan dia ke poin inti.”
+Obert: “Saya akan menahan diri dari kata-kata sinis, lalu menginterupsi secara terarah untuk meminta poin intinya.”
+Internal agreement: sebelum durasi forum terbuang 5 menit lebih lama, Obert menyampaikan interupsi asertif agar pembicara langsung mengerucutkan gagasan utamanya.
+Evidence tindakan
+Rekaman memori atau notulensi jalannya forum saat interupsi asertif disampaikan.
+Respons pembicara: langsung merespons dengan menyebutkan ringkasan poin intinya dalam waktu kurang dari 30 detik setelah ditegur.
+Suasana forum kembali kondusif dan efisien tanpa adanya perdebatan personal.
+Response rekan tersebut memperbarui story Obert: rekan tersebut tidak berniat membuang waktu, melainkan memang membutuhkan panduan struktur penyampaian yang lebih tegas.
+Feedback, AI, dan refleksi
+Teman observer mencatat respons awal saya yang hampir meledak sebagai reaksi reaktif, bukan fasilitasi yang matang. AI hanya digunakan untuk membantu merapikan format pemisahan fakta dan asumsi; Obert menyamarkan identitas rekan seangkatan untuk menjaga privasi.
+Next practice: ketika menghadapi pembicara yang berputar-putar di forum, saya akan langsung menggunakan teknik active paraphrasing (“Apakah maksud poin utamanya adalah X?”) alih-alih membiarkan rasa kesal menumpuk di dalam hati.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+4
+Memetakan transisi dari karakter reaktif (Controller) ke fasilitator objektif.
+Objective & State
+4
+Mengurai initial story dan emosi jengkel menjadi objective tindakan asertif.
+Repertoire, Language & AI
+4
+Menjabarkan alternatif narasi dan dialog internal secara runut.
+Response & Adaptation
+4
+Merespons ketidakefektifan forum melalui tindakan verbal yang terukur.
+Agreement, Action & Relationship
+4
+Mencapai kesepakatan internal, mengefektifkan forum, dan menjaga relasi seangkatan.
+Total: 20/20 — Lanjut. Analisis jurnal komunikasi internal sangat presisi dalam mengonversi emosi negatif menjadi tindakan komunikasi yang fungsional.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Obert Chandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://eira2510.github.io/kipp/index.html
+- https://eira2510.github.io/kipp/assets/logo.png
+- https://eira2510.github.io/kipp/course/index.html
+- https://eira2510.github.io/kipp/portfolio/index.html
+- https://eira2510.github.io/kipp/examples/index.html
+- https://eira2510.github.io/kipp/lk/index.html
+- https://eira2510.github.io/kipp/slides.html
+- https://eira2510.github.io/kipp/slides-pdf/index.html
+- https://eira2510.github.io/kipp/assessment/index.html
+- https://eira2510.github.io/kipp/about.html
+- https://eira2510.github.io/kipp/portfolio/week-02.html
+- https://eira2510.github.io/kipp/portfolio/week-01.html
+- https://eira2510.github.io/kipp/portfolio/week-03.html
+- https://eira2510.github.io/kipp/portfolio/week-04.html
+- https://eira2510.github.io/kipp/portfolio/week-05.html
+- https://eira2510.github.io/kipp/portfolio/week-06.html
+- https://eira2510.github.io/kipp/portfolio/week-07.html
+- https://eira2510.github.io/kipp/portfolio/week-08.html
+- https://eira2510.github.io/kipp/portfolio/week-09.html
+- https://eira2510.github.io/kipp/portfolio/week-10.html
+- https://eira2510.github.io/kipp/portfolio/week-11.html
+- https://eira2510.github.io/kipp/portfolio/week-12.html
+- https://eira2510.github.io/kipp/portfolio/week-13.html
+- https://eira2510.github.io/kipp/portfolio/week-14.html
+- https://eira2510.github.io/kipp/portfolio/week-15.html
+- https://eira2510.github.io/kipp/portfolio/week-02.html#kompetensi-target
+- https://eira2510.github.io/kipp/portfolio/week-02.html#evidence-wajib
+- https://eira2510.github.io/kipp/portfolio/week-02.html#episode
+- https://eira2510.github.io/kipp/portfolio/week-02.html#alternative-narratives
+- https://eira2510.github.io/kipp/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://eira2510.github.io/kipp/portfolio/week-02.html#evidence-tindakan
+- https://eira2510.github.io/kipp/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://eira2510.github.io/kipp/portfolio/week-02.html#self-assessment
+- https://eira2510.github.io/kipp/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

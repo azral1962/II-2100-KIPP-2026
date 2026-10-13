@@ -1,0 +1,248 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 818
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Problem–Solution Interest Pitch
+1. Konteks dan Tujuan
+2. Identifikasi Masalah Target
+2.1 Perspektif mahasiswa sebagai pengguna
+2.2 Perspektif petugas kantin sebagai operator
+2.3 Perspektif pengambil keputusan
+2.4 Rumusan masalah
+3. Feature Detox: Memilih Fitur yang Relevan
+4. Hubungan Feature, Benefit, dan Value
+5. Interest Pitch
+5.1 Naskah pitch
+5.2 Analisis struktur komunikasi
+6. Bukti Interaksi dan Adaptasi Spontan
+6.1 Respons aktual target
+6.2 Interpretasi terhadap respons target
+6.3 Adaptasi yang saya lakukan
+6.4 Evaluasi hubungan respons dan adaptasi
+7. Keterbatasan dan Validasi Solusi
+8. Refleksi Pembelajaran
+9. Penggunaan AI
+10. Penilaian Diri
+11. Tindak Lanjut
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit, feature detox, dan adaptasi komunikasi berdasarkan respons target.
+Problem–Solution Interest Pitch
+1. Konteks dan Tujuan
+Pada minggu ini, saya berlatih menyampaikan Interest Pitch dengan pendekatan problem–solution fit. Fokus saya bukan menawarkan sebanyak mungkin fitur, melainkan menghubungkan masalah target dengan solusi yang relevan, menjelaskan manfaatnya secara sederhana, serta mengevaluasi respons target untuk menentukan apakah penjelasan dan arah solusi perlu disesuaikan.
+Topik yang saya gunakan adalah sistem pendukung antrean kantin pada jam makan siang. Gagasan ini berangkat dari permasalahan waktu tunggu, penumpukan pesanan, dan keterbatasan informasi yang dapat membantu mahasiswa memperkirakan waktu makan mereka.
+Tujuan latihan ini adalah: 1. Mengidentifikasi masalah yang dialami target. 2. Memilah fitur berdasarkan manfaat dan nilai yang diberikan. 3. Menjelaskan solusi tanpa melakukan feature dumping. 4. Menangkap pertimbangan target melalui respons yang diberikan. 5. Menyesuaikan penjelasan berdasarkan respons tersebut, bukan sekadar mengikuti skrip awal.
+2. Identifikasi Masalah Target
+2.1 Perspektif mahasiswa sebagai pengguna
+Antrean yang panjang dapat mengurangi waktu istirahat mahasiswa. Situasi tersebut terasa lebih menyulitkan ketika mahasiswa harus mengikuti kelas atau kegiatan lain setelah makan.
+Masalahnya tidak hanya berkaitan dengan panjang antrean, tetapi juga ketidakpastian mengenai waktu tunggu dan perkembangan pesanan. Ketika informasi tersebut tidak tersedia, mahasiswa memiliki keterbatasan dalam memperkirakan waktu makan dan merencanakan kegiatan berikutnya.
+2.2 Perspektif petugas kantin sebagai operator
+Dari perspektif operasional, lonjakan pengunjung pada waktu yang bersamaan dapat menyebabkan pesanan menumpuk. Waktu penyelesaian pesanan juga dapat berbeda-beda sehingga masalah antrean tidak selalu dapat dijelaskan hanya melalui jumlah pengunjung.
+Karena itu, solusi perlu mempertimbangkan alur pemrosesan pesanan dan kemampuan petugas untuk memperbarui informasi tanpa menambah beban operasional secara berlebihan.
+2.3 Perspektif pengambil keputusan
+Dari perspektif pengambil keputusan, waktu tunggu merupakan salah satu aspek yang perlu dievaluasi, tetapi penyebabnya harus dipahami terlebih dahulu. Faktor seperti jumlah pengunjung, jumlah petugas, dan proses pelayanan dapat menghasilkan kebutuhan perbaikan yang berbeda.
+Solusi teknologi tidak boleh langsung dianggap sebagai jawaban untuk seluruh masalah. Efektivitasnya perlu diperiksa melalui pengamatan dan uji coba.
+2.4 Rumusan masalah
+Mahasiswa membutuhkan informasi yang jelas mengenai perkembangan pesanan dan perkiraan waktu tunggu pada jam makan siang agar dapat mengatur waktu mereka dengan lebih baik. Di sisi lain, petugas kantin perlu mengelola informasi pesanan tanpa menciptakan pekerjaan tambahan yang mengganggu proses pelayanan.
+Dengan demikian, tantangan utama bukan sekadar menyediakan aplikasi, melainkan merancang informasi antrean yang berguna, dapat dipercaya, dan realistis untuk diterapkan dalam kondisi operasional kantin.
+3. Feature Detox: Memilih Fitur yang Relevan
+Saya menggunakan pendekatan feature detox untuk membedakan fitur teknis dari manfaat dan nilai yang benar-benar dirasakan target.
+Fitur
+Manfaat langsung
+Nilai bagi target
+Keputusan
+Status pesanan
+Mahasiswa dapat mengetahui perkembangan pesanan
+Mengurangi ketidakpastian selama menunggu
+Diprioritaskan
+Estimasi waktu tunggu
+Mahasiswa memperoleh gambaran perkiraan waktu penyelesaian
+Membantu merencanakan waktu makan dan kegiatan berikutnya
+Informasi tambahan yang perlu divalidasi
+Informasi pesanan yang siap diambil
+Mahasiswa mengetahui kapan pesanan dapat diambil
+Membantu menghindari kebingungan saat menunggu
+Diprioritaskan
+Fitur tambahan yang tidak berkaitan langsung dengan masalah inti
+Menambah kompleksitas sistem
+Belum tentu memberikan manfaat yang sebanding
+Tidak diprioritaskan
+Keputusan tersebut bukan berarti setiap fitur yang diprioritaskan pasti harus dikembangkan. Saya perlu mempertimbangkan kebutuhan pengguna, kemudahan penggunaan, dan beban operasional. Khusus estimasi waktu tunggu, keandalannya perlu diuji agar informasi yang diberikan tidak menciptakan ekspektasi yang keliru.
+4. Hubungan Feature, Benefit, dan Value
+Saya membedakan tiga konsep berikut:
+Feature: kemampuan teknis yang disediakan sistem, seperti menampilkan status pesanan.
+Benefit: manfaat langsung yang muncul dari fitur, seperti mengetahui apakah pesanan masih diproses atau sudah siap.
+Value: arti manfaat tersebut bagi pengguna, seperti berkurangnya ketidakpastian dan terbantunya perencanaan waktu.
+Sebagai contoh, fitur status pesanan bukan tujuan akhir. Fitur tersebut bernilai apabila informasinya jelas, diperbarui dengan benar, dan membantu mahasiswa memahami kondisi pesanannya.
+Saya juga mempertimbangkan nilai bagi operator. Sistem akan sulit diterapkan jika petugas harus melakukan banyak langkah tambahan ketika kantin sedang ramai. Karena itu, kesederhanaan alur dan kelayakan operasional merupakan bagian dari problem–solution fit.
+5. Interest Pitch
+5.1 Naskah pitch
+“Dari yang kita bahas tadi, masalahnya bukan cuma antrean yang panjang, tetapi mahasiswa juga sering tidak tahu perkembangan pesanannya dan harus menunggu berapa lama. Di sisi kantin, pesanan yang datang bersamaan juga bisa menumpuk.
+Saya membayangkan sistem antrean sederhana yang menampilkan status pesanan secara jelas, misalnya masih diproses, sedang disiapkan, atau sudah siap diambil. Dengan begitu, mahasiswa bisa mengetahui perkembangan pesanannya tanpa harus terus-menerus bertanya kepada petugas.
+Estimasi waktu tunggu juga bisa dipertimbangkan, tetapi harus disampaikan sebagai perkiraan dan tidak dijanjikan akurat sebelum diuji. Tujuannya adalah membantu mahasiswa mengatur waktu sekaligus menjaga agar solusi tetap realistis bagi petugas.
+Menurut kamu, informasi seperti ini cukup membantu untuk dicoba terlebih dahulu? Bagian mana yang menurut kamu paling penting atau justru masih menjadi kekhawatiran?”
+5.2 Analisis struktur komunikasi
+Tahap
+Penerapan
+Menghubungkan kembali dengan masalah
+Menjelaskan ketidakpastian waktu tunggu dan penumpukan pesanan
+Memperkenalkan solusi
+Menawarkan sistem pendukung antrean sederhana
+Menjelaskan mekanisme
+Memperlihatkan status pesanan dari pemrosesan hingga siap diambil
+Menjelaskan manfaat dan nilai
+Mengurangi ketidakpastian serta membantu perencanaan waktu
+Mengundang respons
+Menanyakan bagian yang paling bermanfaat dan kekhawatiran target
+Saya berusaha menyampaikan solusi sebagai kemungkinan yang perlu diuji, bukan sebagai produk yang pasti berhasil. Pertanyaan penutup juga berfungsi untuk membuka percakapan dua arah dan mengidentifikasi pertimbangan target.
+6. Bukti Interaksi dan Adaptasi Spontan
+6.1 Respons aktual target
+Setelah saya menyampaikan penjelasan mengenai sistem pendukung antrean kantin, saya mengajukan pertanyaan lanjutan untuk mengetahui apakah status pesanan saja sudah cukup membantu atau apakah estimasi waktu tunggu tetap diperlukan.
+Target menjawab bahwa status pesanan saja sudah cukup membantu untuk mengetahui perkembangan pesanan. Namun, estimasi waktu tunggu juga akan berguna agar mahasiswa bisa memperkirakan kapan makanan selesai dan menyesuaikannya dengan jadwal berikutnya.
+Respons tersebut menunjukkan bahwa target melihat manfaat dari kedua jenis informasi, tetapi dengan fungsi yang berbeda. Status pesanan membantu target mengetahui tahapan pemrosesan, sedangkan estimasi waktu membantu target merencanakan kegiatan. Dengan demikian, respons target tidak hanya mendukung satu fitur, tetapi memperjelas hubungan antara kedua fitur tersebut.
+6.2 Interpretasi terhadap respons target
+Saya menginterpretasikan bahwa target membutuhkan informasi yang jelas dan dapat diandalkan. Status pesanan dapat memberikan gambaran tentang proses yang sedang berlangsung, sedangkan estimasi waktu tunggu membantu memperkirakan kapan makanan selesai.
+Namun, kedua informasi tersebut tidak memiliki tingkat kepastian yang sama. Status pesanan menjelaskan tahapan yang sedang berlangsung, sementara estimasi waktu merupakan perkiraan yang dapat berubah sesuai kondisi operasional. Apabila estimasi tidak akurat, mahasiswa justru dapat mengalami kesulitan ketika mengatur waktu makan dan jadwal berikutnya.
+Dari respons tersebut, saya menyadari bahwa menambahkan estimasi waktu saja tidak otomatis meningkatkan manfaat sistem. Saya perlu mempertimbangkan bagaimana informasi disampaikan, seberapa dapat diandalkan perkiraan tersebut, dan apakah pengguna memahami bahwa estimasi bukan jaminan waktu penyelesaian.
+6.3 Adaptasi yang saya lakukan
+Berdasarkan jawaban target dan interpretasi tersebut, saya menyesuaikan penjelasan dengan menekankan bahwa sistem sebaiknya memprioritaskan pembaruan status pesanan yang jelas. Estimasi waktu tunggu tetap dapat disediakan sebagai informasi tambahan, tetapi tidak boleh disampaikan sebagai janji waktu yang pasti.
+Saya juga menjelaskan bahwa estimasi tersebut perlu dievaluasi melalui uji coba agar dapat diketahui seberapa akurat dan bermanfaat informasi itu bagi mahasiswa.
+Adaptasi ini mengubah penekanan penjelasan saya. Pada awalnya, status pesanan dan estimasi waktu sama-sama ditawarkan sebagai bagian dari solusi. Setelah mendengar respons target, saya memperjelas fungsi masing-masing: status pesanan menjadi dasar informasi utama, sedangkan estimasi waktu menjadi informasi pelengkap yang manfaat dan keandalannya perlu diuji.
+Dengan begitu, saya tidak sekadar mengulang pitch awal atau menambahkan fitur baru. Saya menggunakan respons target untuk memperjelas prioritas solusi dan batas klaim yang dapat saya sampaikan.
+6.4 Evaluasi hubungan respons dan adaptasi
+Rangkaian interaksi ini menunjukkan hubungan antara respons target, interpretasi, dan penyesuaian penjelasan. Target menyampaikan bahwa status pesanan sudah membantu, tetapi estimasi waktu juga berguna untuk perencanaan. Saya kemudian mengidentifikasi kebutuhan akan informasi yang jelas dan dapat diandalkan, lalu menyesuaikan penjelasan dengan memprioritaskan status pesanan dan menempatkan estimasi waktu sebagai informasi tambahan yang perlu divalidasi.
+Adaptasi tersebut merupakan upaya menyesuaikan solusi dengan kebutuhan target tanpa menjanjikan kemampuan yang belum terbukti. Meskipun respons target menunjukkan manfaat yang dipersepsikan dari kedua fitur, respons tersebut belum cukup untuk membuktikan bahwa sistem benar-benar mengurangi waktu tunggu atau meningkatkan kepuasan pengguna. Hal tersebut tetap perlu diuji melalui penerapan dan evaluasi.
+Saya juga belajar bahwa respons target tidak harus berupa keberatan langsung untuk menjadi masukan yang berguna. Jawaban yang mendukung dua fitur sekaligus tetap perlu dianalisis agar saya dapat memahami fungsi masing-masing fitur dan menentukan prioritas secara lebih tepat.
+7. Keterbatasan dan Validasi Solusi
+Saya memahami bahwa sistem pendukung antrean belum tentu menghilangkan antrean fisik atau menyelesaikan seluruh penyebab keterlambatan. Sistem ini terutama berpotensi memperbaiki akses terhadap informasi pesanan.
+Sebelum mengklaim bahwa solusi berhasil, beberapa hal perlu diuji:
+Apakah mahasiswa memahami informasi status pesanan dengan mudah?
+Apakah pembaruan status dapat dilakukan secara konsisten?
+Apakah estimasi waktu cukup dapat diandalkan untuk membantu perencanaan?
+Apakah penggunaan sistem menambah pekerjaan petugas?
+Apakah solusi tetap berguna ketika jumlah pesanan meningkat?
+Uji coba terbatas pada jam makan siang dapat membantu mengidentifikasi kekurangan sebelum solusi dikembangkan lebih jauh. Hasil uji coba perlu digunakan untuk menentukan fitur mana yang dipertahankan, disederhanakan, atau diubah.
+8. Refleksi Pembelajaran
+Dari latihan ini, saya belajar bahwa komunikasi pada tahap Interest tidak cukup hanya dengan menjelaskan hubungan antara masalah dan solusi. Saya juga harus mendengarkan respons target, menguji asumsi, dan menyesuaikan penjelasan berdasarkan informasi yang diperoleh.
+Saya menyadari bahwa fitur yang tampak berguna dari sudut pandang perancang belum tentu memiliki prioritas yang sama bagi target. Dalam interaksi ini, target memandang status pesanan sebagai informasi yang sudah membantu, sementara estimasi waktu juga berguna untuk merencanakan jadwal. Respons tersebut membantu saya membedakan fungsi kedua fitur dan menyusun prioritas yang lebih masuk akal.
+Saya juga belajar bahwa kejujuran mengenai keterbatasan merupakan bagian dari komunikasi yang baik. Estimasi waktu perlu disampaikan sebagai perkiraan dan divalidasi melalui uji coba, bukan dipresentasikan sebagai kepastian.
+Ke depannya, saya akan menerapkan pola berikut:
+Respons target → interpretasi → pertanyaan klarifikasi → adaptasi penjelasan → evaluasi.
+Saya akan berusaha mencatat respons target secara spesifik, memeriksa asumsi saya, dan memastikan bahwa penyesuaian yang dilakukan benar-benar berkaitan dengan kebutuhan yang disampaikan target.
+9. Penggunaan AI
+Saya menggunakan AI sebagai alat bantu untuk menyusun struktur tulisan, memeriksa kejelasan hubungan antara masalah dan solusi, serta memperbaiki cara menjelaskan feature, benefit, dan value. AI juga membantu saya mengidentifikasi bagian refleksi yang perlu menjelaskan hubungan antara respons target dan adaptasi komunikasi.
+Namun, AI tidak menggantikan interaksi dengan target. Jawaban target dan tindakan adaptasi yang saya laporkan didasarkan pada informasi interaksi yang saya sampaikan. Saya bertanggung jawab memastikan bahwa laporan akhir tidak mengklaim percakapan atau hasil validasi yang tidak terjadi.
+10. Penilaian Diri
+Kriteria
+Evaluasi diri
+Fit
+Saya menghubungkan solusi dengan masalah antrean dan ketidakpastian informasi yang dialami target.
+Kejelasan mekanisme
+Saya menjelaskan alur status pesanan dengan bahasa sederhana.
+Penerjemahan nilai
+Saya membedakan fitur teknis dari manfaat langsung dan nilai bagi pengguna.
+Kejujuran dan keterbatasan
+Saya tidak mengklaim bahwa estimasi waktu pasti akurat atau bahwa sistem menyelesaikan semua penyebab antrean.
+Saya menilai pekerjaan ini berdasarkan pemahaman konseptual, kesesuaian solusi dengan masalah, dan kemampuan menghubungkan respons target dengan adaptasi penjelasan. Penilaian akhir tetap perlu mengikuti rubrik dan bukti yang dipersyaratkan dalam tugas.
+11. Tindak Lanjut
+Langkah selanjutnya adalah menguji solusi dalam skala terbatas dan mengevaluasi apakah status pesanan dan estimasi waktu benar-benar membantu mahasiswa. Saya juga perlu mengamati apakah proses pembaruan informasi dapat dilakukan tanpa menambah beban kerja petugas.
+Hasil uji coba akan digunakan untuk menentukan apakah estimasi waktu perlu dipertahankan, diperbaiki, atau ditunda sampai datanya cukup dapat diandalkan. Dengan demikian, pengembangan solusi tetap berangkat dari kebutuhan target dan hasil evaluasi, bukan hanya dari asumsi perancang.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#problemsolution-interest-pitch
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#konteks-dan-tujuan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#identifikasi-masalah-target
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#perspektif-mahasiswa-sebagai-pengguna
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#perspektif-petugas-kantin-sebagai-operator
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#perspektif-pengambil-keputusan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#rumusan-masalah
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#feature-detox-memilih-fitur-yang-relevan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#hubungan-feature-benefit-dan-value
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#interest-pitch
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#naskah-pitch
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#analisis-struktur-komunikasi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#bukti-interaksi-dan-adaptasi-spontan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#respons-aktual-target
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#interpretasi-terhadap-respons-target
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#adaptasi-yang-saya-lakukan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#evaluasi-hubungan-respons-dan-adaptasi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#keterbatasan-dan-validasi-solusi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#refleksi-pembelajaran
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#penilaian-diri
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#tindak-lanjut
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

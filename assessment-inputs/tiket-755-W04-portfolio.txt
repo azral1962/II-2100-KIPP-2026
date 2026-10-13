@@ -1,0 +1,236 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 755
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Core meaning
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Konteks performance
+Tanggal dan setting: 30 September 2026. Penyusunan lima versi pesan dilakukan secara mandiri, lalu versi friend diuji langsung kepada satu teman dekat non-teknis melalui chat.
+Persons dan relationship: Lima target dari peran-peran saya: teman dekat non-teknis (friend), rekan tim teknis Neurova (technical peer), rekan founder Neurova dari SBM ITB sebagai pengambil keputusan (manager), pengguna layanan Neurova (customer), dan masyarakat pengguna internet (public). Nama tidak dicantumkan.
+Objective dan initial state: State awal: sebagai Cybersecurity Analyst, saya terbiasa menjelaskan keamanan akun dengan istilah teknis seperti TOTP, credential stuffing, atau SIM swap, sehingga orang non-teknis cenderung menganggapnya rumit dan menunda mengaktifkan 2FA. Objective: menyampaikan satu pesan yang sama ke lima target dengan language yang berbeda, sehingga setiap target paham alasannya dan tahu tindakan yang perlu diambil.
+Core meaning
+Fakta yang tidak boleh berubah:
+Kata sandi saja tidak cukup, karena kata sandi bisa bocor atau ditebak.
+Autentikasi dua faktor (2FA) menambahkan satu lapis verifikasi, sehingga akun tetap aman meskipun kata sandi bocor.
+Tindakan: aktifkan 2FA pada akun penting (email, perbankan, media sosial, akun kerja), utamakan aplikasi autentikator dibanding SMS, dan jangan pernah membagikan kode verifikasi kepada siapa pun.
+Evidence
+Target/character
+Versi language
+Alasan adaptasi
+Friend
+“Eh, akun IG sama emailmu udah pakai verifikasi dua langkah belum? Kalau password-mu bocor, orang tetap nggak bisa masuk tanpa kode dari HP-mu. Nyalain di pengaturan keamanan, paling lama 5 menit. Kalau bingung, sini aku bantuin. Satu lagi: kode itu jangan pernah dikasih ke siapa pun, termasuk yang ngaku dari Instagram.”
+Santai, personal, pakai contoh akun yang ia pakai sehari-hari, menawarkan bantuan langsung, dan tanpa istilah teknis
+Technical peer
+“Semua akun kerja kita (Google Workspace, GitHub, dan dashboard hosting) wajib pakai 2FA. Utamakan TOTP lewat aplikasi autentikator atau security key, bukan SMS OTP yang rentan SIM swap. Simpan recovery codes di password manager tim, dan jangan pernah kirim kode OTP lewat chat, termasuk ke sesama anggota tim.”
+Menyebut metode, alasan teknis (SIM swap), dan langkah operasional yang spesifik untuk sesama orang teknis
+Manager
+“Saat ini akun kerja tim hanya dilindungi kata sandi. Kalau satu akun diambil alih, repositori kode dan data pengguna bisa ikut terbuka, dan kepercayaan pengguna yang paling mahal untuk dipulihkan. Saya usulkan 2FA diwajibkan untuk semua akun kerja mulai minggu depan. Biayanya nol dan setup-nya sekitar 10 menit per orang. Yang saya perlukan hanya persetujuan untuk menjadikannya aturan tim.”
+Menekankan dampak risiko, biaya, usulan, dan decision point, bukan mekanisme teknis
+Customer
+“Lindungi akun Neurova Anda dengan verifikasi dua langkah. Setelah diaktifkan, setiap kali masuk dari perangkat baru, Anda akan diminta memasukkan kode dari aplikasi autentikator di ponsel Anda. Aktifkan melalui menu Pengaturan > Keamanan. Tim Neurova tidak akan pernah meminta kode verifikasi Anda.”
+Formal dan sopan, fokus pada manfaat dan langkah yang harus dilakukan pengguna, disertai peringatan anti-penipuan
+Public
+“Kata sandi saja tidak cukup untuk menjaga akun Anda. Aktifkan verifikasi dua langkah di email, mobile banking, dan media sosial. Dengan begitu, meskipun kata sandi Anda bocor, akun tetap tidak bisa dibuka tanpa kode dari ponsel Anda. Ingat: jangan berikan kode verifikasi kepada siapa pun, termasuk yang mengaku petugas bank atau aplikasi.”
+Kalimat pendek, tanpa jargon, contoh akun yang dimiliki banyak orang, dan satu pesan pengaman yang mudah diingat
+Catatan: Versi customer adalah draf notifikasi untuk rencana fitur keamanan akun Neurova, bukan pengumuman yang sudah dipublikasikan.
+Pemeriksaan keutuhan makna (fidelity check):
+Setiap versi saya periksa terhadap lima poin core meaning: (A) kata sandi tidak cukup, (B) 2FA menambah lapis verifikasi, (C) aktifkan di akun penting, (D) utamakan aplikasi autentikator, dan (E) jangan bagikan kode.
+Versi
+A
+B
+C
+D
+E
+Catatan
+Friend (awal)
+✓
+✗
+✓
+Poin D tidak ada; ditemukan juga melalui uji pemahaman
+Friend (setelah adaptasi)
+✓
+Lengkap
+Technical peer
+✓
+Poin A disampaikan lewat risiko teknis (SIM swap, kompromi kredensial)
+Manager
+✓
+—
+D dan E sengaja tidak dimuat: manager membutuhkan keputusan kebijakan, sedangkan detail pelaksanaan didelegasikan ke versi technical peer
+Customer
+✓
+Poin A tersirat dalam ajakan “lindungi akun Anda”
+Public (awal)
+✓
+✗
+✓
+Poin D tidak ada
+Public (setelah adaptasi)
+✓
+Ditambahkan satu kalimat tentang aplikasi autentikator
+Pemeriksaan ini menunjukkan bahwa poin D adalah bagian core meaning yang paling mudah hilang ketika bahasa disederhanakan, karena dianggap terlalu teknis. Temuan dari uji pemahaman versi friend saya gunakan untuk memeriksa ulang versi lain, dan pola yang sama ditemukan pada versi public.
+Versi public setelah adaptasi:
+“Kata sandi saja tidak cukup untuk menjaga akun Anda. Aktifkan verifikasi dua langkah di email, mobile banking, dan media sosial. Dengan begitu, meskipun kata sandi Anda bocor, akun tetap tidak bisa dibuka tanpa kode dari ponsel Anda. Jika tersedia, pilih aplikasi autentikator karena lebih aman daripada kode SMS. Ingat: jangan berikan kode verifikasi kepada siapa pun, termasuk yang mengaku petugas bank atau aplikasi.”
+Uji pemahaman:
+Uji pemahaman versi friend kepada teman dekat non-teknis melalui chat
+Versi friend saya kirim kepada satu teman dekat non-teknis tanpa penjelasan tambahan. Target menjawab, “Oh iya belum, oke nanti aku nyalain.” Ketika saya bertanya bagian mana yang paling penting dan apakah ada yang membingungkan, target menjawab, “Menurutku, yang paling penting adalah langkah-langkah untuk menyalakan verifikasinya. Tidak ada yang dibingungkan.”
+Versi friend setelah adaptasi:
+“Eh, akun IG sama emailmu udah pakai verifikasi dua langkah belum? Kalau password-mu bocor, orang tetap nggak bisa masuk tanpa kode dari HP-mu.
+Cara nyalain di IG: buka Profil > menu garis tiga > Pusat Akun > Kata sandi dan keamanan > Autentikasi dua faktor. Kalau ada pilihan, pakai aplikasi autentikator ya, lebih aman daripada kode SMS. Paling lama 5 menit, kalau bingung sini aku bantuin.
+⚠️ Yang paling penting: kode itu jangan pernah dikasih ke siapa pun, termasuk yang ngaku dari Instagram.”
+Kontribusi saya: menentukan core meaning, memilih lima target dari peran saya sendiri, memeriksa ketepatan teknis dan keutuhan makna setiap versi, menguji versi friend kepada satu target, serta memperbaiki versi friend dan public berdasarkan temuan tersebut.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Kelima target dibedakan berdasarkan kebutuhan, bukan stereotipe. Teman butuh kemudahan dan bantuan, rekan teknis butuh prosedur yang presisi, manager butuh dampak dan keputusan, customer butuh langkah yang jelas dan rasa aman, sedangkan publik butuh pesan singkat yang mudah diingat. Saya juga berganti character dengan tanggung jawab yang berbeda: sebagai sahabat saya menawarkan bantuan langsung, sebagai CTO saya menetapkan standar teknis, sebagai rekan founder saya meminta keputusan, sebagai penyedia layanan saya menjaga rasa aman pengguna, dan sebagai praktisi keamanan siber saya bertanggung jawab atas literasi publik.
+Objective & state
+Core meaning diperiksa secara sistematis melalui fidelity check lima poin. Hasilnya, poin “utamakan aplikasi autentikator” hilang di versi friend dan public karena dianggap terlalu teknis saat bahasa disederhanakan. Kedua versi tersebut kemudian diperbaiki. State target berubah dari “keamanan akun itu rumit” menjadi niat bertindak, terbukti dari respons target uji (“nanti aku nyalain”).
+Repertoire & language
+Repertoire berubah dari ajakan personal, instruksi teknis, decision brief, instruksi layanan, hingga imbauan publik. Istilah teknis (TOTP, SIM swap, recovery codes) hanya muncul pada versi technical peer. Pada versi lain, istilah itu diterjemahkan menjadi “kode dari HP”, “verifikasi dua langkah”, atau “aplikasi autentikator” dengan alasan sederhana (“lebih aman daripada kode SMS”). Versi manager sengaja tidak memuat detail teknis karena fungsinya meminta keputusan, bukan menjelaskan cara pelaksanaan.
+Response & adaptation
+Target menilai bagian terpenting adalah “langkah-langkah untuk menyalakan verifikasinya”, padahal versi awal hanya menyebut “nyalain di pengaturan keamanan” tanpa langkah konkret. Target juga tidak menyebut peringatan untuk tidak membagikan kode, yang menunjukkan peringatan itu kurang menonjol karena diletakkan di akhir. Versi friend saya perbaiki dengan menambahkan urutan langkah, anjuran aplikasi autentikator, dan penekanan peringatan kode. Temuan ini juga saya gunakan untuk memeriksa ulang versi lain, sehingga versi public ikut diperbaiki. Kedua versi perbaikan belum diuji ulang kepada target.
+Agreement/action
+Setiap versi diakhiri tindakan yang jelas: dibantu mengaktifkan (friend), aturan akun kerja (technical peer), persetujuan kebijakan (manager), menu yang harus dibuka (customer), dan satu kebiasaan aman (public). Target versi friend menyatakan akan mengaktifkan verifikasi dua langkah.
+Relationship outcome
+Versi friend dan public dibuat tanpa menakut-nakuti atau menggurui, sehingga target tidak merasa dianggap ceroboh. Target merespons dengan santai dan terbuka menjawab pertanyaan lanjutan. Versi manager menjaga hubungan kerja dengan memberi usulan yang siap diputuskan, bukan tuntutan sepihak.
+Penggunaan AI
+Alat dan peran AI: Claude, untuk membantu menyusun draf awal lima versi pesan, struktur portofolio, dan format tabel pemeriksaan keutuhan makna.
+Prompt atau instruksi penting: Meminta bantuan mengisi template Minggu 4 dengan topik yang sesuai peran saya sebagai Cybersecurity Analyst dan CTO Neurova, mengikuti format contoh dosen.
+Bagian output yang digunakan, diubah, atau ditolak: Draf lima versi saya gunakan sebagai dasar, dan versi friend saya uji kepada teman tanpa perubahan. Setelah menerima respons teman, versi friend diperbaiki dengan menambahkan langkah konkret, anjuran aplikasi autentikator, dan penekanan pada peringatan kode. Pemeriksaan keutuhan makna kemudian menemukan kekurangan yang sama pada versi public, sehingga versi tersebut ikut diperbaiki.
+Pemeriksaan accuracy, privacy, dan authority: Ketepatan teknis (kelemahan SMS OTP terhadap SIM swap, keunggulan aplikasi autentikator, dan larangan membagikan kode) saya periksa berdasarkan pengetahuan saya sebagai Cybersecurity Analyst. Tidak ada data internal Neurova atau data pribadi target yang dimasukkan ke AI, dan identitas teman yang menjadi target uji tidak dicantumkan.
+Apa yang tetap saya pelajari sebagai manusia: Menguji pesan langsung kepada orang yang saya kenal dan membaca responsnya. Respons teman menunjukkan hal yang tidak saya sadari saat menulis, yaitu bahwa ia paling membutuhkan langkah konkret, bukan sekadar alasan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Target versi friend menyatakan, “Oh iya belum, oke nanti aku nyalain.” Saat ditanya bagian terpenting, ia menjawab, “Menurutku, yang paling penting adalah langkah-langkah untuk menyalakan verifikasinya. Tidak ada yang dibingungkan.”
+Adaptation/replay: Versi friend diperbaiki dengan menambahkan urutan langkah mengaktifkan autentikasi dua faktor di Instagram, anjuran memilih aplikasi autentikator dibanding SMS agar sesuai dengan core meaning, serta menempatkan peringatan “jangan berikan kode kepada siapa pun” sebagai poin yang ditandai paling penting. Berdasarkan temuan tersebut, saya memeriksa ulang keempat versi lainnya dan menambahkan anjuran aplikasi autentikator pada versi public. Versi perbaikan ini belum diuji ulang kepada target.
+Next practice: Mengirim versi friend yang sudah diperbaiki kepada target yang sama untuk memeriksa apakah langkahnya mudah diikuti dan peringatan kodenya kini tertangkap. Selain itu, setiap kali menyederhanakan pesan teknis, saya akan memeriksa ulang daftar core meaning sebelum mengirim, karena poin yang paling teknis cenderung hilang lebih dulu.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima target dibedakan berdasarkan kebutuhan; perbedaan tanggung jawab saya pada setiap character dianalisis secara eksplisit
+Objective & State
+4
+Core meaning diperiksa sistematis melalui fidelity check lima poin; kekurangan pada dua versi ditemukan dan diperbaiki
+Repertoire, Language & AI
+4
+Lima repertoire dengan alasan adaptasi; penerjemahan istilah teknis dan alasan penghilangan detail pada versi manager dijelaskan; batas AI dinyatakan
+Response & Adaptation
+3
+Respons target menghasilkan perbaikan konkret pada versi friend dan memicu pemeriksaan ulang versi lain; versi perbaikan belum diuji ulang
+Agreement, Action & Relationship
+3
+Setiap versi memiliki tindakan eksplisit; target menyatakan akan mengaktifkan 2FA
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Sarah Christine Rebecca Tambunan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sarah-chreta.github.io/kipp-students/index.html
+- https://sarah-chreta.github.io/kipp-students/assets/logo.png
+- https://sarah-chreta.github.io/kipp-students/course/index.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/index.html
+- https://sarah-chreta.github.io/kipp-students/examples/index.html
+- https://sarah-chreta.github.io/kipp-students/lk/index.html
+- https://sarah-chreta.github.io/kipp-students/slides.html
+- https://sarah-chreta.github.io/kipp-students/slides-pdf/index.html
+- https://sarah-chreta.github.io/kipp-students/assessment/index.html
+- https://sarah-chreta.github.io/kipp-students/about.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-03.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-05.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-06.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-07.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-08.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-09.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-10.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-11.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-12.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-13.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-14.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-15.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://sarah-chreta.github.io/kipp-students/portfolio/images/uji-pemahaman.jpeg
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,207 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 744
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence
+Evidence tindakan
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Konteks performance
+Tanggal dan setting: 11–20 September 2026 dalam EISD Competition. Episode terjadi ketika saya dan teman satu kelompok mengevaluasi kembali desain yang kami kerjakan di Figma selama proses perlombaan.
+Persons dan relationship: Saya dan teman satu kelompok sebagai anggota tim lomba UI/UX. Kami bersama-sama mengevaluasi desain dan mendiskusikan fitur yang masih perlu diperbaiki berdasarkan kebutuhan user.
+Objective dan initial state: Objective saya adalah memperbaiki desain agar lebih rapi, konsisten, dan sesuai dengan kebutuhan user.
+Initial state saya adalah merasa bahwa hasil desain yang sudah dibuat masih belum maksimal. Ketika melihat kembali desain di Figma, saya melihat beberapa bagian user flow dan UI consistency yang masih perlu diperbaiki. Saya juga menyadari bahwa ada fitur yang kurang sesuai dengan kebutuhan user dan sebaiknya tidak digunakan.
+Episode
+Event: Saat proses EISD Competition, saya dan teman satu kelompok melihat kembali desain yang telah dibuat di Figma. Setelah mengevaluasinya, saya merasa bahwa masih ada beberapa bagian yang belum maksimal, terutama pada user flow dan UI consistency.
+Lapisan
+Catatan
+Fact
+Masih terdapat bagian user flow dan UI consistency yang perlu diperbaiki, serta beberapa fitur yang kurang sesuai dengan kebutuhan user.
+Initial story
+“Wah, kita kurang maksimal banget. Harusnya beneran bisa all out”
+Emotion/body signal
+Kecewa dan terdorong untuk langsung memperbaiki desain yang masih kurang.
+Reactive character
+“Perfectionist” yang ingin semua bagian desain segera terlihat bagus dan rapi.
+Desired character
+“Reflective designer” yang mengevaluasi desain berdasarkan kebutuhan user dan menentukan fitur yang memang relevan.
+Initial story membuat saya melihat kekurangan desain sebagai tanda bahwa kami belum memberikan usaha secara maksimal. Setelah berdiskusi dengan teman satu kelompok dan melihat kembali kebutuhan user, saya menyadari bahwa memperbaiki desain bukan hanya tentang membuatnya terlihat lebih bagus, tetapi juga memastikan fitur yang digunakan memang relevan bagi user.
+Alternative narratives
+Improvement opportunity: kekurangan pada desain dapat digunakan untuk menemukan bagian yang masih perlu diperbaiki sebelum hasil akhir dikumpulkan.
+User-centered improvement: desain tidak perlu hanya dibuat semakin banyak fiturnya, tetapi perlu disesuaikan dengan kebutuhan user. Fitur yang tidak relevan dapat dikurangi agar pengalaman pengguna lebih jelas.
+Prioritized refinement: tidak semua bagian harus diperbaiki dengan cara yang sama. User flow, UI consistency, dan relevansi fitur menjadi bagian yang perlu diperhatikan terlebih dahulu.
+Alternative kedua paling membantu saya karena mengubah cara berpikir dari sekadar membuat desain lebih bagus menjadi memastikan bahwa desain benar-benar sesuai dengan kebutuhan user.
+Internal conversation dan agreement
+Perfectionist: “Kita harus memperbaiki semuanya supaya desainnya bagus dan rapi.”
+Reflective designer: “Bukan cuma soal membuat semuanya terlihat bagus. Kita perlu lihat lagi dari sisi user. Kalau ada fitur yang tidak sesuai kebutuhan, lebih baik dikurangi atau diubah.”
+Saya: “Kita perbaiki bagian yang paling penting, terutama user flow dan consistency, lalu cek lagi apakah fitur yang kita gunakan memang sesuai dengan user.”
+Internal agreement: saya akan mengevaluasi desain berdasarkan kebutuhan user, bukan hanya berdasarkan keinginan untuk membuat desain terlihat lebih lengkap.
+Evidence
+Evidence utama berasal dari proses evaluasi dan perbaikan desain selama EISD Competition pada 11–20 September 2026.
+Bagian yang menjadi kontribusi saya adalah ikut mengidentifikasi bagian desain yang masih kurang, terutama user flow dan UI consistency, kemudian ikut mendiskusikan dan melakukan perbaikan bersama teman satu kelompok.
+Dalam proses evaluasi, terdapat beberapa masukan terhadap desain, antara lain menambahkan fitur game, menambahkan fitur yang relevan, serta mengurangi fitur yang tidak sesuai dengan kebutuhan user.
+AI juga digunakan sebagai alat bantu dalam proses validasi dan membantu proses berpikir. AI tidak menjadi pengambil keputusan akhir mengenai desain. Keputusan mengenai fitur dan perubahan desain tetap didiskusikan dan ditentukan oleh tim berdasarkan kebutuhan user dan konteks kompetisi.
+Evidence tindakan
+Setelah menyadari bahwa desain masih belum maksimal, saya dan teman satu kelompok melakukan beberapa perbaikan.
+Perbaikan tersebut mencakup: - memperbaiki user flow; - meningkatkan UI consistency; - menambahkan fitur yang dianggap relevan, termasuk masukan mengenai fitur game; - mengurangi fitur yang tidak sesuai dengan kebutuhan user; - mengevaluasi kembali apakah fitur yang digunakan benar-benar memberikan manfaat bagi user.
+Hasil dari proses perbaikan tersebut adalah desain yang menurut kami menjadi lebih baik dan lebih sesuai dengan kebutuhan user. Pada akhir kompetisi, tim kami memperoleh Juara 2 EISD Competition.
+Outcome tersebut dicatat sebagai hasil akhir kompetisi, bukan sebagai bukti bahwa satu perubahan tertentu secara langsung menyebabkan pencapaian tersebut.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya berperan sebagai anggota tim yang mengevaluasi desain bersama teman satu kelompok. Reactive character yang muncul adalah “Perfectionist”, sedangkan desired character adalah “Reflective designer” yang mempertimbangkan kebutuhan user sebelum menentukan perubahan desain.
+Objective & state
+Initial state adalah merasa desain belum maksimal, dengan masalah yang terlihat pada user flow, UI consistency, dan relevansi beberapa fitur. Objective saya adalah membuat desain lebih rapi sekaligus lebih sesuai dengan kebutuhan user.
+Repertoire & language
+Saya menggunakan evaluasi desain, diskusi dengan teman satu kelompok, feedback mengenai fitur, serta AI sebagai alat bantu validasi dan berpikir. Fokus evaluasi berubah dari “bagaimana membuat desain lebih bagus” menjadi “apakah fitur dan alur ini sesuai dengan kebutuhan user”.
+Response & adaptation
+Setelah melihat kekurangan desain, saya tidak hanya memperbaiki tampilan. Saya dan tim juga mengevaluasi fitur yang digunakan, menambahkan fitur yang relevan, dan mengurangi fitur yang tidak sesuai dengan user.
+Agreement/action
+Internal agreement saya adalah mengevaluasi desain berdasarkan kebutuhan user. Agreement tersebut diterjemahkan menjadi tindakan berupa perbaikan user flow, UI consistency, serta penyesuaian fitur.
+Relationship outcome
+Diskusi bersama teman satu kelompok menjadi bagian dari proses menentukan perubahan desain dan melakukan perbaikan bersama. Outcome kompetisi adalah tim memperoleh Juara 2 EISD Competition.
+Penggunaan AI
+AI digunakan dalam proses validasi dan membantu proses berpikir selama pengembangan desain.
+Peran AI: - membantu memvalidasi ide dan keputusan desain; - membantu melihat alternatif atau sudut pandang lain; - membantu proses berpikir ketika mengevaluasi fitur dan kebutuhan user.
+AI tidak digunakan sebagai pengambil keputusan akhir. Masukan AI tetap perlu dipertimbangkan kembali berdasarkan konteks user dan tujuan desain.
+Human review: keputusan akhir mengenai fitur yang ditambahkan, dipertahankan, atau dikurangi tetap dilakukan oleh saya dan teman satu kelompok.
+Accuracy dan authority: output AI tidak dianggap sebagai fakta atau keputusan desain yang otomatis benar. Kami tetap mengevaluasi apakah masukan tersebut relevan dengan kebutuhan user dan konteks kompetisi.
+Pembelajaran utama tetap berasal dari proses mengevaluasi desain, berdiskusi dengan anggota tim, mempertimbangkan kebutuhan user, dan menentukan perubahan desain.
+Feedback dan tindak lanjut
+Feedback yang diterima: Selama proses pengembangan, terdapat masukan untuk menambahkan fitur game, menambahkan fitur yang relevan, serta mengurangi fitur yang tidak sesuai dengan kebutuhan user.
+Adaptation/replay: Setelah menerima dan mengevaluasi masukan tersebut, saya dan teman satu kelompok tidak hanya menambahkan fitur. Kami juga meninjau kembali fitur yang sudah ada dan mengurangi fitur yang dianggap tidak sesuai dengan user. Kami juga memperbaiki user flow dan UI consistency agar desain menjadi lebih rapi dan terarah.
+Next practice: Pada proyek UI/UX berikutnya, saya akan meminta feedback lebih awal dan mengevaluasi setiap fitur berdasarkan kebutuhan user sebelum terlalu jauh mengembangkan desain, sehingga perbaikan tidak hanya dilakukan menjelang tahap akhir.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Saya dapat mengenali reaksi perfectionist ketika melihat desain belum maksimal dan mengubah pendekatan menjadi evaluasi yang lebih berorientasi pada user.
+Objective & State
+3
+Saya memiliki tujuan untuk memperbaiki desain, kemudian memperjelasnya menjadi perbaikan user flow, UI consistency, dan relevansi fitur terhadap kebutuhan user.
+Repertoire, Language & AI
+4
+Saya menggunakan evaluasi desain, diskusi tim, feedback, dan AI sebagai alat bantu validasi serta berpikir, dengan keputusan akhir tetap dilakukan oleh tim.
+Response & Adaptation
+4
+Saya menggunakan hasil evaluasi dan feedback untuk mengubah desain, termasuk menambahkan fitur yang relevan dan mengurangi fitur yang tidak sesuai dengan user.
+Agreement, Action & Relationship
+3
+Internal agreement untuk berorientasi pada kebutuhan user diterjemahkan menjadi tindakan perbaikan desain bersama teman satu kelompok.
+Total: 17/20 - Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Jevon Cleverivello Aritonang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://jevoncleverr.github.io/kipp-students/index.html
+- https://jevoncleverr.github.io/kipp-students/assets/logo.png
+- https://jevoncleverr.github.io/kipp-students/course/index.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/index.html
+- https://jevoncleverr.github.io/kipp-students/examples/index.html
+- https://jevoncleverr.github.io/kipp-students/lk/index.html
+- https://jevoncleverr.github.io/kipp-students/slides.html
+- https://jevoncleverr.github.io/kipp-students/slides-pdf/index.html
+- https://jevoncleverr.github.io/kipp-students/assessment/index.html
+- https://jevoncleverr.github.io/kipp-students/about.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-01.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-03.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-04.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-05.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-06.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-07.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-08.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-09.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-10.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-11.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-12.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-13.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-14.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-15.html
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#episode
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://jevoncleverr.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

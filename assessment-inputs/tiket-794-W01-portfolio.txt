@@ -1,0 +1,234 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 794
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Episode yang dianalisis
+Perubahan language
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — penjaga keseimbangan
+Diri sendiri saat menyeimbangkan akademik, karier, organisasi, dan lomba
+Mengatur prioritas, jujur pada kapasitas diri, dan mengevaluasi beban kerja secara rutin agar tidak burnout
+Refleksi mingguan dan self-talk jujur; “Apa yang minggu ini paling membuatku lelah, dan apakah aku masih punya energi untuk menerima tanggung jawab baru?”
+Terlalu cepat menerima tanggung jawab baru dan memendam tekanan; latihan: refleksi 15 menit setiap minggu sebelum menyanggupi komitmen baru
+Family — anak bungsu
+Orang tua dan kakak
+Menjaga kedekatan dan tidak hanya menceritakan hal baik agar keluarga benar-benar tahu kondisi saya
+Hangat dan terbuka; “Minggu ini aku lagi banyak tugas dan agak capek, tapi aku lagi coba atur. Boleh aku cerita sebentar?”
+Menyembunyikan kesulitan agar keluarga tidak khawatir; latihan: menceritakan satu kesulitan nyata setiap kali berbincang dengan keluarga
+Friends — sahabat pendengar
+Teman-teman dekat yang datang untuk bercerita
+Membuat teman merasa didengar, divalidasi, dan tidak sendirian
+Mendengarkan aktif, parafrasa, pertanyaan reflektif; “Kamu mau didengarkan dulu, dibantu mikir, atau mau saran dariku?”
+Terlalu cepat memberi saran, termasuk lewat pertanyaan seperti “kenapa nggak…?”; latihan: menahan saran selama 3 menit pertama
+Work — CTO Neurova
+Tim teknis dan rekan founder dari SBM ITB
+Menerjemahkan visi produk menjadi eksekusi teknis, mengoordinasi tim, dan melaporkan progres secara akurat dan tepat waktu
+Terstruktur, berbasis data, memberi opsi dan trade-off; “Untuk demo, versi sederhana fitur ini bisa selesai tiga hari; versi lengkapnya butuh dua minggu. Mana yang lebih mendukung target kita?”
+Menanggung beban teknis sendiri dan tidak menyampaikan batas kemampuan; latihan: menyampaikan kapasitas dan kebutuhan bantuan di setiap rapat progres
+Community — Team Leader tim lomba (BURU-BURU, GEMASTIK)
+Dua rekan satu tim lomba desain UX
+Mengarahkan riset dan desain, menjaga ritme kerja, dan memastikan tim mencapai tenggat lomba
+Fasilitatif dan terstruktur; “Minggu ini kondisi masing-masing gimana? Bagian mana yang realistis selesai sebelum tenggat?”
+Mengambil alih pekerjaan anggota daripada membicarakannya; latihan: check-in kapasitas anggota setiap minggu sebelum membagi tugas
+Episode yang dianalisis
+Konteks: Tim lomba BURU-BURU (proyek NUSATANI, GEMASTIK XIX) yang saya pimpin mengalami kemunduran timeline. Faktanya, beberapa milestone internal terlewat dan sejumlah bagian baru dikerjakan mendekati tenggat pengumpulan, sementara komunikasi di grup tim menjadi jarang karena setiap anggota sibuk dengan tugas kuliah dan kegiatan lain. Awalnya muncul story dalam diri saya: “Kalau semua sibuk, lebih cepat kalau aku kerjakan sendiri saja,” dan “Kalau aku menegur, nanti aku dianggap terlalu menekan.” Keduanya adalah asumsi, bukan fakta, karena saya belum pernah menanyakan langsung kondisi setiap anggota.
+Objective: Mengembalikan komunikasi tim yang terbuka, memetakan kapasitas nyata setiap anggota, dan menyepakati timeline baru yang realistis tanpa saya menanggung semua pekerjaan sendiri.
+Saya: “Teman-teman, aku sadar timeline kita mundur cukup jauh dan beberapa bagian jadi mepet deadline. Aku juga ngaku, aku sempat kepikiran buat ngerjain semuanya sendiri, padahal itu bukan solusi. Boleh kita cerita dulu kondisi masing-masing minggu ini?”
+Rekan 1: “Jujur minggu ini aku lagi banyak kuis dan praktikum, jadi bagianku belum kesentuh.”
+Rekan 2: “Aku sebenarnya bisa, tapi aku nggak yakin bagianku harus sampai mana, jadi nunggu kabar.”
+Saya: “Oke, jadi masalahnya bukan cuma sibuk, tapi juga kita kurang jelas soal pembagian dan jarang saling update, betul begitu? Gimana kalau tugas yang tersisa kita pecah jadi bagian kecil dengan tenggat per bagian, terus kita rutin update singkat di grup?”
+Rekan 1: “Setuju, tapi bagianku boleh digeser ke setelah kuis selesai?”
+Saya: “Boleh. Kalau begitu bagian yang paling mendesak aku ambil dulu minggu ini, nanti kamu lanjut bagianmu setelah kuis.”
+Dialog di atas adalah rekonstruksi dari ingatan saya. Bukti percakapan asli dari tahap berikutnya dilampirkan pada bagian Evidence.
+Respons anggota mengubah repertoire saya dari menanggung beban sendiri dan menahan teguran menjadi bertanya, merangkum, lalu menawarkan pembagian ulang. Informasi dari Rekan 2 menunjukkan bahwa sebagian keterlambatan bukan karena kurang niat, tetapi karena instruksi saya sebagai ketua kurang jelas. Agreement akhirnya: tugas tersisa dipecah menjadi bagian kecil dengan penanggung jawab dan tenggat masing-masing, anggota yang sedang menghadapi kuis mendapat tenggat setelah kuisnya selesai, saya mengambil bagian yang paling mendesak, dan tim sepakat memberi update singkat secara rutin di grup.
+Perubahan language
+Sebagai sahabat pendengar, saya akan berkata, “Kamu mau didengarkan dulu, dibantu mikir, atau mau saran dariku?” dengan nada hangat, santai, dan lebih banyak memberi ruang daripada berbicara. Sebagai CTO Neurova, saya berkata, “Minggu ini kapasitas saya terbatas karena ada dua tenggat bersamaan. Bagian integrasi bisa saya selesaikan, tetapi testing perlu dibantu. Siapa yang bisa mengambil bagian itu?” dengan bahasa yang terstruktur, tegas, dan berorientasi hasil. Core care tetap sama, yaitu tanggung jawab dan kepedulian pada orang lain, tetapi responsibility dan action berbeda. Sebagai sahabat, saya bertanggung jawab atas rasa aman teman saat bercerita. Sebagai CTO, saya bertanggung jawab atas kelancaran produk, termasuk dengan jujur menyampaikan batas kemampuan saya sendiri.
+Konteks performance
+Tanggal dan setting: Agustus–September 2026, selama pengerjaan proyek NUSATANI untuk GEMASTIK XIX kategori desain UX. Rangkaian kegiatan meliputi observasi lapangan di area persawahan (7 Agustus 2026) dan wawancara daring dengan narasumber riset pengguna (9 Agustus 2026). Diskusi tim tentang kemunduran timeline terjadi setelah tahap riset tersebut, ketika progres pengembangan desain mulai melambat. Pola komunikasi yang sama kemudian saya terapkan kembali pada tahap Laporan Akhir GEMASTIK XIX melalui grup chat tim.
+Persons dan relationship: Saya sebagai Team Leader tim BURU-BURU bersama dua rekan satu tim (F. dan M.). Kami adalah teman sesama mahasiswa ITB yang dalam proyek ini memiliki relasi kerja sebagai ketua dan anggota tim. Nama narasumber tidak dicantumkan untuk menjaga privasi.
+Objective dan initial state: State awal: setelah tahap riset lapangan dan wawancara pada awal Agustus, progres tim melambat karena setiap anggota sibuk dengan perkuliahan dan kegiatan lain. Beberapa milestone internal terlewat, komunikasi di grup menjadi jarang, dan sejumlah bagian baru dikerjakan mendekati tenggat. State yang ingin dicapai: komunikasi tim kembali terbuka, kapasitas setiap anggota diketahui, dan tugas tersisa terbagi dengan tenggat yang realistis tanpa saya menanggung semuanya sendiri.
+Evidence
+1. Percakapan asli di grup tim (tahap Laporan Akhir GEMASTIK XIX)
+Pesan saya di grup “Laporan Akhir Gemastik XIX”: membagikan draf timeline final dan mengajak tim menyesuaikannya bersama. Tautan dokumen tim disamarkan.
+Transkrip tangkapan layar (grup “Laporan Akhir Gemastik XIX”):
+Saya (12.53): “okee”
+Saya (13.31): (membagikan file “Timeline_Final_GEMASTIK_UX.xlsx - Timeline.pdf”, berisi kalender kegiatan September–November)
+Saya (13.31): “guyss coba cek timelinenya tapi ini masi kasarr soalnya mau nyesuaiin lagi sama apa aja yang kita mau lakuin, trus iterasinya mau kapan aja”
+Saya (13.31): “gw dah taro juga di tab”
+Saya (13.31): (tautan spreadsheet tim, disamarkan)
+Saya (13.31): “di tab timeline”
+Apa yang ditunjukkan oleh bukti ini. Pada pukul 13.31, saya membagikan draf timeline Laporan Akhir dalam dua bentuk, yaitu file PDF di grup dan tab “timeline” di spreadsheet tim, sehingga semua anggota dapat mengaksesnya kapan saja. Saya tidak menyebut jadwal itu sebagai keputusan final, tetapi sebagai draf yang “masih kasar”, lalu mengajak tim menyesuaikan dua hal: pekerjaan apa saja yang mau dilakukan dan kapan jadwal iterasinya.
+Hubungannya dengan episode. Pesan ini adalah penerapan nyata dari pelajaran episode sebelumnya. Dulu, keterlambatan terjadi karena batas tugas tidak jelas dan progres hanya dilaporkan secara lisan. Kali ini, jadwal dibuat tertulis dan terbuka sejak awal, dan keputusan akhirnya diserahkan kepada tim, bukan ditetapkan sepihak oleh saya sebagai ketua.
+2. Dokumentasi tahap riset sebelum timeline mundur
+Observasi lapangan tim di area persawahan, 7 Agustus 2026
+Deskripsi foto: Foto diambil pada 7 Agustus 2026 saat tim BURU-BURU melakukan observasi lapangan di area persawahan. Foto menampilkan tiga anggota tim dengan jaket almamater di tengah sawah. Observasi ini merupakan bagian dari riset pengguna proyek NUSATANI untuk memahami kondisi nyata petani.
+Wawancara daring dengan narasumber riset pengguna, 9 Agustus 2026
+Deskripsi foto: Tangkapan layar ini diambil pada 9 Agustus 2026 saat wawancara daring melalui Zoom dengan narasumber riset pengguna. Terlihat tiga peserta panggilan: narasumber, saya, dan satu rekan tim. Wawancara ini menjadi bahan utama dalam merumuskan kebutuhan pengguna NUSATANI.
+Apa yang ditunjukkan oleh kedua dokumentasi ini. Kedua dokumentasi menunjukkan bahwa tim bekerja aktif dan terkoordinasi pada tahap riset di awal Agustus. Ini menjadi konteks penting bagi episode: kemunduran timeline terjadi setelah tahap riset ini, ketika pekerjaan bergeser ke pengembangan desain dan beban akademik anggota meningkat.
+Kontribusi saya sebagai Team Leader: mengoordinasikan jadwal observasi dan wawancara, memimpin diskusi tim, menginisiasi pembagian ulang tugas ketika timeline mundur, serta menyusun dan membagikan draf timeline Laporan Akhir untuk disesuaikan bersama. Nama, wajah pihak lain, dan tautan dokumen tim pada gambar telah disamarkan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Rekan tim diposisikan sebagai person dengan beban dan kendala masing-masing, bukan dilabeli “tidak bertanggung jawab”. Terjadi pergeseran power: sebagai Team Leader saya memegang posisi yang menentukan arah kerja, tetapi saya memilih membuka diri lebih dulu dengan mengakui dorongan saya untuk mengerjakan semuanya sendiri. Pengakuan ini menurunkan jarak antara ketua dan anggota sehingga anggota merasa aman untuk jujur tentang kondisinya.
+Objective & state
+Ada objective yang saling bersaing: saya sebagai ketua ingin timeline lomba kembali terkejar, sementara anggota perlu menyelesaikan kuis dan praktikum agar tidak kewalahan. Kecenderungan pribadi saya untuk memendam tekanan juga bersaing dengan tuntutan peran ketua untuk terbuka. State berubah dari progres yang mandek dan komunikasi yang sepi menjadi pembagian tugas yang jelas dengan tenggat per bagian.
+Repertoire & language
+Saya beralih dari repertoire menanggung sendiri dan menahan teguran menjadi self-disclosure, pertanyaan terbuka, dan parafrasa. Bukti asli terlihat pada tahap Laporan Akhir: saya menyebut timeline sebagai draf “masih kasar” dan mengajak tim menyesuaikan “apa aja yang kita mau lakuin” serta “iterasinya mau kapan aja”. Pilihan kata ini membuka ruang bagi anggota untuk ikut menentukan, alih-alih menerima jadwal sepihak dari ketua.
+Response & adaptation
+Informasi dari anggota bahwa ia menunggu kejelasan pembagian menunjukkan sebagian keterlambatan berasal dari instruksi saya yang kurang jelas, bukan dari kurangnya niat. Saya menyesuaikan rencana dengan memecah tugas menjadi bagian kecil dan menggeser tenggat anggota yang sedang menghadapi kuis. Pada tahap berikutnya, adaptasi ini berlanjut dengan membuat timeline tertulis yang dapat diakses semua anggota.
+Agreement/action
+Tugas tersisa dipecah menjadi bagian kecil dengan penanggung jawab dan tenggat masing-masing. Anggota yang sedang menghadapi kuis mendapat tenggat setelah kuisnya selesai, dan saya mengambil bagian yang paling mendesak. Tim juga sepakat memberi update singkat secara rutin di grup. Pada tahap Laporan Akhir, kesepakatan jadwal dituangkan dalam dokumen timeline bersama.
+Relationship outcome
+Konflik terbuka dapat dihindari. Anggota menjadi lebih aktif memberi kabar di grup karena tahu mereka bisa jujur tentang kendala tanpa dihakimi. Bagi saya, episode ini menjadi bukti bahwa menyampaikan keterbatasan sebagai ketua tidak menurunkan kepercayaan tim, justru memperkuatnya.
+Penggunaan AI
+Alat dan peran AI: Claude, untuk membantu menyusun struktur portofolio, merapikan kode Quarto, memberi draf kalimat pada tabel character berdasarkan Lembar Kerja Bab 01, menyalin transkrip dan deskripsi bukti, serta menyusun ulang episode dan analisis dari cerita yang saya sampaikan.
+Prompt atau instruksi penting: Meminta bantuan mengisi template portofolio Character Map, menyesuaikannya dengan Lembar Kerja Bab 01, menyusun episode dari pengalaman saya saat timeline tim lomba mundur, dan merevisi portofolio berdasarkan feedback dosen dengan menambahkan bukti percakapan asli beserta transkrip tertulisnya.
+Bagian output yang digunakan, diubah, atau ditolak: Dialog pada episode adalah rekonstruksi berdasarkan ingatan saya, bukan transkrip kata per kata. Karena itu, saya menambahkan tangkapan layar percakapan asli dari grup tim beserta transkripnya sebagai evidence yang dapat diverifikasi. Draf awal AI menuliskan peran saya sebagai “lead AI dan website”, lalu saya ubah menjadi CTO Neurova sesuai Lembar Kerja Bab 01, dan baris Community saya ganti menjadi Team Leader tim lomba agar sesuai dengan episode.
+Pemeriksaan accuracy, privacy, dan authority: Peran dan kecenderungan diambil dari refleksi saya di Lembar Kerja Bab 01. Episode berasal dari pengalaman nyata dan didukung dokumentasi serta tangkapan layar percakapan tim. Nama rekan ditulis dengan inisial, dan tautan dokumen tim disamarkan.
+Apa yang tetap saya pelajari sebagai manusia: Menyadari kecenderungan saya menanggung semuanya sendiri, memilih kata saat membuka diri kepada tim, dan menilai sendiri apakah hubungan tim benar-benar membaik.
+Feedback dan tindak lanjut
+Feedback yang diterima: Menurut J., teman yang cukup sering berinteraksi dengan saya, saya sekarang jauh lebih terbuka dan lebih berani menyampaikan apa yang saya inginkan, apa yang tidak saya sukai, serta hal-hal yang membuat saya tidak nyaman. Dari penilaian dosen, evidence episode sebelumnya dinilai masih berupa rekonstruksi ingatan sehingga perlu dilengkapi bukti percakapan asli.
+Adaptation/replay: Dalam episode awal, saya tidak lagi diam-diam mengambil alih pekerjaan anggota, tetapi membuka diskusi dan menyepakati pembagian ulang yang lebih realistis. Pola ini saya terapkan kembali pada tahap Laporan Akhir GEMASTIK XIX: saya membagikan draf timeline tertulis dan secara eksplisit mengajak tim menyesuaikan isi pekerjaan serta jadwal iterasi bersama. Percakapan ini terdokumentasi dalam tangkapan layar asli beserta transkrip tertulisnya di bagian Evidence.
+Next practice: Selama 4–6 minggu ke depan, saya akan meluangkan setidaknya 15 menit setiap minggu untuk merefleksikan hal yang membuat saya lelah atau kewalahan, lalu menyampaikan setidaknya satu hal tersebut kepada orang yang saya percaya. Sebagai ketua tim, saya juga akan membuka check-in kapasitas anggota setiap minggu dan mendokumentasikan kesepakatan pembagian tugas secara tertulis di grup.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character dipetakan; pergeseran power ketua saat membuka diri dianalisis eksplisit
+Objective & State
+4
+State awal dan akhir jelas; objective yang saling bersaing (target lomba vs beban akademik anggota, kecenderungan memendam vs tuntutan terbuka) dianalisis
+Repertoire, Language & AI
+4
+Perubahan language didukung kutipan dan transkrip pesan asli di grup tim (“masih kasar”, “mau nyesuaiin lagi”); penggunaan AI, batasnya, dan bagian yang diubah dinyatakan secara transparan
+Response & Adaptation
+4
+Adaptasi berlapis: informasi anggota mengubah pembagian kerja, pola tersebut diterapkan ulang sebagai timeline tertulis yang terbukti lewat pesan asli, dan portofolio direvisi sesuai feedback dosen dengan menambahkan evidence yang dapat diverifikasi
+Agreement, Action & Relationship
+3
+Pembagian tugas dan timeline bersama terdokumentasi; respons tim atas draf timeline belum dilampirkan
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Sarah Christine Rebecca Tambunan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sarah-chreta.github.io/kipp-students/index.html
+- https://sarah-chreta.github.io/kipp-students/assets/logo.png
+- https://sarah-chreta.github.io/kipp-students/course/index.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/index.html
+- https://sarah-chreta.github.io/kipp-students/examples/index.html
+- https://sarah-chreta.github.io/kipp-students/lk/index.html
+- https://sarah-chreta.github.io/kipp-students/slides.html
+- https://sarah-chreta.github.io/kipp-students/slides-pdf/index.html
+- https://sarah-chreta.github.io/kipp-students/assessment/index.html
+- https://sarah-chreta.github.io/kipp-students/about.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-02.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-03.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-04.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-05.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-06.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-07.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-08.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-09.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-10.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-11.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-12.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-13.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-14.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-15.html
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://sarah-chreta.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://sarah-chreta.github.io/kipp-students/portfolio/images/IMG_6093.JPG
+- https://sarah-chreta.github.io/kipp-students/portfolio/images/PHOTO-2026-08-07-15-37-33.jpg
+- https://sarah-chreta.github.io/kipp-students/portfolio/images/PHOTO-2026-08-09-13-54-39.jpg
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

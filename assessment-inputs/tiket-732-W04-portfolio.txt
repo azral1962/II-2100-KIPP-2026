@@ -1,0 +1,362 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 732
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Minggu 2 — Intra-Self Communication
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence
+Konteks komunikasi
+Core meaning
+Fakta dan meaning yang tidak boleh berubah
+Five-Language Translation
+Analisis perubahan repertoire dan language
+1. Friend
+2. Technical Peer
+3. Manager / Dosen Pembimbing
+4. Customer / Student User
+5. Public
+Evidence understanding
+Feedback dan adaptation
+Feedback
+Adaptation / Replay
+Perbandingan sebelum dan sesudah
+Response dan adaptation
+Relationship dan context shift
+Reflection
+Penggunaan AI
+Self-assessment
+Total: 20/20 — Lanjut
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu core meaning tentang pembelajaran CTF diterjemahkan ke lima person dengan adaptasi repertoire dan language.
+Kompetensi target
+Mengadaptasi repertoire dan language sesuai person atau character tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer/student user, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Evidence adaptation setelah menerima feedback.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence
+Konteks komunikasi
+Dalam persiapan mengikuti lomba CTF, saya menggunakan OverTheWire sebagai salah satu sumber latihan. Salah satu tahap awal yang saya pelajari adalah Bandit.
+Saya ingin menyampaikan satu informasi yang sama kepada beberapa orang dengan tingkat pengetahuan, relationship, dan kebutuhan informasi yang berbeda.
+Tujuan latihan ini bukan membuat lima pesan yang memiliki isi berbeda, tetapi mempertahankan core meaning yang sama sambil menyesuaikan cara penyampaiannya.
+Core meaning
+Fakta dan meaning yang tidak boleh berubah
+Informasi utama yang ingin saya sampaikan adalah:
+Mulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya.
+Core meaning tersebut terdiri dari tiga bagian:
+Bandit merupakan tahap awal pembelajaran.
+OverTheWire digunakan sebagai sumber latihan.
+Bandit diselesaikan terlebih dahulu sebelum melanjutkan ke tahap berikutnya.
+Ketiga bagian tersebut dipertahankan dalam lima versi.
+Yang berubah hanya repertoire, pilihan kata, tingkat detail, dan tone sesuai dengan target.
+Five-Language Translation
+Target / Character
+Versi language
+Alasan adaptasi
+Friend
+“Kalau mau mulai belajar CTF, coba mulai dari Bandit di OverTheWire dulu. Tamatin Bandit dulu, baru lanjut ke level berikutnya.”
+Menggunakan bahasa santai karena relationship dengan teman bersifat informal. Istilah CTF, Bandit, dan OverTheWire tetap digunakan karena sudah relevan dengan konteks.
+Technical Peer
+“Untuk mulai latihan CTF, kita bisa mulai dari Bandit di OverTheWire sebagai tahap awal. Selesaikan level-level Bandit terlebih dahulu sebelum lanjut ke tahap berikutnya.”
+Menggunakan istilah teknis secara langsung karena target memiliki shared vocabulary dan memahami konteks CTF.
+Manager / Dosen Pembimbing
+“Untuk persiapan CTF, tahap awal pembelajaran dapat difokuskan pada penyelesaian Bandit di OverTheWire. Setelah tahap tersebut selesai, pembelajaran dapat dilanjutkan ke tahap berikutnya.”
+Language dibuat lebih formal dan terstruktur. Fokusnya pada progression pembelajaran daripada bahasa percakapan sehari-hari.
+Customer / Student User
+“Kalau kamu baru mulai belajar CTF, kamu bisa mulai dari Bandit di OverTheWire. Selesaikan tahap Bandit terlebih dahulu sebelum melanjutkan ke tahap berikutnya.”
+Menggunakan bahasa yang sederhana dan instruktif. Tidak mengasumsikan target sudah memahami istilah teknis secara mendalam.
+Public
+“Bagi yang ingin mulai mempelajari CTF, Bandit di OverTheWire dapat digunakan sebagai tahap awal latihan. Setelah menyelesaikan tahap tersebut, pembelajaran dapat dilanjutkan ke tahap berikutnya.”
+Menggunakan bahasa netral dan lebih umum karena audiens publik memiliki tingkat pengetahuan yang berbeda-beda.
+Analisis perubahan repertoire dan language
+Kelima versi memiliki core meaning yang sama, tetapi repertoire dan language disesuaikan dengan target.
+1. Friend
+Pada teman, saya menggunakan bahasa seperti “coba mulai” dan “tamatin”.
+Pilihan tersebut menunjukkan repertoire yang lebih santai karena relationship dengan teman memungkinkan penggunaan bahasa informal.
+Saya tidak perlu menjelaskan CTF secara panjang karena teman yang berada dalam konteks yang sama sudah dapat memahami istilah dasarnya.
+2. Technical Peer
+Pada technical peer, saya dapat menggunakan istilah seperti CTF, Bandit, dan OverTheWire secara langsung.
+Saya tidak perlu mengganti istilah tersebut dengan analogi karena target memiliki shared vocabulary.
+Repertoire yang digunakan lebih teknis dan berorientasi pada urutan pembelajaran.
+3. Manager / Dosen Pembimbing
+Pada manager atau dosen pembimbing, saya mengubah language menjadi lebih formal.
+Fokusnya adalah pada tahap dan progression pembelajaran, sehingga kalimat seperti “tamatin dulu” tidak digunakan.
+Relationship juga membuat saya perlu menggunakan language yang lebih profesional.
+4. Customer / Student User
+Pada student user, saya menggunakan bahasa yang lebih sederhana.
+Saya tidak mengasumsikan bahwa target sudah memiliki pengetahuan teknis yang sama dengan saya.
+Karena itu, pesan dibuat seperti instruksi langkah awal yang mudah diikuti.
+5. Public
+Pada public, saya menggunakan language yang netral dan umum.
+Saya menghindari bahasa yang terlalu personal atau terlalu teknis karena audiens publik dapat memiliki background yang berbeda.
+Evidence understanding
+Saya pernah menjelaskan kepada teman yang sedang mempersiapkan lomba CTF bahwa Bandit di OverTheWire dapat digunakan sebagai tahap awal belajar sebelum melanjutkan ke tahap berikutnya.
+Setelah penjelasan tersebut, teman saya memberikan response:
+“Oh berarti dalam 2 minggu ini aku ingin namatin Bandit biar bisa lanjut ke tahap selanjutnya.”
+Response tersebut menunjukkan bahwa teman saya memahami dua hal penting dari pesan:
+Bandit merupakan tahap awal.
+Bandit perlu diselesaikan sebelum melanjutkan ke tahap berikutnya.
+Selain memahami informasi tersebut, teman saya juga mengubahnya menjadi action, yaitu membuat target untuk menyelesaikan Bandit dalam dua minggu.
+Dengan demikian, response tersebut menjadi evidence bahwa core meaning dapat dipahami oleh target.
+Feedback dan adaptation
+Feedback
+Feedback yang saya dapatkan berasal dari response teman setelah penjelasan.
+Awalnya saya hanya menjelaskan bahwa Bandit merupakan tahap awal belajar CTF. Setelah mendengar response teman, saya mengetahui bahwa ia tidak hanya memahami posisi Bandit, tetapi juga menghubungkannya dengan target waktu untuk menyelesaikannya.
+Hal tersebut menunjukkan bahwa pesan yang saya sampaikan sudah cukup jelas untuk menghasilkan pemahaman dan action.
+Adaptation / Replay
+Berdasarkan feedback tersebut, saya melakukan replay terhadap pesan dengan membuat target waktu dan urutan tindakan menjadi lebih eksplisit.
+Sebelum feedback:
+“Mulai belajar CTF dari Bandit di OverTheWire dan selesaikan tahap tersebut terlebih dahulu sebelum melanjutkan ke tahap berikutnya.”
+Setelah feedback:
+“Untuk 2 minggu ke depan, fokus dulu menyelesaikan Bandit di OverTheWire. Setelah Bandit selesai, baru lanjut ke tahap CTF berikutnya.”
+Perbandingan sebelum dan sesudah
+Aspek
+Sebelum
+Sesudah
+Target
+Menyelesaikan Bandit
+Waktu
+Belum disebutkan secara eksplisit
+2 minggu
+Urutan
+Bandit → tahap berikutnya
+Language
+Instruksi umum
+Lebih konkret dan berorientasi pada tindakan
+Perubahan tersebut tidak mengubah core meaning. Bandit tetap menjadi tahap awal, OverTheWire tetap menjadi sumber latihan, dan Bandit tetap harus diselesaikan sebelum melanjutkan ke tahap berikutnya.
+Feedback tersebut juga menunjukkan bahwa adaptasi language dapat dilakukan setelah melihat bagaimana target memahami pesan. Dengan membuat target waktu lebih eksplisit, pesan menjadi lebih mudah diterjemahkan menjadi tindakan.
+Response dan adaptation
+Feedback dari target menunjukkan bahwa language yang digunakan dapat menghasilkan understanding.
+Response teman tidak hanya berupa “iya”, tetapi berupa rencana:
+menyelesaikan Bandit dalam dua minggu sebelum melanjutkan ke tahap berikutnya.
+Hal tersebut menjadi evidence bahwa pesan telah diterjemahkan oleh target menjadi action.
+Dari sini saya belajar bahwa keberhasilan adaptasi language tidak hanya dilihat dari apakah pesan terdengar sesuai dengan target, tetapi juga dari response dan understanding yang muncul setelah pesan disampaikan.
+Relationship dan context shift
+Perubahan language tidak hanya disebabkan oleh tingkat pengetahuan teknis.
+Saya juga mempertimbangkan relationship dan context.
+Target
+Relationship / Context
+Adaptasi utama
+Friend
+Hubungan setara dan informal
+Bahasa santai
+Technical Peer
+Rekan dengan shared technical context
+Istilah teknis
+Manager
+Hubungan profesional/akademik
+Bahasa formal dan terstruktur
+Student User
+Target yang mungkin belum familiar dengan CTF
+Bahasa sederhana
+Public
+Audiens luas
+Bahasa netral dan umum
+Dengan demikian, satu core meaning dapat tetap konsisten meskipun repertoire dan language berubah.
+Reflection
+Dari latihan ini saya memahami bahwa mengubah language tidak berarti mengubah meaning.
+Satu informasi yang sama dapat disampaikan dengan cara berbeda tergantung siapa target komunikasi, relationship yang dimiliki, dan konteks interaksi.
+Ketika berbicara dengan teman, saya dapat menggunakan bahasa yang lebih santai. Ketika berbicara dengan technical peer, saya dapat menggunakan istilah teknis secara langsung. Sementara itu, ketika berbicara kepada manager, student user, atau public, saya perlu menyesuaikan tingkat formalitas dan detail.
+Saya juga memahami bahwa adaptasi language bukan sekadar mengganti kata-kata. Saya perlu mempertimbangkan:
+apa yang sudah diketahui target;
+apa yang perlu diketahui target;
+relationship dengan target;
+konteks komunikasi; dan
+action apa yang diharapkan setelah pesan dipahami.
+Evidence dari percakapan dengan teman menunjukkan bahwa pesan yang saya sampaikan tidak hanya dipahami, tetapi juga diterjemahkan menjadi action berupa target menyelesaikan Bandit dalam dua minggu.
+Hal tersebut membuat saya memahami bahwa response target merupakan bagian penting untuk mengevaluasi apakah adaptasi language berhasil atau tidak.
+Penggunaan AI
+AI digunakan hanya sebagai alat bantu untuk memeriksa struktur dan memastikan bahwa lima versi tetap mempertahankan core meaning.
+AI tidak digunakan untuk menciptakan pengalaman komunikasi atau response target.
+Penyusunan core meaning, pemilihan target, alasan adaptasi, dan evidence understanding berasal dari pengalaman dan analisis saya sendiri.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima target dibedakan berdasarkan relationship, shared vocabulary, konteks, dan kebutuhan informasi.
+Objective & State
+4
+Core meaning ditetapkan terlebih dahulu sehingga tujuan komunikasi tetap konsisten di semua versi.
+Repertoire, Language & AI
+4
+Repertoire, formalitas, istilah teknis, dan tingkat detail disesuaikan dengan setiap target tanpa mengubah meaning.
+Response & Adaptation
+4
+Response teman menunjukkan understanding dan menghasilkan action; replay setelah feedback juga menunjukkan adaptasi konkret pada pesan.
+Agreement, Action & Relationship
+4
+Pesan menghasilkan action konkret berupa target menyelesaikan Bandit, sementara relationship dan context digunakan sebagai dasar adaptasi language.
+Total: 20/20 — Lanjut
+Kelima versi berhasil mempertahankan core meaning yang sama sambil menyesuaikan repertoire dan language berdasarkan person, relationship, shared vocabulary, dan context. Evidence dari response target menunjukkan bahwa pesan dapat dipahami dan diterjemahkan menjadi action. Replay sebelum dan sesudah feedback juga menunjukkan adanya proses adaptasi terhadap cara penyampaian pesan.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Fathir Mulya Gibran
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fathirmulbran-wq.github.io/kipp-students/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/assets/logo.png
+- https://fathirmulbran-wq.github.io/kipp-students/course/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/examples/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/assessment/index.html
+- https://fathirmulbran-wq.github.io/kipp-students/about.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-01.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-02.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-03.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-05.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-06.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-07.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-08.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-09.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-10.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-11.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-12.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-13.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-14.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-15.html
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#evidence-1
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#konteks-komunikasi
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#fakta-dan-meaning-yang-tidak-boleh-berubah
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#five-language-translation
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#analisis-perubahan-repertoire-dan-language
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#friend
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#technical-peer
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#manager-dosen-pembimbing
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#customer-student-user
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#public
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#feedback-dan-adaptation
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#feedback
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#adaptation-replay
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#perbandingan-sebelum-dan-sesudah
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#response-dan-adaptation
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#relationship-dan-context-shift
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#reflection
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai-1
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#self-assessment-1
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#total-2020-lanjut
+- https://fathirmulbran-wq.github.io/kipp-students/portfolio/week-04.html#assessment-dosen-1
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

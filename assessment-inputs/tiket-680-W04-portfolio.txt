@@ -1,0 +1,180 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 680
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Konteks performance
+Core meaning (Empat Fakta Inti yang Wajib Ada)
+Evidence
+Uji Understanding & Iterasi Respon (Testing Evidence)
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Konteks performance
+Tanggal dan setting: Sabtu, 17 Mei 2026, pukul 11.30–13.00 WIB. Diskusi koordinasi teknis pasca krisis merge conflict pada repositori GitHub kelompok Tubes Game Visual Novel (Ren’Py).
+Persons dan relationship: Saya (Arzha, programmer utama), F (rekan teknis/koding), Owen (Project Manager/non-teknis), teman kosan beda jurusan (non-IT), dan publik/pemain game. Latar belakang target sangat beragam: dari yang paham command line terminal sampai yang tidak tahu apa itu coding.
+Objective dan initial state: * Initial state: Terjadi bentrok riwayat komit (Git Pull Conflict) yang bikin program game di laptop F error dan gagal menarik update data terbaru dari GitHub. F kebingungan dan mulai asal hapus folder lokal. * Objective: Menyampaikan satu pesan teknis dasar yang sama (core meaning) ke dalam lima ragam bahasa untuk persona yang berbeda, tanpa mengubah kebenaran fakta, tanpa bikin bingung orang awam, dan tanpa mengurangi akurasi buat developer.
+Core meaning (Empat Fakta Inti yang Wajib Ada)
+Sebelum membuat lima versi terjemahan bahasa, saya menetapkan empat fakta dasar yang harus ada dan tidak boleh hilang di setiap versi: 1. File di laptop/lokal bentrok atau beda versi dengan file master yang ada di server (GitHub). 2. Proses pengunduhan pembaruan gagal karena ada data lama yang belum disinkronkan. 3. Solusi praktisnya adalah mereset/menghapus file lama yang bermasalah, lalu mengunduh ulang versi utuh dari server. 4. Perlu ada kejelasan langkah agar tidak terjadi penimpaan data sembarangan di kemudian hari.
+Evidence
+Tabel Lima Versi Terjemahan Bahasa:
+Target/character
+Versi language
+Alasan adaptasi & Repertoire
+Anak-anak (Usia 10)
+“Bayangin kamu lagi main susun lego, tapi tiba-tiba temanmu dari jauh ngubah bentuk mejanya. Biar susunan legomu gak hancur karena kepingannya tabrakan, kamu singkirin dulu potongan lego yang salah di mejamu, terus minta kotak lego baru yang masih utuh dari temanmu.”
+Memakai analogi objek fisik (mainan lego) yang mudah dibayangkan anak-anak, karena mereka belum memiliki mental model tentang file digital, server, atau baris coding.
+Sahabat (Beda Jurusan)
+“Bro, file game di laptop lu tuh bentrok pas mau narik update terbaru dari akun tim. Biar gak pusing, lu hapus aja folder game lama yang ada di laptop lu, terus download ulang folder baru yang udah bersih dari link utama. Dijamin langsung lancar.”
+Menggunakan bahasa kasual (lu/gw), membuang jargon Git/pull/conflict, dan berfokus pada instruksi tindakan praktis (actionable step) yang gak bikin pusing orang non-IT.
+Technical Peer (Rekan Koding)
+“Local branch lu konflik tuh sama origin gara-gara beda commit history. Daripada pusing resolve conflict manual, mending lu ketik git fetch --all terus git reset --hard origin/main. Ntar local state lu otomatis ke-overwrite sama versi stabil yang baru gua push.”
+Menggunakan shared vocabulary teknis (git reset, origin/main, overwrite), instruksi baris perintah terminal yang presisi, karena target butuh akurasi teknis tingkat tinggi.
+Manager (Project Manager/PM)
+“Pak, ada sedikit kendala sinkronisasi data di perangkat anggota yang bikin proses testing terhambat. Biar efisien dan gak membuang waktu, saya sarankan kita lakukan force-sync langsung dari server utama. Ini tidak memakan biaya dan sesi testing bisa langsung jalan lagi dalam 5 menit.”
+Menggunakan kerangka dampak operasional, efisiensi waktu, manajemen risiko, dan kejelasan durasi. PM tidak butuh detail syntax coding, melainkan kepastian kapan masalah selesai.
+Customer / Public (Pemain Game)
+“Pembaruan game gagal terpasang karena terdapat file versi lama di perangkat Anda yang tidak sinkron. Tidak perlu khawatir, silakan hapus folder versi lama lalu unduh ulang berkas terbarunya melalui tautan resmi kami agar aplikasi berjalan lancar kembali.”
+Menggunakan ragam pelayanan publik yang ramah, menenangkan user, dan memberikan panduan langkah demi langkah tanpa menyalahkan kesalahan pengguna.
+Uji Understanding & Iterasi Respon (Testing Evidence)
+Untuk membuktikan efektivitas adaptasi bahasa, saya melakukan uji coba teks langsung (Uji Understanding) ke dua persona berbeda:
+1. Uji Coba ke Sahabat Beda Jurusan (Teman Kosan Non-IT): > Saya (Zha): “Bro, file game di laptop lu tuh bentrok pas mau narik update terbaru. Hapus aja folder lamanya, terus download ulang dari link utama.”
+> Teman Kos: “Oh gitu, berarti file lama di laptop gua hapus manual nih? Tapi ntar file benerannya gua ambil dari mana?”
+> Adaptasi Instan: Saya menyadari bahwa di versi awal, informasi sumber unduhan baru kurang menonjol. Saya langsung menambahkan kalimat penutup: “Iya hapus folder lama aja, terus download folder baru lewat link Google Drive kelompok yang di-pinned di grup WA.” Teman kos langsung paham: “Oke sip, paham gua sekarang.”
+2. Uji Coba ke Technical Peer (Fathir - Rekan Programmer): > Saya (Zha): “Ril, local branch lu konflik tuh. Ketik git fetch terus git reset --hard origin/main aja biar ke-overwrite.”
+> Fathir: “Oalah pantesan dari tadi ditolak mulu pas gue pull. Sip, gue reset hard aja biar aman.”
+> Hasil: Informasi langsung mengeksekusi tindakan tanpa perlu ada penjelasan analogi tambahan karena shared vocabulary sudah terbentuk.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Lima target audiens dianalisis dari latar belakang pengetahuan (shared vocabulary), kebutuhan informasi (detail teknis vs efisiensi waktu), dan ekspektasi peran mereka. Manager butuh kepastian waktu, kawan teknis butuh kode terminal, dan awam butuh analogi.
+Objective & state
+Core meaning (4 fakta inti) ditetapkan secara mengikat sebelum menulis terjemahan. Setiap versi diperiksa kembali agar tidak ada fakta yang sengaja dihilangkan atau ditambahkan secara tidak jujur.
+Repertoire & language
+Jargon teknis (git reset, origin/main, commit) hanya digunakan pada versi Technical Peer. Versi lain memanfaatkan analogi fisik (lego), instruksi praktis (hapus & unduh ulang), atau ragam bahasa pelayanan publik.
+Response & adaptation
+Hasil uji coba ke teman kosan mengungkapkan bahwa poin “lokasi unduhan baru” kurang eksplisit. Saya langsung beradaptasi dengan mengubah struktur kalimat agar instruksi akhirnya lebih lugas dan solutif.
+Agreement/action
+Setiap versi memiliki implied action yang jelas dan sesuai dengan kapasitas target: teman kos tahu harus unduh dari mana, kawan teknis tahu kode terminalnya, PM tahu estimasi waktu selesai (5 menit).
+Relationship outcome
+Miskomunikasi teknis berhasil diselesaikan tanpa membuat rekan yang non-teknis merasa minder, dan tanpa mengurangi presisi eksekusi untuk kawan yang teknis.
+Penggunaan AI
+AI (Gemini) saya gunakan pasca-kejadian khusus untuk satu fungsi audit: 1. Audit Empat Fakta Inti: Saya memasukkan kelima versi terjemahan ke AI dan meminta sistem mendeteksi apakah ada fakta dasar yang melenceng dari core meaning. AI mengonfirmasi bahwa keempat fakta inti konsisten berada di semua versi. 2. Output AI yang ditolak: AI sempat menyarankan versi anak-anak yang menyisipkan istilah “rebase upstream” dalam bentuk fabel. Saya menolak keluaran ini karena terkesan dipaksa-paksa dan malah merusak kemudahan pemahaman anak-anak. 3. Batas Kepemilikan Manusia: Kepekaan dalam memilih kata kasual (lu/gw) dan analogi kepingan lego murni berasal dari pemahaman intuisi komunikasi manusiawi saya sendiri saat berinteraksi langsung di lapangan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Umpan balik dari teman kosan (“berarti file lama di laptop gua hapus manual nih?”) dan repons Fathir (“pantesan dari tadi ditolak mulu…”) menguatkan bahwa tingkat kedalaman penjelasan harus disesuaikan dengan posisi target.
+Adaptation/replay: Di masa depan, sebelum menjelaskan masalah teknis yang rumit ke tim multi-disiplin (misal gabungan mahasiswa IT dan non-IT), saya akan selalu menuliskan Core Meaning 1 Paragraf terlebih dahulu sebelum berbicara di forum.
+Next practice (Sasaran Pertumbuhan Terukur): Melatih penggunaan analogi sederhana secara spontan saat mempresentasikan proyek IT di depan audiens umum/awam tanpa menggunakan jargon coding.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima target dianalisis berdasarkan vocabulary, kebutuhan informasi, dan relevansi peran secara mendalam.
+Objective & State
+4
+Empat fakta inti ditetapkan mengikat sebelum menulis terjemahan dan dikonfirmasi utuh di semua versi.
+Repertoire, Language & AI
+4
+Jargon hanya dipakai pada target yang tepat; analogi lego dan instruksi praktis digunakan presisi; batas AI jelas.
+Response & Adaptation
+4
+Uji coba teks ke kawan non-IT menghasilkan adaptasi penekanan lokasi unduhan yang lebih solutif.
+Agreement, Action & Relationship
+4
+Setiap versi menghasilkan tindakan nyata yang relevan bagi target tanpa memicu kecanggungan komunikasi.
+Total: 20/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#konteks-performance
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#core-meaning-empat-fakta-inti-yang-wajib-ada
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#evidence
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#uji-understanding-iterasi-respon-testing-evidence
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#analisis-komunikasi
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#penggunaan-ai
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

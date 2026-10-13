@@ -63,26 +63,22 @@ Shared problem statement yang dikonfirmasi partner.
 TipLihat contoh pengisian
 Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 Initial assumption dan rencana discovery
-Sebelum wawancara, saya berasumsi bahwa osjur (orientasi jurusan) masih berfungsi mengenalkan jurusan kepada mahasiswa baru, selama tidak berlangsung berbulan-bulan, tanpa kekerasan, dan tanpa bentakan. Asumsi ini titik awal saya, tetapi saya belum tahu masalah apa yang sebenarnya dialami peserta. Karena itu saya mewawancarai W (nama disamarkan), peserta osjur himpunan yang juga pengurus sebuah UKM (nama UKM disamarkan), untuk mendengar pengalamannya langsung sebelum menyimpulkan atau mengusulkan apa pun.
-Pertanyaan Discovery Utama (persis seperti yang saya kirim; typo dirapikan): 1. Ceritakan pengalamanmu waktu ikut osjur, momen apa yang paling diingat? 2. Bagian mana dari pengalaman itu yang jadi masalah? Apa ada kegiatan lain yang harus ditunda, dikorbankan, atau apakah kegiatan tersebut terasa kurang berguna? 3. Selain kamu, siapa lagi yang kena dampaknya? 4. Setelah osjur selesai, kamu berharap sudah punya atau merasakan apa? Apa yang dulu kamu butuhkan tapi tidak kamu dapat? 5. Menurutmu, apa yang membuat hal-hal itu sulit berubah? Ada aturan, waktu, atau dana yang membatasi?
-Kelima pertanyaan mengikuti 5 Pertanyaan Penemuan (kejadian konkret, dampak, pihak terdampak, keadaan yang lebih baik, kendala) dan tidak menyebut solusi apa pun. Catatan kritis: pertanyaan 2 dan 5 memuat pilihan jawaban sehingga sebagian bersifat leading, dan kelimanya dikirim dalam satu pesan.
+Sebelum wawancara, saya berasumsi bahwa osjur (orientasi jurusan) masih berfungsi mengenalkan jurusan kepada mahasiswa baru, selama tidak berlangsung berbulan-bulan, tanpa kekerasan, dan tanpa bentakan. Asumsi ini titik awal saya, tetapi saya belum tahu masalah apa yang sebenarnya dialami peserta. Karena itu saya mewawancarai W (nama disamarkan), peserta osjur himpunan yang juga pengurus sebuah UKM (nama UKM disamarkan), untuk mendengar pengalamannya langsung sebelum menyimpulkan atau mengusulkan apa pun. Kelima pertanyaan di bawah mengikuti 5 Pertanyaan Penemuan (kejadian konkret, dampak, pihak terdampak, keadaan yang lebih baik, kendala) dan tidak menyebut solusi apa pun; teksnya persis seperti yang saya kirim, hanya typo yang dirapikan.
+Pertanyaan Discovery Utama: 1. Ceritakan pengalamanmu waktu ikut osjur, momen apa yang paling diingat? 2. Bagian mana dari pengalaman itu yang jadi masalah? Apa ada kegiatan lain yang harus ditunda, dikorbankan, atau apakah kegiatan tersebut terasa kurang berguna? 3. Selain kamu, siapa lagi yang kena dampaknya? 4. Setelah osjur selesai, kamu berharap sudah punya atau merasakan apa? Apa yang dulu kamu butuhkan tapi tidak kamu dapat? 5. Menurutmu, apa yang membuat hal-hal itu sulit berubah? Ada aturan, waktu, atau dana yang membatasi?
 Potongan transcript
-Wawancara dilakukan lewat chat WhatsApp pada 28 September 2026. Kutipan diambil dari tangkapan layar chat asli; nama UKM diganti [disamarkan] dan typo dirapikan.
-Saya (21.44): Kelima pertanyaan discovery di atas, dikirim dalam satu pesan.
-W (21.49): “momen paling diingat adalah ketika masa tugas wawancara, aku suka wawancara karena kebanyakan insightful dan informatif. masalahnya adalah di saat yang sama dengan osjur, aku sedang mengurus projek yang merupakan proker dari divisi UKM yang aku ikuti yaitu [disamarkan]. sehingga aku perlu membagi waktu dengan benar agar tidak bentrok, tetapi kedua kegiatan itu terasa bermanfaat, mungkin teman yang lain yang memiliki kesibukan lain juga terdampak karena harus meluangkan waktu banyak untuk wawancara.”
-W (21.49): “setelah osjur selesai harapannya mendapat benefit berupa akses drive akademik dan relasi. yang aku inginkan sudah aku dapatkan semua.”
-W (21.49): Menanyakan balik apa yang dimaksud dengan “sulit berubah” pada pertanyaan 5, lalu menebak “forum?”.
-Saya (21.53): “apa yang buat masalah yang lu jelasin ada dan sulit dihilangkan masalahnya”
-W (21.57): “masalah waktu karena memiliki kesibukan lain sulit dihilangkan karena setiap dari kita punya kesibukan masing-masing, sebagai contohnya aku sudah menjadi pengurus [disamarkan] sebelum osjur himpunan, maka aku tidak bisa meninggalkan salah satunya begitu saja. menurutku ini lebih ke masalah manajemen setiap individu jika tidak mengatur waktu maka akan merasa sangat terbebani dengan tugas-tugas osjur.”
-Paraphrase penutup: pukul 22.05 saya mengirim rangkuman masalah W dan menanyakan apakah sudah pas atau ada yang ingin diubah (teks lengkap ada di bagian berikut). W membalas pukul 22.14: “pas”.
+Saya: [mengirim kelima pertanyaan discovery di atas dalam satu pesan]
+W: “momen paling diingat adalah ketika masa tugas wawancara, aku suka wawancara karena kebanyakan insightful dan informatif. masalahnya adalah di saat yang sama dengan osjur, aku sedang mengurus projek yang merupakan proker dari divisi UKM yang aku ikuti yaitu [disamarkan]. sehingga aku perlu membagi waktu dengan benar agar tidak bentrok, tetapi kedua kegiatan itu terasa bermanfaat, mungkin teman yang lain yang memiliki kesibukan lain juga terdampak karena harus meluangkan waktu banyak untuk wawancara.”
+W: “setelah osjur selesai harapannya mendapat benefit berupa akses drive akademik dan relasi. yang aku inginkan sudah aku dapatkan semua.”
+W: [menanyakan balik apa yang dimaksud dengan “sulit berubah” pada pertanyaan 5, lalu menebak “forum?”]
+Saya: “apa yang buat masalah yang lu jelasin ada dan sulit dihilangkan masalahnya”
+W: “masalah waktu karena memiliki kesibukan lain sulit dihilangkan karena setiap dari kita punya kesibukan masing-masing, sebagai contohnya aku sudah menjadi pengurus [disamarkan] sebelum osjur himpunan, maka aku tidak bisa meninggalkan salah satunya begitu saja. menurutku ini lebih ke masalah manajemen setiap individu jika tidak mengatur waktu maka akan merasa sangat terbebani dengan tugas-tugas osjur.”
+Saya: [mengirim rangkuman masalah W (teks lengkap ada di bagian Pembaruan pembacaan), menanyakan apakah sudah pas atau ada yang ingin diubah, serta memberi tahu bahwa jawabannya dipakai untuk portofolio dengan nama disamarkan dan menanyakan keberatan]
+W: “pas”
 Pembaruan pembacaan
-Asumsi awal saya terbukti sebagian. W merasakan manfaat osjur (akses drive akademik dan relasi) dan tidak menyinggung durasi maupun kekerasan. Yang ia ceritakan justru bentroknya tugas wawancara osjur dengan proker UKM yang sedang ia urus, sehingga ia harus membagi waktu dengan ketat. W menyebut kedua kegiatan terasa bermanfaat, tidak bisa meninggalkan salah satunya begitu saja, dan menilai masalah ini lebih ke pengelolaan waktu masing-masing individu. Pilihan “kurang berguna” yang saya sebut di pertanyaan 2 tidak ia ambil; ia justru menyatakan sebaliknya.
-Tiga hal yang belum saya ketahui: 1. Dampak konkret (tugas osjur apa yang bentrok, kegiatan apa yang tergeser, berapa lama) belum tergali karena kelima pertanyaan dikirim sekaligus dan belum ada follow-up. 2. Klaim bahwa peserta lain ikut terdampak masih berupa dugaan (“mungkin”), sehingga tidak masuk ke rumusan yang dikonfirmasi. 3. Ini baru satu narasumber, jadi hasilnya discovery awal dan belum menunjukkan seberapa umum masalah ini.
-Shared Problem Statement yang Dikonfirmasi W (dikirim 22.05 WIB, dibalas “pas” 22.14 WIB, 28 September 2026):
+Asumsi awal saya terbukti sebagian. W merasakan manfaat osjur (akses drive akademik dan relasi) dan tidak menyinggung durasi maupun kekerasan. Yang ia ceritakan justru bentroknya tugas wawancara osjur dengan proker UKM yang sedang ia urus, sehingga ia harus membagi waktu dengan ketat. W menyebut kedua kegiatan terasa bermanfaat, tidak bisa meninggalkan salah satunya begitu saja, dan menilai masalah ini lebih ke pengelolaan waktu masing-masing individu. Pilihan “kurang berguna” yang saya sebut di pertanyaan 2 tidak ia ambil; ia justru menyatakan sebaliknya. Tiga hal yang belum saya ketahui: pertama, dampak konkret (tugas osjur apa yang bentrok, kegiatan apa yang tergeser, berapa lama) belum tergali karena kelima pertanyaan dikirim sekaligus dan belum ada follow-up; kedua, klaim bahwa peserta lain ikut terdampak masih berupa dugaan (“mungkin”), sehingga tidak masuk ke rumusan yang dikonfirmasi; ketiga, ini baru satu narasumber, jadi hasilnya discovery awal dan belum menunjukkan seberapa umum masalah ini.
+Shared Problem Statement yang Dikonfirmasi W:
 “Kamu (peserta osjur yang juga pengurus UKM) harus membagi waktu dengan ketat karena tugas wawancara osjur berjalan bersamaan dengan proker UKM-mu. Kamu butuh cara membagi waktu tanpa melepas salah satunya, dengan mempertimbangkan bahwa kamu sudah jadi pengurus UKM sebelum osjur dan semua orang punya kesibukan masing-masing.”
-Isi yang sama dalam sudut pandang ketiga (mengikuti formula pernyataan masalah):
-“Peserta osjur himpunan yang juga pengurus UKM harus membagi waktu dengan ketat karena tugas wawancara osjur berjalan bersamaan dengan proker UKM. Ia membutuhkan cara membagi waktu tanpa melepas salah satunya, dengan mempertimbangkan bahwa ia sudah menjadi pengurus UKM sebelum osjur dan setiap orang punya kesibukan masing-masing.”
-W tidak meminta perubahan. Rumusan ini tidak menyebut solusi apa pun, dan saya menahan diri untuk tidak mengusulkan bentuk bantuan karena W sendiri melihat masalahnya lebih sebagai soal pengelolaan waktu individu.
+W menyetujui rumusan ini (dikirim 22.05 WIB, dibalas “pas” 22.14 WIB, 28 September 2026) dan tidak meminta perubahan. Rumusan ini tidak menyebut solusi apa pun, dan saya menahan diri untuk tidak mengusulkan bentuk bantuan karena W sendiri melihat masalahnya lebih sebagai soal pengelolaan waktu individu.
 Konteks performance
 Tanggal dan setting: 28 September 2026. Wawancara discovery lewat chat WhatsApp: pertanyaan dikirim pukul 21.44 WIB, jawaban W masuk 21.49–21.57 WIB, rangkuman untuk konfirmasi dikirim 22.05 WIB, dan dibalas 22.14 WIB.
 Persons dan relationship: Saya (mahasiswa) dan W (nama disamarkan), peserta osjur himpunan yang juga pengurus sebuah UKM (nama UKM disamarkan). Hubungan bersifat rekan sesama mahasiswa.
@@ -92,16 +88,13 @@ Ringkasan Hasil Wawancara Discovery
 Problem Impact:
 Tekanan membagi waktu dengan ketat karena tugas wawancara osjur berjalan bersamaan dengan proker UKM.
 W menilai kedua kegiatan sama-sama bermanfaat, jadi dampaknya berupa beban pembagian waktu, bukan penolakan terhadap osjur.
-Detail konkret (tugas yang bentrok, kegiatan yang tergeser) belum tergali.
+Detail konkret (tugas yang bentrok, kegiatan yang tergeser) belum tergali; dugaan bahwa peserta lain ikut terdampak juga belum terkonfirmasi (baru satu narasumber).
 Constraints:
 W sudah menjadi pengurus UKM sebelum osjur, sehingga tidak bisa meninggalkan salah satunya begitu saja.
 Setiap orang punya kesibukan masing-masing; menurut W ini lebih ke manajemen waktu individu.
-Yang masih belum diketahui: dampak konkret pada W, kebenaran dugaan bahwa peserta lain ikut terdampak, dan seberapa umum masalah ini (baru satu narasumber).
-Evolusi rumusan: Draf awal saya memuat dugaan bahwa peserta lain ikut terbebani. Versi yang dikirim ke W membuang bagian dugaan itu dan hanya memuat hal yang W ceritakan sendiri. W mengonfirmasinya dengan “pas”.
 Shared Problem Statement:
-W mengonfirmasi bahwa ia harus membagi waktu dengan ketat antara tugas osjur dan proker UKM, dan membutuhkan cara membagi waktu tanpa melepas salah satunya.
+W mengonfirmasi bahwa ia harus membagi waktu dengan ketat antara tugas osjur dan proker UKM, dan membutuhkan cara membagi waktu tanpa melepas salah satunya, mengingat ia sudah menjadi pengurus UKM sebelum osjur.
 Link Bukti Google Drive
-Isi folder: tangkapan layar chat wawancara (pertanyaan dan jawaban W) serta tangkapan layar rangkuman dan balasan W (“pas”). Identitas W dan UKM ditutup pada tangkapan layar.
 Kontribusi Pribadi: Menyusun 5 pertanyaan discovery bebas-solusi, mewawancarai W lewat chat tanpa menawarkan solusi, memperjelas pertanyaan 5 ketika W bingung, menandai bagian yang hanya dugaan, merangkum masalah W, dan meminta konfirmasi langsung dari W.
 Analisis komunikasi
 Elemen
@@ -120,15 +113,14 @@ Relationship outcome
 Percakapan ditutup dengan ucapan terima kasih dari saya, dan W tetap membalas rangkuman meski sudah malam. W tidak menyampaikan keberatan. Ini hanya satu interaksi singkat, jadi belum cukup untuk menilai kepercayaan jangka panjang.
 Penggunaan AI
 Alat dan peran AI: Claude (Anthropic) dipakai untuk menjelaskan tugas dan memberi instruksi apa saja yang harus saya lakukan. AI tidak berperan sebagai pewawancara; wawancara dan konfirmasi dilakukan langsung oleh saya dengan W.
-Prompt penting (diringkas): > “Jelaskan kepada saya tugas ini dan berikan instruksi apa saja yang harus saya lakukan.”
-Bagian output yang digunakan, diubah, atau ditolak: Digunakan: kerangka dan urutan bagian. Diubah: draf awal AI memuat pertanyaan dalam versi ringkasan; setelah saya cocokkan dengan tangkapan layar chat, pertanyaan dan kutipan diganti dengan versi asli. Ditolak: menyalin isi place holder portofolio atau contoh lain; hanya struktur yang dipakai sebagai acuan.
-Pemeriksaan accuracy, privacy, dan authority: Kutipan dicek terhadap tangkapan layar chat asli. Bagian yang hanya dugaan ditandai sebagai dugaan. Nama W dan UKM disamarkan di portofolio dan ditutup pada tangkapan layar. Otoritas atas rumusan masalah ada pada W, yang mengonfirmasinya langsung, bukan pada AI.
+Prompt penting: > “Jelaskan kepada saya tugas ini dan berikan instruksi apa saja yang harus saya lakukan.” (prompt diringkas)
+Bagian output yang diubah/ditolak: Digunakan: kerangka dan urutan bagian. Diubah: draf awal AI memuat pertanyaan dalam versi ringkasan; setelah saya cocokkan dengan tangkapan layar chat, pertanyaan dan kutipan diganti dengan versi asli. Ditolak: menyalin isi place holder portofolio atau contoh lain; hanya struktur yang dipakai sebagai acuan.
+Pemeriksaan accuracy, privacy, dan authority: Kutipan dicek terhadap tangkapan layar chat asli (typo dirapikan, nama UKM diganti [disamarkan]). Tangkapan layar chat wawancara serta rangkuman dan balasan “pas” ada di folder Google Drive bukti. Bagian yang hanya dugaan ditandai sebagai dugaan. Nama W dan UKM disamarkan di portofolio dan ditutup pada tangkapan layar. Otoritas atas rumusan masalah ada pada W, yang mengonfirmasinya langsung, bukan pada AI.
 Apa yang tetap dipelajari sebagai manusia: Menahan diri untuk tidak menawarkan solusi atau opini, membedakan fakta dari dugaan (kata “mungkin”), menyadari bahwa pertanyaan yang memuat pilihan jawaban bisa mengarahkan, dan bahwa konfirmasi harus datang dari orang yang diwawancarai.
 Feedback dan tindak lanjut
-Feedback yang diterima: > W tidak langsung memahami pertanyaan 5: ia bertanya balik apa yang dimaksud “sulit berubah” dan menebak “forum?”. Saya membaca ini sebagai sinyal bahwa pertanyaan tersebut kurang jelas. Atas rangkuman masalahnya, W membalas satu kata: “pas”.
-Belum ada feedback dari observer. Catatan koreksi diri: pertanyaan 2 dan 5 memuat pilihan jawaban, kelima pertanyaan dikirim sekaligus, dan izin penggunaan jawaban baru saya tanyakan setelah wawancara.
+Feedback yang diterima: > W tidak langsung memahami pertanyaan 5: ia bertanya balik apa yang dimaksud “sulit berubah” dan menebak “forum?”. Saya membaca ini sebagai sinyal bahwa pertanyaan tersebut kurang jelas. Atas rangkuman masalahnya, W membalas satu kata: “pas”. Belum ada feedback dari observer.
 Adaptation/replay: Setelah W bingung, saya mengganti pertanyaan 5 dengan kalimat yang lebih sederhana (“apa yang buat masalah yang kamu jelasin ada dan sulit dihilangkan”), dan W menjawab dengan contoh konkret. Sebelum mengirim konfirmasi, saya juga membuang bagian dugaan tentang peserta lain dari rumusan; setelah itu W menyatakan rumusan sudah “pas”.
-Next practice: Bertanya satu per satu tanpa menyebut pilihan jawaban, meminta satu contoh konkret setelah jawaban yang masih umum (misalnya “membagi waktu”), memparafrasekan sebelum lanjut (“Jadi maksudmu … ya?”), dan meminta izin penggunaan jawaban di awal wawancara.
+Next practice: Catatan koreksi diri: pertanyaan 2 dan 5 memuat pilihan jawaban, kelima pertanyaan dikirim sekaligus, dan izin penggunaan jawaban baru saya tanyakan setelah wawancara. Karena itu ke depan saya akan bertanya satu per satu tanpa menyebut pilihan jawaban, meminta satu contoh konkret setelah jawaban yang masih umum (misalnya “membagi waktu”), memparafrasekan sebelum lanjut (“Jadi maksudmu … ya?”), dan meminta izin penggunaan jawaban di awal wawancara.
 Self-assessment
 Dimensi
 Skor 1–4
@@ -148,7 +140,7 @@ Solusi ditahan; pertanyaan 5 diperjelas setelah W bingung; dugaan dikeluarkan da
 Agreement, Action & Relationship
 3
 Rumusan dikonfirmasi W (“pas”); nama disamarkan; next practice jelas.
-Total: 16 / 20
+Total: 16 / 20 - Lanjut
 Assessment dosen
 Skor: — / 20
 Evidence yang mendukung: —

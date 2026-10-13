@@ -1,0 +1,229 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 700
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 2 September 2026, saat pengerjaan lomba game development Ifest Unpad. Saya berkomunikasi dengan salah satu visual artist dalam tim melalui WhatsApp untuk memahami kenapa beberapa asset belum mendapatkan progress yang jelas dan apa yang membuat pengerjaannya sulit dilanjutkan.
+Persons dan relationship: Saya berperan sebagai programmer sekaligus game production dalam tim game development, sedangkan A merupakan visual artist yang bertanggung jawab mengerjakan asset visual. Kami adalah teman satu tim. Saya membutuhkan asset dari A untuk melanjutkan implementasi game, tetapi saya juga bertanggung jawab memastikan pembagian pekerjaan tidak membuat anggota semakin terbebani.
+Objective dan initial state: Pada awalnya saya mengira keterlambatan progress asset terutama disebabkan oleh kurangnya update atau kurangnya respons dari A. Saya ingin mengetahui apakah masalahnya memang progress pekerjaan, kurangnya kejelasan task, atau ada kondisi lain yang membuat A kesulitan mengerjakan asset. Karena itu, saya mencoba memahami kondisi A terlebih dahulu sebelum menentukan apa yang harus saya lakukan.
+Evidence
+Initial assumption
+Sebelum percakapan lebih lanjut, asumsi saya adalah:
+A belum memberikan progress karena task asset belum dikerjakan atau belum diprioritaskan.
+Progress tracker yang berantakan mungkin membuat beberapa task tidak terlihat jelas.
+Saya perlu meminta update agar dapat mengetahui status pekerjaan.
+Jika masalahnya hanya kurangnya update, saya dapat meminta A memberikan progress secara lebih rutin.
+Namun, saya tidak langsung menyimpulkan bahwa A tidak mengerjakan task. Saya mencoba mencari tahu penyebabnya terlebih dahulu.
+Pertanyaan discovery
+Beberapa pertanyaan yang saya gunakan selama komunikasi antara lain:
+“Kamu bakal sibuk kah?”
+“Plsplspls tell me your progress.”
+“Nanti malam mau sambil call gak?”
+Ketika A menjelaskan kondisinya, saya menanyakan atau membuka kesempatan untuk menjelaskan bagian yang belum jelas.
+Setelah mengetahui bahwa A sedang overwhelmed, saya mengubah pendekatan dengan menanyakan dan menentukan asset mana yang perlu diprioritaskan terlebih dahulu.
+Pertanyaan tersebut awalnya lebih berfokus pada progress, tetapi arah percakapan berubah setelah A menjelaskan kondisi sebenarnya.
+Paraphrase percakapan
+Pada awal percakapan, saya meminta A memberikan update dan menjelaskan beberapa kebutuhan asset.
+[9/2, 01:39] Saya: some notes for A
+pls update sesegera mungkin /(ㄒoㄒ)/
+minta setiap asset bomb versi highlightnya (ini utk kalo player hover bomb tersebut)
+[9/2, 01:39] Saya: if you feel overwhelm on opening the group you can ask anything on my dm
+A kemudian menjelaskan bahwa pada hari sebelumnya ia sedang menangani pekerjaan lain sampai malam dan sudah kelelahan.
+[9/2, 07:39] A: gw kemaren set up pameran
+[9/2, 07:39] A: ampe malem banget
+[9/2, 07:39] A: gw pulang udah ga kuat
+Setelah itu saya mencoba menentukan prioritas asset yang harus dikerjakan terlebih dahulu.
+[9/2, 11:35] Saya: Semangat ngebut
+[9/2, 11:36] Saya: For now prioritasin bom sama enemynya dulu
+Ketika saya menjelaskan kebutuhan enemy, A masih meminta spesifikasi lebih lanjut.
+[9/2, 11:54] A: Enemy nya
+[9/2, 11:54] A: Ada
+[9/2, 11:54] A: Kayak spesifik ga
+Saya kemudian memberikan informasi yang lebih konkret mengenai jenis enemy dan animation yang dibutuhkan.
+[9/2, 12:33] Saya: Enemynya white chocolate, dark chocolate, sama milk chocolate. Desainnya kayak monster (tapi imut) bisa ambil referensi dari cookie run
+[9/2, 12:34] Saya: Terus animasinya idle sama pas mati
+Saya juga menjelaskan kebutuhan bomb dan ukurannya.
+[9/2, 13:40] Saya: Sama buat bom powdered sugar, gummy worms, sour candy, jelly bean
+[9/2, 13:40] Saya: Itu ada efek ledakannya juga
+[9/2, 14:23] Saya: size buat enemy sama bom 96 x 96 ya
+Pada malam hari, A kemudian menjelaskan masalah yang lebih mendasar:
+[9/2, 19:42] A: Iya Erin gw baca aksjksks gw lagi lock in, yang gw kasih itu langsung selesai semua I’m so sorry I got overwhelmed
+[9/2, 19:43] A: Masalahnya kebanyakan yang chat
+[9/2, 19:43] A: 💔 buka wa aja dah overwhelmed njir
+Dari respons tersebut, saya mengetahui bahwa masalahnya bukan sekadar A tidak mengerjakan asset. Banyaknya pesan dan pekerjaan yang masuk secara bersamaan membuat membuka WhatsApp saja terasa overwhelming.
+Saya kemudian menyesuaikan komunikasi:
+[9/2, 19:44] Saya: I see okay then, kalau ada apa apa tanya yaa
+A kemudian menyampaikan bahwa ia sudah dapat fokus kembali pada pekerjaan tim:
+[9/2, 19:45] A: jadi aku fokus all in ke gawe kita
+Problem impact
+Masalah tersebut berdampak pada proses development karena programmer membutuhkan asset visual untuk melanjutkan implementasi bagian tertentu dari game. Jika asset belum tersedia atau spesifikasinya belum jelas, implementasi tidak dapat dilakukan secara penuh.
+Namun, masalahnya bukan hanya keterlambatan asset. Banyaknya pesan, pekerjaan lain, dan kebutuhan asset yang disampaikan secara terpisah juga membuat A lebih sulit menentukan informasi mana yang harus diproses terlebih dahulu.
+Constraint
+Beberapa constraint yang muncul dalam situasi ini:
+Waktu pengerjaan game jam terbatas.
+A memiliki pekerjaan lain di luar game jam pada saat yang sama.
+Banyak informasi mengenai asset disampaikan melalui chat.
+Progress tracker yang digunakan tim tidak cukup rapi untuk menjadi satu-satunya sumber informasi.
+Asset memiliki kebutuhan teknis yang spesifik, seperti ukuran, animation state, dan effect.
+Programmer membutuhkan asset tertentu lebih cepat karena beberapa bagian implementasi bergantung pada asset tersebut.
+Pembaruan pembacaan setelah discovery
+Asumsi awal saya bahwa masalah utamanya adalah kurangnya update ternyata terlalu sederhana.
+Dari percakapan, saya menemukan dua masalah yang saling berhubungan:
+A sedang menghadapi banyak pekerjaan dan menjadi overwhelmed ketika membuka banyak pesan.
+Beberapa task asset belum memiliki brief dan prioritas yang cukup jelas sehingga masih membutuhkan klarifikasi tambahan.
+Jadi, masalahnya bukan sekadar “visual artist belum memberikan progress”, tetapi bagaimana informasi dan prioritas task disampaikan dalam kondisi waktu dan kapasitas yang terbatas.
+Shared problem statement
+Berdasarkan percakapan tersebut, saya merumuskan masalah bersama sebagai:
+“Visual artist dalam tim membutuhkan brief asset yang lebih terstruktur dan prioritas yang lebih jelas karena banyaknya informasi, pesan, dan pekerjaan yang masuk secara bersamaan membuat task sulit diproses satu per satu, sementara beberapa asset juga membutuhkan spesifikasi teknis sebelum dapat langsung dikerjakan. Kondisi ini dapat menghambat implementasi programmer ketika asset yang dibutuhkan belum tersedia.”
+Saya menyampaikan inti masalah tersebut melalui percakapan lanjutan dan menyesuaikan tindakan saya dengan kondisi A. Tidak ada penolakan dari A terhadap pembacaan bahwa banyaknya chat dan pekerjaan membuatnya overwhelmed. Sebaliknya, setelah prioritas diberikan, A menyatakan bahwa ia dapat fokus kembali mengerjakan pekerjaan game.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+A diperlakukan bukan hanya sebagai anggota yang perlu memberikan asset, tetapi sebagai visual artist yang memiliki kapasitas, pekerjaan, dan kebutuhan informasi sendiri. Saya perlu memahami kondisi tersebut sebelum menentukan tindakan.
+Objective & state
+Objective awal saya adalah mengetahui progress asset. Setelah mendengar penjelasan A, objective saya bergeser menjadi memahami hambatan yang menyebabkan progress sulit berjalan dan menentukan prioritas yang dapat dikerjakan terlebih dahulu.
+Repertoire & language
+Awalnya saya menggunakan pesan singkat untuk meminta update. Setelah mengetahui A overwhelmed, saya mengurangi tekanan dan memberi kesempatan untuk bertanya. Untuk kebutuhan teknis, saya kemudian menggunakan brief yang lebih konkret seperti jenis enemy, reference, animation, effect, dan ukuran.
+Response & adaptation
+Asumsi awal saya bahwa masalahnya terutama progress tidak terbukti sebagai keseluruhan masalah. Saya menyesuaikan pembacaan setelah A menjelaskan bahwa terlalu banyak chat membuatnya overwhelmed. Saya kemudian mengubah strategi dengan memprioritaskan bomb dan enemy serta memberikan spesifikasi yang lebih jelas.
+Agreement/action
+Tidak ada agreement formal seperti meeting atau dokumen keputusan. Namun, terdapat tindakan bersama yang jelas: asset bomb dan enemy diprioritaskan, spesifikasi diberikan lebih konkret, dan A kembali fokus mengerjakan asset setelah hambatan komunikasinya dipahami.
+Relationship outcome
+Komunikasi tidak berakhir dengan menyalahkan A karena terlambat memberi progress. Saya memahami constraint yang dialaminya dan menyesuaikan cara meminta pekerjaan. A juga menyatakan bahwa ia kemudian dapat fokus mengerjakan game. Hal ini membantu menjaga hubungan kerja tanpa menghilangkan kebutuhan terhadap progress.
+Penggunaan AI
+AI digunakan setelah percakapan untuk membantu mengelompokkan catatan menjadi asumsi, fakta dari respons A, constraint, impact, dan interpretasi saya. Saya tetap memeriksa kembali hasil tersebut terhadap percakapan WhatsApp agar tidak memasukkan kesimpulan yang tidak pernah disampaikan A.
+AI tidak digunakan untuk menggantikan percakapan atau membuat respons A. Rumusan masalah dibuat berdasarkan percakapan dan kemudian disesuaikan dengan tindakan yang benar-benar terjadi selama pengerjaan game jam.
+Feedback dan tindak lanjut
+Feedback yang diterima: Feedback paling penting berasal dari respons A bahwa ia sedang overwhelmed karena banyak pekerjaan dan banyak chat. Sebelumnya saya melihat masalah terutama dari sisi kebutuhan progress, tetapi informasi tersebut membuat saya memahami bahwa cara informasi disampaikan juga menjadi bagian dari masalah.
+Adaptation/replay: Jika mengulang situasi tersebut, saya tidak akan langsung mengirim banyak permintaan asset dalam beberapa pesan. Saya akan membuat satu brief yang berisi prioritas, jenis asset, spesifikasi utama, dan deadline atau urutan pengerjaan. Dengan begitu A tidak perlu mencari informasi dari banyak pesan untuk memahami apa yang harus dikerjakan terlebih dahulu.
+Next practice: Dalam kerja tim berikutnya, saya ingin menggunakan format brief yang lebih terstruktur untuk task visual, misalnya priority, asset, function, reference, size, state, dan notes. Saya juga ingin membatasi jumlah task yang diberikan sekaligus ketika mengetahui anggota sedang memiliki banyak pekerjaan.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Saya melihat A sebagai visual artist dengan kebutuhan informasi dan constraint sendiri, bukan hanya sebagai orang yang harus menyelesaikan asset.
+Objective & State
+4
+Saya mulai dengan asumsi tentang progress, tetapi mengubah pembacaan setelah mengetahui bahwa masalahnya juga berkaitan dengan overwhelm dan kurangnya prioritas yang jelas.
+Repertoire, Language & AI
+4
+Saya menggunakan pertanyaan, permintaan update, prioritas task, dan technical brief sesuai kondisi komunikasi. AI hanya digunakan untuk membantu mengelompokkan catatan setelah percakapan.
+Response & Adaptation
+4
+Respons A tentang overwhelm membuat saya mengubah cara memberikan task dan memprioritaskan asset yang paling dibutuhkan terlebih dahulu.
+Agreement, Action & Relationship
+4
+Setelah prioritas dan spesifikasi diperjelas, A dapat kembali fokus mengerjakan game. Saya juga memperoleh pembelajaran konkret untuk memperbaiki format brief pada pekerjaan berikutnya.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Erin Cherryl Angela
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://silinderpejal.github.io/kipp-students/index.html
+- https://silinderpejal.github.io/kipp-students/assets/logo.png
+- https://silinderpejal.github.io/kipp-students/course/index.html
+- https://silinderpejal.github.io/kipp-students/portfolio/index.html
+- https://silinderpejal.github.io/kipp-students/examples/index.html
+- https://silinderpejal.github.io/kipp-students/lk/index.html
+- https://silinderpejal.github.io/kipp-students/slides.html
+- https://silinderpejal.github.io/kipp-students/slides-pdf/index.html
+- https://silinderpejal.github.io/kipp-students/assessment/index.html
+- https://silinderpejal.github.io/kipp-students/about.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-02.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-03.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-06.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-09.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-11.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-12.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-13.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-14.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-15.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://silinderpejal.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

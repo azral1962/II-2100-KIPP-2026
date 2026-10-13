@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 792
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://minei114.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Target map
+Attention pitch
+Response dan state assessment
+Proposed opportunity
+Evidence dan refleksi
+Self-assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Target map
+Person
+Relevance
+Authority
+Current state
+Koordinator kepanitiaan
+Berinteraksi langsung dengan anggota dan mengetahui kondisi komunikasi tim
+Dapat menentukan atau menyarankan mekanisme penyampaian kendala
+Problem aware
+Anggota kepanitiaan
+Mengalami langsung proses komunikasi dan menjadi pihak yang menyampaikan atau menerima informasi
+Tidak memiliki kewenangan utama untuk mengubah mekanisme
+Problem aware
+Penanggung jawab komunikasi
+Mengatur penyampaian informasi dan komunikasi antaranggota
+Dapat mengusulkan atau menjalankan alternatif kanal komunikasi
+Neutral
+Saya memilih koordinator kepanitiaan sebagai target awal karena ia memiliki direct experience terhadap komunikasi anggota sekaligus authority untuk mempertimbangkan perubahan cara penyampaian kendala. Saya tidak langsung menawarkan solusi kepada anggota karena tujuan awal saya adalah memvalidasi apakah masalah komunikasi tersebut memang dirasakan sebagai masalah oleh pihak yang bertanggung jawab.
+Attention pitch
+Dalam salah satu kepanitiaan, saya mengamati bahwa beberapa anggota cenderung tidak menyampaikan kendala atau pertanyaan di grup. Namun, ketika diajak berbicara secara personal, mereka lebih terbuka untuk menjelaskan apa yang sebenarnya mereka alami. Dari situ saya melihat kemungkinan bahwa masalahnya bukan karena anggota tidak memiliki concern, tetapi karena mereka kurang nyaman menyampaikannya di ruang publik.
+Saya kemudian menyampaikan kepada target:
+Saya: “Aku ngerasa ada beberapa orang yang sebenarnya punya kendala atau pertanyaan, tapi nggak terlalu muncul di grup. Waktu dibahas secara personal, mereka malah lebih terbuka. Menurut kamu, memang ada kemungkinan orang-orang kurang nyaman menyampaikan masalah secara langsung di grup?”
+Evidence yang saya gunakan berasal dari observasi terhadap pola komunikasi selama kegiatan dan percakapan personal dengan anggota. Saya tidak menyimpulkan bahwa seluruh anggota mengalami masalah yang sama karena pengamatan tersebut hanya berasal dari beberapa interaksi.
+Response dan state assessment
+Target mengakui bahwa kondisi tersebut mungkin memang terjadi karena tidak semua orang nyaman menyampaikan masalah di ruang publik. Namun, target juga menyampaikan bahwa membuat kanal baru belum tentu membuat anggota lebih aktif menyampaikan kendala.
+Target: “Mungkin iya, ada yang nggak enak ngomong di grup. Tapi kalau dibuat form juga belum tentu mereka mau isi.”
+Respons tersebut menunjukkan bahwa target sudah mengakui issue, tetapi masih memiliki reservation terhadap solusi yang ditawarkan. State target berubah dari problem aware menjadi attention dengan reservation.
+Saya kemudian mengadaptasi respons saya dan tidak langsung mempertahankan penggunaan form sebagai solusi utama.
+Saya: “Iya, berarti form sendiri belum tentu menyelesaikan masalahnya. Kalau ada beberapa pilihan, misalnya bisa lewat form anonim atau langsung japri kalau memang lebih nyaman, menurut kamu itu bakal lebih memungkinkan?”
+Dari percakapan tersebut, objective saya berubah dari sekadar menunjukkan bahwa komunikasi di grup memiliki masalah menjadi mencari bentuk kanal alternatif yang paling mungkin digunakan oleh anggota.
+Proposed opportunity
+Salah satu opsi yang muncul adalah membuat kanal penyampaian kendala yang lebih privat, misalnya form anonim sederhana. Form tersebut dapat berisi pertanyaan singkat seperti:
+Ada kendala yang sedang kamu alami?
+Ada hal yang masih belum jelas?
+Ada hal dalam kerja tim yang ingin disampaikan?
+Apakah kamu ingin dihubungi untuk membahasnya lebih lanjut?
+Form tidak diposisikan sebagai pengganti komunikasi langsung, tetapi sebagai opsi tambahan bagi anggota yang belum nyaman menyampaikan masalah di grup. Alternatif lain tetap tersedia, seperti menyampaikan langsung kepada koordinator atau melalui pesan pribadi.
+Evidence dan refleksi
+Observasi terhadap anggota yang lebih terbuka ketika masalah dibahas secara personal dibandingkan ketika berada di grup.
+Percakapan dengan target mengenai kemungkinan adanya hambatan dalam menyampaikan kendala di ruang publik.
+Response target menunjukkan bahwa issue diakui, tetapi efektivitas form sebagai solusi masih dipertanyakan.
+Saya mengubah pendekatan setelah mendapatkan reservation dari target dan tidak langsung menganggap form sebagai solusi pasti.
+AI digunakan untuk mengecek apakah attention pitch saya sudah membedakan observasi, asumsi, dan opportunity serta apakah saya terlalu cepat menawarkan solusi. AI tidak digunakan untuk membuat evidence atau menyimpulkan kondisi anggota.
+Next practice: sebelum menawarkan solusi, saya akan lebih dulu memastikan bahwa target dan pihak yang mengalami masalah memiliki pemahaman yang sama mengenai issue tersebut.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Target dipilih berdasarkan direct experience dan authority terhadap komunikasi tim
+Objective & State
+4
+Objective dan state target diperbarui setelah mendapatkan response dan reservation
+Repertoire, Language & AI
+3
+Pitch menggunakan observation dan membuka ruang validasi; AI digunakan untuk mengecek framing, tetapi belum menjadi bagian langsung dari proses percakapan
+Response & Adaptation
+4
+Saya tidak memaksakan form sebagai solusi dan mengubah pendekatan setelah target memberikan reservation
+Agreement, Action & Relationship
+4
+Percakapan menghasilkan opsi kanal alternatif tanpa memaksakan satu solusi dan tetap mempertimbangkan kenyamanan anggota
+Total: 19/20 — Kompeten.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Michelle Nataneilla
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://minei114.github.io/kipp-students/index.html
+- https://minei114.github.io/kipp-students/assets/logo.png
+- https://minei114.github.io/kipp-students/course/index.html
+- https://minei114.github.io/kipp-students/portfolio/index.html
+- https://minei114.github.io/kipp-students/examples/index.html
+- https://minei114.github.io/kipp-students/lk/index.html
+- https://minei114.github.io/kipp-students/slides.html
+- https://minei114.github.io/kipp-students/slides-pdf/index.html
+- https://minei114.github.io/kipp-students/assessment/index.html
+- https://minei114.github.io/kipp-students/about.html
+- https://minei114.github.io/kipp-students/portfolio/week-06.html
+- https://minei114.github.io/kipp-students/portfolio/week-01.html
+- https://minei114.github.io/kipp-students/portfolio/week-02.html
+- https://minei114.github.io/kipp-students/portfolio/week-03.html
+- https://minei114.github.io/kipp-students/portfolio/week-04.html
+- https://minei114.github.io/kipp-students/portfolio/week-05.html
+- https://minei114.github.io/kipp-students/portfolio/week-07.html
+- https://minei114.github.io/kipp-students/portfolio/week-08.html
+- https://minei114.github.io/kipp-students/portfolio/week-09.html
+- https://minei114.github.io/kipp-students/portfolio/week-10.html
+- https://minei114.github.io/kipp-students/portfolio/week-11.html
+- https://minei114.github.io/kipp-students/portfolio/week-12.html
+- https://minei114.github.io/kipp-students/portfolio/week-13.html
+- https://minei114.github.io/kipp-students/portfolio/week-14.html
+- https://minei114.github.io/kipp-students/portfolio/week-15.html
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#proposed-opportunity
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#evidence-dan-refleksi
+- https://minei114.github.io/kipp-students/portfolio/week-06.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

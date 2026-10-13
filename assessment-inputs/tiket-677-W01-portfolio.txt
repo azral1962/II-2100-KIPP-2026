@@ -1,0 +1,202 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 677
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Perubahan language antar character
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character:
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — Skeptical Learner
+Diri sendiri pas ngerjain tugas coding C/Python atau debugging.
+Memisahkan rasa frustrasi (“kode ini kok error mulu”) dari evaluasi kemampuan diri (“logika mana yang belum masuk”); ngatur emosi pas stuck.
+Jurnal pertanyaan mandiri: “Asumsi apa yang bikin logika ini gak jalan?”; pertanyaan audit: “Ini masalah syntax atau emang alurnya yang salah?”
+Gampang ngedrop/frustrasi pas nemu bug rumit; latihan: tulis minimal dua kemungkinan hipotesis penyebab error sebelum utak-atik kode.
+Friends — Sahabat Pendengar
+Teman seangkatan STI / teman satu kosan di Jatinangor.
+Memvalidasi emosi teman yang lagi capek atau stres tanpa keburu-buru ngasih solusi instan.
+Active listening, nemenin cerita, pake nada empati (“Pasti nguras pikiran banget ya…”), nahan diri biar gak mendominasi.
+Terlalu cepat ngambil alih masalah orang (rescuing); latihan: nahan diri buat gak ngasih saran sebelum temennya minta sendiri.
+Academic — Tim Pengembang Kode
+Rekan kelompok tubes & dosen matkul Prokom/Alpro.
+Memastikan integrasi kode di GitHub lancar dan struktur logika dipahami semua anggota tim tanpa ada yang ketinggalan.
+Penjelasan alur logika program lewat diagram/flowchart, pertanyaan Socratic (“Kalau bagian ini di-run, ekspektasi mu gimana?”).
+Menganggap semua orang udah punya mental model yang sama; latihan: selalu check-in pemahaman sebelum merge pull request.
+Community — Koordinator Operasional (LFM ITB)
+Krew lapangan, operator audio mixer, dan visual (3 orang krew).
+Mengarahkan krew, menyelaraskan routing audio & OBS Studio, dan mencegah dead air pas siaran tanpa bersikap otoriter.
+Instruksi lisan yang ringkas, imperatif, tapi tetep tenang (“Coba check kabel AUX 4, visual standby di Scene Intro”).
+Kelihatan terlalu nakut-nakutin pas panik atau asal comot alat sepihak; latihan: pake arahan lisan yang jelas, jangan ambil alih hardware.
+Public — Liaison Officer (LO)
+Pihak birokrasi sekolah mitra (SMA Sabilillah) pas persiapan roadshow.
+Berkoordinasi terkait izin tempat dan logistik acara secara formal dan profesional.
+Negosiasi santun, ragam bahasa formal (“Selamat pagi Bapak, izin mengonfirmasi terkait teknis tempat…”), konfirmasi tertulis.
+Terlalu kaku atau salah ngebaca struktur birokrasi; latihan: selalu catat dan kirim ulang summary kesepakatan via chat/email resmi.
+Konteks performance
+Tanggal dan setting: Sabtu, 14 Maret 2026, jam 15.30–17.00 WIB. Ruang kontrol produksi (control room) LFM ITB pas simulasi/gladi bersih live streaming acara pemutaran film. Krew yang bertugas: saya (koordinator/OBS operator), F (operator audio mixer), dan D (operator visual/camera).
+Persons dan relationship: Tim kecil yang biasa kerja bareng di lapangan, tapi situasi gladi kali ini punya tekanan tinggi karena waktu broadcast tinggal sebentar lagi. Hubungan relasi cukup akrab, tapi posisi saya sebagai koordinator menuntut kejelasan arahan tanpa terkesan asal suruh.
+Objective dan initial state: * Initial state: 20 menit sebelum siaran, indikator audio di saluran 2 tiba-tiba mati (no sound), padahal mic panggung udah aktif. F mulai panik mau nyabut kabel, sementara D bingung harus standby di scene mana. * Objective: Membimbing tim buat nemuin jalur audio cadangan secara cepat, menjaga krew tetep tenang, dan mengeksekusi transisi siaran tanpa dead air atau tindakan emosional merebut kontrol mixer.
+Evidence
+Rekonstruksi percakapan interkom Control Room (dari catatan log operasional siaran): > Saya (Koordinator): “Sebelum kita mulai hitung mundur gladi, boleh check-in singkat dulu dari meja audio dan visual: status input saluran 2 sama kamera utama udah aman belum?”
+> F (Operator Audio): “Saluran 2 mati total di mixer za, padahal mic panggung udah nyala. Gua bingung ini masalah di kabel snake atau interface-nya.”
+> Saya: “Oke, tenang dulu F. Jangan ditarik dulu kabelnya. Kalau kita paksa pake saluran 2 yang lagi bermasalah, risikonya nanti kretek-kretek pas siaran. Kira-kira ada jalur cadangan di AUX 4 yang bisa kita switch sekarang gak?”
+> F: “Bisa sih, tapi gua butuh waktu sekitar 3 menit buat patching ulang ke AUX 4.”
+> Saya: “Sip, 3 menit masih aman banget. D (Visual), sambil nunggu F patching, lo standby di Scene Intro ya. Nanti transisi masuk pas sinyal audio AUX 4 udah kelihatan di OBS. Menurut kalian alur gini oke gak?”
+> D (Operator Visual): “Oke Zha, gua udah ready di Scene Intro.”
+> F: “AUX 4 udah masuk, indikator hijau udah naik. Thanks ya gak langsung ngambil alih mixer gua.”
+Catatan observer (D, operator visual, disampaikan via DM setelah sesi):
+> “Gua appreciate lo tetap tenang pas saluran 2 mati dan minta usul jalurnya ke F dulu pas koordinasi. Tapi pas awal-awal nada suara lo di interkom agak keburu-buru, bikin F sempat agak panik pas ngecek kabel.”
+Dokumen checklist routing di Shared Doc:
+> - Status Audio: AUX 4 Active (Backup Saluran 2) — Owner: F
+> - Status Visual: Scene Intro Standby — Owner: D
+> - Status Master OBS: Stream Key & Audio Routing Valid — Owner: Saya (Arzha)
+> - Catatan Keputusan: Saluran 2 di-bypass; seluruh audio difokuskan ke AUX 4 untuk menghindari kebocoran noise.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya masuk sebagai koordinator operasional yang ngarahin alur, bukan sebagai ‘hero’ yang merasa paling mengerti teknis. Saya sadar F punya tanggung jawab dan rasa kepemilikan atas meja mixer-nya. Kalau saya panik lalu asal nyerobot ngambil alih mixer, itu cuma bakal merusak trust dan bikin F merasa gak dihargai.
+Objective & state
+State awal: Kebuntuan dan kepanikan krew gara-gara sinyal audio saluran 2 mendadak hilang. Objective: Keputusan kolektif cepat (switch ke AUX 4) tanpa bikin krew merasa tertekan. State akhir: Sinyal audio masuk, transisi visual lancar, dan gladi selesai tepat waktu.
+Repertoire & language
+Saya pakai framing pertanyaan terbuka sebelum ngasih instruksi (“Kira-kira ada jalur cadangan di AUX 4…”). Bahasa yang fokus ke solusi teknis bersama ngebantu ngegeser fokus krew dari rasa panik ke tindakan pemecahan masalah.
+Response & adaptation
+Saya nangkep sinyal fisik kebingungan F (gerakan tangan yang ragu-ragu di atas hardware). Saya adaptasi dengan nahan desakan waktu dan ngasih dia alokasi 3 menit buat patching. Tapi, saya sempat kelewatan sinyal intonasi suara saya sendiri yang di awal agak terlalu tinggi (baru sadar setelah dapet DM masukan dari D).
+Agreement/action
+Agreement eksplisit: F patching ke AUX 4, D ngunci Scene Intro, saya ngecek leveling di OBS. Pembagian peran dan owner tereksekusi jelas di dokumen checklist.
+Relationship outcome
+Tim berhasil menyelesaikan gladi siaran tanpa dead air. Kepercayaan antar-krew terjaga karena kendali teknis diselesaikan lewat komunikasi verbal yang transparan, bukan lewat aksi sepihak.
+Perubahan language antar character
+Situasi yang sama—yaitu ketika ada rekan yang ngalamin kendala teknis perangkat—bakal menghasilkan language dan repertoire yang beda tergantung character mana yang lagi aktif:
+Sebagai Koordinator Operasional Siaran: Saya tanya: “Kira-kira ada jalur cadangan AUX 4 yang bisa kita switch dalam 3 menit?” \(\rightarrow\) Fokus ke solusi praktis yang efisien buat tim di bawah tekanan waktu siaran langsung.
+Sebagai Liaison Officer (Publik/Birokrasi): Saya bakal bilang: “Selamat sore Bapak, izin mengonfirmasi terdapat sedikit penyesuaian pada saluran audio siaran. Kami mohon izin melakukan pengalihan jalur agar acara dapat berjalan optimal.” \(\rightarrow\) Fokus ke kesantunan, penghormatan hierarki, dan menjaga citra organisasi.
+Sebagai Skeptical Learner (Intra-Self): Saya tanya ke diri sendiri: “Kenapa tadi gua berasumsi kabelnya yang rusak? Asumsi apa yang bikin gua gak meriksa jalur AUX 4 dari awal?” \(\rightarrow\) Fokus ke mengaudit logika dan pola pikir sendiri.
+Penggunaan AI
+AI (Gemini) saya pakai setelah sesi gladi selesai untuk dua hal khusus: 1. Memisahkan Fakta dan Story/Interpretasi: Saya nulis draf rekonstruksi obrolan dan minta AI bantu ngecek bagian mana yang murni fakta observasi (F menyatakan setuju secara verbal) versus mana yang baru asumsi saya (“krew merasa tenang”). AI ngebantu saya ngelihat kalau rasa tenang F baru terbukti setelah ada kalimat tanggapannya (“Thanks gak langsung ngambil alih…”). 2. Merapikan Struktur Tabel: Saya ngasih draf kasar kelima character, lalu AI bantu nyusun draf tabelnya. Saya merevisi ulang bagian “risiko” karena draf awal dari AI terlalu generik dan gak mencerminkan dinamika riil saya di lapangan. 3. Output AI yang ditolak: AI sempat menyarankan character “Produser Otoriter” yang terkesan menyalahkan krew atas kendala teknis. Saya tolak saran ini karena gak sesuai sama evidence nyata di lapangan dan bertentangan sama prinsip komunikasi interpersonal yang kooperatif. 4. Pembelajaran Manusia: Melatih kepekaan terhadap nada suara sendiri di interkom saat situasi tegang adalah hal yang harus saya latih secara intuitif sebagai manusia—AI gak bisa mendeteksi atau mengoreksi emosi real-time saya pas di control room.
+Feedback dan tindak lanjut
+Feedback yang diterima: Pesan DM dari D (operator visual) setelah sesi: “Gua appreciate lo tetap tenang pas saluran 2 mati dan minta usul jalurnya ke F dulu pas koordinasi. Tapi pas awal-awal nada suara lo di interkom agak keburu-buru, bikin F sempat agak panik pas ngecek kabel.”
+Adaptation/replay: Keesokan harinya pas sesi pembongkaran alat (teardown), saya nemuin F dan membuka ruang diskusi: “F, kemarin pas saluran 2 mati nada bicara gua di interkom bikin lu merasa dikejar-kejar gak? Sorry ya kalau sempat kedengaran menekan.” F ngaku kalau intonasi awal saya memang sempat bikin dia kaget, tapi penataan alur setelahnya bikin dia bisa fokus lagi.
+Next practice: Sebelum pencet tombol interkom saat ada kendala teknis di siaran berikutnya, saya menetapkan aturan pribadi: “Jeda 3 detik & atur napas” biar nada suara lebih stabil sebelum ngasih arahan ke krew.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character dipetakan lintas domain dengan analisis perubahan role, power, dan context; ketegangan kepribadian (autopilot vs mendelegasikan secara verbal) dianalisis mendalam.
+Objective & State
+4
+State awal, state tujuan, dan state akhir terdefinisi eksplisit; kelancaran teknis dan hubungan kerja dikelola bersamaan lewat trade-off yang disadari.
+Repertoire, Language & AI
+4
+Repertoire disesuaikan secara luwes antar 3 character berbeda dalam situasi serupa; batas penggunaan AI ditetapkan tegas dengan penolakan output otoriter.
+Response & Adaptation
+4
+Sinyal tegang krew terdeteksi; feedback observer (DM D) ditindaklanjuti secara proaktif dengan konfirmasi langsung ke F; protokol jeda 3 detik dibuat.
+Agreement, Action & Relationship
+4
+Agreement eksplisit dengan owner dan checklist terikat; relationship repair berhasil menjaga trust dan profesionalisme antar-krew.
+Total: 20/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#evidence-wajib
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#konteks-performance
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#evidence
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#analisis-komunikasi
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#perubahan-language-antar-character
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#penggunaan-ai
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

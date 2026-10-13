@@ -1,0 +1,215 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 606
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://tristanaw1.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identitas
+Kompetensi target
+Target map
+Alasan memilih satu target
+Attention pitch
+Evidence yang dipakai dan batas klaim
+Response dan state assessment
+Respon riil target (Mitra A)
+State assessment sesudah pitch
+Adaptasi (adaptation pitch)
+Evidence dan refleksi
+Transparansi penggunaan AI
+Next practice
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment dalam mengadvokasikan perbaikan sistem penyimpanan alat dan penjadwalan latihan liong UKT ITB.
+Identitas
+Nama: Tristan Anthony Wijaya
+NIM: 18225045
+Tanggal pengerjaan: 3 Oktober 2026
+Kompetensi target
+Memilih target person yang tepat berdasarkan relevansi dan otoritas, serta membuat suatu isu diakui relevan (captured attention) melalui penyajian evidence empiris tanpa melakukan overgeneralisasi, dilengkapi kemampuan membaca pergeseran state dan beradaptasi terhadap resistensi target.
+Target map
+Isu yang diangkat adalah tingginya frekuensi kerusakan perlengkapan liong (tongkat aus dan kain robek) serta keterlambatan waktu mulai latihan menjelang persiapan penampilan di Jakarta. Sebelum melompat ke usulan pengadaan fasilitas atau anggaran, saya memetakan pihak-pihak yang relevan dalam ekosistem UKT ITB:
+Person
+Relevance
+Authority
+Current state
+Ketua Unit UKT ITB (Mitra A)
+Bertanggung jawab atas arah kebijakan umum, keutuhan aset unit, alokasi prioritas program kerja, dan perizinan resmi kampus.
+Berwenang menetapkan prioritas rapat pengurus, menyetujui revisi alokasi dana darurat, dan mengajukan perizinan fasilitas ke Ditmawa ITB.
+Skeptical / Attribution Bias (Mengakui ada kerusakan, tetapi menganggapnya murni akibat kelalaian pemain saat berlatih, bukan masalah sistem penyimpanan).
+Kepala Divisi Logistik & Aset UKT (Mitra C)
+Mencatat inventaris barang, mengelola gudang bersama, dan mencatat pengeluaran suku cadang.
+Berwenang mengatur tata letak gudang sekretariat dan mengeluarkan barang inventaris.
+Problem aware, tapi pasif (Kewalahan mencatat kerusakan, namun merasa perbaikan di luar kendalinya).
+Bendahara Umum UKT ITB
+Menjaga stabilitas arus kas kas unit dan kepatuhan anggaran terhadap LPJ.
+Berwenang menolak atau meloloskan pencairan pos anggaran darurat operasional.
+Unaware / Cost-defensive (Melihat isu hanya dari kacamata pengeluaran kas yang harus ditekan).
+Seksi Sarana & Prasarana Ditmawa ITB
+Mengelola izin penggunaan ruang tertutup dan fasilitas gedung kemahasiswaan (Sunken Court / CC).
+Berwenang menerbitkan izin pemakaian ruang latihan malam secara legal.
+Unaware / Netral (Birokrasi luar; hanya merespons surat resmi pimpinan unit).
+Alasan memilih satu target
+Saya memilih Ketua Unit UKT ITB (Mitra A) sebagai target utama percakapan attention.
+Meskipun Divisi Logistik memiliki kontak harian paling dekat dengan barang, Mitra A adalah pemegang otoritas kunci yang menentukan apakah masalah ini dianggap sebagai “isu teknis remeh divisi” atau “isu struktural organisasi”. Sebelum melangkah ke tahap Interest atau meminta persetujuan anggaran lemari penyimpanan/loker tertutup, saya harus mengubah state Mitra A dari skeptical (menyalahkan pemain) menjadi attention (menyadari adanya risiko operasional nyata pada aset unit) menggunakan data konkret, bukan asumsi.
+Attention pitch
+Pitch disampaikan secara langsung dalam pertemuan tatap muka 1-on-1 berdurasi 35 detik di Selasar Sekretariat UKT ITB:
+“Mitra A, dalam rekap log latihan Divisi Olahraga selama empat minggu terakhir (total 12 sesi latihan), tercatat 3 kali kerusakan tongkat pengunci dan 2 kali robekan kain liong dengan total biaya talangan servis Rp265.000. Selain itu, ada rata-rata kehilangan waktu 20 sampai 30 menit di setiap sesi latihan hanya untuk membongkar tumpukan barang di selasar terbuka dan mengeringkan rotan yang lembap.
+Saya belum menyimpulkan bahwa pemain kita ceroboh atau kita butuh beli lemari penyimpanan baru sekarang. Namun, melihat angka keterlambatan dan biaya servis ini, bolehkah kita periksa bersama apakah akar masalahnya ada pada kelembapan selasar penyimpanan terbuka dan bentroknya izin ruang latihan?”
+Evidence yang dipakai dan batas klaim
+Ukuran Sampel: 12 sesi latihan terjadwal dalam rentang 4 minggu (September 2026).
+Data Empiris:
+Frekuensi kerusakan: 3 kali kerusakan baut/rotan aus; 2 kali kain sobek akibat tersangkut barang lain di selasar.
+Dampak finansial langsung: Rp265.000 (tercatat pada bon talangan perbaikan divisi).
+Dampak waktu: Kehilangan waktu efektif latihan 20–30 menit per sesi (total kumulatif ~5 jam dalam sebulan).
+Batas Klaim (Nuance): Pitch tidak menggeneralisasi bahwa “semua alat pasti rusak” dan tidak langsung menuduh fasilitas kampus buruk. Klaim secara eksplisit membedakan antara fakta keterlambatan/biaya vs hipotesis awal mengenai tata letak penyimpanan.
+Response dan state assessment
+Respon riil target (Mitra A)
+Mitra A mendengarkan dengan seksama, mencermati catatan bon fisik yang saya tunjukkan, lalu merespons:
+“Data kerusakannya memang nyata dan biayanya lumayan kalau diakumulasi. Tapi Tristan, empat minggu terakhir ini kan intensitas latihan kalian naik dua kali lipat buat persiapan acara alumni di Jakarta. Wajar kalau alat lebih cepat aus. Di bulan-bulan biasa waktu cuma latihan seminggu sekali, laporan kerusakan tongkat kayaknya jarang masuk.”
+State assessment sesudah pitch
+Analisis Respon: Mitra A tidak menolak data numerik yang diajukan (fakta biaya Rp265.000 dan delay 25 menit diterima). Namun, ia meragukan signifikansi sistemik dari masalah tersebut (magnitude reservation), dengan menganggapnya sebagai anomali musiman akibat padatnya jadwal latihan menjelang penampilan besar.
+Pergeseran State: Berpindah dari Skeptical / Attribution Bias (mengira pemain ceroboh) menjadi Attention dengan Reservasi (mengakui isu biaya dan waktu, tetapi mempertanyakan apakah masalah ini bersifat permanen atau musiman). Target belum berada pada state Interest.
+Adaptasi (adaptation pitch)
+Merespons reservasi tersebut, saya tidak mendebat atau mempertahankan hipotesis awal, melainkan memvalidasi perspektif Mitra A dan mengubah objektif percakapan dari meminta solusi menjadi menyetujui validasi data pembanding:
+“Poin yang sangat masuk akal, intensitas latihan bulan ini memang naik dua kali lipat dibanding bulan lalu sehingga beban gesek alat bertambah.
+Agar kita tidak mengambil keputusan berdasarkan bias persiapan Jakarta, bagaimana kalau sebelum rapat pleno Kamis depan, saya bersama Divisi Logistik membandingkan data bon servis 2 bulan sebelumnya (Juli–Agustus saat latihan normal)? Kalau di periode latihan santai angkanya tetap muncul konsisten, berarti memang ada masalah di tempat penyimpanan. Kalau tidak, berarti ini murni beban musiman. Apakah pendekatan ini cukup adil?”
+Mitra A menyetujui:
+“Nah, itu adil. Kamu cek log dua bulan lalu bareng Divisi Logistik. Kalau datanya sudah ada, bawa ke rapat pengurus hari Kamis, nanti kita jadwalkan 15 menit buat bahas opsi solusinya.”
+Evidence dan refleksi
+1. Target Map: Sebelum vs. Sesudah Percakapan
+Sebelum Percakapan:
+Target: Mitra A (Ketua Unit)
+Assumed State: Skeptical / Mengabaikan isu fasilitas dan menganggap divisi kurang disiplin merawat inventaris.
+Sesudah Percakapan:
+Target: Mitra A (Ketua Unit)
+Observed State: Attention dengan Reservasi Komparasi Data. Isu diakui relevan, reservasi terdefinisi jelas (faktor musiman vs sistemik), dan akses agenda pembahasan pleno disetujui.
+2. Catatan Pengamat Independen (Mitra B — Rekan Pengurus UKT)
+“Penyampaian pitch Tristan sangat terukur karena membuka obrolan dengan angka ril (12 sesi, 3 kerusakan, Rp265 ribu), bukan keluhan emosional. Mitra A yang awalnya duduk santai langsung menegakkan badan dan melihat kertas catatan.
+Adaptasi terbaik terlihat saat Mitra A menantang dengan argumen ‘faktor musiman Jakarta’. Tristan tidak defensif membela diri, tapi langsung memvalidasi keberatan itu dan menawarkan komparasi data 2 bulan sebelumnya. Hal itu membuat Mitra A merasa dihargai dan dengan sukarela memberi slot waktu pembahasan di rapat hari Kamis.”
+3. Agreement konkret yang dicapai
+Aksi Verifikasi: Tristan Anthony Wijaya (Ketua Divisi Olahraga) bersama Mitra C (Logistik) memeriksa buku kas dan log pemeliharaan periode Juli–Agustus 2026.
+Output: 1 lembar tabel komparasi kerusakan periode normal vs periode intensif, diserahkan paling lambat Rabu, 7 Oktober 2026 pukul 20.00 WIB.
+Komitmen Target: Mitra A memberikan slot 15 menit pada agenda Rapat Pengurus Pleno Kamis malam untuk membahas tindak lanjut tata kelola ruang dan aset jika data menunjukkan tren konsisten.
+Batas Privasi: Pengecekan data hanya mencakup rekap agregat biaya servis divisi dan log tanggal latihan; tidak mencakup catatan evaluasi personal anggota.
+Transparansi penggunaan AI
+AI digunakan secara etis dan proporsional untuk: - Mengevaluasi struktur naskah attention pitch guna memastikan pemisahan yang ketat antara data fakta empiris (observations) dan interpretasi analitis
+Next practice
+Menyampaikan relevance pitch dalam batas waktu ketat (< 45 detik) dengan mendahulukan dampak operasional sebelum menyampaikan hipotesis masalah.
+Dalam menghadapi reservasi target, selalu gunakan prinsip agree and pivot: akui validitas sudut pandang target, lalu tawarkan mekanisme pengujian bersama (joint inquiry).
+Self-assessment
+Dimensi
+Skor 1–4
+Justifikasi dan Evidence
+Person & Character
+4
+Target dipilih secara metodologis melalui target map berdasarkan relevansi dan otoritas struktural, bukan sekadar memilih pihak yang paling mudah diajak bicara.
+Objective & State
+4
+State target awal (skeptical/bias atribusi) dipetakan akurat; respon target dianalisis secara objektif hingga terpetakan status attention with reservation.
+Repertoire, Language & AI
+4
+Naskah pitch ringkas, membedakan fakta dan kesimpulan, menyertakan batasan sampel tanpa klaim absolut; transparansi pemanfaatan AI dijabarkan jelas.
+Response & Adaptation
+4
+Mampu mengidentifikasi reservasi target (argumen beban musiman) dan secara adaptif mengubah objektif percakapan menjadi validasi komparasi data historis.
+Agreement, Action & Relationship
+3
+Menghasilkan kesepakatan verifikasi data konkret dengan PIC, tenggat waktu, batas privasi, serta komitmen slot waktu pada agenda rapat pengurus.
+Total Skor: 19 / 20 — Sangat Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Tristan Anthony Wijaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://tristanaw1.github.io/kipp-students/index.html
+- https://tristanaw1.github.io/kipp-students/assets/logo.png
+- https://tristanaw1.github.io/kipp-students/course/index.html
+- https://tristanaw1.github.io/kipp-students/portfolio/index.html
+- https://tristanaw1.github.io/kipp-students/examples/index.html
+- https://tristanaw1.github.io/kipp-students/lk/index.html
+- https://tristanaw1.github.io/kipp-students/slides.html
+- https://tristanaw1.github.io/kipp-students/slides-pdf/index.html
+- https://tristanaw1.github.io/kipp-students/assessment/index.html
+- https://tristanaw1.github.io/kipp-students/about.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-01.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-02.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-03.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-08.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-09.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-10.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-11.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-12.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-13.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-14.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-15.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#identitas
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#alasan-memilih-satu-target
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#evidence-yang-dipakai-dan-batas-klaim
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#respon-riil-target-mitra-a
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#state-assessment-sesudah-pitch
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#adaptasi-adaptation-pitch
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#evidence-dan-refleksi
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#transparansi-penggunaan-ai
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#next-practice
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

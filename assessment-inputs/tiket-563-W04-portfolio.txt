@@ -1,0 +1,161 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 563
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sabsibb.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Konteks performance
+Tanggal dan setting: 23 September 2026, Kampus & Diskusi Daring. Bentuk kegiatan berupa eksperimen komunikasi dan alih ragam bahasa (code-switching) terhadap satu konsep teknis pengelolaan data ke lima audiens berbeda.
+Persons dan relationship: 1. Teman seangkatan / Sahabat dekat (pertemanan akrab sebaya, non-teknik). 2. Rekan mahasiswa seangkatan / Technical peer (kolaborator teknis sebaya). 3. Manajer / Pengambil keputusan bisnis (hubungan profesional/atasan). 4. Customer / Pengguna aplikasi (klien/pengguna layanan). 5. Publik umum / Masyarakat luas (audiens heterogen luas).
+Objective dan initial state: - Initial state: Adanya Curse of Knowledge di mana penjelasan konsep normalisasi basis data cenderung kaku dan penuh jargon teknis (functional dependency, 3NF, BCNF, redundancy, anomaly), sehingga audiens non-teknis merasa pusing, asing, atau salah paham (mengira normalisasi adalah proses penghapusan data). - Objective: Menerjemahkan satu makna inti kebenaran (penataan struktur data untuk mencegah pengulangan berlebih dan menjaga konsistensi) ke dalam 5 register bahasa yang lentur, relevan, dan mudah dipahami tanpa mengorbankan integritas faktual teknisnya.
+Evidence
+Konsep Teknis Inti: Normalisasi Basis Data (Database Normalization).
+Makna Inti / Kebenaran Utuh (Core Truth): > “Normalisasi basis data menyusun dan menata data agar informasi yang sama tidak perlu disimpan berulang-ulang di banyak tempat. Dengan struktur yang lebih rapi, risiko data tidak konsisten serta kesalahan saat data ditambah, diubah, atau dihapus dapat dikurangi.”
+Transkrip Draf 5 Ragam Bahasa (Artefak Komunikasi):
+Ragam 1: Teman Dekat (Sahabat) > “Normalisasi itu intinya bikin database lebih rapi, bro. Jadi kalau ada informasi yang sama, kita nggak perlu nulis berkali-kali di tempat beda. Contoh simpelnya nih, kalau nomor HP seseorang berubah, kita cuma perlu update di satu tempat aja, nggak usah keliling ngubah di puluhan tabel lain yang bikin pusing.”
+Ragam 2: Rekan Teknis (Technical Peer / Engineer) > “Database normalization decomposes relations to reduce unnecessary redundancy and update, insertion, and deletion anomalies caused by inappropriate functional dependencies. The schema can be normalized through 1NF, 2NF, 3NF, or BCNF depending on the dependency structure of the attributes.”
+Ragam 3: Manajer / Pengambil Keputusan Organisasi > “Normalisasi membantu menjaga data perusahaan tetap konsisten dengan mengurangi pengulangan informasi di sistem. Dengan struktur data yang lebih teratur, setiap perubahan data dapat dilakukan dengan lebih terkontrol sehingga risiko kesalahan operasional dan beban pekerjaan koreksi data dapat dikurangi secara signifikan.”
+Ragam 4: Customer / Pengguna Layanan > “Data Anda disimpan dengan struktur yang lebih teratur sehingga informasi yang sama tidak perlu dicatat berulang kali. Langkah ini membantu memastikan bahwa data Anda yang tersimpan di dalam sistem selalu cocok, akurat, dan tidak saling bentrok satu sama lain.”
+Ragam 5: Publik Luas (Masyarakat / Nilai Sosial) > “Normalisasi adalah cara menata data agar informasi yang sama tidak terus-menerus dicatat di banyak tempat berbeda. Dengan tata kelola data yang rapi, potensi kesalahan informasi bisa ditekan sehingga layanan digital yang kita gunakan sehari-hari dapat bekerja dengan lebih konsisten dan andal.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Audiens memiliki tingkat pengetahuan dan kebutuhan yang sangat berbeda: teman butuh contoh riil sehari-hari (nomor HP); rekan teknis menuntut presisi terminologi formal RFC/akademis; manajer berfokus pada efisiensi bisnis dan kontroI risiko; customer butuh kepastian keandalan data; publik umum butuh bahasa yang akrab tanpa jargon.
+Objective & state
+Menggeser state dari kebingungan akibat jargon (Curse of Knowledge) menjadi pemahaman intuitif sesuai peran masing-masing, tanpa mengubah hakikat bahwa normalisasi adalah tentang penataan struktur data (bukan sekadar menghapus data).
+Repertoire & language
+Memanfaatkan kelenturan register: beralih dari analogi percakapan santai (teman), terminologi formal relational database (rekan teknis), wacana dampak operasional & risk management (manajer), bahasa manfaat langsung (customer), hingga penjelasan dampak sosial (publik).
+Response & adaptation
+Mengadaptasi umpan balik saat pengujian versi customer, di mana target awalnya sempat mengira normalisasi berarti “menghapus data”. Saya memperjelas bahwa yang diubah adalah tata cara penyimpanan data, bukan mengeliminasi informasi penting.
+Agreement/action
+Setiap audiens mampu menangkap esensi utama: rekan teknis sepakat pada rancangan skema tabel; manajer menyetujui dampak efisiensi operasional; customer dan publik merasa aman bahwa data mereka dikelola secara konsisten.
+Relationship outcome
+Terjalin komunikasi yang efisien dan inklusif; pendengar merasa dihargai tanpa kesan menggurui (condescending) atau pamer istilah teknis yang tidak perlu.
+Penggunaan AI
+Alat dan peran AI: Google Gemini (LLM) digunakan sebagai mitra uji pengecekan kognitif (critical sparring partner) untuk mengevaluasi kelima versi register dan memverifikasi konsistensi core meaning.
+Prompt atau instruksi penting: > “Periksa apakah kelima versi bahasa ini masih menyampaikan esensi inti normalisasi basis data yang sama. Apakah ada versi yang secara tidak sengaja mengubah makna menjadi sekadar menghapus data?”
+Bagian output yang digunakan, diubah, atau ditolak:
+Digunakan: Evaluasi AI bahwa penjelasan pada versi manajer dan publik sudah tepat berfokus pada dampak serta keandalan layanan.
+Diubah: Saran AI untuk versi teman yang awalnya menggunakan bahasa terlalu formal (“Sahabatku, bayangkan sebuah basis data…”); diubah manual menjadi bahasa percakapan sehari-hari yang natural (“Normalisasi itu intinya bikin database lebih rapi, bro…”).
+Ditolak: Usul alternatif dari AI yang menyederhanakan normalisasi menjadi kalimat “menghapus data duplikat”, karena secara konsep teknis hal tersebut tidak akurat dan berpotensi memicu salah kaprah.
+Pemeriksaan accuracy, privacy, dan authority: Tidak ada data privat atau sensitif yang digunakan. Keakuratan konsep functional dependency dan bentuk normal (1NF-BCNF) diverifikasi langsung berdasarkan kaidah ilmu basis data relational.
+Apa yang tetap Anda pelajari sebagai manusia: AI dapat menghasilkan berbagai alternatif padanan kata, namun sensitivitas untuk menangkap kebingungan lawan bicara dan memilih analogi yang tepat tetap memerlukan kesadaran dan empati manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Saat menguji coba versi customer kepada teman non-teknik, ia memahami bahwa tujuannya adalah mencegah pengulangan data. Namun, ia sempat bertanya: “Berarti data-data yang sama itu dihapus ya dari sistem?”
+Adaptation/replay: Saya langsung melakukan penyesuaian penjelasannya dengan menegaskan bahwa data tidak dihapus, melainkan cara penyimpanan dan strukturnya yang diatur ulang agar terhubung secara rapi tanpa perlu ditulis berulang kali.
+Next practice: Saat menjelaskan konsep teknis ke depannya, saya akan menyertakan analogi struktur organisasi sejak awal agar audiens tidak salah mengartikan penataan data sebagai tindakan penghapusan data.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Mengenali dengan cermat perbedaan tingkat pemahaman dan kebutuhan informasi dari kelima target audiens.
+Objective & State
+4
+Core meaning tetap terjaga utuh di seluruh versi tanpa ada distorsi makna teknis.
+Repertoire, Language & AI
+4
+Menguasai 5 variasi register bahasa secara kontras dan memanfaatkan AI secara kritis dengan seleksi mandiri.
+Response & Adaptation
+3
+Berhasil mengklarifikasi miskonsepsi target tentang “penghapusan data” melalui penjelasan tambahan yang intuitif.
+Agreement, Action & Relationship
+3
+Mampu menyampaikan materi teknis secara adaptif, menjaga rasa nyaman audiens, dan membangun pemahaman yang selaras.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Sabrina Aurelyn Sibarani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sabsibb.github.io/kipp-students/index.html
+- https://sabsibb.github.io/kipp-students/assets/logo.png
+- https://sabsibb.github.io/kipp-students/course/index.html
+- https://sabsibb.github.io/kipp-students/portfolio/index.html
+- https://sabsibb.github.io/kipp-students/examples/index.html
+- https://sabsibb.github.io/kipp-students/lk/index.html
+- https://sabsibb.github.io/kipp-students/slides.html
+- https://sabsibb.github.io/kipp-students/slides-pdf/index.html
+- https://sabsibb.github.io/kipp-students/assessment/index.html
+- https://sabsibb.github.io/kipp-students/about.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-01.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-06.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-07.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-08.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-09.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-10.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-11.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-12.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-13.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-14.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-15.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

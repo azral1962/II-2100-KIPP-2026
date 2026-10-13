@@ -1,0 +1,212 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 597
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Core Meaning
+Evidence
+1. Tabel Adaptation 5-Language Translation
+2. Evidence Understanding & Testing Target
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Oktober 2026, Pengerjaan Proyek Tugas Besar Algoritma dan Pemrograman (Pengembangan Browser menggunakan Bahasa C).
+Persons dan relationship: Penulis (Developer / Anggota Kelompok), Teman Kelompok (Friend), Rekan Tim Teknis (Technical Peer), Dosen / Koordinator Proyek (Manager), Mahasiswa Pengguna Browser (Customer/User), dan Audiens Komunitas / Presentasi (Public).
+Objective dan initial state:
+Initial state: Penulis telah menyelesaikan pengerjaan modul fitur yang menjadi tanggung jawab pribadi dan melakukan push ke repositori GitHub. Namun, modul tersebut memiliki dependency (keterkaitan langsung) dengan modul yang dikerjakan oleh dua anggota lain (Gawa dan Winda).
+Target objective: Mengomunikasikan status penyelesaian pekerjaan (implementation state) sekaligus memperjelas adanya dependency dan rencana adjustment pasca-integrasi ke 5 pemangku kepentingan tanpa menimbulkan misunderstanding bahwa proyek sudah selesai 100% secara sistem.
+Core Meaning
+Fakta inti yang tidak boleh berubah: 1. Bagian fitur yang menjadi tanggung jawab saya sudah selesai dikerjakan secara implementasi. 2. Kode program sudah berhasil di-push ke repositori GitHub. 3. Fitur tersebut memiliki keterkaitan (dependency) dengan fitur yang dikerjakan anggota lain (Gawa dan Winda). 4. Penyesuaian (adjustment) pada kode/interface mungkin masih diperlukan setelah fitur anggota lain selesai. 5. Penyesuaian dilakukan agar seluruh modul dapat terintegrasi sempurna dengan sistem utama.
+Evidence
+1. Tabel Adaptation 5-Language Translation
+Target / Character
+Versi Language
+Alasan Adaptasi Repertoire & Language
+Friend
+(Teman dekat / Anggota kelompok)
+“Bagian gw udah kelar kok, udah gw push juga ke GitHub. Cuma nanti kayaknya masih bakal gw utak-atik dikit karena fitur gw nyambung sama punya Gawa sama Winda. Jadi nunggu mereka kelar dulu, abis itu gw sesuain biar pas digabung semuanya nggak bentrok.”
+Repertoire: Informal status update + konteks singkat.
+Language: Kolokial/santai, tidak menggunakan istilah teknis kaku (dependency diganti “nyambung”), fokus pada aksi nyata (“biar nggak bentrok”).
+Technical Peer
+(Rekan developer / Evaluator kode)
+“Bagian fitur yang saya kerjakan sudah selesai dan sudah saya push ke GitHub. Saat ini implementasinya masih memiliki dependency dengan fitur yang dikerjakan Gawa dan Winda, jadi kemungkinan perlu ada adjustment pada interface atau bagian kode tertentu setelah implementasi mereka selesai. Setelah itu bagian saya akan saya sesuaikan supaya integrasinya bisa berjalan dengan fitur lainnya.”
+Repertoire: Technical status report.
+Language: Formal teknis, menggunakan istilah spesifik seperti implementation, dependency, interface, adjustment, dan integration karena audiens memahami domain rekayasa perangkat lunak.
+Manager / Project Coordinator
+(Dosen pembimbing / Koordinator)
+“Bagian fitur yang menjadi tanggung jawab saya sudah selesai dan sudah di-push ke repository. Namun, fitur tersebut masih memiliki dependency dengan dua fitur lain yang sedang dikerjakan anggota tim. Setelah kedua fitur tersebut selesai, saya akan melakukan penyesuaian pada bagian yang diperlukan agar proses integrasi dengan keseluruhan sistem dapat berjalan. Jadi status bagian saya saat ini sudah selesai secara implementasi, tetapi masih menunggu tahap integrasi dan adjustment.”
+Repertoire: Executive status brief (Status → Dependency → Next Action).
+Language: Terstruktur, manajerial, memisahkan secara eksplisit antara implementation status dan system integration status untuk manajemen risiko proyek.
+Customer / User
+(Pengguna akhir aplikasi)
+“Bagian fitur yang saya kerjakan sudah selesai dibuat. Saat ini kami masih melakukan penyesuaian dengan beberapa fitur lain agar semuanya dapat digunakan secara bersamaan. Setelah proses penyesuaian selesai, fitur tersebut akan menjadi bagian dari sistem secara keseluruhan.”
+Repertoire: Outcome-oriented explanation.
+Language: Sederhana, mengeliminasi jargon teknis dan infrastruktur internal (seperti GitHub, C language, repository, push), berfokus pada ketersediaan fitur bagi pengguna.
+Public
+(Audiens umum / Komunitas)
+“Dalam pengembangan proyek secara berkelompok, penyelesaian satu bagian belum selalu berarti seluruh pekerjaan langsung dapat digabungkan. Pada proyek browser yang kami buat menggunakan bahasa C, bagian yang saya kerjakan sudah selesai dan masuk ke repository, tetapi masih memiliki keterkaitan dengan fitur anggota lain. Karena itu, setelah setiap bagian selesai, kami tetap perlu melakukan penyesuaian dan integrasi agar seluruh fitur dapat berjalan sebagai satu sistem.”
+Repertoire: Conceptual explanation / Lesson learned.
+Language: Reflektif dan naratif, mengangkat pengalaman spesifik menjadi prinsip umum mengenai hubungan antara individual task completion dan system integration.
+2. Evidence Understanding & Testing Target
+Pesan status disampaikan secara langsung dalam grup koordinasi kelompok pengerjaan proyek.
+Bentuk Pesan yang Disampaikan: “Kerjaan gw dah kelar, dah gw push juga, paling nanti bakal ada penyesuaian soalnya fitur yang gw buat masih ada hubungan sama fitur lain… nanti gw benerin dan sesuaiin.”
+Umpan Balik Target & Pemahaman: Anggota kelompok memahami dengan tepat dua hal:
+Pengerjaan kode individual penulis tidak lagi menjadi blocker kelompok (karena sudah di-push ke GitHub).
+Status “selesai” yang dimaksud adalah selesai secara isolated module, sehingga mereka tahu bahwa setelah bagian mereka rampung, akan ada sesi testing/adjustment bersama.
+Evaluasi & Refinement: Penyampaian yang langsung menyertakan next action (“nanti gw benerin dan sesuaiin”) berhasil mencegah timbulnya asumsi keliru bahwa modul penulis sudah terintegrasi penuh tanpa perlu maintenance lebih lanjut.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Penulis memposisikan diri sebagai contributor yang transparan mengenai batas tanggung jawab dan keterkaitan kerjanya terhadap anggota tim lain.
+Objective & state
+Memastikan pesan bahwa tugas individu selesai tidak ditangkap secara keliru sebagai sistem utama selesai, dengan mempertahankan fakta dependency di seluruh versi.
+Repertoire & language
+Repertoire bergeser dari ragam obrolan tim santai, laporan teknis dev, ringkasan eksekutif dosen, penjelasan ramah pengguna, hingga abstraksi prinsip kerja kelompok.
+Response & adaptation
+Beradaptasi terhadap kerangka berpikir audiens: rekan teknis butuh tahu letak interface/dependency, sedangkan user hanya perlu tahu status kesiapan fitur.
+Agreement/action
+Menghasilkan kesepakatan tindakan yang jelas: rekan tim melanjutkan tugasnya tanpa cemas, dan sesi integrasi dijadwalkan setelah seluruh modul di-push.
+Relationship outcome
+Mencegah blaming culture atau konflik saat integrasi nanti, karena ekspektasi mengenai perlunya adjustment sudah disepakati sejak awal.
+Penggunaan AI
+Alat dan peran AI: Gemini digunakan sebagai validator konsistensi makna (meaning alignment) untuk mengevaluasi kelima variasi teks.
+Prompt atau instruksi penting: “Periksa apakah kelima versi kalimat mempertahankan fakta: tugas individu selesai, sudah di-push ke GitHub, ada dependency dengan anggota lain, dan butuh adjustment saat integrasi.”
+Bagian output yang digunakan, diubah, atau ditolak: Menerima masukan AI untuk mempertegas pemisahan kata “selesai implementasi” dan “selesai integrasi”. Menolak saran AI yang menambahkan detail arsitektur C-pointer berlebih pada versi Customer.
+Pemeriksaan accuracy, privacy, dan authority: Dipastikan nama rekan tim dan struktur proyek disajikan sesuai konteks perkuliahan tanpa mengekspos data pribadi sensitif.
+Apa yang tetap Anda pelajari sebagai manusia: Bahwa dalam kerja tim teknis, menyatukan pemahaman tentang status “selesai” memerlukan kepekaan bahasa agar tidak menimbulkan ketidaksesuaian ekspektasi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rekan kelompok merespons positif karena kejelasan status tersebut membantu mereka mengetahui kapan modul mereka harus disambungkan ke modul penulis.
+Adaptation/replay: Mengurangi istilah teknis yang ambigu saat memberikan update status cepat di grup perpesanan.
+Next practice: Selalu mengidentifikasi dan mengomunikasikan dependency sejak awal pengerjaan tugas kelompok, bukan hanya saat pengerjaan selesai.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima target dibedakan dengan sangat jelas berdasarkan tingkat pemahaman teknis dan kebutuhan informasinya.
+Objective & State
+4
+Distinction antara implementation completion dan system integration terjaga presisi di semua versi.
+Repertoire, Language & AI
+4
+Pergeseran dari kolokial → teknis → manajerial → user → publik sangat kontras; AI digunakan untuk validasi fakta.
+Response & Adaptation
+3
+Mengidentifikasi next action dan mengadaptasi ekspektasi tim, meski dokumentasi tulisan balasan target terbatas pada log chat.
+Agreement, Action & Relationship
+3
+Terdapat tindakan nyata berupa push ke GitHub dan kesepakatan jadwal adjustment bersama.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Siap dinilai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview Portfolio
+Portfolio KIPP-2 · Ahmad Ibrahim Alhakim
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rawrwrwr.github.io/Hikumikum/index.html
+- https://rawrwrwr.github.io/Hikumikum/assets/logo.png
+- https://rawrwrwr.github.io/Hikumikum/course/index.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/index.html
+- https://rawrwrwr.github.io/Hikumikum/examples/index.html
+- https://rawrwrwr.github.io/Hikumikum/lk/index.html
+- https://rawrwrwr.github.io/Hikumikum/slides.html
+- https://rawrwrwr.github.io/Hikumikum/slides-pdf/index.html
+- https://rawrwrwr.github.io/Hikumikum/assessment/index.html
+- https://rawrwrwr.github.io/Hikumikum/about.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-01.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-05.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-06.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-07.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-08.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-09.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-10.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-11.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-12.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-13.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-14.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-15.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#kompetensi-target
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#evidence-wajib
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#konteks-performance
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#core-meaning
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#evidence
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#tabel-adaptation-5-language-translation
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#evidence-understanding-testing-target
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#analisis-komunikasi
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#penggunaan-ai
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#self-assessment
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#assessment-dosen
+- https://rawrwrwr.github.io/Hikumikum/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

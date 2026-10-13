@@ -1,0 +1,225 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 654
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://muhrafifad.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+1. Konteks Performance
+2. Evidence (Rekonstruksi Percakapan)
+3. Analisis Komunikasi
+4. Penggunaan AI
+5. Feedback dan Tindak Lanjut
+6. Self-Assessment
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Nama Lengkap: Muhammad Rafi Fadillah NIM: 18225115 Program Studi: Sistem dan Teknologi Informasi Tanggal Pengisian: 29 September 2026
+1. Konteks Performance
+Tanggal dan setting: Jumat, 25 September 2026, pukul 20.00 WIB. Mengobrol santai di kosan setelah seharian penuh jadwal kuliah dan rapat himpunan. Persons dan relationship: Saya dan Dika (rekan sekelas dan satu kepanitiaan). Hubungan kami dekat, sering mengerjakan tugas bareng. Biasanya, jika dia mengeluh, saya langsung refleks bertindak sebagai “pakar pemecah masalah” yang menyodorkan solusi teknis. Objective dan initial state: Dika terlihat sangat kelelahan secara mental dan mulai mengeluhkan beban tugasnya. State awal: Saya gregetan ingin langsung menyuruhnya memakai aplikasi time management (Session/Pomodoro). Objective: Menahan ego untuk tidak langsung “memperbaiki” masalahnya, hadir mendengarkan secara utuh, memvalidasi perasaannya, dan mencapai kesepakatan tindakan yang dia inginkan.
+2. Evidence (Rekonstruksi Percakapan)
+Catatan percakapan direkonstruksi segera setelah obrolan selesai. Fokus saya adalah menahan solusi, melakukan parafrasa, menebak emosi (Tingkat 3), dan mengajukan Pertanyaan Emas.
+Dika: “Gila, gua capek banget minggu ini. Tugas STI numpuk, proker logistik jalan terus, gua sampai nggak tau mau ngerjain yang mana dulu. Malam bawaannya lemes aja.”
+Saya (Menahan asumsi & Parafrasa Makna): “Kalau gua nggak salah nangkep, yang bikin lu se-lelah ini sebenarnya bukan cuma karena jumlah kegiatannya, tapi lu lagi kesulitan nentuin skala prioritas hariannya. Bener gitu nggak?”
+Dika: “Nah iya bener! Gua ngerasa bersalah kalau mau istirahat, tapi dipaksa nugas juga otak udah buntu.”
+Saya (Tebakan Emosi & Validasi): “Sepertinya lu ngerasa cemas dan tertekan ya karena lu ngerasa harus tanggung jawab ke semuanya secara bersamaan?”
+Dika: “Iya, gua takut ada yang missed aja.”
+Saya (Pertanyaan Emas / Boundary): “Gua paham rasanya. Btw, saat ini lu cuma butuh didengerin aja keluhannya, mau dibantu metain pilihan prioritas bareng, atau butuh saran dari gua?”
+Dika: “Gua cuma pengen ngeluh aja sih sebenernya biar lega. Tapi kalau lu mau bantu, tolong ingetin gua aja buat bener-bener off buka laptop jam 9 malam ini biar gua bisa tidur.”
+Saya (Agreement/Action): “Oke, deal. Jam 9 malam teng, gua bakal chat atau samperin lu buat mastiin lu udah log out dari semua kerjaan.”
+3. Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Saya menahan karakter otomatis saya sebagai “Pakar Solusi” dan secara sadar memilih masuk sebagai “Pendengar yang Empatik”. Saya menyadari Dika sedang kelelahan mental, bukan krisis teknis.
+Objective & State
+State awal: Dika lelah, saya gatal ingin menyarankan aplikasi manajemen waktu. Objective: Mendengarkan tanpa interupsi tercapai. State akhir: Dika merasa tervalidasi dan lega, saya berhasil tidak menggurui.
+Repertoire & Language
+Saya menggunakan parafrasa (“Kalau gua nggak salah nangkep…”) untuk mengecek pemahaman. Penggunaan Pertanyaan Emas (“Saat ini lu cuma butuh didengerin atau butuh saran?”) memberikan otonomi penuh pada Dika untuk memilih kebutuhannya sendiri.
+Response & Adaptation
+Saat saya melakukan parafrasa, Dika merespons antusias (“Nah iya bener!”), tanda bahwa ia merasa dipahami. Adaptasi saya berhasil: alih-alih memberinya aplikasi, saya menyesuaikan diri dengan kebutuhannya untuk didengarkan.
+Agreement, Action & Relationship
+Agreement eksplisit: Saya sepakat menjadi akuntabilitasnya untuk mengingatkan off laptop pukul 21.00. Outcome relasi: Kepercayaan Dika meningkat karena ia tidak merasa dihakimi atau diceramahi.
+4. Penggunaan AI
+Saya tidak menggunakan AI untuk memanipulasi atau membuat percakapan ini. Percakapan terjadi secara nyata. AI (Claude/LLM) hanya saya gunakan di akhir untuk membantu menstrukturkan refleksi saya ke dalam format tabel rubrik (seperti contoh W03) agar lebih rapi dan sesuai dengan standar penilaian, tanpa mengubah esensi kejadian aslinya.
+5. Feedback dan Tindak Lanjut
+Feedback yang diterima (dari Dika): Setelah obrolan santai itu, Dika bilang, “Tumben lu nggak langsung nyeramahin gua suruh pakai alarm atau aplikasi aneh-aneh. Thanks ya udah dengerin.” Ini adalah bukti bahwa menahan solusi memberikan dampak kehadiran yang jauh lebih kuat.
+Adaptation / Next practice: Dalam 14 hari ke depan, saya berkomitmen melatih kebiasaan baru: setiap kali teman, pacar, atau Ibu menceritakan keluh kesahnya, saya akan menahan diri memberikan saran apa pun selama 3 menit pertama, dan wajib menutup sesi mendengarkan dengan “Pertanyaan Emas”.
+6. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Kehadiran & Menyimak Aktif
+4
+Menahan refleks memberi solusi instan; memberikan kontak mata penuh tanpa gawai.
+Pemisahan Fakta & Interpretasi
+4
+Melakukan parafrasa yang akurat tanpa bumbu asumsi (“yang bikin lu lelah bukan jumlahnya, tapi prioritasnya”).
+Pendalaman (Pertanyaan)
+4
+Mengajukan “Pertanyaan Emas” yang memberikan kebebasan bagi mitra untuk memilih jenis bantuan.
+Validasi & Otonomi (Action)
+4
+Memvalidasi kecemasan mitra; kesepakatan (agreement) tindakan terukur dibuat (mengingatkan off jam 9 malam).
+Total
+20/20
+Seluruh dimensi mencapai target dengan kelengkapan bukti dialog, parafrasa, dan kesepakatan tindakan.
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://muhrafifad.github.io/kipp-students/index.html
+- https://muhrafifad.github.io/kipp-students/assets/logo.png
+- https://muhrafifad.github.io/kipp-students/course/index.html
+- https://muhrafifad.github.io/kipp-students/portfolio/index.html
+- https://muhrafifad.github.io/kipp-students/examples/index.html
+- https://muhrafifad.github.io/kipp-students/lk/index.html
+- https://muhrafifad.github.io/kipp-students/slides.html
+- https://muhrafifad.github.io/kipp-students/slides-pdf/index.html
+- https://muhrafifad.github.io/kipp-students/assessment/index.html
+- https://muhrafifad.github.io/kipp-students/about.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-01.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-02.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-06.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-07.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-08.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-09.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-10.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-11.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-12.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-13.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-14.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-15.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#konteks-performance-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#evidence-rekonstruksi-percakapan
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html#self-assessment-1
+- https://muhrafifad.github.io/kipp-students/examples/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

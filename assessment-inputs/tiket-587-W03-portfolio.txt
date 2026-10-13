@@ -1,0 +1,124 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 587
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Empathic Listening, Active Paraphrasing & Boundary Setting – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Empathic Listening, Active Paraphrasing & Boundary Setting
+Indeks Portfolio
+Character Map & Dynamic Communication Adaptability
+Fact, Emotion, Story & Narrative Reframing
+Empathic Listening, Active Paraphrasing & Boundary Setting
+Multi-Audience Communication & Adaptation
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Bagian A: Pemetaan Konteks & Dinamika Relasi
+Bagian B: Transkrip Percakapan Verbal Real-Time (Verbatim Listening Evidence)
+Bagian C: Analisis Struktur OFNR (Observation, Feeling, Need, Request)
+Bagian D: Dampak Hasil & Pemeliharaan Relasi (Outcome)
+Empathic Listening, Active Paraphrasing & Boundary Setting
+Personal
+Communication
+Listening
+Transkrip percakapan real-time, penerapkan active listening (paraphrasing), kerangka OFNR, serta penegakan batasan diri tanpa mengorbankan relasi.
+Nama Mahasiswa: Winda Naila Nur Aisyah
+NIM: 18225069
+Tanggal Pengerjaan: 22 September 2026
+📄 Tautan Lembar Kerja: Buka Lembar Kerja (LK) Bab 03 Lengkap
+Bagian A: Pemetaan Konteks & Dinamika Relasi
+Lawan Bicara (Partner): M.R. (Rekan Tim Proyek)
+Karakter Partner: Sangat terstruktur, berorientasi target, mudah cemas jika ada detail teknis yang luput atau lupa disepakati.
+Kebutuhan Partner: Kejelasan action items dan kepastian bahwa tugas kelompok tidak terbengkalai.
+Batasan Diri Winda (Boundary): Harus menyelesaiakan sesi diskusi maksimal pukul 21.00 WIB untuk menjaga kesehatan fisik/mental dan menghindari overwork.
+Bagian B: Transkrip Percakapan Verbal Real-Time (Verbatim Listening Evidence)
+Skenario: Panggilan suara Discord / Zoom pada pukul 20.30 WIB menjelang batas waktu diskusi Winda.
+M.R. (00:01 - 00:15):
+“Win, ini kan kita baru bahas setengah dari modul backend. Kalau kita stop jam 21.00 sekarang, jujur aku khawatir banget besok pagi kita lupa sama alur logika yang tadi udah disketsain. Harusnya kita push lanjut aja sampai jam 23.00 malam ini biar kelar semua!”
+Winda — [Active Paraphrasing & Validasi Emosi] (00:16 - 00:32):
+“Aku nangkep banget kekhawatiranmu, R. Jadi kamu cemas kalau kita berhentiin diskusi sekarang, poin-poin alur backend yang udah kita coret-coret tadi malah lupa pas besok kita koding bareng, dan kamu maunya semua detail terdata rapi malam ini juga, bener gitu?”
+M.R. — [Konfirmasi & Penurunan Resistensi] (00:33 - 00:41):
+“Nah iya persis Win! Aku enggak tenang aja kalau belum ada catatan tertulisnya, takut besok kita mikir dari nol lagi pas koding.”
+Winda — [Formulasi Solusi Adaptif & Boundary Request] (00:42 - 01:10):
+“Oke, mengerti banget. Gimana kalau gini: aku tetap harus offline jam 21.00 untuk jaga kondisi, tapi di 15 menit terakhir ini (20.45-21.00) kita stop diskusi topik baru. Kita pakai 15 menit ini khusus buat rekap poin kunci logika backend ke halaman Notion kelompok. Jadi kamu dapet kepastian catatan rapi, dan aku tetap bisa istirahat tepat waktu. Gimana?”
+M.R. — [Kesepakatan / Deal] (01:11 - 01:18):
+“Wah, deal banget kalau gitu Win! Asal ada rekap di Notion jam 21.00, aku udah tenang kok. Yuk kita tulis ringkasannya sekarang.”
+Bagian C: Analisis Struktur OFNR (Observation, Feeling, Need, Request)
+Observation (Fakta Percakapan): M.R. meminta diskusi diperpanjang hingga pukul 23.00 WIB karena khawatir poin logika backend terlupa.
+Feeling (Pengakuan Emosi): M.R. merasa cemas dan tidak tenang; Winda tetap tenang dan empati tanpa panik.
+Need (Kebutuhan Tersembunyi): M.R. membutuhkan kepastian dokumen tertulis (reassurance); Winda membutuhkan stamina dan waktu istirahat yang cukup (boundary).
+Request (Penawaran Adaptif): Mengalihkan 15 menit tersisa untuk membuat rekap Notion bersama sebelum pukul 21.00 WIB.
+Bagian D: Dampak Hasil & Pemeliharaan Relasi (Outcome)
+Status Batasan Pribadi: Terjaga utuh (Winda offline tepat pukul 21.00 WIB).
+Kebutuhan Partner: Terpenuhi 100% (dokumen Notion rampung dan M.R. merasa tenang).
+Dampak Relasional: Kepercayaan (trust) antara Winda dan M.R. meningkat pesat karena Winda terbukti merespons kecemasan M.R. secara dewasa tanpa memicu konflik.
+Kembali ke atas
+Fact, Emotion, Story & Narrative Reframing
+Multi-Audience Communication & Adaptation
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-a-pemetaan-konteks-dinamika-relasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-b-transkrip-percakapan-verbal-real-time-verbatim-listening-evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-c-analisis-struktur-ofnr-observation-feeling-need-request
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html#bagian-d-dampak-hasil-pemeliharaan-relasi-outcome
+- https://ambreluee.github.io/kipp-students/lk/week-03.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,210 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 739
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mkafkaa.github.io/repo/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Lima character
+Evidence
+Analisis komunikasi
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Konteks performance
+Tanggal dan setting: Performance ini berlangsung pada 28–29 Mei 2026. Saya mengerjakan Tugas Besar Algoritma Pemrograman 1 pada 28 Mei pukul 21.00 sampai 29 Mei pukul 06.30, berkomunikasi secara daring dengan kelompok, dan menghadapi deadline pukul 07.00. Dampaknya berlanjut ketika saya menolak perjalanan keluarga pukul 07.00 dan tetap mengikuti Welcoming Party Explorer GDGoC pukul 13.00.
+Persons dan relationship: Pihak yang terlibat adalah diri saya sendiri, keluarga, teman dekat yang mengajak bermain game, empat teman satu kelompok, dan komunitas Explorer GDGoC. Nama dan data pribadi tidak dicantumkan.
+Objective dan initial state: Objective saya adalah menuntaskan tubes sebelum deadline, memahami bagian program, memastikan perubahan kode tidak saling menimpa, dan menyelesaikan laporan. Initial state: tugas belum selesai, waktu tersisa sampai pukul 07.00, kelompok membutuhkan koordinasi, dan perhatian terbagi antara coding, Git, laporan, serta komunikasi sosial.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-self — mahasiswa tekun dan problem-solver
+Diri saya sebagai mahasiswa yang bertanggung jawab terhadap hasil belajar dan deadline.
+Menuntaskan tubes dan memahami solusi; mengatur waktu, fokus, serta memeriksa hasil.
+Memecah masalah, membaca error, menguji perubahan, dan bertanya faktual: “Bagian mana yang belum berjalan dan bukti apa yang saya punya?”
+Kelelahan dapat menurunkan ketelitian; saya perlu memprioritaskan fungsi utama dan mencatat hal yang dipelajari.
+Family — anggota keluarga yang memprioritaskan tanggung jawab akademik
+Keluarga yang hendak bepergian pukul 07.00.
+Menyelesaikan tubes dan menyampaikan penolakan dengan hormat tanpa membuat keluarga menunggu.
+“Saya tidak ikut perjalanan kali ini karena baru selesai mengerjakan tubes dan perlu tidur.”
+Keluarga dapat kecewa; saya perlu memberi tahu lebih awal dan menjadwalkan komunikasi.
+Friends — teman yang menjaga fokus pada prioritas
+Teman dekat yang mengajak bermain game.
+Menolak sementara agar fokus, tanpa menghilang tanpa penjelasan.
+“Aku belum bisa ikut main karena sedang mengejar deadline tubes. Nanti kita atur waktu lagi.”
+Teman dapat merasa ditolak; saya perlu menyampaikan batas waktu dengan jelas.
+Academic — anggota kelompok dan pengelola Git
+Empat teman satu kelompok; saya mengelola Git dan koordinasi.
+Menjaga perubahan tercatat, mengurangi conflict, dan membantu laporan.
+Meminta penjelasan perubahan, mengingatkan pull/push, serta menulis pesan commit yang jelas.
+Commit tidak jelas atau perubahan bersamaan dapat menyebabkan conflict; saya perlu membuat commit kecil dan memeriksa diff.
+Community — explorer yang tetap hadir dan berpartisipasi
+Anggota Explorer GDGoC pada Welcoming Party pukul 13.00.
+Hadir, menyimak, dan berpartisipasi sesuai kemampuan.
+Bahasa sopan dan terbuka, menyimak, serta merespons ketika diperlukan.
+Kurang tidur dapat menurunkan partisipasi; saya perlu mengenali batas fisik.
+Evidence
+Riwayat commit Git selama pengerjaan tubes
+Artifact teknis: Screenshot riwayat commit/merge pada repository tubes (terlampir di atas).
+Screenshot memperlihatkan commit serta merge perubahan program pada 29 Mei 2026. Hash commit dapat digunakan untuk pencocokan jika repository dapat diakses kembali. Tautan repository yang tercantum pada screenshot saat ini tidak dapat diverifikasi (HTTP 404), sehingga screenshot adalah artifact teknis yang tersedia.
+Chat koordinasi pengujian lokal dan perubahan algoritma kelompok
+Screenshot chat menunjukkan saya meminta anggota menguji program secara lokal, mengonfirmasi bahwa masalah sudah diperbaiki, dan menerima usulan penambahan algoritma. Artifact ini mendukung koordinasi teknis kelompok, tetapi belum membuktikan respons keluarga atau teman terhadap batas sosial saya.
+Chat penolakan ajakan nongkrong dari teman
+Chat pemberitahuan tidak ikut perjalanan kepada keluarga
+Teman menerima penolakan saya dan mengusulkan waktu nongkrong lain. Mama menerima alasan saya tidak ikut perjalanan, menyarankan saya beristirahat dan menemani Eyang. Kedua screenshot ini memberi verifikasi eksternal bahwa batas sosial saya disampaikan dan diterima pada percakapan tersebut.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya menampilkan character mahasiswa, pengelola Git, anggota keluarga, teman, dan anggota komunitas sesuai relationship dan responsibility.
+Objective & state
+Kondisi awal adalah tubes dan laporan belum selesai dengan waktu terbatas. Setelahnya tugas selesai, tetapi saya kurang tidur dan perlu pemulihan.
+Repertoire & language
+Saya menggunakan debugging untuk diri sendiri, instruksi teknis untuk kelompok, bahasa santai kepada teman, bahasa hormat kepada keluarga, dan bahasa terbuka di komunitas.
+Response & adaptation
+Saya fokus pada deadline, menolak aktivitas yang mengganggu, tidak ikut perjalanan, dan tetap hadir di kegiatan komunitas meski kondisi fisik kurang ideal.
+Agreement/action
+Commit, merge, penyelesaian program, laporan, serta screenshot chat sosial dan teknis mendukung tindakan akademik dan penerimaan batas sosial.
+Relationship outcome
+Teman dan Mama menerima batas yang disampaikan berdasarkan balasan pada screenshot. Dampak jangka panjang terhadap hubungan belum dinilai.
+Feedback dan tindak lanjut
+Feedback yang diterima: Belum ada kutipan observer atau feedback sosial yang dilampirkan. Artifact chat hanya memverifikasi koordinasi teknis.
+Artefak yang masih dibutuhkan untuk revisi assessor: screenshot pesan atau testimoni singkat dari keluarga/teman yang menunjukkan bahwa penolakan perjalanan atau ajakan bermain dipahami dan dihargai. Artifact teknis Git/chat kelompok tidak menggantikan bukti tersebut.
+Adaptation/replay: Pada tugas berikutnya saya akan membuat checkpoint Git, mengirim ringkasan status, menyampaikan batas lebih awal, dan menyimpan screenshot chat yang dianonimkan serta feedback dengan izin.
+Next practice: Saya akan menetapkan waktu berhenti dan pemulihan agar partisipasi berikutnya tidak mengorbankan kesehatan.
+Catatan artifact relationship: Screenshot chat teman dan Mama sudah dilampirkan di atas. Artifact tambahan dapat digunakan jika tersedia, tetapi tidak lagi diperlukan untuk memverifikasi respons langsung pada episode ini.
+Pihak
+Pesan/batas yang disampaikan
+Respons tertulis pihak lain
+Waktu dan medium
+Keluarga atau teman
+[isi pesan yang benar-benar dikirim]
+[isi balasan atau testimoni dengan izin]
+[tanggal, waktu, chat/telepon]
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character dari lima domain dibedakan berdasarkan relationship dan responsibility.
+Objective & State
+4
+Deadline, kondisi awal, target, dan perubahan prioritas dijelaskan.
+Repertoire, Language & AI
+3
+Pilihan bahasa dibedakan sesuai konteks dan penggunaan AI dinyatakan.
+Response & Adaptation
+3
+Respons terhadap deadline, ajakan, perjalanan, dan kelelahan dianalisis.
+Agreement, Action & Relationship
+4
+Screenshot teman dan Mama memverifikasi bahwa batas disampaikan, dipahami, dan diterima pada percakapan tersebut.
+Total sementara: 17 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Muhammad Kafka Ghaisan Yusuf
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mkafkaa.github.io/repo/index.html
+- https://mkafkaa.github.io/repo/assets/logo.png
+- https://mkafkaa.github.io/repo/course/index.html
+- https://mkafkaa.github.io/repo/portfolio/index.html
+- https://mkafkaa.github.io/repo/examples/index.html
+- https://mkafkaa.github.io/repo/lk/index.html
+- https://mkafkaa.github.io/repo/slides.html
+- https://mkafkaa.github.io/repo/slides-pdf/index.html
+- https://mkafkaa.github.io/repo/assessment/index.html
+- https://mkafkaa.github.io/repo/about.html
+- https://mkafkaa.github.io/repo/portfolio/week-01.html
+- https://mkafkaa.github.io/repo/portfolio/week-02.html
+- https://mkafkaa.github.io/repo/portfolio/week-03.html
+- https://mkafkaa.github.io/repo/portfolio/week-04.html
+- https://mkafkaa.github.io/repo/portfolio/week-05.html
+- https://mkafkaa.github.io/repo/portfolio/week-06.html
+- https://mkafkaa.github.io/repo/portfolio/week-07.html
+- https://mkafkaa.github.io/repo/portfolio/week-08.html
+- https://mkafkaa.github.io/repo/portfolio/week-09.html
+- https://mkafkaa.github.io/repo/portfolio/week-10.html
+- https://mkafkaa.github.io/repo/portfolio/week-11.html
+- https://mkafkaa.github.io/repo/portfolio/week-12.html
+- https://mkafkaa.github.io/repo/portfolio/week-13.html
+- https://mkafkaa.github.io/repo/portfolio/week-14.html
+- https://mkafkaa.github.io/repo/portfolio/week-15.html
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#kompetensi-target
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#evidence-wajib
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#konteks-performance
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#lima-character
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#evidence
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#analisis-komunikasi
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#self-assessment
+- https://mkafkaa.github.io/repo/portfolio/week-01.html#assessment-dosen
+- https://mkafkaa.github.io/repo/assets/evidence/screenshot/git-history.jpeg
+- https://mkafkaa.github.io/repo/assets/evidence/screenshot/screenshot-chat.png
+- https://mkafkaa.github.io/repo/assets/evidence/screenshot/ss-whatsapp-temen.png
+- https://mkafkaa.github.io/repo/assets/evidence/screenshot/ss-whatsapp-mamah1.png
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,97 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 788
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Minggu 2 — Intra-Self Communication Journal
+PortfolioMinggu 2
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Indeks
+Intra-Self Communication Journal
+Evidence perubahan dari reaction menuju response.
+Minggu 2
+Status Siap dinilai
+Self 18
+Assessor —
+Fondasi Intra-Self
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Konteks performance
+Tanggal dan setting: 4 Oktober 2026, di kamar kos, sedang mengerjakan tugas tracing kode Assembly/MIPS mata kuliah Arsitektur Komputer.
+Persons dan relationship: Diri sendiri (Agas).
+Objective dan initial state: Mengubah emosi negatif dan rasa panik saat mengerjakan tugas menjadi rencana pemecahan masalah yang konkret. Initial state: Merasa stuck dan ingin menyerah karena tugas belum selesai padahal deadline sudah dekat.
+Evidence
+Jurnal Intra-Self:
+Event: Stuck selama lebih dari dua jam mencoba melakukan tracing kode Assembly MIPS untuk tugas Arkom.
+Fact: Aku belum menemukan letak logic error pada pembagian register, dan deadline tugas sisa 12 jam lagi.
+Emotion: Frustrasi, panik, dan merasa tertekan (overwhelmed).
+Initial Story: “Tugas low-level hardware ini terlalu susah buatku. Logika hardware-ku tumpul, aku pasti nggak akan bisa ngerjain ini sendiri. Mending aku pasrah aja atau nyari contekan.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Karakter awal: The Victim (merasa tidak berdaya). Karakter tujuan: Problem Solver / Reflective Learner.
+Objective & state
+Berpindah dari reaction (ingin lari dari masalah) menuju response (mencari metode debugging yang benar).
+Repertoire & language
+Mengubah internal language dari “Aku payah/nggak bisa” menjadi “Langkah apa yang kelewatan saat aku tracing?”
+Response & adaptation
+Alternative Narrative 1: “Soal tugasnya emang nggak masuk akal susahnya, wajar kalau aku nyerah.” (Menolak tanggung jawab).
+Alternative Narrative 2: “Aku stuck karena aku mencoba memahami kodenya sekaligus tanpa mencatat isi register. Kalau aku bikin tabel tracing di kertas, pasti ketemu letak error-nya.” (Mengambil kendali).
+Agreement/action
+Internal Agreement: Aku akan menjauh dari laptop 10 menit untuk ambil napas, lalu membuat tabel status register di kertas kosong sebelum lanjut men-debug.
+Relationship outcome
+Hubungan dengan diri sendiri menjadi lebih sehat; tidak gampang menyalahkan diri sendiri saat menghadapi jalan buntu.
+Penggunaan AI
+Saya menggunakan AI (Gemini) untuk membantu membedakan mana yang merupakan Fact dan mana yang merupakan Story dari curhatan awal saya tentang tugas tersebut.
+Feedback dan tindak lanjut
+Feedback yang diterima: AI menunjukkan bahwa kalimat “Aku pasti nggak akan bisa ngerjain ini” adalah story berbasis kepanikan sesaat, bukan fakta objektif dari kemampuanku.
+Adaptation/replay: Mengganti story tersebut dengan narasi yang berorientasi pada perbaikan sistematis (membuat tabel tracing manual).
+Next practice: Menulis Fact vs Story di catatan HP untuk meredakan kepanikan setiap kali merasa stuck ngerjain codingan sebelum bertindak reaktif.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Perpindahan dari Victim ke Reflective Learner sangat jelas
+Objective & State
+4
+Kepanikan berhasil diregulasi menjadi action plan
+Repertoire, Language & AI
+3
+Penggunaan AI dimanfaatkan untuk membedah bias kognitif
+Response & Adaptation
+4
+Alternative narrative berhasil menemukan akar masalah (tidak mencatat state secara manual)
+Agreement, Action & Relationship
+3
+Action plan (break 10 menit & bikin tabel) jelas dan realistis
+Total skor self-assessment18/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-02.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

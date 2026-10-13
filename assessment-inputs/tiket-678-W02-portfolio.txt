@@ -1,0 +1,204 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 678
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Konteks performance
+Evidence
+Analisis komunikasi
+Perubahan dari reaction ke response
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri, initial story dengan tiga alternative narratives, serta internal agreement dan bukti tindakan konkret.
+Episode
+Event: Minggu kedua pengerjaan Tubes Game Visual Novel (KWN), saya membuka Google Drive kelompok pukul 21.00 WIB dan melihat folder skrip dialog, flowchart logic, dan aset visual masih kosong—padahal tenggat waktu koordinasi teknis sudah lewat dan Zoom kelompok tidak dihadiri seluruh anggota.
+Lapisan
+Catatan Mahasiswa
+Fact (Fakta)
+Skrip dialog rinci, logic flowchart, dan aset visual belum diunggah ke Google Drive kelompok per 27 April pukul 21.00 WIB; Zoom koordinasi malam itu hanya dihadiri 2 dari 5 anggota.
+Initial story (Asumsi)
+“Anak-anak kelompok menyepelekan tugas berbobot 40% ini, malas, dan sengaja numpang nama dengan melimpahkan sisa pekerjaan teknis coding Ren’Py ke gua di menit-menit terakhir.”
+Emotion / body signal
+Marah (8/10), Cemas (8/10), Pusing (7/10). Sensasi fisik: Rahang menegang, napas agak pendek, dan ketikan jempol di layar HP terasa keras dan terburu-buru.
+Reactive character
+“Enforcer / Victim” yang merasa selalu jadi korban keegoisan deadliners, berkeinginan ngomel panjang di grup WA dan mengancam tidak akan merangkai kode game.
+Desired character
+“Technical Lead yang Curious” yang berfokus memahami hambatan rekan tim, menetapkan spesifikasi format teknis secara transparan, dan mengajak PM mereset alur kerja.
+Initial story melampaui fakta: Dari fakta “folder Drive masih kosong”, saya melompat ke kesimpulan “mereka malas dan numpang nama”. Faktanya, belum ada informasi mengenai kenapa aset belum diunggah—bisa jadi mereka kebingungan memahami standar format file yang dibutuhkan oleh engine Ren’Py.
+Alternative narratives
+Technical Specs Gap (Hambatan Teknis): Anggota divisi lain (Script & Art) sebenarnya sudah mencicil draft, tapi mereka bingung cara memformat skrip dialog dan ukuran gambar agar sesuai standar coding Ren’Py. Mereka diam karena stuck dan takut salah setor, bukan karena tidak kerja.
+Workflow & Communication Gap: Tidak ada panduan spesifikasi teknis (Technical Requirement) yang eksplisit dari saya sebagai programmer sejak awal proyek. Ini bukan soal mereka yang tidak bertanggung jawab, melainkan konvensi kerja kelompok yang belum kami definisikan bersama.
+Capacity & Overload Mismatch: Rekan tim mungkin sedang tertekan oleh tenggat tugas besar dari matkul lain dalam minggu yang sama, lalu merasa terintimidasi oleh kerumitan logika coding game sehingga menunda koordinasi.
+Alternatif pertama dan kedua paling berguna: Keduanya berbasis fakta yang tersedia, tidak menghakimi niat orang lain, dan langsung mengarahkan saya ke tindakan pemecahan masalah yang konkret—membuatkan panduan format input-output teknis yang mudah diikuti.
+Internal conversation dan agreement
+Enforcer (Reaktif): “Ini gak bisa didiemin. Ketik di grup sekarang, omelin mereka semua yang gak ada inisiatif. Ancam kalau malam ini gak setor, nama mereka gak usah dimasukin ke laporan!”
+Designer/Technical Lead (Refleksi): “Tahan dulu. Kalau lo ngamuk di grup, Owen (PM) makin pusing, suasana tim hancur, dan kode game tetep gak bakal jadi. Lo sendiri belum pernah ngasih contoh format aset yang bener kan?”
+Saya (Keputusan): “Oke, jeda 30 menit. Ambil napas, tulis dulu jurnal Fact vs Story di catatan HP. Habis itu susun instruksi teknis yang jelas berisi kriteria aset yang dibutuhkan, baru kirim pertanyaan terbuka ke grup.”
+Internal agreement: Sebelum mengirim pesan apa pun ke grup WA, saya wajib menuliskan 3 baris di catatan HP: Fact, Story, dan Pertanyaan yang sebenarnya ingin dijawab. Pesan yang dikirim harus berorientasi pada klarifikasi dan panduan kerja, bukan tuduhan.
+Konteks performance
+Tanggal dan setting: Minggu, 27 April 2026, pukul 21.00–22.00 WIB. Sesi pengerjaan mandiri di kamar kosan. Saya memeriksa repositori dan Google Drive kelompok sendirian dalam keadaan lelah setelah kuliah seharian.
+Persons dan relationship: Saya (programmer/teknis), Owen (Project Manager), Fathir (pembagi peran/koding), beserta anggota tim lainnya. Hubungan kerja kelompok baru berjalan beberapa minggu dan belum memiliki konvensi komunikasi teknis yang matang.
+Objective dan initial state: * Initial state: Saya hampir menumpahkan emosi dengan mengetik pesan kritik tajam di grup WA kelompok akibat prasangka initial story. * Objective: Mendapatkan kejelasan status pengerjaan aset dan membangun alur kerja teknis yang terstruktur tanpa merusak motivasi tim.
+Evidence
+1. Jurnal Fact vs Story (Ditulis di catatan HP sebelum mengirim pesan, 27 April 21.15 WIB): > - Fact: Folder Drive skrip & aset visual kosong per 21.00 WIB. Zoom koordinasi cuma dihadiri 2 orang. > - Story: Anak-anak sengaja lepas tangan dan numpang nama di tugas kelompok ini. > - Pertanyaan yang ingin dijawab: Kendala teknis apa yang bikin teman-teman belum bisa mengunggah aset dialog & gambar?
+2. Rekonstruksi Pesan yang Dikirim ke Grup WA Kelompok (27 April 21.36 WIB): > Saya (Zha): “Guys, gua mau cek progress buat bahan koding Ren’Py nih. Di Drive folder skrip sama art masih kosong, ada kendala teknis di format filenya atau ada bagian logika yang masih bingung gak? Gua ga nyalahin siapapun, cuma pengen tau konteksnya biar kita bisa ngerjain bareng dengan bener mulai hari ini. Ini gua buatin rangkuman format file yang dibutuhkan ya.”
+3. Tanggapan Tim di Grup WA (27 April 21.44 – 21.51 WIB): > Owen (PM): “Sip Zha, sorry banget tadi jujur gua bingung mbagi format skripnya biar gampang lo baca di kodingan. Thanks udah dijembrengin jelas. Ntar gua rapihin timeline baru berdasarkan arahan lu.”
+> Fathir: “Oke Zha, bagian gua yang masukin aset sama ngerubah dialog novel jadi code siap dilaksanakan malam ini.”
+4. Catatan Evaluasi Diri Pasca-Respons: Story awal saya (“mereka malas dan mau numpang nama”) patah sepenuhnya oleh satu pertanyaan terbuka. Hambatan utamanya memang ada pada ketidakjelasan format teknis.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya menyadari dua internal character yang aktif—Enforcer yang reaktif dan Technical Lead yang refleksif. Saya mengambil keputusan sadar untuk mendudukkan Technical Lead sebagai pengarah tindakan.
+Objective & state
+State awal: Hampir mengirim pesan emosional berbasis prasangka. Objective: Mendapatkan kejelasan alur teknis dan menjaga relasi tim. State akhir: Kedua objektif tercapai—tim paham format aset dan PM langsung memperbarui timeline.
+Repertoire & language
+Menggunakan penulisan jurnal 3 kolom (fact/story/question) sebagai alat penunda (interrupt) sebelum bereaksi. Pilihan kalimat terbuka (“ada kendala teknis… gua ga nyalahin siapapun”) memberi ruang psikologis yang aman bagi tim untuk jujur.
+Response & adaptation
+Jawaban dari Owen dan Fathir mengubah total story batin saya. Informasi ini langsung mengadaptasi alur pengerjaan: fokus utama dialihkan dari konfrontasi menjadi pembagian lembar spesifikasi teknis (technical sheet).
+Agreement/action
+Internal agreement dijalankan penuh (jeda 30 menit, penulisan jurnal, pesan berorientasi solusi). Tindak lanjutnya: saya menyusun template format .rpy sederhana agar divisi penulis skrip bisa langsung memakai.
+Relationship outcome
+Pengerjaan proyek berlanjut tanpa ketegangan. Anggota tim merasa dibimbing daripada dihakimi, ditandai dengan inisiatif Fathir yang langsung mengeksekusi konversi dialog malam itu juga.
+Perubahan dari reaction ke response
+Komponen
+Reaction (Enforcer)
+Response (Technical Lead)
+Trigger
+Folder Drive aset masih kosong di jam koordinasi.
+Interpretasi
+“Mereka malas, menyepelekan tugas, dan numpang nama.”
+“Mereka kemungkinan bingung format spesifikasi teknis Ren’Py.”
+Tindakan
+Mengirim tuduhan emosional di grup WA dan mengancam.
+Mengambil jeda 30 menit, menulis jurnal Fact/Story, mengirim pertanyaan terbuka.
+Outcome
+Konflik internal, motivasi tim hancur, kode game tetap tidak selesai.
+Informasi kendala terungkap, spesifikasi teknis jelas, proyek berjalan kembali.
+Penggunaan AI
+AI (Gemini) saya gunakan setelah kejadian selesai untuk satu hal khusus: 1. Memformulasikan Alternative Narratives: Saya memasukkan deskripsi situasi awal, lalu AI memberikan beberapa sudut pandang alternatif. Saya memilih narasi Technical Specs Gap dan Workflow Gap karena selaras dengan fakta di lapangan, serta menolak narasi dari AI yang terlalu menyalahkan kelemahan manajemen PM secara sepihak. 2. Batas Penggunaan AI: Keputusan menahan diri (jeda 30 menit), penulisan jurnal Fact vs Story, dan perancangan kalimat terbuka di grup WA dikerjakan 100% secara mandiri dan real-time di lapangan tanpa campur tangan AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: Respons positif dari Owen (PM) dan Fathir malam itu menjadi umpan balik langsung bahwa pendekatan eksploratif berhasil membuka jalan buntu tanpa memicu kemarahan.
+Adaptation/replay: Tiga hari setelah kejadian, saya mengajak Owen menyusun Cheatsheet Format Aset di Google Doc agar semua anggota tim memiliki acuan baku hingga tenggat akhir 4 Mei.
+Next practice (Sasaran Pertumbuhan Terukur): Setiap kali melihat indikator proyek tidak berjalan sesuai jadwal, saya menerapkan protokol pribadi: Tulis 3 baris (Fact, Story, Pertanyaan) sebelum merespons di grup komunikasi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Dua internal character (Enforcer vs Technical Lead) diidentifikasi secara eksplisit; pemilihan karakter yang memimpin tindakan dilakukan secara sadar.
+Objective & State
+4
+Objective ganda (kejelasan teknis + merawat relasi tim) dikelola bersamaan; pergeseran dari state emosional ke state terstruktur terdokumentasi jelas.
+Repertoire, Language & AI
+4
+Penulisan jurnal 3 kolom dipakai sebagai interrupt teknik yang konkret; bahasa pertanyaan terbuka dipilih dengan pertimbangan matang; batas AI tegas.
+Response & Adaptation
+4
+Respons narasumber (Owen & Fathir) memperbarui story sepenuhnya; adaptasi dilanjutkan dengan pembuatan cheatsheet format aset tim.
+Agreement, Action & Relationship
+4
+Internal agreement dijalankan penuh sesuai alokasi waktu; tindakan menghasilkan pemecahan masalah nyata dan mempererat hubungan kerja tim.
+Total: 20/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Ammar Zharif Fakhrudin
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://arzhaload.github.io/KIPP-arzha/index.html
+- https://arzhaload.github.io/KIPP-arzha/assets/logo.png
+- https://arzhaload.github.io/KIPP-arzha/course/index.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/index.html
+- https://arzhaload.github.io/KIPP-arzha/examples/index.html
+- https://arzhaload.github.io/KIPP-arzha/assessment/index.html
+- https://arzhaload.github.io/KIPP-arzha/about.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-01.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-03.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-04.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-05.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-06.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-07.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-08.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-09.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-10.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-11.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-12.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-13.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-14.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-15.html
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#kompetensi-target
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#evidence-wajib
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#episode
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#alternative-narratives
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#konteks-performance
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#evidence
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#analisis-komunikasi
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#perubahan-dari-reaction-ke-response
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#penggunaan-ai
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#self-assessment
+- https://arzhaload.github.io/KIPP-arzha/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,92 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 789
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Minggu 3 — Relationship Conversation
+PortfolioMinggu 3
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Indeks
+Relationship Conversation
+Evidence listening, boundary, request, atau repair.
+Minggu 3
+Status Siap dinilai
+Self 17
+Assessor —
+Fondasi Relationship
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+Konteks performance
+Tanggal dan setting: 23 September 2026, Chat WhatsApp dan obrolan di lorong kampus.
+Persons dan relationship: Agas dan Owen (Teman seangkatan). Owen sering meminta jawaban tugas tanpa berusaha mandiri.
+Objective dan initial state: Menetapkan batasan (boundary) agar Owen belajar mandiri ngerjain tugas awal Jaringan Komunikasi (pengenalan perintah dasar CLI), tanpa merusak pertemanan (repair & boundary). Initial state: Agas merasa dimanfaatkan, Owen merasa Agas bisa disalin jawabannya.
+Evidence
+Transcript percakapan (Paraphrase): Owen: “Gas, minta jawaban tugas pendahuluan Jaringan Komunikasi dong, aku belum kelar nih.” Agas: “Wen, kamu stuck di bagian mananya nih?” Owen: “Belum mulai hahaha, pusing aku bedain kegunaan ping, ipconfig, sama traceroute. Boleh liat catatanmu nggak?” Agas: “Gini Wen, aku ngerasa kurang nyaman kalau ngasih jawaban full gitu aja, karena materi ini kan pondasi awal banget buat praktikum ke depannya. Aku mau bantu kok, gimana kalau kita bahas bareng aja fungsi dasarnya? Kamu coba baca rangkuman modul halaman pertama dulu, nanti aku bantu jelasin bedanya.” Owen: “Oh.. oke deh. Iya juga sih takut amsyong pas mulai praktikum minggu depan. Sorry ya Gas sering ngerepotin. Nanti malem aku coba baca dulu deh.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya bertindak sebagai teman yang mendukung (Supportive Friend) sekaligus menjaga integritas akademis.
+Objective & state
+State awal: Owen meminta jawaban matang. State akhir: Owen setuju mencoba memahami konsep dasarnya sendiri.
+Repertoire & language
+Penggunaan kalimat “Aku ngerasa kurang nyaman kalau…” (I-statement) dipadukan dengan alasan pendukung (“ini pondasi awal banget”).
+Response & adaptation
+Owen menerima dengan baik karena penolakan saya dibarengi dengan reminder logis dan tawaran bimbingan.
+Agreement/action
+Owen akan membaca modul terlebih dahulu sebelum bertanya/berdiskusi malam ini.
+Relationship outcome
+Pertemanan tetap terjalin, rasa hormat meningkat karena batasan yang saling menguntungkan.
+Penggunaan AI
+Tidak menggunakan AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: Dari refleksi pribadi, I-statement yang disisipkan dengan “kepentingan Owen” (persiapan praktikum minggu depan) membuatnya lebih mudah diterima.
+Adaptation/replay: Jika Owen memaksa, saya akan menggunakan teknik “Broken Record” untuk mengulang batasan dengan tenang.
+Next practice: Melatih penggunaan I-statement untuk asertivitas sehari-hari di kampus.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Karakter asertif terbangun namun tetap bersahabat
+Objective & State
+4
+Boundary berhasil dikomunikasikan dengan jelas
+Repertoire, Language & AI
+3
+I-statement digunakan dengan tepat
+Response & Adaptation
+4
+Tawaran solusi dan reasoning logis meredakan potensi konflik
+Agreement, Action & Relationship
+3
+Kesepakatan tercapai, saling pengertian terbentuk
+Total skor self-assessment17/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-03.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

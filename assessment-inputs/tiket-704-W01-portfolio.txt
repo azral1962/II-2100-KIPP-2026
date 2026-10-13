@@ -1,0 +1,219 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 704
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+week-01 – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Assessment
+Profil
+Character Map Journal
+Indeks Portfolio
+Character Map Journal
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Character Map Journal
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Perubahan language antar character
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Character Map Journal
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self - Skeptical Systems Analyst
+Diri sendiri saat menelaah arsitektur perangkat lunak, algoritma, atau kertas kerja baru.
+Memisahkan optimasi nyata dari kemewahan overengineering; memastikan pemahaman fondasi teknis secara objektif sebelum mengimplementasikan solusi.
+Repertoire: Data-driven audit, analisis worst-case complexity, penelusuran dokumentasi dasar.
+Language: “Asumsi apa yang belum diuji di sini?”, “Berapa overhead kuantitatif dari pendekatan ini?”, “Mana buktinya?”
+Risiko: Analysis paralysis dan terlalu skeptis hingga memperlambat mengeksekusi ide.
+Latihan: Tuliskan batas good-enough threshold sebelum mulai membedah suatu konsep/masalah.
+Academic/Community - Lead Coordinator (Sistem Antrian & Proyek STI)
+Rekan mahasiswa/tim proyek perkuliahan dan mitra wirausaha/lokal.
+Menjaga keselarasan deliverables teknis (BPMN, Activity Diagram, basis data) dengan garis waktu dan ekspektasi pemangku kepentingan.
+Repertoire: Sesi standup terstruktur, matriks traceability, pendokumentasian kesepakatan dalam bentuk shared doc.
+Language: “Apa blocker utama hari ini?”, “Siapa owner untuk modul ini?”, “Apa kriteria selesai (definition of done) untuk sprint ini?”
+Risiko: Terlihat terlalu instruktif/directive atau berfokus pada tenggat hingga mengabaikan proses belajar rekan tim.
+Latihan: Ajukan pertanyaan reflektif: “Bagaimana pendekatan yang menurutmu paling efisien dari sudut pandang modulmu?”
+Community/UKM - Technical Mentor (Divisi Elektrik & Robotika URO)
+Anggota baru/calon staf teknis yang sedang mempelajari skema sirkuit dan pemrograman mikrokontroler.
+Membimbing dari konsep abstrak (pemrosesan sinyal/logika kontrol) ke bentuk implementasi fisik tanpa mengambil alih pekerjaan fisik mereka.
+Repertoire: Socratic questioning, simulasi langkah demi langkah, pembacaan lembar data (datasheet) bersama.
+Language: “Jika pin masukan ini diberi sinyal high, apa yang terjadi pada driver?”, “Mari cek diagram skematik di lembar data bersama-sama.”
+Risiko: Terlalu cepat memberikan jawaban teknis saat junior memendam kebingungan.
+Latihan: Terapkan jeda 5 detik setelah anggota menjawab sebelum memberikan konfirmasi.
+Friends/Peer Group - Analytical Sparring Partner
+Teman sebaya/rekan diskusi saat mengevaluasi pilihan hardware, arsitektur sistem, atau strategi belajar.
+Membantu membedah pilihan secara rasional tanpa menggurui atau memaksakan preferensi pribadi.
+Repertoire: Analisis komparatif matriks kelebihan-kekurangan, analisis biaya-manfaat (cost-benefit), pemetaan skenario trade-off.
+Language: “Apa prioritas utamamu: keandalan, harga, atau kemudahan perawatan?”, “Mari kita sejajarkan opsi A dan B di atas tabel.”
+Risiko: Terlihat dingin dan kaku saat rekan hanya membutuhkan validasi emosional atau dukungan.
+Latihan: Tanyakan di awal diskusi: “Kamu ingin kita bedah logikanya bersama atau sekadar ingin cerita dulu?”
+Work/Projects - Technical Communicator (Klien / Pemilik Usaha)
+Pemilik usaha lokal/pengelola bisnis yang menjadi mitra analisis sistem informasi.
+Menerjemahkan istilah teknis IT (BPMN, integrasi API, basis data) menjadi kebutuhan bisnis yang bernilai ekonomis dan mudah dipahami.
+Repertoire: Analisis alur nilai (value chain), demonstrasi wireframe interaktif, pemetaan proses bisnis sederhana.
+Language: “Sistem ini membantu memotong waktu tunggu pelanggan dari 10 menit menjadi 3 menit,” alih-alih menggunakan istilah “optimasi konkurensi basis data.”
+Risiko: Mengasumsikan klien memahami jargon teknis sehingga menimbulkan salah paham cakupan kerja.
+Latihan: Gunakan analogi fisik yang akrab dengan operasional harian klien sebelum menjelaskan logika sistem.
+Konteks performance
+Tanggal dan setting: Selasa, 14 April 2026, pukul 19:30–21:00 WIB. Sesi koordinasi teknis via Discord menjelang integrasi sistem antrian order dan pembayaran proyek Sistem Teknologi Informasi (STI).
+Persons dan relationship: Tim proyek yang terdiri dari 4 orang: Saya (Lead Coordinator & Backend Designer), M (Frontend Developer), F (Data/Business Analyst), dan K (Hardware/Integration Specialist). Hubungan profesional akrab berbasis kerja kelompok semester.
+Objective dan initial state:
+State awal: Terdapat ketidakcocokan format respons API antara backend dan antarmuka frontend, sementara tenggat deployment pengujian tinggal 24 jam. M (Frontend) merasa perubahan skema JSON dari backend mendadak dan merusak integrasi komponen yang sudah ia selesaikan.
+Objective: Menyepakati penyesuaian skema API dan pembagian ulang tugas penanganan error tanpa memicu sikap defensif, serta memastikan integrasi dapat diuji sebelum pukul 23:00 WIB.
+Evidence
+Rekonstruksi percakapan Discord (dari catatan/log koordinasi internal, nama diinisialkan): > Saya: “Sebelum kita putuskan harus mengubah kode di sisi mana, mari kita dudukkan dulu: respons status order apa yang saat ini dipanggil oleh komponen frontend buatan M?”
+> M (Frontend): “Gua udah pakai struktur array objek sesuai mockup awal. Kalau backend mendadak ngirim struktur bersarang (nested object) dengan metadata, semua state management di frontend patah dan gua harus merestrukturisasi dari awal.”
+> Saya: “Memang ada penambahan metadata di backend untuk kebutuhan audit log yang diminta F. Tapi gua paham kalau merestrukturisasi state di frontend butuh waktu lama. Apakah memungkinkan backend mengirim dua format (kompatibilitas balik) atau frontend cukup mengambil payload utama lewat middleware?”
+> F (Analyst): “Sebenarnya metadata audit itu hanya butuh dipanggil saat checkout selesai, bukan di setiap kueri daftar antrian.”
+> Saya: “Berarti kita punya opsi: metadata dipisah ke endpoint khusus audit, sehingga skema API daftar antrian utama tetap sesuai format awal M. Bagaimana kalau pendekatan ini yang kita ambil?”
+> M (Frontend): “Nah, kalau format daftar antrian tidak berubah, gua cuma butuh 15 menit buat nyambungin. Endpoint audit bisa diselesaikan setelahnya.”
+> K (Integration): “Setuju, jadi jadwal tes pengujian hardware tidak bentrok.”
+Catatan observer (F, Analyst, disampaikan via chat pribadi setelah sesi):
+“Gua hargai cara lu menjembatani komplain M tadi tanpa langsung nyalahin format frontend-nya. Tapi lu tadi sempat janji nambahin endpoint baru dalam 1 jam, jangan sampai lu sendiri yang kelelahan/overwork.”
+Dokumen API Contract di Notion/Shared Doc: Tersimpan; berisi pemisahan endpoint /api/v1/queue (skema lama) dan /api/v1/audit (skema baru) dengan penanggung jawab dan estimasi waktu yang jelas.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya hadir sebagai Lead Coordinator, bukan sebagai pemilik kode backend yang defensif. Saya menyadari M memiliki stakes emosional dan teknis—ia telah menginvestasikan waktu menyusun state management. Menolak keluhannya atau memaksakan format backend akan merusak kepercayaan dan efisiensi kerja tim.
+Objective & state
+State awal: Kebuntuan integrasi akibat perubahan skema API dan risiko friksi antar-anggota tim. Objective: Kesepakatan kontrak API yang realistis, menjaga moral kerja, dan ketercapaian uji integrasi. State akhir: Kesepakatan dicapai melalui pembagian endpoint, dokumen dioperasionalkan, dan jadwal pengujian tetap aman.
+Repertoire & language
+Menggunakan teknik reframing dan isolasi masalah (“mari kita dudukkan dulu”, “apakah memungkinkan backend mengirim…”). Penggunaan kata “kita” membingkai masalah integrasi sebagai tanggung jawab bersama, bukan kesalahan personal salah satu pengembang.
+Response & adaptation
+Respons kekecewaan M tidak ditanggapi dengan alasan teknis backend, melainkan divalidasi terlebih dahulu. Sinyal dari F (bahwa metadata hanya butuh di checkout) dimanfaatkan untuk menawarkan solusi kompromi (endpoint separation) tanpa mengorbankan fungsionalitas manapun.
+Agreement/action
+Agreement eksplisit: Saya memisahkan skema metadata ke endpoint audit terpisah; M menyelesaikan integrasi frontend dalam 15 menit; K menyiapkan modul perangkat keras untuk pengujian pukul 21:30 WIB.
+Relationship outcome
+Integrasi sistem berhasil diselesaikan pukul 22:15 WIB. Feedback dari F memperlihatkan bahwa ruang kolaborasi terjaga aman, tetapi memberi peringatan mengenai risiko over-commitment beban kerja personal saya.
+Perubahan language antar character
+Situasi yang sama—seorang rekan melaporkan bahwa integrasi modul mengalami kemacetan (stuck)—menghasilkan language yang berbeda tergantung character yang sedang aktif:
+Sebagai Lead Coordinator (Proyek STI), saya bertanya:
+“Di mana letak kemacetannya dan opsi penyesuaian apa yang paling cepat agar jalan integrasi tim tidak terhambat?”
+(Fokus pada kelancaran alur kerja tim, penyelesaian blocker, dan mitigasi tenggat).
+Sebagai Technical Mentor (UKM Robotika/URO), saya bertanya:
+“Mari kita lacak bersama: sinyal atau data apa yang diterima oleh modulmu saat terjadi eror, dan bagaimana kamu membaca diagram alurnya?”
+(Fokus pada pemahaman konsep dan kemampuan pemecahan masalah mandiri oleh mentee).
+Sebagai Skeptical Systems Analyst (Intra-Self), saya bertanya pada diri sendiri:
+“Apakah masalah ini bersumber dari kesalahan logika kode, ketidakcocokan spesifikasi, atau asumsi saya yang belum tervalidasi saat merancang arsitektur?”
+(Fokus pada pengujian asumsi pribadi dan pembuktian data secara independen).
+Objective yang berbeda menghasilkan repertoire dan language yang berbeda, meskipun lawan bicara menghadapi masalah teknis yang serupa.
+Penggunaan AI
+AI digunakan setelah sesi selesai untuk dua hal:
+Dekonstruksi bias dan pemisahan fakta dari interpretasi: Saya memasukkan transkrip rekonstruksi percakapan dan meminta AI mengidentifikasi bagian mana yang merupakan observasi objektif versus interpretasi emosional. AI menunjukkan bahwa kesimpulan saya bahwa “M menolak bekerja sama” di awal sesi adalah story/interpretasi, sedangkan fakta yang terjadi adalah M mempertahankan efisiensi waktu kerja yang sudah dialokasikannya.
+Penyusunan matriks character map: AI digunakan untuk memformat draf kelima character, namun saya secara aktif merombak ulang bagian “Risiko dan Latihan” karena draf generik AI tidak menggambarkan dinamika nyata proyek sistem informasi dan kegiatan laboratorium saya.
+Output AI yang ditolak: AI menyarankan character “Agile Scrum Master”. Saya menolaknya karena peran tersebut formalitas berlebihan yang tidak sesuai dengan konteks nyata tim proyek perkuliahan kami.
+Pembelajaran manusia: Kepekaan menangkap underlying concern rekan (seperti kelelahan M atau peringatan F tentang beban kerja saya) adalah kemampuan empati real-time yang tidak dapat digantikan oleh analisis AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: Pesan pribadi dari F (Analyst): “Gua hargai cara lu menjembatan komplain M tadi tanpa langsung nyalahin format frontend-nya. Tapi lu tadi sempat janji nambahin endpoint baru dalam 1 jam, jangan sampai lu sendiri yang kelelahan/overwork.”
+Adaptation/replay: Saya membalas pesan F dan mengonfirmasi alokasi beban kerja saya. Untuk mencegah over-commitment di masa mendatang, saya memperbarui cara pembagian tugas dengan tidak langsung mengambil semua backlog perbaikan di sisi backend sendirian.
+Next practice: Menutup setiap sesi koordinasi teknis dengan pertanyaan check-in kapasitas: “Dari penyesuaian ini, apakah ada beban kerja siapa pun yang menjadi tidak masuk akal untuk diselesaikan malam ini?”
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character dipetakan lintas 3 domain kehidupan berbeda secara konkrit; dinamika pergeseran peran dan beban kepemilikan (ownership) dianalisis secara mendalam.
+Objective & State
+4
+State awal, tujuan, dan state akhir dinyatakan eksplisit. Berhasil mengelola tujuan ganda (target teknis + keutuhan hubungan tim) secara seimbang.
+Repertoire, Language & AI
+4
+Repertoire dan language beradaptasi secara presisi sesuai character; batasan penggunaan AI didefinisikan dengan tegas dan output generik ditolak secara aktif.
+Response & Adaptation
+4
+Berhasil membaca kekhawatiran tersirat dari rekan (underlying friction), merespons tanpa defensif, dan menindaklanjuti peringatan overwork dari observer.
+Agreement, Action & Relationship
+4
+Agreement eksplisit tercapai dengan penanggung jawab dan tenggat jelas; perbaikan hubungan kerja bermuara pada pengujian sistem yang sukses dan retensi kepercayaan tim.
+Total: 20 / 20
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Dimas Nurizki Falah
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://dimasrizkk.github.io/kipp-students/index.html
+- https://dimasrizkk.github.io/kipp-students/assets/logo.png
+- https://dimasrizkk.github.io/kipp-students/course/index.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/index.html
+- https://dimasrizkk.github.io/kipp-students/examples/index.html
+- https://dimasrizkk.github.io/kipp-students/assessment/index.html
+- https://dimasrizkk.github.io/kipp-students/about.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-02.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-03.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-04.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-05.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-06.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-07.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-08.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-09.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-10.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-11.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-12.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-13.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-14.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-15.html
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#character-map-journal
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#perubahan-language-antar-character
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://dimasrizkk.github.io/kipp-students/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

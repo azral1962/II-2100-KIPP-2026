@@ -1,0 +1,190 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 708
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Adaptive & Multi-Audience Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Adaptive & Multi-Audience Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Adaptive & Multi-Audience Communication Journal
+Professional Discovery Interview Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+1. Transkrip Teks Langsung (Verbatim Chat Artifact)
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Adaptive & Multi-Audience Communication Journal
+Komunikasi
+Adaptive
+Menjaga core meaning melalui adaptasi register dan framing audiens.
+Kompetensi target
+Menyesuaikan gaya dan register komunikasi sesuai karakter audiens tanpa mengubah core meaning (makna inti) pesan, serta membuktikannya melalui respons nyata dari target.
+Evidence wajib
+Pemetaan karakter audiens dan penyesuaian register bahasa.
+Transkrip penjelasan pesan teknis (core meaning).
+Artefak respons langsung (direct response artifact) dari target yang dapat diverifikasi.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Mei 2026, Diskusi koordinasi teknis koding modul C / header file dan repositori Git melalui aplikasi pesan instan (WhatsApp).
+Persons dan relationship: Penulis (Developer / Peer) dan Gawa (Rekan Tim Pengembang / Peer).
+Objective dan initial state:
+Initial state: Terjadi misalignment awal mengenai kebutuhan integrasi fungsi C (fungsi F03 dan header file) karena perbedaan konteks dan posisi saat berkomunikasi.
+Objective: Mengadaptasi penjelasan teknis (framing) dari pertanyaan impulsif menjadi penjelasan alur ketergantungan modul C secara lugas, sehingga target memahami secara persis header dan nama fungsi yang dibutuhkan untuk di-include.
+Evidence
+Gambar 1: Bukti Respons dan Diskusi Chat Langsung dengan Target (Gawa)
+1. Transkrip Teks Langsung (Verbatim Chat Artifact)
+Untuk memvalidasi bahwa target benar-benar merespons dan memahami pesan teknis yang disampaikan, berikut adalah transkrip teks langsung dari tangkapan layar percakapan pada Gambar 1:
+Transkrip Diskusi Koordinasi Koding (24-25 Mei 2026):
+Penulis: “mas gaw”
+Penulis: “header lu namanya apa”
+Penulis: “gw mau include”
+Penulis: “function buat open page namanya apaan”
+Gawa: “Maaf baru jawab kim”
+Gawa: “Minta ss dong yg di git”
+Gawa: “Header”
+Gawa: “Yg mau include”
+Gawa: “Gw baru diluar,hehe”
+Penulis: “gapaham, mksdnya kek mana, hwhwh”
+Gawa: (Membalas pesan “gw mau include”): “Yg ini”
+[Reframing & Re-adaptation Core Meaning oleh Penulis]:
+Penulis: “jjur gapham, tpi mksd gw, gw butuh function F03, trus gw include aja header lu di implementasi header gw, jd gw butuh nama header lu sama nama function F03 buat gw masukin ke implementasi header gw”
+[Respons & Konfirmasi Langsung dari Target]:
+Gawa: “oit”
+Gawa: “gw ada salah cu,bau gw back dulu”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Target & Character
+Rekan programmer sebaya (Gawa) yang sedang berada di luar lingkungan kerja formal. Membutuhkan penjelasan teknis yang to-the-point dan adaptif sesuai konteks ketergantungan kode (module dependency).
+Core Meaning
+Penulis membutuhkan nama file .h (header) dan nama deklarasi fungsi F03 milik Gawa agar dapat di-#include ke dalam file implementasi C milik penulis.
+Adaptation & Framing
+Saat pertanyaan awal memicu kebingungan (“Minta ss dong yg di git”), penulis melakukan adaptasi ulang (reframing) dengan menguraikan alur teknisnya secara lugas dalam gaya bahasa peer yang santai.
+Target Response (Verifiable)
+Target merespons langsung (“oit”, “gw ada salah cu,bau gw back dulu”) yang menunjukkan kesadaran target terhadap status codebase dan repositori Git yang sedang disesuaikan.
+Relationship Outcome
+Komunikasi berjalan efektif tanpa membingungkan kedua belah pihak, serta koordinasi Git berlanjut secara kolaboratif.
+Penggunaan AI
+Alat dan peran AI: AI digunakan sebagai pemilah dan penyusun struktur analisis adaptasi komunikasi dari bukti percakapan nyata.
+Prompt atau instruksi penting: “Bantu petakan percakapan koordinasi koding ke dalam format Quarto Minggu 4 dan sertakan transkrip teks langsung sebagai bukti verifikasi respons target.”
+Bagian output yang digunakan, diubah, atau ditolak: Digunakan untuk penataan tabel analisis dan transkrip. Ditolak jika AI menambahkan dialog fiktif yang tidak ada pada gambar.
+Pemeriksaan accuracy, privacy, dan authority: Tangkapan layar evidence-chat.jpeg dan isi transkrip berasal murni dari percakapan WhatsApp pribadi bersama rekan tim.
+Apa yang tetap Anda pelajari sebagai manusia: Pentingnya melakukan penjelasan ulang (reframing) secara sabar saat pesan teknis awal tidak ditangkap sempurna oleh lawan bicara.
+Feedback dan tindak lanjut
+Feedback yang diterima (Tiket 597): Penilai membutuhkan artefak respons langsung yang dapat diverifikasi (in-document transcript & screenshot) untuk membuktikan bahwa target benar-benar memahami pesan.
+Adaptation/replay: Menyertakan bukti screenshot percakapan beserta transkrip teksnya pada setiap modul yang membutuhkan validasi umpan balik pihak ketiga.
+Next practice: Terus melatih kebiasaan technical framing yang rinci namun ringkas saat berkolaborasi dalam proyek koding bersama tim.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Terbukti memahami karakter lawan bicara dan menyesuaikan register peer/developer.
+Objective & State
+4
+Core meaning berhasil disampaikan melalui proses adaptasi ulang ketika terjadi misunderstanding.
+Repertoire, Language & AI
+4
+Menggunakan gaya bahasa adaptif yang tepat dan memanfaatkan AI untuk menyusun struktur transkrip secara rapi.
+Response & Adaptation
+4
+Berhasil melakukan adaptasi penjelasan teknis secara responsif berdasarkan balasan target.
+Agreement, Action & Relationship
+4
+Tervalidasi langsung lewat screenshot (Gambar 1) dan transkrip balasan konfirmasi dari target.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Perlu revisi
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview Portfolio
+Portfolio KIPP-2 · Ahmad Ibrahim Alhakim
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rawrwrwr.github.io/Hikumikum/index.html
+- https://rawrwrwr.github.io/Hikumikum/assets/logo.png
+- https://rawrwrwr.github.io/Hikumikum/course/index.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/index.html
+- https://rawrwrwr.github.io/Hikumikum/examples/index.html
+- https://rawrwrwr.github.io/Hikumikum/lk/index.html
+- https://rawrwrwr.github.io/Hikumikum/slides.html
+- https://rawrwrwr.github.io/Hikumikum/slides-pdf/index.html
+- https://rawrwrwr.github.io/Hikumikum/assessment/index.html
+- https://rawrwrwr.github.io/Hikumikum/about.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-01.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-02.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-03.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-05.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-06.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-07.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-08.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-09.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-10.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-11.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-12.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-13.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-14.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-15.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#kompetensi-target
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#evidence-wajib
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#konteks-performance
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#evidence
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#transkrip-teks-langsung-verbatim-chat-artifact
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#analisis-komunikasi
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#penggunaan-ai
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#self-assessment
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#assessment-dosen
+- https://rawrwrwr.github.io/Hikumikum/examples/week-04.html
+- https://rawrwrwr.github.io/Hikumikum/portfolio/images/evidence-chat.jpeg
+- https://rawrwrwr.github.io/Hikumikum/portfolio/week-04.html#fig-chat
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

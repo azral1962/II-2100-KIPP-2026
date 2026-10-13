@@ -1,0 +1,218 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 656
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+1. Konteks Performance
+2. Evidence (Wawancara & Transkrip Dialog)
+3. Analisis Komunikasi
+4. Penggunaan AI
+5. Feedback dan Tindak Lanjut
+6. Self-Assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Nama Lengkap: Muhammad Rafi Fadillah NIM: 18225115 Program Studi: Sistem dan Teknologi Informasi Tanggal Pengisian: 29 September 2026
+1. Konteks Performance
+Tanggal dan setting: Saat evaluasi singkat di sela-sela break Ishoma acara Aksi Angkatan (Semester 1). Kami berkoordinasi darurat di area luar kelas untuk mengatasi kebingungan perpindahan peserta SMA. Persons dan relationship: Saya (Anggota Logistik/Keamanan) dan Rian (Rekan sesama anggota Logistik). Kami satu divisi dan sering lembur bareng untuk loading barang, jadi trust level kami sangat tinggi dan bisa bicara blak-blakan. Objective dan initial state: Saat transisi sesi, instruksi keamanan dari Ketua Divisi sangat rumit dan panjang, membuat barisan peserta mulai tidak terkendali (berisiko cabut/kabur). Asumsi awal saya: Masalahnya murni karena Ketua Divisi tidak bisa memimpin dan Rian tidak paham instruksinya. Objective: Mewawancarai/berdiskusi singkat dengan Rian untuk merumuskan instruksi takedown darurat yang logis dikerjakan berdua, tanpa terlihat melangkahi otoritas Ketua Divisi.
+2. Evidence (Wawancara & Transkrip Dialog)
+Asumsi Awal (Sebelum Diskusi Darurat): - Ketua Divisi tidak becus bikin instruksi. - Solusi bayangan saya: Bikin form Google Sheets/absensi cepat di HP biar peserta yang lewat pos bisa didata pasti.
+Ringkasan Percakapan (Sesi Koordinasi Cepat 10 Menit): * Saya: “Yan, jujur briefing tadi panjang banget. Di posisi lu sekarang, yang paling bikin pusing ngejalanin instruksi Kadiv tadi apanya?” (Pertanyaan Penemuan: Kejadian) * Rian: “Gua bingung harus jaga pintu sekalian ngecek ID Card satu-satu sambil nuntun mereka ke aula. Tenaga kita cuma berdua Raf, anak SMA-nya ratusan. Kalau gua cek ID satu-satu, yang belakang udah pasti berhamburan.” * Saya: “Oh, jadi bukan karena lu nggak paham instruksinya, tapi karena bebannya mustahil dieksekusi sendirian dengan waktu se-mepet ini?” (Parafrasa) * Rian: “Iya, gila aja. Kalau sampai ada yang lolos cabut keluar kampus, divisi kita yang kena bantai.” (Dampak & Beban) * Saya (Menguji Solusi Awal): “Gimana kalau kita bikin form absen Google Sheets cepat aja? Tiap anak yang lewat pos, lu suruh ketik nama atau kita absen manual pakai HP.” * Rian (Menolak/Umpan Balik): “Makin kacau Raf. Posisi orang lagi jalan berdesakan, nyuruh ngetik di HP bakal bikin macet total di pintu. Pos bakal kosong melompong.” * Saya (Adaptasi Responsif Real-Time): “Oke, bener juga, Sheets terlalu birokratis buat kondisi lapangan. Ya udah, kita cut instruksi Kadiv jadi versi paling simpel. Lu standby di pintu kelas pure jadi stopper (nggak usah cek ID), gua di lorong arahin jalan. Tiap kloter habis, kita lapor ‘Clear’ pakai HT. Gimana?” * Rian: “Nah, kalau pure stopper dan lapor HT doang masuk akal. Ayo kita eksekusi.”
+Shared Problem Statement yang Dikonfirmasi Rian: “Anggota keamanan lapangan mengalami kemacetan flow peserta akibat instruksi pengecekan ID yang tidak realistis dengan jumlah personel yang ada, sehingga berisiko ada peserta yang lolos tanpa pengawasan. Kami membutuhkan penyederhanaan instruksi (cukup menjadi stopper tanpa cek ID) agar transisi cepat selesai, dengan tetap melaporkan status ke Ketua Divisi via HT agar ia tidak merasa dilangkahi.”
+3. Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Saya memposisikan Rian bukan sekadar prajurit pelaksana, tapi rekan diskusi yang feedback lapangannya (soal kemacetan) valid. Saya menahan ego sok tahu dari latar belakang IT saya.
+Objective & State
+State awal: Saya ingin memaksakan sistem Google Sheets. Namun setelah Rian merespons bottleneck di pintu, Objective saya bergeser seketika dari “bikin sistem” menjadi “menyederhanakan instruksi lapangan”.
+Repertoire & Language
+Saya menggunakan pertanyaan penemuan (open question), disusul parafrasa. Saat Rian menolak ide Sheets, bahasa saya langsung adaptif (“Oke, bener juga…”) dan fokus pada solusi taktis pengganti tanpa berdebat.
+Response & Adaptation
+Bukti adaptasi sangat eksplisit: penolakan Rian terhadap sistem Google Sheets langsung membuat saya membuang ide tersebut (ide IT/teknologi) dan beralih ke solusi lisan yang jauh lebih manusiawi dan praktis (stopper dan lapor HT).
+Agreement, Action & Relationship
+Agreement tercapai: Rian setuju dengan metode stopper & HT. Outcome: Peserta terkendali tanpa kemacetan, dan HT report tetap menjaga wibawa/otoritas Ketua Divisi.
+4. Penggunaan AI
+Saya tidak menggunakan AI saat melakukan diskusi problem solving ini di lapangan. AI hanya saya gunakan hari ini untuk membantu melabeli mana dari pengalaman nyata saya tersebut yang masuk kategori “Asumsi”, mana yang “Fakta”, dan mana yang merupakan proses “Adaptasi”, agar tertuang rapi dalam tabel sesuai tuntutan evaluasi rubrik KIPP.
+5. Feedback dan Tindak Lanjut
+Feedback yang diterima: Penolakan keras Rian terhadap ide penggunaan absensi Google Sheets adalah feedback terbaik. Ia menyadarkan saya bahwa solusi teknologi tidak selalu relevan di situasi operasional lapangan yang menuntut kecepatan massa. Adaptation / Next practice: Sebelum mewawancarai client atau rekan kerja untuk menawarkan solusi IT/Sistem Informasi di masa depan, saya harus mengecek constraint (batasan) operasional fisik mereka terlebih dahulu, bukan langsung berasumsi bahwa digitalisasi (aplikasi/form) adalah solusi utama.
+6. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Kualitas Mendengarkan
+4
+Menangkap akar masalah (kurang personel vs beban berlebih) melalui pertanyaan discovery terbuka kepada Rian.
+Ketepatan Rumusan Masalah
+4
+Shared problem statement dirumuskan tanpa menyebutkan solusi IT (Sheets/Aplikasi), fokus pada kemampuan stopper.
+Etika & Otoritas
+4
+Adaptasi responsif membuahkan solusi laporan HT yang melindungi wibawa/otoritas Ketua Divisi.
+Keandalan & Hubungan
+4
+Membuang ide awal yang ditolak secara lapang dada, membangun trust operasional yang solid dengan rekan.
+Total
+20/20
+Seluruh dimensi mencapai batas maksimal karena memuat bukti transkrip adaptasi penolakan solusi secara real-time.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://muhrafifad.github.io/kipp-students/index.html
+- https://muhrafifad.github.io/kipp-students/assets/logo.png
+- https://muhrafifad.github.io/kipp-students/course/index.html
+- https://muhrafifad.github.io/kipp-students/portfolio/index.html
+- https://muhrafifad.github.io/kipp-students/examples/index.html
+- https://muhrafifad.github.io/kipp-students/lk/index.html
+- https://muhrafifad.github.io/kipp-students/slides.html
+- https://muhrafifad.github.io/kipp-students/slides-pdf/index.html
+- https://muhrafifad.github.io/kipp-students/assessment/index.html
+- https://muhrafifad.github.io/kipp-students/about.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-01.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-02.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-03.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-04.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-06.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-07.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-08.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-09.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-10.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-11.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-12.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-13.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-14.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-15.html
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#konteks-performance-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#evidence-wawancara-transkrip-dialog
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut-1
+- https://muhrafifad.github.io/kipp-students/portfolio/week-05.html#self-assessment-1
+- https://muhrafifad.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

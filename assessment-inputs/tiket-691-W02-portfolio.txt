@@ -1,0 +1,165 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 691
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode: Keterlambatan Progres Tugas Besar Visual Novel “MIRROR”
+Event: Saya membagi jon description kepada anggota kelompok di grup WhatsApp, namun mereka hanya membaca pesan tersebut (read) dan tidak membalas apa pun selama beberapa jam.
+Fact (Pengamatan): Pesan saya berstatus ‘dibaca’ tetapi belum ada balasan selaam beberapa jam. Saat ditanya mengenai update progres pengerjaan beberapa hari kemudian, progresnya minim dan anggota kelompok secara eksplisit terlihat kebigungan dengan tugasnya.
+Initial story: Anggota kelompok tidak peduli dengan apa yang saya sampaikan. Mereka mengabaikan instruksi saya, meremehkan proyek tugas besar ini, dan menganggap saya bukan Project Manager yang tegas.
+Emotional/body signal: Kesal 7/10 (meraa tidak dihargai), cemas 7/10 (takut jadwal proyek terbengkalai), gelisah dan bolak-balik mengecek grup WhatsApp.
+Reactive character: “Sang Hakim” (langsung menganggap bahwa anggota kelompok malas, tidak peduli, dan tidak profesioal).
+Desired character: “Perencana” (fokus pada penyelesaian proyek dan pemecahan masalah) serta “Pembelajar” (mencari tahu akar masalah secara objektif tanpa menghakimi).
+Alternative Narratives: 1. Kebutuhan Saat Ini: Anggota kelompok mungkin sedang sibuk dengan jadwal kuliah lain, sehingga butuh waktu mencerna tugas yang diberikan dan baru sempat merespons “Ok” beberapa jam kemudian. 2. Kendala Teknis: Anggota kelompok mungkin sebenarnya bingung dengan job description yang saya berikan sejak awal, namun merasa sungkan atau tidak tahu bagaimana cara menanyakannya kepada saya.
+Evidence
+Catatan Percakapan WhatsApp (Rekonstruksi Kejadian):
+Pesan Awal saya: (Membagukan daftar job desc untuk masing-masing anggota kelompok) “Tolong dicek ya tugasnya masing-masing.” -> (Hanya di-read selama beberapa jam.)
+Respons Internal (Aplikasi Ruang Jeda): Menyadari emosi mulai naik dan “Sang Hakim” mulai mendominasi pikiran, saya secara sadar menunda membalas. Saya menahan diri untuk tidak mengirim spam atau marah di grup.
+Tindak Lanjut Eksternal: Selang beberapa jam, beberapa orang membalas “Ok”. Namun karena saat follow-up progresnya lambat, saya mengubah pendekatan komunikasi. Daripada menekan, saya bertanya secara asertif: “Apakah ada bagian dari job desc yang masih membingungkan dan perlu gua perjelas lagi?”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Terjadi transisi kesadaran yang sangat jelas. “Sang Hakim” bereaksi otomatis berprasangka buruk terhadap kelompok, namun saya berhasil menjedanya dan secara proaktid memanggil “Pembelajar” untuk menganalisis situasi lebih dalam.
+Objective & state
+Berhasil melakukan shifting total dari unhealthy state (merasa diremehkan dan reaktif) menuju healthy stae (fokus pada solusi manajerial dan komunikasi empatik).
+Repertoire & language
+Pemisahan yang tajam antara fakta objektif (“pesan di-read”, “anggota kelompok bingung”) dengan asumsi ilusif yang diciptakan ego (“meraka tidak peduli”).
+Response & adaptation
+Alih-alih merespons dengan ego kepemimpinan (memarahi anggota kelompk), saya beradaptasi dengan mengevaluasi gaya komunikasi dan efektivitas instruksi saya sendiri sebagai PM.
+Agreement/action
+Internal agreement menghasilkan kesimpulan matang: masalahnya ada pada kejelasan instruksi, bukan kepedulian anggota kelompk. Tindak korektif langsung diambil dengan menawarkan bantuan klarifikasi.
+Relationship outcome
+Menghindari konflik internal tim yang berpotensi merusak mood pengerjaan proyek. Hubungan profesional terjaga, dan anggota kelompok menjadi lebih terbuka menyampaikan kesulitannya.
+Penggunaan AI
+Menggunakan AI (Cermin AI) sebagai pelatih netral untuk menguraikan benang kusut pemaknaan.
+Promt: “Anggota kelompok proyek visual novel saya hanya membaca pesan pembagian tugas selama beberapa jam, dan saat mengerjakan mereka terlihat bingung. Awalnya saya kesal dan ngira mereka ngga peduli. Bantu saya pisahkan mana fakta dan mana asumsi saya secara objektif.”
+Output: AI memetakan dengan sangat presisi bahwa “hanya me-read” dan “terlihat bingung” adalah *fakta yang bisa diukur, sedangkan “tidak peduli” dan “meremehkan” adalah murni asumsi/vonis.
+Pembelajaran Manusia: AI bertindak seperti cermin rasional yang sangat efektif, namun keberanian untuk menekan ego, mengakui kelemahan sendiri (“Ternyata saya yang kurang ngasih penduan), dan meminta maaf kepada anggota kelompok adalah hasil dari kedewasaan emosional saya sepenuhnya.
+Feedback dan tindak lanjut
+Feedback yang diterima: Setelah pendekatan komunikasi diubah menjadi lebih empatik, anggota kelompok berani menyampaikan bahwa mereka memang kebingungan dengan detail teknis job desc tersebut. Asumsi awal saya terbukti 100% keliru. Kendala murni pada kurangnya kejelasan pendaun dari saya.
+Adaptation/replay: Mengubah narasi dari “Mengapa anggota kelompok saya tidak peduli?” menjadi pertanyaan yang memberdayakan: “Bagaiman cara saya menyusun instruksi yang lebih komprehensif agar anggota kelompk mudah bekerja?
+Next practice: Ke dapannya, saya mendelegasikan tugas (tasking), saya tidak akan sekadar melempar daftar job desc di grup. Saya akan menerapkan metode TIADA (Target, Attention, Interest, Desire, Action) dan mengadakan briefing singkat (bisa via **call group*) untuk memastikan pemahaman bersama sebelum eksekusi dimulai.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Sangat sadar menekan “Sang Hakim” dan mengaktifkan “Pembelajar” sebagai emosi mengambil alih.
+Objective & State
+4
+Bergeser total dari state reaktif (kesal) menjadi proaktif (solusi manajerial).
+Repertoire, Language & AI
+4
+AI dieksekusi sempurna untuk membedah bias kognitif; pemisahan fakta-asumsi sangat jernih.
+Response & Adaptation
+4
+Mampu merevisi ego kepemimpinan dan secara nyata mengevaluasi kekurangan diri sendiri.
+Agreement, Action & Relationship
+3
+Tindak korektif langsung diambil (komunikasi asertif), komunilasi anggota kelompok membaik signifikan.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-02.html#kompetensi-target
+- https://athus1104.github.io/repo/portfolio/week-02.html#evidence-wajib
+- https://athus1104.github.io/repo/portfolio/week-02.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-02.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-02.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-02.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

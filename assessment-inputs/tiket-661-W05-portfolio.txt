@@ -1,0 +1,211 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 661
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement pada alur pemantauan proyek harian, dengan deteksi weak signal dan pengungkapan kebutuhan yang belum tersampaikan secara langsung.
+Kompetensi target
+Mendengar sebelum proposing, mendeteksi weak signals, mengungkap kebutuhan yang belum disampaikan secara eksplisit, dan membangun shared problem statement dengan narasumber profesional.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Evidence weak signal dan pertanyaan eksploratif yang mengungkap kebutuhan tersembunyi.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting: Bulan September 2026, wawancara langsung tatap muka di area kerja narasumber, berdurasi sekitar 1 jam, dalam konteks analisis proses pemantauan pekerjaan harian dan pengambilan keputusan operasional.
+Persons dan relationship:
+Narasumber merupakan pemilik usaha / manajer operasional proyek. Hubungan awal adalah relasi profesional-kenalan, sehingga memerlukan pendekatan terstruktur agar diskusi tidak bergeser menjadi sekadar obrolan santai tanpa tujuan bisnis yang objektif.
+Objective dan initial state:
+- Initial state: Terdapat asumsi sepihak bahwa mitra membutuhkan aplikasi/sistem pencatatan proyek terpusat baru karena cara pemantauan saat ini masih tergolong manual.
+- Objective: Menggali akar masalah operasional yang sebenarnya, menahan dorongan mempresentasikan solusi teknis di awal (no premature proposing), membaca sinyal-sinyal kecil dalam jawaban narasumber, mengungkap kebutuhan yang belum terucap secara eksplisit, dan menyepakati rumusan masalah bersama (shared problem statement).
+Evidence
+1. Asumsi Awal vs Realitas
+Asumsi Awal Mahasiswa: Mitra membutuhkan aplikasi atau sistem informasi pencatatan proyek terpusat yang baru untuk menggantikan proses pemantauan manual.
+Realitas Lapangan: Hambatan utama bukan pada media pencatatan (Excel), melainkan keterbaruan data (data freshness) dan kebutuhan akan kepastian sebelum mengambil keputusan ketika informasi di rekap belum diperbarui oleh tim di lapangan.
+2. Pertanyaan Penemuan Kebutuhan (5 Pertanyaan Inti)
+Observasi: “Bisa diceritakan Pak, terakhir kali Bapak perlu mengecek perkembangan salah satu proyek yang sedang jalan, alurnya seperti apa?”
+Dampak: “Di antara dua hal ini, mana yang paling mengganggu operasional: waktu yang habis untuk membuka file, atau rasa ragu karena datanya belum tentu kondisi terbaru?”
+Konteks Peran: “Seberapa besar dampaknya ke keputusan bisnis ketika status progres proyek di lapangan belum pasti?”
+Aspirasi: “Kondisi ideal seperti apa yang diharapkan agar pemantauan proyek tetap pasti tanpa menghambat alur kerja?”
+Batas (Constraint): “Jika alur pemantauan ini nanti dirapikan, hal penting apa yang tidak boleh berubah atau tidak boleh terganggu?”
+3. Weak Signal Detection & Hidden Need
+Weak Signal: Saat menjelaskan alur pemantauan, narasumber beberapa kali menggunakan kata “ragu” dan “cek lagi”, bukan secara langsung mengatakan bahwa proses tersebut menghambat keputusan bisnis. Saya menangkap pola tersebut sebagai sinyal bahwa masalahnya mungkin lebih besar daripada sekadar file Excel yang belum diperbarui.
+Pertanyaan Eksploratif: Alih-alih langsung menyimpulkan, saya menggali lebih jauh:
+“Tadi Bapak bilang kalau datanya masih bikin ragu, Bapak biasanya cek lagi ke orang lapangan. Biasanya setelah harus cek lagi seperti itu, ada keputusan yang jadi ikut ketahan nggak, Pak?”
+Kebutuhan yang Muncul: Narasumber kemudian menjelaskan bahwa dalam kondisi tertentu ia memang memilih menunda keputusan seperti pengadaan material sampai mendapatkan kepastian dari tim lapangan.
+Hidden Need: Dari jawaban tersebut, saya memahami bahwa kebutuhan sebenarnya bukan sekadar “data yang selalu update”, tetapi kepastian informasi yang cukup untuk mengambil keputusan tanpa harus melakukan follow-up manual berulang kali.
+4. Replay Weak Signal (Simulasi)
+Catatan: Bagian ini merupakan replay/simulasi berdasarkan situasi wawancara untuk melatih respons terhadap weak signal sebelum narasumber menyebutkan kebutuhan secara eksplisit.
+Narasumber:
+“Biasanya saya buka Excel dulu. Kalau masih kurang yakin ya saya tanyain anak lapangan.”
+Saya:
+“Boleh saya gali sedikit, Pak? Tadi Bapak bilang ‘kurang yakin’. Biasanya yang bikin Bapak belum yakin itu karena datanya belum di-update, atau ada hal lain?”
+Narasumber:
+“Biasanya update-nya memang belum masuk. Kadang saya sebenarnya sudah mau lanjut, tapi saya tahan dulu karena belum tahu kondisi terakhirnya gimana.”
+Saya:
+“Berarti yang bikin berat bukan cuma harus buka file atau chat orangnya, tapi Bapak jadi belum bisa yakin untuk lanjut ambil keputusan sebelum dapat konfirmasi itu ya?”
+Narasumber:
+“Iya, kurang lebih begitu. Kalau soal material misalnya, saya nggak mau asal pesan kalau progres lapangannya sendiri belum jelas.”
+Saya:
+“Oke, berarti kebutuhan utamanya lebih ke kepastian informasi sebelum keputusan diambil, bukan sekadar mengganti Excel dengan aplikasi baru?”
+Narasumber:
+“Iya, kalau dipikir-pikir memang yang penting saya yakin datanya benar-benar kondisi terbaru.”
+Insight: Replay ini menunjukkan alur weak signal → probing → hidden need → business impact. Saya tidak langsung memberi solusi, tetapi menguji interpretasi saya melalui pertanyaan sampai kebutuhan tersebut dikonfirmasi oleh narasumber.
+5. Kutipan Kunci & Parafrasa
+Kutipan Kunci Narasumber: “Biasanya saya buka file Excel rekap dulu buat lihat statusnya. Nah, kalau informasinya di situ kurang jelas atau ragu, baru saya telepon atau chat lagi orang yang pegang proyek di lapangan.”
+Parafrasa Mahasiswa (Mengecek Pemahaman): “Berarti data awal sebenarnya sudah ada di rekap Excel, tetapi untuk memastikan kondisi paling update di lapangan, Bapak masih harus konfirmasi manual lagi ke tim ya?”
+Konfirmasi Narasumber: “Iya betul. Soalnya sering kali file Excel itu belum sempat di-update sama anak-anak lapangan pas mereka lagi padat kerjaan.”
+6. Evolusi Pernyataan Masalah
+Draf Awal (Sebelum Konfirmasi):
+Mitra membutuhkan sistem informasi pencatatan proyek terpusat berbasis aplikasi untuk mendigitalkan seluruh alur pemantauan progres harian.
+Draf Final / Shared Problem Statement (Setelah Konfirmasi):
+> Pemilik usaha dan pengambil keputusan mengalami kesulitan mendapatkan gambaran terbaru mengenai perkembangan proyek ketika informasi di rekap Excel belum selalu diperbarui oleh tim lapangan, sehingga pengambilan keputusan operasional dan pengadaan material dapat tertahan karena membutuhkan konfirmasi manual tambahan.
+Mereka membutuhkan mekanisme pemantauan yang memberikan kepastian informasi proyek yang terbaru dan andal, dengan mempertimbangkan keterbatasan waktu tim site dan tidak menambah beban kerja administrasi di lapangan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Narasumber adalah pengambil keputusan yang berorientasi praktis dan berhati-hati terhadap beban kerja staf site. Saya harus aktif memandu percakapan agar tetap berfokus pada peran dan misi bisnis (komunikasi profesional), bukan sekadar perbincangan umum.
+Objective & state
+Menggeser tujuan dari yang awalnya ingin “merekomendasikan aplikasi pencatatan baru” menjadi “memahami kendala keterbaruan data dan kebutuhan kepastian keputusan di balik pemantauan proyek”. State awal berupa asumsi fitur bergeser ke pemahaman kebutuhan operasional yang lebih mendalam.
+Repertoire & language
+Menghindari jargon teknis arsitektur perangkat lunak. Menggunakan bahasa masalah berbasis alur kerja sehari-hari (keandalan data, waktu konfirmasi, kepastian keputusan, beban admin lapangan). Saya menggunakan pertanyaan terbuka, parafrasa, dan probing berbasis sinyal tanpa langsung mengarahkan narasumber pada solusi tertentu.
+Weak Signal & Discovery
+Saya menangkap kata dan pola seperti “ragu”, “cek lagi”, dan kebutuhan melakukan konfirmasi manual sebagai sinyal yang belum sepenuhnya menjelaskan akar masalah. Saya kemudian menggali dampaknya sehingga kebutuhan yang sebelumnya tidak disebut secara langsung, yaitu kepastian sebelum mengambil keputusan, dapat muncul dan dikonfirmasi.
+Response & adaptation
+Sadar akan jebakan Prescription Trap, saya menahan diri untuk tidak langsung menyarankan software tertentu di awal. Saat menemukan sinyal keraguan dan pola konfirmasi manual, saya mengubah arah pertanyaan untuk menggali dampak keputusan terlebih dahulu sebelum masuk ke alternatif solusi.
+Agreement/action
+Menghasilkan kesepakatan bersama mengenai shared problem statement yang menitikberatkan pada kepastian data terbaru dan keputusan operasional, bukan sekadar pemodelan sistem baru yang membebani.
+Relationship outcome
+Kepercayaan profesional meningkat karena narasumber merasa didengarkan secara mendalam. Saya tidak berhenti pada masalah yang diucapkan secara eksplisit, tetapi berusaha memahami konsekuensi bisnis di balik pola kerja yang disampaikan.
+Penggunaan AI
+Alat dan peran AI: Menggunakan AI (Gemini) sebagai mitra diskusi untuk menstrukturkan catatan wawancara ke dalam kerangka 5 Pertanyaan Penemuan Kebutuhan, mengidentifikasi kemungkinan weak signals, dan memvalidasi rumusan Shared Problem Statement.
+Prompt atau instruksi penting: Meminta AI mengidentifikasi bagian percakapan yang mungkin merupakan sinyal kebutuhan tersembunyi, lalu menghasilkan pertanyaan eksploratif yang tetap netral dan tidak mengarahkan narasumber ke solusi tertentu.
+Bagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur formulasi problem statement dan beberapa alternatif pertanyaan eksploratif; menolak saran AI yang terlalu cepat mengasumsikan kebutuhan software tertentu karena dapat mengembalikan saya ke prescription bias.
+Pemeriksaan accuracy, privacy, dan authority: Nama spesifik pemilik dan data proyek dianonimkan untuk menjaga privasi. Seluruh poin analisis wawancara diverifikasi berdasarkan fakta percakapan lapangan. AI hanya membantu menemukan kemungkinan pola dan menyusun pertanyaan; penentuan kebutuhan akhir tetap dikonfirmasi kepada narasumber.
+Apa yang tetap Anda pelajari sebagai manusia: Discovery yang baik bukan hanya mendengar apa yang dikatakan, tetapi juga peka terhadap kata-kata kecil dan pola kerja yang mengindikasikan masalah yang lebih dalam. Namun, sinyal tidak boleh langsung dianggap sebagai fakta; sinyal harus diuji melalui pertanyaan dan konfirmasi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Narasumber mengapresiasi karena fokus diskusi bergeser ke keandalan data dan beban kerja staf: “Bagus kalau sudut pandangnya begitu, karena mau pakai sistem apa pun kalau anak-anak lapangan merasa ribet menginput, datanya tetap tidak akan update.”
+Adaptation/replay: Dalam replay saya berlatih untuk tidak menunggu narasumber menyebut kebutuhan secara langsung. Ketika muncul sinyal “kurang yakin” dan kebiasaan mengecek ulang ke lapangan, saya menggali konsekuensi dari kondisi tersebut. Hasilnya, kebutuhan yang lebih dalam dapat dirumuskan sebagai kebutuhan akan kepastian informasi sebelum mengambil keputusan.
+Next practice: Pada wawancara discovery berikutnya, saya akan secara aktif mencatat weak signals seperti “ragu”, “biasanya saya cek lagi”, perubahan nada, atau pola workaround. Setiap sinyal akan saya uji dengan pertanyaan eksploratif tentang dampak sebelum saya mulai membahas alternatif solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Berhasil menavigasi interaksi menjadi perbincangan profesional yang saling menghargai peran bisnis dan kendala lapangan.
+Objective & State
+4
+Berhasil bergerak dari asumsi solusi menuju pemahaman kebutuhan operasional yang eksplisit maupun tersembunyi, lalu merumuskan shared problem statement.
+Repertoire, Language & AI
+4
+Menggunakan pertanyaan terbuka, parafrasa, probing berbasis weak signal, dan AI secara etis tanpa membiarkan AI mendikte solusi.
+Response & Adaptation
+4
+Mampu menahan diri dari premature proposing dan menggali sinyal samar sampai ditemukan kebutuhan yang lebih dalam sebelum solusi dibahas.
+Agreement, Action & Relationship
+4
+Mendapatkan validasi atas rumusan masalah bersama, menghubungkan masalah dengan dampak keputusan, dan memperkuat kredibilitas serta kepercayaan narasumber.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Sabrina Aurelyn Sibarani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sabsibb.github.io/kipp-students/index.html
+- https://sabsibb.github.io/kipp-students/assets/logo.png
+- https://sabsibb.github.io/kipp-students/course/index.html
+- https://sabsibb.github.io/kipp-students/portfolio/index.html
+- https://sabsibb.github.io/kipp-students/examples/index.html
+- https://sabsibb.github.io/kipp-students/lk/index.html
+- https://sabsibb.github.io/kipp-students/slides.html
+- https://sabsibb.github.io/kipp-students/slides-pdf/index.html
+- https://sabsibb.github.io/kipp-students/assessment/index.html
+- https://sabsibb.github.io/kipp-students/about.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-01.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-02.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-03.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-04.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-06.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-07.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-08.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-09.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-10.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-11.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-12.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-13.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-14.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-15.html
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://sabsibb.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

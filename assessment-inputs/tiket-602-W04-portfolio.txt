@@ -1,0 +1,242 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 602
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks Personal
+Core Meaning
+Peta Target dan Lima Versi
+Uji Konsistensi Meaning
+Feedback Understanding dan Adaptation
+Evidence Tindakan dan Outcome
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Menerjemahkan pengalaman pribadi setelah uji coba prototype lomba untuk lima target.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Konteks Personal
+Saya mengikuti lomba desain aplikasi bersama tiga teman. Tim kami membuat prototype aplikasi pencatatan tugas untuk mahasiswa. Sehari sebelum pengumpulan, saya meminta seorang teman mencoba alur menambah tugas dan menyimpannya tanpa diberi petunjuk.
+Pada percobaan pertama, ia membutuhkan sekitar 90 detik dan sempat berhenti karena tidak menemukan tombol simpan. Tim kemudian mengubah posisi tombol, mengganti labelnya dari “Selesai” menjadi “Simpan Tugas”, dan meminta orang yang sama mencoba ulang. Pada percobaan kedua ia menyelesaikan alur sekitar 35 detik tanpa petunjuk. Prototype revisi kemudian kami masukkan ke berkas pengumpulan sebelum tenggat. Hasil lomba belum diumumkan.
+Nama orang lain diganti dengan inisial B, K, M, dan U.
+Core Meaning
+Lima fakta yang harus tetap sama pada seluruh versi:
+Saya dan tim membuat prototype aplikasi pencatatan tugas untuk lomba.
+Pada percobaan pertama, U kesulitan menemukan tombol simpan dan membutuhkan sekitar 90 detik.
+Tim mengubah posisi serta label tombol, lalu U menyelesaikan percobaan kedua sekitar 35 detik tanpa petunjuk.
+Prototype revisi sudah dikumpulkan, tetapi hasil lomba belum diumumkan.
+Percobaan kedua dilakukan oleh orang yang sama, sehingga hasilnya belum membuktikan semua pengguna pasti lebih cepat.
+Core meaning tersebut memisahkan observation dari klaim. Saya boleh menyampaikan adanya perbaikan pada pengalaman U, tetapi tidak boleh mengatakan desain baru telah terbukti efektif untuk semua mahasiswa atau bahwa tim telah memenangkan lomba.
+Peta Target dan Lima Versi
+Target
+Versi pesan
+Alasan perubahan language dan repertoire
+Friend, B
+“Kemarin prototype lomba tim gua akhirnya dikumpulin. Pas dites pertama, teman gua bingung nyari tombol simpan dan butuh sekitar satu setengah menit. Tombolnya kami pindah dan tulisannya diganti, terus pas dia coba lagi selesai sekitar 35 detik. Lumayan lebih jelas buat dia, tapi hasil lombanya belum keluar.”
+B tidak terlibat dalam proses desain. Saya menggunakan cerita singkat, angka yang mudah dibandingkan, dan penutup yang mencegah ia mengira tim sudah menang.
+Technical peer, K
+“Pada usability check pertama, U membutuhkan sekitar 90 detik untuk menyelesaikan task menambah tugas. Titik friction-nya ada pada CTA yang berlabel ‘Selesai’ dan berada di bagian bawah. Kami ubah label menjadi ‘Simpan Tugas’ dan menaikkan posisinya. Retest dengan U menghasilkan waktu sekitar 35 detik tanpa hint. Karena subjeknya sama, ada learning effect, jadi hasil ini belum cukup untuk generalisasi.”
+K memahami istilah task, CTA, friction, retest, dan learning effect. Detail metode serta batas inferensi lebih penting daripada cerita lombanya.
+Manager, M sebagai mentor tim
+“Prototype revisi sudah kami masukkan ke berkas pengumpulan. Perubahan terakhir berasal dari satu uji coba yang menunjukkan U tidak menemukan tombol simpan. Tim memilih perubahan berisiko rendah, yaitu memperjelas label dan posisi tombol, lalu melakukan retest. Waktu U turun dari sekitar 90 menjadi 35 detik. Karena pengujinya masih orang yang sama, kami mencatat hasil ini sebagai sinyal perbaikan, bukan validasi final. Setelah lomba, kami ingin menguji versi tersebut kepada sedikitnya tiga pengguna baru.”
+Mentor membutuhkan dasar keputusan, risiko perubahan menjelang tenggat, batas evidence, dan rencana validasi berikutnya.
+Customer, U sebagai calon pengguna
+“Makasih sudah mencoba prototype kami kemarin. Dari percobaan lu, kami sadar tombol ‘Selesai’ belum jelas sebagai tombol untuk menyimpan tugas. Kami sudah mengganti tulisannya menjadi ‘Simpan Tugas’ dan memindahkan posisinya. Waktu lu mencoba ulang memang lebih singkat, tetapi kami tetap akan mengetesnya ke pengguna lain. Kalau ada bagian yang masih terasa membingungkan, kabari gua.”
+U perlu mengetahui bahwa feedback-nya dipakai tanpa dijadikan wakil seluruh pengguna. Bahasanya personal, menghargai kontribusi, dan membuka koreksi lanjutan.
+Public
+“Satu hari sebelum pengumpulan lomba, uji coba sederhana menunjukkan seorang pengguna kesulitan menemukan tombol simpan pada prototype kami. Tim memperjelas label dan posisi tombol, lalu melakukan percobaan ulang sebelum mengumpulkan versi revisi. Pengguna yang sama menyelesaikan alur lebih cepat pada percobaan kedua, tetapi kami belum menganggap satu pengujian sebagai validasi final. Hasil lomba belum diumumkan; pelajaran terpentingnya adalah menguji asumsi desain sebelum tenggat.”
+Versi publik menekankan proses belajar tanpa jargon berlebihan, tidak membesar-besarkan hasil satu orang, dan tidak menciptakan kesan bahwa tim sudah menang.
+Uji Konsistensi Meaning
+Fakta inti
+Friend
+Technical peer
+Manager
+Customer
+Public
+Prototype dibuat untuk lomba
+Ada
+Ada melalui konteks pengumpulan
+Ada melalui konteks tim
+Ada
+Kesulitan pertama dan sekitar 90 detik
+Ada
+Ada melalui pengalaman U
+Ada tanpa angka karena tidak diperlukan
+Perubahan label dan posisi
+Ada
+Percobaan kedua sekitar 35 detik
+Ada
+Disebut lebih singkat
+Disebut lebih cepat
+Hasil lomba belum diumumkan
+Ada
+Tidak relevan untuk diskusi teknis
+Tersirat dari status pengumpulan
+Tidak relevan bagi feedback U
+Ada
+Tidak digeneralisasi
+Terbatas pada “buat dia”
+Learning effect eksplisit
+Sinyal, bukan validasi
+Akan diuji ke pengguna lain
+Belum validasi final
+Perbedaan detail tidak mengubah fakta. Informasi yang dihilangkan hanya informasi yang tidak dibutuhkan target, bukan fakta yang akan membuat target mengambil kesimpulan keliru.
+Feedback Understanding dan Adaptation
+Saya menguji versi awal pesan friend kepada B. Versi awal berakhir dengan kalimat, “akhirnya beres juga lombanya.”
+Saya: “Kalau lu baca pesan ini, menurut lu sekarang posisi tim gua gimana?”
+B: “Gua nangkepnya prototype lu berhasil dan lombanya sudah selesai. Menang atau masuk final?”
+Respons B menunjukkan bahwa kata “beres” membuat status lomba terdengar selesai dan berhasil. Saya lalu mengganti kalimat terakhir menjadi, “prototype revisinya sudah dikumpulin, tapi hasil lombanya belum keluar.”
+Saya: “Kalau versi yang ini gimana?”
+B: “Sekarang jelas. Yang sudah selesai itu pengumpulannya, bukan berarti lu sudah menang.”
+Saya juga meminta K membaca versi technical peer.
+K: “Jangan bilang perubahan tombol membuat waktu turun tanpa catatan. Orangnya sama, jadi dia sudah belajar alurnya dari percobaan pertama.”
+Saya: “Berarti lebih tepat kalau gua sebut hasilnya sinyal, bukan bukti desainnya pasti lebih baik?”
+K: “Iya. Tulis learning effect dan tes lagi ke orang baru nanti.”
+Feedback K membuat saya menambahkan batas generalisasi pada versi technical peer, manager, customer, dan public. Dengan begitu, angka 90 dan 35 detik tetap digunakan sebagai observation atas U, bukan klaim sebab-akibat untuk semua pengguna.
+Evidence Tindakan dan Outcome
+Versi friend direvisi setelah B salah memahami status pengumpulan sebagai hasil lomba.
+Versi technical peer direvisi setelah K menunjukkan kemungkinan learning effect.
+M menyetujui penggunaan kalimat “sinyal perbaikan, bukan validasi final” untuk menjelaskan keputusan tim.
+U menerima pesan customer dan membalas, “siap, kalau ada versi berikutnya gua mau coba lagi.”
+Tim menyimpan rencana pengujian tiga pengguna baru sebagai tindak lanjut setelah lomba.
+Analisis Komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+B membutuhkan cerita dan status yang jelas, K membutuhkan batas metodologis, M membutuhkan rationale keputusan, U membutuhkan pengakuan atas feedback, dan public membutuhkan pembelajaran tanpa overclaim. Target dibedakan berdasarkan relationship, knowledge, stakes, dan authority.
+Objective & state
+Objective utamanya menjaga core meaning sambil mengubah detail. Saya juga mengelola uncertainty: hasil lomba belum diketahui dan penurunan waktu dapat dipengaruhi learning effect.
+Repertoire & language
+Repertoire berubah dari cerita personal, laporan usability, update keputusan, feedback loop pengguna, hingga refleksi publik. Jargon hanya dipakai untuk target yang memiliki shared vocabulary.
+Response & adaptation
+Salah paham B mengubah penjelasan status lomba. Kritik K mengubah framing angka dan menambahkan batas generalisasi di empat versi.
+Agreement, action & relationship
+M menyetujui framing, U bersedia mencoba versi berikutnya, dan tim memiliki tindak lanjut tiga pengguna baru. Kontribusi U dihargai tanpa membebankan klaim seluruh pengguna kepadanya.
+Penggunaan AI
+AI digunakan setelah lima versi ditulis untuk membandingkan fakta yang muncul pada tiap pesan. Saya menolak saran AI untuk memakai kalimat “terbukti memangkas waktu lebih dari separuh” karena satu retest dengan orang yang sama belum membuktikan hubungan sebab-akibat. AI tidak membuat angka, respons B, kritik K, respons U, atau hasil lomba.
+Feedback dan Tindak Lanjut
+Feedback B menunjukkan bahwa status “sudah dikumpulkan” mudah bergeser menjadi “sudah berhasil”. Feedback K menunjukkan bahwa angka yang benar tetap dapat menghasilkan klaim menyesatkan jika learning effect tidak disebutkan. Pada komunikasi berikutnya saya akan memeriksa dua hal: fakta apa yang dipahami target dan inferensi tambahan apa yang muncul. Indikator keberhasilannya adalah target dapat membedakan observation, interpretation, dan hal yang masih belum diketahui.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima target dibedakan berdasarkan relationship, knowledge, stakes, dan authority tanpa stereotipe.
+Objective & State
+4
+Core meaning, status pengumpulan, hasil yang belum diketahui, dan uncertainty learning effect dikelola eksplisit.
+Repertoire, Language & AI
+4
+Lima repertoire memiliki rationale berbeda; jargon dan batas AI disesuaikan dengan target.
+Response & Adaptation
+4
+Dua jenis feedback mengubah status wording dan batas klaim pada beberapa versi.
+Agreement, Action & Relationship
+4
+Mentor menyetujui framing, pengguna bersedia retest, dan tindak lanjut memiliki target pengguna baru.
+Total: 20 / 20 - Lanjut
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Ihsan Fadhlih Akbar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://frnkensteinn.github.io/kipp-students/index.html
+- https://frnkensteinn.github.io/kipp-students/assets/logo.png
+- https://frnkensteinn.github.io/kipp-students/course/index.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/index.html
+- https://frnkensteinn.github.io/kipp-students/examples/index.html
+- https://frnkensteinn.github.io/kipp-students/lk/index.html
+- https://frnkensteinn.github.io/kipp-students/slides.html
+- https://frnkensteinn.github.io/kipp-students/slides-pdf/index.html
+- https://frnkensteinn.github.io/kipp-students/assessment/index.html
+- https://frnkensteinn.github.io/kipp-students/about.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-03.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-06.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-08.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-09.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-10.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-11.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-12.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-13.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-14.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-15.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#konteks-personal
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#peta-target-dan-lima-versi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#uji-konsistensi-meaning
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#feedback-understanding-dan-adaptation
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#evidence-tindakan-dan-outcome
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

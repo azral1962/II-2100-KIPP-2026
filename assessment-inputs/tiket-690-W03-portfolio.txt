@@ -1,0 +1,149 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 690
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://eira2510.github.io/kipp/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Minggu 4 — Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks dan relationship state
+Potongan transcript
+Analisis listening, boundary, dan repair
+Relationship outcome dan evidence
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Komunikasi Interpersonal
+Relasi
+Evidence percakapan personal dengan listening, clarity, boundary, dan relationship awareness.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+Konteks dan relationship state
+Obert dan Doni adalah rekan satu tim (berdasarkan latar belakang Obert sebagai kapten/pemain tim futsal). Sebelum percakapan ini, hubungan mereka biasa saja, namun sudah ada perasaan kurang suka dari diri Obert karena kebiasaan Doni yang sering menunjukkan ekspresi negatif (tilt) saat bermain futsal.
+State sebelum percakapan: hubungan biasa saja dengan ketegangan terpendam dan rasa kurang suka. Objective Obert adalah mengajak Doni berbicara agar ia bisa memperbaiki kebiasaannya tersebut tanpa merusak moral tim.
+Potongan transcript
+Obert: “Don, gw mau ngomong dong. Tadi pas game, gw rasa kalau lu lagi tilt, kayaknya ga baik deh kalau lu ekspresiin hal tersebut di lapangan.”
+Doni: “Hah? Emangnya kenapa bert? Itu salah satu cara buat gw ngeekspresiin diri gw aja sih.”
+Obert: “Gw paham, tapi jujur itu ngebuat suasana tim kita jadi ga enak selama game tadi don. Kira-kira bisa ada cara lain supaya lu tetep bisa ngeekspresiin diri lu tanpa ngerugiin anak-anak yang lain ga ya? Sorry bangett.”
+Doni: “Oh aman aman, gw juga mau yang terbaik kok buat tim. Oke oke, next gw bakal kurang-kurangin ekspresi negatif pas gw lagi di lapangan, thanks sarannya bert.”
+Analisis listening, boundary, dan repair
+Obert memulai percakapan dengan menyampaikan observasi spesifik mengenai perilaku di lapangan, bukan menyerang kepribadian Doni. Ketika Doni memberikan respons defensif, Obert menggunakan teknik validasi (“Gw paham…”) sebelum menjelaskan dampak nyata terhadap suasana tim.
+Boundary & Agreement: Obert menetapkan batasan secara halus mengenai ekspektasi perilaku tim, dan Doni menyetujui batasan tersebut dengan berkomitmen untuk mengurangi ekspresi negatif saat bertanding.
+Meskipun tidak ada kesalahan fatal yang memerlukan repair besar, nada penutup Obert (“Sorry bangett”) menunjukkan penjagaan relasi yang kuat agar teguran tersebut diterima secara positif.
+Relationship outcome dan evidence
+Transkrip percakapan langsung antara Obert dan Doni.
+Doni secara sukarela menyetujui untuk mengubah kebiasaannya demi kebaikan bersama.
+Hubungan setelah percakapan: beranjak dari sekadar rekan biasa menjadi teman yang cukup akrab sampai sekarang.
+Penurunan ketegangan dirasakan secara subjektif oleh Obert seiring dengan cairnya suasana tim.
+AI tidak digunakan dalam menyusun transkrip percakapan personal ini guna menjaga privasi dan keaslian interaksi manusia.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Mengenali perspektif Doni sekaligus kebutuhan tim secara proporsional
+Objective & State
+4
+Objective memperbaiki kebiasaan di lapangan tercapai dengan jelas
+Repertoire, Language & AI
+4
+Penggunaan observasi langsung, validasi, dan permintaan alternatif yang asertif
+Response & Adaptation
+4
+Merespons defensif Doni dengan empati dan penjelasan dampak yang logis
+Agreement, Action & Relationship
+4
+Kesepakatan tercapai, komitmen ditepati, dan relasi berkembang menjadi akrab
+Total: 20/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Minggu 4 — Five-Language Translation Portfolio
+Portfolio KIPP-2 · Obert Chandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://eira2510.github.io/kipp/index.html
+- https://eira2510.github.io/kipp/assets/logo.png
+- https://eira2510.github.io/kipp/course/index.html
+- https://eira2510.github.io/kipp/portfolio/index.html
+- https://eira2510.github.io/kipp/examples/index.html
+- https://eira2510.github.io/kipp/lk/index.html
+- https://eira2510.github.io/kipp/slides.html
+- https://eira2510.github.io/kipp/slides-pdf/index.html
+- https://eira2510.github.io/kipp/assessment/index.html
+- https://eira2510.github.io/kipp/about.html
+- https://eira2510.github.io/kipp/portfolio/week-03.html
+- https://eira2510.github.io/kipp/portfolio/week-01.html
+- https://eira2510.github.io/kipp/portfolio/week-02.html
+- https://eira2510.github.io/kipp/portfolio/week-04.html
+- https://eira2510.github.io/kipp/portfolio/week-05.html
+- https://eira2510.github.io/kipp/portfolio/week-06.html
+- https://eira2510.github.io/kipp/portfolio/week-07.html
+- https://eira2510.github.io/kipp/portfolio/week-08.html
+- https://eira2510.github.io/kipp/portfolio/week-09.html
+- https://eira2510.github.io/kipp/portfolio/week-10.html
+- https://eira2510.github.io/kipp/portfolio/week-11.html
+- https://eira2510.github.io/kipp/portfolio/week-12.html
+- https://eira2510.github.io/kipp/portfolio/week-13.html
+- https://eira2510.github.io/kipp/portfolio/week-14.html
+- https://eira2510.github.io/kipp/portfolio/week-15.html
+- https://eira2510.github.io/kipp/portfolio/week-03.html#kompetensi-target
+- https://eira2510.github.io/kipp/portfolio/week-03.html#evidence-wajib
+- https://eira2510.github.io/kipp/portfolio/week-03.html#konteks-dan-relationship-state
+- https://eira2510.github.io/kipp/portfolio/week-03.html#potongan-transcript
+- https://eira2510.github.io/kipp/portfolio/week-03.html#analisis-listening-boundary-dan-repair
+- https://eira2510.github.io/kipp/portfolio/week-03.html#relationship-outcome-dan-evidence
+- https://eira2510.github.io/kipp/portfolio/week-03.html#self-assessment
+- https://eira2510.github.io/kipp/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

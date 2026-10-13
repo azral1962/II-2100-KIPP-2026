@@ -1,0 +1,217 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 831
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+categories: [Assessment, UTS]
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Core meaning
+Fakta yang tidak boleh berubah: GIS (Sistem Informasi Geografis) adalah sistem berbasis komputer yang digunakan untuk menangkap, menyimpan, mengelola, menganalisis, dan menampilkan data yang memiliki referensi spasial (geografis), sehingga mampu mengintegrasikan data atribut dan data keruangan untuk mendukung pengambilan keputusan berbasis lokasi. Esensi ini harus tetap utuh di kelima versi.
+Target/character
+Versi language
+Alasan adaptasi
+Anak-anak (~10 thn)
+“Bayangkan kamu punya peta harta karun yang ajaib. Kalau kamu sentuh satu titik, muncul info lengkapnya — ‘di sini ada sekolah, di sini ada taman.’ GIS itu kayak peta ajaib gitu: kamu bisa lihat banyak tempat sekaligus dan tahu mana yang paling dekat.”
+Analogi konkret dari dunia anak; menghindari istilah abstrak
+Sahabat (beda jurusan)
+“Jadi GIS itu basically peta yang nggak cuma gambar doang, tapi pinter. Dia bisa gabungin peta sama data. Misal kamu mau tau ‘kecamatan mana yang paling banyak hujannya’ — GIS jawab dalam satu layar.”
+Santai, hangat, tanpa menggurui
+Rekan teknis
+“GIS mengintegrasikan data vektor dan raster dengan basis data atribut, memungkinkan analisis overlay, buffering, dan spatial query. Dengan CRS yang tepat, akurasi analisis dapat dijaga.”
+Jargon presisi dan parameter spesifik sesuai standar industri
+Manajer
+“Implementasi GIS memungkinkan organisasi memvisualisasikan data berbasis lokasi secara terpadu, mendukung optimalisasi alokasi sumber daya dan manajemen risiko, menekan biaya operasional.”
+Menekankan value proposition, biaya, dan risiko
+Publik umum
+“Pernah buka aplikasi peta atau lihat berita banjir? Di baliknya ada GIS — teknologi yang menggabungkan peta dengan informasi, biar kita tahu ‘di mana’ sesuatu terjadi. Dipakai pemerintah untuk rencanakan penanggulangan bencana.”
+Menghubungkan dengan kehidupan sehari-hari; bahasa inklusif
+Evidence understanding
+Saya menguji versi anak-anak kepada satu adik/teman yang tidak memahami GIS tanpa menjelaskan konteks tambahan. Target menjawab bahwa ia memahami GIS sebagai “peta yang bisa kasih info”, tetapi bertanya apakah peta itu bisa dipakai di HP.
+Saya menambahkan kalimat: “Iya, aplikasi peta di HP itu contoh GIS yang paling sering kamu pakai.” Adaptasi ini memperjelas kaitan dengan pengalaman sehari-hari tanpa mengubah core meaning.
+Analisis dan batas
+Repertoire berubah dari analogi anak-anak, obrolan santai, technical notice, decision brief, hingga public announcement. Saya tidak menganggap versi publik cocok untuk semua orang — seorang pengguna yang butuh keputusan teknis membutuhkan detail yang tidak relevan bagi masyarakat luas.
+AI digunakan untuk memeriksa apakah kelima versi mempertahankan esensi inti (menggabungkan lokasi dengan informasi). Saya menolak versi AI yang menambahkan jargon “spatial analysis” pada versi anak-anak karena tidak sesuai profil audiens.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Lima target dibedakan berdasarkan kebutuhan, bukan stereotipe
+Objective & State
+3
+Core meaning dan action konsisten
+Repertoire, Language & AI
+3
+Lima repertoire dengan rationale dan fact-check
+Response & Adaptation
+3
+Pertanyaan target menghasilkan penjelasan tambahan
+Agreement, Action & Relationship
+3
+Deadline dan jalur bantuan eksplisit
+Total: 15/20 — Kompeten.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Tirta Wening Putri Harsono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://1py1h9fg8.github.io/kipp-students/index.html
+- https://1py1h9fg8.github.io/kipp-students/assets/logo.png
+- https://1py1h9fg8.github.io/kipp-students/course/index.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/index.html
+- https://1py1h9fg8.github.io/kipp-students/examples/index.html
+- https://1py1h9fg8.github.io/kipp-students/lk/index.html
+- https://1py1h9fg8.github.io/kipp-students/slides.html
+- https://1py1h9fg8.github.io/kipp-students/slides-pdf/index.html
+- https://1py1h9fg8.github.io/kipp-students/assessment/index.html
+- https://1py1h9fg8.github.io/kipp-students/about.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-01.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-02.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-03.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-06.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-07.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-08.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-09.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-10.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-11.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-12.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-13.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-14.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-15.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html#self-assessment-1
+- https://1py1h9fg8.github.io/kipp-students/examples/week-04.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

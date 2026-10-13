@@ -1,0 +1,714 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 772
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Problem–Solution Interest Pitch
+Kompetensi Target
+1. Konteks Masalah yang Telah Dikonfirmasi
+1.1 Topik Masalah
+1.2 Attention Evidence dari Week 6
+Perspektif User
+Perspektif Operator
+Perspektif Decision Maker
+2. Customer Problem Statement
+3. Hidden Concern dari Masing-Masing Peran
+4. Feature Detox
+Matriks Detoks Fitur
+5. Mengubah Feature → Benefit → Value
+Fitur 1 — Status Pesanan
+Fitur 2 — Estimasi Waktu Tunggu
+Fitur 3 — Pre-order
+6. Solusi yang Saya Pilih
+7. Pitch Interest 60 Detik
+8. Komunikasi Berlapis
+Layer 1 — Problem
+Layer 2 — Possibility
+Layer 3 — Mechanism
+Layer 4 — Benefit
+Layer 5 — Check Interest
+9. Demonstrasi Mekanisme
+10. Response, State Assessment, dan Adaptation
+10.1 Respons yang Perlu Dicari
+11. State Assessment
+State A — Belum Tertarik
+State B — Tertarik tetapi Masih Ragu
+State C — Mulai Interest
+12. Hidden Concern dan Adaptasi
+13. Adaptasi terhadap Tiga Peran
+13.1 Adaptasi untuk User
+13.2 Adaptasi untuk Operator
+13.3 Adaptasi untuk Decision Maker
+14. Memahami Batas Solusi
+15. Risiko dan Batasan Solusi
+16. Mengapa Saya Memangkas Beberapa Fitur?
+17. Reaction → Response
+18. Apa yang Berubah dari Cara Saya Berkomunikasi?
+19. Evidence yang Akan Saya Gunakan
+Evidence 1 — Attention terhadap Masalah
+Evidence 2 — Problem–Solution Link
+Evidence 3 — Operator Problem–Solution Link
+Evidence 4 — Decision Maker Problem–Solution Link
+20. Rencana Validasi
+Tahap 1 — Uji User
+Tahap 2 — Uji Operator
+Tahap 3 — Uji Decision Maker
+21. Indikator Interest yang Saya Cari
+Interest dari User
+Interest dari Operator
+Interest dari Decision Maker
+22. Komitmen Perbaikan
+23. Penggunaan AI
+24. Feedback dan Tindak Lanjut
+25. Self-Assessment
+26. Kesimpulan
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest melalui detoks fitur, penerjemahan fitur menjadi manfaat dan nilai, pitch berlapis, pembacaan respons, identifikasi hidden concern, dan adaptasi.
+Problem–Solution Interest Pitch
+Nama: Grasella
+Minggu: 7
+Tanggal: 6 Oktober 2026
+Topik: Sistem Pendukung Antrean Kantin pada Jam Makan Siang
+Kompetensi Target
+Kompetensi yang saya latih pada minggu ini adalah kemampuan menghubungkan solution mechanism dengan masalah yang benar-benar telah diakui oleh sasaran komunikasi.
+Saya tidak ingin menjelaskan solusi hanya berdasarkan banyaknya fitur. Saya ingin memastikan bahwa setiap fitur yang saya komunikasikan memiliki hubungan yang jelas dengan:
+masalah yang dialami sasaran;
+manfaat langsung yang diberikan;
+nilai yang relevan dengan peran sasaran;
+kendala yang mungkin membuat solusi sulit digunakan.
+Prinsip utama yang saya gunakan adalah:
+Masalah terlebih dahulu, kemudian solusi. Fitur tidak menjadi nilai jika tidak menyelesaikan masalah yang benar-benar dirasakan oleh sasaran.
+1. Konteks Masalah yang Telah Dikonfirmasi
+1.1 Topik Masalah
+Masalah yang saya pilih adalah antrean kantin pada jam makan siang, terutama ketika banyak mahasiswa datang hampir bersamaan.
+Masalah ini saya lanjutkan dari latihan Week 6 karena pada Week 6 saya telah mencoba melihat masalah dari tiga perspektif:
+mahasiswa sebagai User;
+petugas kantin sebagai Operator;
+pihak pengambil keputusan sebagai Decision Maker.
+Tujuannya agar solusi yang saya tawarkan tidak hanya terlihat menarik dari perspektif mahasiswa, tetapi juga masuk akal dari sisi operasional dan pengambilan keputusan.
+1.2 Attention Evidence dari Week 6
+Perspektif User
+Dalam simulasi Week 6, User menjelaskan bahwa antrean cukup terasa terutama ketika jam makan siang sekitar pukul 12. Antrean yang panjang membuat waktu makan berkurang karena sebagian waktu istirahat digunakan untuk menunggu.
+User juga menyampaikan bahwa masalah menjadi lebih terasa ketika setelah makan masih terdapat kelas atau kegiatan lain yang waktunya berdekatan.
+Saya melakukan closed-loop confirmation:
+“Berarti kalau aku tangkap, yang paling terasa bukan cuma antreannya panjang, tapi waktu istirahat yang kepakai buat nunggu sampai waktu makan dan persiapan ke kelas berikutnya jadi lebih sempit, ya? Biasanya paling sering kerasa di jam berapa?”
+Dari respons tersebut, saya memahami bahwa masalah User bukan sekadar melihat antrean panjang, tetapi ketidakpastian dan waktu istirahat yang terpotong karena menunggu.
+Perspektif Operator
+Dari sisi Operator, masalah yang muncul bukan hanya jumlah mahasiswa.
+Operator menjelaskan bahwa pada jam makan siang banyak mahasiswa datang hampir bersamaan sehingga pesanan dapat menumpuk. Selain itu, terdapat beberapa pesanan yang membutuhkan waktu pemrosesan lebih lama.
+Saya melakukan konfirmasi:
+“Berarti kalau aku tangkap, yang jadi kendala bukan sekadar jumlah mahasiswa yang datang, tetapi penumpukan pesanan dalam waktu yang bersamaan dan ada pesanan tertentu yang prosesnya lebih lama. Berarti alur proses pesanan di titik itu yang lebih penting untuk dilihat, ya?”
+Operator kemudian menjelaskan bahwa jika pesanan datang secara lebih bertahap, kondisi sebenarnya lebih mudah ditangani.
+Hal ini membuat saya menyadari bahwa solusi tidak cukup hanya “mengurangi panjang antrean”. Saya perlu memperhatikan bagaimana pesanan masuk dan diproses.
+Perspektif Decision Maker
+Dari sisi Decision Maker, waktu tunggu dianggap penting untuk dievaluasi, tetapi penyebabnya perlu diketahui terlebih dahulu.
+Decision Maker menyampaikan bahwa penyebab dapat berasal dari:
+jumlah pengunjung;
+jumlah petugas;
+proses pelayanan.
+Saya melakukan closed-loop confirmation:
+“Berarti kalau aku pahami, waktu tunggu memang menjadi salah satu aspek yang perlu dievaluasi, tetapi sebelum menentukan perbaikan, kita perlu tahu dulu sumber masalahnya, apakah dari jumlah pengunjung, jumlah petugas, atau proses pelayanannya. Berarti yang penting bukan hanya mengukur panjang antrean, tetapi juga memahami penyebab waktu tunggunya, ya?”
+Decision Maker kemudian menegaskan:
+“Iya, karena kalau penyebabnya berbeda, solusi yang dibutuhkan juga bisa berbeda.”
+Dari respons ini, saya menyimpulkan bahwa solusi yang saya tawarkan harus membantu memperbaiki proses, bukan sekadar membuat tampilan antrean terlihat lebih modern.
+2. Customer Problem Statement
+Berdasarkan hasil penggalian masalah tersebut, saya merumuskan Customer Problem Statement sebagai berikut:
+Mahasiswa mengalami waktu tunggu yang tidak pasti ketika jam makan siang karena banyak pesanan masuk secara bersamaan dan sebagian pesanan membutuhkan waktu pemrosesan lebih lama, sehingga waktu istirahat untuk makan menjadi berkurang dan dapat berdekatan dengan jadwal kelas atau kegiatan berikutnya. Mahasiswa membutuhkan informasi status dan perkiraan proses pesanan yang lebih jelas, dengan mempertimbangkan kondisi jam sibuk dan keterbatasan operasional kantin.
+Namun, masalah mahasiswa bukan satu-satunya masalah yang perlu diperhatikan.
+Dari sisi Operator:
+Petugas kantin mengalami penumpukan pesanan pada jam makan siang ketika banyak pesanan masuk hampir bersamaan, sehingga proses pelayanan menjadi lebih sulit dikendalikan dan pelanggan membutuhkan informasi status secara berulang. Operator membutuhkan alur informasi pesanan yang lebih teratur, dengan mempertimbangkan kesederhanaan penggunaan dan kondisi jam sibuk.
+Dari sisi Decision Maker:
+Pengelola perlu memahami penyebab waktu tunggu dan penumpukan pelayanan sebelum menentukan perbaikan, sehingga solusi perlu memberikan informasi proses yang dapat membantu evaluasi tanpa menambah kompleksitas operasional secara berlebihan.
+3. Hidden Concern dari Masing-Masing Peran
+Sebelum menjelaskan solusi, saya menyadari bahwa setiap peran memiliki kekhawatiran yang berbeda.
+Peran
+Masalah yang Terlihat
+Hidden Concern
+User
+Antrean panjang dan waktu tunggu
+Takut waktu makan habis dan terlambat mengikuti kelas/kegiatan
+Operator
+Pesanan menumpuk
+Takut sistem baru justru menambah pekerjaan ketika kondisi sedang sibuk
+Decision Maker
+Waktu tunggu perlu dievaluasi
+Takut solusi terlihat bagus tetapi tidak menyelesaikan akar masalah atau membutuhkan biaya/kompleksitas yang tidak sebanding
+Kesadaran terhadap hidden concern ini penting karena Interest tidak hanya berarti orang mengatakan solusi menarik.
+Menurut saya, Interest yang lebih bermakna terjadi ketika sasaran mulai berpikir:
+“Solusi ini mungkin memang bisa membantu masalah saya, dan saya bisa membayangkan bagaimana solusi tersebut digunakan dalam kondisi nyata.”
+4. Feature Detox
+Saya sengaja membatasi fitur yang akan saya komunikasikan.
+Tujuannya agar saya tidak melakukan Feature Dumping, yaitu menjelaskan banyak kemampuan sistem tanpa menunjukkan hubungan dengan masalah.
+Matriks Detoks Fitur
+No
+Fitur Teknis
+Manfaat Langsung
+Nilai Relasional
+Bukti yang Diperlukan
+Keputusan
+1
+Status pesanan digital: Diproses / Sedang Disiapkan / Siap Diambil
+Mahasiswa dapat mengetahui posisi pesanan tanpa harus terus bertanya
+User: memperoleh kepastian mengenai status pesanannya. Operator: mengurangi kebutuhan menjawab pertanyaan status secara berulang
+Observasi alur pesanan dan uji coba beberapa transaksi
+PERTAHANKAN
+2
+Estimasi waktu tunggu sederhana
+Mahasiswa memperoleh gambaran kapan pesanan kemungkinan selesai
+User: dapat memperkirakan apakah waktu makan masih cukup sebelum kelas berikutnya
+Uji beberapa transaksi pada jam ramai dan membandingkan estimasi dengan waktu aktual
+PERTAHANKAN
+3
+Pre-order sebelum jam makan
+Pesanan dapat masuk lebih awal sehingga kedatangan pelanggan dapat lebih tersebar
+User: dapat menghemat waktu menunggu. Operator: berpotensi membantu mengurangi penumpukan pesanan pada satu waktu
+Uji coba terbatas pada periode tertentu dan evaluasi pola kedatangan
+PERTAHANKAN, tetapi bukan fokus awal
+4
+Login dengan banyak metode autentikasi
+Memudahkan pengelolaan akun
+Tidak berhubungan langsung dengan masalah waktu tunggu dan penumpukan pesanan
+Belum ada bukti bahwa fitur ini menyelesaikan masalah utama
+PANGKAS dari pitch
+5
+Dashboard analitik yang sangat kompleks
+Memberikan banyak data
+Berpotensi berguna bagi pengelola, tetapi tidak diperlukan untuk menjelaskan solusi awal kepada User/Operator
+Membutuhkan data penggunaan dan analisis lebih lanjut
+PANGKAS dari pitch awal
+5. Mengubah Feature → Benefit → Value
+Saya menggunakan tiga lapisan agar tidak berhenti pada penjelasan teknis.
+Fitur 1 — Status Pesanan
+Feature:
+Sistem menampilkan status pesanan seperti:
+Diproses → Sedang Disiapkan → Siap Diambil
+Benefit:
+Mahasiswa tidak perlu terus-menerus bertanya apakah pesanannya sudah diproses atau belum.
+Value bagi User:
+Mahasiswa memperoleh kepastian yang lebih baik mengenai penggunaan waktu istirahatnya.
+Value bagi Operator:
+Operator dapat mengurangi interupsi pertanyaan status sehingga dapat lebih fokus pada proses pelayanan.
+Fitur 2 — Estimasi Waktu Tunggu
+Feature:
+Sistem memberikan estimasi sederhana mengenai waktu tunggu.
+Benefit:
+Mahasiswa mendapatkan gambaran apakah pesanannya masih membutuhkan waktu beberapa menit atau sudah mendekati selesai.
+Value bagi User:
+Mahasiswa dapat membuat keputusan yang lebih baik mengenai waktu makan dan kegiatan setelahnya.
+Value bagi Decision Maker:
+Data waktu tunggu dapat menjadi salah satu informasi untuk mengevaluasi kondisi pelayanan pada jam sibuk.
+Fitur 3 — Pre-order
+Feature:
+Mahasiswa dapat mengirim pesanan sebelum datang atau sebelum periode antrean paling padat.
+Benefit:
+Pesanan dapat mulai diproses lebih awal dan kedatangan pelanggan berpotensi menjadi lebih tersebar.
+Value bagi User:
+Waktu yang digunakan untuk menunggu dapat dikurangi.
+Value bagi Operator:
+Pola pesanan dapat menjadi lebih mudah diprediksi dibandingkan seluruh pesanan datang pada waktu yang hampir bersamaan.
+Catatan:
+Saya tidak mengklaim bahwa pre-order pasti menghilangkan antrean. Fitur ini perlu diuji karena justru dapat menimbulkan penumpukan pesanan di dapur apabila kapasitas pemrosesan tidak diperhitungkan.
+6. Solusi yang Saya Pilih
+Dari proses detoks fitur, saya tidak akan menjual sistem sebagai:
+“Aplikasi kantin dengan banyak fitur.”
+Saya akan menyederhanakannya menjadi:
+Sistem informasi antrean dan status pesanan yang membantu mahasiswa mengetahui perkembangan pesanannya dan membantu operator mengelola informasi pesanan pada jam sibuk.
+Solusi awal yang paling saya prioritaskan adalah:
+status pesanan;
+estimasi waktu tunggu sederhana;
+informasi antrean.
+Pre-order saya tempatkan sebagai pengembangan lanjutan karena perlu pengujian lebih lanjut terhadap kapasitas operasional.
+7. Pitch Interest 60 Detik
+Berikut pitch yang saya susun menggunakan lima langkah komunikasi berlapis.
+“Dari yang kita bahas tadi, masalahnya bukan cuma antrean yang panjang, tetapi mahasiswa sering nggak tahu harus menunggu berapa lama, sementara dari sisi kantin pesanan juga bisa menumpuk ketika banyak yang datang bersamaan. Jadi saya membayangkan sistem antrean sederhana yang menampilkan status pesanan secara langsung. Misalnya setelah pesan, mahasiswa bisa melihat apakah pesanannya masih diproses, sedang disiapkan, atau sudah siap diambil, ditambah perkiraan waktu tunggu sederhana. Jadi mahasiswa punya gambaran waktu makannya, sementara petugas nggak harus berulang kali menjawab pertanyaan status pesanan. Saya nggak menganggap ini langsung menyelesaikan semua masalah, karena penyebab antreannya tetap perlu dievaluasi. Menurut kamu, kalau mekanisme sesederhana ini diuji coba dulu pada jam makan siang, bagian mana yang paling layak dicoba?”
+Pitch tersebut sengaja tidak dimulai dari:
+“Sistem saya punya dashboard, database, notifikasi, QR code, dan sebagainya.”
+Saya justru memulai dari masalah yang sebelumnya sudah diakui, kemudian menjelaskan mekanisme yang paling relevan.
+8. Komunikasi Berlapis
+Saya menggunakan urutan komunikasi berikut:
+Layer 1 — Problem
+“Mahasiswa tidak hanya menghadapi antrean panjang, tetapi juga ketidakpastian waktu tunggu.”
+Layer 2 — Possibility
+“Bagaimana kalau status pesanan bisa dilihat tanpa harus terus bertanya?”
+Layer 3 — Mechanism
+“Pesanan cukup memiliki status sederhana: diproses, sedang disiapkan, dan siap diambil.”
+Layer 4 — Benefit
+“Mahasiswa mendapat gambaran waktu, sementara operator dapat mengurangi pertanyaan status yang berulang.”
+Layer 5 — Check Interest
+“Kalau diuji coba dulu dalam skala kecil saat jam makan siang, bagian mana yang paling layak dicoba?”
+Dengan struktur tersebut, saya berusaha memastikan bahwa teknologi tidak menjadi pusat komunikasi. Masalah dan nilai bagi manusia tetap menjadi pusatnya.
+9. Demonstrasi Mekanisme
+Agar mekanisme tidak hanya berupa penjelasan abstrak, saya membuat contoh sederhana.
+Misalnya seorang mahasiswa memesan:
+Order #024 — Nasi Ayam
+Status awal:
+Diproses
+Ketika pesanan masuk ke tahap dapur:
+Sedang Disiapkan
+Ketika makanan telah selesai:
+Siap Diambil
+Jika tersedia estimasi:
+Perkiraan: ±10 menit
+Mekanisme tersebut sengaja dibuat sederhana agar orang yang mendengarkan dapat langsung membayangkan bagaimana solusi bekerja tanpa perlu memahami detail teknis sistem.
+10. Response, State Assessment, dan Adaptation
+10.1 Respons yang Perlu Dicari
+Setelah menyampaikan pitch, saya tidak ingin langsung menganggap:
+“Berarti mereka tertarik.”
+Saya perlu mencari tanda Interest melalui respons verbal maupun nonverbal.
+Beberapa indikator yang saya perhatikan:
+Signal
+Kemungkinan Makna
+Tindakan Saya
+Bertanya “Cara kerjanya gimana?”
+Mulai ingin memahami mekanisme
+Menjelaskan mekanisme dengan contoh
+Bertanya “Kalau lagi ramai tetap bisa?”
+Mulai memikirkan kondisi nyata
+Menjelaskan batas dan skenario uji
+Bertanya “Berarti kasir harus input semua?”
+Ada concern terhadap beban operator
+Menjelaskan alur input sesederhana mungkin
+Mengatakan “Menarik, tapi…”
+Ada Interest sekaligus concern
+Tidak memotong; menggali bagian setelah “tapi”
+Diam tetapi terlihat ragu
+Interest belum dapat dipastikan
+Mengajukan pertanyaan terbuka
+Menolak
+Belum ada fit atau terdapat constraint penting
+Tidak memaksa; menggali alasan penolakan
+11. State Assessment
+Saya menggunakan tiga kemungkinan state untuk membaca lawan bicara.
+State A — Belum Tertarik
+Ciri:
+hanya menjawab singkat;
+tidak mengajukan pertanyaan;
+tidak menghubungkan solusi dengan masalahnya;
+terlihat ingin mengakhiri pembicaraan.
+Adaptasi:
+Saya tidak akan menambahkan lebih banyak fitur.
+Saya justru akan kembali ke masalah:
+“Bagian dari masalah tadi yang menurut kamu paling mengganggu sebenarnya yang mana?”
+State B — Tertarik tetapi Masih Ragu
+Ciri:
+mulai bertanya mengenai cara kerja;
+mengakui solusi mungkin membantu;
+tetapi langsung menyebut kendala.
+Contoh:
+“Menarik sih, tapi kalau jam ramai apakah petugas nggak malah tambah repot?”
+Adaptasi:
+Saya tidak akan defensif.
+Saya akan menjawab:
+“Nah, itu justru penting. Kalau input statusnya malah menambah beban petugas, berarti mekanismenya belum cocok. Menurut kamu, bagian proses mana yang paling realistis untuk diubah tanpa menambah pekerjaan kasir?”
+Dengan begitu, keberatan tidak saya anggap sebagai penolakan pribadi, tetapi sebagai informasi tentang fit solusi.
+State C — Mulai Interest
+Ciri:
+meminta contoh;
+bertanya mengenai penerapan;
+mulai membayangkan penggunaan;
+mengusulkan kondisi uji coba.
+Jika state ini muncul, saya dapat melanjutkan:
+“Kalau begitu mungkin kita nggak perlu langsung membuat seluruh sistem. Kita bisa coba dulu satu alur sederhana untuk melihat apakah status pesanan benar-benar membantu.”
+12. Hidden Concern dan Adaptasi
+Saya menyadari bahwa respons eksplisit tidak selalu menunjukkan kekhawatiran sebenarnya.
+Misalnya Operator mengatakan:
+“Bisa sih.”
+Saya tidak langsung menyimpulkan bahwa Operator setuju.
+Ada beberapa kemungkinan hidden concern:
+takut pekerjaan bertambah;
+takut sistem sulit digunakan;
+takut sistem error ketika jam sibuk;
+takut pelanggan justru semakin banyak bertanya;
+takut biaya implementasi terlalu besar.
+Karena itu saya dapat menggali dengan pertanyaan:
+“Kalau dari sisi operasional, bagian mana yang paling kamu khawatirkan kalau sistem seperti ini benar-benar dipakai?”
+Pertanyaan tersebut membantu saya membedakan:
+“Tidak tertarik”
+dengan
+“Tertarik, tetapi ada constraint.”
+Ini penting karena dua state tersebut membutuhkan respons yang berbeda.
+13. Adaptasi terhadap Tiga Peran
+13.1 Adaptasi untuk User
+Jika User lebih peduli terhadap waktu:
+Saya menekankan:
+kepastian waktu makan.
+Saya tidak perlu menjelaskan database atau dashboard.
+Fokus saya:
+“Kamu bisa tahu apakah makananmu masih diproses atau sudah siap tanpa harus berdiri dekat tempat pengambilan.”
+13.2 Adaptasi untuk Operator
+Jika Operator lebih khawatir tentang pekerjaan tambahan:
+Saya mengubah fokus:
+kesederhanaan proses input.
+Saya tidak menjelaskan banyak fitur pelanggan.
+Saya justru menunjukkan bahwa sistem hanya membutuhkan perubahan status sederhana.
+13.3 Adaptasi untuk Decision Maker
+Jika Decision Maker lebih fokus pada penyebab masalah dan biaya:
+Saya tidak menjanjikan bahwa sistem pasti menyelesaikan antrean.
+Saya mengatakan:
+“Solusi ini perlu diuji untuk melihat apakah informasi status benar-benar mengurangi interupsi dan membantu alur pelayanan. Kalau hasilnya tidak menunjukkan perbaikan, mekanismenya perlu dievaluasi kembali.”
+Dengan demikian, solusi tetap terbuka terhadap validasi.
+14. Memahami Batas Solusi
+Saya sengaja tidak mengatakan:
+“Sistem ini pasti menghilangkan antrean.”
+Karena klaim tersebut belum memiliki bukti.
+Sistem informasi status pesanan mungkin dapat:
+mengurangi ketidakpastian;
+mengurangi pertanyaan status;
+membantu mahasiswa mengetahui perkembangan pesanan;
+membantu pengelola melihat alur pesanan.
+Namun sistem tersebut belum tentu:
+mengurangi jumlah mahasiswa yang datang;
+mempercepat proses memasak;
+menambah jumlah petugas;
+menghilangkan bottleneck di dapur.
+Oleh karena itu, saya membedakan:
+Masalah informasi dengan masalah kapasitas operasional.
+Jika bottleneck sebenarnya adalah jumlah petugas atau waktu memasak, sistem informasi saja tidak cukup.
+15. Risiko dan Batasan Solusi
+Risiko / Batasan
+Dampak
+Mitigasi
+Sistem menambah pekerjaan operator
+Operator semakin sibuk
+Buat input status sesederhana mungkin dan uji pada skala kecil
+Estimasi waktu tidak akurat
+Pengguna semakin kecewa
+Tampilkan estimasi sebagai perkiraan, bukan janji pasti
+Jaringan tidak stabil
+Status terlambat diperbarui
+Buat mekanisme sederhana dan prioritaskan informasi penting
+Pesanan menumpuk di dapur
+Sistem hanya memindahkan bottleneck
+Evaluasi kapasitas proses dapur sebelum memperluas penggunaan
+Pengguna tidak memahami status
+Fitur tidak memberikan manfaat
+Gunakan label status yang sederhana dan familiar
+Sistem terlalu kompleks
+Sulit diterapkan
+Mulai dari fitur inti sebelum menambah fitur lain
+16. Mengapa Saya Memangkas Beberapa Fitur?
+Pada awalnya sangat mudah untuk mengatakan:
+“Solusinya punya QR code, aplikasi, dashboard, notifikasi, pre-order, pembayaran digital, estimasi AI, dan analitik.”
+Namun daftar tersebut tidak otomatis membuat pitch menjadi lebih baik.
+Saya justru memilih untuk memangkas fitur yang tidak langsung membantu menjawab masalah utama.
+Prinsip saya:
+Jika saya tidak dapat menjelaskan hubungan sebuah fitur dengan masalah sasaran dalam satu atau dua kalimat, fitur tersebut belum layak menjadi fokus pitch.
+Dengan demikian, detoks fitur bukan berarti sistem menjadi lebih buruk.
+Sebaliknya, detoks fitur membuat nilai utama solusi lebih mudah terlihat.
+17. Reaction → Response
+Situasi
+Reaction yang mungkin muncul
+Response yang saya pilih
+Lawan bicara mengatakan “Menarik”
+Saya ingin langsung menjelaskan semua fitur
+Saya menahan diri dan bertanya bagian mana yang menarik
+Lawan bicara bertanya tentang mekanisme
+Saya ingin menjelaskan sisi teknis
+Saya memberikan contoh sederhana terlebih dahulu
+Operator khawatir pekerjaan bertambah
+Saya bisa defensif terhadap solusi
+Saya mengakui concern dan menggali proses yang paling realistis
+Decision Maker mempertanyakan penyebab antrean
+Saya ingin mempertahankan solusi
+Saya mengakui bahwa sistem bukan solusi untuk semua penyebab
+Lawan bicara menolak
+Saya ingin meyakinkan agar setuju
+Saya menghargai keputusan dan menggali alasan penolakan
+Lawan bicara terlihat ragu
+Saya ingin menambahkan lebih banyak fitur
+Saya kembali ke masalah dan mencari hidden concern
+18. Apa yang Berubah dari Cara Saya Berkomunikasi?
+Sebelumnya saya cenderung berpikir bahwa menjelaskan solusi berarti menjelaskan sebanyak mungkin hal yang bisa dilakukan sistem.
+Melalui latihan ini, saya menyadari bahwa pendekatan tersebut dapat menghasilkan feature dumping.
+Sekarang saya mencoba menggunakan pola:
+Problem → Possibility → Mechanism → Benefit → Value → Check Interest
+Saya juga belajar bahwa keberhasilan pitch bukan hanya ketika orang mengatakan:
+“Bagus.”
+Saya perlu melihat apakah mereka:
+memahami hubungan solusi dengan masalah;
+mengajukan pertanyaan;
+menyebutkan constraint;
+membayangkan penggunaan;
+memberikan keberatan yang spesifik;
+atau bahkan menyatakan bahwa solusi tersebut tidak cocok.
+Bahkan penolakan dapat menjadi evidence yang berguna karena menunjukkan bahwa terdapat asumsi saya yang perlu diperbaiki.
+19. Evidence yang Akan Saya Gunakan
+Evidence 1 — Attention terhadap Masalah
+Saya menggunakan hasil eksplorasi Week 6 sebagai dasar masalah.
+Tiga perspektif yang sudah dieksplorasi:
+User: waktu istirahat berkurang karena menunggu;
+Operator: pesanan dapat menumpuk ketika datang hampir bersamaan;
+Decision Maker: penyebab waktu tunggu perlu diketahui sebelum memilih solusi.
+Evidence ini menunjukkan bahwa solusi Week 7 tidak dibuat secara acak, tetapi merupakan kelanjutan dari masalah yang telah dikonfirmasi sebelumnya.
+Evidence 2 — Problem–Solution Link
+Saya menghubungkan:
+Masalah:
+Mahasiswa tidak mengetahui perkembangan pesanan dan waktu tunggu.
+dengan:
+Mekanisme solusi:
+Status pesanan dan estimasi waktu sederhana.
+Kemudian:
+Benefit:
+Mahasiswa mendapatkan informasi mengenai perkembangan pesanan.
+dan:
+Value:
+Mahasiswa dapat menggunakan waktu istirahat dengan lebih terprediksi.
+Evidence 3 — Operator Problem–Solution Link
+Masalah:
+Pesanan dapat menumpuk dan pelanggan dapat membutuhkan informasi status.
+Mekanisme:
+Status pesanan ditampilkan secara terpusat.
+Benefit:
+Informasi status tidak harus selalu disampaikan secara manual.
+Value:
+Operator dapat lebih fokus pada proses pelayanan.
+Evidence 4 — Decision Maker Problem–Solution Link
+Masalah:
+Pengelola perlu memahami penyebab waktu tunggu sebelum menentukan perbaikan.
+Mekanisme:
+Sistem mencatat dan menampilkan status/proses pesanan secara lebih terstruktur.
+Benefit:
+Kondisi pelayanan dapat lebih mudah diamati.
+Value:
+Pengelola memiliki dasar yang lebih baik untuk menentukan apakah masalah berada pada antrean, jumlah petugas, atau proses pelayanan.
+20. Rencana Validasi
+Saya tidak ingin berhenti pada pitch.
+Langkah berikutnya adalah melakukan uji kecil.
+Tahap 1 — Uji User
+Saya akan menunjukkan simulasi status:
+Diproses → Sedang Disiapkan → Siap Diambil
+Kemudian bertanya:
+“Apakah informasi seperti ini benar-benar membantu kamu memperkirakan waktu makan?”
+Tahap 2 — Uji Operator
+Saya akan menunjukkan alur perubahan status dan bertanya:
+“Kalau digunakan saat jam ramai, bagian mana dari proses ini yang menurut kamu paling merepotkan?”
+Tahap 3 — Uji Decision Maker
+Saya akan menunjukkan tujuan sistem dan bertanya:
+“Data apa yang paling penting untuk menentukan apakah masalah antrean memang berkurang?”
+Dengan cara tersebut, saya tidak hanya mencari orang yang mengatakan solusi saya bagus.
+Saya mencari bukti bahwa solusi benar-benar relevan.
+21. Indikator Interest yang Saya Cari
+Saya menentukan beberapa indikator yang lebih konkret.
+Interest dari User
+Minimal User:
+bertanya tentang cara penggunaan;
+mampu menjelaskan kembali manfaat sistem;
+atau mengatakan bahwa informasi status akan membantu mereka.
+Interest dari Operator
+Minimal Operator:
+mampu melihat bagaimana sistem dapat mengurangi interupsi;
+memberikan masukan terhadap alur;
+atau menyebutkan kondisi tertentu yang perlu diperbaiki.
+Interest dari Decision Maker
+Minimal Decision Maker:
+meminta informasi mengenai uji coba;
+bertanya mengenai data yang dibutuhkan;
+atau memberikan constraint yang perlu dipertimbangkan.
+Saya tidak menyamakan:
+“terlihat mendengarkan”
+dengan:
+“tertarik pada solusi.”
+Interest harus dibuktikan melalui respons atau tindakan yang lebih spesifik.
+22. Komitmen Perbaikan
+Untuk latihan berikutnya, saya akan menggunakan aturan:
+Jangan menambah fitur sebelum memahami keberatan.
+Jika seseorang mengatakan:
+“Menarik, tapi…”
+Saya tidak akan langsung menjawab dengan menambahkan fitur baru.
+Saya akan bertanya:
+“Bagian mana yang menurut kamu masih jadi masalah?”
+Jika seseorang mengatakan:
+“Saya nggak yakin ini membantu.”
+Saya akan bertanya:
+“Masalah mana yang menurut kamu belum terselesaikan?”
+Jika seseorang mengatakan:
+“Ini malah bikin kerjaan tambah banyak.”
+Saya akan bertanya:
+“Bagian proses mana yang menurut kamu paling berpotensi menambah beban?”
+Dengan pola tersebut, saya ingin mengubah keberatan menjadi informasi untuk memperbaiki problem–solution fit.
+23. Penggunaan AI
+Saya menggunakan AI sebagai alat bantu untuk:
+merapikan struktur Problem–Solution Interest Pitch;
+membantu membedakan Feature, Benefit, dan Value;
+mengecek apakah pitch terlalu banyak menggunakan jargon;
+membantu mengidentifikasi kemungkinan hidden concern;
+membantu menyusun pertanyaan validasi.
+AI tidak digunakan untuk menciptakan respons orang lain atau memalsukan evidence interaksi.
+Respons dan pengalaman komunikasi yang digunakan dalam portofolio harus berasal dari interaksi yang benar-benar terjadi.
+24. Feedback dan Tindak Lanjut
+Feedback yang ingin saya minta dari rekan adalah:
+“Menurut kamu, ketika aku menjelaskan solusi ini, aku lebih banyak menjelaskan fitur atau benar-benar menjelaskan manfaat yang relevan dengan masalah orang yang aku ajak bicara?”
+Pertanyaan kedua:
+“Kalau kamu berada di posisi mahasiswa atau petugas kantin, bagian mana dari pitch ini yang membuat kamu tertarik dan bagian mana yang masih membuat kamu ragu?”
+Feedback tersebut akan membantu saya mengevaluasi apakah saya sudah berhasil berpindah dari pola:
+“Ini fitur yang saya punya.”
+menjadi:
+“Ini masalah yang kamu alami, dan ini bagian dari solusi yang mungkin relevan untuk masalah tersebut.”
+25. Self-Assessment
+Kriteria
+Penilaian Diri
+Alasan
+Kecocokan (Fit)
+4
+Solusi dirancang berdasarkan masalah yang telah dikonfirmasi dari User, Operator, dan Decision Maker, bukan berdasarkan daftar fitur semata.
+Kejelasan Mekanisme
+4
+Mekanisme dijelaskan dengan status sederhana dan contoh alur pesanan sehingga dapat dibayangkan tanpa memahami detail teknis.
+Penerjemahan Nilai
+4
+Fitur diterjemahkan menjadi manfaat dan nilai yang berbeda untuk User, Operator, dan Decision Maker.
+Kejujuran & Batas
+4
+Saya tidak mengklaim bahwa solusi pasti menghilangkan antrean dan secara eksplisit menyebutkan risiko, keterbatasan, serta kebutuhan validasi.
+Total self-assessment: 16/16
+26. Kesimpulan
+Latihan Week 7 membuat saya memahami bahwa menumbuhkan Interest bukan berarti membuat solusi terdengar semakin canggih.
+Interest justru lebih mungkin muncul ketika seseorang dapat melihat hubungan yang jelas antara:
+masalah → mekanisme solusi → manfaat → nilai bagi dirinya.
+Pada kasus antrean kantin, saya tidak lagi memosisikan solusi sebagai “aplikasi kantin dengan banyak fitur”.
+Saya memfokuskan solusi pada masalah yang sudah ditemukan:
+ketidakpastian status pesanan, waktu tunggu, dan penumpukan proses pada jam makan siang.
+Karena itu, fitur utama yang saya prioritaskan adalah:
+status pesanan;
+estimasi waktu tunggu;
+informasi antrean.
+Fitur lain tidak otomatis saya masukkan hanya karena secara teknis memungkinkan.
+Saya juga belajar bahwa Interest tidak boleh diasumsikan hanya dari ekspresi seperti “bagus” atau “menarik”. Saya perlu membaca state, menggali hidden concern, kemudian melakukan adaptation berdasarkan respons nyata.
+Bagi saya, prinsip terpenting dari latihan ini adalah:
+Jangan menjual fitur. Tunjukkan hubungan antara masalah yang benar-benar dialami seseorang dengan perubahan yang mungkin diberikan oleh solusi.
+Kembali ke atas
+Target–Attention Challenge
+UTS Performance Evidence Package
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#problemsolution-interest-pitch
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#konteks-masalah-yang-telah-dikonfirmasi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#topik-masalah
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dari-week-6
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#perspektif-user
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#perspektif-operator
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#perspektif-decision-maker
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#customer-problem-statement
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dari-masing-masing-peran
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#feature-detox
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#matriks-detoks-fitur
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#mengubah-feature-benefit-value
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#fitur-1-status-pesanan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#fitur-2-estimasi-waktu-tunggu
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#fitur-3-pre-order
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#solusi-yang-saya-pilih
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#pitch-interest-60-detik
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#komunikasi-berlapis
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#layer-1-problem
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#layer-2-possibility
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#layer-3-mechanism
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#layer-4-benefit
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#layer-5-check-interest
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#demonstrasi-mekanisme
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#response-state-assessment-dan-adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#respons-yang-perlu-dicari
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#state-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#state-a-belum-tertarik
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#state-b-tertarik-tetapi-masih-ragu
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#state-c-mulai-interest
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptasi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#adaptasi-terhadap-tiga-peran
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#adaptasi-untuk-user
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#adaptasi-untuk-operator
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#adaptasi-untuk-decision-maker
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#memahami-batas-solusi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#risiko-dan-batasan-solusi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#mengapa-saya-memangkas-beberapa-fitur
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#reaction-response
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#apa-yang-berubah-dari-cara-saya-berkomunikasi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#evidence-yang-akan-saya-gunakan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#evidence-1-attention-terhadap-masalah
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#evidence-2-problemsolution-link
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#evidence-3-operator-problemsolution-link
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#evidence-4-decision-maker-problemsolution-link
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#rencana-validasi
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#tahap-1-uji-user
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#tahap-2-uji-operator
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#tahap-3-uji-decision-maker
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#indikator-interest-yang-saya-cari
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#interest-dari-user
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#interest-dari-operator
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#interest-dari-decision-maker
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#komitmen-perbaikan
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html#kesimpulan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -104,7 +104,7 @@ Objective & State
 4
 Kondisi awal, tujuan, serta perubahan setelah mendapatkan informasi baru dapat dijelaskan dengan jelas.
 Repertoire, Language & AI
-3
+4
 Cara berkomunikasi disesuaikan dengan kondisi dan AI digunakan sebagai alat bantu untuk refleksi, bukan sebagai sumber fakta.
 Response & Adaptation
 4

@@ -1,0 +1,94 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 791
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Minggu 5 — Professional Discovery Interview
+PortfolioMinggu 5
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Indeks
+Professional Discovery Interview
+Discovery menuju shared problem statement.
+Minggu 5
+Status Siap dinilai
+Self 18
+Assessor —
+Professional Discovery
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+Konteks performance
+Tanggal dan setting: 18 September 2026, Diskusi santai di kampus untuk mencari studi kasus tugas Jurnal Praktikum 2 Object Oriented Programming (OOP).
+Persons dan relationship: Agas (Mahasiswa) dan Ariya (Teman seangkatan yang menjabat sebagai Bendahara Kelas).
+Objective dan initial state: Menggali masalah pencatatan uang kas Ariya untuk dimodelkan ke dalam rancangan Class dan Encapsulation (materi Praktikum 2 OOP). Initial state: Asumsi awalku, Ariya butuh bot WhatsApp pengingat untuk menagih anak-anak yang belum bayar kas.
+Evidence
+Initial Assumption: Ariya butuh program untuk auto-blast pesan WA penagihan uang kas kelas setiap minggu. Discovery Question: “Boleh diceritain Ya (Ariya), selama jadi bendahara kelas, biasanya yang paling bikin pusing pas ngurusin uang kas itu di bagian mananya?”
+Paraphrase Percakapan: Ariya: “Masalahnya bukan di nagihnya sih Gas. Anak-anak gampang aja bayarnya. Susahnya itu aku sering lupa nyatet kalau uang kasnya tiba-tiba dipakai buat fotokopi tugas kelas atau beli spidol. Pas akhir bulan, saldo uang fisik di tanganku beda sama catetan pemasukan karena pengeluarannya nggak kerekap.” Agas: “Oh, jadi yang bikin pusing itu bukan narik uangnya, tapi proses pencatatan arus keluar (pengeluaran) operasional kelas yang sering kelewat ya?” Ariya: “Bener banget. Aku cuma pengen ada struktur pencatatan sederhana yang memisahkan uang masuk sama uang keluar, biar rekap saldo akhir bulanku nggak pernah selisih.”
+Shared Problem Statement: “Bendahara kelas membutuhkan pemodelan Class OOP sederhana (Class BukuKas yang mengkapsulasi logika pemasukan dan pengeluaran) untuk dijadikan studi kasus Praktikum 2 OOP, agar pelacakan saldo kas dan operasional tidak lagi selisih.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Berperan sebagai Analis Kebutuhan yang mendengarkan, bukan sekadar mahasiswa yang mengejar nilai praktikum dengan ide rumit.
+Objective & state
+Berhasil menggugurkan asumsi awal (Bot Penagih WA) menjadi solusi konseptual yang sesuai dengan materi (Encapsulation OOP).
+Repertoire & language
+Menggunakan teknik paraphrasing untuk memvalidasi fokus masalah.
+Response & adaptation
+Merespons temuan baru dengan mengarahkan solusi murni ke pembuatan hirarki dasar Class untuk Praktikum 2.
+Agreement/action
+Ariya mengkonfirmasi rumusan masalah yang lebih sederhana ini sesuai dengan keluhannya selama ini.
+Relationship outcome
+Ariya merasa sangat terbantu dan merasa didengarkan keluh kesahnya sebagai bendahara.
+Penggunaan AI
+Tidak menggunakan AI dalam proses wawancara. Analisis dibantu dengan refleksi mandiri dari modul Praktikum 2 OOP.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ariya membalas, “Iya Gas persis kayak gitu. Asal pengeluarannya gampang dicatet dan saldonya update otomatis, hidupku udah tenang.”
+Adaptation/replay: Menghindari membayangkan software integrasi API yang rumit (seperti Bot WA) saat mengerjakan tugas Requirement awal praktikum. Mulai biasakan memikirkan level konseptual/objek terkecil terlebih dulu.
+Next practice: Rutin menggunakan paraphrasing untuk konfirmasi masalah, agar tidak “over-engineer” solusi di setiap tugas praktikum.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Mampu menahan diri mendikte sistem yang “keren”
+Objective & State
+4
+Shared problem statement tervalidasi oleh partner
+Repertoire, Language & AI
+4
+Paraphrasing sangat efektif menangkap inti masalah (arus keluar)
+Response & Adaptation
+4
+Kebutuhan disesuaikan dengan konsep Praktikum 2 OOP
+Agreement, Action & Relationship
+3
+Partner setuju dengan ruang lingkup pemecahan masalahnya
+Total skor self-assessment18/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-05.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
