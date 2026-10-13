@@ -5,8 +5,3 @@ assessment-results/
 assessment-inputs/
 .*.lock
 telegram-offset.txt
-uts-assessment.csv
-uts-references/*.json
-!uts-references/rubric-operasional-v1.draft.json
-uts-references-approved/*.json
-*.before-uts.bak
