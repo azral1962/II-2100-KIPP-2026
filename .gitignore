@@ -5,3 +5,6 @@ assessment-results/
 assessment-inputs/
 .*.lock
 telegram-offset.txt
+
+/.quarto/
+**/*.quarto_ipynb
