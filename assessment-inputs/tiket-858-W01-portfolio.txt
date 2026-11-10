@@ -1,0 +1,181 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 858
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Lima character
+Episode dan perubahan language
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+PeringatanCatatan validasi evidence
+Character map dan latihan performance telah dilakukan menurut konfirmasi Ariya. Dialog di bawah merupakan rekonstruksi berbantuan AI, bukan kutipan verbatim atau rekaman. Skor menilai pemetaan dan keputusan komunikasi dalam latihan; lampirkan catatan asli bila tersedia.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan perilaku latihan
+Intra-Self — pembelajar reflektif
+Ariya saat menghadapi materi baru
+Memahami konsep sebelum menyimpulkan diri tidak mampu; bertanggung jawab mencari bagian yang belum dipahami
+Catatan fact/story, latihan kecil, pertanyaan spesifik: “Bagian mana yang belum bisa saya jelaskan?”
+Mengubah satu kesalahan menjadi label diri; pisahkan hasil latihan dari identitas
+Friends — teman belajar
+Naufal saat belajar Matematika Diskret
+Membantu tanpa mengambil alih; menjaga percakapan tetap setara
+Bertanya dulu, menggambar relasi/himpunan, paraphrase
+Terlalu cepat memberi jawaban; tanyakan apakah ia ingin petunjuk atau pembahasan
+Working Colleagues — anggota tim OOP
+Randy dan Andra dalam pembagian tugas pemrograman
+Menghasilkan bagian program yang dapat digabung dan diuji
+Checklist interface, pembagian owner, konfirmasi tertulis
+Fokus pada kecepatan sendiri; sepakati kontrak method sebelum coding
+Learning Community — rekan praktikum jaringan
+Owen saat menguji konfigurasi jaringan
+Membantu kelompok menemukan sumber konektivitas gagal tanpa saling menyalahkan
+Diagram topologi, urutan ping, pertanyaan diagnostik
+Langsung mengubah banyak konfigurasi; ubah satu variabel tiap pengujian
+Public — mahasiswa yang berbagi catatan
+Teman sekelas yang belum akrab
+Membagikan ringkasan yang akurat dan mudah dipakai
+Bahasa sederhana, contoh kecil, batasan catatan
+Menganggap semua orang punya prasyarat sama; jelaskan istilah dan asumsi
+Episode dan perubahan language
+Tanggal dan setting: 1 September 2026, sesi belajar kelompok OOP di area belajar kampus. Catatan berikut adalah rekonstruksi latihan untuk menunjukkan penerapan konsep.
+Objective: Mengubah pembagian kerja yang masih kabur menjadi kesepakatan interface sederhana sambil mempertahankan hubungan sebagai teman satu tim.
+Ariya (character anggota tim): “Sebelum kita bagi class, boleh kita samakan dulu input dan output method-nya?”
+Randy: “Boleh. Aku masih bingung bagian validasinya.”
+Ariya: “Kalau begitu kita tetapkan parameter dan contoh kasus dulu, lalu masing-masing implementasi. Kamu nyaman kalau aku tulis kontraknya di dokumen?”
+Perubahan dari “kamu belum mengerjakan” menjadi pertanyaan tentang kontrak kerja memindahkan fokus dari penilaian person ke koordinasi. Sebagai teman, language yang kupilih: “Bagian mana yang paling bikin kamu macet?” Sebagai anggota tim, language-nya: “Kita perlu menyepakati input, output, dan test case sebelum menggabungkan class.” Perhatian pada orang tetap sama, tetapi tanggung jawab dan action berbeda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Randy diperlakukan sebagai rekan yang sedang menghadapi bagian validasi, bukan diberi label “lambat”. Ariya beralih dari teman ke anggota tim.
+Objective & state
+State awal: pembagian method belum memiliki kontrak yang jelas. State tujuan: parameter, output, dan test case disepakati.
+Repertoire & language
+Pertanyaan terbuka dan contoh interface lebih berguna daripada instruksi umum. Istilah teknis dipakai karena konteksnya tim OOP.
+Response & adaptation
+Respons Randy menunjukkan titik bingungnya validasi; pendekatan diarahkan ke contoh input-output sebelum pembagian implementasi.
+Agreement/action
+Draf kesepakatan latihan: tulis kontrak method dan satu test case sebelum kode digabung.
+Relationship outcome
+Simulasi menjaga nada kolaboratif; dampak pada relasi aktual belum dapat diklaim tanpa konfirmasi.
+Penggunaan AI
+AI membantu menyusun kerangka karakter, merapikan bahasa, dan membuat dialog simulasi dari konteks mata kuliah yang diberikan. Nama serta percakapan tidak diverifikasi dan tidak digunakan sebagai kutipan nyata. Aku perlu mencocokkan semua detail personal dengan ingatan sendiri; penilaian tentang karakter dan relasi tetap menjadi tanggung jawabku.
+Feedback dan tindak lanjut
+Feedback latihan: Dalam skenario, Randy meminta contoh konkret sebelum menerima pembagian kerja. Ini menjadi sinyal untuk tidak berhenti pada kesepakatan abstrak.
+Adaptation/replay: Tambahkan satu contoh pemanggilan method dan sepakati siapa yang menyiapkan test case.
+Next practice: Sebelum membagi coding, minta setiap anggota menjelaskan kembali kontrak method dengan kata-katanya sendiri.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character lintas domain dibedakan; satu person dapat hadir sebagai teman dan anggota tim.
+Objective & State
+3
+State dan objective jelas, tetapi episode berfokus pada satu tujuan kerja.
+Repertoire, Language & AI
+4
+Pertanyaan, contoh teknis, dan paraphrase dipilih sesuai character; batas AI dinyatakan.
+Response & Adaptation
+4
+Permintaan contoh konkret diperlakukan sebagai signal untuk mengubah cara menjelaskan dan menambah test case.
+Agreement, Action & Relationship
+3
+Ada action spesifik dan nada kolaboratif; dampak relasi setelah latihan belum dicatat.
+Total: 18/20. Skor 4 didukung pemetaan lintas character dan adaptasi terhadap response; skor 3 pada Objective dan Relationship mencerminkan belum adanya beberapa state yang bersaing dan belum terdokumentasikannya dampak relasi setelah latihan.
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Ariya Nanda Harimawan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sg22ariya.github.io/kipp-students/index.html
+- https://sg22ariya.github.io/kipp-students/assets/logo.png
+- https://sg22ariya.github.io/kipp-students/course/index.html
+- https://sg22ariya.github.io/kipp-students/portfolio/index.html
+- https://sg22ariya.github.io/kipp-students/examples/index.html
+- https://sg22ariya.github.io/kipp-students/lk/index.html
+- https://sg22ariya.github.io/kipp-students/slides.html
+- https://sg22ariya.github.io/kipp-students/slides-pdf/index.html
+- https://sg22ariya.github.io/kipp-students/assessment/index.html
+- https://sg22ariya.github.io/kipp-students/about.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-03.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-08.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-09.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-10.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-11.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-12.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-13.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-14.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-15.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#episode-dan-perubahan-language
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

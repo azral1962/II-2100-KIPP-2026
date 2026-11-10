@@ -1,0 +1,206 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 972
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Peta lima character
+Episode yang dianalisis dan artefak verifikasi langsung
+Transkrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)
+Lampiran Artefak Pendukung
+1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit
+2. Jadwal Pengelolaan Beban Kerja & Sinkronisasi
+3. Log Git Commit Inline (Verifikasi Langsung)
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Peta lima character dan adaptasi bahasa, dilengkapi lampiran percakapan teknis, perbandingan skema basis data sebelum–sesudah commit, serta jadwal pengelolaan beban kerja.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Artefak proses diskusi, transkrip teks mentah, perbandingan skema basis data, log aktivitas Git inline, serta jadwal pengelolaan beban kerja.
+CatatanIdentitas dan Status Evidence
+Mahasiswa: Muhammad Nabil Aizar Ramadhan
+Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap dan langsung di bawah ini.
+Peta lima character
+Domain dan character
+Person dan relationship
+Objective dan responsibility
+Repertoire dan language
+Risiko dan latihan
+Intra-Self — reflective debugger
+Diri sendiri saat menghadapi kendala teknis atau evaluasi performa
+Mengurai frustrasi menjadi langkah analisis logis tanpa mereduksi diri
+Pemisahan fakta vs asumsi; “Variabel mana yang berada di bawah kendali saya?”
+Terjebak overthinking; tulis daftar fakta terukur sebelum menyimpulkan
+Academic / Work — koordinator teknis
+Fakhri (rekan satu tim pengembang perangkat lunak)
+Menyelaraskan arsitektur modul dan memastikan tenggat integrasi tercapai
+Check-in progres, penegasan spesifikasi via catatan tertulis; “Kendala apa yang menghambat modul X?”
+Terdengar diktator/kaku; jelaskan dampak sistemik terhadap seluruh tim sebelum meminta revisi
+Peers — rekan setara
+Anggota kelompok tugas kuliah umum
+Menjaga ritme kolaborasi yang adil dan terbuka
+Diskusi dua arah, asertif tanpa menyerang; “Bagaimana jika kita bagi dua tugas ini agar tidak menumpuk?”
+Pasif demi menghindari konflik; sampaikan ketidaksesuaian sedini mungkin
+Community / Org — fasilitator divisi
+Anggota baru organisasi mahasiswa
+Membantu adaptasi alur kerja tanpa menciptakan relasi kuasa yang menekan
+Active listening, pertanyaan pemantik; “Bagian alur mana yang masih membingungkan?”
+Micromanagement; berikan ruang eksplorasi mandiri sebelum mengoreksi hasil
+Friends & Family — anak / teman santai
+Keluarga dan teman dekat di luar jam kerja
+Mengomunikasikan rasa lelah secara jujur, mendengarkan saran, dan melepas beban mental
+Humor kontekstual, bahasa personal terbuka; “Mau cerita santai atau butuh masukan?”
+Menutup diri saat kewalahan; tahan dorongan langsung menganalisis masalah secara teknis
+Episode yang dianalisis dan artefak verifikasi langsung
+Konteks & Masalah: Sehari setelah batas waktu kesepakatan internal terlewati, berkas skema basis data dan kontrak rute API pada modul sistem belum muncul di repositori Git. Pikiran awal saya langsung membentuk asumsi (story) bahwa rekan tim mengabaikan komitmen jadwal. Padahal, data objektif saat itu hanyalah satu: belum ada commit baru yang masuk ke repositori (fact).
+Objective: Memastikan status riil pengerjaan kode serta menyepakati penyesuaian jadwal integrasi bersama, tanpa merusak kenyamanan dan rasa saling percaya di dalam tim.
+Transkrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)
+Saya (Koordinator Teknis): “Fakhri, draf skema basis data di repositori belum ada pembaruan dari semalam. Bisa langsung push sekarang biar tim antarmuka nggak tertahan?”
+Fakhri: “Iya, ada kendala konflik dependensi di environment lokal semalam, jadi aku agak tertahan pas mau validasi rute endpoints-nya.”
+(Observasi Pergeseran Strategi/Adaptasi: Alih-alih mendesak pemaksaan push mentah yang berisiko merusak sistem lokal Fakhri, saya segera mengubah strategi merespons hambatan teknis tersebut menjadi tawaran sesi kolaboratif terisolasi).
+Saya (Adaptasi Strategi): “Berarti struktur relasi datanya aman, dan kendala murni ada di isolasi pengujian lokalnya? Kalau begitu, alih-alih langsung push file rusak, bagaimana kalau skemanya kita rapikan dulu sebentar siang ini untuk mock, lalu sore nanti kita bereskan konfigurasi lokalnya bareng-bareng lewat sesi sinkronisasi virtual?”
+Fakhri: “Wah, boleh banget kalau dibantu sinkronisasi environment-nya sore nanti, biar kodenya bersih dan nggak conflict pas digabung.”
+Lampiran Artefak Pendukung
+1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit
+Sebelum Commit (Status Buntu / Lokal):
+Berkas skema: schema.sql (Hanya tersimpan di direktori lokal perangkat pengembang, belum terhubung ke remote branch).
+Kontrak API: Belum tervalidasi akibat dependency conflict pada environment lokal.
+Sesudah Commit (Status Sinkronisasi & Mock Testing):
+Berkas skema di-unggah ke repositori utama: chore(db): initial schema draft for mock testing.
+Struktur relasi tabel siap diakses tim antarmuka untuk pengujian data tiruan (mock).
+2. Jadwal Pengelolaan Beban Kerja & Sinkronisasi
+Pukul 13.00 WIB: Batas waktu pengunggahan draf skema mentah ke repositori Git untuk kebutuhan tim antarmuka.
+Pukul 16.00 – 16.30 WIB: Sesi sinkronisasi bersama (30 menit) untuk membereskan konflik konfigurasi pengujian lokal menggunakan virtual environment terisolasi.
+3. Log Git Commit Inline (Verifikasi Langsung)
+commit 7f3b8a21c (HEAD -> main, origin/main)
+Author: Fakhri <fakhri@student.itb.ac.id>
+Date: Wed Oct 14 14:15:22 2026 +0700
+chore(db): initial schema draft for mock testing
+- Add base relation schema tables for user and module entities
+- Resolves local mock dependency structure for frontend team integration
+Perubahan language
+Sebagai teman santai, saya mungkin hanya berujar, “Santai saja, nanti kalau sempat baru dikerjakan.” Namun sebagai koordinator teknis, saya memilih kalimat, “Tim membutuhkan struktur skema sebelum pengujian antarmuka; opsi mana yang realistis agar integrasi tidak terhenti?” Nilai kepedulian pada rekan tetap terjaga, namun batas tanggung jawab dan orientasi tindakan disesuaikan dengan konteks kerja tim.
+Evidence, AI, dan feedback
+- Evidence pendukung: Transkrip percakapan langsung yang memuat bukti observasi adaptasi respons target secara real-time, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.
+- Penggunaan AI: Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
+- Evaluasi diri: Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi) yang memicu pergeseran strategi verbal secara taktis.
+- Evaluasi rekan: Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, dan penawaran sesi sinkronisasi terisolasi sangat membantu mengatasi kendala dependensi lokalnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character dipetakan dari tiga domain; pemisahan peran koordinator teknis dan anak terlihat kontras.
+Objective & State
+4
+Kejelasan perubahan dari kondisi buntu (initial state) menuju sasaran pemecahan masalah (target state).
+Repertoire, Language & AI
+4
+Register teknis dan afektif dibedakan jelas; transparansi etika AI dicantumkan serta didukung bukti log Git inline dan perbandingan skema.
+Response & Adaptation
+4
+Bukti observasi respons target diverifikasi secara langsung melalui pergeseran strategi verbal (dari desakan push mentah ke penawaran sesi sinkronisasi virtual).
+Agreement, Action & Relationship
+4
+Komitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap.
+Total Skor: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#peta-lima-character
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis-dan-artefak-verifikasi-langsung
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#lampiran-artefak-pendukung
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#perbandingan-skema-basis-data-sebelum-vs-sesudah-commit
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#jadwal-pengelolaan-beban-kerja-sinkronisasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#log-git-commit-inline-verifikasi-langsung
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

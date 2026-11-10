@@ -1,0 +1,333 @@
+# Assessment UTS W08
+
+Usulan AI; nilai resmi menunggu moderasi dosen.
+
+Makalah: nilai resmi dosen diperlukan (10%). Nilai akhir: Belum dihitung.
+Keputusan pencapaian menunggu ketetapan dosen.
+
+## Kelengkapan evidence
+- index: Ada
+- paper: Ada
+- 1: Ada
+- 2a: Ada
+- 2b: Ada
+- 3a: Ada
+- 3b: Ada
+
+## Rekap sesi dan kasus
+| Komponen | Nilai /100 | Bobot |
+|---|---|---|
+| Makalah (dosen) | BT | 10% |
+| Sesi 1 | Belum dihitung | 18% |
+| Sesi 2a | Belum dihitung | 18% |
+| Sesi 2b | Belum dihitung | 18% |
+| Sesi 3a | Belum dihitung | 18% |
+| Sesi 3b | Belum dihitung | 18% |
+| Kasus 2 (rata-rata, bukan komponen tambahan) | Belum dihitung | — |
+| Kasus 3 (rata-rata, bukan komponen tambahan) | Belum dihitung | — |
+
+## Sesi 1 — Belum dihitung /100
+Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+| Dimensi | Skor | Evidence | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Persepsi dan validasi profil/status | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Pemilihan dan urutan repertoar | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Eksekusi jelas, peduli dan konsisten | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Evaluasi dan adaptasi | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Refleksi dan lesson learned | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+Prioritas perbaikan: Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+## Sesi 2a — Belum dihitung /100
+Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+| Dimensi | Skor | Evidence | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Persepsi dan validasi profil/status | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Pemilihan dan urutan repertoar | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Eksekusi jelas, peduli dan konsisten | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Evaluasi dan adaptasi | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Refleksi dan lesson learned | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+Prioritas perbaikan: Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+## Sesi 2b — Belum dihitung /100
+Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+| Dimensi | Skor | Evidence | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Persepsi dan validasi profil/status | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Pemilihan dan urutan repertoar | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Eksekusi jelas, peduli dan konsisten | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Evaluasi dan adaptasi | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Refleksi dan lesson learned | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+Prioritas perbaikan: Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+## Sesi 3a — Belum dihitung /100
+Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+| Dimensi | Skor | Evidence | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Persepsi dan validasi profil/status | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Pemilihan dan urutan repertoar | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Eksekusi jelas, peduli dan konsisten | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Evaluasi dan adaptasi | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Refleksi dan lesson learned | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+Prioritas perbaikan: Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+## Sesi 3b — Belum dihitung /100
+Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+| Dimensi | Skor | Evidence | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Persepsi dan validasi profil/status | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Pemilihan dan urutan repertoar | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Eksekusi jelas, peduli dan konsisten | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Evaluasi dan adaptasi | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+| Refleksi dan lesson learned | BT | BT | Evidence sesi atau descriptor resmi belum tersedia; BT. |
+Prioritas perbaikan: Evidence sesi atau descriptor resmi belum tersedia; BT.
+
+## Data terstruktur
+```json
+{
+  "assessment_type": "uts",
+  "schema_version": 1,
+  "week": "W08",
+  "ticket": "837",
+  "nim": "18225117",
+  "input_hash": "4fe82ba1bee5800507feded234ca20c57920d6b0d73773dca3afa616f6f19d67",
+  "prompt_hash": "cec0babcd397e35f53dc56cf54f2ed5f8b5b4f070eb407a2117e3234155b727d",
+  "reference": {
+    "available": false,
+    "reason": "Descriptor operasional masih draf; menunggu pengesahan dosen."
+  },
+  "manifest": {
+    "index": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/week-08.html",
+      "hash": "046ff6ac45c3ab1495c6e30a19388608171ee20c05837416dbe609eccc94bd2d",
+      "status": "Ada"
+    },
+    "paper": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/UTS/paper.html",
+      "status": "Ada",
+      "hash": "5c1f2921dcf457b8d6f5ddd183c616a8cbeddaf15b828f1a1b0bd889cdecbe79"
+    },
+    "1": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/UTS/hasil_1.html",
+      "status": "Ada",
+      "hash": "d2c16528b6197f136139878c626a149b8ec44f5003ab609ee0d5f003805fb23c"
+    },
+    "2a": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/UTS/hasil_2a.html",
+      "status": "Ada",
+      "hash": "92618d8af9b1b6ef6305489083971b2b456a95bb8a0c200cc39bd890c41cdcbb"
+    },
+    "2b": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/UTS/hasil_2b.html",
+      "status": "Ada",
+      "hash": "655f47a798402103ab2b23aca20f1ab375615a8bac9e40a6fb38225e8c79f6d8"
+    },
+    "3a": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/UTS/hasil_3a.html",
+      "status": "Ada",
+      "hash": "0a1ee6dd003ec5a2df7afe364a592fda35ffd39064d9dd2569a386c619edf8b7"
+    },
+    "3b": {
+      "url": "https://florycasta.github.io/kipp-students/portfolio/UTS/hasil_3b.html",
+      "status": "Ada",
+      "hash": "036b84b9fdbc2591e4b9fac0a75c8905a02f9a7ab8b2ffd3bbe9e5374d47e221"
+    }
+  },
+  "sessions": {
+    "1": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "2a": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "2b": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "3a": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "3b": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    }
+  }
+}
+```

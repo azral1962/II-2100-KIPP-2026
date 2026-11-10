@@ -1,0 +1,170 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1064
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map & Foundation
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi Target
+1. Target Map & Alasan Pemilihan
+2. Problem / Opportunity Pitch Berbasis Evidence
+3. Transkrip Verbatim Interaksi & Bukti Adaptasi Eksplisit
+4. Analisis Adaptasi Respons, Trade-off, dan Pembagian Otoritas
+Bukti Adaptasi Eksplisit (Anti-Klaim Sepihak)
+Pengelolaan Trade-off & Pembagian Otoritas
+5. Self-Assessment
+Penilaian Evaluator
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch berbasis evidence, transkrip verbatim adaptasi respons terhadap koreksi awal target, serta pengelolaan trade-off dan pembagian otoritas.
+CatatanIdentitas & Konteks Performance
+Mahasiswa: Muhammad Nabil Aizar Ramadhan
+Diskusi tatap muka dilakukan di selasar kampus bersama rekan tim (disamarkan sebagai Rakan) untuk membahas ketidakpastian progres pengerjaan tugas besar yang sering menumpuk pada malam tenggat waktu (pukul 23.59 WIB). Seluruh data disajikan secara eksplisit tanpa tautan eksternal.
+Kompetensi Target
+Memilih target person yang tepat, menyusun pitch berbasis bukti objektif (evidence), memvalidasi koreksi awal target secara eksplisit, serta mengelola trade-off dan pembagian otoritas.
+1. Target Map & Alasan Pemilihan
+Person & Situasi
+Relevansi & Pengaruh
+State Awal
+Keputusan
+Rakan (Rekan Tim Proyek)
+Mengalami dampak langsung kepanikan submission dan penumpukan beban kerja di akhir.
+Problem Aware (Sadar masalah tapi menganggap hal biasa)
+Target Utama Pitch, karena memiliki wewenang eksekusi alur kerja bersama.
+M (Anggota Pasif)
+Baru merespons pada pukul 23.00 WIB pada malam tenggat waktu.
+Unaware / Defensif
+Dilibatkan pada tahap sosialisasi kesepakatan berikutnya.
+Dosen Pengampu
+Memiliki wewenang penilaian akhir proyek.
+Authority / Evaluator
+Bukan target attention pitch interpersonal internal tim.
+2. Problem / Opportunity Pitch Berbasis Evidence
+Pitch kepada Rakan:
+“Rakan, dari catatan log tiga tugas kelompok terakhir, 80% bagian kode baru masuk ke repositori 45 menit sebelum tenggat 23.59. Dampaknya, kita kehilangan waktu untuk melakukan pengujian integrasi dan harus begadang dalam kondisi stres. Saya melihat ada peluang: jika kita membuat penanda progres transparan setiap dua hari, kita bisa mendeteksi hambatan teknis lebih awal tanpa saling menuduh.”
+3. Transkrip Verbatim Interaksi & Bukti Adaptasi Eksplisit
+Berikut adalah transkrip percakapan lisan verbatim yang merekam titik balik (turning point) adaptasi saya terhadap koreksi awal dari target:
+Nabil : "Dari log repositori kemarin, kita baru submit jam 23.15. Stresnya berasa banget kan? Menurutku kita butuh sistem progress bar transparan di Notion."
+Rakan : "Ah, menurutku percuma bikin sistem atau papan progress bar gitu, Bil. Masalah utamanya itu bukan di tools-nya, tapi tergantung kepedulian individu masing-masing aja. Kalau orangnya cuek, mau ada papan progress setinggi apa juga tetap nunggak."
+Nabil : "Anda benar, Rakan. Kepedulian individu itu memang fondasi utamanya dan tanpa niat individu tools tak akan jalan. Namun, bagaimana kalau sistem progress bar sederhana ini justru kita pakai buat membantu individu yang peduli tadi agar tidak terbebani tagihan mendadak di malam terakhir? Jadi sistem ini bukan untuk mengontrol, tapi memberi kepastian buat kita berdua."
+Rakan : "Hmm, kalau tujuannya buat mengurangi beban mendadak di malam terakhir sih aku setuju. Tapi jangan buat aturan laporan yang ribet tiap hari ya."
+Nabil : "Sepakat. Kita bikin check-in 1 klik aja tiap dua hari sekali. Kalau tidak ada update, kita langsung periksa bareng tanpa ada korek-korek kesalahan."
+Rakan : "Oke, kalau opsinya simpel begitu aku siap komitmen."
+4. Analisis Adaptasi Respons, Trade-off, dan Pembagian Otoritas
+Bukti Adaptasi Eksplisit (Anti-Klaim Sepihak)
+Koreksi Awal Target: Rakan menyatakan bahwa ketepatan waktu “tergantung kepedulian individu”, bukan alat/sistem.
+Validasi Adaptif: Saya tidak menolak argumen tersebut, melainkan secara eksplisit mengakui validitasnya: “Anda benar, Rakan. Kepedulian individu itu memang fondasi utamanya…”
+Turning Point Solusi: Saya mengaitkan validasi individu tersebut dengan manfaat sistem: “bagaimana kalau sistem progress bar sederhana ini justru kita pakai buat membantu individu yang peduli tadi agar tidak terbebani tagihan mendadak di malam terakhir?” Hal ini menggeser state Rakan dari skeptis menjadi setuju (Interest).
+Pengelolaan Trade-off & Pembagian Otoritas
+Trade-off: Menukar pelaporan harian yang mengekang dengan check-in ringkas 1 klik per dua hari agar tidak menambah beban administrasi Rakan.
+Pembagian Otoritas: Rakan memegang kendali penuh untuk menentukan waktu update mandiri, sementara saya bertanggung jawab menyediakan matriks papan pemantauan di ruang kerja bersama.
+5. Self-Assessment
+Dimensi Penilaian
+Skor (1-4)
+Evidence Singkat & Alasan
+Person & Character
+4
+Target dipetakan secara presisi berdasarkan peran dan dampak langsung.
+Objective & State
+4
+Membedakan kesadaran awal dan pengakuan relevansi isu secara jernih.
+Repertoire, Language & AI
+4
+Pitch ringkas berbasis fakta teramati log repositori.
+Response & Adaptation
+4
+Transkrip verbatim membuktikan validasi eksplisit terhadap koreksi awal target sebelum menawarkan solusi.
+Agreement, Action & Relationship
+4
+Menghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat.
+Total Skor Self-Assessment: 20 / 20
+Penilaian Evaluator
+Skor: — / 20
+Keputusan: Belum dinilai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#quarto-document-content
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/UAS/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#target-map-alasan-pemilihan
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#problem-opportunity-pitch-berbasis-evidence
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#transkrip-verbatim-interaksi-bukti-adaptasi-eksplisit
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#analisis-adaptasi-respons-trade-off-dan-pembagian-otoritas
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#bukti-adaptasi-eksplisit-anti-klaim-sepihak
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#pengelolaan-trade-off-pembagian-otoritas
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#penilaian-evaluator
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,189 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 966
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP 2026
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Target Map & Pemilihan Target
+Pemetaan Sasaran (Target Map)
+Rationale Pemilihan Target Initial
+Attention Pitch & Evidence
+Draf Attention Pitch (Versi Masalah — 38 Kata)
+Evidence yang Digunakan
+Dialog Percakapan & Evaluasi State
+Transkrip Dialog Utama
+Evaluasi State & Pergeseran
+Evidence Package (Transkrip Verbatim Umpan Balik)
+Catatan Deklarasi Penggunaan AI
+Peranti AI digunakan secara general sebatas untuk membantu menyusun kata-kata, merapikan struktur tata bahasa, serta memformat penyajian Markdown agar sesuai dengan templat portofolio[cite: 1]. Seluruh dinamika negosiasi, hambatan wewenang, keputusan teknis, transkrip dialog, dan data transaksi yang dilaporkan murni merupakan pengalaman nyata pribadi di lapangan tanpa rekayasa AI
+Self-Assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Target Map & Pemilihan Target
+Nama & NIM: Olsen Danilson Sitohang (18225061)
+Kelas: K1 Sistem dan Teknologi Informasi
+Pemetaan Sasaran (Target Map)
+Person / Character
+Relevance
+Authority
+Current State
+Kasir / Staf Stan Kantin (Pelaksana)
+Menghadapi langsung antrean membludak dan risiko kesalahan pencatatan pesanan saat jam puncak
+Mengatur alur penerimaan pesanan di kasir
+Problem Aware (Sadar masalah antrean & kelelahan)
+Mahasiswa / Pembeli (Pengguna)
+Merasakan keterlambatan makan siang dan antrean 15–20 menit
+Memilih tempat makan / metode pesan
+Unaware / Pasrah pada keadaan
+Pemilik Stan Kantin (Pengambil Keputusan)
+Mengalami potensi kehilangan revenue akibat calon pembeli batal antre
+Berwenang menyetujui perubahan alur / alat kasir
+Unaware (Mengira penjualan sudah maksimal)
+Tim Sarpras / Kantin ITB (Regulator)
+Bertanggung jawab atas ketertiban dan kelancaran fasilitas kampus
+Menetapkan aturan operasional kantin
+Unaware
+Rationale Pemilihan Target Initial
+Target awal yang dipilih adalah Staf Kasir Stan Kantin. Kasir memiliki direct operational experience terhadap beban pencatatan pesanan saat jam sibuk (11.30–12.30 WIB). Memulai dari kasir memungkinkan validasi fakta lapangan secara instan tanpa memaksakan solusi sistem di awal kepada pemilik stan.
+Attention Pitch & Evidence
+Draf Attention Pitch (Versi Masalah — 38 Kata)
+“Dalam tiga hari pengamatan jam 11.30–12.30, antrean mencapai 14 orang dengan rata-rata 1 dari 10 pesanan harus dikonfirmasi ulang karena pencatatan manual. Ini membuat waktu pelayanan melambat. Apakah tim kasir juga merasakan tekanan saat pencatatan menumpuk?”
+Evidence yang Digunakan
+Evidence disajikan langsung dalam bentuk fakta observasi kuantitatif terstruktur tanpa menggunakan tautan atau lampiran berkas luar:
+Hasil Observasi Antrean (13–15 Oktober 2026, 11.30–12.30 WIB):
+Rata-rata panjang antrean: 12–15 orang per stan.
+Rata-rata waktu transaksi kasir manual: 85 detik per pelanggan.
+Angka kesalahan/klarifikasi pesanan: 3 kasus dari 32 pesanan teramati (9,37%).
+Dialog Percakapan & Evaluasi State
+Berikut adalah transkrip lengkap percakapan aktual/simulasi dalam bentuk teks utuh:
+Transkrip Dialog Utama
+Olsen (Communicator): “Selamat siang Mbak. Boleh ganggu waktunya sebentar 30 detik? Dari pengamatan saya tiga hari ini jam 11.30, antrean kasir rata-rata sampai 14 orang dan 1 dari 10 pesanan sempat diklarifikasi ulang karena tulisan nota manual. Ini bikin pelayanan agak ketahan ya Mbak. Apakah Mbak juga ngerasa kelelahan pas pencatatan menumpuk di jam makan siang?”
+Mbak Maya (Kasir Stan): “Iya dek, kalau jam 12 itu memang pusing banget. Nota sering terselip atau dibaca ulang oleh bagian dapur karena tulisannya keburu-buru. Tapi ya mau gimana lagi, kalau jam sibuk memang pasti antre.”
+Olsen (Communicator): “Paham banget Mbak, wajar pusing kalau harus nulis cepat sambil ngejar waktu dapur. Kalau boleh, apakah Mbak terbuka kalau kita coba catat berapa kali nota harus diklarifikasi ulang dalam dua hari ke depan, supaya kita tahu persis titik macetnya sebelum mikirin cara bantu dapur?”
+Mbak Maya (Kasir Stan): “Boleh aja dek, asal enggak ganggu saya pas lagi melayani pembeli ya.”
+Evaluasi State & Pergeseran
+State Awal Target: Problem Aware (Sadar bahwa jam makan siang sangat sibuk, tetapi menganggapnya sebagai keharusan yang tidak bisa diubah).
+Sinyal Respons: Target memverifikasi fakta (“Nota sering terselip atau dibaca ulang”), mengonfirmasi dampak emosional (“pusing banget”), dan menerima usulan observasi lanjutan.
+State Akhir Target: Attention dengan Kesediaan Validasi Data (Berpindah dari pasrah menjadi terbuka untuk memeriksa fakta).
+Adaptasi Komunikasi: Komunikator menahan diri untuk tidak langsung mempromosikan aplikasi kasir digital/AI, melainkan menyesuaikan tujuan menjadi kesepakatan pengumpulan bukti bersama (data validation).
+Evidence Package (Transkrip Verbatim Umpan Balik)
+Bukti percakapan umpan balik rekan (peer feedback) dalam bentuk teks penuh tanpa tautan luar:
+Umpan Balik Rekan (Rian 2): “Ketika Olsen menyampaikan bagian ‘1 dari 10 pesanan sempat diklarifikasi ulang karena tulisan nota manual’, saya mengamati Mbak Maya langsung mengangguk pelan dan berkata ‘Iya dek, nota sering terselip’. Hal itu menunjukkan bahwa perhatian target berhasil didapatkan secara tenang karena observasi yang disampaikan sangat spesifik dan relevan dengan kerepotan harian kasir, bukan tuduhan bahwa kasir bekerja lambat.”
+Catatan Deklarasi Penggunaan AI
+Peranti AI digunakan secara general sebatas untuk membantu menyusun kata-kata, merapikan struktur tata bahasa, serta memformat penyajian Markdown agar sesuai dengan templat portofolio[cite: 1]. Seluruh dinamika negosiasi, hambatan wewenang, keputusan teknis, transkrip dialog, dan data transaksi yang dilaporkan murni merupakan pengalaman nyata pribadi di lapangan tanpa rekayasa AI
+Self-Assessment
+Dimensi Penilaian
+Skor
+Evidence Singkat
+Person & Character
+4
+Target dipetakan rinci berdasarkan peran operasional harian kasir kantin, bukan kategori umum mahasiswa.
+Objective & State
+3
+Pergeseran state dari pasrah menjadi terbuka divalidasi lewat respons verbal target.
+Repertoire, Language & AI
+4
+Pitch ringkas (38 kata), berbasis fakta observasi terukur, tanpa jargon teknologi.
+Response & Adaptation
+4
+Menanggapi keberatan target dengan menurunkan klaim dari tawaran aplikasi menjadi pengumpulan data bersama.
+Agreement, Action & Relationship
+3
+Disepakati observasi gabungan 2 hari tanpa mengganggu operasional kasir dan tanpa merusak relasi.
+Total: 18/20 — Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#target-map-pemilihan-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#pemetaan-sasaran-target-map
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#rationale-pemilihan-target-initial
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#attention-pitch-evidence
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#draf-attention-pitch-versi-masalah-38-kata
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#evidence-yang-digunakan
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#dialog-percakapan-evaluasi-state
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#transkrip-dialog-utama
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#evaluasi-state-pergeseran
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#evidence-package-transkrip-verbatim-umpan-balik
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#catatan-deklarasi-penggunaan-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#peranti-ai-digunakan-secara-general-sebatas-untuk-membantu-menyusun-kata-kata-merapikan-struktur-tata-bahasa-serta-memformat-penyajian-markdown-agar-sesuai-dengan-templat-portofoliocite-1.-seluruh-dinamika-negosiasi-hambatan-wewenang-keputusan-teknis-transkrip-dialog-dan-data-transaksi-yang-dilaporkan-murni-merupakan-pengalaman-nyata-pribadi-di-lapangan-tanpa-rekayasa-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

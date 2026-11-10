@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1066
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map & Foundation
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi Target
+1. Matriks Current State vs Desired State
+2. Feature–Benefit–Value–Outcome Chain & Evidence Threshold
+3. Transkrip Verbatim Percakapan Asli (Inline Plain Text)
+4. Analisis Bukti Adaptasi Respons & Komitmen Eksplisit
+Transformasi Adaptasi Respons (Tools ke Norma)
+5. Self-Assessment
+Penilaian Evaluator
+Desire-State Communication
+TAIDA
+Desire
+Current dan desired state, feature-benefit-value-outcome chain, transkrip verbatim percakapan asli pergeseran dari tools ke norma, dan bukti komitmen eksplisit.
+CatatanIdentitas & Konteks Performance
+Mahasiswa: Muhammad Nabil Aizar Ramadhan
+Percakapan mendalam dilakukan di area koridor lantai 2 gedung perkuliahan untuk mengalihkan pemahaman target terhadap solusi dari sekadar “aplikasi teknis” menjadi “norma komitmen bersama” (Desire State). Seluruh data disajikan secara mandiri dan inline.
+Kompetensi Target
+Membangun kondisi ideal bersama (Desired State), mengadaptasi solusi dari alat teknis (tools) menjadi norma kelompok, serta merekam komitmen eksplisit melalui transkrip verbatim mentah.
+1. Matriks Current State vs Desired State
+Elemen
+Current State (Kondisi Saat Ini)
+Desired State (Kondisi Ideal Bersama)
+Alur Kerja
+Informasi progres tersebar di pesan obrolan singkat yang tertimbun; konfirmasi jam kerja acak.
+Status progres diperbarui secara otomatis setiap dua hari pada satu sistem terpusat.
+Kondisi Psikologis
+Kecemasan tinggi menjelang malam batas waktu pengumpulan; asumsi bahwa rekan tidak bekerja.
+Ketenangan pikiran, kejelasan tanggung jawab, dan saling percaya berbasis bukti terbuka.
+Dampak Relasional
+Muncul rasa saling menyalahkan ketika ada keterlambatan penggabungan kode.
+Hubungan rekan tim tetap hangat dan profesional hingga pengerjaan proyek selesai.
+2. Feature–Benefit–Value–Outcome Chain & Evidence Threshold
+Feature: Tombol status warna 10-Second Progress Check-in.
+Benefit: Memotong waktu diskusi status harian dari 30 menit menjadi 10 detik.
+Value: Ketenangan psikologis (peace of mind) dan kepastian alur kerja.
+Outcome: Penggabungan berkas proyek selesai 24 jam sebelum tenggat waktu resmi tanpa begadang.
+Evidence Threshold: Rakan memperbarui status secara konsisten dalam 2 siklus berturut-turut dan bersedia mengusulkan norma ini kepada anggota tim lainnya.
+3. Transkrip Verbatim Percakapan Asli (Inline Plain Text)
+Transkrip berikut membuktikan proses adaptasi respons secara real-time saat mengatasi keberatan target serta pergeseran orientasi dari alat teknis ke norma kelompok:
+Nabil : "Rakan, kalau kita pakai check-in status ini sampai akhir semester, menurutmu apa nilai paling penting buat tim kita?"
+Rakan : "Ya bagus sih alat teknisnya hemat waktu. Tapi jujur aku khawatir kalau anggota lain ngerasa ini cuma sekadar 'aplikasi tambahan' yang dipaksain. Nanti malah males bukanya."
+Nabil : "Poinmu tajam banget, Rakan. Kalau ini cuma dianggap 'tools teknis baru', orang memang bakal cepat bosan dan melepaskannya. Menurutmu, gimana caranya supaya ini bukan cuma dianggap aplikasi, tapi jadi budaya atau norma keterbukaan kita bersama?"
+Rakan : "Nah, itu dia! Harusnya ini dijadiin kesepakatan etika tim aja. Bukan soal 'kamu wajib isi aplikasi', tapi 'kita saling menghargai waktu dengan ngasih tahu posisi progres masing-masing'."
+Nabil : "Sepakat 100%. Jadi alat ini cuma sarana fisik, tapi intinya adalah norma saling menjaga komitmen. Kamu mau nggak bantu jelaskan sudut pandang norma etika ini ke M pas kumpul tim besok?"
+Rakan : "Siap, Bil! Nanti pas kumpul, aku yang bakal buka pembicaraan dan usulin norma keterbukaan ini ke M. Aku yakin kalau disampaikan sebagai etika kelompok, dia bakal terima."
+4. Analisis Bukti Adaptasi Respons & Komitmen Eksplisit
+Transformasi Adaptasi Respons (Tools ke Norma)
+Keberatan Target: Rakan khawatir alat akan diabaikan jika hanya dipandang sebagai beban aplikasi baru (“cuma sekadar aplikasi tambahan”).
+Respons Adaptif: Saya memvalidasi kekhawatirnya (“Poinmu tajam banget…”) dan langsung melempar pertanyaan reframing untuk mengalihkan kepemilikan solusi kepada target (“gimana caranya supaya ini bukan cuma dianggap aplikasi, tapi jadi budaya…?”).
+Titik Balik (Turning Point): Target merumuskan sendiri solusinya (“Harusnya ini dijadiin kesepakatan etika tim…”) dan berkomitmen secara eksplisit untuk menjadi inisiator sosialisasi norma tersebut kepada anggota tim lain (“aku yang bakal buka pembicaraan dan usulin norma keterbukaan ini…”).
+5. Self-Assessment
+Dimensi Penilaian
+Skor (1-4)
+Evidence Singkat & Alasan
+Person & Character
+4
+Menghargai peran target sebagai calon inisiator norma etika kelompok.
+Objective & State
+4
+Current state dan desired state dirumuskan eksplisit berbasis kebutuhan bersama.
+Repertoire, Language & AI
+4
+Menggunakan reframing question untuk mengarahkan kepemilikan solusi.
+Response & Adaptation
+4
+Transkrip percakapan asli membuktikan adaptasi real-time dari alat teknis menjadi norma kelompok.
+Agreement, Action & Relationship
+4
+Target secara sukarela berkomitmen menjadi pembicara utama sosialisasi norma.
+Total Skor Self-Assessment: 20 / 20
+Penilaian Evaluator
+Skor: — / 20
+Keputusan: Belum dinilai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#quarto-document-content
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/UAS/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#matriks-current-state-vs-desired-state
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain-evidence-threshold
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#transkrip-verbatim-percakapan-asli-inline-plain-text
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#analisis-bukti-adaptasi-respons-komitmen-eksplisit
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#transformasi-adaptasi-respons-tools-ke-norma
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#penilaian-evaluator
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

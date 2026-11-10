@@ -1,0 +1,614 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 999
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://qilooooow.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+1. Attention Evidence dan Continuity dari Minggu 6
+2. Problem Validation dan Evidence Boundary
+Problem Statement
+Observation, Inference, dan Validation
+Validation Plan
+3. Target Person, Character, dan Value
+Value bagi Target
+4. Solution Hypothesis dan Problem–Solution Fit
+Initial Solution Hypothesis
+Problem–Mechanism–Benefit–Value Map
+Falsifiable Hypothesis
+5. Prototype Version 1
+Mechanism
+Prototype Limitation
+6. Interest Pitch dan Demonstration
+Objective
+Interest Pitch
+Demonstration Script
+7. Response dan Hidden Concern
+Simulated Response
+Hidden Concern Analysis
+Response Interpretation
+8. Response Adaptation
+Adapted Response
+Adaptation pada Solution Mechanism
+9. Prototype Version 2
+Revised Prototype
+Before–After Comparison
+Revised Solution Hypothesis
+Mengapa Adaptation Ini Substantif?
+10. State Assessment dan Signal Interest
+Simulated Response Setelah Adaptation
+Observable Interest Signals
+State Transition
+11. Agreement dan Action Plan
+Simulated Agreement
+Action Plan
+12. Evidence dan Traceability
+Evidence Pelaksanaan yang Belum Tersedia
+13. Refleksi Pribadi
+14. Penggunaan AI
+15. Next Practice
+16. Self-Assessment
+Justifikasi Self-Assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Evidence-based problem–solution fit, prototype demonstration, Interest signal, hidden concern, response adaptation, dan measurable agreement.
+Kompetensi Target
+Menghubungkan solution mechanism dengan problem, expected benefit, dan value yang relevan bagi target. Kompetensi ini dibuktikan melalui evidence tahap Attention, demonstrasi solusi, analisis response, identifikasi hidden concern, adaptation terhadap mekanisme solusi, serta assessment perubahan state dari Attention menuju Interest.
+CatatanKonteks dan Batasan Evidence
+Portofolio ini merupakan rancangan role-play berdasarkan konteks Business Development di Inkubator IT ITB. Seluruh dialog target, hasil demonstrasi, dan agreement merupakan skenario simulasi, bukan klaim interaksi nyata. Prototype menggunakan dummy data dan belum diuji pada operasional organisasi.
+1. Attention Evidence dan Continuity dari Minggu 6
+Pada Minggu 6, saya mengidentifikasi potensi kurangnya visibilitas status follow-up calon mitra ketika informasi komunikasi tersebar di beberapa kanal.
+Saya memilih Koordinator Business Development sebagai target karena memiliki relevance terhadap koordinasi calon mitra serta authority untuk mengevaluasi mekanisme kerja internal.
+Pada tahap Attention, target dalam skenario menyampaikan dua keberatan utama:
+Koordinasi melalui chat masih dianggap cukup efektif.
+Penambahan tracker berpotensi meningkatkan beban administrasi anggota.
+Target juga mengemukakan hipotesis alternatif bahwa keterlambatan follow-up dapat berasal dari respons calon mitra, bukan koordinasi internal.
+Saya kemudian mengadaptasi pendekatan dari menawarkan perbaikan menjadi mengusulkan validasi proses.
+Dalam skenario Minggu 6, target bersedia mempertimbangkan pemeriksaan lima riwayat follow-up tanpa langsung mengubah mekanisme kerja.
+Evidence Attention: Target bersedia mempertimbangkan evaluasi proses, tetapi belum menunjukkan ketertarikan terhadap solusi tertentu.
+State akhir Minggu 6: Attention validated, open to limited investigation.
+Implikasi untuk Minggu 7: Saya perlu menunjukkan bagaimana mekanisme solusi menjawab concern target tanpa menganggap bahwa masalah dan manfaat solusi sudah terbukti.
+2. Problem Validation dan Evidence Boundary
+Problem Statement
+Bagaimana tim Business Development dapat memantau PIC, status komunikasi terakhir, dan next action calon mitra secara lebih mudah tanpa menambah beban administrasi yang tidak sebanding dengan manfaatnya?
+Observation, Inference, dan Validation
+Komponen
+Penjelasan
+Observation
+Informasi calon mitra dapat tersimpan pada beberapa kanal komunikasi
+Observation
+Monitoring membutuhkan informasi PIC, status, dan next action
+Inference
+Penyebaran informasi berpotensi meningkatkan effort monitoring
+Inference
+Ketidakjelasan next action berpotensi memengaruhi konsistensi follow-up
+Validation Needed
+Apakah status dan PIC benar-benar sulit ditemukan?
+Validation Needed
+Apakah keterlambatan berasal dari koordinasi internal atau respons mitra?
+Validation Needed
+Apakah mekanisme tambahan memberikan manfaat lebih besar daripada effort input?
+Saya belum memiliki data operasional yang membuktikan adanya keterlambatan akibat monitoring. Karena itu, saya tidak menggunakan klaim peningkatan produktivitas atau penurunan keterlambatan sebagai fakta.
+Validation Plan
+Saya merancang pemeriksaan lima riwayat follow-up dengan indikator:
+Kejelasan PIC.
+Kemudahan menemukan status terakhir.
+Kejelasan next action.
+Ketepatan waktu tindak lanjut.
+Penyebab keterlambatan internal atau eksternal.
+Lima riwayat digunakan sebagai eksplorasi awal, bukan sampel representatif seluruh aktivitas Business Development.
+3. Target Person, Character, dan Value
+Target person: Koordinator Business Development.
+Character: Pengambil keputusan operasional yang bertanggung jawab menjaga koordinasi dan efektivitas anggota.
+Current state: Attention validated, belum Interest terhadap solusi.
+Primary concern: Efektivitas monitoring tanpa meningkatkan beban administratif.
+Potential hidden concern: Konsistensi pembaruan data, kejelasan ownership, dan keandalan informasi.
+Relationship objective: Menunjukkan inisiatif yang konstruktif dengan tetap menghormati kewenangan koordinator.
+Value bagi Target
+Kebutuhan Target
+Value yang Ditawarkan
+Mengetahui perkembangan calon mitra
+Overview status dalam satu tampilan
+Memastikan tanggung jawab jelas
+PIC tercatat untuk setiap calon mitra
+Memantau tindak lanjut
+Next action dan follow-up date terlihat
+Menghindari administrasi berlebihan
+Input dibatasi pada informasi esensial
+Mengambil keputusan berdasarkan informasi
+Waktu pembaruan dan status validitas terlihat
+Saya tidak mengasumsikan bahwa seluruh value tersebut sudah terbukti. Tabel ini merupakan hipotesis manfaat yang akan diuji melalui demonstrasi dan feedback.
+4. Solution Hypothesis dan Problem–Solution Fit
+Initial Solution Hypothesis
+Lightweight partnership tracker berbasis Google Sheets dapat meningkatkan visibilitas status follow-up melalui tampilan terpusat tanpa menggantikan komunikasi utama melalui chat.
+Problem–Mechanism–Benefit–Value Map
+Problem
+Solution Mechanism
+Expected Benefit
+Value bagi Target
+Status tersebar
+Centralized overview
+Informasi lebih mudah ditemukan
+Monitoring lebih praktis
+PIC tidak langsung terlihat
+Dedicated PIC field
+Ownership lebih jelas
+Mengurangi kebutuhan klarifikasi
+Next action belum konsisten
+Next action dan follow-up date
+Tindak lanjut lebih terstruktur
+Prioritas lebih mudah dipantau
+Potensi follow-up terlewat
+Penanda tanggal tindak lanjut
+Aktivitas yang perlu perhatian lebih terlihat
+Mempermudah koordinasi
+Kekhawatiran workload
+Minimal required fields
+Input lebih sederhana
+Mengurangi beban administratif
+Falsifiable Hypothesis
+Hipotesis dianggap mendapat dukungan awal apabila dalam walkthrough:
+Target dapat menemukan PIC, status, dan next action pada dummy data tanpa membuka kanal komunikasi lain.
+Target memahami mekanisme pembaruan tanpa penjelasan berulang.
+Target menilai informasi yang ditampilkan relevan bagi monitoring.
+Target dapat mengidentifikasi potensi workload dan data reliability yang perlu diperbaiki.
+Hipotesis belum dapat dinyatakan berhasil secara operasional sebelum diuji dengan anggota dan data yang diizinkan.
+5. Prototype Version 1
+Saya merancang prototype awal menggunakan struktur Google Sheets.
+Potential Partner
+PIC
+Status
+Last Contact
+Next Action
+Follow-up Date
+Partner A
+Staff 1
+Contacted
+H-3
+Follow-up proposal
+H+1
+Partner B
+Staff 2
+Waiting Response
+H-5
+Confirm availability
+H+2
+Partner C
+Staff 1
+Discussion
+H-1
+Prepare meeting notes
+H+3
+Seluruh informasi pada tabel merupakan dummy data.
+Mechanism
+Centralized Overview: Informasi penting ditampilkan dalam satu tabel.
+Standardized Status: Status menggunakan kategori yang konsisten, seperti Contacted, Waiting Response, Discussion, Negotiation, dan Closed.
+Clear Ownership: PIC menunjukkan penanggung jawab setiap calon mitra.
+Action Visibility: Next action dan follow-up date menunjukkan langkah yang perlu dilakukan.
+Monitoring: Penanda visual dapat digunakan untuk menunjukkan tindak lanjut yang telah melewati tanggal rencana.
+Prototype Limitation
+Prototype V1 belum memiliki mekanisme yang menjamin konsistensi pembaruan. Informasi yang terpusat belum tentu akurat apabila anggota tidak memperbarui status secara rutin.
+6. Interest Pitch dan Demonstration
+Objective
+Primary Objective: Membangun Interest target dengan menunjukkan hubungan langsung antara problem, mechanism, benefit, dan value.
+Secondary Objective: Mengidentifikasi hidden concern dan menguji asumsi awal mengenai kebutuhan target.
+Minimum Acceptable Outcome: Target memberikan feedback spesifik terhadap mekanisme prototype.
+Desired Outcome: Target meminta melihat revisi atau menyetujui review lanjutan.
+Interest Pitch
+“Kak, kemarin kita sempat bahas soal monitoring follow-up calon mitra, terutama gimana caranya supaya status komunikasi lebih gampang dipantau tanpa nambah kerjaan anggota.
+Aku coba buat prototype sederhana pakai Google Sheets. Ini bukan untuk mengganti komunikasi lewat chat, tapi lebih ke satu tampilan ringkas yang menunjukkan PIC, status terakhir, dan next action setiap mitra.
+Misalnya Kakak mau tahu mitra mana yang masih waiting response atau siapa yang perlu follow-up minggu ini, informasinya bisa langsung terlihat.
+Tapi aku juga belum tahu apakah manfaatnya sebanding dengan effort input. Jadi aku mau tunjukin mekanismenya sebentar dan minta feedback Kakak, terutama bagian yang membantu dan bagian yang justru berpotensi merepotkan.”
+Demonstration Script
+Demonstrasi dirancang berlangsung selama 90 detik.
+Detik 0–20: Problem Connection
+Saya mengingatkan target bahwa tujuan prototype adalah meningkatkan visibilitas informasi tanpa mengganti proses komunikasi utama.
+Detik 20–45: Mechanism
+Saya menunjukkan overview calon mitra, PIC, status, dan next action.
+Detik 45–70: Benefit
+Saya memperlihatkan bagaimana data dapat difilter berdasarkan status atau follow-up date.
+Detik 70–90: Feedback Question
+Saya menanyakan:
+“Kalau dari tampilan ini, bagian mana yang menurut Kakak paling membantu, dan bagian mana yang justru berpotensi bikin kerja tim lebih ribet?”
+Pertanyaan tersebut digunakan untuk membuka eksplorasi concern, bukan sekadar memperoleh persetujuan.
+7. Response dan Hidden Concern
+Simulated Response
+Target memberikan respons:
+“Secara tampilan sebenarnya cukup membantu karena status mitra jadi lebih kelihatan. Tapi kalau anggota harus update chat dan tracker secara terpisah, nanti malah double work. Terus kalau ada yang lupa update, data di tracker bisa jadi nggak sesuai kondisi sebenarnya.”
+Saya kemudian mengajukan pertanyaan klarifikasi:
+“Berarti concern utamanya bukan cuma soal tambahan kerjaan, tapi juga apakah informasi di tracker bisa dipercaya untuk monitoring, ya Kak?”
+Target menjawab:
+“Iya, betul. Kalau datanya nggak selalu update, justru kita bisa salah ambil keputusan.”
+Hidden Concern Analysis
+Aspek
+Initial Assumption
+Revealed Concern
+Workload
+Tracker menambah pekerjaan
+Duplikasi input mengurangi konsistensi update
+Data Quality
+Informasi terpusat mempermudah monitoring
+Informasi yang tidak diperbarui dapat menyesatkan
+Ownership
+PIC cukup ditampilkan
+Harus jelas siapa yang memperbarui status
+Decision Making
+Overview membantu pengambilan keputusan
+Overview hanya berguna jika data dapat dipercaya
+Hidden concern utama: Data reliability dan update ownership.
+Sebelum demonstrasi, saya menganggap beban administrasi sebagai concern utama.
+Setelah pertanyaan klarifikasi, saya memahami bahwa kekhawatiran target lebih mendasar: informasi yang mudah diakses tidak akan bermanfaat jika tidak akurat.
+Response Interpretation
+Respons target menunjukkan dua hal.
+Pertama, target mulai melihat manfaat mekanisme overview. Ini merupakan indikasi awal Interest.
+Kedua, target belum yakin bahwa mekanisme tersebut layak digunakan karena risiko data tidak konsisten.
+Saya menilai respons ini sebagai Emerging Interest with concern, bukan persetujuan implementasi.
+8. Response Adaptation
+Saya tidak mempertahankan prototype V1 setelah hidden concern teridentifikasi.
+Saya mengubah solution mechanism agar lebih menekankan minimal input, clear ownership, dan transparansi pembaruan data.
+Adapted Response
+“Iya Kak, aku setuju. Kalau tracker-nya nggak rutin di-update, malah bisa bikin kita salah baca progres mitra.
+Berarti yang perlu kita perbaiki bukan cuma tampilan monitoring-nya, tapi juga cara update-nya supaya nggak double work.
+Aku kepikiran bikin versi yang lebih sederhana. Jadi anggota cukup update informasi penting ketika ada perkembangan komunikasi, lalu ada PIC dan waktu pembaruan yang jelas.
+Kita juga bisa kasih penanda kalau informasi sudah lama belum diperbarui, supaya statusnya nggak langsung dianggap masih valid.
+Kalau aku revisi ke arah itu, menurut Kakak apakah lebih sesuai dengan kebutuhan tim?”
+Adaptation pada Solution Mechanism
+Adaptation 1 — Minimal Required Input
+Saya membatasi pembaruan rutin pada tiga informasi utama:
+Current Status.
+Next Action.
+Follow-up Date.
+PIC ditentukan ketika calon mitra pertama kali dicatat dan diperbarui hanya jika terjadi perubahan penanggung jawab.
+Adaptation 2 — Clear Update Ownership
+Setiap calon mitra memiliki PIC yang bertanggung jawab atas pembaruan informasi.
+Adaptation 3 — Last Updated Indicator
+Prototype menambahkan waktu pembaruan terakhir agar target dapat mengetahui apakah informasi masih baru atau perlu dikonfirmasi.
+Adaptation 4 — Data Reliability Boundary
+Status yang sudah lama tidak diperbarui diberi penanda “Needs Verification”, bukan langsung dianggap sebagai informasi terbaru.
+Penanda tersebut tidak membuktikan bahwa data salah, tetapi menunjukkan perlunya konfirmasi.
+9. Prototype Version 2
+Revised Prototype
+Partner
+PIC
+Status
+Next Action
+Follow-up Date
+Last Updated
+Verification
+Partner A
+Staff 1
+Waiting Response
+Confirm proposal
+H+1
+H-1
+Current
+Partner B
+Staff 2
+Discussion
+Schedule meeting
+H+2
+H-2
+Current
+Partner C
+Staff 1
+Negotiation
+Review terms
+H+3
+H-8
+Needs Verification
+Seluruh data merupakan dummy data. Status verifikasi digunakan untuk mendemonstrasikan mekanisme, bukan menggambarkan kondisi mitra sebenarnya.
+Before–After Comparison
+Aspek
+Prototype V1
+Prototype V2
+Primary Focus
+Centralized visibility
+Reliable and lightweight monitoring
+Data Input
+Beberapa kolom diperbarui
+Tiga kolom utama saat terdapat perkembangan
+Ownership
+PIC ditampilkan
+PIC bertanggung jawab atas pembaruan
+Data Freshness
+Tidak terlihat
+Last updated indicator
+Data Reliability
+Belum ada mekanisme verifikasi
+Needs Verification flag
+Target Value
+Kemudahan menemukan informasi
+Kemudahan menemukan dan menilai relevansi informasi
+Revised Solution Hypothesis
+Lightweight partnership tracker dengan minimal required input, clear update ownership, dan data freshness indicator berpotensi meningkatkan visibilitas status follow-up sambil mengurangi risiko penggunaan informasi yang sudah tidak relevan.
+Mengapa Adaptation Ini Substantif?
+Perubahan dari V1 menjadi V2 bukan hanya perubahan tampilan.
+Prototype V1 berfokus pada akses informasi, sedangkan V2 memperhatikan proses pembaruan dan keandalan informasi.
+Dengan demikian, adaptation menjawab penyebab keberatan target, bukan hanya membuat prototype terlihat lebih menarik.
+10. State Assessment dan Signal Interest
+Simulated Response Setelah Adaptation
+Target memberikan tanggapan:
+“Kalau formatnya lebih sederhana dan ada informasi kapan terakhir di-update, menurutku lebih masuk akal. Coba nanti tunjukin versi revisinya. Aku juga penasaran apakah update-nya bisa tetap praktis buat anggota.”
+Observable Interest Signals
+Signal 1 — Value Recognition
+Target menyatakan bahwa format revisi lebih masuk akal.
+Signal 2 — Specific Engagement
+Target membahas aspek kepraktisan update, bukan sekadar memberikan tanggapan umum.
+Signal 3 — Request for Continuation
+Target meminta melihat versi revisi.
+Ketiga sinyal tersebut menunjukkan ketertarikan untuk mengevaluasi solusi lebih lanjut.
+Namun, target belum menyatakan keinginan menggunakan tracker dalam operasional nyata.
+State Transition
+Tahap
+State
+Supporting Evidence
+Akhir Minggu 6
+Attention validated
+Target terbuka terhadap evaluasi proses
+Sebelum Demo
+Attention
+Target belum menunjukkan ketertarikan pada mekanisme tertentu
+Setelah Demo V1
+Emerging Interest with concern
+Target melihat manfaat overview tetapi mempertanyakan reliability
+Setelah Adaptation
+Interest with conditions
+Target meminta versi revisi dan ingin menilai kepraktisan
+Final State: Interest with conditions.
+Saya tidak menyamakan Interest dengan Desire atau Action.
+Ketertarikan target terbukti melalui keterlibatan yang lebih spesifik dan permintaan tindak lanjut, bukan melalui persetujuan implementasi.
+11. Agreement dan Action Plan
+Simulated Agreement
+Target bersedia meninjau prototype V2 sebelum mempertimbangkan langkah berikutnya.
+Komponen
+Agreement
+Action
+Menyiapkan dan menunjukkan prototype V2
+Owner
+Saya sebagai Staff Business Development
+Timeline
+Dua hari kerja setelah diskusi
+Deliverable
+Prototype revisi dan ringkasan perubahan
+Review
+Koordinator memberikan feedback mengenai workload dan data reliability
+Success Criteria
+Mekanisme update mudah dipahami, ownership jelas, dan data lama dapat dikenali
+Boundary
+Menggunakan dummy data dan belum menerapkan sistem pada operasional nyata
+Action Plan
+Step 1 — Revise
+Menyederhanakan kolom input, menambahkan update ownership, dan menampilkan last updated indicator.
+Step 2 — Demonstrate
+Menunjukkan bagaimana satu status calon mitra diperbarui menggunakan dummy data.
+Step 3 — Validate
+Meminta feedback target mengenai kepraktisan input dan keandalan informasi.
+Step 4 — Decide
+Mendiskusikan apakah prototype layak diuji lebih lanjut atau perlu diperbaiki kembali.
+Tidak ada pilot yang dianggap disetujui sebelum target memberikan persetujuan eksplisit.
+12. Evidence dan Traceability
+Kompetensi
+Evidence dalam Portofolio
+Status
+Attention evidence
+Section 1–2
+Terdokumentasi sebagai skenario lanjutan
+Problem–solution fit
+Section 3–4
+Rancangan analisis tersedia
+Interest pitch
+Section 6
+Script tersedia
+Demonstration
+Section 5–6
+Alur dan mockup tersedia
+Response
+Section 7
+Dialog simulasi tersedia
+Hidden concern
+Section 7
+Diidentifikasi melalui pertanyaan klarifikasi
+Adaptation
+Section 8–9
+Perubahan mechanism V1 ke V2 dijelaskan
+State assessment
+Section 10
+Perubahan state didukung indikator respons simulasi
+Agreement
+Section 11
+Kesepakatan simulasi memiliki owner, timeline, dan boundary
+Evidence Pelaksanaan yang Belum Tersedia
+Rekaman role-play aktual.
+Screenshot prototype Google Sheets yang dibuat.
+Observer feedback dari praktik.
+Konfirmasi agreement dari target nyata.
+Saya membedakan rancangan dan pelaksanaan agar evidence yang disampaikan dapat dinilai secara transparan.
+13. Refleksi Pribadi
+Melalui Problem–Solution Interest Pitch, saya memahami bahwa membangun Interest tidak cukup dilakukan dengan menjelaskan fitur dan manfaat solusi.
+Solusi harus menunjukkan hubungan yang jelas antara masalah yang dialami target, mekanisme yang ditawarkan, manfaat yang diharapkan, dan value yang relevan.
+Pada awalnya, saya berfokus pada bagaimana partnership tracker dapat membuat informasi calon mitra lebih mudah dipantau.
+Namun, respons target dalam simulasi menunjukkan bahwa visibilitas informasi bukan satu-satunya kebutuhan. Keandalan data dan konsistensi pembaruan justru menjadi faktor yang menentukan apakah solusi dapat dipercaya.
+Saya belajar bahwa problem–solution fit bukan hanya tentang apakah solusi dapat menyelesaikan masalah secara teknis, tetapi juga apakah mekanisme penggunaannya sesuai dengan kapasitas dan prioritas target.
+Saya juga memahami pentingnya pertanyaan klarifikasi untuk mengidentifikasi hidden concern.
+Tanpa pertanyaan lanjutan, saya mungkin hanya menyimpulkan bahwa target tidak ingin menambah pekerjaan. Padahal, concern yang lebih mendasar adalah risiko pengambilan keputusan berdasarkan informasi yang tidak akurat.
+Pembelajaran lain adalah bahwa adaptation harus menghasilkan perubahan yang substantif.
+Dalam latihan ini, saya tidak hanya mengubah bahasa pitch, tetapi juga merevisi mekanisme input, ownership, dan indikator pembaruan data.
+Hal ini relevan dengan ketertarikan saya pada Business Development dan Product Management, karena proses pengembangan solusi membutuhkan kemampuan memahami stakeholder, memvalidasi asumsi, dan melakukan iterasi.
+Saya juga belajar membedakan Interest dari persetujuan implementasi.
+Permintaan target untuk melihat prototype revisi merupakan indikasi ketertarikan, tetapi belum berarti target bersedia menggunakan solusi.
+Dengan melakukan state assessment secara objektif, saya dapat menentukan tindak lanjut yang lebih tepat dan menghindari kesimpulan yang terlalu optimistis.
+14. Penggunaan AI
+AI digunakan untuk:
+Menyusun alternatif solution hypothesis.
+Memeriksa keterkaitan problem, mechanism, benefit, dan value.
+Mengembangkan skenario objection untuk role-play.
+Mengevaluasi apakah hidden concern dijawab oleh adaptation.
+Membandingkan prototype V1 dan V2.
+Memeriksa konsistensi state assessment.
+Menyusun pertanyaan untuk feedback dan walkthrough.
+AI tidak digunakan untuk mengklaim hasil uji operasional atau respons target nyata yang belum terjadi.
+Keputusan mengenai penerapan solusi, penggunaan data organisasi, dan perubahan proses tetap membutuhkan validasi dengan pihak yang berwenang.
+15. Next Practice
+Practice 1 — Earlier Concern Discovery
+Menanyakan concern utama target sebelum demonstrasi agar solusi dapat lebih cepat diarahkan pada kebutuhan yang relevan.
+Practice 2 — Concise Demonstration
+Melatih demonstrasi 90 detik yang memperlihatkan problem, mechanism, benefit, dan batasan solusi.
+Practice 3 — Evidence-Based Interest Assessment
+Membedakan respons sopan, keterlibatan spesifik, permintaan tindak lanjut, dan persetujuan implementasi.
+Practice 4 — Usability Validation
+Menguji apakah proses memperbarui status benar-benar praktis melalui walkthrough dengan pengguna yang relevan.
+16. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Target dipilih berdasarkan relevance dan authority. Value, workload, serta hidden concern mengenai data reliability dan ownership dianalisis secara spesifik.
+Objective & State
+4
+Objective utama, sekunder, minimum, dan desired outcome ditetapkan. Perubahan Attention menuju Interest with conditions dinilai berdasarkan indikator respons yang jelas.
+Repertoire, Language & AI
+4
+Pitch menggunakan problem–mechanism–benefit–value, demonstrasi 90 detik, pertanyaan eksploratif, dan penggunaan AI dengan batasan transparan.
+Response & Adaptation
+4
+Hidden concern teridentifikasi melalui pertanyaan klarifikasi. Prototype V2 mengubah input, ownership, dan data freshness mechanism sebagai respons langsung.
+Agreement, Action & Relationship
+4
+Agreement simulasi memiliki action, owner, timeline, deliverable, success criteria, dan boundary. Hubungan dijaga melalui pendekatan kolaboratif tanpa memaksakan implementasi.
+Total Self-Assessment: 20/20 — Target Kompetensi Maksimal.
+Justifikasi Self-Assessment
+Saya menargetkan skor 4 pada seluruh dimensi karena rancangan menunjukkan keterkaitan yang eksplisit antara target, objective, problem, solution mechanism, response, adaptation, dan agreement.
+Person & Character — 4/4
+Saya menghubungkan kebutuhan target dengan tanggung jawab operasional, beban administrasi, dan keandalan informasi. Pemahaman terhadap target diperbarui setelah hidden concern teridentifikasi.
+Objective & State — 4/4
+Saya menetapkan objective yang dapat diamati dan membedakan Attention, Emerging Interest, serta Interest with conditions berdasarkan respons target. Saya tidak menganggap ketertarikan sebagai persetujuan implementasi.
+Repertoire, Language & AI — 4/4
+Saya menggunakan pitch berbasis value, demonstrasi prototype, pertanyaan klarifikasi, dan analisis problem–solution fit. Penggunaan AI dibatasi sebagai alat latihan dan evaluasi.
+Response & Adaptation — 4/4
+Saya mengidentifikasi bahwa concern utama bukan hanya workload, melainkan data reliability. Adaptation menghasilkan perubahan mekanisme solusi, bukan sekadar perubahan cara penyampaian.
+Agreement, Action & Relationship — 4/4
+Saya merancang agreement yang memiliki owner, timeline, deliverable, success criteria, dan boundary. Saya tetap menghormati kewenangan target dan tidak mengklaim persetujuan pilot yang belum diberikan.
+Skor 20/20 merupakan target self-assessment atas rancangan ini. Validitas skor aktual tetap bergantung pada evidence praktik dan rubrik assessor.
+PentingKey Learning
+Interest tidak dibangun hanya dengan menunjukkan solusi yang terlihat menarik. Interest muncul ketika target memahami hubungan antara problem, mechanism, benefit, dan value, lalu menunjukkan keterlibatan nyata untuk mengevaluasi solusi lebih lanjut. Hidden concern menjadi dasar adaptation yang lebih relevan.
+Kembali ke atas
+Target–Attention Challenge
+UTS Performance Evidence Package
+Portfolio KIPP-2 · Aqila Zahra Athaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://qilooooow.github.io/kipp-students/index.html
+- https://qilooooow.github.io/kipp-students/assets/logo.png
+- https://qilooooow.github.io/kipp-students/course/index.html
+- https://qilooooow.github.io/kipp-students/portfolio/index.html
+- https://qilooooow.github.io/kipp-students/examples/index.html
+- https://qilooooow.github.io/kipp-students/lk/index.html
+- https://qilooooow.github.io/kipp-students/slides.html
+- https://qilooooow.github.io/kipp-students/slides-pdf/index.html
+- https://qilooooow.github.io/kipp-students/assessment/index.html
+- https://qilooooow.github.io/kipp-students/about.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-01.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-02.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-03.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-04.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-05.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-08.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-11.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-12.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-13.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-14.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-15.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-continuity-dari-minggu-6
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#problem-validation-dan-evidence-boundary
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#problem-statement
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#observation-inference-dan-validation
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#validation-plan
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#target-person-character-dan-value
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#value-bagi-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#solution-hypothesis-dan-problemsolution-fit
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#initial-solution-hypothesis
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#problemmechanismbenefitvalue-map
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#falsifiable-hypothesis
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#prototype-version-1
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#mechanism
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#prototype-limitation
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#objective
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#interest-pitch
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#demonstration-script
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#response-dan-hidden-concern
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#simulated-response
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#hidden-concern-analysis
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#response-interpretation
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#response-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#adapted-response
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#adaptation-pada-solution-mechanism
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#prototype-version-2
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#revised-prototype
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#beforeafter-comparison
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#revised-solution-hypothesis
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#mengapa-adaptation-ini-substantif
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#state-assessment-dan-signal-interest
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#simulated-response-setelah-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#observable-interest-signals
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#state-transition
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#agreement-dan-action-plan
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#simulated-agreement
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#action-plan
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#evidence-dan-traceability
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#evidence-pelaksanaan-yang-belum-tersedia
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#refleksi-pribadi
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#next-practice
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html#justifikasi-self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,204 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1037
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Current dan desired state
+Feature–benefit–value–outcome chain
+Konteks performance
+Evidence
+Transkrip Percakapan Diskusi Sistem Bundle Bunga & Pengembangan Website
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Current dan desired state
+Elemen
+Rumusan target (Mitra G), bukan asumsi pribadi
+Current state
+Harga paket bundle bunga berbeda (lebih hemat) dibandingkan harga bunga satuan; jika web hanya mengandalkan hitungan otomatis dari kelipatan bunga satuan, pembeli tidak sadar ada paket hemat dan tim perangkai bingung membedakan pesanan satuan dengan pesanan satu buket bundle
+Desired state
+Pembeli dapat memilih opsi paket bundle 5 bunga atau 10 bunga secara langsung sejak awal di website, sekaligus bebas mengustomisasi kombinasi warna bunga di dalam paket tersebut dengan harga bundle yang sudah pasti
+Value
+Kejelasan pilihan paket bagi pembeli untuk mendorong pembelian jumlah banyak, serta ketepatan instruksi kombinasi warna bagi tim perangkai bunga tanpa perlu konfirmasi ulang lewat pesan singkat
+Acceptable risk
+Penambahan waktu pengembangan kode form kustomisasi warna selama satu malam dan uji coba internal pada 3 skenario kombinasi warna sebelum rilis
+Evidence threshold
+Total jumlah tangkai warna yang dipilih pembeli terkunci otomatis tepat di angka 5 atau 10 tangkai, harga tertera sesuai tarif bundle, dan rincian warna tercatat jelas di satu baris data pesanan
+Feature–benefit–value–outcome chain
+Opsi kartu produk Bundle 5 Bunga & 10 Bunga dengan sub-pilihan kustomisasi warna \(\rightarrow\) pembeli langsung melihat selisih harga hemat dan memilih komposisi warna sesuai kuota paket \(\rightarrow\) data pesanan mencatat jenis bundle beserta rincian warna tangkai secara spesifik \(\rightarrow\) tim produksi merangkai buket tanpa salah hitung harga maupun warna \(\rightarrow\) proses pemesanan wisuda berjalan lancar dan pengembangan website dapat langsung dilanjutkan ke tahap penyelesaian.
+Setiap tahap pada rantai di atas disajikan sebagai hipotesis kerja yang diuji bersama Mitra G, bukan janji mutlak tanpa batasan.
+Konteks performance
+Tanggal dan setting: 1 Oktober 2026 (Malam hari), sesi diskusi perancangan alur pemesanan produk bunga pada website di ruang sekretariat divisi.
+Persons dan relationship: Saya (Staf Desain & Web Developer GCORP) dan Mitra G (Rekan Tim Produk & Pengembang GCORP). Hubungan bersifat rekan kerja satu divisi yang setara dan kolaboratif.
+Objective dan initial state: - Objective: Membangun Desire (keinginan berkomitmen dengan menimbang manfaat, beban kerja, dan risiko secara rasional) bersama Mitra G terkait mekanisme pemilihan bundle bunga di website, serta menyepakati langkah kelanjutan pengembangan websitenya. - Initial State: Mitra G berada pada tahap Interest untuk memasukkan produk bunga ke dalam sistem pemesanan web, namun masih menimbang skema terbaik untuk membedakan harga bundle dengan harga bunga satuan.
+Evidence
+Transkrip Percakapan Diskusi Sistem Bundle Bunga & Pengembangan Website
+Saya: “Halo Mitra G, untuk melanjutkan pengembangan website pemesanan wisuda kita malam ini, saya ingin mendiskusikan alur pemilihan produk bunga. Karena harga bundle bunga ini lebih murah dibandingkan beli bunga satuan, awalnya saya berencana membuat sistem web yang menghitung potongan harga otomatis setiap kali pembeli memasukkan jumlah bunga kelipatan 5 atau 10 pada menu satuan. Sebelum saya terapkan, hasil akhir seperti apa yang sebenarnya paling kamu harapkan dari sistem pemilihan bunga ini?”
+Mitra G: “Kalau sistemnya cuma menghitung otomatis dari kelipatan bunga satuan, pembeli yang baru buka web tidak akan langsung sadar kalau kita punya promo paket bundle 5 bunga dan 10 bunga. Selain itu, kalau mereka beli 5 tangkai lewat menu satuan, tim perangkai kita bakal bingung apakah itu minta dijadikan satu buket bundle atau 5 tangkai terpisah. Saya ingin sejak awal ada opsi pilihan Bundle 5 Bunga dan Bundle 10 Bunga secara langsung, dan di dalamnya pembeli bisa bebas kustomisasi warna bunganya.”
+Saya: “Berarti meskipun hitungan otomatis dari kelipatan satuan itu lebih ringkas secara kode program, solusi itu tetap kurang tepat buat kita karena menyembunyikan daya tarik paket bundle dan menyulitkan pembacaan pesanan untuk tim perangkai?”
+Mitra G: “Betul sekali. Kalau opsinya langsung dipisah jadi paket Bundle 5 Bunga dan Bundle 10 Bunga, harganya langsung jelas sejak awal dan pembeli tertarik beli banyak karena bisa pilih kombinasi warna sendiri.”
+Saya: “Usulan yang sangat tepat, saya tangkap kebutuhannya. Kalau begitu, saya ubah rancangan alur produknya mengikuti usulanmu: di halaman katalog kita tampilkan langsung kartu produk Bundle 5 Bunga dan Bundle 10 Bunga terpisah dari bunga satuan. Saat pembeli memilih salah satu bundle, akan muncul fitur pemilih jumlah untuk tiap warna bunga—misalnya merah, putih, atau merah muda—hingga totalnya pas 5 atau 10 tangkai. Sebagai pijakan bukti, logika pembatas kuota angka seperti ini sudah pernah saya terapkan pada form pemesanan paket tahun lalu dan berhasil mencegah perhitungan harga yang meleset.”
+Mitra G: “Nah, alur seperti itu jauh lebih jelas buat pembeli maupun tim produksi. Tapi kalau pembeli bebas menentukan jumlah warna di dalam bundle, apa risiko atau kendala teknis yang mungkin muncul saat mereka mengisi form?”
+Saya: “Risiko utamanya adalah pembeli menekan tombol pesan saat jumlah warna yang dipilih baru 3 tangkai atau justru kelebihan jadi 6 tangkai pada Bundle 5 Bunga, atau mereka memilih warna yang stoknya sedang habis. Sebagai batas pengaman, tombol simpan pesanan akan saya kunci otomatis dan baru bisa ditekan jika total tangkai warna yang dipilih sudah tepat berjumlah 5 atau 10 sesuai paketnya. Namun keterbatasannya, pengaturan stok per warna tetap harus diperbarui secara manual oleh admin jika ada warna bunga yang habis di tengah jalan.”
+Mitra G: “Penguncian tombol sampai jumlah tangkainya pas 5 atau 10 itu sudah sangat aman. Untuk stok warna manual tidak masalah, nanti admin produk yang memantau. Kira-kira butuh berapa lama untuk menerapkan alur bundle dan kustomisasi warna ini di web?”
+Saya: “Saya membutuhkan waktu sekitar dua jam malam ini untuk menyusun kode komponen pilihan bundle beserta validasi kuota warnanya. Saya tidak ingin langsung menganggap fitur ini sempurna sebelum kita coba sendiri. Apakah kamu setuju jika saya lanjut mengembangkan bagian ini sekarang, lalu kita lakukan pengujian 3 skenario kombinasi warna bersama sebelum disahkan ke halaman utama?”
+Mitra G: “Setuju banget. Silakan lanjut kembangkan websitenya dengan opsi bundle langsung dan kustomisasi warna itu, nanti begitu komponennya selesai langsung kita uji coba 3 skenarionya malam ini juga.”
+Saya: “Siap, saya langsung lanjutkan pengerjaan kode websitenya sekarang.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Menggali desired state berdasarkan sudut pandang Mitra G yang memikirkan daya tarik visual paket bagi pembeli dan kejelasan instruksi merangkai bagi tim produksi, bukan memaksakan kemudahan penulisan kode semata.
+Objective & state
+Menggerakkan Mitra G menuju tahap Desire dan komitmen aksi dengan memetakan secara jernih kondisi saat ini, hasil masa depan, pengorbanan waktu pengerjaan (2 jam), serta ambang bukti pengujian.
+Repertoire & language
+Menyampaikan Feature–Benefit–Value–Outcome Chain secara logis, menggunakan Tangga Bukti (penjelasan mekanisme sebab-akibat dan referensi keberhasilan logika serupa), serta mengakui honest limits (pembaruan stok warna masih manual).
+Response & adaptation
+Menerima koreksi Mitra G yang menolak skema hitung otomatis kelipatan satuan, lalu mengadaptasi rancangan menjadi opsi paket Bundle 5 Bunga dan 10 Bunga sejak awal yang dilengkapi pengunci kuota kustomisasi warna.
+Agreement/action
+Menyepakati kelanjutan pengembangan website malam itu juga selama dua jam, diikuti pengujian 3 skenario kombinasi warna sebagai syarat pengesahan fitur.
+Relationship outcome
+Menjaga kolaborasi yang suportif dan setara dengan menghargai usulan desain produk dari Mitra G serta transparansi batasan teknis.
+Penggunaan AI
+Alat dan peran AI: Gemini digunakan untuk meninjau kerangka logika pada fitur pemilihan bundle bunga dan membantu penyusunan portofolio ini agar lebih rapih.
+Prompt penting: > “Bantu aku menyusun portofolio ini berdasarkan konteks kejadian”
+Bagian output yang diubah/ditolak: AI sempat menyarankan penambahan fitur visual tambahan saat pembeli memilih warna. Saran tersebut ditolak karena terlalu rumit, tidak sesuai dengan ketersediaan waktu pengembangan, dan berisiko memperlambat pemuatan halaman web bagi pembeli.
+Pemeriksaan accuracy, privacy, dan authority: Seluruh detail mengenai perbedaan harga bundle dan bunga satuan, opsi 5 dan 10 bunga, serta kustomisasi warna ditulis sesuai diskusi nyata, dengan nama rekan disamarkan sebagai Mitra G.
+Apa yang tetap dipelajari sebagai manusia: Kesadaran untuk melepaskan rancangan teknis awal (hitungan kelipatan otomatis) ketika rekan kerja menunjukkan bahwa opsi paket langsung jauh lebih bernilai bagi pengalaman pembeli dan kelancaran tim operasional.
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Enaknya diskusi sama kamu itu kamu gak ngotot mempertahankan cara hitungan otomatis yang kamu pikirkan di awal. Begitu aku usul pakai opsi bundle 5 dan 10 bunga langsung plus kustomisasi warna, kamu langsung tangkap maksudnya dan bahkan kepikiran bikin pengunci jumlah tangkai biar pembeli gak salah isi.”
+Adaptation/replay: Beralih dari pendekatan berbasis kalkulasi diskon otomatis di belakang layar menjadi penyediaan kartu opsi bundle eksplisit di awal halaman dengan validasi kuota warna bunga.
+Next practice: Menyelesaikan kode komponen kustomisasi warna untuk Bundle 5 Bunga dan Bundle 10 Bunga, lalu memandu pengujian 3 skenario input bersama Mitra G.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Merumuskan desired state menggunakan perspektif dan kebutuhan Mitra G (kejelasan opsi bundle bagi pembeli dan rincian warna bagi perangkai).
+Objective & State
+4
+Menetapkan current state, desired state, acceptable risk, dan evidence threshold secara spesifik di dalam dialog.
+Repertoire, Language & AI
+4
+Menyajikan rantai nilai sebagai hipotesis yang diuji, menyatakan honest limits terkait stok warna manual, dan menolak usulan fitur berlebihan dari AI.
+Response & Adaptation
+4
+Mengubah arsitektur pemilihan produk dari hitungan kelipatan otomatis menjadi opsi bundle 5 dan 10 bunga sejak awal dengan kustomisasi warna sesuai usulan Mitra G.
+Agreement, Action & Relationship
+3
+Menyepakati kelanjutan pengembangan website selama dua jam dan pengujian 3 skenario kombinasi warna tanpa paksaan.
+Total: 19 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#quarto-document-content
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/UAS/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#current-dan-desired-state
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#transkrip-percakapan-diskusi-sistem-bundle-bunga-pengembangan-website
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#analisis-komunikasi
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-09.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

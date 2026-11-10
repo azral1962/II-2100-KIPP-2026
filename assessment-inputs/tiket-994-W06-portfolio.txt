@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 994
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch berbasis tenggat lomba Data Science yang tinggal satu hari, serta adaptasi dari menagih penyelesaian menjadi menawarkan bantuan dan pembagian kerja yang realistis.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Rabu, 18 Maret 2026, diskusi tim lewat chat selama kurang lebih satu jam, sehari sebelum tenggat pengumpulan lomba Data Science pada Kamis, 19 Maret 2026.
+Persons dan relationship: Saya, Anggota A, dan Anggota B, satu tim lomba Data Science dengan posisi setara (tanpa hubungan atasan-bawahan). Setiap anggota memegang bagian pekerjaan sendiri dan sama-sama sedang menghadapi kesibukan di luar lomba.
+Objective dan initial state: Membuat tim, terutama Anggota A, mengakui bahwa dengan sisa waktu satu hari pembagian kerja harus disesuaikan dengan kemampuan dan waktu masing-masing, lalu menyepakati cara menyelesaikannya bersama tanpa saling menyalahkan. Initial state Anggota A: Problem aware, tahu tenggat sudah dekat, tetapi terhambat kesibukan dan belum menyampaikan kendalanya. Uncertainty: saya belum tahu bagian mana yang paling sulit bagi tiap anggota.
+Evidence
+Catatan1. Target Map & Pemilihan Target
+Person
+Relevance
+Authority
+Current state
+Anggota A
+Bagiannya ikut menentukan apakah submission tim selesai sebelum tenggat
+Mengatur sendiri progres bagiannya dan dapat menyampaikan kebutuhan bantuan
+Problem aware, terhambat kesibukan
+Anggota B
+Memegang bagian lain yang juga harus selesai sebelum tenggat
+Mengatur progres bagiannya sendiri
+Problem aware, juga sedang sibuk
+Alasan memilih Anggota A:
+Anggota A paling langsung menentukan apakah pembagian kerja yang baru bisa dijalankan, karena bagiannya masih berjalan sementara ia sedang sibuk. Saya tetap memperhitungkan Anggota B agar penyesuaian tidak hanya membebani satu orang. Masalahnya saya bingkai bukan sebagai “siapa yang belum selesai”, melainkan bagaimana tim menyelesaikan pekerjaan dengan waktu yang tersisa.
+2. Attention Pitch & Evidence
+“Aku tahu kita semua lagi sibuk dan deadline lombanya sudah besok. Jadi, menurutku kita perlu membagi pekerjaan sesuai kemampuan dan waktu yang kita punya supaya semuanya tetap bisa dikerjakan. Kalau ada bagian yang kalian kesulitan kerjakan, coba kabari aku. Aku akan berusaha membantu mengerjakan bagian yang belum bisa diselesaikan supaya beban kita lebih seimbang dan kita bisa menyelesaikan pekerjaan bersama.”
+Evidence yang digunakan: tenggat pengumpulan Kamis, 19 Maret 2026, tersisa satu hari saat diskusi, dan kondisi seluruh anggota yang sama-sama sedang sibuk.
+Framing evidence: kesibukan semua anggota diakui lebih dulu, termasuk saya, lalu tenggat dipakai sebagai alasan menyesuaikan pembagian kerja, bukan untuk menyalahkan.
+3. Response, State Assessment & Adaptation
+Respons Anggota A: menunjukkan rasa bersalah, berterima kasih atas tawaran bantuan, dan menyatakan tetap akan berusaha mengerjakan bagiannya.
+Sinyal yang ditangkap: rasa bersalah dalam balasan chat saya baca sebagai tanda bahwa Anggota A sudah menyadari tanggung jawabnya; menekan lebih jauh justru bisa membuatnya makin terbebani dan menghambat kerja sama.
+State Assessment sesudah Pitch: berpindah dari Problem aware menjadi Attention: Anggota A mengakui bahwa sisa waktu dan pembagian kerja relevan baginya, sekaligus menerima tawaran bantuan.
+Adaptasi Pesan & Objective: saya tidak menambah tekanan soal tenggat, tetapi tetap mengarahkan percakapan pada tanggung jawab tiap bagian dan bantuan untuk bagian yang sulit. Objective bergeser dari “memastikan semua bagian selesai” menjadi “membagi ulang beban agar realistis dalam satu hari”.
+Hasil / State Akhir: tim melanjutkan pengerjaan dengan pembagian yang disesuaikan dan saya membantu bagian yang belum bisa diselesaikan. Saat tim kembali mengikuti lomba Data Science pada Senin, 25 Mei 2026, kami menyepakati untuk mencicil pekerjaan sejak awal dan tidak menunggu tenggat dekat.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Anggota A dipilih karena bagiannya paling menentukan apakah pembagian baru bisa jalan; Anggota B tetap diperhitungkan agar beban tidak berpindah ke satu orang. Sebagai rekan setara, saya memilih character rekan yang menawarkan bantuan, bukan penagih.
+Objective & state
+Dua objective dijaga bersamaan: submission selesai sebelum tenggat dan kerja sama tim tetap utuh. Uncertainty soal bagian tersulit dijawab dengan meminta anggota mengabari kendalanya.
+Repertoire & language
+Pitch mengakui kesibukan bersama, memakai fakta tenggat satu hari, lalu mengajak membagi kerja dan menawarkan bantuan, bukan instruksi atau tuntutan.
+Response & adaptation
+Rasa bersalah Anggota A adalah sinyal lemah yang membuat saya berhenti menekan soal tenggat dan beralih ke pembagian ulang beban.
+Agreement/action
+Pembagian kerja disesuaikan dan bagian yang sulit dibantu; pelajarannya dibawa ke lomba berikutnya (25 Mei 2026) sebagai kesepakatan mencicil pekerjaan sejak awal.
+Relationship outcome
+Tidak ada anggota yang disalahkan; Anggota A merespons dengan terima kasih, dan tim tetap bekerja sama di lomba berikutnya.
+Penggunaan AI
+AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan AI tidak menambahkan fakta, tanggal, maupun isi respons Anggota A, bagian-bagian itu berasal dari ingatan saya.
+Feedback dan tindak lanjut
+Feedback yang diterima: Anggota A berterima kasih atas tawaran bantuan dan menyatakan akan tetap berusaha menyelesaikan bagiannya.
+Adaptation/replay: pada lomba Data Science berikutnya (25 Mei 2026), tim sepakat mencicil pekerjaan lebih awal agar tidak menumpuk menjelang tenggat.
+Next practice: saat menawarkan bantuan, sertakan pembagian tanggung jawab yang jelas (bagian mana yang saya bantu dan sampai kapan) agar bantuan tidak berubah menjadi mengambil alih pekerjaan anggota lain.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Target dipilih berdasarkan pengaruhnya pada pembagian kerja, dengan Anggota B tetap diperhitungkan; character rekan pembantu dipilih karena posisi setara.
+Objective & State
+4
+State Anggota A dipetakan (Problem aware → Attention); objective tenggat dan kerja sama tim dijaga bersamaan dengan uncertainty yang diakui.
+Repertoire, Language & AI
+4
+Pitch berbasis fakta tenggat satu hari, mengakui kesibukan bersama, dan berupa ajakan; AI dibatasi pada penyusunan dan pemisahan evidence–inference.
+Response & Adaptation
+4
+Sinyal rasa bersalah dibaca dan objective digeser dari menagih penyelesaian ke pembagian ulang beban.
+Agreement, Action & Relationship
+4
+Pembagian kerja disesuaikan dengan bantuan pada bagian sulit, relasi tim terjaga tanpa saling menyalahkan, dan pelajarannya ditinjau ulang menjadi kesepakatan mencicil di lomba 25 Mei 2026.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-06.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,208 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1007
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Attention evidence dan solution hypothesis
+Pitch dan demonstration
+Hidden concern dan adaptation
+Konteks performance
+Evidence
+Transkrip Percakapan Lengkap
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Attention evidence dan solution hypothesis
+Berdasarkan tindak lanjut koordinasi persiapan wisuda Oktober (1 Oktober 2026, dua hari setelah kesepakatan 29 September), rilis penjualan mengalami keterlambatan karena pengerjaan desain katalog belum dapat diselesaikan. Hal ini dipicu oleh dua kendala yang telah diakui bersama Mitra A: elemen informasi dan foto produk yang dibutuhkan desainer belum lengkap, serta munculnya keraguan pada produk snackbox karena terdapat selisih harga yang cukup jauh antara tabel rancangan awal dengan harga aktual di online shop sehingga isian produk perlu diganti.
+Solution hypothesis: Penggunaan template desain katalog berstruktur modular (menggunakan placeholder siap pakai untuk elemen yang belum lengkap) yang dipadukan dengan konfigurasi website pemesanan berfitur status “Segera Hadir” khusus untuk kategori snackbox dapat membuat rilis penjualan tetap berjalan hari ini tanpa harus menunggu pergantian item snackbox selesai.
+Problem
+Mechanism
+Expected benefit
+Value bagi target (Mitra A)
+Desain katalog tertahan karena elemen foto dan rincian dari tim produk belum lengkap
+Template tata letak modular dengan fokus visual pada produk yang datanya sudah lengkap (buket dan selempang)
+Aset desain promosi gelombang pertama dapat diselesaikan dan diunggah hari ini
+Jadwal rilis penjualan tidak semakin mundur dan target waktu promosi tetap terjaga
+Keraguan menjual snackbox akibat selisih harga rancangan vs online shop yang menuntut pergantian item
+Konfigurasi kartu produk snackbox pada website disetel ke mode Segera Hadir (tampil di web namun tombol beli dinonaktifkan sementara)
+Pembeli tetap mengetahui adanya lini produk snackbox sambil menunggu kepastian harga dan item pengganti
+Menghindari risiko kerugian margin harga tanpa harus menunda pembukaan pesanan produk lainnya
+Pitch dan demonstration
+“Kita sama-sama melihat rilis penjualan kita mundur karena desain katalog tertahan oleh elemen foto yang belum lengkap, ditambah kita masih ragu melepas snackbox karena harga di online shop ternyata lebih mahal dari rancangan awal. Saya sudah menyiapkan draf desain katalog modular dan pratinjau halaman website ini sebagai jalan tengahnya. Cara kerjanya, kita terbitkan dulu desain katalog untuk produk yang elemennya sudah lengkap, sedangkan kartu produk snackbox di website saya atur ke status Segera Hadir sampai kita mendapatkan barang pengganti di online shop yang sesuai anggaran. Dengan cara ini, kita bisa membuka pesanan hari ini juga tanpa risiko rugi akibat salah pasang harga snackbox. Setelah melihat tampilan desain dan pengaturan web ini, bagian mana yang menurutmu bisa langsung kita jalankan atau masih mengganjal?”
+Pitch ini terdiri dari 118 kata, mengikuti struktur 5 Langkah Pitch Minat secara berlapis sambil mendemonstrasikan draf tata letak katalog dan tampilan halaman website pemesanan kepada Mitra A.
+Hidden concern dan adaptation
+Semula saya mengira kekhawatiran utama Mitra A adalah tampilan visual katalog yang terlihat kurang ramai jika rincian snackbox belum ditampilkan secara utuh. Namun, respons Mitra A setelah melihat demonstrasi membuka hidden concern yang sebenarnya: keengganan pembeli mengisi form pemesanan dua kali dan waktu tunggu revisi desain snackbox. Mitra A khawatir jika pembeli sudah telanjur checkout produk lain hari ini, mereka akan malas memesan snackbox saat dirilis menyusul karena harus mengisi form dari awal. Selain itu, jika desain snackbox baru dibuat dari nol saat barang pengganti didapat, waktu rilisnya akan semakin molor.
+Saya tidak mempertahankan konsep awal secara kaku dan langsung melakukan adaptasi mekanisme: 1. Menambahkan opsi “Tambah ke Pesanan Sebelumnya” pada konfigurasi form website berbasis nomor telepon, sehingga pembeli yang sudah memesan produk utama dapat menyusulkan snackbox ke dalam pesanan awalnya tanpa mengisi ulang data diri. 2. Menyusun kerangka desain visual snackbox menggunakan tata letak kemasan generik terlebih dahulu, sehingga ketika tim produk menemukan item pengganti di online shop, saya hanya perlu memasukkan foto elemen dan angka harga baru dalam waktu 15 menit. 3. Menyesuaikan janji solusi dari “menyelesaikan seluruh kendala keterlambatan rilis hari ini” menjadi “menguji apakah rilis bertahap dan fitur gabung pesanan ini mampu mengamankan pembeli awal sambil memberi waktu bagi tim untuk memfinalisasi pengganti snackbox”.
+Mitra A menunjukkan sinyal Interest dengan menanyakan bagaimana tampilan opsi gabung pesanan tersebut di sisi pembeli dan meminta spesifikasi elemen foto dari online shop agar langsung pas saat dimasukkan ke dalam template desain.
+Konteks performance
+Tanggal dan setting: 1 Oktober 2026, diskusi tatap muka dan demonstrasi draf desain serta halaman web di ruang sekretariat divisi.
+Persons dan relationship: Saya (Staf Desain & Web Developer GCORP) dan Mitra A (Koordinator Divisi GCORP). Hubungan kerja bersifat rekan kepengurusan internal dalam satu divisi.
+Objective dan initial state: - Objective: Menumbuhkan minat (Interest) Mitra A terhadap mekanisme rilis katalog modular dan pengaturan status snackbox di website untuk mengatasi kemacetan jadwal rilis penjualan. - Initial State: Mitra A berada pada kondisi Attention (menyadari rilis penjualan terlambat akibat elemen desain yang kurang dan selisih harga snackbox di online shop), namun ragu mengambil langkah rilis karena takut harga belum akurat dan desain belum utuh.
+Evidence
+Transkrip Percakapan Lengkap
+Saya: “Halo Mitra A, terkait jadwal rilis penjualan kita yang tertunda hari ini, boleh minta waktu sekitar tiga menit untuk melihat draf desain dan solusi pengaturan di website yang sudah saya siapkan?”
+Mitra A: “Halo, iya silakan. Jujur saya juga sedang pusing karena elemen foto dari tim produk belum terkumpul semua dan urusan harga snackbox yang meleset dari harga online shop ini bikin kita belum bisa rilis.”
+Saya: “Kita sama-sama melihat rilis penjualan kita mundur karena desain katalog tertahan oleh elemen foto yang belum lengkap, ditambah kita masih ragu melepas snackbox karena harga di online shop ternyata lebih mahal dari rancangan awal. Saya sudah menyiapkan draf desain katalog modular dan pratinjau halaman website ini sebagai jalan tengahnya. Cara kerjanya, kita terbitkan dulu desain katalog untuk produk yang elemennya sudah lengkap, sedangkan kartu produk snackbox di website saya atur ke status Segera Hadir sampai kita mendapatkan barang pengganti di online shop yang sesuai anggaran. Dengan cara ini, kita bisa membuka pesanan hari ini juga tanpa risiko rugi akibat salah pasang harga snackbox. Setelah melihat tampilan desain dan pengaturan web ini, bagian mana yang menurutmu bisa langsung kita jalankan atau masih mengganjal?”
+Mitra A: “Tampilan web dengan label Segera Hadir ini cukup rapi. Tapi yang bikin saya ragu, kalau pembeli sudah telanjur checkout buket hari ini, nanti pas snackbox-nya sudah kita ganti dan siap dijual, mereka malas pesan lagi karena harus isi data dari awal. Belum lagi nanti kamu harus desain ulang poster snackbox-nya dari nol pas barang penggantinya baru ketemu di online shop.”
+Saya: “Kekhawatiran yang sangat masuk akal, saya belum memikirkan keengganan pembeli mengisi form dua kali itu. Bagaimana jika di konfigurasi website saya aktifkan fitur tambah pesanan menggunakan nomor telepon yang sama, sehingga pembeli bisa menyusulkan snackbox ke pesanan awalnya tanpa isi data ulang? Lalu untuk desain snackbox, saya buatkan tata letak kemasannya sekarang, jadi saat barang pengganti di online shop sudah pasti, saya tinggal memasukkan foto elemen dan harga barunya dalam 15 menit.”
+Mitra A: “Wah, kalau pembeli bisa langsung gabung pesanan lewat nomor telepon begitu, saya tidak khawatir lagi kehilangan pembeli snackbox. Kira-kira bagaimana tampilan tombol gabung pesanan itu di layar pembeli, dan elemen apa saja yang paling mendesak kamu butuhkan dari online shop supaya template snackbox-nya siap?”
+Saya: “Di halaman awal web nanti ada pilihan Tambah ke Pesanan Sebelumnya, pembeli cukup memasukkan nomor telepon dan memilih snackbox saat sudah aktif. Untuk elemen desainnya, saya hanya butuh tautan foto produk pengganti yang berlatar polos dan daftar harga barunya saja.”
+Mitra A: “Oke, itu jelas dan sangat membantu. Sore ini saya pastikan tim produk mengunci pengganti snackbox di online shop dan mengirimkan tautan fotonya kepadamu. Malam ini kita cek simulasi fitur gabung pesanan itu di web sebelum kita rilis.”
+Saya: “Siap, sembari menunggu tautan foto dan harga baru sore ini, saya selesaikan konfigurasi fitur gabung pesanan di web agar malam ini siap kita uji coba bersama.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Memahami posisi Mitra A sebagai koordinator yang terjepit antara tuntutan jadwal rilis yang sudah terlambat, ketidaklengkapan bahan dari tim produk, dan ketakutan rugi akibat selisih harga snackbox di online shop.
+Objective & state
+Berhasil memindahkan status Mitra A dari Attention (cemas akan keterlambatan rilis dan ketidakpastian produk) menuju Interest, ditunjukkan oleh pertanyaan spesifik Mitra A mengenai cara kerja fitur gabung pesanan dan spesifikasi elemen foto yang dibutuhkan.
+Repertoire & language
+Melakukan detoks fitur dengan tidak membahas kerumitan kode state management pada web atau layer aplikasi desain, melainkan menerjemahkannya menjadi manfaat penyelamatan jadwal rilis dan keamanan margin harga.
+Response & adaptation
+Menangkap hidden concern Mitra A terkait potensi keengganan pembeli memesan dua kali dan waktu revisi desain, lalu mengadaptasi solusi dengan fitur penggabungan pesanan berbasis nomor telepon serta template desain kemasan generik.
+Agreement/action
+Mencapai kesepakatan konkret pada 1 Oktober: penyerahan elemen foto dan harga snackbox pengganti dari online shop pada sore hari, diikuti uji coba fitur gabung pesanan pada malam harinya.
+Relationship outcome
+Membangun rasa aman dan kolaborasi yang konstruktif di tengah situasi keterlambatan rilis tanpa saling menyalahkan atas kelambatan pengumpulan elemen desain.
+Penggunaan AI
+Alat dan peran AI: Gemini digunakan untuk melakukan Detoks Fitur pada draf penjelasan website dan desain katalog, serta mensimulasikan kemungkinan keberatan (objection) dari sudut pandang koordinator fundraising.
+Prompt penting: > “Bantu saya menyusun pitch minat 5 langkah untuk koordinator divisi terkait keterlambatan rilis penjualan akibat elemen desain belum lengkap dan harga snackbox di online shop yang berbeda dari rancangan. Pastikan bahasa bebas jargon teknis web maupun desain, dan fokus pada nilai kepastian rilis serta keamanan margin harga.”
+Bagian output yang diubah/ditolak: AI sempat menyarankan agar produk snackbox dihapus sepenuhnya dari rencana penjualan wisuda demi mempercepat rilis. Saran tersebut ditolak karena snackbox merupakan salah satu produk dengan potensi permintaan tinggi, sehingga lebih tepat diadaptasi menggunakan mekanisme status Segera Hadir dan penggabungan pesanan sambil menunggu barang pengganti di online shop.
+Pemeriksaan accuracy, privacy, dan authority: Seluruh detail mengenai kendala elemen desain dan selisih harga snackbox di online shop ditulis sesuai dinamika kerja nyata, dan identitas rekan kerja tetap dijaga anonim sebagai Mitra A.
+Apa yang tetap dipelajari sebagai manusia: Kepekaan membaca beban pikiran rekan kerja yang sedang menghadapi kemacetan operasional, serta keluwesan memodifikasi alur desain dan konfigurasi web agar selaras dengan perilaku belanja pembeli.
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Solusi memecah rilis katalog dan menyiapkan kerangka desain lebih dulu ini sangat menyelamatkan jadwal kita yang sudah molor. Apalagi ide menggabungkan pesanan susulan dengan nomor telepon bikin kita tidak takut kehilangan pembeli snackbox.”
+Adaptation/replay: Mengubah pendekatan kerja dari menunggu seluruh elemen produk terkumpul 100% menjadi penyusunan template desain modular dan fitur pemesanan bertahap yang ramah bagi pembeli.
+Next practice: Menetapkan standar daftar elemen wajib (checklist foto produk, dimensi, dan verifikasi harga aktual di online shop) bersama koordinator divisi sebelum tahap perancangan desain dan konfigurasi web dimulai pada proyek berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Mengenali dilema Mitra A secara utuh terkait tekanan keterlambatan jadwal rilis, kelengkapan bahan desain, dan risiko selisih harga snackbox.
+Objective & State
+4
+Menggeser kondisi target dari Attention menjadi Interest yang dibuktikan dengan pertanyaan eksploratif target mengenai alur antarmuka dan kebutuhan elemen desain.
+Repertoire, Language & AI
+4
+Menyampaikan pitch secara berlapis tanpa jargon koding/desain (melakukan detoks fitur), memanfaatkan demonstrasi prototipe, dan membatasi peran AI secara kritis.
+Response & Adaptation
+4
+Mengidentifikasi hidden concern tentang retensi pembeli snackbox susulan dan langsung mengadaptasi mekanisme form website serta template desain.
+Agreement, Action & Relationship
+3
+Menyepakati tenggat pengiriman elemen pengganti snackbox sore hari serta jadwal simulasi web pada malam hari sebelum rilis publik.
+Total: 19 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/UAS/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#pitch-dan-demonstration
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#transkrip-percakapan-lengkap
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

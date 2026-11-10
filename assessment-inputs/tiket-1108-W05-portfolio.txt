@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1108
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence (Transkrip Wawancara Nyata)
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 26 September 2026, wawancara daring langsung dengan rekan kelompok (Rekan M) untuk mengungkap akar permasalahan keterlambatan pengumpulan laporan tugas besar.
+Persons dan relationship: Pel (saya, sebagai anggota kelompok) dan Rekan M (sebagai Ketua Kelompok / Compiler tugas besar).
+Objective dan initial state: - Objective: Menemukan akar permasalahan sebenarnya dari kepanikan kelompok saat mendekati deadline tugas, merumuskan shared problem statement, dan mendapatkan serah terima otoritas tindakan dari Ketua. - Initial state: Terdapat kepanikan setiap kali kelompok harus mengumpulkan laporan. Asumsi awal saya (initial assumption) adalah anggota kelompok malas, sehingga solusinya hanya sekadar membuat pengingat/alarm bot di grup WA.
+Evidence (Transkrip Wawancara Nyata)
+Transkrip / Catatan Wawancara Discovery Asli: - (Fact/Event) Pel: “Apa masalah utama yang paling bikin kamu stres pas ngurus kelompok kita?” -> M: “Banyak yang ngumpulin laporannya mepet jam 23.59. Baru pada kirim file jam setengah sebelas malam.” - (Impact) Pel: “Terus dampaknya ke kamu apa?” -> M: “Aku panik dan nggak punya waktu buat baca ulang kelogisan isi sama ngerapihin formatting. Takut nilainya jelek gara-gara berantakan.” - (Ideal State) Pel: “Idealnya kamu pengen proses kita jalan kayak gimana?” -> M: “Aku pengen bisa ngelihat status pengerjaan tiap orang tanpa harus nanya di grup satu-satu.” - (Constraint) Pel: “Kendalanya buat mantau selama ini apa?” -> M: “Jadwal kesibukan anak-anak beda-beda, dan kalau ngabarin lewat WA doang, chat-nya cepet banget ketumpuk obrolan lain.”
+Artefak Konfirmasi (Manajemen Repair & Authority Tindakan): > Pel: “M, jadi kalau aku rangkum masalah utamanya: ‘Kamu kehabisan waktu buat me-review gara-gara telat ngumpul bahan’. Udah pas belum?” > M: “Agak kurang pas sih. Masalahnya bukan cuma di telatnya, tapi karena aku nggak bisa mantau progres anak-anak gara-gara chat WA ketumpuk. Jadi kesannya telat padahal miskom aja.” (Koreksi/Repair dari partner) > Pel: “Ah, oke paham! Berarti aku revisi rumusan masalahnya: nambahin poin ‘kurang visibilitas progres karena kendala WA’ ya. Setuju?” > M: “Nah iya! Setuju banget 100%. Itu beneran inti masalahnya.” (Shared Problem Confirmed) > Pel: “Kalo gitu, aku usul kita pindahin pelacakan progres dari WA ke Google Sheets khusus tracker tugas kita. Sebagai Ketua, apa kamu ngasih izin (authority) ke aku buat bikin dan ngurus sheet itu mulai besok?” > M: “Iya, aku izinin. Silakan atur sheetnya, nanti kamu kirim link-nya ke grup ya. Aku lepas handling tracking ke kamu.” (Authority Assigned)
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya melepaskan karakter sebagai ‘orang IT’ yang ingin buru-buru bikin aplikasi/bot reminder. Saya memposisikan diri sebagai penanya objektif yang mengeksplorasi beban kerja teman.
+Objective & state
+Beralih dari sekadar berasumsi “anggota pemalas” menjadi memahami state kesulitan manajerial. M bergeser dari frustrasi menjadi lega dan delegatif (action-oriented).
+Repertoire & language
+Saya menggunakan pertanyaan terbuka (discovery questions) berbasis penggalian (fact, impact, ideal, constraint).
+Response & adaptation
+Ketika mendengar keluhan chat WA tertumpuk, saya merespons secara adaptif dengan membuang ide bot pengingat, beralih mengakomodasi kebutuhan tracker visual (G-Sheets).
+Agreement/action
+Terdapat bukti jelas serah terima Authority: M menyetujui rumusan revisi (Repair) saya, dan secara eksplisit berkata “Aku izinin… aku lepas handling tracking ke kamu.” Aksi nyatanya adalah pembuatan tracker Google Sheets di hari esoknya.
+Relationship outcome
+Relasi horizontal tim sangat produktif dan rasa percaya (trust) terbangun kuat karena ketua kelompok tidak merasa jabatannya di- bypass tanpa izin.
+Penggunaan AI
+Tidak ada penggunaan AI (LLM) dalam penyusunan isi perbincangan discovery dan serah terima authority di atas. AI hanya digunakan untuk proses perapian tabulasi dan memastikan tulisan sesuai dengan style-guide portofolio format markdown.
+Feedback dan tindak lanjut
+Feedback yang diterima: Persetujuan eksplisit dari Rekan M (“Iya, aku izinin… silakan atur”) menunjukkan bahwa rumusan shared problem yang akurat dan repair yang ditangani dengan baik membuka jalan mulus bagi serah terima otoritas manajerial (aksi nyata).
+Adaptation/replay: Daripada bertindak sepihak sebagai “pahlawan kelompok” yang membuat sistem baru tanpa ditanya, saya memilih jalur meminta approval (otoritas) dari pemegang kendali (Ketua Kelompok).
+Next practice: Saya akan mempraktikkan penguncian authority (otoritas delegasi) dalam bentuk pengajuan pertanyaan penutup yang tegas setiap kali saya ingin mengambil alih penanganan suatu masalah teknis dari tangan pimpinan tim.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Menahan ego proposing solusi sampai seluruh anatomi masalah tergali penuh.
+Objective & State
+4
+Ekstraksi masalah laten tercapai dengan mengubah state panik ketua jadi delegatif.
+Repertoire, Language & AI
+4
+Artefak wawancara discovery otentik tanpa buatan AI; framing bahasa perbaikan berhasil.
+Response & Adaptation
+4
+Repair (koreksi pandangan soal WA) diserap dengan sempurna dan diadaptasi ke masalah final.
+Agreement, Action & Relationship
+4
+Serah terima Authority (otoritas pengurusan tracker) terekam eksplisit secara lisan.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#evidence-transkrip-wawancara-nyata
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

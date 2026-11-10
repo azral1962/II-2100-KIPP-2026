@@ -1,0 +1,546 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1056
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Laporan Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Konteks Performance
+Objective dan Initial State
+Desire–Action Gap
+Identifikasi Hambatan
+Barrier Map
+Analisis Desire–Action Gap
+Authority Map
+Analisis Authority
+Options dan Trade-Off
+Alternatif Solusi
+Analisis Trade-Off
+Negotiation dan Response
+Action Pitch
+Skenario Percakapan Negosiasi
+Analisis Response
+Response dan Adaptation
+Adaptation terhadap Hambatan
+Perubahan Pendekatan
+Hasil Adaptation
+Agreement dan Action Plan
+Rumusan Agreement
+Agreement Record
+Action Plan
+Kriteria Penyelesaian Action
+Mekanisme Review
+Relationship Outcome
+Evidence
+Analisis Komunikasi
+Penggunaan AI
+Alat dan Peran AI
+Prompt Penting
+Output AI yang Digunakan dan Diubah
+Pemeriksaan Accuracy, Privacy, dan Authority
+Pembelajaran Pribadi
+Feedback dan Tindak Lanjut
+Feedback yang Diterima
+Adaptation/Replay
+Next Practice
+Self-Assessment
+Refleksi Akhir
+Assessment Dosen
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence dalam penerapan solusi koordinasi kelompok mahasiswa.
+Kompetensi Target
+Kompetensi yang ingin saya kembangkan adalah kemampuan mengidentifikasi hambatan antara keinginan dan tindakan (desire–action gap), memahami kewenangan pihak yang terlibat, serta membangun kesepakatan yang realistis dan dapat dilaksanakan.
+Saya juga ingin melatih kemampuan bernegosiasi, mempertimbangkan beberapa alternatif solusi, serta menentukan pembagian tanggung jawab dan waktu pelaksanaan yang jelas.
+Melalui kegiatan ini, saya belajar bahwa keberhasilan komunikasi tidak hanya ditentukan oleh persetujuan secara lisan, tetapi juga oleh adanya tindakan nyata yang dapat dipertanggungjawabkan.
+Konteks Performance
+Tanggal dan setting: 5 November 2026, penyusunan skenario simulasi komunikasi dengan konteks diskusi kelompok mahasiswa melalui WhatsApp.
+Persons dan relationship:
+Saya berperan sebagai anggota kelompok yang mengusulkan perbaikan mekanisme koordinasi informasi. Target komunikasi adalah ketua kelompok yang bertanggung jawab terhadap pengaturan jadwal diskusi, pembagian tugas, dan penyampaian informasi kepada anggota lainnya.
+Hubungan kami bersifat setara sebagai sesama mahasiswa. Namun, ketua kelompok memiliki kewenangan dalam menentukan mekanisme koordinasi internal.
+Dalam komunikasi ini, saya berusaha menghargai tanggung jawab ketua kelompok dengan menawarkan bantuan secara langsung, bukan hanya memberikan usulan yang harus dikerjakan oleh orang lain.
+Objective dan Initial State
+Pada Week 6, saya mengangkat permasalahan informasi kelompok yang tersebar dalam percakapan WhatsApp.
+Pada Week 7, saya mengembangkan solusi berupa rangkuman informasi yang disematkan dalam grup.
+Kemudian pada Week 9, solusi tersebut disempurnakan menjadi pusat navigasi informasi yang tetap mengacu pada sumber utama agar tidak menimbulkan pekerjaan tambahan.
+Objective:
+Tujuan komunikasi pada Week 10 adalah memperoleh kesepakatan yang jelas untuk memeriksa dan menguji solusi secara terbatas, termasuk menentukan penanggung jawab, waktu pelaksanaan, dan indikator keberhasilan.
+Saya tidak menargetkan persetujuan penerapan permanen, melainkan komitmen terhadap langkah awal yang realistis dan sesuai dengan kewenangan masing-masing pihak.
+Initial State:
+State awal yang digunakan adalah Desire with Action Barrier.
+Target dalam skenario telah memahami manfaat solusi dan menginginkan koordinasi yang lebih efektif, tetapi belum mengambil tindakan karena masih terdapat kekhawatiran mengenai tambahan pekerjaan, keakuratan informasi, dan kesiapan anggota kelompok.
+Kondisi tersebut menunjukkan adanya kesenjangan antara keinginan untuk memperbaiki koordinasi dan keputusan untuk mulai bertindak.
+Desire–Action Gap
+Identifikasi Hambatan
+Berdasarkan rancangan komunikasi sebelumnya, solusi pusat informasi kelompok memiliki manfaat yang relevan dengan kebutuhan target.
+Namun, ketertarikan dan keinginan untuk memperbaiki koordinasi belum secara otomatis menghasilkan tindakan.
+Terdapat beberapa hambatan yang perlu dipertimbangkan sebelum solusi dapat dijalankan.
+Barrier Map
+Barrier
+Dampak terhadap Action
+Tingkat Prioritas
+Strategi Penanganan
+Keterbatasan waktu ketua kelompok
+Penerapan dianggap menambah pekerjaan
+Tinggi
+Saya menawarkan bantuan menyiapkan format dan melakukan pemeriksaan awal
+Kekhawatiran informasi tidak akurat
+Target ragu menggunakan solusi
+Tinggi
+Sumber resmi tetap menjadi acuan dan setiap informasi diperiksa sebelum digunakan
+Belum ada pembagian tanggung jawab
+Tidak jelas siapa yang menjalankan dan memperbarui mekanisme
+Tinggi
+Menentukan owner untuk setiap tindakan
+Anggota belum terbiasa dengan mekanisme baru
+Solusi berpotensi tidak digunakan
+Sedang
+Memberikan penjelasan singkat dan melakukan uji coba terbatas
+Belum tersedia hasil evaluasi
+Target belum yakin solusi memberikan manfaat
+Sedang
+Melakukan percobaan satu minggu dengan indikator sederhana
+Analisis Desire–Action Gap
+Hambatan utama yang ingin saya selesaikan bukanlah kurangnya ketertarikan terhadap solusi, melainkan belum adanya mekanisme pelaksanaan yang dianggap cukup sederhana dan aman.
+Saya memahami bahwa meminta ketua kelompok langsung menerapkan sistem baru dapat menimbulkan keberatan karena keputusan tersebut membawa tanggung jawab tambahan.
+Oleh karena itu, pendekatan yang saya gunakan adalah memperkecil cakupan tindakan awal, membagi tanggung jawab, dan memberikan kesempatan untuk melakukan evaluasi sebelum membuat komitmen jangka panjang.
+Authority Map
+Sebelum meminta kesepakatan, saya perlu memahami pihak yang memiliki kewenangan untuk mengambil keputusan.
+Person
+Authority
+Batas Kewenangan
+Peran dalam Action
+Ketua kelompok
+Mengatur koordinasi internal kelompok
+Tidak dapat mengubah ketentuan akademik resmi
+Menyetujui mekanisme uji coba dan memeriksa informasi
+Saya sebagai anggota
+Mengusulkan solusi dan membantu pelaksanaan
+Tidak dapat memaksakan penggunaan mekanisme kepada anggota lain
+Menyiapkan format, melakukan pengujian, dan mengumpulkan feedback
+Anggota kelompok
+Menggunakan mekanisme dan memberikan masukan
+Tidak menentukan kebijakan akademik
+Menguji kemudahan akses dan memberikan feedback
+Dosen pengampu
+Menetapkan ketentuan akademik dan deadline resmi
+Tidak harus terlibat dalam koordinasi internal
+Menjadi sumber otoritatif informasi akademik
+Analisis Authority
+Saya memilih ketua kelompok sebagai target utama karena keputusan yang diminta berkaitan dengan proses koordinasi internal.
+Namun, saya juga memahami bahwa persetujuan ketua kelompok tidak berarti seluruh anggota otomatis menerima perubahan tersebut.
+Oleh karena itu, penerapan tetap membutuhkan komunikasi kepada anggota dan kesempatan untuk memberikan masukan.
+Saya tidak meminta persetujuan untuk mengubah deadline atau ketentuan perkuliahan karena hal tersebut berada di luar kewenangan kelompok.
+Dengan memahami batas authority, saya dapat menyusun permintaan tindakan yang lebih realistis dan tidak melebihi kewenangan target.
+Options dan Trade-Off
+Sebelum mengajukan kesepakatan, saya menyiapkan beberapa alternatif tindakan yang dapat dipertimbangkan bersama target.
+Alternatif Solusi
+Option
+Keuntungan
+Kekurangan
+Tingkat Komitmen
+A. Langsung menggunakan mekanisme secara permanen
+Solusi dapat segera diterapkan
+Risiko belum teridentifikasi dan anggota belum tentu siap
+Tinggi
+B. Melakukan uji coba selama satu minggu
+Risiko terbatas dan manfaat dapat dievaluasi
+Memerlukan sedikit waktu untuk pengujian
+Sedang
+C. Memeriksa prototype bersama sebelum uji coba
+Risiko awal lebih kecil dan kesiapan dapat diperiksa
+Manfaat nyata belum dapat diukur
+Rendah
+D. Mempertahankan mekanisme lama
+Tidak memerlukan perubahan kebiasaan
+Permasalahan koordinasi berpotensi tetap terjadi
+Tidak ada
+Analisis Trade-Off
+Option A memberikan perubahan paling cepat, tetapi memiliki risiko lebih besar karena belum tersedia hasil pengujian.
+Option B memberikan kesempatan untuk mengamati manfaat solusi dengan komitmen yang terbatas.
+Option C merupakan langkah awal dengan risiko paling kecil karena hanya membutuhkan pemeriksaan prototype dan sumber informasi.
+Option D tidak membutuhkan usaha tambahan, tetapi juga tidak memberikan kesempatan untuk memperbaiki permasalahan yang telah diidentifikasi.
+Saya menilai bahwa pendekatan paling realistis adalah memulai dari Option C, kemudian melanjutkan ke Option B apabila pemeriksaan awal menunjukkan bahwa solusi layak digunakan.
+Dengan demikian, saya tidak memaksakan penerapan secara langsung dan tetap memberikan kesempatan kepada target untuk mempertimbangkan kesiapan kelompok.
+Negotiation dan Response
+Action Pitch
+Berikut merupakan pitch yang disiapkan untuk mengubah ketertarikan target menjadi tindakan yang lebih konkret.
+“Dari pembahasan sebelumnya, menurut saya konsep pusat informasi kelompok sudah cukup sesuai dengan kebutuhan kita. Tapi sebelum digunakan, mungkin lebih baik kalau kita periksa dulu apakah sumber informasinya sudah jelas dan tidak menambah pekerjaan. Saya bisa menyiapkan formatnya, lalu kita cek bersama. Kalau semuanya sudah sesuai, bagaimana kalau kita coba selama satu minggu dan evaluasi hasilnya?”
+Pitch tersebut menekankan tiga hal utama:
+Tindakan yang diminta memiliki cakupan terbatas.
+Saya menawarkan kontribusi langsung untuk mengurangi beban target.
+Keputusan penerapan lebih lanjut didasarkan pada hasil pemeriksaan dan evaluasi.
+Skenario Percakapan Negosiasi
+Berikut merupakan contoh dialog untuk role-play.
+Saya: “Menurut saya, kita sudah punya konsep yang cukup jelas. Bagaimana kalau kita mulai mencoba pusat informasi kelompok minggu depan?”
+Ketua kelompok: “Sebenarnya saya setuju dengan idenya, tapi minggu depan tugas kita juga cukup banyak. Saya takut tidak sempat mengurusnya.”
+Saya: “Kalau begitu, bagaimana kalau saya yang menyiapkan format dan daftar sumber informasinya? Kamu cukup membantu memeriksa apakah isinya sudah sesuai. Jadi tidak perlu membuat semuanya dari awal.”
+Ketua kelompok: “Kalau cuma memeriksa mungkin masih bisa. Tapi saya belum yakin semua anggota langsung mau menggunakannya.”
+Saya: “Kita tidak perlu langsung mewajibkan semua anggota. Bagaimana kalau kita coba dulu selama satu minggu? Nanti kita minta feedback apakah cara ini memang mempermudah mereka.”
+Ketua kelompok: “Kalau begitu boleh. Tapi sebelum dicoba, kita pastikan dulu sumber informasinya sudah benar.”
+Saya: “Setuju. Saya siapkan format dan sumber informasinya terlebih dahulu. Setelah itu kita periksa bersama, baru menentukan apakah sudah siap diuji.”
+Analisis Response
+Dalam skenario tersebut, target tidak menolak solusi secara langsung.
+Keberatan yang muncul berkaitan dengan dua hambatan utama:
+Keterbatasan waktu untuk mengelola mekanisme baru.
+Ketidakpastian mengenai kesiapan anggota dalam menggunakan solusi.
+Saya tidak merespons keberatan tersebut dengan mengulang manfaat solusi secara berlebihan.
+Sebaliknya, saya menyesuaikan permintaan tindakan agar lebih mudah diterima.
+Saya juga membedakan antara persetujuan untuk memeriksa prototype dan persetujuan untuk melaksanakan uji coba.
+Persetujuan terhadap pemeriksaan awal belum berarti target telah menyetujui implementasi permanen.
+Response dan Adaptation
+Adaptation terhadap Hambatan
+Pada awalnya, saya ingin meminta target langsung mencoba mekanisme selama satu minggu.
+Namun, skenario respons menunjukkan bahwa permintaan tersebut masih dianggap cukup membebani karena target memiliki tanggung jawab akademik lainnya.
+Oleh karena itu, saya melakukan adaptation dengan mengubah permintaan awal menjadi langkah yang lebih kecil.
+Perubahan Pendekatan
+Aspek
+Sebelum Adaptation
+Setelah Adaptation
+Permintaan utama
+Langsung menjalankan uji coba satu minggu
+Memeriksa kelayakan prototype terlebih dahulu
+Tanggung jawab
+Belum dibagi secara jelas
+Saya menyiapkan format, ketua kelompok memeriksa
+Keterlibatan anggota
+Langsung menggunakan mekanisme
+Diberikan penjelasan dan kesempatan mencoba
+Risiko
+Penerapan sebelum kesiapan diperiksa
+Risiko ditinjau sebelum penerapan
+Keputusan lanjutan
+Berfokus pada persetujuan penggunaan
+Berdasarkan hasil pemeriksaan dan feedback
+Hasil Adaptation
+Adaptation ini bertujuan memperkecil hambatan tindakan tanpa menghilangkan tujuan utama komunikasi.
+Saya tetap berusaha membawa target menuju tahap Action, tetapi melalui langkah yang lebih realistis.
+Dalam skenario role-play, respons target berubah dari keraguan terhadap beban pelaksanaan menjadi kesediaan untuk meninjau prototype bersama.
+Perubahan tersebut menunjukkan bahwa negosiasi tidak selalu harus menghasilkan persetujuan terhadap seluruh rencana awal.
+Kesepakatan terhadap langkah kecil yang dapat dilaksanakan juga dapat menjadi hasil komunikasi yang bermakna.
+Agreement dan Action Plan
+Rumusan Agreement
+Kesepakatan yang menjadi target dalam skenario ini adalah melakukan pemeriksaan awal terhadap prototype pusat informasi kelompok sebelum memutuskan pelaksanaan uji coba.
+Kesepakatan tersebut memiliki ruang lingkup sebagai berikut:
+Saya menyiapkan format pusat informasi beserta sumber informasi utama.
+Ketua kelompok memeriksa kelengkapan dan keakuratan informasi.
+Hasil pemeriksaan digunakan untuk menentukan kesiapan uji coba.
+Jika masih terdapat kekurangan, prototype diperbaiki terlebih dahulu.
+Jika sudah layak, kelompok dapat mempertimbangkan uji coba selama satu minggu.
+Pelaksanaan lebih lanjut tetap memerlukan persetujuan dan komunikasi kepada anggota yang terlibat.
+Agreement Record
+Elemen
+Rancangan Kesepakatan
+What
+Pemeriksaan prototype pusat informasi kelompok
+Why
+Memastikan mekanisme mudah digunakan, akurat, dan tidak menambah pekerjaan berlebihan
+Owner utama
+Saya sebagai penyusun prototype
+Reviewer
+Ketua kelompok
+Deadline persiapan
+Jumat, 6 November 2026
+Deadline review
+Senin, 9 November 2026
+Output
+Prototype yang telah diperiksa beserta daftar perbaikan
+Next decision
+Menentukan kelayakan uji coba setelah review
+Status
+Rancangan agreement untuk dikonfirmasi melalui komunikasi nyata
+Penetapan owner, deadline, dan output bertujuan membuat kesepakatan lebih jelas dan dapat diperiksa pelaksanaannya.
+Action Plan
+Action
+Owner
+Deadline
+Evidence yang Diharapkan
+Menyiapkan format pusat informasi
+Saya
+6 November 2026
+Prototype tersedia
+Menyusun daftar sumber informasi
+Saya
+6 November 2026
+Daftar sumber utama
+Memeriksa keakuratan dan kelengkapan
+Ketua kelompok
+9 November 2026
+Catatan hasil review
+Melakukan revisi jika diperlukan
+Saya
+10 November 2026
+Prototype hasil perbaikan
+Memutuskan kelayakan uji coba
+Saya dan ketua kelompok
+10 November 2026
+Keputusan dan alasan
+Menguji bersama anggota jika disetujui
+Anggota yang bersedia
+11–17 November 2026
+Feedback dan catatan pengujian
+Tanggal tersebut merupakan jadwal usulan dalam rancangan skenario, bukan bukti bahwa kegiatan telah dilaksanakan.
+Kriteria Penyelesaian Action
+Pemeriksaan awal dianggap selesai apabila:
+Prototype pusat informasi sudah tersedia.
+Sumber utama setiap informasi telah diidentifikasi.
+Tidak ditemukan informasi akademik yang bertentangan dengan sumber resmi.
+Tanggung jawab pembaruan sudah jelas.
+Ketua kelompok telah memberikan keputusan mengenai kelayakan uji coba.
+Jika persyaratan tersebut belum terpenuhi, langkah berikutnya adalah melakukan perbaikan sebelum memulai percobaan.
+Mekanisme Review
+Review dilakukan dengan membandingkan prototype terhadap kebutuhan yang dirumuskan pada Week 9.
+Aspek yang diperiksa meliputi kemudahan akses, keakuratan informasi, potensi tambahan pekerjaan, dan kesiapan anggota.
+Hasil review akan menjadi dasar untuk memilih salah satu keputusan:
+Melanjutkan ke uji coba terbatas.
+Memperbaiki prototype sebelum uji coba.
+Menunda atau menghentikan rencana apabila manfaatnya belum sebanding dengan usaha yang diperlukan.
+Dengan demikian, kesepakatan tidak hanya berisi janji tindakan, tetapi juga memiliki mekanisme evaluasi yang jelas.
+Relationship Outcome
+Dalam negosiasi ini, saya berusaha mempertahankan hubungan kerja sama dengan ketua kelompok.
+Saya memahami bahwa target memiliki tanggung jawab lain sehingga tidak semua usulan dapat langsung diterima.
+Oleh karena itu, saya menghindari pendekatan yang menekan target untuk segera menyetujui solusi.
+Saya lebih memilih menawarkan pembagian tanggung jawab dan memberikan beberapa alternatif tindakan.
+Pendekatan tersebut diharapkan membangun kepercayaan karena saya tidak hanya mengusulkan perubahan, tetapi juga bersedia membantu pelaksanaannya.
+Selain itu, saya tetap menghargai kewenangan ketua kelompok dalam menentukan apakah mekanisme baru layak dicoba.
+Evidence
+CatatanStatus Evidence
+Evidence berikut merupakan artefak rancangan Action & Agreement Challenge. Dialog negosiasi adalah skenario role-play, sedangkan agreement dan jadwal merupakan usulan yang perlu dikonfirmasi. Bukti tindakan aktual ditambahkan setelah pelaksanaan.
+Evidence 1 — Barrier Map
+Tabel Barrier Map menunjukkan hambatan antara keinginan memperbaiki koordinasi dan keputusan untuk mulai bertindak.
+Kontribusi saya: Mengidentifikasi hambatan, menentukan prioritas, dan menyusun strategi penanganannya.
+Evidence 2 — Authority Map
+Tabel Authority Map menunjukkan kewenangan masing-masing pihak dan batas keputusan yang dapat diambil.
+Kontribusi saya: Menentukan target komunikasi yang sesuai dan membatasi permintaan tindakan pada kewenangan internal kelompok.
+Evidence 3 — Options dan Trade-Off
+Tabel alternatif solusi menunjukkan beberapa pilihan yang dibandingkan berdasarkan manfaat, risiko, dan tingkat komitmen.
+Kontribusi saya: Menyusun alternatif dan memilih pendekatan bertahap berdasarkan risiko serta kesiapan target.
+Evidence 4 — Negotiation Transcript
+Skenario percakapan menunjukkan pendekatan negosiasi ketika target mengkhawatirkan keterbatasan waktu dan kesiapan anggota.
+Kontribusi saya: Menyusun pitch, mempersiapkan respons, serta merancang adaptation yang mengurangi hambatan pelaksanaan.
+Evidence 5 — Agreement Record dan Action Plan
+Tabel agreement dan action plan memuat tindakan, penanggung jawab, deadline, output, dan mekanisme evaluasi.
+Kontribusi saya: Menyusun rencana tindak lanjut yang spesifik dan dapat diperiksa.
+Evidence 6 — Action/Review Evidence
+Bukti yang perlu dikumpulkan setelah kegiatan:
+Screenshot prototype pusat informasi kelompok.
+Catatan hasil pemeriksaan bersama ketua kelompok.
+Konfirmasi kesepakatan beserta tanggal dan tanggung jawab.
+Daftar revisi prototype.
+Feedback anggota apabila uji coba dilaksanakan.
+Bukti tersebut digunakan untuk memeriksa apakah tindakan yang direncanakan benar-benar terlaksana.
+Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Target merupakan ketua kelompok yang memiliki tanggung jawab terhadap koordinasi internal. Pendekatan mempertimbangkan keterbatasan waktu dan kewenangan target serta menawarkan kontribusi untuk mengurangi beban pekerjaan.
+Objective & State
+Objective adalah mengubah Desire menjadi Action melalui kesepakatan yang jelas. Initial state berupa Desire with Action Barrier, sedangkan state yang dituju adalah komitmen melakukan pemeriksaan awal prototype.
+Repertoire & Language
+Komunikasi menggunakan negosiasi kolaboratif, pertanyaan terbuka, penawaran alternatif, serta pembagian tanggung jawab. Bahasa dibuat sederhana dan tidak memaksakan persetujuan.
+Response & Adaptation
+Kekhawatiran mengenai waktu dan kesiapan anggota mengubah permintaan dari uji coba langsung menjadi pemeriksaan prototype terlebih dahulu.
+Agreement/Action
+Agreement record memuat owner, reviewer, deadline, output, dan keputusan lanjutan. Action plan menjelaskan langkah yang dapat ditindaklanjuti.
+Relationship Outcome
+Pendekatan berfokus pada kerja sama, menghargai keputusan target, serta menunjukkan kesediaan untuk ikut bertanggung jawab terhadap solusi.
+Penggunaan AI
+Dalam penyusunan tugas ini, saya menggunakan ChatGPT untuk membantu mengembangkan struktur komunikasi, mengidentifikasi hambatan, dan merancang strategi negosiasi yang realistis.
+Alat dan Peran AI
+AI digunakan untuk:
+Membantu mengidentifikasi kemungkinan desire–action gap.
+Menyusun barrier map dan authority map.
+Membandingkan beberapa alternatif tindakan berdasarkan trade-off.
+Mengembangkan contoh respons dan adaptation dalam negosiasi.
+Membantu menyusun agreement yang memiliki owner, deadline, dan indikator evaluasi.
+Prompt Penting
+“Bantu saya mengembangkan Action & Agreement Challenge dari kasus koordinasi informasi kelompok mahasiswa. Identifikasi hambatan antara keinginan dan tindakan, buat authority map, alternatif negosiasi beserta trade-off, dan rumuskan agreement dengan owner, deadline, serta mekanisme review. Gunakan bahasa yang natural dan jangan menganggap rencana sebagai tindakan yang sudah terjadi.”
+Output AI yang Digunakan dan Diubah
+Saya menggunakan AI sebagai alat bantu untuk menyusun alternatif tindakan dan mengevaluasi kelengkapan agreement.
+Dari beberapa alternatif yang dikembangkan, saya memilih pendekatan bertahap karena lebih realistis dibandingkan meminta penerapan permanen secara langsung.
+Saya juga menggunakan bantuan AI untuk memastikan bahwa setiap tindakan memiliki penanggung jawab dan output yang jelas.
+Namun, keputusan mengenai tindakan yang tepat tetap harus mempertimbangkan kesiapan dan persetujuan pihak yang terlibat.
+Pemeriksaan Accuracy, Privacy, dan Authority
+Accuracy:
+Saya membedakan antara rancangan agreement, respons dalam skenario, dan tindakan yang benar-benar terlaksana.
+Saya tidak menganggap persetujuan dalam role-play sebagai bukti pelaksanaan nyata.
+Privacy:
+Informasi pribadi anggota dan percakapan kelompok tidak dimasukkan ke dalam laporan tanpa kebutuhan yang jelas.
+Apabila menggunakan screenshot sebagai evidence, informasi pribadi yang tidak relevan perlu disamarkan.
+Authority:
+Saya memastikan bahwa permintaan tindakan hanya berkaitan dengan koordinasi internal kelompok.
+Ketentuan akademik resmi tetap mengikuti dosen atau platform perkuliahan.
+Pembelajaran Pribadi
+Saya memahami bahwa AI dapat membantu menyusun alternatif negosiasi dan action plan, tetapi tidak dapat menggantikan keputusan serta persetujuan manusia.
+Saya juga belajar bahwa agreement yang baik tidak cukup hanya berupa pernyataan setuju.
+Kesepakatan perlu menjelaskan siapa yang bertanggung jawab, apa yang harus dilakukan, kapan diselesaikan, dan bagaimana hasilnya diperiksa.
+Feedback dan Tindak Lanjut
+Feedback yang Diterima
+Berikut merupakan contoh feedback yang digunakan dalam skenario role-play.
+“Solusinya cukup menarik, tetapi sebaiknya jangan langsung diterapkan ke semua anggota. Kita periksa dulu apakah informasinya sudah benar dan apakah mekanismenya mudah digunakan.”
+Feedback tersebut menunjukkan bahwa hambatan utama bukanlah penolakan terhadap solusi, melainkan kekhawatiran terhadap kesiapan pelaksanaannya.
+Saya memahami bahwa keputusan yang terlalu cepat dapat menciptakan risiko baru apabila mekanisme belum diperiksa.
+Adaptation/Replay
+Pada pitch awal, saya mengusulkan agar kelompok langsung melakukan uji coba selama satu minggu.
+Setelah mempertimbangkan keberatan target, saya melakukan tiga perubahan:
+Mengurangi permintaan awal menjadi pemeriksaan prototype.
+Menawarkan diri sebagai penanggung jawab persiapan.
+Menjadikan hasil review sebagai dasar keputusan untuk melanjutkan uji coba.
+Melalui adaptation ini, saya belajar bahwa negosiasi yang efektif tidak harus menghasilkan persetujuan terhadap seluruh usulan.
+Kesepakatan terhadap tindakan kecil yang jelas dan dapat dilaksanakan merupakan langkah yang lebih baik dibandingkan persetujuan besar yang belum memiliki kesiapan.
+Next Practice
+Pada latihan berikutnya, saya akan berfokus pada kemampuan menutup percakapan dengan mengonfirmasi agreement secara eksplisit.
+Saya akan membiasakan diri mengajukan pertanyaan seperti:
+“Jadi, untuk memastikan kita punya pemahaman yang sama, saya menyiapkan formatnya paling lambat Jumat, lalu kita periksa bersama pada Senin. Apakah pembagian tugas dan waktunya sudah sesuai?”
+Dengan cara tersebut, saya dapat memastikan bahwa pihak yang terlibat memiliki pemahaman yang sama mengenai tindakan, tanggung jawab, dan deadline.
+Self-Assessment
+Penilaian berikut merupakan target berdasarkan rancangan komunikasi. Skor akhir perlu disesuaikan dengan evidence pelaksanaan.
+Dimensi
+Skor 1–4
+Evidence Singkat
+Person & Character
+4
+Target dipilih berdasarkan relevance dan authority, serta pendekatan mempertimbangkan keterbatasan waktu dan tanggung jawab ketua kelompok.
+Objective & State
+4
+Desire–action gap, hambatan, initial state, dan objective dirumuskan secara spesifik.
+Repertoire, Language & AI
+3
+Negosiasi menggunakan alternatif, trade-off, dan bahasa kolaboratif. AI digunakan secara transparan, tetapi efektivitas pendekatan masih perlu diuji melalui praktik.
+Response & Adaptation
+4
+Keberatan target menjadi dasar perubahan strategi dari implementasi langsung menjadi pemeriksaan prototype yang lebih realistis.
+Agreement, Action & Relationship
+3
+Agreement memiliki owner, deadline, output, dan review. Namun, konfirmasi kesepakatan serta hasil action aktual belum terdokumentasi.
+Refleksi Akhir
+Melalui kegiatan Action & Agreement Challenge ini, saya memahami bahwa ketertarikan terhadap sebuah solusi belum tentu langsung menghasilkan tindakan.
+Seseorang dapat menganggap suatu ide bermanfaat, tetapi tetap memiliki hambatan untuk menerapkannya, seperti keterbatasan waktu, tanggung jawab tambahan, atau ketidakpastian mengenai hasilnya.
+Saya belajar bahwa komunikasi yang efektif pada tahap Action membutuhkan kemampuan memahami hambatan tersebut dan mencari kesepakatan yang realistis.
+Dalam kasus ini, saya tidak hanya berusaha memperoleh persetujuan dari ketua kelompok, tetapi juga menawarkan kontribusi langsung, memberikan alternatif tindakan, dan menyusun pembagian tanggung jawab yang jelas.
+Hal penting yang saya pelajari adalah bahwa negosiasi tidak selalu harus menghasilkan persetujuan terhadap rencana awal. Terkadang, langkah yang lebih kecil tetapi dapat dilaksanakan justru lebih bermanfaat.
+Saya juga memahami bahwa agreement harus memiliki tindakan, penanggung jawab, deadline, dan mekanisme evaluasi agar tidak berhenti sebagai kesepakatan lisan.
+Ke depannya, saya ingin meningkatkan kemampuan menutup percakapan dengan memastikan seluruh pihak memahami tindakan yang telah disepakati dan bersedia menjalankan tanggung jawabnya.
+Dengan demikian, komunikasi yang saya lakukan dapat menghasilkan perubahan nyata, bukan hanya pemahaman atau ketertarikan terhadap suatu ide.
+Total: 18/20
+Assessment Dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/portfolio/week-10.html#quarto-document-content
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-10.html#kompetensi-target
+- https://athus1104.github.io/repo/portfolio/week-10.html#konteks-performance
+- https://athus1104.github.io/repo/portfolio/week-10.html#objective-dan-initial-state
+- https://athus1104.github.io/repo/portfolio/week-10.html#desireaction-gap
+- https://athus1104.github.io/repo/portfolio/week-10.html#identifikasi-hambatan
+- https://athus1104.github.io/repo/portfolio/week-10.html#barrier-map
+- https://athus1104.github.io/repo/portfolio/week-10.html#analisis-desireaction-gap
+- https://athus1104.github.io/repo/portfolio/week-10.html#authority-map
+- https://athus1104.github.io/repo/portfolio/week-10.html#analisis-authority
+- https://athus1104.github.io/repo/portfolio/week-10.html#options-dan-trade-off
+- https://athus1104.github.io/repo/portfolio/week-10.html#alternatif-solusi
+- https://athus1104.github.io/repo/portfolio/week-10.html#analisis-trade-off
+- https://athus1104.github.io/repo/portfolio/week-10.html#negotiation-dan-response
+- https://athus1104.github.io/repo/portfolio/week-10.html#action-pitch
+- https://athus1104.github.io/repo/portfolio/week-10.html#skenario-percakapan-negosiasi
+- https://athus1104.github.io/repo/portfolio/week-10.html#analisis-response
+- https://athus1104.github.io/repo/portfolio/week-10.html#response-dan-adaptation
+- https://athus1104.github.io/repo/portfolio/week-10.html#adaptation-terhadap-hambatan
+- https://athus1104.github.io/repo/portfolio/week-10.html#perubahan-pendekatan
+- https://athus1104.github.io/repo/portfolio/week-10.html#hasil-adaptation
+- https://athus1104.github.io/repo/portfolio/week-10.html#agreement-dan-action-plan
+- https://athus1104.github.io/repo/portfolio/week-10.html#rumusan-agreement
+- https://athus1104.github.io/repo/portfolio/week-10.html#agreement-record
+- https://athus1104.github.io/repo/portfolio/week-10.html#action-plan
+- https://athus1104.github.io/repo/portfolio/week-10.html#kriteria-penyelesaian-action
+- https://athus1104.github.io/repo/portfolio/week-10.html#mekanisme-review
+- https://athus1104.github.io/repo/portfolio/week-10.html#relationship-outcome
+- https://athus1104.github.io/repo/portfolio/week-10.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-10.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-10.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-10.html#alat-dan-peran-ai
+- https://athus1104.github.io/repo/portfolio/week-10.html#prompt-penting
+- https://athus1104.github.io/repo/portfolio/week-10.html#output-ai-yang-digunakan-dan-diubah
+- https://athus1104.github.io/repo/portfolio/week-10.html#pemeriksaan-accuracy-privacy-dan-authority
+- https://athus1104.github.io/repo/portfolio/week-10.html#pembelajaran-pribadi
+- https://athus1104.github.io/repo/portfolio/week-10.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-10.html#feedback-yang-diterima
+- https://athus1104.github.io/repo/portfolio/week-10.html#adaptationreplay
+- https://athus1104.github.io/repo/portfolio/week-10.html#next-practice
+- https://athus1104.github.io/repo/portfolio/week-10.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-10.html#refleksi-akhir
+- https://athus1104.github.io/repo/portfolio/week-10.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

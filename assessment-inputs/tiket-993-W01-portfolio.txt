@@ -1,0 +1,223 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 993
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Perubahan language antar character
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment Dosen
+Character Map
+Fondasi
+Person
+Pemetaan lima character dan adaptasi peran saat membantu rekan tim yang tertahan di modul Tugas Besar Algoritma dan Pemrograman 1.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Nama Mahasiswa : Rosianna Maria Aviv Silalahi
+Tanggal Pengerjaan : 26 September 2026
+Lima character
+Saya memahami personality sebagai kecenderungan yang relatif menetap, sedangkan character adalah peran yang saya pilih dalam relationship dan situasi tertentu. Personality saya cenderung terstruktur, teliti, dan cepat masuk ke mode mencari solusi. Nilai yang paling saya pegang adalah ketelitian, kejujuran, dan keandalan. Kecenderungan itu membantu ketika saya menjadi anggota tim, tetapi bisa terasa dingin ketika saya menjadi sahabat atau mentor. Karena itu, orang yang sama dapat menerima language yang berbeda ketika objective, tanggung jawab, dan posisi otoritas saya berubah.
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-self - pembelajar mandiri
+Diri sendiri saat menghadapi bug atau materi yang sulit dipahami
+Memisahkan kesalahan teknis dari identitas dan tetap termotivasi untuk lanjut
+Journaling singkat dan self-talk: “Bagian mana yang bisa aku perbaiki, bukan siapa yang salah?”
+Terlalu keras menilai diri sendiri. Latihan: catat satu hal yang sudah berhasil sebelum mengevaluasi kekurangan.
+Keluarga - anak rantau
+Orang tua di Batam
+Menjaga kedekatan tanpa membuat mereka khawatir dan tetap jujur soal kesulitan
+Video call rutin, cerita ringan, mendengarkan kabar rumah
+Meringkas atau menyembunyikan kesulitan karena terbiasa mandiri. Latihan: ceritakan satu kesulitan nyata setiap minggu, bukan hanya hasil akhirnya.
+Akademik - anggota tim proyek
+Rekan satu kelompok Tugas Besar Algoritma dan Pemrograman 1
+Menyelesaikan bagian tugas tepat waktu dan terintegrasi dengan bagian rekan lain
+Laporan progres yang jelas, pertanyaan spesifik, dan dokumentasi rapi lewat commit message
+Terlalu fokus pada hasil sehingga terkesan dingin. Latihan: buka diskusi dengan satu pertanyaan personal sebelum membahas pembagian tugas.
+Komunitas - anggota GDGOC ITB, URO, dan HMIF
+Sesama anggota komunitas di tiap organisasi
+Berkontribusi ide dan berkolaborasi dengan gaya kerja yang berbeda di tiga komunitas
+Diskusi kelompok, brainstorming terbuka, mendengarkan sebelum menyimpulkan
+Cepat menyampaikan solusi lebih dulu. Latihan: tunggu dua pendapat lain sebelum menyampaikan pandangan sendiri.
+Publik - mentor OSKM ITB
+Mentee OSKM ITB
+Membimbing dengan jujur dan bertanggung jawab serta menyesuaikan komunikasi dengan kebutuhan mentee
+Mendengarkan aktif, pertanyaan terbuka, dan contoh dari pengalaman sendiri tanpa menggurui
+Terlalu banyak memberi instruksi. Latihan: tanya “menurutmu gimana?” sebelum memberi saran.
+Konteks performance
+Tanggal dan setting: [ISI: tanggal/hari percakapan, kira-kira dua hari sebelum tenggat], tatap muka di Student Lounge GKU 1 ITB Jatinangor. Proses tugas berlangsung kurang lebih enam minggu, dari Senin, 27 April 2026 hingga Jumat, 5 Juni 2026. Pengerjaan sebagian besar dilakukan mandiri di kost masing-masing anggota.
+Persons dan relationship: Saya dan Mitra K, sesama anggota tim Tugas Besar Algoritma dan Pemrograman 1 (setara, tanpa hubungan atasan-bawahan). Tim terdiri dari saya, Mitra A, Mitra D, Mitra K, dan Mitra N. Mitra K bertanggung jawab atas modul yang menjadi dependency langsung dari bagian yang saya kerjakan, sehingga keterlambatannya berdampak ke pekerjaan saya.
+Objective dan initial state: Dua hari sebelum tenggat, modul Mitra K belum selesai dan saya sempat berasumsi ia “kurang disiplin”. Saya mengelola tiga objective sekaligus: (1) memastikan modul selesai sebelum tenggat, (2) mengganti asumsi dengan kejelasan hambatan yang sebenarnya, dan (3) menjaga hubungan kerja tanpa melampaui batas wewenang saya. Ada juga uncertainty: saya belum tahu apakah masalahnya waktu, kemampuan, atau hal lain.
+Evidence
+Rekonstruksi percakapan (tatap muka, tidak direkam; berdasarkan ingatan, bukan transkrip kata per kata, nama disamarkan):
+Saya: “Sebelum kita atur ulang jadwal, boleh cerita apa yang bikin bagian ini masih tertahan?”
+Mitra K: “Aku masih bingung di bagian penanganan error-nya, coba beberapa kali masih gagal test case.”
+Saya: “Oke, berarti hambatannya di logic error handling, bukan soal waktu ya?”
+Mitra K: “Iya, betul.”
+Saya: “Aku bisa bantu review bagian itu malam ini atau kita pair programming sebentar. Mana yang lebih membantu?”
+Sinyal non-verbal: Jawaban “masih bingung” disampaikan lebih pelan. Saya membacanya sebagai sinyal bahwa masalahnya bukan kurang disiplin.
+Tindakan dan outcome:
+Kesepakatan: pair programming sekitar dua jam, difokuskan pada perbaikan logic error handling. Mitra K memilih opsi ini dari dua tawaran saya.
+Pembagian peran: Mitra K menjelaskan konteks bug dan memvalidasi hasil test case di layar yang sama. Saya berperan sebagai driver/navigator dalam menyusun ulang logic penanganan error. Kontribusi saya adalah perbaikan logic tersebut, bukan keseluruhan modul.
+Modul selesai sebelum tenggat dan test case ikut disesuaikan.
+Saya melaporkan hasilnya kepada ketua kelompok karena tidak punya otoritas formal untuk mengubah tenggat internal.
+Bukti langsung dari sesi pair programming tidak tersimpan karena diskusi dan penyelesaian terjadi tatap muka. Repository Tugas Besar juga sudah tidak dapat diakses, sehingga commit log tidak dapat dilampirkan. Evidence di atas berasal dari ingatan saya sendiri dan tidak diklaim sebagai catatan terverifikasi.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Mitra K awalnya saya lihat lewat stereotype “kurang disiplin”. Setelah bertanya, yang muncul adalah hambatan teknis di error handling. Relasi kami setara dan saya tidak punya otoritas atas tenggat, jadi character yang saya pilih adalah rekan yang membantu, bukan penagih. Person dipetakan ulang berdasarkan konteks nyata, bukan asumsi awal.
+Objective & state
+State awal: modul belum selesai, tenggat dua hari lagi, penyebab belum jelas. Tiga objective berjalan bersamaan (tenggat, kejelasan hambatan, relasi tim). Uncertainty dikelola dengan bertanya lebih dulu sebelum memutuskan tindakan.
+Repertoire & language
+Repertoire bergeser dari menagih progres menjadi klarifikasi, paraphrase hambatan, lalu menawarkan dua opsi bantuan. Rationale memberi dua opsi: Mitra K tetap punya kendali atas cara dibantu, dan tawaran itu berada dalam kapasitas saya. Bahasa tetap ringkas dan fokus solusi, sesuai character anggota tim proyek.
+Response & adaptation
+Nada “masih bingung” yang lebih pelan adalah sinyal lemah yang langsung mengubah rencana saya dari reminder tenggat menjadi tawaran pair programming. Paraphrase “bukan soal waktu ya?” berfungsi sebagai loop pengecekan: asumsi saya diuji dan dikonfirmasi Mitra K sebelum saya bertindak.
+Agreement & action
+Kesepakatan eksplisit: pair programming sekitar dua jam, modul selesai sebelum tenggat. Trade-off: dua jam waktu saya untuk bagian yang bukan sepenuhnya milik saya, demi dependency yang menentukan hasil tim. Karena tidak punya otoritas mengubah tenggat, saya melapor ke ketua kelompok. Hasil dicek lewat test case.
+Relationship outcome
+Kepercayaan tim terjaga karena masalah diselesaikan bersama, bukan lewat teguran sepihak. Asumsi awal saya terkoreksi oleh fakta. Masukan dari rekan (lihat Feedback) menunjukkan pola yang masih perlu saya perbaiki agar relasi tetap sehat.
+Perubahan language antar character
+Untuk hambatan yang sama, yaitu pekerjaan yang belum selesai, language saya berubah sesuai character:
+Sebagai anggota tim proyek: “Bagian ini butuh selesai sebelum integrasi, hambatannya di mana?” Fokusnya pada fakta, tenggat, dan kebutuhan integrasi.
+Sebagai sahabat atau anak: “Mau cerita dulu atau langsung cari solusinya bareng?” Fokusnya memberi ruang sebelum menawarkan solusi.
+Sebagai mentor OSKM: “Menurutmu bagian mana yang paling bikin stuck?” Fokusnya membimbing mentee menemukan jawabannya sendiri.
+Core meaning-nya tetap sama, yaitu ada pekerjaan yang perlu diselesaikan. Namun objective, relationship, authority, dan repertoire berbeda di tiap character.
+Penggunaan AI
+Claude saya gunakan untuk dua hal:
+Merapikan kalimat draf: terutama pada analisis kontras peran, konteks performance, dan evidence.
+Menguji kelengkapan terhadap rubrik: menilai apakah jawaban saya sudah cukup detail.
+Seluruh isi faktual (nama Mitra, tanggal, lokasi, isi percakapan, dan kesepakatan) berasal dari pengalaman saya sendiri. AI tidak menentukan isi evidence maupun skor self-assessment.
+Output AI yang saya revisi atau tolak: Saya merevisi detail organisasi dan menyamakan penamaan Mitra yang sempat tidak konsisten. Nama rekan disamarkan demi privasi, dan keanggotaan organisasi (GDGOC, URO, HMIF, KAT ITB) saya periksa ulang agar sesuai keadaan nyata. [ISI jika ada: satu saran AI yang kamu tolak dan alasannya.]
+Yang tetap saya lakukan sendiri: membedakan story (“kurang disiplin”) dari fact (modul belum masuk sesuai jadwal) dan menilai batas otoritas saya, karena itu butuh kejujuran membaca posisi dan reaksi saya sendiri.
+Feedback dan tindak lanjut
+Feedback dari Mitra K: “Menurutku, sekarang kamu lebih sering bertanya terlebih dahulu sebelum memberikan saran jadi cukup terasa perbedaannya. Tetapi terkadang kamu masih suka untuk memotong pembicaraan saat aku belum selesai cerita, terutama bila topiknya teknis.”
+Feedback dari Mitra A: [REVISI: tulis ulang agar jelas komentar ini tentang caramu menangani situasi, misalnya “Cara kamu menangani situasi ini sudah cukup baik dan meyakinkan, tetapi kamu masih perlu melatih kesabaran.”]
+Pola dari kedua masukan: saya cepat bertanya, tetapi masih terburu-buru ingin menyelesaikan masalah sebelum orang selesai menjelaskan. Saya memakainya sebagai cermin, bukan sebagai bukti bahwa semua keputusan saya sudah benar.
+Adaptation/replay: Jika menghadapi situasi yang sama, saya tetap mulai dari pertanyaan klarifikasi sebelum menilai penyebab keterlambatan. Bedanya, saya memberi lebih banyak waktu bagi lawan bicara menjelaskan sebelum masuk ke solusi, agar bantuan benar-benar sesuai kebutuhan dan tidak sekadar berpindah dari “menagih” ke “membantu”.
+Next practice: Selama empat minggu ke depan saya memakai pola tanya → dengarkan → rangkum → baru tawarkan solusi. Saat rekan tim atau teman menjelaskan hambatannya, saya menahan diri tidak menawarkan solusi selama satu menit pertama, lalu merangkum dan mengonfirmasi pemahaman saya. Indikator berhasil: tidak ada lagi komentar bahwa saya memotong pembicaraan, terutama pada topik teknis.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Lima domain menunjukkan perubahan character sesuai konteks; pada episode utama saya membaca perubahan role dan batas otoritas, serta membedakan fakta keterlambatan dari asumsi “kurang disiplin”.
+Objective & State
+4
+Tiga objective dan uncertainty penyebab dikelola bersamaan; state awal, hambatan aktual, dan batas otoritas dijelaskan.
+Repertoire, Language & AI
+4
+Repertoire bergeser dari menagih ke bertanya, paraphrase, dan dua opsi bantuan dengan rationale jelas; AI dibatasi pada penyuntingan kalimat dan pengecekan rubrik.
+Response & Adaptation
+4
+Sinyal lemah (nada lebih pelan) dan paraphrase pengecekan mengubah tindakan dari reminder menjadi pair programming.
+Agreement, Action & Relationship
+4
+Kesepakatan eksplisit, trade-off waktu, pelaporan ke ketua kelompok karena batas wewenang, review lewat test case, dan rencana latihan terukur.
+Total: 20 / 20 - Lanjut
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#perubahan-language-antar-character
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

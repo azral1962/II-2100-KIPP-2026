@@ -1,0 +1,212 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1002
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Current state dan desired state
+Feature–benefit–value–outcome chain
+Demonstrasi: jembatan batin dan mekanisme
+Hidden concern dan adaptasi rancangan
+Tangga bukti, risk, dan evidence threshold
+Etika kebebasan memilih
+Evidence, AI, dan feedback
+Self-assessment
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Current state dan desired state
+Target masih orang yang sama sejak Minggu 6, yaitu inisial G, mahasiswa seangkatan yang mengambil praktikum Pemrograman Berorientasi Objek (09.00–11.00) dan Pemodelan Basis Data (13.00–15.00) pada hari yang sama. Solusi yang berjalan juga masih sama, yaitu rutinitas “Cek Senin” yang disepakati pada Minggu 7.
+Sebelum menyusun demonstrasi, saya memeriksa dahulu apakah rutinitas itu benar-benar dijalankan, karena keadaan sekarang harus berupa fakta dan bukan dugaan.
+Saya: “Gw mau tanya jujur aja, nggak usah sungkan: sejak kita ngobrol itu, lu beneran jalanin nggak? Atau cuma setuju pas ngomong doang terus ya udah lewat gitu aja? Gw nanya bukan buat nagih, serius. Justru kalau lu nggak jalanin, gw pengen tau nyangkutnya di mana — soalnya bisa jadi emang rancangan gw yang nggak kepake di kenyataan.”
+G: “gw jalanin kok, tpi jujur ya gw kadang jalanin kadang ngga.”
+Penelusuran lanjutan memperlihatkan pola yang konsisten, bukan acak.
+G: “seinget gw minggu pertama gw lakuin lalu minggu kedua gw ngga lakuin lalu minggu ke 3 gw lakuin. buat alasan kenapa gw ngga lakuin di minggu 2 karena pas itu minggu uts jadi tidak ada pratikum hanya full uts.”
+G: “gw pas minggu uts ngga pake cek senin karena gw merasa ngga relevan aja soalnya kalo minggu uts yang gw prioritasin yang besoknya uts, misal rabu uts matdis maka malam rabunya saya full belajar matdis. minggu yang pas pake cek senin gw merasa sangat terbantu.”
+G: “yang lagi keteteran ya itu lagi pratikum oop dan kominter, walaupun udh pake cek senin cuma nih cuma memang materinya lagi berat banget, oop materi generic trs pratikum basdat itu lagi ujian pratikum.”
+Dua hal yang saya putuskan dari keterangan ini. Pertama, minggu UTS tidak saya jadikan sasaran perluasan, karena G sudah memiliki strategi prioritas H-1 yang berjalan dan ia sendiri menilai rutinitas ini tidak relevan di sana. Kedua, saya tidak mengklaim “Cek Senin” dapat mengatasi beratnya materi generic, karena pada Minggu 6 G sendiri yang menolak penjelasan bahwa masalahnya adalah kesulitan materi. Kesepakatan yang berlaku adalah masalah alokasi waktu.
+Isi
+Current state
+“Cek Senin” dijalankan pada minggu praktikum, dinilai membantu, namun G tetap keteteran pada minggu berjalan
+Desired state
+Keputusan prioritas yang diambil hari Senin benar-benar terpakai pada minggu tersebut, sehingga hasil yang kurang menjadi konsekuensi yang dipilih, bukan akibat waktu yang habis
+Feature–benefit–value–outcome chain
+Feature
+Benefit
+Value bagi G
+Outcome
+Penetapan prioritas pada hari Senin (sudah berjalan)
+Mengetahui lebih dahulu praktikum mana yang diamankan penuh
+Pengorbanan menjadi keputusan sadar
+Tidak ada kejutan pada malam sebelum praktikum
+Satu tindakan terkecil sekitar sepuluh menit untuk mata kuliah prioritas, pada hari Senin juga
+Hari Senin berhenti menjadi hari kosong
+Keputusan yang sudah diambil tidak menganggur dua hari
+Porsi waktu yang ditetapkan sempat terpakai sebelum praktikum berlangsung
+Penyebutan batas pemakaian (tidak dipakai pada minggu UTS)
+Rutinitas tidak dipaksakan ke minggu yang tidak membutuhkannya
+Tidak ada aturan yang terasa mengada-ada
+Rutinitas berhenti putus-nyambung karena batasnya jelas
+Demonstrasi: jembatan batin dan mekanisme
+Demonstrasi dijalankan dalam empat fase sesuai panduan waktu lima menit. Setiap fase dikirim terpisah melalui percakapan teks, dan fase berikutnya baru disusun setelah G membalas.
+Saya: “Jadi dari jawaban lu kemarin, yang gw tangkep: lu udah jalanin Cek Senin, dan di minggu yang lu jalanin lu bilang kebantu. Tapi minggu ini lu tetep keteteran di PBO sama Basdat, padahal Cek Senin-nya tetep jalan. Bener nggak nangkep gw?”
+G: “bener.”
+Setelah konfirmasi itu, saya menunjukkan satu alur saja, yaitu hubungan antara pendataan beban dan penetapan prioritas. Fitur lain dari rancangan, termasuk pemanfaatan jeda dua jam yang dibahas pada Minggu 7, sengaja tidak dibawa masuk.
+Saya: “Cek Senin itu sebenernya dua langkah. Satu: ndata minggu ini ada beban apa aja — ini yang lu udah jalanin. Dua: abis ndata, nentuin mana yang diamanin penuh sama mana yang cukup target lulus. Pertanyaannya: yang langkah kedua itu lu beneran ambil keputusannya nggak, atau abis ndata ya udah terus dua-duanya tetep dikejar rata?”
+Hidden concern dan adaptasi rancangan
+Jawaban G membantah hipotesis saya.
+G: “gw jujur sebenernya gw udh ngedata dan nentuin prioritas tpi gwnya mageran senin dan selasa gw belum mulai belajar, gw mulai blajarnya pas selasa malem.”
+Dugaan saya keliru. Saya mengira celahnya ada pada pengambilan keputusan, padahal G sudah menjalankan kedua langkah. Celah yang sebenarnya ada pada jarak antara keputusan dan pelaksanaan: prioritas ditetapkan hari Senin, tetapi pelaksanaannya baru dimulai Selasa malam, sehingga keputusan yang benar menganggur dua hari. Dengan kata lain, “Cek Senin” mengatur apa yang diputuskan dan sama sekali tidak mengatur kapan pelaksanaannya dimulai.
+Saya tidak mempertahankan hipotesis awal, melainkan menyatakan kekeliruannya lebih dahulu lalu mengajukan revisi.
+Saya: “Oke berarti tebakan gw salah. Gw kira lu kelewat di langkah nentuin prioritas, padahal lu udah ngelakuin dua-duanya. Yang nyangkut ternyata bukan di ngambil keputusannya, tapi di jarak antara keputusan Senin sama mulai belajar Selasa malem — jadi hari Senin sama Selasa siangnya nganggur. Berarti ada bolong di rancangan gw. Cek Senin cuma ngatur lu mutusin apa, tapi nggak ngatur kapan mulainya. Jadi keputusannya bener tapi nganggur dua hari.
+Gw mau nawarin satu revisi kecil, bukan nambah langkah baru: abis lu nentuin prioritas hari Senin, lu langsung kerjain satu hal paling kecil buat matkul prioritas itu hari Senin juga — bukan belajar beneran, cukup 10 menit buka modulnya atau baca judul babnya doang. Tujuannya biar Senin nggak jadi hari kosong.”
+Unsur
+Rancangan awal
+Setelah adaptasi
+Cakupan rutinitas
+Mengatur keputusan prioritas pada hari Senin
+Keputusan prioritas, ditambah satu tindakan terkecil sekitar sepuluh menit pada hari Senin juga
+Asumsi tentang penyebab keteteran
+Prioritas tidak ditetapkan
+Prioritas ditetapkan, tetapi pelaksanaannya tertunda dua hari
+Tangga bukti, risk, dan evidence threshold
+Pada fase yang sama saya menyajikan dua tingkat bukti beserta keterbatasannya, lalu menyatakan tiga batas sebelum ditanya.
+Saya: “Dua alesan kenapa gw mikir gitu. Pertama dari lu sendiri: minggu 1 sama 3 lu bilang kebantu, tapi gw jujur itu masih perasaan, kita nggak punya angkanya. Kedua logikanya: kalo mulainya Selasa malem, waktu buat dua praktikum tinggal separo, jadi prioritas yang udah lu tentuin jatohnya nggak sempet kepake. Dan gw jujur di depan: revisi ini nggak jamin ngilangin mager, nggak bikin materi generic jadi gampang, dan nggak kepake buat minggu UTS.”
+G: “bagus, menurut gw revisi lu langsung nyasarin kekurangan gw yaitu suka nunda nunda waktu, gw suka revisi lu, mungkin akan gw lakuin revisi lu. soal angka keberhasilan metode lu, sebenernya ada parameter pastinya yaitu nilai pratikum oop gw jadi lebih tinggi dari sebelumnya kalo praktikum basdat kan belum keluar jadi ngga tau.”
+Bukti tingkat tertinggi justru muncul setelah pengakuan keterbatasan, bukan sebelumnya, dan diajukan G tanpa saya minta.
+Bukti
+Tingkat
+Isi
+Keterbatasan yang dinyatakan
+A
+4 — data uji coba skala kecil
+Nilai praktikum PBO naik dari 130/300 menjadi 180/300
+Satu titik data, satu orang, tanpa pembanding dan kontrol; nilai Basdat belum keluar
+B
+1 — klaim logis dan mekanisme
+Pelaksanaan yang dimulai Selasa malam membuat porsi waktu yang ditetapkan tidak sempat terpakai
+Penalaran, bukan pengukuran; belum diuji pada minggu materi berat
+Risiko yang diakui: tindakan sepuluh menit dapat berhenti sebagai formalitas tanpa berlanjut menjadi belajar yang sesungguhnya, sehingga kebiasaan menunda tetap utuh. Batas tanggung jawab: revisi ini mengatur kapan pelaksanaan dimulai, bukan keengganan itu sendiri, tidak membuat materi generic lebih mudah, dan tidak dipakai pada minggu UTS.
+Etika kebebasan memilih
+G berhenti pada kata “mungkin”. Saya tidak mendorongnya menjadi persetujuan, dan justru mempertanyakan ulang data yang menguntungkan posisi saya sendiri.
+Saya: “Tapi gw mau nggak buru-buru ngeklaim — naiknya dari berapa ke berapa, dan menurut lu itu beneran gara-gara Cek Senin atau emang materinya kebetulan lebih gampang? Gw nanya karena kalo gw asal klaim nilai lu naik gara-gara metode gw, itu nggak jujur. Lu bilang ‘mungkin akan gw lakuin’ — gw nggak minta lu jawab iya sekarang. Yang gw pengen tau: bagian mana yang masih bikin lu ragu? Kalo lu bilang nggak bakal lu lakuin juga gapapa, itu malah info berguna buat gw.”
+G: “naiknya ya mungkin ngga banyak tapi naik dari 130/300 jadi 180/300 dan itu materinya lagi susah apalagi dibarengin ujian pratikum basdat. revisi lu akan gw lakuin gw pastiin gw juga pengen nilai gw tinggi.”
+Dua hal terjadi pada balasan penutup ini. Pertama, penjelasan alternatif yang saya tawarkan sendiri — bahwa kenaikan nilai mungkin disebabkan materi yang lebih mudah — dipatahkan oleh G dengan keterangan bahwa materinya justru sedang sulit dan bersamaan dengan ujian praktikum. Kedua, “mungkin akan gw lakuin” berubah menjadi “gw pastiin”, disertai alasan yang berasal dari dirinya sendiri, yaitu keinginan memperoleh nilai yang tinggi.
+Pergeseran itulah penanda Desire, bukan sekadar Interest. G tidak berhenti pada penilaian bahwa gagasannya masuk akal, melainkan menyatakan kesediaan menjalankannya dan menyebutkan sendiri hasil yang ia kejar.
+Evidence, AI, dan feedback
+Pemeriksaan pelaksanaan dilakukan lebih dahulu sebelum demonstrasi disusun, sehingga current state berupa keterangan G sendiri dan bukan dugaan.
+Minggu UTS tidak dijadikan sasaran perluasan karena G menilai rutinitas ini tidak relevan di sana dan sudah memiliki strategi prioritas H-1.
+Klaim bahwa rutinitas ini dapat mengatasi beratnya materi generic sengaja tidak dibuat, karena bertentangan dengan kesepakatan Minggu 6 bahwa masalahnya adalah alokasi waktu.
+Dua tingkat bukti disajikan beserta keterbatasan masing-masing; bukti Tingkat 4 muncul dari G setelah keterbatasan diakui, bukan sebelumnya.
+Tiga batas dinyatakan sebelum ditanya, dan data yang menguntungkan posisi sendiri dipertanyakan ulang alih-alih langsung dipakai.
+Hipotesis yang dibantah G tidak dipertahankan, melainkan dinyatakan keliru lalu dipakai sebagai dasar revisi rancangan.
+Seluruh sesi berlangsung dalam modalitas teks, sehingga prosodi dan bahasa tubuh tidak dapat dinilai. Pelaksanaan revisi oleh G berstatus kesepakatan, bukan pelaksanaan yang telah terjadi.
+AI digunakan untuk merumuskan matriks jembatan batin dan tangga bukti dari jawaban mentah G, menyusun pertanyaan tiap fase setelah balasan G diketahui, dan merapikan laporan ini. AI tidak digunakan untuk membuat evidence, mengarang respons G, atau menentukan isi akhir revisi.
+Next practice: memeriksa perilaku nyata sasaran sebelum menyusun hipotesis, bukan sesudahnya. Pertanyaan “kapan biasanya lu mulai belajar” seharusnya diajukan sebelum Fase II, sehingga celah pelaksanaan tidak perlu ditemukan lewat bantahan.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Desired state terikat pada kondisi nyata G pada minggu berjalan, dan nilai batin yang dituju dinyatakan G sendiri pada kalimat penutup
+Objective & State
+4
+Signal Desire dibedakan dari Interest: G berpindah dari “mungkin” menjadi “gw pastiin” disertai alasan miliknya sendiri
+Repertoire, Language & AI
+3
+Dua tingkat bukti dan tiga batas disampaikan tanpa jargon, namun tidak ada analogi maupun sketsa alur yang dapat dilihat langsung oleh target
+Response & Adaptation
+4
+Bantahan G tidak didebat, melainkan dinyatakan sebagai kekeliruan sendiri lalu dipakai merevisi cakupan rancangan
+Agreement, Action & Relationship
+4
+Kesepakatan tercapai tanpa tekanan; hak menolak dinyatakan terbuka dan data yang menguntungkan sendiri dipertanyakan ulang
+Total: 19/20 — Kompeten.
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#current-state-dan-desired-state
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#demonstrasi-jembatan-batin-dan-mekanisme
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#hidden-concern-dan-adaptasi-rancangan
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#tangga-bukti-risk-dan-evidence-threshold
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#etika-kebebasan-memilih
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#evidence-ai-dan-feedback
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

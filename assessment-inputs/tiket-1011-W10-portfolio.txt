@@ -1,0 +1,231 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1011
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://lvdis29.github.io/kipp-suci/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Desire–Action Gap
+Options dan Trade-off
+Agreement Eksplisit
+Action Evidence dan Adaptation
+Self-Assessment
+Lampiran: Lembar Kerja Bab 10
+Lembar Kerja Praktis: Dokumen Kesepakatan & Lingkar Komitmen
+1. Identitas Proyek & Pihak yang Terlibat
+Bagian 1: Pemetaan Negosiasi Berbasis Kepentingan
+Bagian 2: Formula Kesepakatan Presisi (The Agreement Formula)
+Bagian 3: Kontrol Lingkar Komitmen (Commitment Loop Checklist)
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Kompetensi Target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible, terukur, serta eksplisit melalui pemetaan authority, mitigasi barrier, dan evaluasi lingkar komitmen tertutup (closed-loop).
+Desire–Action Gap
+Ibu Maryam (Kasir & Pengelola Stan) telah berada pada tahap Desire—mengakui bahwa pemisahan alur melalui slip menu dan penanda stok dinamis sangat dibutuhkan untuk mengurangi beban mental jam puncak. Namun, eksekusi nyata belum berjalan karena adanya hambatan psikologis, beban logistik, dan batas kewenangan fasilitas.
+Barrier (Hambatan Tindakan)
+Person dengan Authority
+Tanggung Jawab / Respons Riil
+Izin pemasangan dudukan mika di tiang koridor fasilitas umum
+Pengelola Sarana Kantin (Pak Hendra)
+Memberikan izin pemasangan atribut portabel dengan syarat tidak merusak cat atau menyisakan bekas lem permanen.
+Kekhawatiran antrean macet dan kertas berantakan di meja saji
+Ibu Maryam (Kasir Stan)
+Menyetujui implementasi operasional meja saji dengan syarat uji coba dibatasi pada fase pre-rush.
+Kesiapan memasang klip merah penanda stok menipis saat wajan panas
+Mas Agus (Juru Masak Stan)
+Bersedia menjepit klip jika posisi gantungan berada di area jangkauan tangan (< 50 cm dari wajan).
+Pengadaan logistik slip cetak, pena bertali, dan wadah portabel
+Eka Suci R. (Komunikator)
+Bertanggung jawab penuh mendanai, mencetak, dan merakit wadah gantung portabel.
+Edukasi dan pemantauan barisan pembeli di lapangan
+Fayza (Rekan / Observer)
+Memandu pembeli di tiang awal antrean agar tidak terjadi kebingungan pengisian slip.
+Eka sebelumnya keliru menganggap Ibu Maryam memiliki wewenang penuh memasang wadah mika di tiang lorong kantin. Discovery lapangan menunjukkan bahwa tiang koridor berada di bawah kewenangan Pengelola Sarana Kantin, sehingga jenis gantungan harus disesuaikan menjadi klem portabel fleksibel tanpa paku atau lem perekat dinding.
+Options dan Trade-off
+Tiga opsi uji coba dirumuskan dan dinegosiasikan bersama target untuk menyeimbangkan bobot bukti terhadap risiko operasional:
+Opsi 1 — Pilot Penuh Jam Puncak (12.00–13.00, 5 hari):
+Trade-off: Menghasilkan data validitas beban ekstrem; namun risiko kekacauan sangat tinggi bila pembeli gagap mengisi slip, dan berpotensi memicu resistensi juru masak.
+Opsi 2 — Pilot Mikro Fase Pre-Rush (11.15–11.45, 3 hari, 15 transaksi/hari):
+Trade-off: Volume data lebih terbatas, tetapi risiko operasional minimal, kasir sempat beradaptasi dengan ritme baru, dan tidak mengganggu jam sibuk utama.
+Opsi 3 — Pemasangan Papan Menu Saja (Tanpa Slip Pesanan Kertas):
+Trade-off: Beban logistik nol dan tanpa risiko kertas berserakan; namun gagal memangkas waktu layanan kasir karena tanya-jawab menu tetap terjadi di meja saji.
+Pilihan Konsensus:
+Ibu Maryam dan tim menyepakati Opsi 2 dengan syarat logistik ditanggung penuh oleh tim mahasiswa, dudukan mika tidak merusak tiang, dan kasir berhak membatalkan alur seketika jika terjadi antrean macet.
+Agreement Eksplisit
+Scope: Uji coba alur slip pesanan fisik dan klip stok dinamis pada 15 transaksi pertama stan makanan Ibu Maryam.
+Owner: Eka Suci merakit dudukan portabel dan mencetak slip; Fayza memandu antrean dan mencatat stopwatch; Mas Agus menjepit klip stok habis; Ibu Maryam memproses slip dan validasi pembayaran.
+Deadline: Pemasangan alat Rabu pukul 10.30 WIB; uji coba lapangan Rabu pukul 11.15–11.45 WIB.
+Evidence: Catatan durasi 15 transaksi (stopwatch), hitungan insiden salah catat menu, dan kondisi kebersihan lantai stan.
+Stop Rule: Pilot dihentikan seketika jika waktu transaksi satu pembeli melebihi 2 menit, terjadi komplain lauk habis yang terlewat ditandai, atau ada teguran kebersihan dari pengelola kantin.
+Review: Evaluasi bersama (debriefing) dilaksanakan Rabu pukul 11.50 WIB (langsung setelah transaksi ke-15).
+Action Evidence dan Adaptation
+Saat pemeriksaan kesiapan (checkpoint) hari Selasa pukul 15.00 WIB, Ibu Maryam menolak purwarupa gantungan karena menggunakan tali rafia yang terlihat kumuh di mata pelanggan. Eka segera mengadaptasi dudukan menggunakan kait klem gantungan fleksibel berwarna netral dan menambahkan kotak penampung slip bekas pakai di samping meja kasir.
+Fayza mendokumentasikan log waktu 15 transaksi riil pada Rabu pagi: median waktu layanan meja saji turun dari 52 detik menjadi 19 detik per transaksi, tanpa ada insiden stock mismatch. Catatan log fisik bertanda tangan kasir dan foto klem terpasang dijadikan action evidence.
+AI dimanfaatkan untuk menyusun draf klausul stop rule dan kriteria trade-off. Otoritas penilaian kelayakan alur tetap dipegang oleh Ibu Maryam dan Pak Hendra selaku pengelola kantin.
+Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Batas kewenangan kasir stan, juru masak, dan pengelola sarana kampus dipetakan secara terpisah dan dihormati.
+Objective & State
+3
+Mengidentifikasi desire–action gap secara presisi dan menjembataninya melalui mitigasi ketakutan operasional.
+Repertoire, Language & AI
+4
+Menghindari bahasa kabur; menyusun agreement dengan formula operasional terukur; penggunaan AI dibatasi pada perancangan instrumen.
+Response & Adaptation
+3
+Keberatan kasir terkait estetika gantungan direspons cepat dengan penggantian klem portabel sebelum hari-H.
+Agreement, Action & Relationship
+4
+Memenuhi seluruh elemen baku: scope, owner, deadline, evidence, stop rule, dan jadwal review nyata.
+Total Skor: 18/20 — Unggul.
+Lampiran: Lembar Kerja Bab 10
+Lembar Kerja Praktis: Dokumen Kesepakatan & Lingkar Komitmen
+Bab 10: TAIDA IV — Kesepakatan dan Tindakan
+1. Identitas Proyek & Pihak yang Terlibat
+Nama Proyek/Gagasan: Pilot Desentralisasi Alur Pesanan Stan Kantin (Slip Order & Dynamic Stock Clip)
+Tanggal Diskusi: Selasa, 3 November 2026
+Pihak-Pihak yang Menyusun Kesepakatan:
+Pihak A (Komunikator / Inisiator): Eka Suci Ramadhani (Mahasiswa / NIM: 18225063)
+Pihak B (Pelaksana Utama / Mitra): Ibu Maryam (Kasir & Pemilik Stan Kantin Barokah)
+Pihak Lain / Pengamat: Fayza (Rekan Mahasiswa / Koordinator Observasi Lapangan)
+Bagian 1: Pemetaan Negosiasi Berbasis Kepentingan
+Pihak
+Posisi (Tuntutan/Solusi Kaku yang Diajukan)
+Kepentingan (Kebutuhan Dasar, Dampak, atau Alasan Batin)
+Pihak A (Eka Suci R. & Fayza)
+“Uji coba harus dilakukan selama jam makan siang penuh (12.00–13.00) agar kami mendapatkan data antrean puncak yang valid.”
+Membuktikan efektivitas mekanisme solusi pada beban stres tertinggi untuk memenuhi kebutuhan data portofolio yang dapat diandalkan.
+Pihak B (Ibu Maryam)
+“Jangan coba-coba sistem kertas baru pas jam 12.00; kalau antrean macet dan pembeli marah, stan saya yang rugi.”
+Melindungi kelancaran omzet harian, menjaga kepuasan pelanggan tetap, dan menghindari kepanikan kerja di jam sibuk.
+Poin Temu Kepentingan Utama:
+Kedua pihak sepakat menguji kecepatan pemangkasan waktu antre tanpa menimbulkan risiko kerugian finansial atau kekacauan alur stan; pengujian dialihkan ke fase pre-rush (11.15–11.45 WIB) dengan volume transaksi yang dibatasi secara terukur.
+Bagian 2: Formula Kesepakatan Presisi (The Agreement Formula)
+No
+SIAPA (Peran & Nama Jelas)
+Melakukan APA (Tindakan spesifik, operasional, & terukur)
+KAPAN (Tenggat waktu: Hari, Tanggal, Jam)
+Sumber Daya/Prasyarat (Alat, data, atau persetujuan yang dibutuhkan)
+DEFINISI SELESAI (Kriteria konkret untuk menyatakan tugas tuntas)
+Metode Tindak Lanjut (Melalui apa, kapan, dan kepada siapa dilaporkan)
+1
+Eka Suci R. (Inisiator)
+Menyediakan 50 lembar slip pesanan cetak saku, 3 pena dengan tali spiral terpasang, dan 1 kotak mika gantung dengan klem fleksibel.
+Selasa, 3 Nov 2026, Pukul 16.00 WIB.
+Master desain formulir slip ukuran A7 dan izin lisan pengelola sarana (Pak Hendra).
+Seluruh alat terangkai rapi di dalam kotak kit uji coba tanpa ada komponen yang kurang.
+Menyerahkan fisik kit untuk diperiksa langsung oleh Ibu Maryam di stan.
+2
+Mas Agus (Juru Masak)
+Memasang klip merah penanda stok habis pada papan mika depan saat porsi lauk tertentu tersisa 3 porsi di wajan.
+Rabu, 4 Nov 2026, Pukul 11.15–11.45 WIB.
+Klip jepit merah terpasang di bibir etalase dalam jangkauan tangan juru masak.
+Tidak ada pembeli yang mencentang lauk yang fisiknya sudah kosong saat slip diterima kasir.
+Konfirmasi verbal langsung kepada kasir saat klip dijepitkan.
+3
+Ibu Maryam (Kasir Stan)
+Melayani pesanan langsung berdasarkan centangan slip dan memverifikasi bukti bayar QRIS tanpa mengulang pertanyaan menu lisan.
+Rabu, 4 Nov 2026, Pukul 11.15–11.45 WIB (15 transaksi).
+Slip terisi dari pembeli dan layar ponsel bukti transfer QRIS.
+15 transaksi pertama selesai dilayani dengan slip ditancapkan pada penusuk struk meja.
+Memberikan penilaian kemudahan kerja pada sesi debriefing pukul 11.50 WIB.
+4
+Fayza (Observer)
+Berdiri di samping tiang antrean awal, mengarahkan pembeli mengambil slip, dan mencatat waktu layanan kasir per orang dengan stopwatch.
+Rabu, 4 Nov 2026, Pukul 11.15–11.45 WIB.
+Lembar pencatatan waktu (tally sheet) dan aplikasi stopwatch ponsel.
+15 baris data durasi layanan tercatat lengkap beserta catatan kendala nonverbal pembeli.
+Menyerahkan salinan rekap waktu kepada Eka dan Ibu Maryam pada pukul 11.50 WIB.
+Bagian 3: Kontrol Lingkar Komitmen (Commitment Loop Checklist)
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Eka Suci Ramadhani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://lvdis29.github.io/kipp-suci/index.html
+- https://lvdis29.github.io/kipp-suci/assets/logo.png
+- https://lvdis29.github.io/kipp-suci/course/index.html
+- https://lvdis29.github.io/kipp-suci/portfolio/index.html
+- https://lvdis29.github.io/kipp-suci/examples/index.html
+- https://lvdis29.github.io/kipp-suci/lk/index.html
+- https://lvdis29.github.io/kipp-suci/slides.html
+- https://lvdis29.github.io/kipp-suci/slides-pdf/index.html
+- https://lvdis29.github.io/kipp-suci/assessment/index.html
+- https://lvdis29.github.io/kipp-suci/about.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-01.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-03.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-05.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-07.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-08.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-11.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-12.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-13.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-14.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-15.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#kompetensi-target
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#desireaction-gap
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#options-dan-trade-off
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#agreement-eksplisit
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#action-evidence-dan-adaptation
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#self-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#lampiran-lembar-kerja-bab-10
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#lembar-kerja-praktis-dokumen-kesepakatan-lingkar-komitmen
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#identitas-proyek-pihak-yang-terlibat
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#bagian-1-pemetaan-negosiasi-berbasis-kepentingan
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#bagian-2-formula-kesepakatan-presisi-the-agreement-formula
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html#bagian-3-kontrol-lingkar-komitmen-commitment-loop-checklist
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

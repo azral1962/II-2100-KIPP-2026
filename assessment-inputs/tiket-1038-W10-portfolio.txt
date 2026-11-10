@@ -1,0 +1,215 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1038
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Desire–action gap
+Options dan trade-off
+Agreement eksplisit
+Konteks performance
+Evidence
+Transkrip Percakapan Kesepakatan & Pemeriksaan Hasil Tindakan
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas.
+Agreement dengan owner/deadline serta bukti action atau review.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Desire–action gap
+Mitra A (Project Manager penjualan merchandise acara wisuda di Unit Kegiatan Mahasiswa / UKM) menginginkan publikasi pengumuman perpanjangan masa pemesanan produk merchandise Wisuda Oktober segera diunggah pada 11 Oktober 2026 dengan meminta saya “membuat desain poster kembali”. Namun, tindakan pengerjaan belum dapat langsung dieksekusi karena adanya perbedaan pemahaman mengenai aset desain sebelumnya serta rincian informasi yang belum lengkap.
+Barrier
+Person dengan authority
+Respons
+Asumsi keliru mengenai keberadaan poster lama (sebelumnya tidak ada poster tunggal, melainkan katalog produk yang dipisah-pisah per halaman untuk diunggah sebagai postingan dan tidak memuat informasi tanggal)
+Saya (Staf Desainer UKM)
+Mengonfirmasi fakta aset desain sebelumnya dan menawarkan opsi adaptasi dari sampul katalog
+Kepastian tanggal batas akhir perpanjangan pemesanan yang baru
+Mitra A (Project Manager)
+Berwenang menetapkan dan mengonfirmasi tanggal penutupan pemesanan yang diperpanjang
+Waktu pengerjaan yang mendesak agar pengumuman bisa diunggah di hari yang sama
+Saya & Mitra A
+Menyepakati solusi desain yang paling efisien tanpa membuat poster baru dari nol
+Options dan trade-off
+Merevisi halaman sampul katalog menjadi poster independen dan mencantumkan tanggal perpanjangan: Pengerjaan sangat cepat (sekitar 30 menit), identitas visual tetap seragam dengan postingan katalog sebelumnya, namun hanya menampilkan informasi utama tanpa rincian foto seluruh produk di satu gambar.
+Membuat desain poster baru dari nol yang menggabungkan seluruh foto produk dan tanggal baru: Informasi produk terlihat lengkap dalam satu bidang gambar, tetapi membutuhkan waktu pengerjaan lama dan berisiko membuat tampilan terlalu padat serta menunda jadwal unggah.
+Mengunggah ulang potongan halaman katalog lama dan hanya menuliskan tanggal perpanjangan di takarir (caption): Tidak membutuhkan waktu pengerjaan desain, tetapi berisiko tinggi dilewati oleh calon pembeli karena visual gambar terlihat sama persis dengan unggahan lama.
+Mitra A memilih Opsi 1 karena paling realistis untuk dieksekusi segera dan pesan perpanjangan tanggal dapat langsung terbaca jelas pada gambar sampul.
+Agreement eksplisit
+Scope: Merevisi desain halaman sampul katalog merchandise Wisuda Oktober menjadi satu poster pengumuman independen dengan menambahkan teks informasi tanggal perpanjangan pemesanan hingga 14 Oktober 2026 pukul 23.59 WIB.
+Owner: Saya mengerjakan revisi tata letak sampul katalog; Mitra A mengonfirmasi ketepatan informasi tanggal perpanjangan dan memeriksa hasil akhir.
+Deadline: Pengerjaan revisi selesai pada 11 Oktober 2026 pukul 16.00 WIB.
+Evidence: Perubahan elemen teks judul dan pencantuman tanggal baru pada sampul katalog yang diverifikasi secara langsung oleh Mitra A di dalam percakapan pemeriksaan.
+Stop rule: Revisi dihentikan dan langsung disahkan untuk diunggah apabila teks tanggal perpanjangan sudah terbaca jelas serta tidak menutupi elemen visual utama pada sampul.
+Review: 11 Oktober 2026 pukul 16.00 WIB bersama Mitra A.
+Konteks performance
+Tanggal dan setting: 11 Oktober 2026, komunikasi koordinasi dan pemeriksaan hasil revisi bersama Project Manager UKM.
+Persons dan relationship: Saya (Staf Desainer UKM) dan Mitra A (Project Manager penjualan wisuda UKM). Hubungan bersifat rekan kerja kepanitiaan dalam satu organisasi kemahasiswaan.
+Objective dan initial state: - Objective: Menjembatani kesenjangan antara permintaan Mitra A dengan kondisi riil aset desain, menyepakati bentuk revisi yang tepat beserta batas waktunya, dan menuntaskan pengerjaan poster perpanjangan pemesanan. - Initial State: Mitra A meminta dibuatkan poster kembali untuk perpanjangan pemesanan dengan asumsi sudah ada desain poster bertanggal sebelumnya, sementara saya siap menyanggupi namun perlu meluruskan bahwa aset sebelumnya berupa potongan katalog tanpa tanggal.
+Evidence
+Transkrip Percakapan Kesepakatan & Pemeriksaan Hasil Tindakan
+Mitra A: “Halo, berhubung masa pemesanan produk merchandise Wisuda Oktober dari UKM kita diperpanjang, tolong buatkan desain poster kembali ya untuk pengumuman perpanjangan masa pemesanan hari ini.”
+Saya: “Halo Mitra A, baik saya bersedia mengerjakannya. Namun sebelum mulai, saya ingin mengonfirmasi terlebih dahulu supaya tidak salah sasaran. Pada publikasi sebelumnya kita sebenarnya belum pernah membuat poster tunggal, melainkan desain katalog produk yang dipisah-pisah per halaman untuk diunggah sebagai postingan, dan di dalam katalog tersebut memang tidak ada informasi tanggalnya. Untuk pengumuman perpanjangan ini, apakah kita ingin membuat poster baru dari awal, atau kita ambil halaman sampul katalog kemarin lalu direvisi menjadi poster independen dengan mencantumkan tanggal perpanjangannya?”
+Mitra A: “Oh iya benar, kemarin bentuknya potongan halaman katalog dan belum ada tulisan tanggalnya di gambar ya. Kalau buat poster baru dari nol nanti kelamaan. Kita pakai usulanmu saja: revisi halaman sampul katalog kemarin supaya jadi poster independen, lalu tambahkan informasi tanggal perpanjangannya.”
+Saya: “Baik, opsi itu jauh lebih efisien dan tampilannya tetap nyambung dengan unggahan katalog sebelumnya. Untuk informasi tanggal yang harus saya cantumkan di poster sampul itu, diperpanjang sampai tanggal berapa dan pukul berapa?”
+Mitra A: “Masa pemesanannya kita perpanjang sampai tanggal 14 Oktober 2026 pukul 23.59 WIB.”
+Saya: “Siap, datanya sudah jelas. Berarti kesepakatan kita: saya akan merevisi halaman sampul katalog menjadi poster independen dengan menambahkan teks ‘Extended Pre-Order Merchandise Wisuda Oktober’ beserta keterangan batas akhir ‘14 Oktober 2026 pukul 23.59 WIB’. Saya akan menyelesaikannya hari ini, 11 Oktober 2026 pukul 16.00 WIB untuk kita periksa bersama. Apakah sudah sesuai?”
+Mitra A: “Sudah sangat sesuai, silakan dikerjakan. Nanti jam 16.00 kita tinjau hasilnya.”
+Saya (Pemeriksaan pukul 16.00 WIB): “Halo Mitra A, sesuai kesepakatan kita untuk pukul 16.00 WIB, revisi sampul katalog menjadi poster independen sudah selesai saya kerjakan. Pada bagian tengah bawah sampul sudah saya tambahkan kotak informasi tanggal perpanjangan ‘Batas Pemesanan: 14 Oktober 2026 Pukul 23.59 WIB’ dengan ukuran huruf yang kontras dan teks penanda halaman katalog di sudut atas sudah saya hapus agar berdiri sendiri sebagai poster. Bagaimana menurutmu setelah melihat hasilnya, apakah sudah pas untuk diunggah?”
+Mitra A: “Sudah saya periksa, tata letak sampulnya sekarang sudah pas jadi poster mandiri dan tulisan perpanjangan tanggal 14 Oktober 2026 pukul 23.59 WIB-nya langsung terbaca jelas. Revisinya sudah tuntas dan sesuai kesepakatan, terima kasih banyak ya, sekarang langsung kita unggah.”
+Saya: “Sama-sama Mitra A, senang bisa selesai tepat waktu.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Memahami kepentingan Mitra A sebagai Project Manager yang membutuhkan media visual cepat untuk mengumumkan perpanjangan waktu pesanan, sembari menjalankan peran saya sebagai desainer yang memahami kondisi riil aset desain.
+Objective & state
+Mengubah permintaan awal yang masih rancu (“buat desain poster kembali”) menjadi kesepakatan operasional yang spesifik (merevisi sampul katalog menjadi poster independen bertanggal).
+Repertoire & language
+Menggunakan teknik klarifikasi yang sopan tanpa menyalahkan ingatan rekan kerja, menyajikan pilihan beserta trade-off-nya, serta mengunci komitmen dengan rumus Siapa, Melakukan Apa, Kapan, dan Definisi Selesai.
+Response & adaptation
+Ketika Mitra A menyetujui penggunaan sampul katalog dan memberikan kepastian tanggal 14 Oktober 2026, saya langsung mengadaptasi tata letak sampul dengan menghapus penanda halaman katalog dan menambahkan informasi batas waktu.
+Agreement/action
+Kesepakatan dikunci dengan tenggat 11 Oktober 2026 pukul 16.00 WIB dan dibuktikan penyelesaiannya melalui sesi pemeriksaan tepat waktu di dalam transkrip.
+Relationship outcome
+Jalur tugas (task track) selesai tepat waktu pada pukul 16.00 WIB, dan jalur relasi (relationship track) terjaga dengan baik karena klarifikasi dilakukan secara solutif.
+Penggunaan AI
+Alat dan peran AI: Gemini digunakan untuk memeriksa kelengkapan unsur Formula Kesepakatan Presisi (Siapa, Melakukan Apa, Kapan, Prasyarat, Definisi Selesai, dan Tindak Lanjut) serta membantu penyusunan portofolio ini.
+Prompt penting: > “Periksa apakah kronologi konfirmasi desain sampul katalog menjadi poster perpanjangan pemesanan wisuda ini sudah memenuhi elemen Desire-Action Gap, Options & Trade-off, serta Agreement eksplisit tanpa menggunakan kalimat yang ambigu.”
+Bagian output yang diubah/ditolak: AI sempat menyarankan skenario tambahan berupa perdebatan mengenai perubahan harga produk saat masa perpanjangan. Saran tersebut ditolak karena pada kejadian nyata tanggal 11 Oktober 2026 hanya membahas kebutuhan poster perpanjangan tanggal pemesanan dari aset katalog yang sudah ada.
+Pemeriksaan accuracy, privacy, dan authority: Fakta bahwa desain sebelumnya berupa katalog terpisah tanpa tanggal dan direvisi bagian sampulnya ditulis sesuai pengalaman nyata, tanpa mencantumkan nama spesifik unit kegiatan mahasiswa dan menyamarkan nama Project Manager sebagai Mitra A.
+Apa yang tetap dipelajari sebagai manusia: Pentingnya melakukan konfirmasi ulang secara tenang ketika instruksi tugas dari rekan kerja tidak sesuai dengan riwayat aset yang ada, sehingga tidak membuang waktu untuk membuat desain yang salah.
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Untung kamu konfirmasi dulu soal katalog kemarin yang belum ada tanggalnya dan menyarankan revisi dari sampul katalog saja. Jadi kita tidak buang waktu bikin poster dari nol dan pengumuman perpanjangannya bisa langsung naik sore ini.”
+Adaptation/replay: Mengubah langkah dari sekadar menerima instruksi mentah menjadi mengonfirmasi kondisi aset sebelumnya dan menawarkan alternatif revisi sampul katalog yang jauh lebih terukur.
+Next practice: Selalu menyertakan informasi periode tanggal pemesanan pada halaman sampul atau penutup katalog sejak rilis pertama di kegiatan penjualan UKM berikutnya agar lebih mudah dimodifikasi jika terjadi perpanjangan waktu.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Membedakan wewenang Project Manager (penentu tanggal perpanjangan) dan tanggung jawab desainer (pengelola aset visual) secara proporsional.
+Objective & State
+4
+Mengidentifikasi desire–action gap berupa ketidaksesuaian asumsi poster lama dan ketiadaan tanggal pada katalog sebelumnya secara konkret.
+Repertoire, Language & AI
+4
+Menyajikan opsi beserta trade-off secara logis, merumuskan kesepakatan presisi bebas kata kabur, dan membatasi penggunaan AI pada struktur refleksi.
+Response & Adaptation
+4
+Mengadaptasi halaman sampul katalog menjadi poster independen dengan menghapus atribut katalog dan menambahkan tanggal 14 Oktober 2026.
+Agreement, Action & Relationship
+3
+Menyepakati scope, owner, dan deadline pukul 16.00 WIB serta menuntaskan pemeriksaan hasil tindakan tepat waktu dengan relasi yang harmonis.
+Total: 18 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#quarto-document-content
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/UAS/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#desireaction-gap
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#options-dan-trade-off
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#agreement-eksplisit
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#transkrip-percakapan-kesepakatan-pemeriksaan-hasil-tindakan
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#analisis-komunikasi
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#feedback-dan-tindak-lanjut
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-10.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

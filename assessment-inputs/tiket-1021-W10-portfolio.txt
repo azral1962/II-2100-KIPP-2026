@@ -1,0 +1,437 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1021
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 10 — Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 10 — Action & Agreement Challenge
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Tugas Minggu 6 — Target–Attention Challenge
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Tugas Minggu 9 — Desire-State Communication
+Tugas Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+1. Kompetensi Target
+2. Evidence Wajib
+3. Status Pengerjaan
+4. Desire–Action Gap
+4.1 Ringkasan Hasil W09
+4.2 Desire–Action Gap
+5. Barrier & Authority Map
+5.1 Barrier Map
+5.2 Authority Map
+6. Pilihan Tindakan dan Trade-off
+6.1 Pilihan yang Diusulkan
+7. Potongan Transcript (Negotiation dan Agreement)
+7.1 Menyampaikan Rencana Uji Coba
+7.2 Membahas Ruang Lingkup
+7.3 Kesepakatan Awal
+8. Agreement, Action Plan, dan Review Evidence
+8.1 Action Plan
+8.2 Timeline yang Diusulkan
+8.3 Indikator Keberhasilan
+9. Response, Adaptation, dan Relationship Management
+9.1 Temuan dalam Pemeriksaan Awal
+9.2 Respons dan Adaptasi
+9.3 Relationship Management
+10. Analisis Repertoire dan Penggunaan AI
+10.1 Repertoire Komunikasi
+10.2 Penggunaan AI
+11. Evidence, Feedback, dan Next Step
+11.1 Evidence
+11.2 Feedback dan Insight
+11.3 Next Step
+12. Self-Assessment (Rubrik Evaluasi Mandiri)
+Refleksi Akhir
+Tugas Minggu 10 — Action & Agreement Challenge
+Professional
+Action
+Mengubah kesepahaman menjadi tindakan, pembagian tanggung jawab, dan evaluasi.
+1. Kompetensi Target
+Pada minggu ini, saya berlatih mengubah ketertarikan dan kesepahaman target menjadi tindakan yang konkret.
+Saya ingin memastikan bahwa kesepakatan tidak berhenti pada persetujuan secara lisan, tetapi memiliki ruang lingkup, penanggung jawab, batas waktu, dan indikator evaluasi yang jelas.
+Kompetensi yang ingin saya kembangkan: - Mengidentifikasi hambatan sebelum melakukan tindakan. - Memahami pihak yang memiliki kewenangan dalam pengambilan keputusan. - Menawarkan beberapa pilihan tindakan beserta konsekuensinya. - Menyusun kesepakatan yang realistis. - Menentukan pembagian tanggung jawab dan batas kewenangan. - Melakukan evaluasi serta menyesuaikan rencana apabila ditemukan masalah.
+2. Evidence Wajib
+Evidence yang menjadi fokus: 1. Desire–Action Gap. 2. Barrier dan Authority Map. 3. Alternatif tindakan beserta trade-off. 4. Kesepakatan mengenai ruang lingkup uji coba. 5. Pembagian tanggung jawab dan timeline. 6. Indikator keberhasilan dan aturan penghentian. 7. Evaluasi serta adaptasi setelah tindakan dilakukan.
+3. Status Pengerjaan
+CatatanIdentitas
+Nama: Keisha Nazla Ananta Putri
+NIM: 18225059
+Tugas: W10 — Action & Agreement Challenge
+Status: Siap Dinilai
+4. Desire–Action Gap
+4.1 Ringkasan Hasil W09
+Pada minggu sebelumnya, saya telah memperoleh gambaran mengenai kondisi ideal yang ingin dicapai oleh petugas administrasi.
+Target menginginkan kondisi ketika: - Mahasiswa dapat melihat status ruangan secara mandiri. - Informasi yang ditampilkan tetap akurat. - Petugas tidak perlu melakukan input berulang. - Waktu pembaruan informasi dapat diketahui. - Perubahan informasi hanya dilakukan oleh pihak berwenang.
+Meskipun target memahami manfaat dashboard, masih terdapat beberapa hal yang belum dipastikan, terutama mengenai sumber data, mekanisme pembaruan, dan izin penggunaan informasi.
+4.2 Desire–Action Gap
+Desired State
+Kondisi Saat Ini
+Kesenjangan
+Mahasiswa dapat melihat status ruangan
+Informasi masih perlu dicari melalui pihak terkait
+Belum tersedia akses informasi yang mudah
+Informasi selalu relevan
+Perubahan jadwal dapat terjadi
+Belum ada mekanisme pembaruan pada dashboard
+Petugas tidak melakukan input berulang
+Sumber data berada pada proses administrasi yang sudah berjalan
+Integrasi data belum dipastikan
+Data hanya diubah pihak berwenang
+Dashboard masih berupa konsep
+Hak akses belum ditentukan
+Solusi dapat digunakan secara konsisten
+Belum ada pengujian
+Perlu uji coba terbatas
+Saya menyimpulkan bahwa hambatan utama bukan lagi pemahaman terhadap manfaat solusi, melainkan kesiapan operasional dan kewenangan untuk mengujinya.
+5. Barrier & Authority Map
+5.1 Barrier Map
+Hambatan
+Pihak Terkait
+Dampak
+Pendekatan
+Belum ada izin penggunaan data
+Pengelola fasilitas
+Uji coba tidak dapat menggunakan data resmi
+Meminta persetujuan terlebih dahulu
+Sumber data belum dapat diakses
+Bagian IT
+Dashboard belum dapat diperbarui otomatis
+Memeriksa kemungkinan akses data
+Petugas khawatir beban bertambah
+Petugas administrasi
+Solusi berpotensi ditolak
+Membatasi fitur dan input
+Informasi dapat berubah
+Petugas administrasi
+Status dashboard berpotensi tidak akurat
+Menentukan prosedur pembaruan
+Mahasiswa belum terbiasa
+Mahasiswa
+Dashboard tidak digunakan
+Menyediakan petunjuk sederhana
+5.2 Authority Map
+Pihak
+Peran
+Kewenangan
+Pengelola fasilitas
+Mengawasi penggunaan ruangan
+Memberikan izin terkait uji coba
+Bagian IT
+Memeriksa aspek teknis
+Menilai akses dan integrasi data
+Petugas administrasi
+Mengelola informasi peminjaman
+Memvalidasi dan memperbarui informasi
+Mahasiswa
+Pengguna informasi
+Memberikan feedback penggunaan
+Saya
+Pengusul solusi
+Menyusun konsep, mockup, dan evaluasi
+Saya menyadari bahwa ketertarikan petugas administrasi tidak otomatis berarti solusi boleh langsung diterapkan. Persetujuan penggunaan data dan fasilitas tetap harus berasal dari pihak yang memiliki kewenangan.
+6. Pilihan Tindakan dan Trade-off
+Sebelum menentukan tindakan, saya menyusun tiga alternatif.
+Alternatif
+Deskripsi
+Kelebihan
+Kekurangan
+A. Uji coba satu ruangan
+Dashboard digunakan untuk satu ruangan dalam waktu terbatas
+Risiko dan ruang lingkup kecil
+Hasil belum mewakili seluruh ruangan
+B. Uji coba beberapa ruangan
+Dashboard digunakan untuk tiga ruangan
+Mendapatkan variasi kondisi
+Membutuhkan koordinasi lebih banyak
+C. Observasi tanpa dashboard
+Mengamati proses administrasi dan mencatat kendala
+Tidak membutuhkan perubahan sistem
+Belum menguji manfaat dashboard secara langsung
+6.1 Pilihan yang Diusulkan
+Saya memilih alternatif A, yaitu uji coba terbatas pada satu ruangan selama lima hari kerja.
+Alasan pemilihan: 1. Risiko perubahan proses operasional lebih kecil. 2. Petugas dapat mengevaluasi mekanisme pembaruan terlebih dahulu. 3. Saya dapat menguji apakah mahasiswa memahami informasi yang ditampilkan. 4. Jika ditemukan kesalahan, dampaknya lebih mudah dibatasi. 5. Hasil uji coba dapat digunakan sebagai dasar untuk mempertimbangkan perluasan.
+Saya tidak memilih alternatif B karena integrasi dan kesiapan data belum diperiksa. Sementara itu, alternatif C tetap dapat menjadi pilihan apabila izin atau akses data belum tersedia.
+7. Potongan Transcript (Negotiation dan Agreement)
+7.1 Menyampaikan Rencana Uji Coba
+Saya:
+“Berdasarkan pembahasan sebelumnya, saya ingin mengusulkan uji coba dashboard dalam ruang lingkup kecil terlebih dahulu. Saya tidak ingin langsung menerapkan ke semua ruangan karena masih ada beberapa hal yang perlu diperiksa.”
+Petugas Administrasi:
+“Kalau hanya satu ruangan, mungkin lebih mudah untuk diamati. Tetapi siapa yang akan memastikan informasi yang ditampilkan tetap benar?”
+Saya:
+“Saya mengusulkan agar petugas yang memang bertanggung jawab terhadap jadwal tetap menjadi pihak yang memvalidasi informasi. Saya hanya membantu menyiapkan dashboard dan mengevaluasi apakah tampilannya mudah digunakan.”
+Petugas Administrasi:
+“Kalau begitu, perlu ada batas yang jelas. Jangan sampai dashboard dianggap sebagai informasi resmi ketika datanya belum diperbarui.”
+Saya:
+“Setuju. Saya akan menampilkan waktu pembaruan dan keterangan bahwa status perlu dikonfirmasi kepada petugas apabila informasi belum diperbarui.”
+7.2 Membahas Ruang Lingkup
+Petugas Administrasi:
+“Berapa lama rencana uji cobanya?”
+Saya:
+“Saya mengusulkan lima hari kerja. Selama periode tersebut, kita bisa melihat apakah mahasiswa memahami status ruangan dan apakah petugas mengalami tambahan pekerjaan.”
+Petugas Administrasi:
+“Bagaimana kalau informasi tidak sesuai dengan jadwal sebenarnya?”
+Saya:
+“Jika ditemukan ketidaksesuaian, informasi pada dashboard akan ditandai dan penggunaan dashboard dihentikan sementara sampai sumber datanya diperiksa.”
+Petugas Administrasi:
+“Baik. Tetapi sebelum itu, tetap harus ada pemeriksaan dari bagian IT dan pengelola fasilitas.”
+Saya:
+“Baik. Berarti uji coba belum dimulai sebelum izin dan pemeriksaan tersebut selesai.”
+7.3 Kesepakatan Awal
+Dari pembahasan tersebut, saya merumuskan kesepakatan awal berupa: - Uji coba dibatasi pada satu ruangan. - Durasi yang diusulkan adalah lima hari kerja. - Dashboard hanya menampilkan informasi yang telah divalidasi. - Petugas tetap memiliki kewenangan atas pembaruan data. - Penggunaan data dan fasilitas harus mendapatkan izin. - Dashboard dihentikan sementara apabila ditemukan informasi yang tidak akurat.
+Saya membedakan kesepakatan mengenai rencana uji coba dengan persetujuan resmi implementasi. Persetujuan resmi tetap memerlukan pemeriksaan dari pihak yang berwenang.
+8. Agreement, Action Plan, dan Review Evidence
+8.1 Action Plan
+Tahap
+Aktivitas
+Penanggung Jawab
+Output
+1
+Memeriksa sumber data dan izin
+Pengelola fasilitas dan bagian IT
+Persetujuan dan hasil pemeriksaan
+2
+Menyiapkan dashboard sederhana
+Saya
+Prototype dashboard
+3
+Memvalidasi informasi ruangan
+Petugas administrasi
+Data yang telah diperiksa
+4
+Melakukan uji coba terbatas
+Saya dan petugas
+Hasil pengamatan
+5
+Mengumpulkan feedback
+Saya
+Catatan pengguna
+6
+Melakukan evaluasi
+Semua pihak terkait
+Keputusan tindak lanjut
+8.2 Timeline yang Diusulkan
+Waktu
+Kegiatan
+Hasil yang Diharapkan
+Hari 1
+Pemeriksaan izin dan data
+Kesiapan uji coba
+Hari 2
+Penyelesaian prototype
+Dashboard siap diperiksa
+Hari 3
+Validasi informasi
+Informasi sesuai sumber
+Hari 4–8
+Uji coba terbatas
+Data penggunaan dan feedback
+Hari 9
+Evaluasi
+Keputusan perbaikan atau penghentian
+Timeline tersebut merupakan rancangan kerja yang dapat disesuaikan dengan kesiapan dan persetujuan pihak terkait.
+8.3 Indikator Keberhasilan
+Saya menetapkan beberapa indikator yang dapat diamati:
+Mahasiswa dapat menemukan informasi status ruangan tanpa bantuan langsung.
+Pengguna memahami perbedaan status tersedia, dipesan, dan digunakan.
+Informasi pada dashboard sesuai dengan data yang telah divalidasi.
+Petugas tidak perlu melakukan input berulang.
+Tidak terjadi perubahan informasi oleh pihak yang tidak berwenang.
+Pengguna dapat memberikan masukan terhadap tampilan dan kejelasan informasi.
+Saya tidak menetapkan target persentase keberhasilan secara sembarangan karena belum memiliki data awal yang cukup untuk menentukan angka yang realistis.
+9. Response, Adaptation, dan Relationship Management
+9.1 Temuan dalam Pemeriksaan Awal
+Dalam skenario pemeriksaan awal, bagian IT menemukan bahwa prototype menggunakan formulir yang secara otomatis mengumpulkan alamat email pengisi.
+Fitur tersebut sebenarnya tidak diperlukan karena dashboard hanya bertujuan menampilkan informasi ruangan. Pengumpulan alamat email juga berpotensi menimbulkan persoalan privasi dan membutuhkan penjelasan tambahan mengenai penggunaan data.
+9.2 Respons dan Adaptasi
+Saya mengubah rancangan dengan: 1. Menghapus pengumpulan alamat email otomatis. 2. Tidak meminta mahasiswa memasukkan data pribadi untuk melihat status ruangan. 3. Membatasi akses perubahan informasi kepada petugas. 4. Memastikan data yang ditampilkan hanya informasi yang diperlukan. 5. Menunda uji coba sampai prototype diperiksa kembali.
+Saya memilih melakukan perubahan sebelum melanjutkan uji coba daripada mempertahankan fitur yang tidak memiliki manfaat langsung.
+9.3 Relationship Management
+Saya juga memahami bahwa proses komunikasi tidak boleh membuat target merasa bahwa seluruh tanggung jawab implementasi akan dibebankan kepada mereka.
+Karena itu, saya membedakan tanggung jawab setiap pihak: - Saya bertanggung jawab terhadap penyusunan prototype dan dokumentasi evaluasi. - Petugas bertanggung jawab terhadap validasi informasi administrasi. - Bagian IT memeriksa aspek teknis. - Pengelola fasilitas memberikan persetujuan sesuai kewenangannya. - Mahasiswa memberikan masukan sebagai pengguna.
+Pembagian ini membantu menjaga hubungan kerja agar ekspektasi setiap pihak tetap realistis.
+10. Analisis Repertoire dan Penggunaan AI
+10.1 Repertoire Komunikasi
+Repertoire
+Penerapan
+Tujuan
+Option framing
+Menawarkan tiga alternatif tindakan
+Memberikan pilihan kepada target
+Trade-off discussion
+Membandingkan risiko setiap alternatif
+Memilih tindakan realistis
+Negotiation
+Membahas durasi dan ruang lingkup uji coba
+Mencapai kesepakatan
+Boundary setting
+Menegaskan batas kewenangan setiap pihak
+Mencegah kesalahpahaman
+Risk communication
+Membahas risiko informasi tidak akurat
+Menjaga kepercayaan
+Repair and adaptation
+Menghapus fitur pengumpulan email
+Menanggapi temuan sebelum uji coba
+10.2 Penggunaan AI
+Saya menggunakan AI untuk mengevaluasi rencana tindakan, terutama apakah pembagian tanggung jawab dan indikator keberhasilan sudah jelas.
+Contoh prompt:
+“Evaluasi rencana uji coba dashboard informasi ruangan berikut. Periksa apakah penanggung jawab, timeline, indikator keberhasilan, batas kewenangan, dan kondisi penghentian sudah jelas. Identifikasi risiko yang belum diperhitungkan dan berikan perbaikan yang realistis.”
+AI membantu saya mengidentifikasi kemungkinan risiko, termasuk pengumpulan data pribadi yang tidak diperlukan.
+Namun, AI tidak dapat memberikan persetujuan atas penggunaan fasilitas atau data kampus. Keputusan tersebut tetap harus berasal dari pihak yang berwenang.
+11. Evidence, Feedback, dan Next Step
+11.1 Evidence
+Evidence
+Isi
+Fungsi
+Desire–Action Gap
+Perbandingan kondisi ideal dan kondisi saat ini
+Menentukan hambatan
+Authority Map
+Peran dan kewenangan pihak terkait
+Menentukan jalur persetujuan
+Option Comparison
+Tiga alternatif tindakan
+Menjelaskan trade-off
+Agreement Notes
+Ruang lingkup dan batas uji coba
+Memperjelas kesepakatan
+Action Plan
+Timeline dan penanggung jawab
+Memastikan tindakan terstruktur
+Risk Review
+Risiko dan aturan penghentian
+Menjaga keamanan pelaksanaan
+Prototype Revision
+Perubahan setelah pemeriksaan
+Menunjukkan adaptasi
+11.2 Feedback dan Insight
+Saya belajar bahwa persetujuan terhadap ide tidak sama dengan persetujuan untuk menjalankan implementasi.
+Target dapat memahami manfaat solusi dan bersedia membahas uji coba, tetapi penggunaan data dan fasilitas tetap membutuhkan pemeriksaan serta persetujuan dari pihak yang memiliki kewenangan.
+Saya juga menyadari bahwa kesepakatan yang baik tidak hanya berisi apa yang akan dilakukan, tetapi juga siapa yang bertanggung jawab, kapan tindakan dilakukan, bagaimana hasilnya dievaluasi, dan apa yang harus dilakukan apabila muncul masalah.
+11.3 Next Step
+Langkah selanjutnya adalah: 1. Memastikan izin penggunaan data dan fasilitas. 2. Memperbaiki prototype berdasarkan hasil pemeriksaan. 3. Menyelesaikan validasi informasi dengan petugas. 4. Melaksanakan uji coba apabila seluruh persyaratan telah terpenuhi. 5. Mengevaluasi feedback mahasiswa dan petugas. 6. Menentukan apakah solusi layak diperbaiki, diperluas, atau dihentikan.
+12. Self-Assessment (Rubrik Evaluasi Mandiri)
+Dimensi
+Penilaian
+Alasan
+Person & Character
+4
+Saya memahami peran mahasiswa, petugas, pengelola fasilitas, dan bagian IT.
+Objective & State
+4
+Saya mengidentifikasi kesenjangan antara kondisi ideal dan kondisi saat ini.
+Repertoire, Language & AI
+4
+Saya menggunakan option framing, negosiasi, risk communication, dan AI untuk mengevaluasi rencana.
+Response & Adaptation
+4
+Saya mengubah prototype setelah menemukan fitur yang tidak diperlukan dan berpotensi menimbulkan risiko.
+Agreement, Action & Relationship
+4
+Saya menyusun ruang lingkup, pembagian tanggung jawab, timeline, indikator keberhasilan, dan batas persetujuan.
+Total Self-Assessment: 20/20
+Refleksi Akhir
+Melalui tugas ini, saya memahami bahwa komunikasi yang efektif harus dapat menghasilkan kejelasan tindakan, bukan hanya membuat orang lain tertarik terhadap suatu ide.
+Saya belajar untuk tidak terburu-buru menganggap respons positif sebagai persetujuan penuh. Setiap pihak memiliki kewenangan dan tanggung jawab yang berbeda sehingga proses pengambilan keputusan perlu dilakukan secara bertahap.
+Saya juga menyadari bahwa perubahan rencana bukan berarti solusi gagal. Ketika ditemukan risiko atau kekurangan, saya perlu bersedia memperbaiki pendekatan agar solusi yang dihasilkan lebih aman dan realistis.
+Ke depannya, saya ingin lebih percaya diri dalam mengajukan kesepakatan, membahas batasan, dan memastikan setiap tindakan memiliki penanggung jawab yang jelas.
+Kembali ke atas
+Tugas Minggu 9 — Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#status-pengerjaan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#desireaction-gap
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#ringkasan-hasil-w09
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#desireaction-gap-1
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#barrier-authority-map
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#barrier-map
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#authority-map
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#pilihan-tindakan-dan-trade-off
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#pilihan-yang-diusulkan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#potongan-transcript-negotiation-dan-agreement
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#menyampaikan-rencana-uji-coba
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#membahas-ruang-lingkup
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#kesepakatan-awal
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#agreement-action-plan-dan-review-evidence
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#action-plan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#timeline-yang-diusulkan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#indikator-keberhasilan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#response-adaptation-dan-relationship-management
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#temuan-dalam-pemeriksaan-awal
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#respons-dan-adaptasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#relationship-management
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#analisis-repertoire-dan-penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#repertoire-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#evidence-feedback-dan-next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#feedback-dan-insight
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#self-assessment-rubrik-evaluasi-mandiri
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html#refleksi-akhir
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

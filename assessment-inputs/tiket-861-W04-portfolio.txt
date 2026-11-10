@@ -1,0 +1,170 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 861
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Meaning yang dipertahankan
+Five-language translation
+Demonstrasi dan checking understanding
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+PeringatanCatatan validasi evidence
+Latihan penerjemahan dan role-play dilakukan menurut konfirmasi Ariya. Formulasi serta response di halaman ini direkonstruksi dengan bantuan AI, bukan kutipan verbatim. Skor menilai variasi language dan proses checking dalam latihan.
+Meaning yang dipertahankan
+Tanggal dan setting: 22 September 2026, latihan penerjemahan satu gagasan untuk konteks Sistem dan Teknologi Informasi.
+Core meaning: Encapsulation pada OOP membatasi akses langsung ke state internal object agar perubahan dilakukan melalui operasi yang terkontrol. Tujuannya bukan membuat data “aman mutlak”, melainkan menjaga aturan perubahan dan konsistensi object.
+Five-language translation
+Audience/character
+Versi language
+Repertoire dan alasan
+Friend — Naufal
+“Bayangin object itu punya data yang tidak diubah sembarangan. Kalau mau mengubahnya, kita lewat method yang sudah mengecek aturannya, jadi state object lebih konsisten.”
+Analogi laci dengan akses teratur; ringan, tetapi tidak menyamakan encapsulation dengan keamanan absolut.
+Technical peer — Andra
+“Field dibuat private dan perubahan state diekspos lewat method dengan invariant yang jelas. Jadi caller tidak dapat melewati validasi yang menjadi tanggung jawab class.”
+Istilah teknis dipertahankan karena peer berbagi konteks OOP; fokus pada mechanism dan batasnya.
+Manager — Randy dalam role-play koordinator
+“Aturan perubahan ditempatkan pada class yang memiliki datanya. Ini mengurangi risiko bagian program lain mengubah state dengan cara yang tidak konsisten, meskipun desain dan pengujiannya tetap harus benar.”
+Bahasa dampak dan risiko; menghindari klaim bahwa encapsulation otomatis menghilangkan bug.
+Customer — Owen sebagai pengguna sistem
+“Saat status pesanan berubah, sistem memeriksa dulu apakah perpindahan itu diperbolehkan. Dengan begitu status tidak langsung berubah ke kondisi yang tidak masuk akal.”
+Contoh pengalaman pengguna; detail implementasi ditahan kecuali diminta.
+Public — teman sekelas umum
+“Sebuah bagian program mengatur sendiri cara datanya boleh diubah. Bagian lain meminta perubahan melalui aturan tersebut, bukan mengubah isi sesuka hati.”
+Definisi sederhana, tanpa jargon; tetap menyampaikan batas bahwa aturan harus dirancang dengan benar.
+Demonstrasi dan checking understanding
+Untuk latihan, ditampilkan contoh pseudocode Pesanan.ubahStatus(statusBaru) yang menolak perpindahan dari Dibatalkan ke Dikirim. Dalam role-play, Andra merespons: “Jadi yang dijaga itu aturan perubahan state, bukan otomatis kerahasiaan data?” Respons ini menunjukkan core meaning sampai pada technical peer dalam simulasi. Pertanyaan checking yang dipakai: “Menurutmu, apa yang dicegah oleh method itu, dan apa yang tidak dijamin?”
+Tidak ada rekaman latihan atau feedback aktual yang disertakan. Response di atas adalah contoh jawaban simulasi, bukan kutipan nyata.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Lima versi mengubah detail sesuai teman, technical peer, koordinator, pengguna, dan publik. Nama hanya label karakter role-play.
+Objective & state
+Objective tiap versi adalah pemahaman tentang kontrol perubahan state, bukan menghafal definisi.
+Repertoire & language
+Analogi, istilah teknis, dampak operasional, contoh status, dan definisi sederhana dipilih berbeda.
+Response & adaptation
+Pertanyaan checking menguji batas konsep; respons simulasi mengarahkan penegasan bahwa encapsulation bukan jaminan keamanan.
+Agreement/action
+Latihan berikutnya: minta pendengar menjelaskan kembali satu hal yang dijamin dan satu hal yang tidak dijamin.
+Relationship outcome
+Adaptasi menjaga audience tetap dihormati; kualitas relasi aktual tidak dinilai dari respons simulasi.
+Penggunaan AI
+AI membantu menyarankan lima formulasi dan contoh pseudocode. Aku memeriksa konsistensi konsep terhadap materi OOP dan menghapus klaim “data aman” karena terlalu kuat. Role-play serta feedback ditandai sebagai simulasi. AI tidak menjadi sumber otoritatif untuk definisi mata kuliah.
+Feedback dan tindak lanjut
+Feedback latihan simulasi: Versi technical peer dipahami sebagai kontrol aturan perubahan, bukan kerahasiaan.
+Adaptation/replay: Tambahkan satu contoh perpindahan status yang ditolak untuk menunjukkan batas konsep.
+Next practice: Setelah menjelaskan konsep, minta pendengar menyebutkan kembali batas klaim sebelum menambah detail.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character diberi kebutuhan, tingkat pengetahuan, dan konteks relasi yang berbeda.
+Objective & State
+3
+Core meaning dijaga, tetapi tujuan utama tetap sama yaitu pemahaman konsep.
+Repertoire, Language & AI
+4
+Analogi, jargon teknis, dampak operasional, contoh, dan definisi publik dipilih dengan alasan serta batas yang jelas.
+Response & Adaptation
+4
+Checking understanding menguji baik pemahaman maupun batas klaim; versi dapat disesuaikan bila pendengar mencampur encapsulation dengan confidentiality.
+Agreement, Action & Relationship
+3
+Tindak lanjut jelas; feedback aktual belum dilampirkan.
+Total: 18/20. Nilai 4 didukung translasi untuk lima audience dan pemeriksaan misconception; Objective serta tindak lanjut belum mencapai level 4 karena belum ada beberapa tujuan yang saling bersaing atau feedback tertulis pasca-latihan.
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Ariya Nanda Harimawan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sg22ariya.github.io/kipp-students/index.html
+- https://sg22ariya.github.io/kipp-students/assets/logo.png
+- https://sg22ariya.github.io/kipp-students/course/index.html
+- https://sg22ariya.github.io/kipp-students/portfolio/index.html
+- https://sg22ariya.github.io/kipp-students/examples/index.html
+- https://sg22ariya.github.io/kipp-students/lk/index.html
+- https://sg22ariya.github.io/kipp-students/slides.html
+- https://sg22ariya.github.io/kipp-students/slides-pdf/index.html
+- https://sg22ariya.github.io/kipp-students/assessment/index.html
+- https://sg22ariya.github.io/kipp-students/about.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-03.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-08.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-09.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-10.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-11.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-12.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-13.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-14.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-15.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#meaning-yang-dipertahankan
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#five-language-translation
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#demonstrasi-dan-checking-understanding
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

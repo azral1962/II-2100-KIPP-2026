@@ -1,0 +1,899 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1000
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://qilooooow.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+1. Konteks Situasi dan Continuity TAIDA
+Latar Belakang
+Continuity dari Minggu Sebelumnya
+Fokus Minggu 9
+2. Target Person, Character, Objective, dan State
+Target Person
+Character dan Value Target
+Communication Objective
+3. Current State dan Desired State
+3.1 Current State
+3.2 Initial Desired State Hypothesis
+3.3 Simulated Co-Creation Dialogue
+3.4 Desired State yang Dikonfirmasi dalam Simulasi
+3.5 Current–Desired State Gap
+3.6 Insight
+4. Feature–Benefit–Value–Outcome Chain
+Chain 1 — Centralized Visibility
+Chain 2 — Data Reliability
+Chain 3 — Clear Ownership
+Chain 4 — Single-Source Monitoring
+Integrated Value Chain
+Evidence Boundary
+5. Desire-State Communication Pitch
+Communication Strategy
+Pitch Script
+Mengapa Pitch Ini Relevan?
+6. Risk, Acceptable Risk, dan Evidence Threshold
+6.1 Risk Assessment
+6.2 Risk Prioritization
+6.3 Acceptable Risk
+6.4 Evidence Threshold
+6.5 Decision Rule
+Risk Communication
+7. Response dan Hidden Concern
+Simulated Conversation
+Response Analysis
+Key Insight
+8. Adaptation — Prototype V2 ke V3
+8.1 Initial Solution
+8.2 Revised Solution
+8.3 Before–After Comparison
+8.4 Adapted Response
+8.5 Mengapa Adaptation Ini Substantif?
+9. Demonstration dan Evidence Scenario
+Scenario A — New Partner Contact
+Scenario B — Status Change
+Scenario C — Outdated Information
+Illustrative Scenario Table
+Walkthrough Questions
+10. Final Response dan State Assessment
+Simulated Response Setelah Adaptation
+State Transition
+Final State
+Justifikasi
+11. Agreement dan Action Plan
+Simulated Agreement
+Action Sequence
+Relationship Management
+12. Evidence Terintegrasi dan Verifikasi Kompetensi
+Evidence 1 — Current State dan Desired State
+Evidence 2 — Feature–Benefit–Value–Outcome Chain
+Evidence 3 — Risk dan Evidence Threshold
+Evidence 4 — Response dan Hidden Concern
+Evidence 5 — Substantive Adaptation
+Evidence 6 — State Assessment
+Evidence 7 — Agreement dan Action
+Evidence 8 — Traceability Matrix
+Evidence Conclusion
+13. Refleksi Pribadi
+14. Penggunaan AI dan Critical Evaluation
+AI Assistance
+Critical Evaluation
+Human Judgment
+15. Next Practice
+Practice 1 — Desired-State Discovery
+Practice 2 — Value-Chain Validation
+Practice 3 — Risk Communication
+Practice 4 — Evidence-Based Agreement
+Practice 5 — Substantive Adaptation
+16. Self-Assessment
+Justifikasi Skor per Dimensi
+Self-Assessment Boundary
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, feature–benefit–value–outcome chain, risk, evidence threshold, response, dan adaptation.
+Kompetensi Target
+Membangun desired state bersama target dan menghubungkannya dengan solusi secara kredibel melalui pemahaman terhadap kebutuhan target, komunikasi berbasis value, pengelolaan risiko, serta penetapan evidence yang diperlukan sebelum mengambil keputusan.
+Dalam latihan ini, saya berfokus pada kemampuan untuk:
+Mengidentifikasi current state dari perspektif target.
+Menggali dan mengonfirmasi desired state menggunakan bahasa target.
+Menghubungkan feature, benefit, value, dan outcome secara logis.
+Mengidentifikasi risiko dan menentukan evidence threshold.
+Merespons keberatan dengan perubahan solusi yang substantif.
+Menilai perubahan state secara objektif.
+Menyusun agreement yang jelas tanpa meminta komitmen implementasi terlalu dini.
+CatatanKonteks dan Status Evidence
+Portofolio ini menggunakan skenario role-play berdasarkan konteks Business Development Inkubator IT ITB. Dialog, respons target, dan agreement merupakan simulasi yang dirancang untuk menunjukkan proses komunikasi. Seluruh contoh data dan artefak bersifat ilustratif. Tidak ada klaim bahwa percakapan, pengujian, atau kesepakatan tersebut telah berlangsung secara nyata.
+1. Konteks Situasi dan Continuity TAIDA
+Latar Belakang
+Sebagai Staff Business Development di Inkubator IT ITB, saya mempelajari pentingnya koordinasi dalam proses komunikasi dengan calon mitra.
+Aktivitas tersebut membutuhkan kejelasan mengenai pihak yang bertanggung jawab, status komunikasi terakhir, dan tindak lanjut yang perlu dilakukan.
+Dalam skenario yang saya gunakan, informasi calon mitra berpotensi tersebar pada chat, catatan pribadi, atau dokumen kerja.
+Kondisi ini menimbulkan pertanyaan apakah proses monitoring dapat dibuat lebih jelas tanpa menambah pekerjaan administratif anggota.
+Saya tidak menganggap bahwa proses yang berjalan saat ini pasti bermasalah. Kemungkinan kesulitan monitoring masih merupakan hipotesis yang perlu diuji.
+Continuity dari Minggu Sebelumnya
+Minggu 6 — Attention
+Saya mengangkat potensi kesulitan monitoring status follow-up kepada Koordinator Business Development.
+Dalam simulasi, target menunjukkan perhatian terhadap isu tersebut, tetapi mempertanyakan apakah sistem baru benar-benar diperlukan.
+Target juga menyampaikan bahwa keterlambatan komunikasi dapat berasal dari respons calon mitra, bukan semata-mata koordinasi internal.
+Saya kemudian mengubah pendekatan dari menawarkan solusi menjadi mengusulkan pemeriksaan proses.
+State akhir: Attention validated, open to limited investigation.
+Minggu 7 — Interest
+Saya mendemonstrasikan rancangan lightweight partnership tracker berbasis Google Sheets.
+Target dalam simulasi melihat potensi manfaat overview terpusat, tetapi mengkhawatirkan beban input tambahan dan risiko data tidak diperbarui.
+Saya mengadaptasi prototype dengan menyederhanakan kolom, menetapkan PIC, serta menambahkan indikator waktu pembaruan.
+State akhir: Interest with conditions.
+Fokus Minggu 9
+Pada tahap Desire, tujuan saya bukan lagi sekadar menunjukkan bahwa tracker memiliki manfaat.
+Saya ingin memahami kondisi kerja yang benar-benar diinginkan target dan memastikan solusi tidak bertentangan dengan prioritasnya.
+Pertanyaan inti:
+“Kalau proses monitoring follow-up bisa diperbaiki, kondisi kerja seperti apa yang sebenarnya ingin Kakak capai, dan hal apa yang tidak boleh dikorbankan?”
+2. Target Person, Character, Objective, dan State
+Target Person
+Target: Koordinator Business Development Inkubator IT ITB.
+Relevance: Memiliki kebutuhan untuk memahami perkembangan komunikasi calon mitra.
+Authority: Memiliki peran dalam mengevaluasi proses koordinasi dan memberikan arahan terhadap pendekatan kerja internal.
+Initial TAIDA State: Interest with conditions.
+Character dan Value Target
+Saya memahami target sebagai koordinator yang perlu menjaga efektivitas tim sekaligus memastikan informasi monitoring dapat digunakan.
+Pemahaman tersebut merupakan hipotesis berdasarkan peran target, bukan penilaian terhadap kepribadiannya.
+Aspek
+Kebutuhan Target
+Implikasi Komunikasi
+Monitoring
+Progres calon mitra mudah diketahui
+Tunjukkan akses informasi yang jelas
+Reliability
+Informasi tidak menyesatkan
+Jelaskan freshness dan verification
+Workload
+Anggota tidak terbebani administrasi
+Hindari input berulang
+Ownership
+PIC dan next action jelas
+Tetapkan penanggung jawab
+Flexibility
+Mekanisme sesuai alur kerja
+Jangan memaksakan sistem baru
+Communication Objective
+Primary Objective
+Membangun kesepahaman mengenai desired state monitoring calon mitra yang relevan bagi target.
+Secondary Objective
+Mengidentifikasi risiko dan batasan yang menentukan apakah solusi layak dievaluasi lebih lanjut.
+Minimum Acceptable Outcome
+Target mampu menjelaskan kondisi yang diinginkan dan memberikan feedback terhadap rumusan saya.
+Desired Outcome
+Target bersedia meninjau mekanisme solusi yang telah diadaptasi berdasarkan desired state.
+Relationship Objective
+Menunjukkan inisiatif dan kemampuan mendengarkan tanpa memaksakan penggunaan prototype.
+3. Current State dan Desired State
+3.1 Current State
+Current state berikut merupakan gambaran awal yang perlu divalidasi bersama target.
+Elemen
+Current State
+Informasi mitra
+Dapat tersebar pada beberapa kanal komunikasi
+Monitoring
+Koordinator mungkin perlu mencari informasi atau meminta klarifikasi
+PIC
+Penanggung jawab diketahui melalui koordinasi, tetapi belum tentu terlihat dalam satu overview
+Next action
+Dapat tersimpan dalam konteks percakapan
+Data freshness
+Informasi lama belum tentu memiliki penanda yang jelas
+Workload
+Tracker tambahan berpotensi menciptakan duplikasi pencatatan
+3.2 Initial Desired State Hypothesis
+Sebelum diskusi, saya merumuskan desired state sebagai:
+“Koordinator dapat melihat status, PIC, dan next action calon mitra melalui satu tampilan yang mudah digunakan.”
+Namun, rumusan ini masih terlalu berfokus pada bentuk solusi.
+Saya perlu memastikan apakah satu tampilan benar-benar merupakan prioritas target.
+3.3 Simulated Co-Creation Dialogue
+Saya: “Kak, dari prototype kemarin aku mau memastikan lagi tujuan akhirnya. Kalau monitoring follow-up berjalan lebih baik, kondisi seperti apa yang paling Kakak harapkan?”
+Target: “Aku ingin progres mitra gampang dipantau. Tapi aku juga nggak mau anggota jadi harus update banyak tempat.”
+Saya: “Berarti bukan sekadar punya dashboard yang rapi, tapi informasi progresnya jelas tanpa menambah pekerjaan anggota?”
+Target: “Iya. Terus kalau informasinya sudah lama, aku mau bisa tahu. Jangan sampai status lama dianggap masih berlaku.”
+Saya: “Jadi ada tiga hal penting: progres mudah dilihat, informasinya bisa dipercaya, dan anggota nggak perlu mengerjakan pencatatan yang sama dua kali. Apakah itu sudah sesuai?”
+Target: “Iya, itu yang aku maksud.”
+Saya: “Kalau tracker-nya terlihat rapi, tetapi anggota harus memelihara dua daftar status, berarti kita sebenarnya belum mencapai tujuan?”
+Target: “Betul. Aku lebih pilih proses yang sederhana tapi informasinya jelas.”
+3.4 Desired State yang Dikonfirmasi dalam Simulasi
+“Koordinator dapat mengetahui progres, PIC, dan next action calon mitra melalui informasi yang jelas dan cukup mutakhir, sementara anggota tidak perlu memelihara dua sumber status yang harus diperbarui secara terpisah.”
+Rumusan ini berasal dari respons target dalam role-play dan telah dikonfirmasi melalui pertanyaan klarifikasi.
+3.5 Current–Desired State Gap
+Aspek
+Current State
+Desired State
+Gap
+Visibility
+Informasi berpotensi tersebar
+Progres mudah dipantau
+Ringkasan informasi
+Ownership
+PIC diketahui melalui koordinasi
+PIC langsung jelas
+Penanggung jawab eksplisit
+Next Action
+Tersimpan dalam catatan atau chat
+Tindak lanjut mudah dikenali
+Standardisasi informasi
+Reliability
+Kebaruan data belum tentu terlihat
+Data lama dapat dikenali
+Timestamp dan verification
+Workload
+Risiko pencatatan ganda
+Tidak ada dua sumber status terpisah
+Penyederhanaan alur kerja
+Decision Quality
+Informasi mungkin memerlukan klarifikasi
+Monitoring menggunakan informasi yang relevan
+Validasi sebelum keputusan
+3.6 Insight
+Desired state target bukan “menggunakan partnership tracker”.
+Desired state target adalah monitoring yang jelas, dapat dipercaya, dan tidak menambah duplikasi pekerjaan.
+Perbedaan ini penting karena solusi harus mengikuti kondisi yang ingin dicapai, bukan sebaliknya.
+4. Feature–Benefit–Value–Outcome Chain
+Saya menggunakan value chain untuk memastikan setiap fitur memiliki hubungan logis dengan manfaat dan outcome.
+Chain 1 — Centralized Visibility
+Feature: Overview status calon mitra.
+Mechanism: PIC, status, dan next action ditampilkan dalam format konsisten.
+Benefit: Koordinator berpotensi lebih mudah menemukan informasi penting.
+Value: Kejelasan koordinasi.
+Desired Outcome: Monitoring progres calon mitra menjadi lebih praktis.
+Evidence Needed: Koordinator dapat menemukan PIC, status, dan next action pada skenario uji tanpa perlu mencari informasi di beberapa tempat.
+Chain 2 — Data Reliability
+Feature: Last updated indicator dan Needs Verification flag.
+Mechanism: Kebaruan informasi terlihat dan status lama ditandai.
+Benefit: Pengguna dapat mengetahui informasi yang memerlukan konfirmasi.
+Value: Keandalan informasi untuk monitoring.
+Desired Outcome: Mengurangi risiko menggunakan status lama sebagai dasar keputusan.
+Evidence Needed: Target mampu mengenali seluruh kasus dummy yang memerlukan verifikasi.
+Chain 3 — Clear Ownership
+Feature: PIC ownership dan next action.
+Mechanism: Setiap calon mitra memiliki penanggung jawab dan tindak lanjut yang jelas.
+Benefit: Tanggung jawab follow-up lebih mudah dikenali.
+Value: Accountability dan koordinasi.
+Desired Outcome: Tindak lanjut tidak bergantung sepenuhnya pada klarifikasi informal.
+Evidence Needed: Anggota dan koordinator dapat menjelaskan siapa yang bertanggung jawab pada setiap kasus uji.
+Chain 4 — Single-Source Monitoring
+Feature: Satu sumber status resmi.
+Mechanism: Pembaruan status dilakukan melalui satu alur yang disepakati, bukan dua daftar paralel.
+Benefit: Mengurangi risiko double entry dan inkonsistensi status.
+Value: Efisiensi kerja anggota dan reliability.
+Desired Outcome: Monitoring jelas tanpa duplikasi administrasi.
+Evidence Needed: Walkthrough menunjukkan bahwa tidak ada kewajiban memperbarui informasi yang sama pada dua sumber status berbeda.
+Integrated Value Chain
+Single-source status + clear PIC + last updated indicator
+→ informasi monitoring lebih mudah ditemukan dan diperiksa
+→ koordinasi lebih jelas serta risiko informasi lama lebih mudah dikenali
+→ waktu dan perhatian anggota tidak terserap oleh pencatatan paralel
+→ target mendekati desired state berupa monitoring yang jelas, reliable, dan ringan secara administratif.
+Evidence Boundary
+Setiap hubungan dalam chain merupakan hipotesis.
+Saya tidak mengklaim bahwa solusi sudah menghemat waktu, meningkatkan produktivitas, atau mengurangi keterlambatan dalam persentase tertentu.
+Outcome baru dapat dinilai setelah mekanisme diuji.
+5. Desire-State Communication Pitch
+Communication Strategy
+Saya menggunakan pendekatan:
+Current State → Desired State → Value → Solution Mechanism → Risk → Evidence.
+Saya tidak memulai dengan mempromosikan fitur.
+Saya memulai dengan mengonfirmasi kondisi kerja yang diinginkan target.
+Pitch Script
+“Kak, dari diskusi kita sebelumnya aku jadi sadar kalau tujuan kita sebenarnya bukan sekadar bikin tracker yang lebih rapi.
+Yang paling penting adalah Kakak bisa tahu progres calon mitra, siapa PIC-nya, dan apa next action-nya dengan jelas. Tapi di saat yang sama, anggota juga nggak perlu mengerjakan pencatatan yang sama dua kali.
+Jadi aku ingin mengarahkan solusi ini ke kondisi itu: monitoring lebih mudah, informasi yang sudah lama bisa dikenali, dan sumber statusnya tetap konsisten.
+Menurutku, kalau dashboard-nya bagus tetapi proses update-nya justru bikin kerjaan bertambah, berarti solusi ini belum berhasil.
+Sebelum membahas implementasi, aku ingin memastikan dulu apakah ini memang kondisi yang Kakak harapkan. Setelah itu, kita bisa tentukan bukti apa yang perlu dilihat supaya keputusan kita nggak cuma berdasarkan asumsi.”
+Mengapa Pitch Ini Relevan?
+Pitch menggunakan value target sebagai dasar.
+Saya tidak menjanjikan manfaat yang belum terbukti dan tidak meminta target menyetujui implementasi.
+Saya juga mengakui bahwa solusi dapat dianggap gagal apabila menimbulkan duplikasi kerja.
+6. Risk, Acceptable Risk, dan Evidence Threshold
+6.1 Risk Assessment
+Risk
+Potential Impact
+Safeguard
+Double entry
+Beban kerja bertambah dan status tidak konsisten
+Evaluasi single-source workflow
+Stale data
+Keputusan menggunakan informasi lama
+Last updated dan Needs Verification
+Unclear ownership
+Status tidak diperbarui
+PIC responsibility
+Sensitive data exposure
+Informasi mitra diakses tanpa izin
+Dummy data dan permission review
+Workflow complexity
+Solusi sulit digunakan
+Process walkthrough
+False confidence
+Dashboard rapi dianggap selalu benar
+Verifikasi sebelum keputusan penting
+6.2 Risk Prioritization
+Dua risiko utama adalah:
+Risk 1 — Double Entry
+Tracker dapat menciptakan sumber status tambahan yang harus diperbarui secara terpisah.
+Risk 2 — Stale Data
+Informasi dapat terlihat lengkap tetapi tidak lagi mencerminkan perkembangan terbaru.
+Kedua risiko tersebut langsung bertentangan dengan desired state target.
+6.3 Acceptable Risk
+Pada tahap awal, risiko yang dapat diterima adalah:
+Waktu terbatas untuk melakukan walkthrough.
+Kebutuhan revisi prototype.
+Kemungkinan solusi tidak dilanjutkan setelah evaluasi.
+Risiko yang tidak dapat diterima adalah:
+Penggunaan data nyata tanpa izin.
+Penerapan kewajiban pencatatan baru tanpa persetujuan.
+Penggunaan informasi yang belum diverifikasi untuk keputusan penting.
+Klaim manfaat tanpa evidence.
+6.4 Evidence Threshold
+Threshold berikut merupakan kriteria awal yang diusulkan dalam skenario.
+Indikator
+Evidence Threshold
+Metode
+Information Clarity
+PIC, status, dan next action dapat ditemukan pada seluruh kasus dummy
+Task-based walkthrough
+Data Freshness
+Semua kasus dummy dengan informasi lama dapat dikenali
+Scenario testing
+Ownership
+PIC pembaruan jelas pada seluruh kasus
+Role clarification
+Duplicate Entry
+Tidak ada kewajiban pembaruan ganda pada dua sumber status
+Process walkthrough
+Permission
+Tidak ada penggunaan data nyata tanpa izin
+Access review
+Practicality
+Target menilai alur cukup praktis untuk dievaluasi lebih lanjut
+Structured feedback
+6.5 Decision Rule
+Proceed to Limited Evaluation
+Jika threshold minimum terpenuhi dan target menyetujui evaluasi lanjutan.
+Revise
+Jika mekanisme memiliki potensi manfaat tetapi masih menimbulkan workload atau reliability concern.
+Stop
+Jika solusi tidak dapat menghindari duplikasi input yang tidak dapat diterima atau menimbulkan risiko informasi yang tidak dapat dikelola.
+Risk Communication
+Saya menjelaskan bahwa tujuan evaluasi bukan membuktikan tracker pasti diperlukan.
+Tujuannya adalah menentukan apakah mekanisme benar-benar dapat membantu target mencapai desired state.
+7. Response dan Hidden Concern
+Simulated Conversation
+Target: “Aku setuju sama kondisi yang kamu jelaskan. Tapi aku masih kepikiran, kalau anggota tetap harus update chat dan tracker secara terpisah, berarti kita punya dua sumber informasi.”
+Saya: “Berarti meskipun kolom tracker sudah sedikit, tetap ada risiko double entry karena informasi harus dipindahkan dari chat ke sheet?”
+Target: “Iya. Kalau ada yang lupa update, nanti status di tracker bisa beda sama kondisi sebenarnya.”
+Saya: “Jadi concern utamanya bukan sekadar banyaknya kolom, tetapi adanya dua sumber status yang harus dijaga konsistensinya?”
+Target: “Betul. Aku lebih ingin satu sumber yang jelas daripada dua sumber yang sama-sama harus di-update.”
+Response Analysis
+Elemen
+Analisis
+Surface Objection
+Tracker berpotensi menambah pekerjaan
+Initial Interpretation
+Terlalu banyak kolom input
+Clarifying Question
+Apakah masalah utamanya jumlah input atau duplikasi sumber?
+Hidden Concern
+Dua sumber status menciptakan risiko inkonsistensi
+Target Value
+Reliability dan low administrative burden
+Implication
+Solusi perlu menghindari pencatatan paralel
+Key Insight
+Pengurangan jumlah kolom belum tentu menyelesaikan masalah.
+Walaupun tracker hanya membutuhkan tiga kolom, anggota tetap dapat mengalami double entry apabila harus mencatat informasi yang sama pada dua sumber berbeda.
+Karena itu, saya perlu mengubah mekanisme solusi.
+8. Adaptation — Prototype V2 ke V3
+8.1 Initial Solution
+Prototype V2 — Lightweight Separate Tracker
+Prototype V2 menggunakan Google Sheets dengan:
+Current status.
+Next action.
+Follow-up date.
+PIC ownership.
+Last updated indicator.
+Needs Verification flag.
+Mekanisme ini membantu menampilkan informasi secara ringkas, tetapi masih berpotensi menjadi sumber status tambahan.
+8.2 Revised Solution
+Prototype V3 — Single-Source Monitoring Concept
+Saya mengubah rancangan agar monitoring menggunakan satu sumber status resmi yang disepakati.
+Tracker tidak langsung diposisikan sebagai catatan kedua yang wajib diperbarui.
+Saya perlu mengevaluasi apakah informasi monitoring dapat berasal dari catatan status utama yang digunakan tim atau dari satu log terstruktur yang menggantikan pencatatan paralel.
+8.3 Before–After Comparison
+Aspek
+V2
+V3
+Fokus
+Mempermudah update tracker
+Menghindari dua sumber status
+Data Source
+Sheet tambahan
+Satu sumber status resmi
+Input
+Minimal required fields
+Satu alur pembaruan
+Reliability
+Timestamp dan verification
+Timestamp, verification, dan source ownership
+Workload
+Mengurangi jumlah input
+Menghindari duplikasi proses
+Validation
+Kemudahan mengisi tracker
+Kejelasan keseluruhan workflow
+8.4 Adapted Response
+“Iya Kak, aku setuju. Kalau kita tetap harus update dua tempat, berarti prototype ini belum benar-benar menjawab kebutuhan tim.
+Jadi aku mau revisi pendekatannya. Bukan lagi menambah tracker terpisah, tapi mencari cara supaya monitoring menggunakan satu sumber status yang jelas.
+Aku akan buat alur dari informasi komunikasi mitra sampai status monitoring. Dari situ kita bisa lihat apakah memang memungkinkan untuk update sekali saja.
+Kalau ternyata masih harus double entry, menurutku lebih baik mekanismenya kita revisi lagi daripada langsung dipakai.”
+8.5 Mengapa Adaptation Ini Substantif?
+Perubahan ini tidak hanya memperbaiki tampilan atau wording.
+Saya mengubah asumsi dasar solusi:
+Sebelumnya: Tracker tambahan dapat membantu monitoring jika kolomnya cukup sederhana.
+Setelah adaptation: Monitoring hanya layak dikembangkan apabila sumber status dapat dijaga konsisten tanpa pekerjaan ganda yang tidak dapat diterima.
+Adaptation ini mengubah solution mechanism agar lebih selaras dengan desired state target.
+9. Demonstration dan Evidence Scenario
+Untuk memeriksa rancangan V3, saya menyusun tiga skenario walkthrough menggunakan dummy data.
+Scenario A — New Partner Contact
+Situasi: Staff menerima respons awal dari Partner A.
+Expected Workflow:
+Staff menentukan status terbaru.
+PIC mencatat next action.
+Informasi monitoring mengacu pada sumber status resmi.
+Koordinator dapat melihat status dan next action.
+Evidence yang Dicari: Tidak ada kewajiban memperbarui dua daftar status secara terpisah.
+Scenario B — Status Change
+Situasi: Partner B berpindah dari Waiting Response menjadi Discussion.
+Expected Workflow:
+PIC memperbarui status pada sumber yang disepakati.
+Status monitoring mencerminkan pembaruan tersebut.
+Last updated menunjukkan waktu pembaruan.
+Evidence yang Dicari: Sumber status jelas dan pembaruan tidak memerlukan duplikasi input.
+Scenario C — Outdated Information
+Situasi: Status Partner C belum diperbarui selama periode yang ditentukan.
+Expected Workflow:
+Status menampilkan waktu pembaruan terakhir.
+Informasi diberi penanda Needs Verification.
+Koordinator meminta konfirmasi sebelum menggunakannya untuk keputusan penting.
+Evidence yang Dicari: Pengguna mampu mengenali informasi yang perlu diverifikasi.
+Illustrative Scenario Table
+Partner
+PIC
+Status
+Last Updated
+Verification
+Next Action
+Partner A
+Staff 1
+Contacted
+H-1
+Current
+Send proposal
+Partner B
+Staff 2
+Discussion
+H-2
+Current
+Schedule meeting
+Partner C
+Staff 1
+Waiting Response
+H-8
+Needs Verification
+Confirm status
+Tabel ini merupakan mockup ilustratif, bukan hasil pengujian.
+Walkthrough Questions
+“Apakah alur ini masih membuat anggota harus memperbarui informasi yang sama dua kali?”
+“Kalau Kakak ingin mengecek progres, apakah sumber informasinya sudah jelas?”
+“Kalau ada status lama, apakah penandanya membantu mengetahui bahwa informasi perlu dikonfirmasi?”
+“Apakah mekanisme ini sudah mendekati kondisi kerja yang Kakak inginkan?”
+10. Final Response dan State Assessment
+Simulated Response Setelah Adaptation
+Target: “Kalau arahnya satu sumber informasi, menurutku itu lebih sesuai. Tapi aku mau lihat dulu alur update-nya benar-benar seperti apa.”
+Saya: “Setuju Kak. Jadi langkah berikutnya bukan langsung implementasi, tapi walkthrough dulu untuk memastikan prosesnya nggak menambah pekerjaan.”
+Target: “Iya. Coba siapkan alurnya, nanti kita lihat apakah memang cukup praktis.”
+Saya: “Baik Kak. Aku akan siapkan diagram proses dan tiga skenario dummy supaya kita bisa menilai alurnya sebelum memutuskan langkah berikutnya.”
+State Transition
+Tahap
+State
+Supporting Evidence
+Awal Minggu 9
+Interest with conditions
+Target tertarik tetapi memiliki concern mengenai reliability
+Setelah desired-state discussion
+Emerging Desire
+Target menjelaskan kondisi kerja yang diinginkan
+Setelah risk discussion
+Desire with reservations
+Target menetapkan batasan mengenai double entry
+Setelah adaptation
+Conditional Desire
+Target meminta walkthrough solusi yang lebih sesuai
+Final State
+Conditional Desire — pending evidence.
+Justifikasi
+Saya mengidentifikasi tiga sinyal:
+Target mampu menjelaskan desired state dengan bahasanya sendiri.
+Target menetapkan risiko yang tidak dapat diterima.
+Target bersedia melanjutkan evaluasi terhadap mekanisme revisi.
+Namun, target belum memberikan persetujuan implementasi.
+Karena itu, saya tidak menganggap state telah mencapai Action.
+11. Agreement dan Action Plan
+Simulated Agreement
+Komponen
+Kesepakatan
+Objective
+Mengevaluasi mekanisme monitoring tanpa double entry
+Action
+Menyiapkan technical dan process walkthrough
+Owner
+Saya sebagai Staff Business Development
+Reviewer
+Koordinator Business Development
+Timeline
+Tiga hari kerja
+Deliverable
+Diagram alur, prototype dummy, dan risk checklist
+Evidence
+Hasil walkthrough terhadap tiga skenario
+Success Criteria
+Satu sumber status jelas, ownership jelas, data lama dapat dikenali, tidak ada pembaruan ganda wajib
+Boundary
+Tidak menggunakan data calon mitra nyata tanpa izin
+Decision Point
+Proceed, revise, atau stop
+Action Sequence
+Step 1 — Map Current Workflow
+Menggambarkan bagaimana informasi calon mitra diterima, dicatat, dan digunakan untuk monitoring.
+Step 2 — Design Single-Source Concept
+Mengidentifikasi satu sumber status resmi yang dapat digunakan tanpa duplikasi pencatatan.
+Step 3 — Prepare Dummy Walkthrough
+Menyiapkan tiga skenario perubahan status dan verifikasi informasi.
+Step 4 — Collect Feedback
+Meminta feedback target mengenai clarity, workload, ownership, dan reliability.
+Step 5 — Decide Next Action
+Menentukan apakah mekanisme layak dievaluasi lebih lanjut, perlu direvisi, atau dihentikan.
+Relationship Management
+Saya tidak meminta target menyetujui pilot sebelum evidence tersedia.
+Saya memosisikan keberatan target sebagai masukan yang membantu memperjelas kebutuhan.
+Saya juga memberikan ruang bagi target untuk menolak solusi apabila mekanisme tidak memenuhi desired state.
+12. Evidence Terintegrasi dan Verifikasi Kompetensi
+Seluruh evidence berikut merupakan artefak tertulis dari simulasi komunikasi. Setiap evidence dapat diperiksa langsung dalam dokumen tanpa lampiran eksternal.
+Evidence 1 — Current State dan Desired State
+Current State: Informasi calon mitra berpotensi tersebar, sehingga monitoring mungkin memerlukan pencarian informasi atau klarifikasi tambahan.
+Desired State:
+“Progres mitra bisa dipantau dengan jelas, informasinya masih relevan, dan anggota nggak harus mengurus dua sumber status.”
+Evidence of Co-Creation: Section 3 menunjukkan pertanyaan terbuka, respons target, parafrasa, dan konfirmasi.
+Competency Demonstrated: Person understanding dan desired-state clarification.
+Evidence 2 — Feature–Benefit–Value–Outcome Chain
+Feature
+Benefit
+Value
+Outcome
+Overview
+Informasi mudah ditemukan
+Clarity
+Monitoring praktis
+Timestamp
+Data lama mudah dikenali
+Reliability
+Keputusan lebih hati-hati
+PIC Ownership
+Tanggung jawab jelas
+Accountability
+Follow-up terstruktur
+Single-Source
+Mengurangi double entry
+Efficiency
+Monitoring tanpa duplikasi
+Competency Demonstrated: Value-based solution communication.
+Evidence Boundary: Hubungan dalam chain merupakan hipotesis, bukan hasil implementasi.
+Evidence 3 — Risk dan Evidence Threshold
+Risk Utama: Double entry dan stale data.
+Safeguard: Single-source concept, timestamp, Needs Verification, dan ownership.
+Evidence Threshold: Tidak ada pembaruan ganda wajib; informasi lama dapat dikenali; PIC dan next action jelas.
+Competency Demonstrated: Risk-aware communication dan evidence-based decision making.
+Evidence 4 — Response dan Hidden Concern
+Simulated Target Response:
+“Kalau masih harus update dua tempat, berarti kita tetap punya dua sumber informasi.”
+Clarifying Question:
+“Berarti masalah utamanya bukan jumlah kolom, tetapi adanya dua sumber status yang harus dijaga konsistensinya?”
+Hidden Concern: Konsistensi sumber informasi dan risiko double entry.
+Competency Demonstrated: Active listening dan concern discovery.
+Evidence 5 — Substantive Adaptation
+Before: Separate tracker dengan minimal required fields.
+After: Single-source monitoring concept.
+Changed Mechanism: Dari mengurangi jumlah input menjadi menghindari dua sumber status yang harus diperbarui.
+Competency Demonstrated: Adaptation berdasarkan value target.
+Evidence 6 — State Assessment
+Initial State: Interest with conditions.
+Final Simulated State: Conditional Desire.
+Observable Signals:
+Target menyatakan desired state.
+Target menetapkan batasan risiko.
+Target meminta walkthrough lanjutan.
+Boundary: Belum ada persetujuan implementasi.
+Competency Demonstrated: Objective state assessment.
+Evidence 7 — Agreement dan Action
+Action: Menyiapkan technical dan process walkthrough.
+Owner: Staff Business Development.
+Timeline: Tiga hari kerja.
+Deliverable: Diagram alur, prototype dummy, dan risk checklist.
+Success Criteria: Clarity, ownership, reliability, dan tidak ada double entry wajib.
+Boundary: Tidak menggunakan data nyata tanpa izin.
+Competency Demonstrated: Measurable agreement dan relationship management.
+Evidence 8 — Traceability Matrix
+Assessment Dimension
+Evidence
+Person & Character
+Evidence 1 dan 4
+Objective & State
+Evidence 1 dan 6
+Repertoire, Language & AI
+Evidence 2 dan 3 serta Section 14
+Response & Adaptation
+Evidence 4 dan 5
+Agreement, Action & Relationship
+Evidence 3 dan 7
+Evidence Conclusion
+Alur kompetensi yang ditunjukkan dalam simulasi adalah:
+Current State → Co-Created Desired State → Value Chain → Risk → Hidden Concern → Substantive Adaptation → Conditional Desire → Measurable Agreement.
+Setiap tahap memiliki bukti tertulis yang dapat ditelusuri.
+Evidence ini menunjukkan kelengkapan rancangan dan analisis simulasi, bukan bukti bahwa interaksi nyata telah terjadi.
+13. Refleksi Pribadi
+Pada tahap Desire, saya memahami bahwa membuat target tertarik terhadap solusi berbeda dengan membangun kesepahaman mengenai kondisi yang ingin dicapai.
+Sebelumnya, saya cenderung berfokus pada bagaimana partnership tracker dapat membuat monitoring lebih mudah.
+Saya menganggap bahwa tampilan terpusat dan jumlah kolom yang sedikit sudah cukup untuk menghasilkan solusi yang baik.
+Namun, melalui simulasi komunikasi ini, saya menyadari bahwa target tidak selalu membutuhkan fitur baru.
+Target membutuhkan kondisi kerja yang lebih jelas, informasi yang dapat dipercaya, dan proses yang tidak membebani anggota.
+Pembelajaran utama saya adalah bahwa desired state harus dirumuskan berdasarkan value target, bukan berdasarkan solusi yang sudah saya siapkan.
+Saya juga belajar membedakan feature, benefit, value, dan outcome.
+Fitur overview hanya memberikan mekanisme untuk menampilkan informasi.
+Manfaatnya baru dapat dirasakan apabila informasi mudah ditemukan, relevan, dan diperbarui dengan konsisten.
+Karena itu, saya tidak boleh langsung menyimpulkan bahwa dashboard akan meningkatkan produktivitas atau menghemat waktu tanpa evidence.
+Hal lain yang saya pelajari adalah pentingnya hidden concern.
+Pada awalnya, saya menganggap keberatan target terutama berkaitan dengan jumlah kolom yang harus diisi.
+Namun, pertanyaan klarifikasi dalam role-play menunjukkan bahwa persoalan yang lebih mendasar adalah keberadaan dua sumber informasi yang harus diperbarui secara terpisah.
+Jika saya hanya mengurangi kolom input, saya mungkin memperbaiki tampilan solusi tanpa menyelesaikan masalah sebenarnya.
+Oleh karena itu, saya mengadaptasi rancangan dari separate tracker menjadi single-source monitoring concept.
+Perubahan ini mengajarkan bahwa adaptation yang baik dapat menuntut perubahan asumsi dasar solusi, bukan hanya perubahan cara menyampaikan ide.
+Saya juga memahami bahwa risk discussion merupakan bagian penting dari membangun Desire.
+Target dapat menginginkan suatu outcome tetapi tetap memiliki alasan rasional untuk belum menyetujui implementasi.
+Karena itu, saya perlu menetapkan acceptable risk, safeguard, dan evidence threshold sebelum meminta keputusan.
+Sebagai seseorang yang tertarik pada Business Development dan Product Management, pembelajaran ini relevan dengan proses memahami stakeholder, memvalidasi kebutuhan, dan mengembangkan solusi yang benar-benar memberikan value.
+Saya ingin membiasakan diri untuk tidak terlalu cepat mempertahankan solusi hanya karena sudah membuat prototype.
+Ke depan, saya ingin lebih konsisten menggali desired state, mendengarkan concern, dan menggunakan evidence sebagai dasar keputusan.
+14. Penggunaan AI dan Critical Evaluation
+AI Assistance
+AI digunakan untuk:
+Membantu menyusun alternatif pertanyaan untuk menggali desired state.
+Memeriksa apakah rumusan desired state masih terlalu berfokus pada fitur.
+Mengembangkan feature–benefit–value–outcome chain.
+Mengidentifikasi kemungkinan risk dan objection.
+Menguji hubungan antara hidden concern dan adaptation.
+Memeriksa apakah evidence threshold cukup spesifik.
+Mengevaluasi konsistensi state assessment.
+Membantu menyusun refleksi dan self-assessment.
+Critical Evaluation
+Saya tidak menggunakan klaim persentase peningkatan produktivitas atau penghematan waktu karena tidak memiliki data yang mendukung.
+Saya juga tidak menganggap respons positif target sebagai persetujuan implementasi.
+Selain itu, saya tidak mengasumsikan bahwa Google Sheets dapat terintegrasi otomatis dengan chat tanpa pemeriksaan teknis.
+Human Judgment
+Saya menetapkan bahwa reliability dan low administrative burden merupakan bagian penting dari desired state.
+Saya juga mempertahankan kemungkinan bahwa solusi perlu dihentikan apabila tidak dapat menghindari double entry.
+Dengan demikian, AI membantu mengevaluasi logika komunikasi, tetapi tidak menggantikan validasi target atau evidence operasional.
+15. Next Practice
+Practice 1 — Desired-State Discovery
+Melatih pertanyaan terbuka agar target dapat menjelaskan kondisi kerja yang diinginkan dengan bahasanya sendiri.
+Practice 2 — Value-Chain Validation
+Memeriksa setiap hubungan antara feature, benefit, value, dan outcome agar tidak ada klaim yang melampaui evidence.
+Practice 3 — Risk Communication
+Melatih cara membahas risiko, safeguard, dan acceptable risk tanpa membuat target merasa ditekan.
+Practice 4 — Evidence-Based Agreement
+Membedakan persetujuan terhadap desired state, persetujuan melakukan evaluasi, dan persetujuan implementasi.
+Practice 5 — Substantive Adaptation
+Melatih kemampuan mengubah mekanisme solusi ketika hidden concern menunjukkan bahwa asumsi awal belum tepat.
+16. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Current dan desired state dirumuskan melalui dialog co-creation. Value target mengenai clarity, reliability, dan workload diidentifikasi dan dikonfirmasi.
+Objective & State
+4
+Objective Desire eksplisit. State berubah dari Interest with conditions menuju Conditional Desire berdasarkan respons dan batasan yang dapat diamati dalam simulasi.
+Repertoire, Language & AI
+4
+Value chain lengkap, pitch berbasis desired state, risk dan evidence threshold eksplisit, serta penggunaan AI dievaluasi secara kritis.
+Response & Adaptation
+4
+Hidden concern mengenai dua sumber informasi menghasilkan perubahan substantif dari separate tracker menuju single-source monitoring concept.
+Agreement, Action & Relationship
+4
+Agreement memiliki objective, owner, timeline, deliverable, evidence, success criteria, boundary, dan decision point tanpa premature commitment.
+Total Self-Assessment: 20/20 — Target Kompetensi Maksimal.
+Justifikasi Skor per Dimensi
+Person & Character — 4/4
+Saya mengidentifikasi kebutuhan target berdasarkan tanggung jawabnya sebagai koordinator dan menggunakan pertanyaan eksploratif untuk memperoleh rumusan desired state.
+Saya tidak memaksakan asumsi bahwa target membutuhkan tracker baru.
+Saya mengonfirmasi bahwa clarity, reliability, dan low administrative burden merupakan value yang relevan dalam simulasi.
+Objective & State — 4/4
+Saya menetapkan objective utama, secondary objective, minimum acceptable outcome, dan desired outcome.
+Saya juga membedakan Interest with conditions, Emerging Desire, Desire with reservations, dan Conditional Desire berdasarkan respons yang ditampilkan.
+Saya tidak menganggap permintaan walkthrough sebagai persetujuan implementasi.
+Repertoire, Language & AI — 4/4
+Saya menggunakan feature–benefit–value–outcome chain, pitch berbasis value, risk assessment, evidence threshold, dan decision rule.
+Saya menggunakan AI untuk menguji logika komunikasi serta menolak klaim yang belum didukung evidence.
+Response & Adaptation — 4/4
+Saya menggunakan pertanyaan klarifikasi untuk mengidentifikasi hidden concern mengenai double entry.
+Adaptation mengubah mekanisme solusi dari tracker tambahan menjadi single-source monitoring concept.
+Perubahan ini menunjukkan penyesuaian terhadap kebutuhan target, bukan hanya perubahan bahasa.
+Agreement, Action & Relationship — 4/4
+Saya menyusun agreement yang memiliki owner, timeline, deliverable, success criteria, boundary, dan decision point.
+Saya menjaga hubungan dengan target melalui pendekatan kolaboratif dan tidak meminta persetujuan pilot sebelum evidence tersedia.
+Self-Assessment Boundary
+Skor 20/20 merupakan target penilaian atas kelengkapan dan kualitas analisis simulasi. Jika assessor menilai pelaksanaan komunikasi nyata, diperlukan bukti praktik yang berbeda dari skenario tertulis ini.
+PentingKey Learning
+Desire bukan tentang membuat target menyukai fitur yang kita tawarkan. Desire terbentuk ketika komunikator dan target memahami kondisi yang ingin dicapai, menghubungkannya dengan value yang relevan, mengidentifikasi risiko, serta menentukan evidence yang diperlukan sebelum mengambil keputusan. Solusi harus mengikuti desired state, bukan sebaliknya.
+Kembali ke atas
+UTS Performance Evidence Package
+Action & Agreement Challenge
+Portfolio KIPP-2 · Aqila Zahra Athaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://qilooooow.github.io/kipp-students/index.html
+- https://qilooooow.github.io/kipp-students/assets/logo.png
+- https://qilooooow.github.io/kipp-students/course/index.html
+- https://qilooooow.github.io/kipp-students/portfolio/index.html
+- https://qilooooow.github.io/kipp-students/examples/index.html
+- https://qilooooow.github.io/kipp-students/lk/index.html
+- https://qilooooow.github.io/kipp-students/slides.html
+- https://qilooooow.github.io/kipp-students/slides-pdf/index.html
+- https://qilooooow.github.io/kipp-students/assessment/index.html
+- https://qilooooow.github.io/kipp-students/about.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-01.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-02.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-03.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-04.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-05.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-08.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-11.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-12.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-13.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-14.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-15.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#konteks-situasi-dan-continuity-taida
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#latar-belakang
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#continuity-dari-minggu-sebelumnya
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#fokus-minggu-9
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#target-person-character-objective-dan-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#target-person
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#character-dan-value-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#communication-objective
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#current-state-dan-desired-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#current-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#initial-desired-state-hypothesis
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#simulated-co-creation-dialogue
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#desired-state-yang-dikonfirmasi-dalam-simulasi
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#currentdesired-state-gap
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#insight
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#chain-1-centralized-visibility
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#chain-2-data-reliability
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#chain-3-clear-ownership
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#chain-4-single-source-monitoring
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#integrated-value-chain
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-boundary
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#desire-state-communication-pitch
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#communication-strategy
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#pitch-script
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#mengapa-pitch-ini-relevan
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#risk-acceptable-risk-dan-evidence-threshold
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#risk-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#risk-prioritization
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#acceptable-risk
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-threshold
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#decision-rule
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#risk-communication
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#response-dan-hidden-concern
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#simulated-conversation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#response-analysis
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#key-insight
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#adaptation-prototype-v2-ke-v3
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#initial-solution
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#revised-solution
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#beforeafter-comparison
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#adapted-response
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#mengapa-adaptation-ini-substantif
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#demonstration-dan-evidence-scenario
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#scenario-a-new-partner-contact
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#scenario-b-status-change
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#scenario-c-outdated-information
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#illustrative-scenario-table
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#walkthrough-questions
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#final-response-dan-state-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#simulated-response-setelah-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#state-transition
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#final-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#justifikasi
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#agreement-dan-action-plan
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#simulated-agreement
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#action-sequence
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#relationship-management
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-terintegrasi-dan-verifikasi-kompetensi
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-1-current-state-dan-desired-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-2-featurebenefitvalueoutcome-chain
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-3-risk-dan-evidence-threshold
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-4-response-dan-hidden-concern
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-5-substantive-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-6-state-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-7-agreement-dan-action
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-8-traceability-matrix
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#evidence-conclusion
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#refleksi-pribadi
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai-dan-critical-evaluation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#ai-assistance
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#critical-evaluation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#human-judgment
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#next-practice
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#practice-1-desired-state-discovery
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#practice-2-value-chain-validation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#practice-3-risk-communication
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#practice-4-evidence-based-agreement
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#practice-5-substantive-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#justifikasi-skor-per-dimensi
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html#self-assessment-boundary
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

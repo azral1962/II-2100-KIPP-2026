@@ -1,0 +1,185 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 853
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fargudd.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Panduan Detoks Fitur (Bab 07)
+Portfolio Minggu 8 — UTS KIPP
+Portofolio UTS
+Makalah Akademik: MBTI, Komunikasi Efektif, dan Kerangka PASK dalam Pengemasan Solusi Sistem Informasi
+Laporan UTS KIPP - Sesi 1
+Laporan UTS KIPP - Sesi 2a
+Laporan UTS KIPP - Sesi 2b
+Laporan UTS KIPP - Sesi 3a
+Laporan UTS KIPP 2026 — Versi 2.0
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+3. Lembar Kerja Mahasiswa (Template Peta Karakter)
+Bagian A: Peta 5 Domain Kehidupan
+Bagian B: Analisis Kontras Dua Peran Utama
+Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+4. Rubrik Penilaian & Evaluasi Mandiri
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+3. Lembar Kerja Mahasiswa (Template Peta Karakter)
+Nama Mahasiswa: Farrel Garuda Haryono
+Tanggal Pengerjaan: 28 September 2026
+Bagian A: Peta 5 Domain Kehidupan
+Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
+Domain Kehidupan
+Peran yang Saya Ambil
+Siapa yang Saya Jumpai
+Tanggung Jawab Utama Komunikasi
+1. Diri Sendiri
+Mahasiswa STI
+Diri sendiri
+Mengatur fokus jadwal antara kuliah
+2. Keluarga / Sahabat
+Pasanganku
+Pacarku
+Mendengarkan cerita dan memberikan dukungan emosional
+3. Profesional / Akademik
+Anggota tim tugas kelompok
+Rekan kelompok
+Menyepakati pembagian tugas
+4. Komunitas / Kelompok
+Angkatan Mahasiswa
+Teman seangkatan STEI-K 25
+Saling membantu dan mengingatkan satu sama lain mengenai akademik dan kegiatan kampus
+5. Dunia / Publik
+Anggota Komunitas Game
+Pemain game Wuthering Waves
+Berbagi info build karakter kepada anggota lainnya
+Bagian B: Analisis Kontras Dua Peran Utama
+Pilih dua peran dari tabel di atas yang paling kontras atau menantang, lalu uraikan perbedaannya:
+Unsur Komunikasi
+Peran A: Pasanganku
+Peran B: Anggota tim tugas kelompok
+1. Tujuan Tugas & Relasi
+Merawat kedekatan emosional dan saling memahami
+Menyelesaikan modul aplikasi Odoo tepat waktu
+2. Repertoar Utama
+Mendengarkan aktif, empati, dan validasi perasaan
+Diskusi teknis, negosiasi pembagian tugas, presentasi progres
+3. Pilihan Bahasa & Nada
+Santai, hangat, dan intim
+Terstruktur, objektif, dan berfokus pada solusi
+4. Respons yang Harus Dibaca
+Raut wajah, bahasa tubuh, dan nada suara
+Persetujuan target, penyelesaian commit kode, dan tenggat waktu
+5. Tindakan yang Diharapkan
+Pasangan merasa didengarkan dan dihargai
+Proyek perangkat lunak selesai dan berfungsi
+6. Relasi yang Harus Dirawat
+Ikatan romantis jangka panjang
+Kepercayaan profesional dan kerja sama tim
+Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+Jawablah pertanyaan reflektif berikut dengan jujur:
+Nilai Utama: Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari?
+Jawaban: Kejujuran dan kekonsistenan dengan apa yang disampaikan dan apa yang dilakukan.
+Kekuatan Komunikasi: Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini?
+Jawaban: Kekuatan untuk berkata selalu langsung ke intinya tanpa basa-basi yang tidak perlu.
+Pola Hambatan Otomatis: Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman?
+Jawaban: Cenderung menjadi terlalu kaku, kurang sabar mendengarkan proses penjelasan yang panjang, dan terkesan terlalu lugas/to-the-point sehingga bisa dipersepsikan kurang empatik saat situasi sedang tegang.
+Ketegangan Peran & Kepribadian: Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda.
+Jawaban: Saya cenderung berbicara terlalu to-the-point dan fokus pada penyelesaian masalah secara cepat, tetapi peran saya sebagai pasangan / rekan tim menuntut saya untuk lebih meluangkan waktu mendengarkan, memvalidasi perasaan, dan menyajikan tanggapan dengan nada yang lebih hangat.
+Sasaran Pertumbuhan Perilaku Terukur: Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan.
+Sasaran Saya: Ketika lawan bicara (pasangan atau rekan tim) sedang membagikan keluh kesah atau masalah, saya akan menahan diri untuk tidak langsung memotong atau terburu-buru memberikan solusi teknis pada 2 menit pertama. Saya akan mendengarkan sampai selesai dan mengonfirmasi pemahaman saya terlebih dahulu.
+Umpan Balik Jujur: Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini?
+Jawaban: Pasangan
+4. Rubrik Penilaian & Evaluasi Mandiri
+Evaluasi
+Skor
+Catatan Singkat
+Peta Karakter (Minggu 1)
+4 / 4
+Pemetaan 5 domain sangat jelas, analisis kontras dua peran tajam, dan sasaran pertumbuhan terukur nyata
+Total Skor: Tingkat Unggul (Skor 4 / 4).
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fargudd.github.io/kipp-students/index.html
+- https://fargudd.github.io/kipp-students/assets/logo.png
+- https://fargudd.github.io/kipp-students/course/index.html
+- https://fargudd.github.io/kipp-students/portfolio/index.html
+- https://fargudd.github.io/kipp-students/examples/index.html
+- https://fargudd.github.io/kipp-students/lk/index.html
+- https://fargudd.github.io/kipp-students/slides.html
+- https://fargudd.github.io/kipp-students/slides-pdf/index.html
+- https://fargudd.github.io/kipp-students/assessment/index.html
+- https://fargudd.github.io/kipp-students/about.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html
+- https://fargudd.github.io/kipp-students/portfolio/week-03.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html
+- https://fargudd.github.io/kipp-students/portfolio/week-08.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/paper.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_1_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/week-09.html
+- https://fargudd.github.io/kipp-students/portfolio/week-10.html
+- https://fargudd.github.io/kipp-students/portfolio/week-11.html
+- https://fargudd.github.io/kipp-students/portfolio/week-12.html
+- https://fargudd.github.io/kipp-students/portfolio/week-13.html
+- https://fargudd.github.io/kipp-students/portfolio/week-14.html
+- https://fargudd.github.io/kipp-students/portfolio/week-15.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html#lembar-kerja-mahasiswa-template-peta-karakter
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html#bagian-a-peta-5-domain-kehidupan
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html#bagian-b-analisis-kontras-dua-peran-utama
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html#bagian-c-eksplorasi-kepribadian-dan-sasaran-pertumbuhan
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html#rubrik-penilaian-evaluasi-mandiri
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

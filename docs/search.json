@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Asesmen II 2100 KIPP 2026",
     "section": "",
-    "text": "Preface\nThis is a Quarto book. Hasilkan buku Quarto dengan menulis konten di file .qmd dan mengatur buku di file _quarto.yml.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nThis is a Quarto book. Hasilkan buku Quarto dengan menulis konten di file .qmd dan mengatur buku di file _quarto.yml.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\nCheckout {{}}",
     "crumbs": [
       "Preface"
     ]

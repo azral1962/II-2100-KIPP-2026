@@ -1,0 +1,165 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1104
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas.
+Agreement dengan owner/deadline serta bukti action atau review.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 31 Oktober 2026, Evaluasi dan negosiasi action plan di Kantin Utama Kampus.
+Persons dan relationship: Pel (saya, pengembang inisiatif) dan Ibu Kasir (pelaksana kantin). Relasi berada pada fase penyusunan kesepakatan akhir (Agreement) menuju tindakan (Action).
+Objective dan initial state: - Objective: Menjembatani kesenjangan antara keinginan (Desire) Ibu Kasir yang sudah tertarik dengan sistem WA Bot menuju komitmen tindakan nyata (Action) dengan menyepakati SOP uji coba. - Initial state: Ibu Kasir sudah setuju secara prinsip, tetapi saat diajak menentukan tanggal pelaksanaan, ia ragu karena terbentur barrier operasional (takut kehabisan bahan) dan otoritas pemilik kantin.
+Evidence
+Transkrip Negosiasi Jembatan Desire-Action:
+Pel: “Bu, karena Ibu udah oke soal risikonya, gimana kalau kita langsung jalankan sistemnya Senin besok untuk semua menu kantin?” (Proposing Action) Ibu Kasir: “Waduh Neng, kalau semua menu jangan dulu deh. Ibu nggak berani. Soalnya yang nentuin belanja stok harian itu Bapak (Pemilik Kantin). Kalau di WA pada pesen Ikan Bakar terus ternyata di dapur ikannya habis, Ibu yang diomelin mahasiswa sama dimarahin Bapak.” (Barrier & Authority Map terungkap) Pel: “Oh, masuk akal banget Bu. Saya paham Ibu nggak mau ambil risiko dimarahin gara-gara stok dadakan. (Validasi Kepentingan) Kalau gitu, gimana kalau kita batasi aja? Kita pilih 3 menu yang stoknya selalu banyak tiap hari, misalnya Nasi Ayam, Telur, sama Nasi Goreng. Terus bot-nya saya set cuma bisa terima maksimal 15 pesanan aja. Biar aman. Setuju?” (Trade-off & Option) Ibu Kasir: “Nah, kalau cuma ayam sama telur sih aman, pasti ada terus stoknya. Kuota 15 porsi juga Ibu masih bisa kepegang.” Pel: “Oke, deal ya Bu! Berarti tugas saya besok nyetel bot WA-nya buat 3 menu itu sama nyari 15 anak kelas buat testing. Tugas Ibu besok Senin pagi tinggal sediain papan tulis kecil aja buat nyalin order-an di deket etalase. Senin jam 10 pagi saya ke sini buat cek ya Bu.” (Explicit Agreement, Owner, & Deadline) Ibu Kasir: “Sip Neng, diatur aja.”
+Bukti Tindakan (Action Review 2 November 2026): Pelangi berhasil mendemonstrasikan sistem yang menolak pesanan ke-16 secara otomatis. Ibu Kasir telah menyediakan papan tulis dan menyalin rekap dari bot, proses berjalan tanpa kepanikan di jam 12:00 siang.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya tidak memaksakan posisi sebagai ‘pengembang yang menuntut kesempurnaan produk’, melainkan sebagai negosiator yang peka terhadap rantai komando (Bapak Pemilik Kantin).
+Objective & state
+Kesenjangan (gap) antara sekadar mau (Desire) menuju benar-benar berani bertindak (Action) sukses dijembatani melalui kompromi risiko.
+Repertoire & language
+Beralih dari penggunaan bahasa bujukan ke bahasa manajerial proyek yang lugas: memecah belah tugas (tugas saya A, tugas ibu B, tenggat waktu C).
+Response & adaptation
+Saat Ibu Kasir mengungkap authority barrier (takut pada Pemilik Kantin dan stok habis), saya segera mengadaptasi target proyek (trade-off ke 3 menu, kuota 15).
+Agreement/action
+Tercapai rumusan Who, What, When yang eksplisit dan dipatuhi oleh kedua belah pihak di hari Senin.
+Relationship outcome
+Ibu Kasir merasa aman bermitra dengan saya karena saya tidak mendorongnya mengambil keputusan yang membahayakan otoritas pekerjaannya.
+Penggunaan AI
+Tidak menggunakan AI untuk proses pembentukan gagasan. Percakapan, rumusan trade-off (pembatasan 15 kuota porsi), dan strategi negosiasi murni berasal dari keterampilan merespons keluhan mitra kerja (human-in-the-loop).
+Feedback dan tindak lanjut
+Feedback yang diterima: Pelaksana lapangan sangat menghargai ketika target uji coba diturunkan (hanya 3 menu). Konfirmasi verbal, “Nah, kalau cuma ayam sama telur sih aman,” membuktikan bahwa solusi yang feasible (bisa dijalankan) jauh lebih bernilai ketimbang solusi yang canggih namun menakutkan secara operasional.
+Adaptation/replay: Mengurangi cakupan proyek (scope reduction) secara drastis dari “digitalisasi seluruh menu” menjadi sekadar “uji coba 3 menu pasti” untuk membypass birokrasi perizinan kepada pemilik kantin.
+Next practice: Saya akan membiasakan diri untuk selalu membawa 2 opsi cadangan (trade-off options) sebelum meminta orang lain menyetujui tenggat waktu (deadline) pelaksanaan proyek.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Menahan ego teknis dan berfokus merumuskan solusi yang aman bagi hierarki mitra.
+Objective & State
+4
+Membimbing mitra melampaui keraguan hingga tercipta aksi kolaboratif nyata.
+Repertoire, Language & AI
+4
+Menggunakan Agreement Formula yang jelas memisahkan owner dan deadline.
+Response & Adaptation
+4
+Cepat menangkap hambatan struktural (barrier) dan merancang trade-off limitasi kuota.
+Agreement, Action & Relationship
+4
+Eksekusi nyata terbukti pada Action Review tanpa mencederai kepercayaan mitra.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-10.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

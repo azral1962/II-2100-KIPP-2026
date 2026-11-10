@@ -1,0 +1,232 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1075
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Intra-Self Communication Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Attention evidence dan solution hypothesis
+Pitch dan demonstration
+Response, hidden concern, dan adaptation
+Evidence, AI, dan feedback
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Attention evidence dan solution hypothesis
+Evidence Attention dari Minggu 6: rundown acara yang sama tersebar di dua Drive, sekitar tiga anggota divisi dokumentasi terdampak, dan plotting molor dua hari. Kadiv acara sudah mengakui masalahnya dan merapikan rundown.
+Solution hypothesis: satu dokumen rundown terpusat dan satu jalur komunikasi untuk perubahannya dapat mencegah miskomunikasi antara divisi acara dan divisi dokumentasi.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Rundown tersebar di dua tempat
+Satu dokumen terpusat
+Semua pihak merujuk ke versi yang sama
+Miskom berkurang (disebut sendiri oleh kadiv acara)
+Informasi mengalir lewat banyak jalur
+Satu jalur komunikasi
+Perubahan rundown sampai lewat jalur yang sama
+Alur mengurus dokumen di timnya lebih tertata
+Pitch dan demonstration
+Rekonstruksi percakapan (ditulis ulang dari ingatan, bukan rekaman atau salinan chat asli)
+Pembicara
+Ucapan
+Aku
+“Bro, aku minta tolong dong. Timku bingung nyesuaiin plotingannya soalnya nggak nemu rundown, susah banget.”
+Kadiv acara
+“Oh ya, sebenernya rundown di dua tempat itu emang nyusahin. Harusnya aku jadiin satu aja supaya nggak ada miskom.”
+Tidak ada demonstrasi visual. Rundown bersifat confidential, sehingga isinya tidak ditampilkan di portofolio, dan mekanismenya disampaikan lisan. Pitch ini belum memakai angka evidence (dua Drive, tiga orang, molor dua hari) secara eksplisit.
+Response, hidden concern, dan adaptation
+Kadiv acara tidak hanya menerima permintaan. Ia menghubungkan masalah dengan penyebabnya (rundown di dua tempat) dan menyebut solusinya sendiri: menjadikannya satu supaya tidak ada miskomunikasi. Tidak ada concern atau keberatan yang muncul, sehingga tidak ada hidden concern yang ditemukan.
+State berpindah dari Attention (Minggu 6) menjadi Interest: ia menunjukkan ketertarikan pada solusi dan menyebut manfaatnya sendiri. Hasil akhirnya, ia akan mengubah cara kerja timnya, khususnya dalam mengurus dokumen. Ini komitmen lisan; belum ada bukti bahwa perubahan itu sudah berjalan.
+Adaptasi: aku mengarahkan percakapan dari sekadar mencari rundown ke perubahan alur, yaitu satu jalur komunikasi dan satu dokumen terpusat.
+Evidence, AI, dan feedback
+Rekonstruksi percakapan di atas sebagai pengganti rekaman.
+Agreement: kadiv acara akan mengubah cara kerja timnya dalam mengurus dokumen.
+AI (Claude) digunakan untuk membantu menyusun struktur dokumen ini dari cerita yang kuberikan. Percakapan, respons target, dan angka berasal dari pengalamanku sendiri; AI tidak digunakan untuk membuat data.
+Privacy: transkrip hanya menyebut peran (kadiv acara), tanpa nama dan data pribadi. Isi rundown tidak ditampilkan karena confidential.
+Authority: percakapan terjadi dalam peran masing-masing di kepanitiaan KSEP, dan permintaanku sebatas alur dokumen yang menjadi tanggung jawab divisi acara.
+Kontribusi individual: pitch, percakapan, dan analisis ini adalah pekerjaanku sendiri sebagai kadiv dokumentasi.
+Next practice: menyebut evidence secara eksplisit di pitch, dan menanyakan concern lebih dulu sebelum menjelaskan solusi.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Value target dikenali: ia peduli pada miskom antar divisi
+Objective & State
+3
+Attention dibedakan dari Interest, state target dinilai sebelum dan sesudah
+Repertoire, Language & AI
+2
+Gaya santai sesuai hubungan sebaya; belum ada demonstrasi atau evidence eksplisit di pitch
+Response & Adaptation
+3
+Respons target dibaca dan percakapan diarahkan ke perubahan alur; tidak ada concern yang perlu diatasi
+Agreement, Action & Relationship
+3
+Target berkomitmen mengubah cara kerja timnya; belum ada bukti pelaksanaan
+Total: 14/20.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Maximillian Jose Andreas Aditjandra
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#quarto-document-content
+- https://ilovecomputer-python.github.io/kipp-students/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assets/logo.png
+- https://ilovecomputer-python.github.io/kipp-students/course/index.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/index.html
+- https://ilovecomputer-python.github.io/kipp-students/examples/index.html
+- https://ilovecomputer-python.github.io/kipp-students/lk/index.html
+- https://ilovecomputer-python.github.io/kipp-students/slides.html
+- https://ilovecomputer-python.github.io/kipp-students/slides-pdf/index.html
+- https://ilovecomputer-python.github.io/kipp-students/assessment/index.html
+- https://ilovecomputer-python.github.io/kipp-students/about.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-01.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-02.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-03.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-04.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-05.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-06.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-08.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-09.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-10.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-11.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-12.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-13.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-14.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-15.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/UAS/index.html
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#pitch-dan-demonstration
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#response-hidden-concern-dan-adaptation
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#evidence-ai-dan-feedback
+- https://ilovecomputer-python.github.io/kipp-students/portfolio/week-07.html#self-assessment-1
+- https://ilovecomputer-python.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

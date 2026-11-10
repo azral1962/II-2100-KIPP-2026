@@ -1,0 +1,139 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 957
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://aduadu17.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Core meaning
+Evidence understanding
+Analisis dan batas
+Self-assessment
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Core meaning
+Fakta utama yang tidak boleh berubah: Pemeliharaan rutin server LMS (Learning Management System) kampus dilakukan pada hari Sabtu pukul 20.00–23.00 WIB. Selama periode tersebut, layanan pengumpulan tugas dan kuis di-nonaktifkan sementara. Pengguna disarankan menyelesaikan pengunggahan sebelum pukul 20.00 WIB. Layanan bantuan tersedia melalui Helpdesk IT Kampus.
+Target / character
+Versi language
+Alasan adaptasi
+Friend
+“Eh, Sabtu malam jam 8 sampai 11 LMS kampus mau ada maintenance server. Kalau ada tugas yang deadline-nya Sabtu malam, mending lu submit sebelum jam 8 deh biar nggak kerepotan.”
+Bahasa santai, ramah, dan langsung memberikan saran tindakan praktis.
+Technical peer
+“Scheduled downtime server LMS Sabtu pukul 20.00–23.00 WIB untuk pemeliharaan rutin database dan security patch. Akses HTTP/API kuis dan submission ditutup sementara selama window maintenance.”
+Menggunakan istilah teknis (downtime, security patch, window maintenance) agar jelas bagi sesama pengembang/admin.
+Manager / Dosen
+“Sehubungan dengan pemeliharaan rutin server LMS pada Sabtu pukul 20.00–23.00 WIB, fasilitas pengumpulan tugas akan nonaktif sementara. Kami mengusulkan penyesuaian batas akhir kuis menjadi pukul 23.59 agar tidak merugikan mahasiswa.”
+Berfokus pada dampak operasional, mitigasi risiko, dan usulan tindakan penetapan keputusan.
+Customer / Student user
+“Layanan LMS kampus tidak dapat diakses sementara pada Sabtu pukul 20.00–23.00 WIB karena pemeliharaan sistem. Mohon unggah tugas Anda sebelum pukul 20.00 WIB. Jika mengalami kendala, silakan hubungi Helpdesk IT.”
+Bahasa informatif, jelas, langsung mengarahkan instruksi langkah aksi pengguna (call-to-action) tanpa istilah teknis yang rumit.
+Public
+“Pengumuman: Layanan LMS Kampus akan mengalami pemeliharaan sistem pada Sabtu pukul 20.00–23.00 WIB. Mohon maaf atas ketidaknyamanannya dan silakan rencanakan aktivitas belajar Anda.”
+Bahasa formal, padat, cocok untuk kanal umum/media sosial tanpa membagikan rincian teknis internal.
+Evidence understanding
+Saya menguji versi Customer / Student user kepada satu kawan mahasiswa tanpa memberikan penjelasan awal.
+Tanggapan awal: Kawan memahami bahwa LMS akan mati di Sabtu malam jam 20.00–23.00 WIB dan tahu harus mengunggah tugas sebelum jam 20.00 WIB.
+Pertanyaan kawan: “Kalau kuis yang sedang dikerjakan tepat jam 20.00 gimana, apakah tersimpan otomatis?”
+Penyesuaian kalimat: Berdasarkan masukan tersebut, saya memperbarui kalimat menjadi: “Mohon unggah tugas dan simpan kuis Anda sebelum pukul 20.00 WIB agar draf jawaban tidak hilang.” Perubahan ini memperjelas antisipasi risiko tanpa mengubah fakta inti.
+Analisis dan batas
+Variasi gaya bahasa disesuaikan dengan kebutuhan dan konteks audiens. Penggunaan bahasa yang terlalu teknis kepada mahasiswa umum justru berisiko membingungkan, sedangkan penyampaian yang terlalu santai kepada dosen terkesan tidak profesional.
+Penggunaan AI: AI digunakan untuk melakukan verifikasi konsistensi fakta (fact-checking) di kelima versi kalimat. AI memastikan tanggal, durasi, dan instruksi utama tidak menyimpang. Tautan/fakta tambahan dari AI yang tidak didukung data resmi langsung dihapus.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Lima target dipetakan sesuai karakteristik dan tingkat kejelasan yang dibutuhkan
+Objective & State
+3
+Informasi inti dan pesan instruksi tetap konsisten di semua versi
+Repertoire, Language & AI
+4
+Lima adaptasi bahasa disertai alasan kuat dan kontrol AI yang jelas
+Response & Adaptation
+3
+Pertanyaan uji coba audiens menghasilkan klarifikasi pada instruksi kuis
+Agreement, Action & Relationship
+3
+Instruksi tenggat waktu dan saluran bantuan dinyatakan dengan tegas
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Relationship Conversation
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Ragawa Bhramastya Aquila Saksono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://aduadu17.github.io/kipp-students/index.html
+- https://aduadu17.github.io/kipp-students/assets/logo.png
+- https://aduadu17.github.io/kipp-students/course/index.html
+- https://aduadu17.github.io/kipp-students/portfolio/index.html
+- https://aduadu17.github.io/kipp-students/examples/index.html
+- https://aduadu17.github.io/kipp-students/lk/index.html
+- https://aduadu17.github.io/kipp-students/slides.html
+- https://aduadu17.github.io/kipp-students/slides-pdf/index.html
+- https://aduadu17.github.io/kipp-students/assessment/index.html
+- https://aduadu17.github.io/kipp-students/about.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-03.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-05.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-08.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-09.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-10.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-11.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-12.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-13.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-14.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-15.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html#evidence-understanding
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

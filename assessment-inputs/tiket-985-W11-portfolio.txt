@@ -1,0 +1,293 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 985
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Week 9 - Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Week 12 — Community Communication Challenge
+Week 13 — Public Contribution Challenge
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+Capstone Performance Portfolio
+Di halaman ini
+Multi-Person Negotiation Challenge
+1. Konteks Kegiatan
+2. Evidence
+3. Stakeholder Person Map
+4. Objective and Multi-State TAIDA
+Target state
+Initial state
+Perubahan state dalam proses analisis
+5. Position–Interest Analysis
+6. Negotiation Process, Common Ground, and Options
+Proses komunikasi
+Common ground
+Options and trade-offs
+7. Agreement, Dissent, and Action
+8. Relationship Outcome
+9. Feedback and Adaptation
+10. Penggunaan AI
+11. Self-Assessment
+Refleksi
+12. Assessment Dosen
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Memetakan stakeholder, kepentingan, kendala, alternatif solusi, serta hasil diskusi mengenai sistem informasi antrean kantin.
+Multi-Person Negotiation Challenge
+1. Konteks Kegiatan
+Kegiatan ini berlangsung pada Oktober 2026 dalam konteks aktivitas kampus. Saya menggali pengalaman teman yang pernah mengantre di kantin untuk memahami masalah yang dihadapi pembeli, terutama antrean panjang, ketidakpastian waktu tunggu, dan kurangnya informasi mengenai perkembangan pesanan. Setelah wawancara, saya melanjutkan pembahasan dengan teman lain untuk mempertimbangkan fitur dan kelayakan solusi.
+Tujuan kegiatan adalah merumuskan solusi yang dapat membantu pembeli mengetahui status pesanan dan memperkirakan waktu tunggu tanpa menambah beban kerja penjual secara berlebihan. Kegiatan ini merupakan proses penggalian kebutuhan dan diskusi solusi, bukan negosiasi formal yang melibatkan seluruh stakeholder.
+2. Evidence
+Evidence yang relevan meliputi catatan atau transkrip wawancara, dokumen analisis kebutuhan pengguna, dan hasil perumusan alternatif solusi. Saya berkontribusi dengan menggali masalah, mengelompokkan kebutuhan pengguna, membandingkan alternatif, dan menyusun analisis risiko.
+Catatan wawancara digunakan untuk menjelaskan perspektif pembeli. Analisis mengenai penjual dan pengelola kantin merupakan pertimbangan desain, bukan hasil wawancara langsung dengan mereka. Rancangan solusi juga belum menjadi bukti bahwa sistem telah diterapkan atau diuji.
+3. Stakeholder Person Map
+Stakeholder
+Position
+Interest / Constraint
+Authority
+State berdasarkan evidence
+Saya
+Mengusulkan sistem informasi pesanan
+Ingin menyelesaikan masalah pengguna dengan solusi yang realistis
+Menyusun analisis dan rancangan dalam lingkup pekerjaan saya
+Pemahaman berkembang dari status pesanan menuju status, estimasi, dan pembaruan informasi
+Teman yang diwawancarai
+Menilai status dan estimasi waktu berguna bagi pembeli
+Mengurangi ketidakpastian dan mengatur waktu sebelum kelas
+Memberi masukan berdasarkan pengalaman pengguna
+Menjelaskan manfaat status dan estimasi serta pentingnya pembaruan
+Teman diskusi
+Memberikan perspektif tambahan tentang fitur dan kelayakan
+Mengupayakan solusi yang relevan dan sederhana
+Memberi masukan; kewenangan implementasi tidak diketahui
+Terlibat dalam pertukaran pendapat tentang fitur dan kelayakan
+Penjual kantin
+Belum dikonfirmasi secara langsung
+Secara potensial perlu menjaga pelayanan dan menghindari input tambahan yang berlebihan
+Kemungkinan berperan dalam operasional; kewenangan formal belum diverifikasi
+Belum diketahui karena belum diwawancarai
+Pengelola kantin
+Belum dikonfirmasi secara langsung
+Secara potensial perlu mempertimbangkan kelancaran operasional
+Kewenangan formal belum diverifikasi
+Belum diketahui karena belum diwawancarai
+4. Objective and Multi-State TAIDA
+Target state
+Pembeli memperoleh informasi status pesanan dan perkiraan waktu tunggu yang mudah dipahami. Informasi tersebut membantu pembeli menentukan kapan harus mengambil pesanan atau mengatur kegiatan lain.
+Initial state
+Pembeli dapat mengalami antrean panjang dan ketidakpastian waktu penyelesaian pesanan. Untuk mengetahui perkembangan pesanan, pembeli terkadang harus menunggu atau bertanya langsung kepada penjual. Pada tahap awal, fitur dan mekanisme solusi belum dirumuskan secara terperinci.
+Perubahan state dalam proses analisis
+Tahap
+State / temuan
+Implikasi
+Memahami masalah
+Ketidakpastian waktu tunggu dan status pesanan menjadi masalah utama
+Kebutuhan perlu digali sebelum memilih teknologi
+Mengidentifikasi kebutuhan
+Status pesanan membantu pembeli mengetahui perkembangan pesanan
+Status dipertimbangkan sebagai fitur dasar
+Memperoleh masukan
+Estimasi berguna meskipun dapat berubah, selama masuk akal dan diperbarui
+Estimasi perlu diperlakukan sebagai perkiraan, bukan jaminan
+Menganalisis kendala
+Sistem perlu mempertimbangkan beban kerja penjual dan kemudahan penggunaan
+Kompleksitas fitur perlu dibatasi
+Merumuskan opsi
+Status, estimasi, website, aplikasi, dan papan informasi dipertimbangkan
+Platform belum diputuskan melalui uji implementasi
+Perubahan yang dapat saya pastikan adalah perkembangan pemahaman dan rumusan solusi saya. State penjual, pengelola kantin, serta pihak kampus belum dapat dipetakan secara pasti karena belum ada konfirmasi langsung dari mereka.
+5. Position–Interest Analysis
+Posisi adalah pendapat atau solusi yang dinyatakan, sedangkan interest adalah kebutuhan atau alasan yang mendasarinya.
+Pihak
+Position
+Interest
+Potensi trade-off
+Pembeli
+Membutuhkan status pesanan dan estimasi waktu
+Kepastian informasi dan pengelolaan waktu
+Informasi lebih lengkap harus tetap mudah dipahami dan cukup akurat
+Saya sebagai perancang
+Mengusulkan sistem informasi pesanan
+Solusi yang relevan dengan kebutuhan dan realistis diterapkan
+Fitur bermanfaat perlu diseimbangkan dengan kompleksitas
+Teman diskusi
+Memberikan masukan tentang fitur dan kelayakan
+Solusi yang praktis dan sesuai konteks
+Kelengkapan fitur dibandingkan kemudahan penerapan
+Penjual, sebagai stakeholder yang perlu dilibatkan
+Posisi aktual belum diketahui
+Potensi kebutuhan menjaga kelancaran pelayanan dan membatasi beban input
+Informasi yang lebih rinci mungkin membutuhkan proses pembaruan tambahan
+Pengelola kantin, sebagai stakeholder yang perlu dilibatkan
+Posisi aktual belum diketahui
+Potensi kebutuhan menjaga konsistensi operasional
+Penerapan sistem mungkin membutuhkan persetujuan dan penyesuaian proses
+Analisis untuk penjual dan pengelola adalah hipotesis yang perlu diuji melalui komunikasi langsung, bukan pendapat yang boleh dianggap telah mereka nyatakan.
+6. Negotiation Process, Common Ground, and Options
+Proses komunikasi
+Saya menanyakan kesulitan yang dialami ketika mengantre, manfaat informasi status pesanan, kebutuhan estimasi waktu tunggu, dan tanggapan jika estimasi berubah ketika kantin ramai. Dari diskusi, saya memahami bahwa status dapat mengurangi kebutuhan pembeli untuk bertanya berulang kali. Estimasi membantu pembeli mengatur waktu, tetapi perlu masuk akal dan diperbarui saat kondisi berubah.
+Common ground
+Titik temu yang muncul dari pembahasan adalah informasi pesanan harus berguna, mudah dipahami, dan membantu pembeli mengambil keputusan selama menunggu. Status menjelaskan perkembangan pesanan, sedangkan estimasi memberi gambaran waktu. Keduanya perlu dipertimbangkan bersama dengan keterbatasan akurasi dan kemudahan penggunaan.
+Titik temu ini berasal dari pembahasan mengenai kebutuhan pengguna. Belum ada bukti bahwa seluruh stakeholder, khususnya penjual dan pengelola kantin, telah menyetujui tujuan tersebut.
+Options and trade-offs
+Opsi
+Manfaat
+Risiko atau trade-off
+Status
+Status pesanan
+Memberi informasi perkembangan pesanan
+Membutuhkan pembaruan status yang konsisten
+Diprioritaskan sebagai fitur dasar
+Estimasi waktu tunggu
+Membantu pembeli mengatur waktu
+Estimasi dapat meleset jika kondisi berubah
+Dipertimbangkan sebagai fitur pendukung yang perlu diperbarui
+Website sederhana
+Dapat diakses melalui ponsel tanpa instalasi aplikasi
+Tetap membutuhkan mekanisme pembaruan data dan evaluasi kemudahan penggunaan
+Alternatif yang dianalisis, belum diuji
+Aplikasi khusus
+Dapat menyediakan fungsi lebih lengkap
+Instalasi dan pengembangan berpotensi menambah hambatan
+Alternatif yang dipertimbangkan
+Papan informasi
+Bisa terlihat langsung di area kantin
+Pembeli perlu berada dekat papan dan informasi harus diperbarui
+Alternatif yang dipertimbangkan
+Rumusan solusi yang dihasilkan adalah status pesanan sebagai fitur dasar dan estimasi waktu tunggu sebagai fitur pendukung. Website sederhana merupakan alternatif platform yang layak dikaji lebih lanjut, tetapi belum ditetapkan sebagai keputusan implementasi final.
+7. Agreement, Dissent, and Action
+Hasil pembahasan menghasilkan arah solusi yang lebih terfokus: status pesanan sebagai fitur dasar, estimasi waktu tunggu sebagai fitur pendukung, dan perhatian terhadap pembaruan informasi serta kemudahan penggunaan.
+Tidak ada perbedaan pendapat mendasar yang saya ketahui mengenai manfaat informasi status dan estimasi dalam diskusi yang berlangsung. Namun, ini tidak berarti seluruh stakeholder telah menyepakati rancangan. Pilihan platform, mekanisme operasional, pembagian tanggung jawab, dan persetujuan penjual atau pengelola masih belum terkonfirmasi.
+Tindak lanjut yang saya tetapkan dalam pengembangan ide adalah:
+Merapikan kebutuhan pengguna berdasarkan catatan wawancara.
+Merumuskan fitur utama dan pendukung.
+Mengidentifikasi risiko estimasi yang tidak akurat, status yang tidak diperbarui, dan beban kerja penjual.
+Menyusun rancangan sederhana untuk ditinjau lebih lanjut.
+Memvalidasi asumsi operasional melalui diskusi dengan penjual atau pengelola sebelum menganggap solusi layak diterapkan.
+Langkah tersebut merupakan rencana kerja dalam pengembangan ide, bukan bukti bahwa kesepakatan multipihak atau implementasi sistem telah terjadi.
+8. Relationship Outcome
+Diskusi membantu saya menjaga komunikasi terbuka dengan memberi ruang kepada teman untuk menjelaskan pengalaman dan pandangannya. Pembahasan menjadi lebih terarah karena saya tidak hanya menawarkan teknologi, tetapi juga menghubungkan fitur dengan kebutuhan pengguna dan risiko penerapan.
+Dampak hubungan yang dapat saya simpulkan terbatas pada proses diskusi dengan teman. Saya belum dapat menilai respons atau kualitas hubungan dengan penjual dan pengelola karena belum berkomunikasi langsung dengan mereka mengenai rancangan ini.
+9. Feedback and Adaptation
+Masukan yang saya terima adalah estimasi waktu tunggu tetap berguna walaupun dapat berubah saat kantin ramai, asalkan perkiraannya masuk akal dan diperbarui ketika kondisi berubah.
+Masukan tersebut mengubah fokus analisis saya. Saya tidak lagi memandang solusi hanya sebagai penambahan status pesanan, tetapi juga mempertimbangkan estimasi, pembaruan informasi, kemudahan penggunaan, dan beban kerja operasional. Langkah berikutnya adalah menguji asumsi tentang kebutuhan penjual dan menilai apakah pembaruan informasi dapat dilakukan tanpa mengganggu pelayanan.
+10. Penggunaan AI
+Saya menggunakan AI setelah kegiatan untuk membantu mengelompokkan kebutuhan pengguna, membandingkan alternatif solusi, merapikan analisis, dan menyusun refleksi. Instruksi yang digunakan berfokus pada penyusunan analisis proyek antrean kantin berdasarkan informasi yang telah saya berikan.
+Saya meninjau kembali hasil AI agar sesuai dengan konteks proyek dan membedakan informasi yang berasal dari diskusi dengan asumsi yang masih perlu diverifikasi. AI membantu pengorganisasian ide dan penulisan, tetapi tidak menggantikan wawancara, tidak membuktikan persetujuan stakeholder, dan tidak menjadi bukti bahwa sistem telah diterapkan. Penilaian mengenai kebutuhan pengguna, kelayakan operasional, serta kewenangan implementasi tetap memerlukan verifikasi manusia.
+11. Self-Assessment
+Dimensi
+Skor
+Evidence dan refleksi
+Person & Character
+3/4
+Berusaha memahami perspektif pengguna dan mempertimbangkan kebutuhan operasional, tetapi belum mewawancarai semua stakeholder secara langsung.
+Objective & State
+3/4
+Mampu menjelaskan kondisi awal, tujuan pengguna, dan perkembangan pemahaman selama analisis.
+Repertoire, Language & AI
+3/4
+Menggunakan pertanyaan untuk menggali kebutuhan, membandingkan alternatif, dan memakai AI untuk menyusun analisis dengan pemeriksaan ulang.
+Response & Adaptation
+3/4
+Mempertimbangkan masukan mengenai perubahan estimasi dan memperluas analisis ke pembaruan informasi serta beban kerja.
+Agreement, Action & Relationship
+2/4
+Sudah merumuskan arah solusi dan tindak lanjut pribadi, tetapi bukti kesepakatan multipihak, pembagian tugas bersama, dan implementasi masih terbatas.
+Total self-assessment: 14/20
+Refleksi
+Saya belajar bahwa negosiasi bukan hanya tentang meyakinkan orang lain terhadap solusi yang saya tawarkan, tetapi juga memahami kepentingan, kebutuhan, dan keterbatasan setiap pihak. Dalam proyek antrean kantin, saya memahami bahwa fitur yang bermanfaat bagi pembeli belum tentu mudah diterapkan jika tidak mempertimbangkan proses kerja penjual. Karena itu, solusi perlu menyeimbangkan manfaat, kemudahan penggunaan, dan risiko operasional.
+Saya juga belajar bahwa masukan pengguna dapat mengubah cara saya merumuskan masalah. Awalnya, saya lebih berfokus pada status pesanan, tetapi kemudian menyadari bahwa estimasi waktu dan pembaruan informasi juga penting. Ke depannya, saya ingin meningkatkan kemampuan memetakan wewenang stakeholder, menguji asumsi melalui observasi langsung, dan memastikan kesepakatan memiliki indikator keberhasilan yang jelas. Dengan demikian, hasil negosiasi tidak hanya menghasilkan ide, tetapi juga dapat diterjemahkan menjadi tindakan dan dievaluasi berdasarkan bukti nyata.
+12. Assessment Dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Action & Agreement Challenge
+Week 12 — Community Communication Challenge
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#multi-person-negotiation-challenge
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#konteks-kegiatan
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#evidence
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#stakeholder-person-map
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#objective-and-multi-state-taida
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#target-state
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#initial-state
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#perubahan-state-dalam-proses-analisis
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#positioninterest-analysis
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#negotiation-process-common-ground-and-options
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#proses-komunikasi
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#common-ground
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#options-and-trade-offs
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#agreement-dissent-and-action
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#relationship-outcome
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#feedback-and-adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#self-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#refleksi
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

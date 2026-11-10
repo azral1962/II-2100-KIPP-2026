@@ -1,0 +1,182 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1013
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Target map
+Problem pitch dan dasar evidence
+Respons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off, Repair, & Otoritas Bersama)
+Analisis komunikasi
+Penggunaan AI (Perumusan Opsi Trade-off)
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, transkrip percakapan lanjutan, pengelolaan trade-off, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan dan pembagian otoritas.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, transkrip percakapan lanjutan, pengelolaan trade-off/repair, pembagian otoritas, dan adaptation aktual.
+Konteks performance
+Tanggal dan setting: Diskusi tatap muka dengan narasumber (teman anggota kelompok) di selasar kampus. Kami membahas pengalamannya mengerjakan tugas besar kelompok pada semester 2, khususnya dinamika menjelang malam tenggat pukul 23.59.
+Persons dan relationship: Target adalah teman yang mengalami persoalan tersebut sebagai anggota kelompok. Saya menyamarkan identitasnya dan menyebut anggota kelompok yang ia ceritakan dengan inisial M.
+Objective dan initial state: Menguji apakah kepastian progres anggota sejak awal relevan bagi teman saya serta merumuskan mekanisme trade-off dan repair jika kesepakatan awal meleset.
+Evidence
+Target map
+Person dan situasi
+Relevansi dan kemungkinan pengaruh
+State yang diketahui
+Keputusan
+Teman saya, anggota kelompok yang menceritakan kejadian
+Mengalami dampak langsung kurangnya kepastian progres dan dapat menjelaskan apa yang paling mengganggunya.
+Sudah menyadari masalah (problem aware) dan bersedia membicarakannya.
+Target yang saya ajak bicara, karena ia mengalami persoalan langsung.
+M, anggota yang baru merespons pada malam tenggat
+Dapat menjelaskan progres, namun belum diajak bicara langsung.
+Tidak diketahui.
+Bukan target pitch ini.
+Problem pitch dan dasar evidence
+“Pada tugas besarmu semester dua, M baru merespons pada malam hari sekitar jam 20, padahal tenggat pukul 23.59. Kelompokmu tidak sempat memeriksa bagiannya, dan menurutmu kualitas tugas menurun. Apakah kepastian progres anggota sejak awal akan membantu?”
+Respons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off, Repair, & Otoritas Bersama)
+Respons awal narasumber: “Kepastian sejak awal tentu penting, tetapi hasilnya tetap bergantung pada kepedulian masing-masing individu terhadap tugas kelompok.”
+Transkrip percakapan lanjutan (mengeksplorasi kesepakatan, trade-off, dan mekanisme repair): > Saya: “Kemarin kamu sempat bilang kalau kepastian progres saja tidak cukup tanpa kepedulian individu. Kalau begitu, kesepakatan awal seperti apa yang bisa membuat tiap anggota merasa memiliki tanggung jawab bersama sejak hari pertama tugas?”
+> Target: “Hmm… Sebenarnya kalau dari awal kita sepakat buat isi progress bar sederhana atau nulis checklist mingguan tanpa harus saling tunggu ditagih, mungkin rasanya lebih enak. Jadi tiap orang tahu bagiannya tanpa perlu ditagih pas mau deadline.”
+> Saya: “Bagaimana jika di tengah jalan ada anggota yang mendadak terkendala dan gagal memenuhi checkpoint mingguan tersebut? Apakah sistem ini fleksibel menghadapi hambatan mendadak?”
+> Target: “Nah, kalau itu terjadi, harus ada mekanisme repair cepat—misalnya notifikasi otomatis atau opsi realokasi tugas ringan ke anggota lain tanpa harus menunggu sidang kelompok malam-malam.”
+> Saya: “Agar tidak terkesan inisiatif satu pihak saja atau merasa diatur oleh satu ‘ketua’, siapa yang memegang otoritas untuk mengeksekusi realokasi tugas tersebut?”
+> Target: “Otoritasnya harus berbasis persetujuan kolektif di grup. Siapa pun yang mengalami kendala berhak mengajukan flagging bantuan, lalu anggota lain yang senggang bisa mengambil alih secara sukarela.”
+> Saya: “Berarti bentuk nyatanya berupa aturan transparan, pembagian checkpoint kecil, protokol repair darurat, serta pembagian otoritas yang seimbang ya?”
+> Target: “Betul, setidaknya ada kejelasan posisi tugas masing-masing dan jalur penyelamatan saat kendala muncul tanpa harus jadi polisi buat teman sendiri.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Memilih teman yang mengalami dampak langsung dan bersedia bercerita tanpa berasumsi sepihak.
+Objective & State
+Target berpindah dari problem aware ke Attention yang dikonfirmasi melalui dialog adaptif.
+Repertoire & Language
+Menggunakan pertanyaan periksa yang netral serta menguji mekanisme trade-off dan repair.
+Response & Adaptation
+Memanfaatkan catatan korektif narasumber untuk memperkuat protokol darurat (repair) dan pembagian otoritas kolektif dalam alur kolaborasi.
+Agreement/action
+Tercapai pengakuan relevansi isu serta kesepakatan instrumen transparan bersama.
+Penggunaan AI (Perumusan Opsi Trade-off)
+AI tidak hanya digunakan sebagai cermin refleksi, melainkan dimanfaatkan secara proporsional untuk memetakan dan merumuskan skenario opsi trade-off sebelum percakapan dilakukan: 1. Penyusunan Simulasi Risiko: Menggunakan prompt AI untuk membandingkan 3 skenario penanganan anggota yang terlambat (strict penalty, free-rider tolerance, dan shared-repair mechanism). 2. Formulasi Pertanyaan Otoritas: AI membimbing perumusan pertanyaan pemantik agar negosiasi otoritas penanganan masalah tidak bertumpu pada satu individu, melainkan didistribusikan secara seimbang ke seluruh anggota kelompok.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Target dipetakan secara presisi berdasarkan peran dan dampak langsung.
+Objective & State
+4
+Membedakan kesadaran awal dan pengakuan relevansi isu secara jernih.
+Repertoire, Language & AI
+4
+Pitch ringkas, berbasis fakta teramati, serta mendokumentasikan peran eksplisit AI dalam merumuskan skenario trade-off.
+Response & Adaptation
+4
+Catatan koreksi target direalisasikan ke dalam protokol repair darurat dan pembagian otoritas seimbang.
+Agreement, Action & Relationship
+4
+Menghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#evidence
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#problem-pitch-dan-dasar-evidence
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#respons-dan-transkrip-percakapan-lanjutan-termasuk-mekanisme-trade-off-repair-otoritas-bersama
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai-perumusan-opsi-trade-off
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

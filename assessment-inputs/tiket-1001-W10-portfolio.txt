@@ -1,0 +1,785 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1001
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://qilooooow.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+1. Konteks dan Continuity TAIDA
+Latar Belakang
+Continuity
+Desired State dari Minggu 9
+Initial State
+2. Desire–Action Gap
+Gap Statement
+Barrier Map
+Barrier Prioritization
+3. Person dan Authority Map
+Simulated Authority Discovery
+Authority Decision
+4. Options dan Trade-Off
+Option A — Dummy-Data Workflow Walkthrough
+Option B — Limited Operational Pilot
+Option C — Current Workflow Observation
+Trade-Off Matrix
+Recommendation
+5. Negotiation dan Response
+Simulated Negotiation
+Response Analysis
+6. Explicit Agreement
+Agreement Record — Simulasi
+Confirmation Dialogue
+Agreement Interpretation
+7. Action Evidence — Artefak yang Dapat Diperiksa
+Artifact A — Initial Workflow V3
+Artifact B — Dummy Test Dataset
+Artifact C — Desk-Check Test Results
+Desk-Check Interpretation
+Artifact D — Risk Checklist
+Action Evidence Conclusion
+8. Review, Response, dan Substantive Adaptation
+Simulated Reviewer Objection
+Adaptation 1 — Source-of-Truth Gate
+Adaptation 2 — Freshness Rule
+Revised Workflow V4
+Adaptation Matrix
+Why Adaptation Is Substantive
+9. Re-Check After Adaptation
+Revised Desk-Check Results
+Re-Check Interpretation
+Decision After Desk-Check
+10. State Assessment
+Initial State
+State After Simulated Negotiation
+Supporting Signals
+Final State
+11. Evidence Traceability
+Evidence Chain
+12. Refleksi Pribadi
+13. Penggunaan AI dan Critical Evaluation
+AI Assistance
+AI Limitations
+Human Judgment
+14. Self-Assessment
+Justifikasi per Dimensi
+Self-Assessment Boundary
+Action & Agreement Challenge
+TAIDA
+Action
+Desire–action gap, authority, options, negotiation, explicit agreement, desk-check evidence, review, dan substantive adaptation.
+Kompetensi Target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible, eksplisit, sesuai authority, serta didukung bukti tindakan yang dapat diperiksa.
+Kompetensi ini ditunjukkan melalui:
+Analisis barrier antara Desire dan Action.
+Pemetaan person, authority, responsibility, dan approval boundary.
+Negosiasi beberapa opsi beserta trade-off.
+Agreement yang memiliki scope, owner, deadline, evidence, dan stop rule.
+Artefak tindakan yang sudah disusun dan diperiksa melalui desk-check.
+Response dan adaptation yang mengubah mekanisme solusi.
+State assessment yang membedakan persetujuan review dari persetujuan pilot.
+CatatanStatus Evidence dan Batas Klaim
+Portofolio ini adalah simulasi komunikasi dalam konteks Business Development Inkubator IT ITB. Dialog, pilihan target, review, dan agreement adalah role-play. Desk-check merupakan pemeriksaan logika terhadap tiga skenario dummy yang dijelaskan dalam dokumen, bukan hasil penggunaan sistem nyata. Tidak ada klaim bahwa koordinator atau pimpinan organisasi telah menyetujui pilot.
+1. Konteks dan Continuity TAIDA
+Latar Belakang
+Dalam kegiatan Business Development, monitoring calon mitra membutuhkan informasi mengenai PIC, status komunikasi, dan next action.
+Saya mengembangkan skenario solusi partnership monitoring untuk mengeksplorasi bagaimana informasi tersebut dapat ditampilkan dengan jelas tanpa menambah duplikasi pencatatan.
+Masalah operasional belum dinyatakan terbukti. Kasus ini digunakan sebagai latihan mengubah kebutuhan stakeholder menjadi langkah evaluasi yang realistis.
+Continuity
+Minggu
+Tahap
+Hasil Simulasi
+6
+Attention
+Target bersedia mempertimbangkan evaluasi monitoring
+7
+Interest
+Target melihat manfaat overview, tetapi mempertanyakan workload dan reliability
+9
+Desire
+Target menginginkan monitoring jelas tanpa dua sumber status terpisah
+10
+Action
+Target perlu memilih langkah yang feasible sebelum pilot
+Desired State dari Minggu 9
+“Koordinator dapat mengetahui progres, PIC, dan next action calon mitra melalui informasi yang jelas dan cukup mutakhir, sementara anggota tidak perlu memelihara dua sumber status yang harus diperbarui secara terpisah.”
+Initial State
+Conditional Desire — pending evidence.
+Target dalam skenario menginginkan outcome, tetapi belum memberikan komitmen tindakan.
+2. Desire–Action Gap
+Gap Statement
+Target telah menyatakan desired state, tetapi belum ada keputusan operasional karena sumber status resmi, authority, data permission, update ownership, dan feasibility belum dipastikan.
+Desired state tidak otomatis menghasilkan action.
+Barrier Map
+Barrier
+Mengapa Menghambat Action
+Bukti untuk Menguranginya
+Approval authority
+Review prototype belum tentu mengizinkan perubahan proses
+Konfirmasi pihak berwenang
+Source of truth
+Dua sumber status dapat menimbulkan double entry
+Workflow mapping
+Data permission
+Informasi calon mitra dapat bersifat terbatas
+Access review
+Ownership
+Status dapat menjadi stale tanpa PIC pembaruan
+Responsibility mapping
+Workload
+Proses baru dapat memperberat pekerjaan
+Task-based walkthrough
+Unclear success criteria
+Keputusan dapat bergantung pada opini
+Evidence threshold dan decision rule
+Barrier Prioritization
+P1 — Authority: Tidak ada pilot sebelum persetujuan pihak yang berwenang.
+P2 — Workflow: Tidak ada klaim single-source sebelum alur pembaruan diperiksa.
+P3 — Permission: Tidak menggunakan data nyata untuk evaluasi awal.
+3. Person dan Authority Map
+Person / Role
+Relevance
+Authority
+Responsibility
+Boundary
+Koordinator Business Development
+Tinggi
+Meninjau kebutuhan dan rancangan
+Memberi feedback terhadap proses monitoring
+Persetujuan review bukan otomatis izin pilot
+Pimpinan / penanggung jawab proses terkait
+Tinggi
+Calon pemberi approval perubahan operasional
+Menentukan scope perubahan proses
+Identitas pemberi approval final harus dikonfirmasi
+Pengelola akses data
+Tinggi
+Mengatur akses sesuai mandat
+Memeriksa permission
+Tidak otomatis menyetujui perubahan proses
+Staff BD / PIC
+Tinggi
+Memberi masukan pengguna
+Menjalankan pembaruan jika disetujui
+Tidak dapat memberi approval sendiri
+Saya — Staff BD
+Tinggi
+Mengusulkan rancangan
+Menyusun prototype, test cases, dan dokumentasi
+Tidak memiliki authority untuk menerapkan sistem sepihak
+Simulated Authority Discovery
+Saya: “Kak, kalau kita ingin mencoba alur monitoring ini, siapa yang perlu menyetujui perubahan prosesnya?”
+Target: “Untuk review konsep aku bisa bantu. Tapi kalau sampai mengubah workflow tim atau menggunakan data mitra, perlu persetujuan pihak yang bertanggung jawab.”
+Saya: “Berarti kita bisa membahas walkthrough dummy data dulu, tanpa menganggap itu sebagai approval pilot?”
+Target: “Iya, betul.”
+Authority Decision
+Saya membatasi usulan awal pada review prototype dengan dummy data.
+Persetujuan pilot belum diminta dan pemberi approval final perlu dikonfirmasi sebelum ada perubahan proses operasional.
+4. Options dan Trade-Off
+Option A — Dummy-Data Workflow Walkthrough
+Scope: Tiga skenario dummy.
+Duration: Satu sesi sekitar 30 menit.
+Evidence: Kejelasan PIC, update flow, source of truth, dan indikator status lama.
+Advantages: Risiko rendah, reversible, tidak memerlukan data mitra nyata.
+Limitations: Tidak membuktikan performa dalam operasional nyata.
+Option B — Limited Operational Pilot
+Scope: Sejumlah kecil calon mitra yang diizinkan.
+Duration: Lima hari kerja.
+Evidence: Penggunaan aktual, workload, dan konsistensi status.
+Advantages: Evidence operasional lebih kuat.
+Limitations: Memerlukan approval, permission, pembagian kerja, dan stop rule yang lebih ketat.
+Option C — Current Workflow Observation
+Scope: Memahami alur monitoring yang telah berjalan tanpa memperkenalkan prototype.
+Duration: Satu sesi observasi terbatas.
+Evidence: Peta proses dan titik pencatatan.
+Advantages: Dapat mengklarifikasi current process dengan perubahan minimal.
+Limitations: Belum menguji solusi single-source monitoring.
+Trade-Off Matrix
+Kriteria
+A — Walkthrough
+B — Pilot
+C — Observation
+Menguji solution mechanism
+Ya, secara simulasi
+Ya, secara nyata
+Tidak
+Kekuatan evidence operasional
+Rendah
+Tinggi
+Rendah
+Risiko data
+Rendah
+Lebih tinggi
+Bergantung akses
+Workload
+Rendah
+Sedang
+Rendah
+Approval complexity
+Relatif rendah
+Tinggi
+Bergantung scope
+Reversibility
+Tinggi
+Perlu prosedur penghentian
+Tinggi
+Recommendation
+Saya merekomendasikan Option A karena paling sesuai dengan kondisi target yang masih membutuhkan evidence feasibility.
+Option B tidak ditolak selamanya, tetapi belum proporsional untuk tahap saat ini.
+5. Negotiation dan Response
+Simulated Negotiation
+Saya: “Kak, untuk langkah berikutnya ada tiga opsi. Kita bisa mulai dari walkthrough dummy data, langsung mengusulkan pilot terbatas dengan approval tambahan, atau observasi proses yang sekarang.”
+Target: “Aku belum mau langsung pilot. Kita belum tahu apakah alur update-nya memang praktis.”
+Saya: “Setuju. Kalau kita pilih walkthrough dummy data, kita bisa cek mekanismenya tanpa mengubah proses kerja tim.”
+Target: “Boleh, tapi jangan cuma memperlihatkan dashboard. Aku ingin jelas siapa yang update dan apakah ada pencatatan ganda.”
+Saya: “Berarti kriteria review-nya harus mencakup ownership dan double-entry test, bukan hanya kemudahan melihat status?”
+Target: “Iya.”
+Saya: “Kalau begitu aku usulkan Option A dengan tiga test case. Aku siapkan diagram alur, dummy data, dan checklist. Hasilnya kita gunakan untuk menentukan apakah perlu revisi atau evaluasi berikutnya.”
+Target: “Oke, untuk review seperti itu bisa.”
+Response Analysis
+Element
+Evidence
+Target preference
+Walkthrough sebelum pilot
+Main concern
+Workflow harus praktis
+Hidden concern
+Dashboard dapat terlihat baik meskipun proses input tetap buruk
+Adaptation
+Menambahkan ownership dan double-entry test sebagai success criteria
+Agreement
+Review dummy-data walkthrough
+Boundary
+Tidak ada pilot approval
+6. Explicit Agreement
+Agreement Record — Simulasi
+Komponen
+Kesepakatan
+Objective
+Memeriksa feasibility single-source monitoring
+Selected Option
+A — Dummy-Data Workflow Walkthrough
+Scope
+Tiga skenario dummy
+Duration
+Satu sesi 30 menit
+Preparation Owner
+Saya sebagai Staff Business Development
+Review Owner
+Koordinator Business Development
+Preparation Deadline
+Tiga hari kerja setelah diskusi
+Deliverables
+Workflow diagram, dummy test cases, risk checklist, review sheet
+Evidence
+Hasil walkthrough, feedback, dan daftar revisi
+Success Criteria
+PIC jelas, sumber status jelas, tidak ada double entry wajib, informasi lama dapat dikenali
+Data Boundary
+Tidak menggunakan data calon mitra nyata
+Stop Rule
+Hentikan jika perlu data tanpa izin atau mekanisme tidak dapat diuji tanpa risiko yang tidak diterima
+Review Point
+Akhir sesi walkthrough
+Decision Point
+Proceed to further evaluation, revise, atau stop
+Pilot Approval
+Belum diminta; pemberi approval final harus dikonfirmasi sebelum pilot
+Confirmation Dialogue
+Saya: “Aku rangkum ya Kak. Kita mulai dari walkthrough tiga skenario dummy selama 30 menit. Aku menyiapkan workflow, test cases, dan risk checklist dalam tiga hari kerja. Kita fokus pada ownership, double entry, dan data reliability. Ini belum termasuk pilot atau penggunaan data nyata. Setelah review, kita putuskan apakah perlu revisi atau evaluasi lanjutan. Sudah sesuai?”
+Target: “Iya, sesuai.”
+Agreement Interpretation
+Agreement memiliki scope, owner, deadline, deliverable, evidence, stop rule, dan decision point.
+Namun, agreement tersebut merupakan hasil role-play dan belum menjadi komitmen organisasi yang sebenarnya.
+7. Action Evidence — Artefak yang Dapat Diperiksa
+Bagian ini menunjukkan artefak konkret yang sudah dituliskan dalam portofolio, bukan hanya daftar hal yang akan dilakukan.
+Artifact A — Initial Workflow V3
+Partner Communication
+|
+v
+PIC Identifies Status Update
+|
+v
+Update One Status Source
+|
+v
+Monitoring Overview
+|
+v
+Data Freshness Check
+|
++---- Current
+|
++---- Needs Verification
+Finding: Diagram awal mengasumsikan satu sumber status telah disepakati.
+Asumsi tersebut belum tervalidasi dan dapat menyebabkan masalah apabila tim masih menggunakan sumber pencatatan berbeda.
+Artifact B — Dummy Test Dataset
+Test ID
+Partner
+PIC
+Initial Status
+Event
+Expected Status
+TC-01
+Partner A
+Staff 1
+Not Contacted
+Initial outreach recorded
+Contacted
+TC-02
+Partner B
+Staff 2
+Waiting Response
+Partner agrees to discussion
+Discussion
+TC-03
+Partner C
+Staff 1
+Waiting Response
+No update within defined review window
+Needs Verification
+Semua partner, PIC, dan status adalah data dummy.
+Artifact C — Desk-Check Test Results
+Desk-check dilakukan secara konseptual terhadap workflow tertulis. Hasil di bawah menunjukkan apakah logika rancangan telah mencakup kondisi uji, bukan hasil eksekusi software.
+Test
+Desk-Check Finding
+Result
+TC-01
+Alur dapat merepresentasikan perubahan status setelah outreach
+Pass at conceptual level
+TC-02
+Alur dapat merepresentasikan perubahan Waiting Response ke Discussion
+Pass at conceptual level
+TC-03
+Alur memuat Needs Verification, tetapi belum menetapkan aturan kapan status dianggap lama
+Partial
+Source-of-truth check
+Diagram mengasumsikan sumber status sudah disepakati
+Fail
+Duplicate-entry check
+Tidak ada bukti bahwa sumber tambahan tidak diperlukan
+Not verified
+Desk-Check Interpretation
+Desk-check menunjukkan bahwa alur dasar perubahan status dapat dijelaskan.
+Namun, dua kelemahan utama teridentifikasi:
+Source of truth belum dikonfirmasi.
+Aturan data freshness belum cukup spesifik.
+Karena itu, rancangan belum layak dinyatakan memenuhi seluruh success criteria.
+Artifact D — Risk Checklist
+Risk
+Control
+Desk-Check Status
+Multiple status sources
+Source-of-truth decision gate
+Missing in initial workflow
+Stale data
+Explicit freshness rule
+Needs revision
+Unclear ownership
+PIC field
+Represented conceptually
+Sensitive data
+Dummy dataset
+Satisfied for this document
+Premature pilot
+Approval boundary
+Explicitly documented
+Duplicate entry
+Single-update process
+Not verified
+Action Evidence Conclusion
+Artefak yang telah tersedia:
+Workflow awal.
+Dummy test dataset.
+Hasil desk-check konseptual.
+Risk checklist.
+Temuan kelemahan yang spesifik.
+Evidence ini menunjukkan pekerjaan analisis dan revisi rancangan telah didokumentasikan, tetapi tidak membuktikan adanya pilot atau walkthrough bersama target nyata.
+8. Review, Response, dan Substantive Adaptation
+Simulated Reviewer Objection
+Reviewer: “Diagramnya langsung menyuruh PIC update satu sumber. Bagaimana kalau tim belum sepakat sumber mana yang resmi?”
+Saya: “Berarti diagram ini terlalu cepat mengasumsikan source of truth sudah tersedia.”
+Reviewer: “Kalau begitu, bisa saja anggota tetap mencatat di chat dan sheet.”
+Saya: “Betul. Kita perlu decision gate sebelum workflow dilanjutkan.”
+Reviewer: “Terus indikator Needs Verification muncul berdasarkan apa?”
+Saya: “Kita perlu menetapkan freshness rule yang disepakati. Untuk demonstrasi, aku bisa gunakan ambang ilustratif, tetapi tidak menganggapnya sebagai kebijakan tim.”
+Adaptation 1 — Source-of-Truth Gate
+Saya menambahkan keputusan eksplisit mengenai sumber status resmi.
+Adaptation 2 — Freshness Rule
+Saya menambahkan aturan contoh:
+Jika status belum diperbarui selama lebih dari lima hari kalender, tampilkan Needs Verification.
+Angka lima hari digunakan untuk simulasi dan harus disesuaikan dengan kebutuhan operasional apabila evaluasi nyata dilakukan.
+Revised Workflow V4
+Partner Communication
+|
+v
+Identify Relevant Status Update
+|
+v
+Is Official Status Source Agreed?
+|
++---- NO ----> Map Current Workflow
+| |
+| v
+| Request Process Review
+| |
+| v
+| No Pilot
+|
++---- YES ---> PIC Updates One Official Source
+|
+v
+Monitoring Reads Same Source
+|
+v
+Check Last Updated
+|
++----------+----------+
+| |
+<= 5 days > 5 days
+| |
+v v
+Current Needs Verification
+|
+v
+Confirm with PIC
+Adaptation Matrix
+Aspect
+Before Review
+After Review
+Source of truth
+Assumed
+Explicit decision gate
+Duplicate entry
+Intended to avoid
+Checked before proceeding
+Freshness
+General indicator
+Illustrative five-day rule
+Missing approval
+Not operationalized
+No pilot when source/authority unresolved
+Decision quality
+Workflow looked complete
+Limitations explicitly recognized
+Why Adaptation Is Substantive
+Saya mengubah dua bagian mekanisme:
+Workflow governance: Proses tidak dilanjutkan sebelum sumber status resmi ditentukan.
+Data validation logic: Informasi lama dikenali menggunakan aturan yang eksplisit.
+Perubahan tersebut berasal dari kelemahan yang ditemukan dalam desk-check dan objection pada simulasi review.
+9. Re-Check After Adaptation
+Saya memeriksa ulang rancangan V4 secara konseptual menggunakan skenario yang sama.
+Revised Desk-Check Results
+Test
+Revised Finding
+Result
+TC-01
+Status Contacted dapat dicatat jika sumber resmi sudah ditentukan
+Conditional Pass
+TC-02
+Perubahan ke Discussion dapat direpresentasikan melalui satu alur status
+Conditional Pass
+TC-03
+Status lebih dari lima hari ditandai Needs Verification dalam aturan simulasi
+Pass at conceptual level
+Source-of-truth check
+Workflow berhenti jika sumber resmi belum disepakati
+Pass at conceptual level
+Duplicate-entry check
+Desain mensyaratkan satu sumber, tetapi belum terbukti pada proses nyata
+Not verified
+Pilot authorization
+Tidak ada pilot sebelum approval
+Pass at design level
+Re-Check Interpretation
+Rancangan V4 lebih baik dibandingkan V3 karena dua kelemahan logika telah ditangani.
+Namun, hasil konseptual tidak sama dengan bukti usability atau feasibility operasional.
+Karena itu, keputusan yang tepat tetap melakukan walkthrough sebelum mengusulkan pilot.
+Decision After Desk-Check
+Decision: Revise completed at design level; proceed only to authorized walkthrough, not operational pilot.
+10. State Assessment
+Initial State
+Conditional Desire — pending evidence.
+State After Simulated Negotiation
+Action Agreement for Limited Review.
+Supporting Signals
+Signal
+Meaning
+Target memilih Option A
+Preferensi terhadap tindakan tertentu
+Target menyepakati scope
+Batas evaluasi jelas
+Target menerima owner dan deadline
+Komitmen simulasi menjadi spesifik
+Target menetapkan success criteria
+Evaluasi memiliki standar
+Target belum menyetujui pilot
+Komitmen tetap terbatas
+Final State
+Limited Action Agreement — walkthrough pending.
+Saya tidak mengklaim bahwa walkthrough telah dilakukan.
+Action yang dapat dibuktikan dalam dokumen adalah penyusunan dan revisi artefak konseptual. Agreement dengan target masih merupakan simulasi.
+11. Evidence Traceability
+Required Evidence
+Section
+Evidence Type
+Desire–action gap
+2
+Gap analysis
+Barrier map
+2
+Barrier table
+Authority map
+3
+Role and authority table
+Options
+4
+Three options
+Trade-off
+4
+Comparison matrix
+Negotiation
+5
+Simulated dialogue
+Explicit agreement
+6
+Agreement record
+Owner/deadline
+6
+Defined
+Action evidence
+7
+Workflow, dataset, desk-check
+Review
+8
+Simulated reviewer objection
+Adaptation
+8
+Revised workflow V4
+Re-check
+9
+Conceptual test results
+State assessment
+10
+Limited Action Agreement
+AI critical use
+13
+Method and limitations
+Self-assessment
+14
+Five dimensions
+Evidence Chain
+Desire → Barrier Discovery → Authority Mapping → Options → Negotiation → Agreement → Prepared Artifacts → Desk-Check Findings → Adaptation → Re-Check → Limited Action State.
+12. Refleksi Pribadi
+Pada tahap Action, saya memahami bahwa ketertarikan dan keinginan target belum otomatis menghasilkan tindakan.
+Target dapat menginginkan monitoring yang lebih jelas, tetapi tetap memiliki alasan untuk menunda implementasi ketika authority, workflow, dan permission belum pasti.
+Saya belajar bahwa desire–action gap perlu dipecah menjadi barrier yang spesifik.
+Jika hambatannya adalah approval, maka respons yang tepat bukan memperpanjang pitch mengenai manfaat solusi.
+Jika hambatannya adalah workflow, maka respons yang tepat adalah menguji mekanisme pembaruan.
+Jika hambatannya adalah permission, maka respons yang tepat adalah membatasi penggunaan data sampai izin diperoleh.
+Saya juga memahami pentingnya authority mapping.
+Koordinator dapat menjadi reviewer yang relevan, tetapi tidak otomatis memiliki kewenangan untuk mengizinkan seluruh perubahan proses.
+Dengan membedakan reviewer, approver, dan executor, saya dapat menghindari agreement yang tidak realistis.
+Pembelajaran berikutnya adalah bahwa negosiasi perlu menyediakan pilihan yang benar-benar berbeda.
+Saya membandingkan walkthrough dummy data, pilot terbatas, dan observasi workflow.
+Setiap opsi memiliki konsekuensi terhadap evidence, workload, risiko, dan approval.
+Saya memilih merekomendasikan walkthrough karena lebih sesuai dengan state target dan ketidakpastian yang masih ada.
+Saya juga belajar bahwa agreement tidak cukup berbunyi “nanti kita coba”.
+Agreement harus memiliki scope, owner, deadline, deliverable, evidence, stop rule, dan decision point.
+Bagian yang paling penting bagi saya adalah perbedaan antara rencana tindakan dan action evidence.
+Saya menyusun workflow, dummy test cases, risk checklist, dan desk-check agar ide tidak berhenti sebagai janji.
+Melalui desk-check, saya menemukan bahwa rancangan awal belum memiliki source-of-truth decision gate dan freshness rule yang jelas.
+Saya kemudian merevisi workflow agar kedua kelemahan tersebut ditangani.
+Hal ini menunjukkan bahwa action evidence tidak harus selalu memperlihatkan hasil yang sempurna. Temuan kegagalan juga dapat menjadi evidence yang berguna apabila menghasilkan adaptation yang jelas.
+Namun, saya tetap membedakan desk-check konseptual dari pengujian nyata.
+Saya tidak menganggap bahwa rancangan sudah layak diterapkan hanya karena seluruh jalur logikanya dapat dijelaskan.
+Sebagai seseorang yang tertarik pada Business Development dan Product Management, pembelajaran ini penting karena proses mengubah ide menjadi tindakan memerlukan koordinasi stakeholder, kejelasan keputusan, dan disiplin dalam memvalidasi asumsi.
+Ke depan, saya ingin lebih konsisten memeriksa authority, mengembangkan opsi, dan mendokumentasikan evidence sebelum meminta komitmen yang lebih besar.
+13. Penggunaan AI dan Critical Evaluation
+AI Assistance
+AI digunakan untuk:
+Menyusun alternatif barrier dan authority map.
+Membandingkan options dan trade-off.
+Mengembangkan pertanyaan negosiasi.
+Memeriksa kelengkapan agreement.
+Membuat skenario desk-check.
+Mengidentifikasi kemungkinan kelemahan workflow.
+Membantu merumuskan adaptation.
+Mengevaluasi konsistensi state assessment.
+AI Limitations
+AI tidak dapat memberikan approval organisasi.
+AI juga tidak dapat memastikan bahwa workflow bebas double entry tanpa memeriksa proses kerja yang sebenarnya.
+Hasil desk-check konseptual tidak boleh diperlakukan sebagai bukti implementasi.
+Human Judgment
+Saya mempertahankan tiga keputusan:
+Tidak menggunakan data nyata tanpa izin.
+Tidak meminta pilot sebelum authority jelas.
+Tidak menyatakan solusi berhasil sebelum workflow diuji.
+Dengan demikian, AI digunakan untuk memperbaiki kualitas rancangan dan penalaran, bukan menggantikan evidence aktual.
+14. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Authority, responsibility, dan approval boundary dibedakan. Target tidak diminta menyetujui pilot di luar kewenangannya.
+Objective & State
+4
+Desire–action gap konkret, barrier diprioritaskan, dan final state dibatasi pada Limited Action Agreement.
+Repertoire, Language & AI
+4
+Tiga opsi dan trade-off, negosiasi berbasis risiko, agreement confirmation, serta evaluasi kritis AI.
+Response & Adaptation
+4
+Reviewer objection dan desk-check findings menghasilkan source-of-truth gate serta freshness rule.
+Agreement, Action & Relationship
+4
+Agreement eksplisit, artefak workflow dan test cases tersedia, desk-check serta re-check terdokumentasi, dengan batasan pelaksanaan dinyatakan.
+Total Self-Assessment: 20/20 — Target Kompetensi Maksimal.
+Justifikasi per Dimensi
+Person & Character — 4/4
+Saya membedakan target reviewer, calon approver, pengelola akses, pengguna, dan pemilik usulan. Saya menyesuaikan permintaan tindakan dengan authority masing-masing.
+Objective & State — 4/4
+Saya mengidentifikasi barrier yang mencegah perpindahan dari Desire menuju Action dan memilih langkah terbatas yang sesuai dengan tingkat kesiapan target. Saya tidak menyamakan review agreement dengan pilot approval.
+Repertoire, Language & AI — 4/4
+Saya menggunakan options, trade-off, negotiation dialogue, agreement confirmation, dan desk-check untuk mendukung keputusan. Saya membatasi penggunaan AI pada evaluasi rancangan dan tidak menggunakannya untuk mengklaim hasil nyata.
+Response & Adaptation — 4/4
+Saya mengidentifikasi kelemahan workflow dan menambahkan source-of-truth decision gate serta freshness rule. Perubahan tersebut memperbaiki mekanisme, bukan sekadar wording.
+Agreement, Action & Relationship — 4/4
+Saya menyusun agreement yang memiliki scope, owner, deadline, deliverable, evidence, stop rule, dan review point. Saya juga mendokumentasikan artefak dan hasil desk-check konseptual serta membedakannya dari pengujian operasional.
+Self-Assessment Boundary
+Skor 20/20 merupakan target berdasarkan kelengkapan dan kualitas rancangan simulasi. Nilai aktual dapat berbeda jika assessor mewajibkan bukti pelaksanaan atau persetujuan nyata.
+PentingKey Learning
+Action bukan sekadar memperoleh persetujuan verbal. Action membutuhkan identifikasi barrier, kejelasan authority, negosiasi opsi yang realistis, agreement yang eksplisit, serta evidence yang dapat diperiksa. Rancangan yang baik juga harus mampu menunjukkan kelemahan, melakukan adaptation, dan menetapkan batas sebelum implementasi.
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Aqila Zahra Athaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://qilooooow.github.io/kipp-students/index.html
+- https://qilooooow.github.io/kipp-students/assets/logo.png
+- https://qilooooow.github.io/kipp-students/course/index.html
+- https://qilooooow.github.io/kipp-students/portfolio/index.html
+- https://qilooooow.github.io/kipp-students/examples/index.html
+- https://qilooooow.github.io/kipp-students/lk/index.html
+- https://qilooooow.github.io/kipp-students/slides.html
+- https://qilooooow.github.io/kipp-students/slides-pdf/index.html
+- https://qilooooow.github.io/kipp-students/assessment/index.html
+- https://qilooooow.github.io/kipp-students/about.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-01.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-02.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-03.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-04.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-05.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-08.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-11.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-12.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-13.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-14.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-15.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#konteks-dan-continuity-taida
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#latar-belakang
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#continuity
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#desired-state-dari-minggu-9
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#initial-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#desireaction-gap
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#gap-statement
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#barrier-map
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#barrier-prioritization
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#person-dan-authority-map
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#simulated-authority-discovery
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#authority-decision
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#options-dan-trade-off
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#option-a-dummy-data-workflow-walkthrough
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#option-b-limited-operational-pilot
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#option-c-current-workflow-observation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#trade-off-matrix
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#recommendation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#negotiation-dan-response
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#simulated-negotiation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#response-analysis
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#explicit-agreement
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#agreement-record-simulasi
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#confirmation-dialogue
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#agreement-interpretation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#action-evidence-artefak-yang-dapat-diperiksa
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#artifact-a-initial-workflow-v3
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#artifact-b-dummy-test-dataset
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#artifact-c-desk-check-test-results
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#desk-check-interpretation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#artifact-d-risk-checklist
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#action-evidence-conclusion
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#review-response-dan-substantive-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#simulated-reviewer-objection
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#adaptation-1-source-of-truth-gate
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#adaptation-2-freshness-rule
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#revised-workflow-v4
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#adaptation-matrix
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#why-adaptation-is-substantive
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#re-check-after-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#revised-desk-check-results
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#re-check-interpretation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#decision-after-desk-check
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#state-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#initial-state-1
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#state-after-simulated-negotiation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#supporting-signals
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#final-state
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#evidence-traceability
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#evidence-chain
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#refleksi-pribadi
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai-dan-critical-evaluation
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#ai-assistance
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#ai-limitations
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#human-judgment
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#justifikasi-per-dimensi
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html#self-assessment-boundary
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

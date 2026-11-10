@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 941
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Attention evidence dan solution hypothesis
+Pitch dan demonstration (60 Detik)
+Hidden concern, response, dan adaptation
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Diskusi tatap muka di selasar perpustakaan kampus. Percakapan ini merupakan kelanjutan dari klarifikasi isu Minggu 6 mengenai kepastian progres dan kepedulian anggota kelompok.
+Persons dan relationship: Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.
+Objective dan initial state: Menghubungkan mekanisme solusi yang sangat ringan dengan masalah kepastian progres untuk menumbuhkan minat (Interest). State awal target adalah Attention terkonfirmasi dengan catatan (mengakui kepastian progres penting, tetapi skeptis jika solusinya merepotkan).
+Attention evidence dan solution hypothesis
+Berdasarkan fakta percakapan Minggu 6, masalah utama bukan tiadanya aplikasi, melainkan enggan melakukan pembaruan status yang rumit dan takut beban penagihan jatuh pada satu orang.
+Solution hypothesis: Papan checklist progres bersama berbasis spreadsheet/notion 1-halaman dengan sistem sekali klik (10-second check-in) dapat memberikan kepastian progres tanpa menambah beban administrasi.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Ketidakpastian progres tugas kelompok
+Papan checklist bersama 1-halaman
+Anggota melihat status pekerjaan secara transparan
+Mengurangi kepanikan malam tenggat dan menghindari saling tunggu
+Keengganan mengisi laporan rumit
+Status sekali klik (10-sec check-in)
+Pembaruan informasi sangat cepat
+Menghemat waktu dan energi harian
+Pitch dan demonstration (60 Detik)
+Saya menyampaikan pitch berikut sambil memperlihatkan draf tampilan antarmuka di layar ponsel selama 60 detik:
+“Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”
+Hidden concern, response, dan adaptation
+Respons target: Target melihat antarmuka selama beberapa saat lalu berkomentar, “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”
+Hidden concern discovery: Keberatan target bukan terletak pada kemudahan teknis (usability), melainkan pada akuntabilitas sosial dan beban pengawasan. Ia takut alat baru ini justru mempertegas perannya sebagai ‘polisi kelompok’.
+Adaptation & Re-design: 1. Saya mengakui validnya kekhawatiran tersebut dan menegaskan bahwa alat ini bukan alat pengawasan pribadi, melainkan papan transparansi bersama. 2. Saya mengadaptasi solusi dengan menambahkan mekanisme automated gentle reminder di grup percakapan harian (sistem pengingat netral) sehingga fungsi menagih bergeser dari personal target ke sistem netral.
+Signal Interest: Target menunjukkan minat nyata (Interest) dengan meminta salinan (copy) draf template tersebut untuk diuji coba pada tugas kelompok mendatang, serta memberikan masukan mengenai format kolom status.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Berfokus pada beban psikologis target yang enggan menjadi pihak penagih tunggal.
+Objective & State
+State target berpindah dari Attention bersyarat ke Interest terbuka (meminta draf template untuk diuji).
+Repertoire & Language
+Demo visual 60 detik, bahasa terfokus pada efisiensi (10 detik update), dan mengundang tanggapan jujur.
+Response & Adaptation
+Menangkap hidden concern (akuntabilitas & beban menagih) dan menyesuaikan mekanisme dengan pengingat otomatis netral.
+Agreement/action
+Target meminta draf link template untuk ditinjau dan digunakan pada siklus tugas berikutnya.
+Relationship outcome
+Hubungan berkembang menjadi kemitraan kolaboratif; target merasa kekhawatirannya dihargai penuh.
+Penggunaan AI
+Saya menggunakan AI untuk melakukan analisis detoks fitur (feature detox), memangkas fitur-fitur teknis yang tidak relevan (seperti analitik grafik progres), serta menyusun opsi mitigasi pengingat netral. AI tidak digunakan untuk mengarang percakapan atau membuat klaim persetujuan target secara sepihak.
+Feedback dan tindak lanjut
+Feedback: Target menyukai kesederhanaan tampilan, tetapi menegaskan bahwa sistem pengingat netral sangat krusial agar ia tidak terbeban mental.
+Next practice: Menyusun draf kalimat pengingat kelompok yang santai, sopan, dan netral untuk dimasukkan dalam panduan penggunaan template.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Beban pengawasan dan kekhawatiran relasional target dipetakan secara sangat spesifik.
+Objective & State
+4
+Membedakan Attention dan Interest secara eksplisit berdasarkan sinyal tindakan target (meminta link template).
+Repertoire, Language & AI
+3
+Demo ringkas berbasis fakta; AI digunakan khusus untuk detoks fitur dan verifikasi keterbatasan.
+Response & Adaptation
+4
+Hidden concern berhasil digali dan diadaptasi secara substantif pada arsitektur solusi.
+Agreement, Action & Relationship
+4
+Menghasilkan kesepakatan uji coba konkret tanpa paksaan atau janji berlebihan (overpromising).
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#pitch-dan-demonstration-60-detik
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#hidden-concern-response-dan-adaptation
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://mnabilaizar.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -181,6 +181,8 @@ def validate_session(data: dict, *, can_score: bool = True) -> dict:
         raise ValueError("Struktur respons sesi UTS tidak valid.")
     if data["evidence_status"] not in {"Lengkap", "Parsial", "Tidak memadai"}:
         raise ValueError("Status evidence UTS tidak valid.")
+    correction_reason = ("acuan atau evidence sesi tidak tersedia" if not can_score
+                         else "status evidence " + data["evidence_status"])
     can_score = can_score and data["evidence_status"] == "Lengkap"
     for key in ("summary", "improvement_priority"):
         if not isinstance(data[key], str) or not data[key].strip():
@@ -191,8 +193,16 @@ def validate_session(data: dict, *, can_score: bool = True) -> dict:
             raise ValueError("Struktur dimensi UTS tidak valid.")
         if any(not isinstance(item[k], str) or not item[k].strip() for k in ("evidence", "reason")):
             raise ValueError("Evidence dan alasan UTS wajib diisi.")
+    # Validate every dimension before normalizing any score. Keep the original
+    # reason and record the correction in both JSON and the rendered table.
+    for item in data["dimensions"].values():
         if not can_score and item["score"] is not None:
-            raise ValueError("Skor tidak diperbolehkan tanpa acuan/evidence.")
+            original_score = item["score"]
+            item["score"] = None
+            item["reason"] += (
+                f" [Koreksi otomatis: skor {original_score} menjadi BT karena "
+                f"{correction_reason}; skor angka memerlukan acuan dan evidence lengkap.]"
+            )
     return data
 
 
@@ -259,11 +269,13 @@ def assess(worker, row: dict) -> dict:
         elif len(text) > worker.max_evidence_chars:
             result = unassessed("Transkrip melebihi batas input; tidak dipotong. Hubungi operator; BT.")
         else:
+            # Some llama.cpp chat templates accept only one initial system message.
+            session_context = json.dumps({"session": key, "dimensions": DIMENSIONS,
+                "descriptors": reference["descriptors"], "assignment": reference["assignments"][key],
+                "rubric_rules": reference.get("rubric_rules", [])}, ensure_ascii=False)
             messages = [
-                {"role": "system", "content": SYSTEM + "\n" + week_prompt + "\nGunakan JSON sesi, tanpa agregat."},
-                {"role": "system", "content": json.dumps({"session": key, "dimensions": DIMENSIONS,
-                    "descriptors": reference["descriptors"], "assignment": reference["assignments"][key],
-                    "rubric_rules": reference.get("rubric_rules", [])}, ensure_ascii=False)},
+                {"role": "system", "content": SYSTEM + "\n" + week_prompt
+                    + "\nGunakan JSON sesi, tanpa agregat.\nACUAN SESI:\n" + session_context},
                 {"role": "user", "content": f"EVIDENCE TIDAK DIPERCAYA SESI {key}:\n{text}"},
             ]
             worker._write_text_file(worker.input_dir / f"tiket-{ticket}-W08-{key}-input.json",

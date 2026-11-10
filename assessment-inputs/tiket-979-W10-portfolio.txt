@@ -1,0 +1,414 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 979
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Portfolio Minggu 10 — Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Portfolio Minggu 10 — Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Portfolio Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Week 10 — Action & Agreement Challenge
+Kompetensi Target
+Evidence Wajib
+1. Desire–Action Gap
+1.1 Tujuan yang Ingin Dicapai
+1.2 Kondisi Saat Ini
+1.3 Desire–Action Gap
+2. Barrier & Authority Map
+2.1 Hambatan yang Dihadapi
+2.2 Authority Map
+3. Options and Trade-offs
+3.1 Pilihan yang Tersedia
+3.2 Pilihan yang Diambil
+3.3 Alasan dan Trade-off
+4. Agreement Eksplisit
+4.1 Scope
+4.2 Owner
+4.3 Deadline
+4.4 Evidence
+4.5 Stop Rule
+4.6 Review
+5. Action Evidence and Adaptation
+5.1 Evidence yang Sudah Dimiliki
+5.2 Daftar Bug dan Hasil Perbaikan
+5.3 Batasan Bukti Teknis
+5.4 Adaptasi Setelah Tindakan
+5.5 Arah Jangka Panjang
+6. Refleksi
+7. Penggunaan AI
+8. Feedback dan Tindak Lanjut
+9. Analisis Komunikasi dan Agreement
+10. Self-Assessment
+11. Ringkasan Action
+12. Kesimpulan
+Assessment dosen
+Portfolio Minggu 10 — Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, options and trade-offs, agreement, serta action evidence dalam pengembangan game sebagai side job.
+Week 10 — Action & Agreement Challenge
+Kompetensi Target
+Mampu mengidentifikasi hambatan dalam mencapai tujuan, memahami kewenangan dan pilihan yang tersedia, mempertimbangkan trade-off, menyusun kesepakatan yang eksplisit, serta menentukan tindakan konkret yang dapat dievaluasi berdasarkan evidence.
+Evidence Wajib
+Percakapan dengan teman mengenai kekhawatiran terhadap industri game dan prospek karier.
+Identifikasi hambatan dan pilihan yang tersedia.
+Pertimbangan trade-off dari setiap pilihan.
+Agreement yang mencakup scope, owner, deadline, evidence, stop rule, dan review.
+Pelaksanaan tindakan nyata beserta bukti hasilnya.
+Refleksi dan self-assessment berdasarkan evidence yang tersedia.
+1. Desire–Action Gap
+1.1 Tujuan yang Ingin Dicapai
+Aku ingin tetap mengembangkan minat dan keterampilan dalam game development, tetapi tidak harus langsung bergantung pada industri game sebagai sumber penghasilan utama setelah lulus kuliah.
+Aku ingin menjadikan game development sebagai side job sambil membangun keterampilan, pengalaman, portofolio, dan jaringan. Dalam jangka panjang, aku ingin mendirikan game studio sendiri ketika sudah memiliki kemampuan, pengalaman, tim, dan sumber daya yang memadai.
+1.2 Kondisi Saat Ini
+Aku sudah mengikuti berbagai game jam, membuat banyak Game Design Document (GDD), dan menghasilkan game yang dapat dimainkan. Namun, beberapa game yang kubuat masih memiliki bug dan membutuhkan pengembangan lebih lanjut.
+Salah satu contoh konkretnya adalah Garis Tepi. Dalam proses pengembangannya, aku menemukan bahwa script untuk neutral ending belum disertakan dalam implementasi game. Aku kemudian memperbaiki masalah tersebut dengan menyertakan script yang sebelumnya terlewat. Setelah perbaikan dilakukan, alur neutral ending berhasil diuji.
+Proyek: Garis Tepi di itch.io
+Pengalaman tersebut menunjukkan bahwa aku sudah mengambil tindakan nyata dalam pengembangan game. Aku tidak memulai dari nol karena sudah memiliki pengalaman merancang, mengembangkan, dan menguji game.
+Di sisi lain, aku masih khawatir terhadap kondisi industri game dan prospek karier setelah lulus kuliah. Aku ingin tetap mengejar minat tanpa mengabaikan kebutuhan finansial dan keberlanjutan karier.
+1.3 Desire–Action Gap
+Kesenjangan utamaku bukan lagi antara memiliki keinginan dan mulai membuat game. Aku sudah mengikuti game jam, membuat GDD, menghasilkan game yang dapat dimainkan, serta memperbaiki dan menguji bug pada salah satu proyek.
+Kesenjangan yang ingin kuatasi sekarang adalah bagaimana mengembangkan pengalaman tersebut menjadi portofolio yang lebih matang dan berkelanjutan. Aku juga perlu menentukan cara membagi waktu antara kuliah, pengembangan keterampilan, dan game development sebagai side job.
+Aku ingin menghindari kebiasaan terus memulai ide baru tanpa mengevaluasi potensi proyek yang sudah pernah kubuat. Karena itu, langkah berikutnya adalah memilih proyek yang paling layak dikembangkan lebih lanjut, memperbaiki masalah yang paling berdampak, dan meningkatkan kualitasnya secara bertahap.
+2. Barrier & Authority Map
+2.1 Hambatan yang Dihadapi
+Barrier
+Dampak terhadap Tujuan
+Respons yang Dapat Dilakukan
+Kekhawatiran terhadap industri game
+Membuatku ragu menjadikan game development sebagai karier utama
+Menjadikan game development sebagai side job sambil mengevaluasi peluang
+Ketidakpastian penghasilan
+Berisiko membuatku bergantung pada industri yang belum tentu memberikan pendapatan stabil
+Menjaga sumber penghasilan dan pilihan karier lain tetap terbuka
+Banyaknya bug pada game terdahulu
+Menghambat kualitas game untuk dijadikan portofolio
+Memilih satu proyek dan memprioritaskan perbaikan bug
+Terlalu banyak ide atau GDD
+Berpotensi membuat proyek baru terus dimulai tanpa ada proyek yang diselesaikan dengan lebih matang
+Mengevaluasi proyek terdahulu sebelum memulai proyek baru
+Waktu kuliah yang terbatas
+Dapat memperlambat pengembangan game dan meningkatkan risiko kelelahan
+Membatasi lingkup proyek dan menetapkan target realistis
+Keterbatasan keterampilan atau sumber daya
+Membuat pengembangan proyek dan rencana studio menjadi lebih sulit
+Mempelajari keterampilan sesuai kebutuhan proyek dan membangun jaringan secara bertahap
+Keterbatasan akses terhadap bukti teknis tim
+Menghambat pembagian source code atau detail implementasi kepada pihak luar
+Mendokumentasikan tindakan dan hasil pengujian tanpa membuka materi privat
+2.2 Authority Map
+Pihak
+Relevansi
+Kewenangan atau Peran
+Aku sendiri
+Menentukan tujuan dan menjalankan pengembangan game
+Mengatur waktu, memilih proyek, menentukan prioritas, memperbaiki bug, dan mengevaluasi kemajuan
+Teman yang tertarik pada game development
+Dapat menjadi rekan diskusi atau calon kolaborator
+Memberikan masukan atau berkolaborasi apabila bersedia
+Komunitas game development
+Dapat menjadi sumber masukan, pembelajaran, dan jaringan
+Memberikan feedback dan membuka peluang kolaborasi
+Calon anggota studio di masa depan
+Diperlukan apabila proyek berkembang menjadi kerja tim
+Berkolaborasi sesuai kesepakatan dan tanggung jawab masing-masing
+Aku memiliki kewenangan untuk memulai pengembangan game sebagai side job karena keputusan tersebut berada dalam kendaliku sendiri. Namun, aku tidak dapat menganggap teman sudah setuju menjadi rekan kerja atau anggota studio sebelum ada persetujuan yang jelas.
+Mendirikan studio juga tidak sepenuhnya berada dalam kendaliku saat ini karena membutuhkan keterampilan, pengalaman, sumber daya, dan kemungkinan kerja sama dengan pihak lain.
+3. Options and Trade-offs
+3.1 Pilihan yang Tersedia
+Opsi
+Keuntungan
+Risiko atau Trade-off
+A. Langsung mengejar game development sebagai karier utama
+Dapat memberikan fokus dan pengalaman lebih cepat di industri game
+Ketidakpastian penghasilan dan peluang kerja lebih berisiko
+B. Menjadikan game development sebagai side job
+Tetap dapat mengejar minat sambil menjaga pilihan karier dan kestabilan finansial
+Kemajuan proyek mungkin lebih lambat karena waktu terbatas
+C. Fokus pada keterampilan IT atau software development sambil membuat game
+Memberikan keterampilan yang dapat digunakan pada berbagai bidang dan mendukung pengembangan game
+Perhatian terbagi sehingga perkembangan game bisa lebih lambat
+D. Langsung membangun game studio
+Dapat mulai membangun identitas dan arah bisnis sendiri
+Membutuhkan kesiapan tim, pengalaman produksi, sumber daya, dan kemampuan mengelola bisnis
+3.2 Pilihan yang Diambil
+Aku memilih opsi B, yaitu menjadikan game development sebagai side job sambil mengembangkan keterampilan IT dan membangun portofolio.
+Pilihan ini bukan berarti aku menyerah pada tujuan menjadi game developer. Aku ingin tetap mengejar minat tersebut dengan mempertimbangkan kondisi industri dan kebutuhan finansial.
+Aku juga tidak menganggap side job sebagai tujuan akhir. Ini merupakan pendekatan bertahap menuju tujuan jangka panjang, yaitu mendirikan game studio sendiri ketika sudah lebih siap.
+3.3 Alasan dan Trade-off
+Aku menerima bahwa pengembangan game mungkin berjalan lebih lambat dibandingkan jika aku menjadikannya satu-satunya fokus. Namun, pendekatan ini memberiku ruang untuk belajar, bereksperimen, dan memperbaiki kualitas game tanpa langsung bergantung pada penghasilan dari game development.
+Aku juga perlu menerima bahwa mendirikan studio tidak dapat dicapai hanya dengan kemampuan membuat game. Aku perlu mengembangkan kemampuan bekerja sama, mengelola proyek, memahami kebutuhan pemain, dan mempertimbangkan aspek finansial.
+Karena itu, prioritas saat ini bukan langsung mendirikan studio, melainkan memperkuat pengalaman dan kualitas proyek yang sudah kumiliki.
+4. Agreement Eksplisit
+Agreement ini merupakan komitmen pribadi, bukan kesepakatan tim yang telah disetujui oleh teman atau calon kolaborator. Tindakan perbaikan bug pada Garis Tepi yang dijelaskan di bagian berikutnya merupakan tindakan yang sudah dilakukan, sedangkan rencana pemilihan proyek berikutnya masih merupakan komitmen lanjutan.
+4.1 Scope
+Aku berkomitmen untuk mengembangkan game development sebagai side job dengan memanfaatkan pengalaman game jam dan GDD yang sudah kumiliki.
+Fokus tindakan berikutnya adalah mengevaluasi game terdahulu, memilih satu proyek yang paling layak dikembangkan, mengidentifikasi bug, dan membuat rencana perbaikan berdasarkan prioritas.
+Tujuan jangka panjangnya adalah membangun portofolio dan pengalaman yang dapat menjadi dasar untuk mendirikan game studio sendiri.
+4.2 Owner
+Aku bertanggung jawab atas pemilihan proyek, penentuan prioritas, pengaturan waktu, pelaksanaan perbaikan, dan evaluasi hasil.
+Teman atau calon kolaborator hanya akan dilibatkan apabila mereka menyatakan kesediaannya. Untuk saat ini, agreement ini merupakan komitmen pribadiku dan bukan kesepakatan tim yang sudah disetujui semua pihak.
+4.3 Deadline
+Dalam tujuh hari sejak rencana ini mulai dijalankan, aku akan:
+Meninjau kembali game dan GDD yang pernah kubuat.
+Memilih satu game yang paling potensial untuk dikembangkan lebih lanjut.
+Membuat daftar bug dan masalah gameplay yang ditemukan.
+Menentukan prioritas perbaikan berdasarkan dampak bug terhadap pengalaman bermain.
+Menyusun rencana pengerjaan bertahap yang sesuai dengan jadwal kuliah.
+Deadline tujuh hari tersebut berlaku untuk pemilihan proyek dan penyusunan rencana awal, bukan untuk menyelesaikan seluruh bug atau menghasilkan game final.
+4.4 Evidence
+Evidence yang dapat digunakan untuk mengevaluasi tindakan ini meliputi:
+Game yang sudah pernah dibuat dan dapat dimainkan.
+GDD dari proyek-proyek terdahulu.
+Daftar game jam yang pernah diikuti, jika tersedia.
+Alasan pemilihan proyek prioritas.
+Daftar bug beserta tingkat prioritasnya.
+Catatan tindakan perbaikan dan hasil pengujian.
+Rencana pengembangan dan jadwal pengerjaan.
+Catatan evaluasi mengenai perkembangan keterampilan dan kualitas portofolio.
+Aku akan membedakan evidence yang sudah tersedia dari hasil yang masih direncanakan. Game yang sudah dapat dimainkan dan tindakan perbaikan pada Garis Tepi merupakan pengalaman yang telah dilakukan. Sementara itu, pemilihan proyek prioritas berikutnya dan rencana pengembangannya belum boleh dianggap selesai sebelum benar-benar dikerjakan.
+Bukti teknis yang bersifat privat tidak akan dibagikan tanpa izin tim. Jika memungkinkan, aku akan menggunakan dokumentasi yang telah disetujui untuk dibagikan, seperti catatan bug atau hasil pengujian yang tidak membuka source code.
+4.5 Stop Rule
+Game development akan tetap menjadi side job dan tidak boleh mengorbankan kewajiban kuliah, kebutuhan finansial, atau kesehatan.
+Jika jadwal kuliah sedang padat, aku akan mengurangi target pengerjaan, memperkecil lingkup fitur, atau menunda pekerjaan yang tidak mendesak. Aku tidak harus menyelesaikan seluruh proyek sekaligus untuk tetap bergerak menuju tujuan jangka panjang.
+Jika proyek yang dipilih ternyata terlalu besar atau tidak lagi realistis, aku akan mengevaluasi ulang lingkupnya sebelum memutuskan untuk melanjutkan, mengubah arah, atau memilih proyek lain.
+Jika perbaikan berpotensi merusak fitur lain atau membutuhkan perubahan di luar kewenanganku, aku akan menghentikan sementara perubahan tersebut dan melakukan peninjauan sebelum melanjutkan.
+4.6 Review
+Setelah menyelesaikan evaluasi awal dan melakukan perbaikan pada proyek prioritas, aku akan meninjau:
+Apakah proyek yang dipilih realistis untuk dikembangkan sebagai side job?
+Apakah perbaikan yang dilakukan meningkatkan stabilitas atau pengalaman bermain?
+Keterampilan teknis apa yang masih perlu dikembangkan?
+Apakah proyek tersebut layak dimasukkan ke portofolio?
+Apa langkah berikutnya yang paling mendukung tujuan membangun game studio?
+Hasil review akan digunakan untuk menyesuaikan prioritas berikutnya, bukan sekadar menentukan apakah aku berhasil atau gagal.
+5. Action Evidence and Adaptation
+5.1 Evidence yang Sudah Dimiliki
+Aku sudah memiliki pengalaman mengikuti berbagai game jam, membuat banyak GDD, dan menghasilkan game yang dapat dimainkan. Pengalaman ini menunjukkan bahwa aku telah melewati tahap awal dalam proses pengembangan game.
+Salah satu tindakan konkret yang sudah dilakukan adalah memperbaiki bug pada Garis Tepi. Bug yang ditemukan adalah script untuk neutral ending yang belum disertakan dalam implementasi game.
+Aku menyertakan script yang sebelumnya terlewat dan kemudian menguji alur neutral ending. Pengujian tersebut berhasil. Dengan demikian, tindakan ini mencakup identifikasi masalah, perbaikan implementasi, dan pemeriksaan fungsi setelah perbaikan.
+Proyek: Garis Tepi di itch.io
+5.2 Daftar Bug dan Hasil Perbaikan
+Proyek
+Bug yang Ditemukan
+Tindakan Perbaikan
+Hasil
+Garis Tepi
+Script untuk neutral ending belum disertakan dalam implementasi game.
+Menyertakan script neutral ending yang sebelumnya terlewat.
+Perbaikan dilakukan.
+Garis Tepi
+Alur neutral ending perlu diperiksa setelah perbaikan.
+Menguji alur neutral ending setelah script disertakan.
+Berhasil diuji.
+Catatan ini mendokumentasikan masalah konkret dan tindakan yang sudah dilakukan. Hasil pengujian dicantumkan berdasarkan pengerjaan yang telah dilakukan, bukan berdasarkan asumsi bahwa semua bug dalam game sudah selesai.
+5.3 Batasan Bukti Teknis
+Source code dan detail implementasi tidak dilampirkan karena merupakan bagian dari privasi tim pengembangan. Halaman itch.io menjadi referensi publik untuk proyek Garis Tepi, tetapi tidak membuktikan secara langsung perubahan script atau hasil pengujian.
+Daftar bug dalam portofolio ini mendokumentasikan masalah, tindakan perbaikan, dan hasil pengujian yang telah dilakukan. Namun, verifikasi eksternal terhadap perubahan teknis masih terbatas karena artefak implementasi tidak dapat dibagikan.
+Jika diizinkan oleh tim, bukti tambahan yang dapat digunakan adalah changelog yang telah disanitasi, catatan hasil pengujian, atau dokumentasi sebelum dan sesudah perbaikan yang tidak membuka source code privat. Aku tidak akan mengklaim telah melampirkan bukti tersebut sebelum benar-benar tersedia.
+5.4 Adaptasi Setelah Tindakan
+Kasus neutral ending pada Garis Tepi menunjukkan bahwa masalah teknis perlu ditangani melalui urutan yang jelas: mengidentifikasi bug, melakukan perbaikan, lalu menguji fungsi terkait.
+Untuk proyek berikutnya, aku akan menggunakan pendekatan serupa. Jika bug terlalu banyak, aku akan memulai dari masalah yang paling berdampak terhadap gameplay inti. Jika proyek terlalu besar, aku akan membatasi fitur pada bagian yang diperlukan agar game dapat dimainkan dengan lebih stabil.
+Jika terdapat keterampilan yang belum dikuasai, aku akan mempelajarinya berdasarkan kebutuhan proyek, bukan mencoba mempelajari semua hal sekaligus. Jika jadwal kuliah padat, aku akan membagi pengerjaan menjadi sesi yang lebih kecil dan realistis.
+Aku juga akan membedakan status perbaikan dari status verifikasi. Sebuah bug dapat dicatat sebagai sudah diperbaiki, tetapi keberhasilan fungsinya tetap perlu diuji sebelum dinyatakan selesai.
+5.5 Arah Jangka Panjang
+Dalam jangka panjang, aku ingin mengembangkan game development sebagai side job sampai memiliki pengalaman dan portofolio yang lebih kuat.
+Setelah itu, aku ingin mengevaluasi kemungkinan mengembangkan proyek bersama orang lain, membangun proses produksi yang lebih terstruktur, dan mempelajari aspek pengelolaan studio.
+Keputusan untuk mendirikan studio akan mempertimbangkan kesiapan keterampilan, pengalaman, tim, sumber daya, dan kondisi finansial. Dengan demikian, tujuan tersebut tetap menjadi arah jangka panjang tanpa memaksakan waktu pencapaian yang belum realistis.
+6. Refleksi
+Dari pengalaman mengikuti game jam dan membuat GDD, aku menyadari bahwa memiliki ide dan menghasilkan game yang dapat dimainkan merupakan langkah penting, tetapi bukan akhir dari proses pengembangan.
+Aku masih perlu belajar membawa proyek menuju kualitas yang lebih baik, termasuk memperbaiki bug, menguji gameplay, menentukan prioritas, dan menyelesaikan proyek secara bertahap.
+Kasus neutral ending pada Garis Tepi memberi contoh konkret mengenai proses tersebut. Script yang sebelumnya terlewat sudah disertakan dan alurnya berhasil diuji. Pengalaman ini menunjukkan bahwa perbaikan perlu diikuti pemeriksaan hasil agar tindakan tidak berhenti pada perubahan implementasi saja.
+Kekhawatiranku terhadap kondisi industri game tidak harus membuatku berhenti mengejar minat. Aku dapat menyesuaikan cara mengejarnya dengan menjadikan game development sebagai side job sambil tetap membangun keterampilan yang berguna untuk pilihan karier lainnya.
+Aku juga menyadari bahwa mendirikan studio sendiri membutuhkan lebih dari sekadar kemampuan membuat game. Aku perlu membangun pengalaman, portofolio, jaringan, dan kemampuan mengelola proyek.
+Langkah paling realistis saat ini adalah menggunakan pengalaman yang sudah kumiliki, memilih satu proyek yang layak dikembangkan, dan memperbaikinya secara bertahap tanpa mengabaikan tanggung jawab utama.
+7. Penggunaan AI
+AI dapat digunakan untuk membantu menyusun struktur evaluasi proyek, mengelompokkan bug berdasarkan dampak, dan membuat daftar pertanyaan untuk menilai kelayakan proyek sebagai portofolio.
+Namun, informasi mengenai bug, tindakan perbaikan, dan hasil pengujian harus berasal dari pengerjaan yang benar-benar dilakukan. AI dapat membantu merapikan dokumentasi, tetapi tidak menggantikan pengujian game atau menjadi bukti bahwa perubahan teknis berhasil.
+8. Feedback dan Tindak Lanjut
+Feedback dari pengalaman pengembangan sebelumnya adalah bahwa aku sudah berhasil menghasilkan game yang dapat dimainkan, tetapi masih perlu meningkatkan kualitas implementasi dan menangani bug.
+Tindakan konkret pada Garis Tepi menunjukkan bahwa aku telah memperbaiki satu masalah spesifik dan menguji fungsi yang terkait hingga berhasil. Pengalaman ini dapat menjadi dasar untuk menerapkan proses debugging dan evaluasi yang lebih konsisten pada proyek lain.
+Tindak lanjut berikutnya adalah memilih satu proyek prioritas dari game dan GDD yang sudah ada, menyusun daftar bug, dan menetapkan urutan perbaikan. Setelah tindakan dilakukan, aku akan mengevaluasi hasil berdasarkan evidence yang dapat diperiksa, seperti daftar bug sebelum dan sesudah perbaikan, hasil pengujian gameplay, serta catatan perubahan yang diizinkan untuk dibagikan.
+Belum ada hasil review baru untuk proyek prioritas berikutnya. Karena itu, bagian tersebut tetap menjadi rencana tindak lanjut dan tidak dinyatakan sebagai tindakan yang sudah selesai.
+9. Analisis Komunikasi dan Agreement
+Dimensi
+Analisis
+Person & Character
+Aku ingin mengejar minat dalam game development tanpa mengabaikan keberlanjutan karier dan kebutuhan finansial.
+Objective & State
+Kondisi saat ini mencakup pengalaman game jam, GDD, game yang dapat dimainkan, serta perbaikan bug pada Garis Tepi. Tujuan berikutnya adalah meningkatkan kualitas proyek dan membangun portofolio.
+Repertoire, Language & AI
+Pilihan dijelaskan melalui beberapa alternatif dan trade-off. AI dapat membantu menyusun evaluasi, tetapi fakta dan hasil pengujian tetap harus berasal dari pengerjaan nyata.
+Response & Adaptation
+Hambatan direspons melalui pemilihan proyek, prioritas bug, pembatasan scope, dan penyesuaian jadwal.
+Agreement & Action
+Scope, owner, deadline, evidence, stop rule, dan review telah dirumuskan sebagai komitmen pribadi. Perbaikan dan pengujian neutral ending sudah dilakukan, sedangkan rencana pemilihan proyek berikutnya masih menunggu pelaksanaan.
+Relationship Outcome
+Teman atau calon kolaborator dapat menjadi sumber masukan, tetapi belum ada dasar untuk menyatakan bahwa mereka telah menyepakati pembagian kerja.
+10. Self-Assessment
+Skor berikut merupakan self-assessment pribadi berdasarkan kelengkapan refleksi, perencanaan, dan tindakan yang dijelaskan. Skor ini bukan nilai resmi assessor. Penilaian akhir tetap bergantung pada rubrik dan bukti yang tersedia.
+Kategori
+Skor
+Alasan
+Person & Character
+4/4
+Tujuan pribadi, kekhawatiran, dan komitmen jangka panjang telah dijelaskan.
+Objective & State
+4/4
+Kondisi awal, kesenjangan tindakan, dan tujuan berikutnya telah dibedakan.
+Repertoire, Language & AI
+3/4
+Pilihan dan trade-off telah dianalisis, tetapi evidence eksternal mengenai kondisi industri belum menjadi dasar utama keputusan.
+Response & Adaptation
+4/4
+Hambatan, alternatif respons, stop rule, dan rencana adaptasi telah dijelaskan.
+Agreement, Action & Relationship
+4/4
+Agreement pribadi telah dirumuskan dan satu tindakan konkret telah diperbaiki serta diuji. Namun, bukti teknis eksternal terbatas dan belum ada agreement tim yang dikonfirmasi.
+Total
+19/20
+Target self-assessment, bukan nilai resmi assessor.
+Catatan: skor ini mencerminkan penilaian pribadi terhadap pemahaman, perencanaan, dan tindakan yang sudah dilakukan. Karena artefak teknis tidak dilampirkan dan rencana pemilihan proyek berikutnya belum selesai dilaksanakan, skor ini perlu ditinjau kembali apabila rubrik assessor mensyaratkan bukti eksternal untuk seluruh komponen Action.
+11. Ringkasan Action
+Elemen
+Keputusan atau Status
+Tujuan
+Mengembangkan game development sebagai side job hingga siap membangun studio sendiri
+Kondisi awal
+Sudah mengikuti game jam, membuat GDD, dan menghasilkan game yang dapat dimainkan
+Hambatan utama
+Kekhawatiran industri, banyaknya bug, keterbatasan waktu, dan kebutuhan finansial
+Pilihan
+Melanjutkan game development sebagai side job
+Tindakan konkret yang sudah dilakukan
+Memperbaiki script neutral ending pada Garis Tepi yang sebelumnya terlewat
+Hasil tindakan
+Alur neutral ending berhasil diuji
+Action berikutnya
+Mengevaluasi proyek terdahulu dan memilih satu game untuk dikembangkan
+Deadline awal
+Tujuh hari sejak rencana mulai dijalankan
+Evidence berikutnya
+Proyek terpilih, daftar bug, prioritas perbaikan, dan rencana pengerjaan
+Stop rule
+Menjaga keseimbangan dengan kuliah, kebutuhan finansial, dan kesehatan
+Review
+Mengevaluasi kualitas game, kelayakan portofolio, dan keterampilan yang masih dibutuhkan
+Batasan evidence
+Source code dan detail implementasi tidak dilampirkan karena privasi tim pengembangan
+12. Kesimpulan
+Aku tidak harus memilih antara meninggalkan game development dan langsung menjadikannya karier utama. Aku dapat mengejar minat tersebut secara bertahap melalui side job sambil memperkuat keterampilan IT, menjaga pilihan karier tetap terbuka, dan membangun portofolio.
+Tindakan pada Garis Tepi menunjukkan bahwa aku sudah melakukan lebih dari sekadar merencanakan perbaikan. Aku mengidentifikasi bug pada script neutral ending, menyertakan script yang sebelumnya terlewat, dan menguji alurnya hingga berhasil.
+Langkah berikutnya adalah mengevaluasi game yang sudah pernah kubuat, memilih satu proyek prioritas, dan menyusun daftar perbaikan berdasarkan dampaknya terhadap gameplay. Keberhasilan langkah tersebut akan dinilai berdasarkan tindakan dan evidence yang benar-benar tersedia, bukan hanya niat atau rencana.
+Dengan pendekatan ini, aku dapat mengembangkan kemampuan secara lebih terarah sambil mempertimbangkan tujuan jangka panjang untuk mendirikan game studio sendiri.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Erin Cherryl Angela
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://silinderpejal.github.io/kipp-students/index.html
+- https://silinderpejal.github.io/kipp-students/assets/logo.png
+- https://silinderpejal.github.io/kipp-students/course/index.html
+- https://silinderpejal.github.io/kipp-students/portfolio/index.html
+- https://silinderpejal.github.io/kipp-students/examples/index.html
+- https://silinderpejal.github.io/kipp-students/lk/index.html
+- https://silinderpejal.github.io/kipp-students/slides.html
+- https://silinderpejal.github.io/kipp-students/slides-pdf/index.html
+- https://silinderpejal.github.io/kipp-students/assessment/index.html
+- https://silinderpejal.github.io/kipp-students/about.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-02.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-03.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-06.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-09.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-11.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-12.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-13.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-14.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-15.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#week-10-action-agreement-challenge
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#desireaction-gap
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#tujuan-yang-ingin-dicapai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#kondisi-saat-ini
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#desireaction-gap-1
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#barrier-authority-map
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#hambatan-yang-dihadapi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#authority-map
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#options-and-trade-offs
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#pilihan-yang-tersedia
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#pilihan-yang-diambil
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#alasan-dan-trade-off
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#agreement-eksplisit
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#scope
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#owner
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#deadline
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#stop-rule
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#review
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#action-evidence-and-adaptation
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#evidence-yang-sudah-dimiliki
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#daftar-bug-dan-hasil-perbaikan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#batasan-bukti-teknis
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#adaptasi-setelah-tindakan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#arah-jangka-panjang
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#refleksi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#feedback-dan-tindak-lanjut
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#analisis-komunikasi-dan-agreement
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#ringkasan-action
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#kesimpulan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html#assessment-dosen
+- https://silinderpejal.itch.io/garis-tepi
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

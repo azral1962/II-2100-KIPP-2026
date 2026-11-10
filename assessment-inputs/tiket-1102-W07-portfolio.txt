@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1102
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 10/10/2026, wawancara tindak lanjut (follow-up) pada sore hari pukul 15.00 WIB di area Kantin Utama Kampus.
+Persons dan relationship: Pel (saya) kembali menemui Ibu Kasir Kantin untuk memaparkan solusi teknis yang telah dijanjikan sebelumnya.
+Objective dan initial state: - Objective: Menggeser kondisi Attention (rasa ingin tahu awal Ibu Kasir) menuju Interest (ketertarikan serius pada solusi) dengan cara menghindari feature dumping dan mendemonstrasikan mekanisme pemesanan WhatsApp yang relevan dengan beban kerjanya. - Initial state: Ibu Kasir sedang beristirahat (Attention state tercapai dari sesi sebelumnya), memiliki sedikit keraguan teknis (“Ribet nggak buat ibu-ibu?”), dan butuh bukti konkret tanpa merasa dipaksa menguasai teknologi baru.
+Evidence
+Transkrip Percakapan Pitch Minat 60 Detik:
+Pel: “Sore Bu, sesuai janji tadi siang ya. Kemarin Ibu bilang kan pusing banget kalau jam 12 harus nyatet pesanan manual dan ngurus kembalian.” (Menghubungkan masalah) Ibu Kasir: “Iya Neng, capeknya itu lho.” Pel: “Nah, buat ngurangin itu, kita pakai sistem Pre-Order via WhatsApp aja, Bu. Biar saya bantu set-up di HP Ibu.” (Mekanisme sederhana) Pel: “Cara kerjanya gini Bu (sambil menunjukkan HP): Nanti anak-anak WA pesanan dari kelas jam 11.30. Bot WA otomatis bikin daftarnya jadi satu, Ibu nggak usah ngetik ulang. Terus bayarnya wajib pakai QRIS biar Ibu nggak repot nyari receh.” (Nilai riil tanpa jargon teknis) Pel: “Tapi kekurangannya satu Bu, HP Ibu kuotanya harus nyala pas jam 11.30 biar daftar pesanannya masuk.” (Kejujuran/Batas teknis) Ibu Kasir: “Oh, cuma butuh kuota ya? Trus daftarnya langsung muncul gitu di WA ibu? Nggak perlu download aplikasi lagi?” (Hidden concern) Pel: “Betul Bu, di WA biasa aja. Gimana kalau besok kita tes coba 5 pesanan pertama pakai sistem ini dulu biar Ibu nggak kaget? (Undang Tanggapan)” Ibu Kasir: “Boleh deh Neng, dicoba aja. Asal nggak bikin antrean tambah panjang.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Mempertahankan karakter sebagai mitra (Problem Solver praktis) tanpa memosisikan diri sebagai orang IT yang terlalu teknis (feature dumper).
+Objective & state
+Berhasil menumbuhkan Interest (minat) yang ditandai dengan pertanyaan verifikasi teknis dari Ibu Kasir (“cuma butuh kuota? nggak perlu aplikasi?”).
+Repertoire & language
+Menghilangkan kata-kata rumit (memangkas fitur manajemen inventory) dan fokus murni pada benefit operasional di depan mata (daftar jadi satu di WA, QRIS biar tak repot kembalian).
+Response & adaptation
+Saat muncul keraguan tersembunyi (hidden concern) soal apakah butuh aplikasi baru, saya langsung menjawab dengan afirmatif (“Betul Bu, WA biasa aja”) lalu beradaptasi mengecilkan risiko dengan uji coba skala kecil (hanya 5 pesanan dulu).
+Agreement/action
+Ibu Kasir sepakat untuk menjalankan pilot test keesokan harinya dengan batas risiko yang jelas.
+Relationship outcome
+Terbangun relasi kepercayaan operasional yang baik. Ibu Kasir merasa tidak diakali dan mengetahui batasan teknis dari solusi yang ditawarkan (harus ada kuota).
+Penggunaan AI
+Tidak menggunakan AI. Pemotongan fitur dari ide awal manajemen stok menjadi solusi bot WA sederhana murni hasil analisis mandiri menggunakan Matriks Detoks Fitur. Transkrip pitch didokumentasikan dari hasil simulasi nyata di lapangan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Respons Ibu Kasir (“Boleh deh Neng, dicoba aja. Asal nggak bikin antrean tambah panjang”) menunjukkan penerimaan yang bersyarat, di mana solusi disetujui selama ia melindungi kepentingan inti target (kecepatan operasional).
+Adaptation/replay: Mengadaptasi tawaran trial menjadi sangat kecil (“5 pesanan pertama”) untuk menurunkan barrier of entry (hambatan untuk memulai).
+Next practice: Saya akan mempraktikkan keterampilan melakukan prototipe langsung (live demo yang nyata), bukan sekadar lisan, untuk memastikan target bisa melihat bukti kerjanya dengan mata kepala sendiri.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Menahan ego teknis dan sepenuhnya melayani kemudahan operasional target.
+Objective & State
+4
+Terdapat bukti perpindahan state dari perhatian (Attention) menuju minat serius (Interest).
+Repertoire, Language & AI
+4
+Detoks fitur sukses: bahasa ringkas, tanpa jargon, dan jujur menyebutkan batasan kuota.
+Response & Adaptation
+4
+Merespons ketakutan terselubung (hidden concern) tentang instalasi aplikasi secara tangkas.
+Agreement, Action & Relationship
+3
+Diperoleh komitmen pilot project skala kecil (5 order) yang realistis.
+Total: 19 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

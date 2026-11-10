@@ -1,0 +1,543 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1055
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Laporan Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Konteks Performance
+Objective dan Initial State
+Current State dan Desired State
+Mengidentifikasi Current State
+Menggali Desired State
+Current–Desired State Map
+Rumusan Desired State
+Feature–Benefit–Value–Outcome Chain
+Value Chain Utama
+Value Chain Kedua
+Percakapan dan Response
+Desire-State Conversation
+Analisis Response
+Response, Adaptation, dan Solution Refinement
+Identifikasi Hidden Concern
+Adaptation
+Perubahan Solusi
+Prototype V3 — Pusat Informasi Kelompok
+Alasan Perubahan
+Skenario Response Setelah Adaptation
+Risk dan Evidence Threshold
+Risk Assessment
+Evidence Threshold
+Acceptable Risk
+Agreement, Action, dan Relationship Outcome
+Agreement yang Dituju
+Action Plan
+Relationship Outcome
+Evidence
+Analisis Komunikasi
+Penggunaan AI
+Alat dan Peran AI
+Prompt Penting
+Output AI yang Digunakan dan Diubah
+Pemeriksaan Accuracy, Privacy, dan Authority
+Pembelajaran Pribadi
+Feedback dan Tindak Lanjut
+Feedback yang Diterima
+Adaptation/Replay
+Next Practice
+Self-Assessment
+Refleksi Akhir
+Assessment Dosen
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk dalam meningkatkan efektivitas koordinasi kelompok mahasiswa.
+Kompetensi Target
+Kompetensi yang ingin saya kembangkan adalah kemampuan memahami kondisi yang benar-benar diinginkan oleh target (desired state) dan menghubungkannya dengan solusi yang relevan.
+Saya juga berlatih menjelaskan hubungan antara fitur, manfaat, nilai, dan hasil yang diharapkan, serta mengidentifikasi risiko sebelum mengusulkan tindakan lebih lanjut.
+Melalui kegiatan ini, saya ingin memahami bahwa keberhasilan komunikasi bukan hanya ketika target menyukai sebuah solusi, tetapi ketika target dapat melihat bagaimana solusi tersebut membantu mencapai kondisi yang diinginkannya.
+Konteks Performance
+Tanggal dan setting: 5 November 2026, pengembangan skenario komunikasi Desire-State berdasarkan kasus koordinasi kelompok mahasiswa pada Week 6 dan Week 7.
+Persons dan relationship:
+Saya berperan sebagai anggota kelompok mahasiswa yang mengusulkan perbaikan mekanisme koordinasi informasi. Target komunikasi adalah ketua kelompok yang bertanggung jawab mengatur pembagian tugas, jadwal diskusi, dan penyampaian informasi kepada anggota lainnya.
+Hubungan kami bersifat setara sebagai sesama mahasiswa. Namun, ketua kelompok memiliki tanggung jawab lebih besar dalam memastikan koordinasi berjalan dengan baik.
+Objective dan Initial State
+Pada Week 6, saya mengangkat permasalahan mengenai informasi jadwal, deadline, dan pembagian tugas yang tersebar dalam percakapan WhatsApp.
+Pada Week 7, saya mengembangkan solusi berupa rangkuman informasi yang disematkan dalam grup. Solusi tersebut dilengkapi mekanisme verifikasi dan waktu pembaruan setelah mempertimbangkan kekhawatiran mengenai keakuratan informasi.
+Pada Week 9, saya ingin mengembangkan komunikasi menuju tahap Desire, yaitu membantu target menggambarkan kondisi ideal yang ingin dicapai dan memahami bagaimana solusi dapat memberikan nilai nyata.
+Objective:
+Membangun pemahaman bersama mengenai kondisi koordinasi kelompok yang diinginkan, menentukan indikator keberhasilan, dan menyesuaikan solusi agar dapat mencapai kondisi tersebut tanpa menambah beban kerja yang tidak diperlukan.
+Initial State:
+State awal dalam kelanjutan skenario adalah Interest with Concern.
+Target telah menunjukkan ketertarikan terhadap penggunaan rangkuman informasi, tetapi masih mempertimbangkan risiko informasi yang tidak akurat dan pekerjaan tambahan untuk memperbaruinya.
+Oleh karena itu, fokus komunikasi saya bukan lagi menjelaskan fitur solusi, melainkan memahami hasil akhir yang benar-benar dianggap penting oleh target.
+Current State dan Desired State
+Mengidentifikasi Current State
+Dalam konteks permasalahan kelompok, kondisi awal yang ingin diperbaiki meliputi:
+Informasi jadwal dan deadline disampaikan melalui beberapa pesan WhatsApp.
+Anggota terkadang perlu mencari kembali pesan lama untuk memastikan informasi terbaru.
+Ketua kelompok berpotensi menerima pertanyaan berulang mengenai informasi yang sebelumnya sudah disampaikan.
+Perubahan jadwal dapat menimbulkan kebingungan apabila informasi sebelumnya tidak diperbarui.
+Penggunaan rangkuman tambahan juga berisiko menciptakan dua sumber informasi yang harus dijaga konsistensinya.
+Kondisi tersebut merupakan hasil identifikasi masalah dalam rancangan kasus, bukan hasil pengukuran statistik.
+Menggali Desired State
+Untuk memahami kondisi yang diinginkan target, saya menyiapkan pertanyaan terbuka berikut:
+“Kalau nanti koordinasi kelompok kita berjalan lebih baik, menurut kamu perubahan apa yang paling terasa membantu? Apakah informasi lebih mudah ditemukan, pertanyaan berulang berkurang, atau justru pembagian tanggung jawabnya lebih jelas?”
+Pertanyaan tersebut bertujuan agar saya tidak langsung menganggap bahwa solusi yang saya tawarkan sudah sesuai dengan kebutuhan target.
+Current–Desired State Map
+Berikut merupakan rumusan desired state yang akan diuji dan divalidasi melalui percakapan dengan target.
+Elemen
+Kondisi dan Tujuan
+Current State
+Informasi tersebar dalam beberapa pesan, perubahan jadwal tidak selalu mudah ditemukan, dan ketua kelompok berpotensi menerima pertanyaan berulang.
+Desired State
+Anggota dapat menemukan informasi terbaru dengan mudah, tanpa membuat ketua kelompok harus mengelola dua sumber informasi yang berbeda.
+Value bagi Target
+Koordinasi lebih terstruktur, waktu ketua kelompok tidak habis untuk mengulang informasi, dan risiko kesalahpahaman berkurang.
+Value bagi Anggota
+Informasi lebih mudah diakses, pembagian tugas lebih jelas, dan anggota dapat memastikan jadwal secara mandiri.
+Acceptable Risk
+Percobaan terbatas selama satu minggu, tidak mengubah sumber informasi resmi, dan dapat dihentikan apabila menimbulkan masalah.
+Evidence Threshold
+Informasi yang ditampilkan akurat, anggota lebih mudah menemukan informasi, dan proses pembaruan tidak menambah beban kerja secara signifikan.
+Rumusan Desired State
+Desired state yang ingin saya validasi bersama target adalah:
+“Saya ingin anggota kelompok bisa menemukan informasi terbaru dengan mudah dan tidak perlu terus-menerus bertanya mengenai jadwal atau deadline. Namun, saya juga tidak ingin ada dua sumber informasi berbeda yang harus diperbarui setiap saat.”
+Rumusan tersebut menjadi dasar untuk mengevaluasi apakah solusi yang sebelumnya dikembangkan benar-benar dapat memberikan nilai bagi target.
+Feature–Benefit–Value–Outcome Chain
+Untuk memastikan solusi tidak hanya menawarkan fitur, saya menyusun hubungan antara mekanisme, manfaat, nilai, dan hasil yang diharapkan.
+Feature
+Benefit
+Value
+Expected Outcome
+Pesan informasi yang disematkan
+Informasi utama lebih mudah ditemukan
+Mengurangi waktu pencarian informasi
+Koordinasi menjadi lebih efisien
+Tautan atau acuan sumber resmi
+Anggota dapat memeriksa informasi terbaru
+Mengurangi risiko informasi yang tidak konsisten
+Keakuratan komunikasi meningkat
+Waktu pembaruan terakhir
+Anggota mengetahui kapan informasi diperiksa
+Meningkatkan transparansi informasi
+Kepercayaan terhadap rangkuman meningkat
+Pembagian tanggung jawab
+Proses pemeliharaan tidak bergantung pada satu orang
+Mengurangi beban ketua kelompok
+Mekanisme lebih mudah dipertahankan
+Evaluasi satu minggu
+Manfaat dapat diperiksa sebelum penerapan lanjutan
+Mengurangi risiko perubahan yang tidak efektif
+Keputusan didasarkan pada hasil percobaan
+Value Chain Utama
+Pesan informasi terpusat
+→ anggota lebih mudah menemukan informasi
+→ kebutuhan untuk menanyakan informasi berulang dapat berkurang
+→ ketua kelompok memiliki lebih banyak waktu untuk mengoordinasikan pekerjaan
+→ efektivitas komunikasi kelompok diharapkan meningkat.
+Value Chain Kedua
+Acuan pada sumber resmi dan waktu pembaruan
+→ anggota dapat memeriksa keakuratan informasi
+→ risiko menggunakan jadwal atau deadline yang sudah berubah dapat berkurang
+→ koordinasi menjadi lebih dapat dipercaya
+→ anggota dapat menjalankan tanggung jawab dengan lebih jelas.
+Kedua value chain tersebut merupakan hipotesis yang perlu diuji, bukan hasil yang sudah terbukti.
+Saya tidak menyatakan bahwa solusi pasti meningkatkan efisiensi dalam persentase tertentu karena belum tersedia data pengukuran yang mendukung klaim tersebut.
+Percakapan dan Response
+Desire-State Conversation
+Berikut merupakan skenario dialog yang digunakan sebagai bahan role-play.
+Saya: “Dari pembahasan sebelumnya, kita sudah punya contoh rangkuman informasi yang lebih rapi. Tapi saya ingin memastikan, sebenarnya kondisi seperti apa yang paling kamu harapkan dari koordinasi kelompok kita?”
+Ketua kelompok: “Menurut saya yang penting anggota bisa langsung tahu informasi terbaru. Saya juga tidak mau harus terus menjawab pertanyaan yang sama.”
+Saya: “Berarti tujuan utamanya bukan sekadar punya rangkuman, tetapi supaya informasi lebih mudah ditemukan dan anggota bisa mengeceknya sendiri?”
+Ketua kelompok: “Iya, tapi jangan sampai rangkumannya malah jadi pekerjaan tambahan. Kalau ada perubahan dari dosen, saya tidak mau harus memperbarui banyak tempat.”
+Saya: “Berarti kalau kita membuat rangkuman tetapi tetap harus memperbarui informasi yang sama di dua tempat, solusi itu sebenarnya belum menyelesaikan masalah?”
+Ketua kelompok: “Betul. Saya lebih setuju kalau ada satu sumber utama, sementara rangkumannya cukup membantu anggota menemukan informasi itu.”
+Analisis Response
+Dari skenario tersebut, saya mengidentifikasi bahwa kebutuhan utama target bukan hanya kemudahan akses informasi.
+Terdapat tiga nilai penting yang perlu dipenuhi:
+Accessibility: Anggota dapat menemukan informasi dengan mudah.
+Accuracy: Informasi yang digunakan sesuai dengan sumber terbaru.
+Efficiency: Mekanisme tidak menambah pekerjaan administratif yang berlebihan.
+Sebelumnya, saya lebih berfokus pada penggunaan rangkuman sebagai tempat mengumpulkan seluruh informasi.
+Namun, respons target memperlihatkan risiko bahwa rangkuman tersebut dapat berubah menjadi sumber informasi kedua yang harus terus diperbarui.
+Hal tersebut menjadi alasan untuk mengubah mekanisme solusi.
+Response, Adaptation, dan Solution Refinement
+Identifikasi Hidden Concern
+Hidden concern yang muncul adalah duplikasi pekerjaan dan konsistensi informasi.
+Pada Week 7, saya telah menambahkan proses verifikasi untuk memastikan rangkuman tetap akurat.
+Akan tetapi, pada Week 9 saya menyadari bahwa verifikasi saja belum tentu menyelesaikan masalah apabila informasi yang sama harus diperbarui di beberapa tempat.
+Dengan kata lain, solusi yang terlihat mempermudah anggota dapat menjadi beban baru bagi ketua kelompok.
+Adaptation
+Untuk menjawab kekhawatiran tersebut, saya mengubah fungsi rangkuman dari tempat menyimpan ulang seluruh informasi menjadi pusat navigasi informasi kelompok.
+Pada rancangan baru, informasi utama tetap mengacu pada sumber yang sudah digunakan dan disepakati.
+Pesan yang disematkan hanya memuat informasi penting yang diperlukan untuk membantu anggota menemukan sumber tersebut.
+Perubahan Solusi
+Aspek
+Solusi Sebelumnya (V2)
+Solusi Adaptasi (V3)
+Fungsi rangkuman
+Mengumpulkan informasi jadwal, deadline, dan tugas
+Membantu anggota menemukan informasi terbaru dari sumber utama
+Deadline resmi
+Ditulis kembali dalam rangkuman
+Mengacu pada pengumuman dosen atau platform resmi
+Pembaruan
+Rangkuman diperbarui ketika terjadi perubahan
+Informasi utama diperbarui pada sumbernya; pesan penunjuk diperbarui hanya jika diperlukan
+Risiko
+Potensi perbedaan antara rangkuman dan sumber resmi
+Risiko duplikasi informasi lebih kecil
+Tanggung jawab
+Anggota penyusun dan ketua kelompok
+Penanggung jawab sumber informasi tetap jelas, dengan bantuan anggota
+Value
+Informasi lebih mudah ditemukan
+Informasi lebih mudah ditemukan tanpa menciptakan sumber data tambahan
+Prototype V3 — Pusat Informasi Kelompok
+TipPrototype V3 — Pusat Informasi Kelompok
+PUSAT INFORMASI KELOMPOK
+1. Jadwal Diskusi
+Jadwal terbaru mengikuti kesepakatan yang tercantum dalam pesan pengumuman kelompok.
+2. Pembagian Tugas
+Daftar pembagian tugas dapat dilihat pada dokumen kerja kelompok yang telah disepakati.
+3. Deadline Akademik
+Deadline resmi mengikuti informasi pada platform perkuliahan atau pengumuman dosen.
+4. Informasi Penting
+Setiap perubahan jadwal dikonfirmasi terlebih dahulu.
+Anggota diharapkan memeriksa sumber informasi terbaru.
+Jika terdapat perbedaan informasi, sumber resmi menjadi acuan utama.
+Status: Format rancangan untuk percobaan.
+Alasan Perubahan
+Perubahan ini dilakukan karena saya ingin memastikan solusi benar-benar mendukung desired state target.
+Apabila tujuan target adalah mengurangi pekerjaan berulang, maka membuat rangkuman yang membutuhkan pembaruan ganda justru dapat bertentangan dengan tujuan tersebut.
+Dengan menjadikan rangkuman sebagai pusat navigasi, anggota tetap memperoleh kemudahan akses tanpa harus menciptakan mekanisme pengelolaan informasi yang terlalu kompleks.
+Perubahan ini menunjukkan bahwa adaptation dilakukan pada mekanisme solusi, bukan hanya pada cara saya menjelaskan manfaatnya.
+Skenario Response Setelah Adaptation
+Saya: “Kalau begitu, saya rasa kita tidak perlu menyalin semua informasi ke rangkuman. Kita cukup membuat satu pesan yang menunjukkan di mana informasi terbaru bisa ditemukan. Jadi, sumber resminya tetap sama dan kita tidak perlu memperbarui informasi yang sama berkali-kali. Menurut kamu, apakah cara ini lebih mendekati kebutuhan kelompok?”
+Ketua kelompok: “Iya, menurut saya ini lebih masuk akal. Kalau sumber informasinya tetap jelas, kita tidak perlu khawatir ada dua versi yang berbeda.”
+Saya: “Kalau begitu, sebelum digunakan lebih lanjut, bagaimana kalau kita periksa dulu apakah semua informasi penting memang sudah bisa diakses melalui format ini?”
+Ketua kelompok: “Boleh. Kita cek dulu bersama supaya tidak ada informasi yang tertinggal.”
+Respons tersebut menggambarkan sinyal Desire dalam skenario karena target mulai menghubungkan solusi dengan kondisi yang ingin dicapai.
+Namun, respons positif terhadap konsep belum menjadi bukti bahwa solusi sudah berhasil diterapkan.
+Risk dan Evidence Threshold
+Risk Assessment
+Saya mengidentifikasi beberapa risiko yang perlu diperhatikan sebelum solusi digunakan.
+Risk
+Dampak Potensial
+Safeguard
+Sumber informasi belum diperbarui
+Anggota menggunakan informasi lama
+Menampilkan waktu pemeriksaan dan mengacu pada pengumuman terbaru
+Informasi penting tidak tercantum
+Anggota tetap kesulitan menemukan informasi
+Memeriksa kelengkapan sebelum digunakan
+Anggota jarang membuka pesan yang disematkan
+Solusi tidak memberikan manfaat yang diharapkan
+Memberikan penjelasan singkat mengenai penggunaannya
+Tanggung jawab pembaruan tidak jelas
+Informasi menjadi tidak konsisten
+Menentukan penanggung jawab dan mekanisme konfirmasi
+Rangkuman terlalu kompleks
+Anggota enggan menggunakannya
+Membatasi isi pada informasi yang benar-benar diperlukan
+Evidence Threshold
+Untuk menentukan apakah solusi layak dipertahankan, saya mengusulkan percobaan terbatas selama satu minggu.
+Indikator keberhasilan yang digunakan adalah sebagai berikut:
+Indikator
+Target Evaluasi
+Cara Pemeriksaan
+Kemudahan akses
+Minimal 4 dari 5 anggota yang diuji dapat menemukan informasi utama dalam 1 menit
+Uji pencarian informasi sederhana
+Keakuratan
+Tidak ditemukan deadline resmi yang salah dalam pesan penunjuk
+Membandingkan dengan sumber resmi
+Beban pembaruan
+Tidak diperlukan pembaruan ganda untuk informasi yang sama
+Mengamati proses pembaruan
+Kemudahan penggunaan
+Sebagian besar anggota yang diuji menilai mekanisme lebih mudah digunakan
+Feedback singkat
+Kejelasan tanggung jawab
+Setiap informasi memiliki sumber dan penanggung jawab yang jelas
+Pemeriksaan bersama ketua kelompok
+Indikator di atas adalah target pengujian yang diusulkan, bukan hasil pengukuran yang sudah diperoleh.
+Acceptable Risk
+Risiko yang dianggap dapat diterima dalam rancangan percobaan adalah risiko kecil yang tidak mengubah informasi akademik resmi dan dapat diperbaiki dengan mudah.
+Percobaan dilakukan hanya pada satu kelompok dan dapat dihentikan apabila menimbulkan kesulitan baru.
+Saya juga tidak mengusulkan perubahan pada platform resmi perkuliahan karena hal tersebut berada di luar kewenangan kelompok.
+Agreement, Action, dan Relationship Outcome
+Agreement yang Dituju
+Kesepakatan dalam skenario diarahkan pada pemeriksaan kelayakan solusi sebelum melakukan penerapan lebih lanjut.
+Langkah yang direncanakan meliputi:
+Memeriksa apakah seluruh informasi utama kelompok memiliki sumber yang jelas.
+Menguji apakah format pesan penunjuk membantu anggota menemukan informasi.
+Memastikan tidak ada informasi resmi yang disalin secara berlebihan.
+Menentukan siapa yang bertanggung jawab terhadap setiap sumber informasi.
+Mengevaluasi kelayakan percobaan sebelum digunakan secara berkelanjutan.
+Kesepakatan ini tidak langsung dianggap sebagai persetujuan implementasi permanen.
+Action Plan
+Action
+Penanggung Jawab
+Waktu
+Output
+Meninjau prototype V3
+Saya dan ketua kelompok
+Hari pertama
+Format yang telah diperiksa
+Memastikan sumber informasi
+Ketua kelompok
+Hari pertama
+Daftar sumber utama
+Menguji pencarian informasi
+Anggota yang bersedia
+Selama percobaan
+Catatan kemudahan akses
+Mengevaluasi risiko
+Saya dan ketua kelompok
+Akhir percobaan
+Daftar temuan dan perbaikan
+Menentukan tindak lanjut
+Ketua kelompok bersama anggota
+Setelah evaluasi
+Keputusan melanjutkan, mengubah, atau menghentikan
+Relationship Outcome
+Pendekatan komunikasi yang saya gunakan menempatkan ketua kelompok sebagai pihak yang menentukan kebutuhan dan prioritas koordinasi.
+Saya berusaha menghindari sikap terlalu berfokus pada solusi yang telah saya buat sendiri.
+Sebaliknya, saya memberikan ruang bagi target untuk menjelaskan kondisi yang diinginkan serta menyampaikan pertimbangannya.
+Dengan cara tersebut, komunikasi diharapkan membangun hubungan yang lebih kolaboratif karena solusi dikembangkan berdasarkan kebutuhan bersama, bukan sekadar pendapat satu pihak.
+Evidence
+CatatanStatus Evidence
+Bagian ini memuat artefak rancangan dan skenario komunikasi. Respons target dalam contoh dialog belum dapat diklaim sebagai respons nyata tanpa pelaksanaan role-play atau percakapan yang terdokumentasi.
+Evidence 1 — Current dan Desired State Map
+Tabel Current–Desired State menunjukkan perbedaan kondisi awal dan kondisi yang ingin dicapai melalui solusi komunikasi.
+Kontribusi saya: Mengidentifikasi masalah, menyusun pertanyaan untuk menggali kebutuhan target, dan merumuskan desired state yang akan divalidasi.
+Evidence 2 — Feature–Benefit–Value–Outcome Chain
+Tabel value chain menjelaskan hubungan antara fitur, manfaat, nilai, dan hasil yang diharapkan.
+Kontribusi saya: Menyusun hubungan sebab-akibat sebagai hipotesis yang perlu diuji.
+Evidence 3 — Prototype V2 dan V3
+Perbandingan kedua prototype menunjukkan perubahan mekanisme dari rangkuman informasi menjadi pusat navigasi yang mempertahankan sumber utama.
+Kontribusi saya: Mengembangkan perubahan solusi berdasarkan risiko duplikasi dan kebutuhan efisiensi koordinasi.
+Evidence 4 — Risk Assessment dan Evidence Threshold
+Tabel risiko dan indikator pengujian menjelaskan bagaimana solusi dapat dievaluasi secara objektif.
+Kontribusi saya: Mengidentifikasi kemungkinan kegagalan, merancang langkah pencegahan, dan menetapkan indikator keberhasilan.
+Evidence 5 — Naskah Desire-State Conversation
+Skenario dialog menunjukkan penggunaan pertanyaan terbuka, konfirmasi pemahaman, dan respons terhadap hidden concern.
+Kontribusi saya: Menyusun strategi komunikasi dan adaptation untuk melatih kemampuan menggali desired state.
+Evidence tambahan yang diperlukan setelah praktik:
+Transkrip percakapan atau rekaman role-play yang dilakukan.
+Feedback observer mengenai pertanyaan dan respons target.
+Catatan revisi solusi berdasarkan respons yang benar-benar diterima.
+Hasil pengujian apabila percobaan dilaksanakan.
+Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Target merupakan ketua kelompok yang bertanggung jawab terhadap koordinasi. Pendekatan mempertimbangkan kebutuhan target untuk memperoleh informasi akurat tanpa tambahan pekerjaan yang berlebihan.
+Objective & State
+Objective adalah membangun desired state bersama target. Initial state berupa Interest with Concern, sedangkan state yang ingin dicapai adalah Desire yang ditunjukkan melalui pemahaman target terhadap nilai dan hasil yang diinginkan.
+Repertoire & Language
+Komunikasi menggunakan pertanyaan terbuka, active listening, konfirmasi pemahaman, value chain, dan penjelasan risiko. Bahasa dibuat sederhana dan berkaitan langsung dengan kebutuhan target.
+Response & Adaptation
+Kekhawatiran mengenai duplikasi pekerjaan mendorong perubahan mekanisme dari rangkuman penuh menjadi pusat navigasi yang mengacu pada sumber utama.
+Agreement/Action
+Tindak lanjut diarahkan pada pemeriksaan kelayakan, pengujian terbatas, indikator keberhasilan, serta evaluasi sebelum keputusan implementasi lebih lanjut.
+Relationship Outcome
+Pendekatan kolaboratif digunakan dengan mendengarkan kebutuhan target dan tidak memaksakan solusi awal. Target tetap dilibatkan dalam penentuan kondisi ideal dan batas risiko.
+Penggunaan AI
+Dalam penyusunan tugas ini, saya menggunakan ChatGPT untuk membantu mengembangkan struktur komunikasi pada tahap Desire.
+Alat dan Peran AI
+AI digunakan untuk:
+Membantu membedakan current state dan desired state.
+Menyusun hubungan feature, benefit, value, dan outcome.
+Mengidentifikasi risiko yang mungkin muncul dari mekanisme solusi.
+Mengembangkan alternatif adaptation berdasarkan hidden concern.
+Membantu menentukan indikator keberhasilan yang dapat diuji.
+Prompt Penting
+“Bantu saya mengembangkan skenario Desire-State Communication dari kasus koordinasi informasi kelompok mahasiswa. Jelaskan current state, desired state, feature–benefit–value–outcome chain, risiko, dan indikator keberhasilan. Buat pendekatan komunikasi yang menggali kebutuhan target, bukan langsung memaksakan solusi. Bedakan hipotesis dengan hasil yang sudah terbukti.”
+Output AI yang Digunakan dan Diubah
+Saya menggunakan bantuan AI untuk menyusun kerangka value chain, mengidentifikasi kemungkinan risiko, dan mengevaluasi hubungan antara solusi dengan desired state.
+Rancangan kemudian difokuskan pada mekanisme yang sederhana dan sesuai dengan kewenangan kelompok mahasiswa.
+Saya tidak menggunakan usulan yang membutuhkan pengembangan aplikasi baru karena solusi tersebut terlalu kompleks untuk permasalahan yang sedang dihadapi.
+Saya juga tidak menggunakan klaim peningkatan efisiensi dalam persentase tertentu karena belum tersedia hasil pengukuran yang mendukungnya.
+Pemeriksaan Accuracy, Privacy, dan Authority
+Accuracy:
+Saya memastikan bahwa value chain disajikan sebagai hipotesis, bukan sebagai hasil yang sudah terbukti.
+Keberhasilan solusi harus diperiksa menggunakan indikator yang telah ditetapkan.
+Privacy:
+Rancangan tidak memerlukan data pribadi anggota, isi percakapan privat, maupun informasi sensitif.
+Authority:
+Ketua kelompok memiliki kewenangan terhadap mekanisme komunikasi internal, tetapi tidak memiliki kewenangan mengubah ketentuan akademik resmi.
+Oleh karena itu, seluruh informasi mengenai deadline resmi tetap mengacu pada dosen atau platform perkuliahan.
+Pembelajaran Pribadi
+Saya memahami bahwa AI dapat membantu mengidentifikasi hubungan logis antara fitur dan manfaat, tetapi tidak dapat memastikan apakah suatu nilai benar-benar menjadi prioritas target tanpa komunikasi langsung.
+Saya juga belajar untuk tidak langsung menerima semua rekomendasi AI, terutama apabila rekomendasi tersebut mengandung asumsi yang belum diverifikasi.
+Feedback dan Tindak Lanjut
+Feedback yang Diterima
+Feedback berikut merupakan contoh yang digunakan dalam skenario role-play dan perlu disesuaikan dengan hasil komunikasi sebenarnya.
+“Saya setuju kalau informasi dibuat lebih mudah ditemukan. Tetapi kalau harus memperbarui informasi yang sama di dua tempat, itu justru menambah pekerjaan. Lebih baik tetap ada satu sumber utama.”
+Feedback tersebut menunjukkan bahwa manfaat solusi tidak hanya diukur dari kemudahan akses, tetapi juga dari efisiensi proses pengelolaan informasi.
+Adaptation/Replay
+Sebelum adaptation, saya berfokus pada penyediaan rangkuman lengkap yang selalu diperbarui.
+Setelah mempertimbangkan feedback, saya melakukan tiga perubahan utama:
+Mengubah fungsi rangkuman menjadi pusat navigasi informasi.
+Mempertahankan sumber resmi sebagai acuan utama.
+Menambahkan indikator keberhasilan yang mempertimbangkan beban pembaruan, bukan hanya kemudahan akses.
+Dalam skenario replay, target memberikan respons yang lebih positif karena mekanisme baru lebih sesuai dengan kondisi ideal yang diinginkan.
+Perubahan tersebut juga membuat saya memahami bahwa solusi yang lebih sederhana belum tentu memiliki nilai lebih rendah. Dalam beberapa kondisi, justru pengurangan kompleksitas dapat meningkatkan manfaat bagi pengguna.
+Next Practice
+Pada latihan berikutnya, saya akan berfokus pada kemampuan mengonfirmasi desired state menggunakan bahasa target sendiri sebelum menjelaskan solusi.
+Perilaku spesifik yang akan saya latih adalah mengajukan pertanyaan:
+“Kalau saya simpulkan, yang paling penting buat kamu adalah informasi mudah ditemukan tanpa menambah pekerjaan koordinasi. Apakah itu sudah sesuai dengan yang kamu maksud?”
+Pertanyaan ini membantu saya memastikan bahwa pemahaman saya terhadap kebutuhan target sudah tepat sebelum mengusulkan tindakan berikutnya.
+Self-Assessment
+Penilaian berikut merupakan target berdasarkan kualitas rancangan komunikasi. Skor akhir perlu dikonfirmasi melalui evidence dari pelaksanaan.
+Dimensi
+Skor 1–4
+Evidence Singkat
+Person & Character
+4
+Desired state berfokus pada kebutuhan dan tanggung jawab ketua kelompok, bukan hanya asumsi penyusun solusi.
+Objective & State
+4
+Current state, desired state, value, acceptable risk, dan evidence threshold dirumuskan secara jelas.
+Repertoire, Language & AI
+4
+Komunikasi menggunakan pertanyaan terbuka, konfirmasi pemahaman, value chain, dan AI secara transparan.
+Response & Adaptation
+4
+Hidden concern mengenai duplikasi pekerjaan menghasilkan perubahan substantif dari prototype V2 menjadi V3.
+Agreement, Action & Relationship
+3
+Rencana pemeriksaan dan evaluasi sudah terstruktur, tetapi hasil kesepakatan serta penerapannya masih memerlukan bukti nyata.
+Refleksi Akhir
+Melalui kegiatan Desire-State Communication ini, saya memahami bahwa keberhasilan menawarkan solusi tidak hanya ditentukan oleh seberapa menarik fitur yang disampaikan, tetapi juga oleh seberapa relevan solusi tersebut dengan kondisi yang benar-benar diinginkan target.
+Pada awalnya, saya berfokus pada pembuatan rangkuman informasi untuk mempermudah koordinasi kelompok. Namun, setelah mempertimbangkan perspektif target, saya menyadari bahwa solusi tersebut juga harus memperhatikan risiko tambahan pekerjaan dan ketidakkonsistenan informasi.
+Hal penting yang saya pelajari adalah bahwa suatu solusi perlu dikembangkan berdasarkan kebutuhan pengguna, bukan hanya berdasarkan asumsi pembuatnya.
+Saya juga memahami bahwa respons atau keberatan dari target dapat menjadi sumber informasi yang sangat berharga untuk memperbaiki rancangan solusi.
+Ke depannya, saya ingin lebih terbiasa menggali desired state terlebih dahulu, mengonfirmasi pemahaman, dan menentukan indikator keberhasilan sebelum menawarkan tindakan.
+Dengan begitu, komunikasi yang saya lakukan tidak hanya menghasilkan ketertarikan terhadap suatu ide, tetapi juga membantu membangun pemahaman bersama mengenai nilai dan hasil yang ingin dicapai.
+Total: 19/20
+Assessment Dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Laporan Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/portfolio/week-09.html#quarto-document-content
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-09.html#kompetensi-target
+- https://athus1104.github.io/repo/portfolio/week-09.html#konteks-performance
+- https://athus1104.github.io/repo/portfolio/week-09.html#objective-dan-initial-state
+- https://athus1104.github.io/repo/portfolio/week-09.html#current-state-dan-desired-state
+- https://athus1104.github.io/repo/portfolio/week-09.html#mengidentifikasi-current-state
+- https://athus1104.github.io/repo/portfolio/week-09.html#menggali-desired-state
+- https://athus1104.github.io/repo/portfolio/week-09.html#currentdesired-state-map
+- https://athus1104.github.io/repo/portfolio/week-09.html#rumusan-desired-state
+- https://athus1104.github.io/repo/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://athus1104.github.io/repo/portfolio/week-09.html#value-chain-utama
+- https://athus1104.github.io/repo/portfolio/week-09.html#value-chain-kedua
+- https://athus1104.github.io/repo/portfolio/week-09.html#percakapan-dan-response
+- https://athus1104.github.io/repo/portfolio/week-09.html#desire-state-conversation
+- https://athus1104.github.io/repo/portfolio/week-09.html#analisis-response
+- https://athus1104.github.io/repo/portfolio/week-09.html#response-adaptation-dan-solution-refinement
+- https://athus1104.github.io/repo/portfolio/week-09.html#identifikasi-hidden-concern
+- https://athus1104.github.io/repo/portfolio/week-09.html#adaptation
+- https://athus1104.github.io/repo/portfolio/week-09.html#perubahan-solusi
+- https://athus1104.github.io/repo/portfolio/week-09.html#prototype-v3-pusat-informasi-kelompok
+- https://athus1104.github.io/repo/portfolio/week-09.html#alasan-perubahan
+- https://athus1104.github.io/repo/portfolio/week-09.html#skenario-response-setelah-adaptation
+- https://athus1104.github.io/repo/portfolio/week-09.html#risk-dan-evidence-threshold
+- https://athus1104.github.io/repo/portfolio/week-09.html#risk-assessment
+- https://athus1104.github.io/repo/portfolio/week-09.html#evidence-threshold
+- https://athus1104.github.io/repo/portfolio/week-09.html#acceptable-risk
+- https://athus1104.github.io/repo/portfolio/week-09.html#agreement-action-dan-relationship-outcome
+- https://athus1104.github.io/repo/portfolio/week-09.html#agreement-yang-dituju
+- https://athus1104.github.io/repo/portfolio/week-09.html#action-plan
+- https://athus1104.github.io/repo/portfolio/week-09.html#relationship-outcome
+- https://athus1104.github.io/repo/portfolio/week-09.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-09.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-09.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-09.html#alat-dan-peran-ai
+- https://athus1104.github.io/repo/portfolio/week-09.html#prompt-penting
+- https://athus1104.github.io/repo/portfolio/week-09.html#output-ai-yang-digunakan-dan-diubah
+- https://athus1104.github.io/repo/portfolio/week-09.html#pemeriksaan-accuracy-privacy-dan-authority
+- https://athus1104.github.io/repo/portfolio/week-09.html#pembelajaran-pribadi
+- https://athus1104.github.io/repo/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-09.html#feedback-yang-diterima
+- https://athus1104.github.io/repo/portfolio/week-09.html#adaptationreplay
+- https://athus1104.github.io/repo/portfolio/week-09.html#next-practice
+- https://athus1104.github.io/repo/portfolio/week-09.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-09.html#refleksi-akhir
+- https://athus1104.github.io/repo/portfolio/week-09.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

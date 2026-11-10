@@ -1,0 +1,350 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1019
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 7 — Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Tugas Minggu 6 — Target–Attention Challenge
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Tugas Minggu 9 — Desire-State Communication
+Tugas Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+1. Kompetensi Target
+2. Evidence Wajib
+3. Status Pengerjaan
+4. Attention Evidence dan Solution Hypothesis
+4.1 Pembaruan Pemahaman dari W06
+4.2 Solution Hypothesis
+4.3 Problem–Solution Link
+4.4 Batasan Solusi Awal
+5. Problem–Solution Interest Pitch
+5.1 Penyusunan Pitch
+5.2 Pitch kepada Target
+5.3 Demonstrasi Konsep
+6. Potongan Transcript (Interest Pitch dan Demonstration)
+6.1 Respons Awal Target
+6.2 Pertanyaan Pendalaman
+6.3 Indikasi Interest
+7. Response, State Assessment, dan Hidden Concern
+7.1 State Assessment
+7.2 Hidden Concern
+7.3 Adaptasi Solusi
+8. Analisis Repertoire dan Penggunaan AI
+8.1 Repertoire Komunikasi
+8.2 Penggunaan AI
+9. Evidence, Feedback, dan Next Step
+9.1 Evidence
+9.2 Feedback dan Insight
+9.3 Next Step
+10. Self-Assessment (Rubrik Evaluasi Mandiri)
+Refleksi Akhir
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Professional
+Interest
+Menghubungkan masalah dengan solusi dan memperoleh Interest dari target.
+1. Kompetensi Target
+Pada minggu ini, saya berlatih menghubungkan masalah yang telah divalidasi dengan solusi yang relevan bagi target komunikasi.
+Saya tidak hanya ingin menjelaskan fitur yang akan dibuat, tetapi juga menunjukkan manfaatnya terhadap kebutuhan mahasiswa dan petugas administrasi.
+Kompetensi yang ingin saya kembangkan: - Menghubungkan masalah dengan solusi secara logis. - Menjelaskan manfaat solusi berdasarkan kebutuhan target. - Menyampaikan pitch yang singkat dan mudah dipahami. - Menggunakan demonstrasi sederhana untuk memperjelas solusi. - Membaca respons target dan mengidentifikasi ketertarikan maupun kekhawatiran yang belum disampaikan secara langsung. - Menyesuaikan solusi berdasarkan masukan target.
+2. Evidence Wajib
+Evidence yang menjadi fokus: 1. Hubungan antara masalah dan solusi. 2. Problem–solution pitch. 3. Demonstrasi atau gambaran prototype. 4. Respons dan pertanyaan target. 5. Indikasi Interest yang muncul. 6. Penyesuaian solusi berdasarkan masukan target.
+3. Status Pengerjaan
+CatatanIdentitas
+Nama: Keisha Nazla Ananta Putri
+NIM: 18225059
+Tugas: W07 — Problem–Solution Interest Pitch
+Status: Siap Dinilai
+4. Attention Evidence dan Solution Hypothesis
+4.1 Pembaruan Pemahaman dari W06
+Pada minggu sebelumnya, saya memperoleh pemahaman bahwa masalah peminjaman ruangan bukan semata-mata karena informasi tidak tersedia. Petugas administrasi menjelaskan bahwa informasi sebenarnya sudah ada, tetapi mahasiswa belum tentu mengetahui tempat memperoleh informasi terbaru.
+Selain itu, pembaruan jadwal dan pembatalan peminjaman juga perlu diperhatikan agar informasi yang diterima mahasiswa tetap sesuai dengan kondisi sebenarnya.
+Dari hasil tersebut, saya menetapkan tiga kebutuhan utama:
+Mahasiswa membutuhkan cara yang lebih mudah untuk mengetahui status ruangan.
+Petugas administrasi membutuhkan penyampaian informasi yang tidak menambah pekerjaan berulang.
+Informasi yang ditampilkan harus memiliki kejelasan waktu pembaruan dan sumber data.
+4.2 Solution Hypothesis
+Saya mengajukan solusi berupa dashboard informasi ketersediaan ruangan yang dapat diakses melalui tautan atau QR code.
+Dashboard tersebut menampilkan: - Nama dan lokasi ruangan. - Status ruangan: tersedia, dipesan, atau sedang digunakan. - Jadwal penggunaan. - Waktu terakhir pembaruan informasi. - Kontak atau petunjuk konfirmasi apabila mahasiswa membutuhkan informasi lebih lanjut.
+Solusi ini tidak dimaksudkan untuk menggantikan sistem administrasi yang sudah berjalan. Dashboard hanya menjadi sarana untuk mempermudah akses informasi yang telah dimiliki petugas.
+4.3 Problem–Solution Link
+Masalah
+Solusi
+Manfaat bagi Target
+Mahasiswa tidak mengetahui tempat memperoleh informasi
+Dashboard yang dapat diakses melalui tautan atau QR code
+Informasi lebih mudah ditemukan
+Mahasiswa harus bertanya berulang kali
+Status ruangan dapat dilihat secara mandiri
+Mengurangi pertanyaan sederhana
+Informasi dapat berubah sewaktu-waktu
+Menampilkan waktu pembaruan
+Mahasiswa mengetahui tingkat kebaruan informasi
+Petugas perlu memastikan informasi tetap benar
+Pembaruan tetap dilakukan oleh petugas berwenang
+Kontrol informasi tetap terjaga
+4.4 Batasan Solusi Awal
+Saya sengaja tidak langsung memasukkan fitur pemesanan otomatis, pembayaran, atau integrasi dengan seluruh sistem kampus.
+Fitur tersebut membutuhkan kewenangan, integrasi teknis, dan proses administrasi yang lebih kompleks. Untuk tahap awal, saya ingin menguji apakah dashboard informasi sederhana benar-benar membantu kebutuhan pengguna.
+5. Problem–Solution Interest Pitch
+5.1 Penyusunan Pitch
+Saya menyusun pitch dengan urutan: 1. Mengingatkan kembali masalah yang sudah dibahas. 2. Menunjukkan solusi yang berhubungan langsung dengan masalah. 3. Menjelaskan manfaat bagi mahasiswa dan petugas. 4. Meminta tanggapan target terhadap solusi.
+5.2 Pitch kepada Target
+Saya:
+“Dari pembicaraan sebelumnya, saya memahami bahwa informasi peminjaman sebenarnya sudah tersedia, tetapi mahasiswa belum tentu mengetahui tempat untuk melihat informasi tersebut. Selain itu, perubahan jadwal juga perlu diperhatikan supaya informasi yang diterima tidak salah.”
+“Saya mencoba membuat konsep dashboard sederhana yang menampilkan status setiap ruangan, jadwal penggunaannya, dan waktu terakhir informasi diperbarui. Mahasiswa bisa mengaksesnya melalui tautan atau QR code tanpa harus selalu bertanya terlebih dahulu.”
+“Menurut Bapak/Ibu, apakah bentuk informasi seperti ini akan membantu proses yang sekarang berjalan?”
+5.3 Demonstrasi Konsep
+Saya membuat gambaran awal dashboard dengan contoh informasi berikut:
+Ruangan
+Jadwal
+Status
+Pembaruan
+Ruang A
+09.00–11.00
+Digunakan
+08.30
+Ruang B
+09.00–11.00
+Tersedia
+08.35
+Ruang C
+13.00–15.00
+Dipesan
+08.40
+Pada demonstrasi tersebut, saya menunjukkan bahwa mahasiswa dapat melihat informasi tanpa harus membaca seluruh jadwal peminjaman secara manual.
+Saya juga menekankan bahwa informasi pada contoh tersebut merupakan gambaran tampilan, bukan data peminjaman resmi.
+6. Potongan Transcript (Interest Pitch dan Demonstration)
+6.1 Respons Awal Target
+Petugas Administrasi:
+“Kalau tampilannya seperti ini, mahasiswa mungkin akan lebih mudah mengetahui ruangan mana yang masih tersedia.”
+Saya:
+“Berarti dari sisi mahasiswa, informasi status ruangan yang langsung terlihat cukup membantu?”
+Petugas Administrasi:
+“Iya. Tetapi saya ingin tahu siapa yang nantinya memperbarui status tersebut. Kalau jadwal berubah, apakah dashboard juga langsung berubah?”
+Saya:
+“Untuk tahap awal, saya membayangkan pembaruan dilakukan oleh petugas yang memang memiliki akses terhadap jadwal peminjaman. Saya belum ingin membuat sistem otomatis sebelum mengetahui apakah proses tersebut memungkinkan.”
+Petugas Administrasi:
+“Kalau begitu, perlu dipastikan bahwa petugas tidak harus memasukkan data dua kali. Kalau jadwal sudah ada di sistem lain, sebaiknya informasi yang ditampilkan berasal dari data tersebut.”
+6.2 Pertanyaan Pendalaman
+Saya:
+“Apakah menurut Bapak/Ibu lebih baik dashboard mengambil informasi dari jadwal yang sudah ada, dibandingkan membuat formulir baru untuk memasukkan semua data?”
+Petugas Administrasi:
+“Menurut saya iya. Kalau harus mengisi dua tempat, justru pekerjaan menjadi lebih banyak.”
+Saya:
+“Baik, berarti hal yang perlu saya perhatikan adalah bagaimana informasi dapat ditampilkan tanpa membuat petugas melakukan pekerjaan tambahan.”
+Petugas Administrasi:
+“Betul. Selain itu, informasi yang ditampilkan juga harus jelas kapan terakhir diperbarui.”
+6.3 Indikasi Interest
+Saya melihat adanya beberapa indikasi ketertarikan dari target: - Target memberikan tanggapan positif terhadap tampilan status ruangan. - Target menanyakan mekanisme pembaruan informasi. - Target memberikan saran mengenai penggunaan data yang sudah tersedia. - Target membahas kondisi yang perlu diperhatikan apabila solusi diuji coba.
+Saya tidak mengartikan respons positif tersebut sebagai persetujuan implementasi. Pertanyaan target menunjukkan bahwa solusi mulai dipertimbangkan, tetapi masih terdapat beberapa aspek yang harus diperjelas.
+7. Response, State Assessment, dan Hidden Concern
+7.1 State Assessment
+Aspek
+Sebelum Pitch
+Setelah Pitch
+Pemahaman solusi
+Target belum mengetahui konsep dashboard
+Target memahami fungsi dashboard
+Ketertarikan
+Belum diketahui
+Target memberikan pertanyaan lanjutan
+Kekhawatiran
+Belum teridentifikasi
+Beban pembaruan dan akurasi informasi
+Kebutuhan lanjutan
+Belum diketahui
+Integrasi dengan data yang sudah tersedia
+7.2 Hidden Concern
+Saya mengidentifikasi empat kekhawatiran utama:
+1. Duplikasi pekerjaan
+Target tidak ingin petugas harus memasukkan informasi yang sama ke dua tempat berbeda.
+2. Akurasi informasi
+Dashboard yang menampilkan informasi lama dapat menyebabkan mahasiswa mengambil keputusan yang salah.
+3. Kewenangan pembaruan
+Tidak semua pengguna seharusnya dapat mengubah status ruangan karena informasi tersebut berkaitan dengan administrasi kampus.
+4. Keterbatasan teknis
+Penggunaan data dari sistem yang sudah tersedia mungkin membutuhkan izin atau dukungan bagian IT.
+7.3 Adaptasi Solusi
+Berdasarkan respons tersebut, saya mengubah konsep awal.
+Awalnya saya membayangkan dashboard yang memiliki formulir pengisian jadwal tersendiri. Namun, saya menyadari bahwa pendekatan tersebut berpotensi membuat pekerjaan petugas menjadi dua kali.
+Saya kemudian mengubah konsep menjadi dashboard yang memanfaatkan data jadwal yang sudah tersedia, apabila secara teknis dan administratif memungkinkan.
+Saya juga menambahkan informasi waktu pembaruan agar mahasiswa dapat mengetahui kapan informasi terakhir diperiksa.
+Untuk mencegah perubahan data yang tidak berwenang, akses pembaruan tetap dibatasi kepada petugas yang bertanggung jawab.
+8. Analisis Repertoire dan Penggunaan AI
+8.1 Repertoire Komunikasi
+Repertoire
+Penerapan
+Tujuan
+Problem–solution framing
+Menghubungkan kesulitan akses dengan dashboard
+Menunjukkan relevansi solusi
+Demonstration
+Menampilkan contoh dashboard
+Membantu target memahami solusi
+Open-ended question
+Meminta pendapat mengenai konsep
+Mengundang respons
+Active listening
+Memperhatikan kekhawatiran tentang pembaruan data
+Memahami kebutuhan target
+Reframing
+Mengubah formulir mandiri menjadi pemanfaatan data yang tersedia
+Mengurangi beban operasional
+Acknowledgement
+Mengakui pentingnya akurasi dan kewenangan
+Menjaga kepercayaan target
+8.2 Penggunaan AI
+Saya menggunakan AI untuk mengevaluasi hubungan antara masalah dan solusi, terutama apakah fitur yang ditawarkan benar-benar menjawab kebutuhan target.
+Contoh prompt:
+“Evaluasi konsep dashboard informasi ruangan berikut. Apakah setiap fitur memiliki hubungan langsung dengan masalah yang dialami mahasiswa dan petugas administrasi? Identifikasi fitur yang berpotensi menambah beban pekerjaan dan berikan alternatif yang lebih sederhana.”
+AI membantu saya melihat kemungkinan kelemahan konsep, tetapi saya tidak menggunakan hasilnya sebagai bukti bahwa sistem dapat diintegrasikan dengan data kampus.
+Aspek teknis tersebut tetap membutuhkan pemeriksaan dari pihak yang memiliki kewenangan.
+9. Evidence, Feedback, dan Next Step
+9.1 Evidence
+Evidence
+Isi
+Tujuan
+Problem–Solution Mapping
+Hubungan masalah, fitur, dan manfaat
+Menunjukkan relevansi solusi
+Dashboard Mockup
+Contoh tampilan status ruangan
+Memperjelas demonstrasi
+Transcript
+Respons dan pertanyaan target
+Menilai Interest
+Adaptation Notes
+Perubahan mekanisme pembaruan informasi
+Menunjukkan kemampuan beradaptasi
+Feature Revision
+Pembatasan fitur dan akses
+Menanggapi kekhawatiran target
+9.2 Feedback dan Insight
+Masukan paling penting dari target adalah bahwa solusi tidak boleh menambah pekerjaan administrasi.
+Saya sebelumnya lebih fokus pada kemudahan akses informasi bagi mahasiswa. Setelah mendapat masukan, saya memahami bahwa solusi juga harus mempertimbangkan proses kerja pihak yang bertanggung jawab atas data.
+Saya belajar bahwa solusi yang terlihat sederhana bagi pengguna belum tentu sederhana bagi pihak yang mengelolanya.
+9.3 Next Step
+Pada minggu berikutnya, saya akan menggali kondisi ideal yang diinginkan target secara lebih mendalam.
+Saya ingin mengetahui: 1. Informasi apa yang paling dibutuhkan mahasiswa? 2. Seberapa sering informasi perlu diperbarui? 3. Bagaimana target menentukan bahwa informasi sudah cukup akurat? 4. Risiko apa yang harus dicegah sebelum dashboard diuji coba?
+10. Self-Assessment (Rubrik Evaluasi Mandiri)
+Dimensi
+Penilaian
+Alasan
+Person & Character
+4
+Saya mempertimbangkan kebutuhan mahasiswa dan petugas administrasi.
+Objective & State
+4
+Saya membedakan respons positif, pertanyaan lanjutan, dan persetujuan implementasi.
+Repertoire, Language & AI
+4
+Saya menggunakan pitch, demonstrasi, pertanyaan terbuka, dan AI untuk mengevaluasi konsep.
+Response & Adaptation
+4
+Saya mengubah konsep pembaruan data setelah menerima keberatan target.
+Agreement, Action & Relationship
+4
+Saya tidak memaksakan persetujuan dan mengarahkan pembicaraan pada kebutuhan validasi selanjutnya.
+Total Self-Assessment: 20/20
+Refleksi Akhir
+Saya belajar bahwa menyampaikan solusi tidak cukup hanya dengan menunjukkan fitur yang menarik. Solusi harus dapat menjawab masalah dan tetap sesuai dengan kondisi pihak yang akan menggunakannya.
+Respons target membuat saya menyadari bahwa fitur yang terlihat membantu mahasiswa dapat menjadi beban tambahan bagi petugas apabila mekanismenya tidak dirancang dengan tepat.
+Saya juga belajar untuk tidak menganggap pertanyaan target sebagai penolakan. Justru melalui pertanyaan tersebut, saya dapat mengetahui aspek yang belum saya pikirkan dan memperbaiki solusi sebelum melangkah lebih jauh.
+Kembali ke atas
+Tugas Minggu 6 — Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#status-pengerjaan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#pembaruan-pemahaman-dari-w06
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#solution-hypothesis
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#problemsolution-link
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#batasan-solusi-awal
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#problemsolution-interest-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#penyusunan-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#pitch-kepada-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#demonstrasi-konsep
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#potongan-transcript-interest-pitch-dan-demonstration
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#respons-awal-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#pertanyaan-pendalaman
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#indikasi-interest
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#response-state-assessment-dan-hidden-concern
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#state-assessment
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#hidden-concern
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#adaptasi-solusi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#analisis-repertoire-dan-penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#repertoire-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#evidence-feedback-dan-next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#feedback-dan-insight
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#self-assessment-rubrik-evaluasi-mandiri
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#refleksi-akhir
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

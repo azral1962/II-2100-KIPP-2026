@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1101
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 10/10/2026, di area Kantin Utama kampus pada pukul 12.20 WIB (jam sibuk).
+Persons dan relationship: Pel (saya, sebagai mahasiswa/pengamat) berinteraksi dengan Ibu Kasir Tenant Kantin (sebagai Pelaksana/Operator).
+Objective dan initial state: - Objective: Menguji efektivitas opportunity pitch (pitch peluang) kepada pelaksana kantin untuk menarik perhatiannya dan membuka ruang diskusi tentang ide pre-order tanpa membuatnya tersinggung atau defensif. - Initial state: Ibu Kasir sedang berada dalam kondisi sibuk melayani antrean, raut wajah lelah, dan berpotensi reaktif/defensif jika didekati dengan teguran terkait kecepatan layanan (Awareness terhadap lelah, tapi belum ada Interest pada solusi).
+Evidence
+Transkrip Percakapan Pitch (90 Detik):
+Pel: “Permisi Ibu, maaf mengganggu, boleh minta waktunya sebentar saja sambil ibu rehat sebentar?” (Meminta izin) Ibu Kasir: (Mengelap keringat) “Iya Neng, ada apa? Mau pesan lagi?” Pel: “Bukan Bu. Saya melihat pesanan yang membludak di jam 12 ini bikin Ibu di kasir sangat kewalahan nyatetnya (Keadaan Sekarang). Sebenarnya ada kemungkinan kita bisa mempercepat layanan Ibu pakai sistem pre-order WhatsApp sebelum jam sibuk (Kemungkinan). Kira-kira peluang ini layak kita coba obrolin nggak, Bu? (Periksa)” Ibu Kasir: (Menghela napas, tersenyum kecil) “Aduh, beneran deh Neng, jam segini tuh pusing banget Ibu nyatetnya sering kelewat. Emang sistem WhatsApp-nya kayak gimana, Neng? Ribet nggak buat ibu-ibu?” Pel: “Nggak ribet kok Bu, nanti saya bantu set-up otomatisnya. Nanti sore pas agak sepi saya ke sini lagi ya buat tunjukin caranya.” Ibu Kasir: “Boleh deh Neng, jam 3-an aja ke sini lagi.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya memposisikan diri sebagai mitra diskusi yang suportif dan empatik, bukan sebagai pelanggan yang protes atau mahasiswa yang menggurui.
+Objective & state
+Berhasil menggeser state Ibu Kasir dari kelelahan fisik (defensif) menjadi merasa tervalidasi dan muncul rasa penasaran (interest).
+Repertoire & language
+Menggunakan formula pitch versi peluang secara utuh. Kalimat disesuaikan dengan bahasa yang membumi (“bikin ibu kewalahan”, “kita coba obrolin”) agar tidak terkesan akademis atau menekan.
+Response & adaptation
+Saat melihat Ibu Kasir mengelap keringat, saya melembutkan nada suara. Ketika beliau merespons dengan pertanyaan keraguan (“Ribet nggak?”), saya langsung beradaptasi dengan menawarkan kemudahan (set-up dibantu) dan menjadwalkan ulang pertemuan di waktu yang lebih santai.
+Agreement/action
+Tercapai kesepakatan (agreement) untuk berdiskusi lebih lanjut mengenai sistem WA pada pukul 15.00 tanpa mengganggu operasional saat ini.
+Relationship outcome
+Terbangun pondasi relasi dan rasa percaya (rapport) yang positif karena lawan bicara merasa dipahami beban kerjanya.
+Penggunaan AI
+Saya menggunakan AI (Gemini) sebatas untuk membantu menstrukturisasi markdown portofolio dan merapikan penyajian tabel agar sesuai dengan panduan rubrik (memastikan konsistensi penulisan format evaluasi). Keseluruhan eksperimen observasi kantin, penyusunan draf pitch (maksimal 45 kata), dan interaksi transkrip di atas dilakukan berdasarkan analisis serta peragaan nyata saya di lapangan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Respons verbal Ibu Kasir (“beneran deh Neng, jam segini tuh pusing banget”) membuktikan bahwa observasi saya valid dan pitch tersebut sukses menghindari trigger sikap defensif dari pekerja lapangan.
+Adaptation/replay: Mengadaptasi pendekatan dengan tidak langsung memaksakan penjelasan teknis (demo WA) saat itu juga, melainkan mundur dan meminta waktu di sore hari (jam 3) ketika beban kognitif pelaksana sudah turun.
+Next practice: Saya akan melatih active listening dan sensitivitas waktu (timing). Saya akan menahan diri dari dorongan untuk menjelaskan solusi panjang lebar, dan fokus mendengarkan jawaban sasaran setelah melempar permission question.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Tepat menempatkan diri sebagai pendukung/mitra yang peduli beban pelaksana.
+Objective & State
+4
+Sukses merubah state lelah menjadi rasa ingin tahu (interest).
+Repertoire, Language & AI
+4
+Pitch sangat ringkas (30 kata) dan sesuai formula peluang-periksa. AI terdeklarasi.
+Response & Adaptation
+4
+Adaptif menghentikan interupsi di jam sibuk dan menjadwalkan ulang saat senggang.
+Agreement, Action & Relationship
+4
+Mengamankan janji temu lanjutan tanpa memicu penolakan defensif.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-06.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

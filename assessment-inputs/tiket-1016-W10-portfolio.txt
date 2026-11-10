@@ -1,0 +1,199 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1016
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Desire–action gap dan authority map
+Options dan trade-off
+Transkrip Verbatim Percakapan (Verifikasi Negosiasi Agreement, Otoritas, & Owner)
+Agreement Eksplisit (Formula Kesepakatan Presisi)
+Artefak Action Evidence (Verifikasi Langsung Plain Text)
+Evaluasi Jalur Ganda (Dual-Track Evaluation)
+Penggunaan AI
+Self-assessment
+Assessment dosen
+Action & Agreement Challenge
+TAIDA
+Action
+Desire–action gap, authority map, opsi trade-off, transkrip verbatim negosiasi agreement, dan artefak action evidence.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit melalui verifikasi langsung.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas secara eksplisit.
+Agreement dengan owner/deadline serta bukti transkrip verbatim percakapan negotiation.
+Action evidence konkret dalam bentuk teks mentah artefak (tanpa mengandalkan tautan luar).
+Konteks performance
+Tanggal dan setting: Pertemuan koordinasi langsung di ruang diskusi kampus untuk menindaklanjuti draf template checklist progres tugas kelompok yang telah disepakati pada tahap Desire (Minggu 9).
+Persons dan relationship: Diskusi melibatkan saya sebagai komunikator/fasilitator proyek dan narasumber (teman seangkatan yang memegang peran sentral dalam kelompok tugas besar).
+Objective dan initial state: Menembus desire–action gap (keinginan sudah ada untuk memakai checklist, tetapi belum ada tindakan nyata pengisian dan pembagian peran karena hambatan otoritas kepemimpinan kelompok). State awal target adalah berminat tinggi, namun ragu bagaimana memulai tindakan formal tanpa terkesan mendikte anggota lain.
+Desire–action gap dan authority map
+Meskipun narasumber menginginkan transparansi progres, tindakan implementasi tertahan oleh beberapa hambatan struktural dan kewenangan:
+Barrier / Hambatan
+Person dengan Authority
+Respons / Wewenang
+Persetujuan penggunaan format checklist di tingkat kelompok
+Ketua kelompok / Seluruh anggota
+Harus menyetujui scope penggunaan bersama
+Validasi aturan main (norma berbagi kabar)
+Anggota kelompok
+Dapat menentukan kedisiplinan pengisian harian
+Desain template dan pengingat netral
+Saya (fasilitator/pembuat draf)
+Dapat merancang dan menyediakan format teknis
+Sebelumnya saya sempat keliru mengira narasumber memiliki otoritas penuh untuk langsung mewajibkan checklist tersebut ke seluruh anggota tanpa persetujuan kolektif. Analisis ulang menunjukkan bahwa adopsi butuh kesepakatan bersama.
+Options dan trade-off
+Kami membahas tiga opsi tindakan untuk menjembatani kesenjangan aksi: 1. Opsi 1 (Uji coba terbatas): Menerapkan checklist hanya untuk sub-tim kecil (2-3 orang) selama 5 hari. Trade-off: Risiko rendah dan beban minimal, tetapi bukti efektivitas kelompok besar belum terlihat. 2. Opsi 2 (Uji coba satu siklus penuh tugas besar): Diterapkan langsung ke seluruh anggota kelompok selama 2 minggu. Trade-off: Bukti kuat, namun rentan ditolak jika sosialisasinya kurang hati-hati. 3. Opsi 3 (Penerapan manual tanpa template): Hanya mengandalkan chat grup biasa. Trade-off: Cepat, tetapi mengulang masalah lama (tidak ada visibilitas progres).
+Target memilih Opsi 1 terlebih dahulu sebagai pilot mini, dengan syarat tautan akses mudah dibagikan dan tidak bersifat memaksa.
+Transkrip Verbatim Percakapan (Verifikasi Negosiasi Agreement, Otoritas, & Owner)
+Saya: “Kita tahu template norma ini sudah cocok, tapi tindakan nyata pengisian di kelompokmu belum jalan. Menurutmu, hambatan utamanya ada di mana?”
+Target: “Jujur, saya bingung mulainya. Saya kan bukan ketua resmi kelompok, jadi nggak enak kalau langsung nge-wajibin semua anggota buat ngisi tabel ini. Takut dibilang sok ngatur.”
+Saya: “Memahami posisi itu, berarti wewenang penetapan aturan ada di persetujuan kolektif kelompok. Bagaimana kalau kita buat pilot mini dulu saja di sub-tim kecilmu (2-3 orang) selama 5 hari untuk Bab Analisis, bukan langsung seluruh anggota?”
+Target: “Nah, kalau cuma buat sub-tim saya dulu selama 5 hari rasanya jauh lebih masuk akal dan nggak bikin canggung.”
+Saya: “Oke, biar jelas pembagian perannya (owner & deadline): Saya bertindak menyiapkan draf tabel Notion dan memastikan izin access link-nya terbuka siang ini pukul 13.00. Lalu kamu bertindak mengajak 2 rekan sub-timmu untuk coba update status pada checkpoint tanggal 17 November pukul 19.00. Sepakat?”
+Target: “Sepakat! Saya kunci komitmen itu. Nanti tanggal 19 November setelah pengumpulan bab analisis, kita review bareng 10 menit buat liat hasilnya.”
+Saya: “Siap. Kita buat Stop Rule juga ya: kalau ada satu anggota sub-tim yang merasa terbebani atau merasa terintimidasi, pilot ini langsung kita hentikan tanpa sanksi.”
+Target: “Setuju banget, itu bikin kami merasa aman buat nyoba.”
+Agreement Eksplisit (Formula Kesepakatan Presisi)
+Scope: Pilot 1 sub-tugas kelompok (penyusunan bab analisis), durasi 5 hari (tanggal 14–18 November).
+Owner (Siapa & Melakukan Apa):
+Saya: Membuat dan membagikan draf tautan Notion template serta instruksi 10 detik sebelum pukul 13.00 WIB.
+Narasumber (Teman): Mengajak 2 anggota sub-tim mencoba mengisi pada checkpoint tanggal 17 November pukul 19.00 WIB.
+Deadline: Pengujian selesai dan dievaluasi pada tanggal 19 November pukul 20.00 WIB.
+Evidence / Definisi Selesai: Tautan terisi minimal oleh seluruh anggota sub-tim dengan status pengerjaan yang transparan tanpa ada keluhan beban pengisian.
+Stop Rule: Pilot dihentikan seketika jika ada anggota yang merasa terintimidasi atau format terbukti memperlambat komunikasi.
+Review Method: Evaluasi singkat selama 10 menit via tatap muka setelah pengumpulan sub-tugas.
+Artefak Action Evidence (Verifikasi Langsung Plain Text)
+Artefak Struktur Draf Notion & Setting Akses (Pengganti Tautan Eksternal):
+[NOTION WORKSPACE ARCHITECTURE & ACCESS CONFIGURATION]
+Workspace: Pilot-Checkin-Subtim-BabAnalisis
+Access Setting: Workspace Access -> "Anyone with link can edit" (Public Edit Allowed)
+Table Columns & Attributes:
+1. Modul / Sub-Tugas [Text] : (Contoh: "Sub-Bab 3.1 Profil Perusahaan")
+2. Assignee [Person] : (Nama Anggota Sub-Tim)
+3. Status 10-Sec [Select] : [Belum] | [Proses] | [Siap Review]
+4. Checkpoint Update [Date] : 17 Nov 2026, 19:00 WIB
+5. Flag Kendala Mini [Text] : (Opsional: Catatan hambatan lokal)
+Log Uji Coba Akses (Self-Testing):
+- Status Link Test : OK (Berhasil diakses tanpa login akun premium)
+- Time Created : 14 Nov 2026, 11:30 WIB
+Evaluasi Jalur Ganda (Dual-Track Evaluation)
+Jalur Tugas (Task Outcome): Draf template berhasil dirancang dan disepakati dalam bentuk pilot mini 5 hari dengan batas waktu yang terukur jelas dan didukung bukti struktur mentah.
+Jalur Relasi (Relationship Outcome): Hubungan kepercayaan semakin menguat; narasumber merasa lega karena tidak dipaksa mengambil keputusan sepihak yang dapat merusak keharmonisan kelompok besarnya.
+Penggunaan AI
+AI digunakan secara spesifik untuk menyusun kerangka matrix trade-off opsi uji coba serta menapis klausul Stop Rule agar kesepakatan tidak mengandung frasa ambigu. Seluruh proses pembagian owner, deadline, dan negoisasi otoritas dirumuskan murni dari transkrip interaksi manusia di lapangan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Otoritas kelompok dan tanggung jawab peran dipetakan secara presisi dan realistis.
+Objective & State
+4
+Desire–action gap diidentifikasi secara tajam lewat hambatan operasional nyata.
+Repertoire, Language & AI
+4
+Opsi dan trade-off didiskusikan eksplisit; AI digunakan khusus merumuskan matriks risiko & stop rule.
+Response & Adaptation
+4
+Penyesuaian pilot skala kecil meredakan kekhawatiran resistensi anggota lain.
+Agreement, Action & Relationship
+4
+Scope, owner, deadline, stop rule, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh.
+Total: 20 / 20 — Unggul
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#desireaction-gap-dan-authority-map
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#options-dan-trade-off
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#transkrip-verbatim-percakapan-verifikasi-negosiasi-agreement-otoritas-owner
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#agreement-eksplisit-formula-kesepakatan-presisi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#artefak-action-evidence-verifikasi-langsung-plain-text
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#evaluasi-jalur-ganda-dual-track-evaluation
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

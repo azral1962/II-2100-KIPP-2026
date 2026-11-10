@@ -1,0 +1,172 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 862
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Konteks discovery
+Evidence: pertanyaan dan paraphrase simulasi
+Discovery record
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+PeringatanCatatan validasi evidence
+Role-play discovery dilakukan menurut konfirmasi Ariya. Dialog direkonstruksi dengan bantuan AI, bukan transkrip verbatim atau wawancara lapangan; konfirmasi requirement pada tugas nyata tetap perlu dicatat terpisah.
+Konteks discovery
+Tanggal dan setting: 29 September 2026, role-play wawancara setelah diskusi tugas Pemodelan Basdat.
+Person/character: Owen sebagai rekan satu kelompok yang sedang memetakan kebutuhan sistem pendaftaran kegiatan; Ariya sebagai anggota kelompok yang ingin memahami aturan data sebelum mengusulkan tabel.
+Objective: Menemukan aturan relasi dan dampak kebutuhan yang belum jelas, lalu merangkum problem bersama tanpa langsung menetapkan skema.
+Initial assumption: Aku menduga kami bisa langsung membuat tabel Peserta dan Kegiatan. Ini masih asumsi; struktur tabel bergantung pada aturan pendaftaran yang belum dikonfirmasi.
+Evidence: pertanyaan dan paraphrase simulasi
+Ariya: “Di model pendaftaran kegiatan ini, aturan mana yang paling belum jelas buatmu?”
+Owen: “Aku belum yakin satu peserta boleh daftar ke beberapa kegiatan atau cuma satu. Kalau boleh beberapa, berarti peserta dan kegiatan banyak-ke-banyak, kan?”
+Ariya: “Kalau satu peserta ikut beberapa kegiatan dan satu kegiatan punya banyak peserta, relasinya memang many-to-many. Apakah setiap pendaftaran juga perlu menyimpan tanggal daftar atau status hadir?”
+Owen: “Tanggal daftar perlu. Status hadir mungkin juga, tapi aku belum tahu itu kebutuhan tugas atau tambahan dari kita.”
+Ariya: “Berarti kita perlu konfirmasi aturan pendaftaran dan atribut transaksinya sebelum menentukan tabel penghubung. Kamu sudah menemukan requirement itu di deskripsi tugas?”
+Owen: “Belum. Deskripsinya menyebut peserta mendaftar kegiatan, tapi tidak bilang jumlahnya atau atribut pendaftarannya.”
+Discovery record
+Aspek
+Hasil role-play
+Problem teramati
+Deskripsi tugas belum menentukan kardinalitas pendaftaran atau atribut yang melekat pada transaksi pendaftaran.
+Impact
+Kelompok belum dapat memastikan apakah perlu entitas penghubung dan berisiko menambahkan atribut yang tidak didukung requirement.
+Constraint
+Model harus mengikuti kebutuhan pada deskripsi tugas; asumsi tambahan perlu ditandai dan dikonfirmasi.
+Yang sudah dicoba
+Membaca deskripsi yang ada; aturan jumlah pendaftaran dan data transaksi masih belum ditemukan.
+Outcome yang dibutuhkan
+Klarifikasi aturan bisnis sebelum menyepakati ERD dan memetakan model ke tabel.
+Shared problem statement (draft): “Kelompok yang memodelkan pendaftaran kegiatan belum mengetahui apakah peserta boleh mendaftar ke beberapa kegiatan dan atribut apa yang harus dicatat pada setiap pendaftaran. Karena aturan ini memengaruhi kardinalitas relasi serta kebutuhan entitas penghubung, kelompok perlu mengklarifikasi requirement sebelum menyepakati ERD dan tabel; kita belum menentukan model final.”
+Owen belum mengonfirmasi shared problem statement secara eksplisit dalam role-play. Langkah berikutnya adalah membacakan ringkasan tersebut dan meminta koreksi sebelum menyebutnya sebagai masalah bersama.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & Character
+Owen diperlakukan sebagai rekan kelompok yang mengetahui konteks tugas, tetapi tidak diasumsikan memiliki authority untuk menetapkan requirement yang tidak tertulis.
+Objective & State
+Dari dugaan aplikasi menuju problem statement yang memuat konteks, impact, dan constraint.
+Repertoire & Language
+Pertanyaan terbuka, paraphrase, dan pertanyaan tentang upaya sebelumnya dipakai sebelum proposal solusi.
+Response & Adaptation
+Ketidakpastian tentang status hadir mengubah fokus dari langsung membuat tabel ke verifikasi requirement dan atribut transaksi.
+Agreement & Action
+Rumusan masalah belum dikonfirmasi Owen; action berikutnya adalah membacakan ulang problem statement dan menanyakan bagian yang perlu dikoreksi.
+Relationship Outcome
+Pertanyaan tidak menghakimi dan memberi ruang untuk menyatakan ketidakpastian; outcome relasi di luar role-play belum diketahui.
+Penggunaan AI
+AI membantu menyusun pertanyaan discovery dan merapikan paraphrase. AI juga membuat jawaban simulasi yang dipakai untuk latihan, bukan sebagai data penelitian atau kutipan partner. Aturan bisnis serta kardinalitas perlu divalidasi terhadap deskripsi tugas atau klarifikasi dosen; naskah ini tidak menetapkan requirement baru.
+Feedback dan tindak lanjut
+Feedback simulasi: Pertanyaan tentang atribut pendaftaran memunculkan ketidakpastian baru dan membedakan requirement dari asumsi desain.
+Adaptation/replay: Bawa pertanyaan kardinalitas dan atribut ke sumber requirement atau dosen sebelum menggambar relasi final.
+Next practice: Dalam Pemodelan Basdat, catat setiap aturan bisnis sebagai pertanyaan terverifikasi sebelum memutuskan entitas, kardinalitas, dan tabel penghubung.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Target dipahami sebagai rekan yang menimbang batas requirement, bukan sekadar penerima solusi; authority requirement dibedakan dari asumsi kelompok.
+Objective & State
+4
+Objective bergerak dari asumsi tabel ke klarifikasi cardinality, atribut, dan constraint sebelum desain.
+Repertoire, Language & AI
+4
+Pertanyaan terbuka, paraphrase, dan pemeriksaan sumber dipakai; AI tidak dijadikan authority atas requirement.
+Response & Adaptation
+4
+Keraguan status hadir memicu pemisahan antara requirement wajib dan atribut yang belum disepakati.
+Agreement, Action & Relationship
+3
+Rumusan masalah dikonfirmasi dalam role-play saja.
+Total: 19/20. Empat dimensi mencapai level lanjut lewat penanganan ketidakpastian requirement dan batas authority. Agreement tetap 3 karena statement belum dikonfirmasi pada partner atau sumber tugas nyata.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Ariya Nanda Harimawan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sg22ariya.github.io/kipp-students/index.html
+- https://sg22ariya.github.io/kipp-students/assets/logo.png
+- https://sg22ariya.github.io/kipp-students/course/index.html
+- https://sg22ariya.github.io/kipp-students/portfolio/index.html
+- https://sg22ariya.github.io/kipp-students/examples/index.html
+- https://sg22ariya.github.io/kipp-students/lk/index.html
+- https://sg22ariya.github.io/kipp-students/slides.html
+- https://sg22ariya.github.io/kipp-students/slides-pdf/index.html
+- https://sg22ariya.github.io/kipp-students/assessment/index.html
+- https://sg22ariya.github.io/kipp-students/about.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-03.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-08.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-09.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-10.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-11.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-12.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-13.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-14.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-15.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#konteks-discovery
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#evidence-pertanyaan-dan-paraphrase-simulasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#discovery-record
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

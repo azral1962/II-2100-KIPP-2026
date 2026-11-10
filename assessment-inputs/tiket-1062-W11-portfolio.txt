@@ -1,0 +1,226 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1062
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mkafkaa.github.io/repo/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Stakeholder dan multi-state map
+Negotiation evidence
+Options, agreement, dan dissent
+Relationship review dan repair
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Stakeholder map, interests, options, trade-offs, dan agreement.
+Kompetensi target
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+Evidence wajib
+Stakeholder person map dan multi-state TAIDA.
+Position–interest analysis, common ground, dan options.
+Negotiation evidence, agreement/dissent, dan relationship review.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 11 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Negosiasi kolaboratif berlangsung melalui rangkaian percakapan Messenger setelah discovery interview 22 September 2026. Saya dan Jon membahas kebutuhan penjual, kepercayaan pembeli, dan kelayakan TOCO berdasarkan pengujian fitur pada November 2026.
+Objective dan initial state: Objective saya dan Jon adalah menentukan apakah TOCO layak menjadi alternatif marketplace dengan biaya admin yang lebih rendah. Initial state: Jon membutuhkan profit dan harga yang wajar, tetapi tetap mempertahankan kepercayaan pembeli; saya perlu membantu memeriksa trade-off biaya, keamanan, reputasi, fitur, dan kemudahan.
+Stakeholder dan multi-state map
+Person
+Position
+Interest/constraint
+Authority
+State
+Saya, fasilitator/pengusul evaluasi
+TOCO perlu dinilai berdasarkan evidence sebelum migrasi
+Kejelasan proses, keamanan, kemudahan, dan keputusan berbasis pengujian
+Dapat menyusun pertanyaan, mengoordinasikan evaluasi, dan merumuskan agreement bersama Jon
+Interest → Action
+Jon, penjual diecast
+Biaya admin marketplace mengurangi profit dan menaikkan harga
+Profit, harga wajar, keamanan, reputasi, kemudahan, dan kepercayaan pembeli
+Dapat menguji fitur sebagai penjual dan menentukan keputusan penggunaan untuk aktivitasnya
+Desire → Action
+Calon pembeli
+Perlu tetap percaya walaupun penjual menggunakan platform baru
+Harga wajar, keamanan pembayaran, pengiriman, dan reputasi penjual
+Dapat memilih atau menolak melakukan pembelian
+Desire sebagai kepentingan yang perlu diwakili
+Komunitas hobi diecast
+Reputasi komunitas dapat memengaruhi penerimaan platform
+Kepercayaan, review pengguna, dan penerimaan marketplace
+Dapat memengaruhi reputasi dan adopsi melalui pengalaman atau rekomendasi
+Attention sebagai kepentingan yang perlu diperiksa
+TOCO sebagai platform
+Menyediakan fitur marketplace dan proses transaksi
+Adopsi penjual, kelancaran pembayaran, pengiriman, dan aktivitas penjualan
+Mengendalikan fitur, aturan, sistem pembayaran, dan sistem pengiriman
+Action melalui fitur yang tersedia
+Common ground: Saya dan Jon sepakat bahwa marketplace alternatif harus memiliki biaya yang lebih rendah, tetapi tetap mudah digunakan, memiliki fitur yang memadai, menyediakan pilihan pembayaran dan pengiriman, serta menjaga kepercayaan pembeli. Perbedaan penting: Jon berfokus pada profit dan kemudahan membuka toko, sedangkan saya berfokus pada pengujian dan evidence sebelum migrasi. Pembeli, komunitas, dan TOCO menjadi stakeholder yang perlu dipertimbangkan karena keputusan ini berdampak pada kepercayaan, reputasi, dan proses transaksi.
+Negotiation evidence
+Saya: “Kita perlu melihat apakah TOCO bisa menjadi alternatif marketplace yang biaya adminnya lebih rendah tanpa mengurangi kepercayaan pembeli.”
+Jon: “Yang penting biaya admin lebih murah atau tidak ada, tapi buyer tetap percaya sama saya.”
+Saya: “Berarti kita perlu mengecek fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan fitur penjual sebelum memindahkan stok dan katalog.”
+Jon: “Nah bagus tuh kalau ada marketplace alternatif.”
+Dalam pengujian bersama, kami membuat akun, mencari produk, mencoba pemesanan, memeriksa opsi pembayaran dan pengiriman, serta mengeksplorasi fitur penjual. Hasilnya menunjukkan bahwa pencarian relevan, pemesanan responsif, pilihan pembayaran dan pengiriman beragam, pembukaan toko mudah, dan UI penjual rapi.
+Interpretasi: Negosiasi mengungkap perbedaan fokus antara profit penjual dan kebutuhan evidence sebelum migrasi. Saya dan Jon menyatukan kepentingan tersebut melalui pengujian fitur dan penetapan batas bahwa migrasi dilakukan setelah kelayakan TOCO dinilai.
+Options, agreement, dan dissent
+Options yang dibahas:
+Membandingkan informasi marketplace: memberikan gambaran biaya dan reputasi, tetapi tidak menguji pengalaman penggunaan.
+Menguji TOCO sebagai pembeli: menguji pencarian, pemesanan, pembayaran, pengiriman, respons sistem, dan UI.
+Menguji fitur penjual TOCO: menguji kemudahan membuka toko, mengelola aktivitas, dan kesiapan sebelum migrasi katalog.
+Agreement: Saya dan Jon menyepakati pengujian TOCO sebagai pembeli dan penjual sebelum melakukan migrasi. Kami menyepakati bahwa penilaian harus mencakup fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan penggunaan. Dissent: Tidak ada dissent antara saya dan Jon setelah hasil pengujian. Perbedaan kepentingan pembeli dan komunitas tetap dipertimbangkan sebagai batas evaluasi, meskipun mereka tidak hadir langsung dalam percakapan. Review/threshold: TOCO dianggap layak dipertimbangkan karena hasil pengujian menunjukkan pencarian relevan, pemesanan responsif, banyak opsi pembayaran dan pengiriman, pembukaan toko mudah, serta UI penjual rapi. Tahap berikutnya adalah menyiapkan migrasi stok dan katalog.
+Relationship review dan repair
+Feedback atau observer note: Jon dan saya memberikan penilaian positif terhadap fitur TOCO setelah menguji alur pembeli dan penjual. Jon menilai TOCO siap dipakai sebagai alternatif marketplace dengan biaya admin besar.
+Repair/adaptation: Saya menggabungkan fokus Jon terhadap profit dengan kebutuhan evaluasi yang lebih luas. Pembahasan tidak berhenti pada biaya admin, tetapi mencakup keamanan, reputasi, fitur, pembayaran, pengiriman, dan kemudahan bagi pembeli serta penjual.
+Evidence
+Paraphrase negosiasi Messenger:
+Saya: Mengusulkan agar TOCO dinilai dari biaya, fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan sebelum stok serta katalog dipindahkan.
+Jon: Menekankan bahwa biaya admin harus lebih murah atau tidak ada, tetapi kepercayaan pembeli tetap harus terjaga.
+Kesepakatan: Saya dan Jon menguji TOCO sebagai pembeli dan penjual. Kami membuat akun, mencari produk, mencoba pemesanan, memeriksa pembayaran dan pengiriman, serta mengeksplorasi fitur penjual dan UI.
+Hasil negosiasi: Kedua pihak menilai hasil pengujian positif. TOCO dipertimbangkan sebagai alternatif marketplace, sedangkan migrasi stok dan katalog menjadi langkah berikutnya setelah evaluasi.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya berperan sebagai fasilitator evaluasi, Jon sebagai penjual, pembeli sebagai pihak yang perlu tetap percaya, komunitas sebagai sumber reputasi, dan TOCO sebagai platform penyedia fitur.
+Objective & state
+Objective saya dan Jon berkembang dari memahami masalah menjadi menguji kelayakan TOCO. Jon bergerak dari Desire ke Action melalui pengujian langsung.
+Repertoire & language
+Saya menggunakan paraphrase, reframing, pertanyaan berbasis kriteria, dan pengujian fitur untuk menyatukan kepentingan profit, kepercayaan, keamanan, dan kemudahan.
+Response & adaptation
+Kekhawatiran terhadap reputasi dan kepercayaan membuat evaluasi diperluas dari biaya ke fitur, UI, pembayaran, pengiriman, dan pengalaman penjual.
+Agreement/action
+Saya dan Jon menyepakati scope pengujian dan menilai TOCO layak dipertimbangkan sebelum migrasi stok dan katalog.
+Relationship outcome
+Kerja sama dengan Jon menjadi lebih konkret karena keputusan didasarkan pada pengujian bersama, bukan hanya asumsi tentang marketplace alternatif.
+Penggunaan AI
+AI digunakan untuk membantu menata hasil discovery, pengujian TOCO, dan negosiasi ke dalam struktur portfolio. Keputusan tentang kelayakan TOCO, stakeholder, authority, dan agreement berasal dari percakapan serta pengujian saya dan Jon. Nama pribadi disamarkan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Jon menilai TOCO siap dipakai sebagai alternatif karena fitur pencarian relevan, pemesanan responsif, opsi pembayaran dan pengiriman beragam, pembukaan toko mudah, serta UI penjual rapi.
+Adaptation/replay: Evaluasi diperluas dari biaya admin menjadi penilaian multi-stakeholder yang mempertimbangkan kebutuhan penjual, kepercayaan pembeli, reputasi komunitas, dan kemampuan platform.
+Next practice: Menyiapkan migrasi stok dan katalog secara bertahap dengan memeriksa kembali dampaknya terhadap penjual, pembeli, komunitas, dan fitur TOCO.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Peran, interest, constraint, dan authority saya serta Jon dipetakan, dengan kebutuhan stakeholder lain ikut dipertimbangkan.
+Objective & State
+3
+Objective berkembang dari discovery menjadi evaluasi dan action, sementara state stakeholder tidak semuanya berasal dari interaksi langsung.
+Repertoire, Language & AI
+4
+Paraphrase, reframing, options, pengujian langsung, dan batas penggunaan AI diterapkan.
+Response & Adaptation
+4
+Perbedaan fokus biaya dan kepercayaan diadaptasi menjadi evaluasi fitur, UI, pembayaran, pengiriman, dan reputasi.
+Agreement, Action & Relationship
+3
+Agreement pengujian dan batas migrasi jelas, sedangkan migrasi stok dan katalog menjadi action lanjutan.
+Total: 18 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Action & Agreement Challenge
+Community Communication Challenge
+Portfolio KIPP-2 · Muhammad Kafka Ghaisan Yusuf
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#quarto-document-content
+- https://mkafkaa.github.io/repo/index.html
+- https://mkafkaa.github.io/repo/assets/logo.png
+- https://mkafkaa.github.io/repo/course/index.html
+- https://mkafkaa.github.io/repo/portfolio/index.html
+- https://mkafkaa.github.io/repo/examples/index.html
+- https://mkafkaa.github.io/repo/lk/index.html
+- https://mkafkaa.github.io/repo/slides.html
+- https://mkafkaa.github.io/repo/slides-pdf/index.html
+- https://mkafkaa.github.io/repo/assessment/index.html
+- https://mkafkaa.github.io/repo/about.html
+- https://mkafkaa.github.io/repo/portfolio/week-11.html
+- https://mkafkaa.github.io/repo/portfolio/week-01.html
+- https://mkafkaa.github.io/repo/portfolio/week-02.html
+- https://mkafkaa.github.io/repo/portfolio/week-03.html
+- https://mkafkaa.github.io/repo/portfolio/week-04.html
+- https://mkafkaa.github.io/repo/portfolio/week-05.html
+- https://mkafkaa.github.io/repo/portfolio/week-06.html
+- https://mkafkaa.github.io/repo/portfolio/week-07.html
+- https://mkafkaa.github.io/repo/portfolio/week-08.html
+- https://mkafkaa.github.io/repo/portfolio/week-09.html
+- https://mkafkaa.github.io/repo/portfolio/week-10.html
+- https://mkafkaa.github.io/repo/portfolio/week-12.html
+- https://mkafkaa.github.io/repo/portfolio/week-13.html
+- https://mkafkaa.github.io/repo/portfolio/week-14.html
+- https://mkafkaa.github.io/repo/portfolio/week-15.html
+- https://mkafkaa.github.io/repo/portfolio/UAS/index.html
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#kompetensi-target
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#evidence-wajib
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#konteks-performance
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#stakeholder-dan-multi-state-map
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#negotiation-evidence
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#options-agreement-dan-dissent
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#relationship-review-dan-repair
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#evidence
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#analisis-komunikasi
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#penggunaan-ai
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#feedback-dan-tindak-lanjut
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#self-assessment
+- https://mkafkaa.github.io/repo/portfolio/week-11.html#assessment-dosen
+- https://mkafkaa.github.io/repo/examples/week-11.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

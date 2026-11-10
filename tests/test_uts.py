@@ -58,11 +58,23 @@ class UTSCalculationTest(unittest.TestCase):
         bad["dimensions"]["objective_context"]["evidence"] = ""
         with self.assertRaises(ValueError):
             uts.validate_session(bad)
-        for status in ("Parsial", "Tidak memadai"):
-            bad = session_result()
-            bad["evidence_status"] = status
-            with self.assertRaises(ValueError):
-                uts.validate_session(bad)
+
+    def test_unscorable_scores_become_bt_with_idempotent_audit(self):
+        for status, allowed in (("Parsial", True), ("Tidak memadai", True), ("Lengkap", False)):
+            with self.subTest(status=status, allowed=allowed):
+                data = session_result()
+                data["evidence_status"] = status
+                data["dimensions"]["objective_context"]["score"] = None
+                result = uts.validate_session(data, can_score=allowed)
+                self.assertIsNone(uts.session_score(result["dimensions"]))
+                for key, item in result["dimensions"].items():
+                    self.assertIsNone(item["score"])
+                    self.assertEqual("U001: bukti dialog aktual.", item["evidence"])
+                    if key != "objective_context":
+                        self.assertIn("skor 3 menjadi BT", item["reason"])
+                snapshot = json.dumps(result)
+                uts.validate_session(result, can_score=allowed)
+                self.assertEqual(snapshot, json.dumps(result))
 
     def test_extracts_current_links_and_rejects_ambiguous_reports(self):
         base = "https://student.github.io/course/portfolio/week-08.html"
@@ -131,6 +143,21 @@ class UTSWorkerTest(unittest.TestCase):
             writer.writeheader()
             writer.writerows(rows)
 
+    def test_sessions_use_one_initial_system_message(self):
+        self.assertEqual((1, 0), self.worker.process_ticket_number("7"))
+        self.assertEqual(5, self.client.complete.call_count)
+        for key, call in zip(uts.SESSIONS, self.client.complete.call_args_list):
+            messages = call.args[0]
+            self.assertEqual(["system", "user"], [m["role"] for m in messages])
+            self.assertIn(uts.SYSTEM, messages[0]["content"])
+            context = json.loads(messages[0]["content"].split("ACUAN SESI:\n", 1)[1])
+            self.assertEqual(key, context["session"])
+            self.assertEqual(f"Penugasan fixture sesi {key}", context["assignment"])
+            self.assertEqual(set(uts.DIMENSIONS), set(context["descriptors"]))
+            self.assertIn("U001: bukti dialog aktual", messages[1]["content"])
+            saved = json.loads((self.worker.input_dir / f"tiket-7-W08-{key}-input.json").read_text())
+            self.assertEqual(messages, saved)
+
     def test_complete_package_waits_for_explicit_approval_and_preserves_weekly(self):
         self.assertEqual((1, 0), self.worker.process_ticket_number("7"))
         self.assertEqual(5, self.client.complete.call_count)
@@ -171,6 +198,24 @@ class UTSWorkerTest(unittest.TestCase):
         self.pages[url] = "X" * (self.worker.max_evidence_chars + 1)
         self.assertEqual((1, 0), self.worker.process_ticket_number("7"))
         self.assertEqual(8, self.client.complete.call_count)
+
+    def test_partial_session_continues_and_records_bt_correction(self):
+        partial = session_result()
+        partial["evidence_status"] = "Parsial"
+        self.client.complete.side_effect = [json.dumps(result) for result in
+            (session_result(), session_result(), partial, session_result(), session_result())]
+        self.assertEqual((1, 0), self.worker.process_ticket_number("7"))
+        self.assertEqual(5, self.client.complete.call_count)
+        report_path = self.worker.report_dir / "tiket-7-W08-uts-v1.json"
+        report = uts.validate_report(json.loads(report_path.read_text()), "7", "001")
+        self.assertIsNone(uts.session_score(report["sessions"]["2b"]["dimensions"]))
+        self.assertEqual(Decimal(75), uts.session_score(report["sessions"]["3b"]["dimensions"]))
+        self.assertIn("skor 3 menjadi BT", uts.render(report))
+        self.assertEqual("MENUNGGU PERSETUJUAN", read_queue(self.queue)[1][0]["status"])
+        with self.assertRaises(PermanentAssessmentError):
+            self.worker.approve_ticket("7", paper_score="80", assessor="Dosen Dummy")
+        self.assertEqual(self.original, self.assessment.read_bytes())
+        self.assertFalse(self.worker.uts_assessment_path.exists())
 
     def test_model_invalid_response_fails_without_official_write(self):
         self.client.complete.return_value = json.dumps(session_result(True))

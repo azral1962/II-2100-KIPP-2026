@@ -1,0 +1,189 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 880
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fargudd.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Tiga Pitch untuk Tiga Pihak (Bab 06) – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Panduan Detoks Fitur (Bab 07)
+Portfolio Minggu 8 — UTS KIPP
+Portofolio UTS
+Makalah Akademik: MBTI, Komunikasi Efektif, dan Kerangka PASK dalam Pengemasan Solusi Sistem Informasi
+Laporan UTS KIPP - Sesi 1
+Laporan UTS KIPP - Sesi 2a
+Laporan UTS KIPP - Sesi 2b
+Laporan UTS KIPP - Sesi 3a
+Laporan UTS KIPP 2026 — Versi 2.0
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+1. Masalah Kampus yang Dipilih
+2. Pemetaan Tiga Pihak Sasaran
+3. Tiga Pitch Perhatian (Maksimal 45 Kata)
+Pitch untuk Pihak 1: Pengguna (User - Mahasiswa)
+Pitch untuk Pihak 2: Pelaksana (Operator - Kasir/Barista)
+Pitch untuk Pihak 3: Pengambil Keputusan (Decision Maker - Pengelola Kantin)
+4. Catatan Umpan Balik Rekan (Simulasi 90 Detik)
+5. Refleksi Mandiri
+Rubrik Penilaian Mandiri
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Professional
+Pitch
+Peta sasaran dan tiga draf pitch perhatian berbasis observasi dan pemeriksaan.
+Kompetensi target
+Memilih pribadi sasaran, membaca konteksnya, dan menyusun pitch perhatian yang relevan bagi tiga peran berbeda tanpa paksaan.
+1. Masalah Kampus yang Dipilih
+Draf Masalah Kampus: Antrean pesanan makan siang di kantin kampus mencapai 15–20 orang pada jam istirahat jam 12.00–13.00, yang menyebabkan beberapa menu habis tanpa pengumuman awal dan mahasiswa terlambat masuk kuliah jam 13.00.
+2. Pemetaan Tiga Pihak Sasaran
+Dimensi Analisis
+Pihak 1: Pengguna (User)
+Pihak 2: Pelaksana (Operator)
+Pihak 3: Pengambil Keputusan (Decision Maker)
+Siapa Perannya?
+Mahasiswa / Pembeli kantin
+Staf Kasir / Barista Kantin
+Pengelola Sarpras / Pengelola Kantin Kampus
+Apa Tujuannya?
+Mendapatkan makan siang dengan cepat dan pasti sebelum jam kuliah berikutnya.
+Menangani transaksi dengan lancar tanpa komplain dan kekacauan antrean.
+Menjaga ketertiban area kantin, kepuasan warga kampus, dan kelancaran usaha tenant.
+Apa Hambatan utamanya?
+Ketidakpastian durasi tunggu antrean dan ketersediaan stok menu.
+Beban konfirmasi stok ke dapur di tengah antrean padat dan area meja yang sempit.
+Keterbatasan anggaran pengadaan alat baru dan kekhawatiran mengganggu operasional tenant.
+Di Mana Keadaan TAIDA Awalnya?
+Baru memperhatikan (Attention)
+Belum sadar / pasrah dengan kebiasaan (Unaware)
+Baru memperhatikan dampak keterlambatan (Attention)
+3. Tiga Pitch Perhatian (Maksimal 45 Kata)
+Pitch untuk Pihak 1: Pengguna (User - Mahasiswa)
+Fokus Relevansi: Kepastian waktu dan kemudahan mendapatkan makanan sebelum kuliah.
+Draf Pitch:
+> “Saya mengamati antrean kantin jam 12 selalu mencapai 18 menit dan beberapa menu favorit habis saat kita sampai di kasir (Observasi). Akibatnya, kita sering terlambat masuk kuliah (Dampak). Apakah kepastian estimasi waktu tunggu ini penting bagi Anda? (Periksa)”
+Jumlah Kata: 37 kata (\(\le\) 45 kata).
+Pitch untuk Pihak 2: Pelaksana (Operator - Kasir/Barista)
+Fokus Relevansi: Pengurangan beban kerja harian dan menghindari komplain pembeli.
+Draf Pitch:
+> “Saat jam istirahat, Mas harus panggil pembeli lagi buat refund karena stok bahan di kulkas mendadak habis (Observasi). Ini bikin antrean makin macet dan Mas overwhelmed menghadapi emosi pembeli (Dampak). Apakah kejelasan status stok di meja kasir membantu pekerjaan Mas? (Periksa)”
+Jumlah Kata: 41 kata (\(\le\) 45 kata).
+Pitch untuk Pihak 3: Pengambil Keputusan (Decision Maker - Pengelola Kantin)
+Fokus Relevansi: Efisiensi operasional, ketertiban fasilitas, dan reputasi kedai/kantin.
+Draf Pitch:
+> “Rata-rata ada 5 transaksi batal per jam sibuk karena calon pembeli tidak sabar menunggu antrean yang tidak pasti (Observasi). Kedai kehilangan potensi omzet dan mengganggu ketertiban area (Dampak). Apakah penurunan angka pembatalan ini layak kita bahas solusinya? (Periksa)”
+Jumlah Kata: 38 kata (\(\le\) 45 kata).
+4. Catatan Umpan Balik Rekan (Simulasi 90 Detik)
+Catatan Umpan Balik Rekan 1 (Pitch Pengguna):
+> “Ketika Anda menyampaikan kalimat ‘beberapa menu favorit habis saat kita sampai di kasir’, saya langsung mengangguk setuju karena pernah mengalaminya sendiri. Perhatian saya terbangun karena dampaknya sangat personal bagi jadwal kuliah saya.”
+Catatan Umpan Balik Rekan 2 (Pitch Pelaksana):
+> “Ketika Anda menyebutkan bagian ‘panggil pembeli lagi buat refund’, ekspresi saya langsung berubah peka karena itu memang poin yang paling menyebalkan saat bertugas. Saya menyarankan bagian awal dibuat sedikit lebih santai.”
+Catatan Umpan Balik Rekan 3 (Pitch Pengambil Keputusan):
+> “Data ‘5 transaksi batal per jam sibuk’ langsung menarik perhatian saya karena ada angka kerugian konkret. Pertanyaan periksa di akhir juga terasa netral dan tidak memaksa.”
+5. Refleksi Mandiri
+Analisis Respons:
+Isyarat nonverbal paling jelas adalah ketika lawan bicara menghentikan aktivitas lain, menatap mata saya, dan mengangguk pelan saat saya menyebutkan observasi spesifik (seperti antrean 18 menit atau pembatalan transaksi).
+Koreksi Asumsi:
+Asumsi awal saya bahwa pengelola kantin hanya peduli pada estetika tempat ternyata keliru. Setelah simulasi, terbukti bahwa pengelola jauh lebih peka terhadap data angka kerugian transaksi batal dan kepuasan warga kampus.
+Pelajaran Etika:
+Saya memastikan pitch tidak menjadi interupsi memaksa dengan cara selalu meminta izin durasi (90 detik) di awal, mengakhiri dengan pertanyaan periksa yang netral, dan menghormati penuh jika sasaran merasa masalah tersebut belum menjadi prioritas mereka saat ini.
+Rubrik Penilaian Mandiri
+Kriteria Evaluasi
+Skor
+Catatan Singkat
+Ketepatan Sasaran
+4 / 4
+Tiga pihak dipetakan sangat spesifik berdasarkan peran, kendala, dan tingkat TAIDA awalnya.
+Kualitas Pembuka (Pitch)
+4 / 4
+Ketiga pitch ringkas (\(\le\) 45 kata), menggunakan formula Observasi–Dampak–Periksa yang presisi dan bebas klaim palsu.
+Membaca Respons & Adaptasi
+4 / 4
+Mampu menyimak isyarat nonverbal saat simulasi dan mencatat umpan balik berbasis bukti secara jujur.
+Etika Komunikasi
+4 / 4
+Menghormati otonomi sasaran dan menggunakan pertanyaan periksa netral tanpa paksaan.
+Total Skor: Tingkat Unggul (Skor 4 / 4).
+Kembali ke atas
+Professional Discovery Interview
+Panduan Detoks Fitur (Bab 07)
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fargudd.github.io/kipp-students/index.html
+- https://fargudd.github.io/kipp-students/assets/logo.png
+- https://fargudd.github.io/kipp-students/course/index.html
+- https://fargudd.github.io/kipp-students/portfolio/index.html
+- https://fargudd.github.io/kipp-students/examples/index.html
+- https://fargudd.github.io/kipp-students/lk/index.html
+- https://fargudd.github.io/kipp-students/slides.html
+- https://fargudd.github.io/kipp-students/slides-pdf/index.html
+- https://fargudd.github.io/kipp-students/assessment/index.html
+- https://fargudd.github.io/kipp-students/about.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html
+- https://fargudd.github.io/kipp-students/portfolio/week-03.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html
+- https://fargudd.github.io/kipp-students/portfolio/week-08.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/paper.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_1_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/week-09.html
+- https://fargudd.github.io/kipp-students/portfolio/week-10.html
+- https://fargudd.github.io/kipp-students/portfolio/week-11.html
+- https://fargudd.github.io/kipp-students/portfolio/week-12.html
+- https://fargudd.github.io/kipp-students/portfolio/week-13.html
+- https://fargudd.github.io/kipp-students/portfolio/week-14.html
+- https://fargudd.github.io/kipp-students/portfolio/week-15.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#masalah-kampus-yang-dipilih
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#pemetaan-tiga-pihak-sasaran
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#tiga-pitch-perhatian-maksimal-45-kata
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#pitch-untuk-pihak-1-pengguna-user---mahasiswa
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#pitch-untuk-pihak-2-pelaksana-operator---kasirbarista
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#pitch-untuk-pihak-3-pengambil-keputusan-decision-maker---pengelola-kantin
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#catatan-umpan-balik-rekan-simulasi-90-detik
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#refleksi-mandiri
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html#rubrik-penilaian-mandiri
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

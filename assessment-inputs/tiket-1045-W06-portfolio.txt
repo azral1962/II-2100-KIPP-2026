@@ -1,0 +1,166 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1045
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://matematikal.github.io/kipp-studentt/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Penilaian Target-Attention Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Penilaian Target-Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Penilaian Target-Attention Challenge
+Lembar Kerja Bab 07
+Minggu 8 — Jawaban UTS KIPP 2026
+Lembar Kerja Bab 09
+Lembar Kerja Bab 10
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+EVIDENCE MAHASISWA
+HASIL PENILAIAN ASSESSOR
+Ringkasan keputusan
+Pemeriksaan evidence wajib
+Skor rubrik
+Kekuatan berbasis evidence
+Saran perbaikan
+Pertanyaan atau evidence yang masih dibutuhkan
+Catatan integritas assessment
+Penilaian Target-Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+EVIDENCE MAHASISWA
+1. Target map dan alasan memilih satu target: - Konteks: Tim pengembang aplikasi kepanitiaan sering mengalami keterlambatan rilis karena desain antarmuka (UI) sering direvisi di tengah siklus coding (sprint). - Peta Target: - Andi (Project Manager): Pengambil keputusan utama. Berorientasi pada kepuasan pengguna akhir, sering meminta perubahan mendadak, jarang membaca laporan panjang. - Sarah (Lead Programmer): Sangat peduli pada struktur kode yang rapi. Sering mengeluh kelelahan karena harus merombak kode tiap ada perubahan desain. - Bima (UI/UX Lead): Kreatif, tapi fleksibel mengikuti kemauan Andi tanpa memikirkan beban tim programmer. - Pilihan Target: Sarah (Lead Programmer). - Alasan: Sarah paling merasakan dampak langsung (pain point) dari masalah ini. Jika saya membidik Andi secara langsung, kemungkinan besar ditolak karena dia pro-fleksibilitas. Membangun koalisi dengan Sarah yang memiliki pengaruh teknis lebih aman dan berpeluang lebih besar untuk disetujui.
+2. Problem/opportunity pitch serta evidence: - Pitch (Pesan WA ke Sarah): “Halo Kak Sarah. Aku perhatiin dari board Trello kita [Tautan Board], di 3 sprint terakhir tiket dev selalu overdue karena desain UI dari tim Bima berubah pas kita udah jalan ngoding. Gimana kalau kita usulin kebijakan ‘Design Freeze’ H-2 sebelum sprint dimulai? Jadi tim dev nggak perlu bongkar pasang kodingan lagi dan progres kita bisa lebih cepat.”
+3. Response, state sesudah pitch, dan adaptation: - Respons (Sarah): “Bener banget Aquilla, jujur aku capek banget revisi code terus. Ide bagus, tapi aku takut Andi nolak karena dia pasti pengen kita tetap lincah nerima feedback dadakan dari panitia inti.” - State sesudah pitch: Target mengakui isu sangat relevan (Setuju/Attention tercapai), namun berada dalam state hesitant/ragu terkait potensi penolakan struktural (dari Andi). - Adaptation (Balasan Mahasiswa): “Iya paham Kak. Gimana kalau kita ngga usulkan freeze 100%? Kita tawarkan ‘Design Freeze’ tapi kasih celah kuota revisi minor maksimal 10% pas mid-sprint. Jadi Andi tetap merasa kita lincah, tapi batasannya jelas buat tim dev. Biar aku yang susun draft aturannya buat kita pelajari bareng.” - Respons Lanjutan (Sarah): “Wah make sense itu. Coba kamu buatin draft kasarnya, besok malam kita call berdua buat matengin sebelum dibawa ke Andi.”
+HASIL PENILAIAN ASSESSOR
+Ringkasan keputusan
+Minggu dan tugas: Minggu 6 - Target–Attention Challenge
+Status evidence: Lengkap
+Keputusan rekomendasi: Tercapai
+Total dan tingkat: 15/20 - Kompeten
+Ringkasan satu kalimat: Muhammad Aquilla Arizqy berhasil memetakan pain point target dengan akurat untuk meraih atensi, dan beradaptasi sangat baik saat target menunjukkan keraguan struktural.
+Pemeriksaan evidence wajib
+Evidence wajib
+Status (Ada/Parsial/Tidak ada/Tidak dapat diverifikasi)
+Dasar pemeriksaan
+Target map dan alasan memilih satu target.
+Ada
+Terdapat peta 3 individu (Andi, Sarah, Bima) dengan analisis situasional yang mendasari pemilihan Sarah sebagai target.
+Problem/opportunity pitch serta evidence.
+Ada
+Terdapat kutipan pitch via WA dengan menyebutkan bukti spesifik (Trello board dan delay 3 sprint terakhir).
+Response, state sesudah pitch, dan adaptation.
+Ada
+Respons Sarah tercatat, state dianalisis (setuju namun ragu), serta balasan adaptasi ditunjukkan secara konkret.
+Skor rubrik
+Dimensi
+Skor (1-4/N/A)
+Evidence spesifik
+Alasan terhadap descriptor rubrik
+Person & Character
+3
+Pemetaan karakter Andi (pro-fleksibilitas) vs Sarah (struktur/kelelahan merombak kode) memicu pilihan target.
+Kompeten: memetakan person, character, dan relationship dengan sangat jeli untuk menghindari resistensi pengambil keputusan utama.
+Objective & State
+3
+“Target… Setuju/Attention tercapai, namun berada dalam state hesitant/ragu.”
+Kompeten: objective dari pitch jelas, dan current state Sarah sesudah dipitch diidentifikasi dengan akurat.
+Repertoire, Language & AI
+3
+“Gimana kalau kita usulin kebijakan ‘Design Freeze’… Jadi tim dev nggak perlu bongkar pasang kodingan.”
+Kompeten: repertoire relevan, membingkai bahasa dengan keuntungan langsung untuk kesejahteraan kerja target.
+Response & Adaptation
+3
+Sarah ragu Andi akan menolak, diadaptasi dengan: “Gimana kalau kita ngga usulkan freeze 100%? … kasih celah kuota revisi minor maksimal 10%”.
+Kompeten: menggunakan response target untuk beradaptasi dengan menurunkan risiko (merancang kompromi) yang bisa diterima oleh karakter penolak (Andi).
+Agreement, Action & Relationship
+3
+Sarah: “Coba kamu buatin draft kasarnya, besok malam kita call berdua…”
+Kompeten: agreement eksplisit (sepakat merevisi sistem) dan action spesifik (menulis draft dan telponan besok malam) terbentuk dengan hubungan yang kooperatif.
+Kekuatan berbasis evidence
+Pilihan rute influence tidak linear namun efektif. Alih-alih membidik bos besar (Andi) yang berisiko menolak, Anda memilih membentuk aliansi dengan Lead Programmer (Sarah) yang memiliki pain point sama (terlihat dari “alasan memilih target”).
+Bukti pitch kuat dan relevan. Merujuk pada “3 sprint terakhir tiket dev selalu overdue” menggeser opini menjadi fakta operasional.
+Adaptasi yang menunjukkan negosiasi win-win. Saat target ragu bos akan menolak, usulan disesuaikan dengan memberikan “kuota revisi minor 10%”, yang langsung mengatasi keraguan target.
+Saran perbaikan
+Prioritas utama: Eksekusi kesepakatan tindak lanjut. Pada langkah berikutnya, buktikan bahwa action (pembuatan draft kasaran dan call besok malam dengan Sarah) benar-benar terjadi. Kumpulkan lampiran atau catatan diskusi saat draft tersebut dibahas. Indikator keberhasilan: draft final disetujui Sarah untuk diserahkan kepada Andi.
+Saran tambahan: Saat pitching ulang ke Andi nanti bersama Sarah, pastikan kalimat pembuka menonjolkan nilai “lincah dan fleksibel” terlebih dahulu agar relevan dengan character Andi.
+Pertanyaan atau evidence yang masih dibutuhkan
+Apakah draft kasar aturan Design Freeze tersebut berhasil Anda selesaikan sebelum jadwal call bersama Sarah?
+Bagaimana bentuk konkret dari batasan “revisi minor maksimal 10%” agar tidak memicu kerancuan saat dieksekusi kelak?
+Catatan integritas assessment
+Penilaian dilakukan berdasarkan teks evidence yang diserahkan. Tidak terindikasi penggunaan AI yang berlebihan dalam interaksi pesan WA.
+```
+Kembali ke atas
+Professional Discovery Interview
+Lembar Kerja Bab 07
+Portfolio KIPP-2 · Muhammad Aquilla Arizqy
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#quarto-document-content
+- https://matematikal.github.io/kipp-studentt/index.html
+- https://matematikal.github.io/kipp-studentt/assets/logo.png
+- https://matematikal.github.io/kipp-studentt/course/index.html
+- https://matematikal.github.io/kipp-studentt/portfolio/index.html
+- https://matematikal.github.io/kipp-studentt/examples/index.html
+- https://matematikal.github.io/kipp-studentt/lk/index.html
+- https://matematikal.github.io/kipp-studentt/slides.html
+- https://matematikal.github.io/kipp-studentt/slides-pdf/index.html
+- https://matematikal.github.io/kipp-studentt/assessment/index.html
+- https://matematikal.github.io/kipp-studentt/about.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-01.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-02.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-03.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-08.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-09.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-10.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-11.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-12.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-13.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-14.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-15.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#evidence-mahasiswa
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#hasil-penilaian-assessor
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#ringkasan-keputusan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#pemeriksaan-evidence-wajib
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#skor-rubrik
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#kekuatan-berbasis-evidence
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#saran-perbaikan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#pertanyaan-atau-evidence-yang-masih-dibutuhkan
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html#catatan-integritas-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

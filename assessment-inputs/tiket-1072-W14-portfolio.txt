@@ -1,0 +1,215 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1072
+Minggu: 14
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+
+Isi halaman portfolio:
+---
+AI-Mediated Communication Design – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+AI-Mediated Communication Design
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+AI-Mediated Communication Design
+AI
+Ethics
+Penggunaan AI sebagai copilot dalam menyusun carousel publik tips tugas kelompok untuk maba 2026: pembagian peran AI dan manusia, prompt, output, lima revisi manusia, review privasi dan wewenang, serta batas penggunaan AI.
+Kompetensi target
+Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan relationship.
+Evidence wajib
+Persons, characters, objective, dan state.
+AI role, prompt/output, serta human revision.
+Privacy/authority/risk review dan alasan tidak menggunakan lebih banyak AI.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 14 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Minggu, 8 November 2026. Penyusunan carousel Instagram “Tips tugas kelompok pertama untuk maba 2026” dengan bantuan AI (Claude), lalu dipublikasikan di akun pribadi dan ditindaklanjuti dengan balasan komentar serta koreksi caption (lihat Week 13).
+Persons dan relationship: Saya sebagai mahasiswa STI ITB 2025 dan penulis yang bertanggung jawab atas isi; mahasiswa baru 2026 sebagai pembaca utama; teman satu tim (Anggota A, B, dan lainnya) sebagai pihak yang pengalamannya menjadi bahan contoh tanpa disebut namanya; dan pembaca yang berkomentar sebagai pihak yang menguji isi setelah publikasi.
+Objective dan initial state: Menghasilkan artefak publik yang jelas, jujur, dan tidak menyudutkan siapa pun, dengan AI membantu bahasa dan struktur tetapi tidak menentukan fakta, contoh, maupun hubungan dengan pembaca. Initial state: pengalaman tugas kelompok sudah saya miliki (dari Week 6–12), tetapi belum tersusun menjadi pesan publik yang ringkas.
+Evidence
+Catatan1. Pembagian Peran AI dan Manusia
+Tugas
+AI role
+Human responsibility
+Menyusun struktur tujuh slide, caption, dan alt-text
+Copilot (draf bahasa dan struktur)
+Menentukan topik, memilih contoh yang benar-benar terjadi, dan merevisi kalimat
+Memeriksa kalimat yang bisa menyudutkan teman
+Tidak dipercayakan ke AI
+Saya membaca ulang dari sudut pandang teman satu tim yang mungkin mengenali dirinya
+Menyusun draf balasan untuk empat komentar
+Copilot (draf balasan)
+Menilai mana komentar yang merupakan kritik sah, menyetujui koreksi, dan mengirim balasan atas nama sendiri
+Membalas komentar dan DM secara otomatis
+Delegate: tidak digunakan
+Relasi dengan pembaca tetap ditangani langsung oleh saya
+Menentukan fakta, tanggal, dan angka respons
+Tidak digunakan
+Diambil dari pengalaman dan Insight Instagram, bukan dari AI
+2. Prompt & Output
+Instruksi yang saya berikan: memilih topik “Tips buat maba 2026 menghadapi tugas kelompok pertama (dari pengalaman di Tubes, pembagian kerja, dan spreadsheet)”. AI menyusun draf dari catatan pengalaman tugas kelompok yang sudah saya ceritakan sebelumnya, dengan nama teman yang sejak awal disamarkan (Anggota A, B).
+Output AI (draf awal): carousel tujuh slide, caption, dan alt-text. Draf sudah memuat penegasan “bukan pedoman resmi ITB”, tetapi masih punya beberapa kalimat yang terlalu tajam atau terlalu umum, misalnya:
+“Dulu aku tanya progres tiap hari, ternyata ada teman yang merasa tertekan.”
+“Sering kali alasannya kesibukan lain, bukan malas.”
+Jadwal H-5 sampai H-1 tanpa catatan bahwa jadwal itu bisa disesuaikan.
+3. Human Revision
+Output AI
+Revisi saya
+Alasan
+Judul “6 hal yang aku pelajari setelah beberapa kali kerja kelompok”
+“6 hal yang kupelajari dari tugas kelompok dan lomba selama semester ini (termasuk kesalahan yang pernah kulakukan 🙃)”
+Lebih personal dan jujur bahwa saya juga pernah keliru
+Slide 2: “hasilnya jadi lebih cepat”
+Menjelaskan proses diskusi sebelum pembagian tugas diubah
+Menunjukkan proses komunikasi tim, bukan hanya hasil
+Slide 3: jadwal H-5 sampai H-1 tanpa catatan
+Ditambah “bisa disesuaikan dengan kompleksitas tugas dan kesepakatan tim”
+Agar tidak terbaca sebagai aturan wajib
+Slide 5: “ternyata ada teman yang merasa tertekan”
+“Aku belajar bahwa frekuensi update juga perlu mempertimbangkan kenyamanan dan kondisi anggota tim”
+Tidak menyudutkan teman yang bisa mengenali dirinya
+Slide 6: “bukan malas”
+“Jangan langsung berasumsi bahwa anggota tersebut tidak bertanggung jawab… Cari tahu dulu, lalu sepakati solusi bersama”
+Kata “malas” menghakimi; versi baru lebih adil
+Setelah publikasi: dua komentar mengkritik bahwa update tiap 2 hari kurang untuk tenggat dekat dan bahwa pembagian berdasarkan kemampuan tidak selalu tepat. AI menyusun draf balasan dan teks koreksi; saya yang memutuskan bahwa kedua kritik itu sah, mengakuinya, dan menambahkan catatan koreksi di caption atas nama saya sendiri.
+4. Privacy, Authority & Risk Review
+Privacy: nama teman satu tim tidak pernah dimasukkan ke AI maupun ke postingan; contoh hanya memakai samaran dan situasi umum.
+Authority: postingan ditegaskan sebagai pengalaman pribadi, bukan pedoman resmi ITB; AI tidak dipakai untuk mengklaim aturan kampus.
+Akurasi: setiap contoh di carousel saya cocokkan dengan kejadian nyata (pertukaran tugas, tenggat H-5 sampai H-1, spreadsheet, update tiap 2 hari); tidak ada contoh yang berasal dari imajinasi AI.
+Risiko dependency dan profiling: AI tidak diminta menilai karakter teman atau menebak motif anggota yang terlambat; penilaian seperti itu tetap milik saya dan dikoreksi dengan bertanya langsung.
+Alasan tidak menggunakan lebih banyak AI: membalas komentar atau DM secara otomatis tidak saya lakukan karena volume kecil, dua komentar berisi kritik yang butuh pengakuan pribadi, dan relasi dengan adik tingkat tidak boleh terasa dijawab mesin. Angka respons dan fakta tidak saya minta dari AI karena hanya Instagram Insight dan pengalaman saya yang bisa menjadi sumbernya.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya sebagai penulis yang bertanggung jawab, AI sebagai copilot bahasa, teman satu tim sebagai pihak yang dilindungi, dan maba sebagai pembaca dibedakan perannya dengan jelas.
+Objective & state
+Objective menyampaikan pengalaman secara jujur tanpa menyudutkan siapa pun dijaga dari draf sampai koreksi setelah publikasi.
+Repertoire & language
+Prompt, output, lima revisi manusia, dan alasan tiap revisi terdokumentasi; draf AI dipakai sebagai bahan, bukan hasil akhir.
+Response & adaptation
+Kritik pembaca setelah publikasi diterima dan dikoreksi; AI membantu merumuskan, tetapi keputusan mengakui kritik tetap milik saya.
+Agreement/action
+Artefak terbit dengan batas wewenang jelas, balasan dan koreksi dikirim atas nama sendiri, dan tidak ada tugas relasi yang didelegasikan ke AI.
+Relationship outcome
+Teman satu tim tidak disebut atau disudutkan, pembaca yang mengkritik diakui secara personal, dan kepercayaan pembaca tidak dibangun di atas klaim AI.
+Penggunaan AI
+AI (Claude) berperan sebagai draf balasan komentar dan penyusunan portofolio ini. Semua fakta, contoh, angka respons, keputusan revisi, dan pengiriman balasan berasal dari saya. Bagian yang saya ubah dari draf AI tercatat di tabel Human Revision.
+Feedback dan tindak lanjut
+Feedback yang diterima: dua pembaca mengkritik bahwa tips tentang frekuensi update dan pembagian tugas terlalu umum.
+Adaptation/replay: kritik diakui di balasan komentar dan ditambahkan sebagai catatan koreksi di caption.
+Next practice: saat memakai AI untuk menulis konten publik, minta satu orang dari target audiens membaca draf sebelum terbit, karena revisi saya menangkap kalimat yang menyudutkan teman, tetapi belum menangkap batas berlakunya tips yang kemudian ditemukan pembaca.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Peran saya, AI, teman satu tim, dan pembaca dibedakan; tanggung jawab penulis tetap pada saya.
+Objective & State
+4
+Objective dijaga dari draf, revisi, publikasi, sampai koreksi setelah respons publik.
+Repertoire, Language & AI
+4
+Prompt, output, lima revisi beserta alasan, privasi, dan alasan tidak memakai AI lebih jauh terdokumentasi.
+Response & Adaptation
+4
+Revisi sebelum publikasi dan koreksi setelah kritik pembaca dilakukan atas keputusan saya sendiri.
+Agreement, Action & Relationship
+4
+Batas wewenang ITB, privasi teman, dan relasi dengan pembaca dijaga; tugas relasi tidak didelegasikan ke AI.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Public Contribution Challenge
+Capstone Performance Portfolio
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#quarto-document-content
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-14.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,200 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 968
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP 2026
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identitas & Kompetensi Target
+Current dan Desired State Analysis
+Rantai Penerjemahan Makna (Feature–Benefit–Value–Outcome Chain)
+Transkrip Dialog Utama (Demonstrasi Pembangun Keinginan — Simulasi 5 Menit)
+Analysis of Objections, Risks & Adaptations
+Diagnostic Table of 5 Objections Domains (Ranah Keberatan)
+Evidence Package (Verbatim Peer Feedback)
+Catatan Deklarasi Penggunaan AI
+Self-Assessment
+Assessment dosen
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Identitas & Kompetensi Target
+Nama & NIM: Olsen Danilson Sitohang (18225061)
+Kelas: K1 Sistem dan Teknologi Informasi, Institut Teknologi Bandung
+Kompetensi Target: Membangun desired state bersama target (Kasir Mbak Maya dan Pemilik Stan Pak Hendra) dan menghubungkannya dengan solusi secara kredibel melalui ladder of evidence, pengakuan keterbatasan jujur (honest limits), serta pengelolaan keberatan tanpa urgensi palsu.
+Current dan Desired State Analysis
+Berikut adalah pemetaan jembatan batin yang menghubungkan beban situasi saat ini (current state) dengan masa depan yang bernilai (desired state) bagi target:
+Elemen Jembatan Batin
+Rumusan Target (Mbak Maya & Pak Hendra), Bukan Asumsi Komunikator
+Keadaan Sekarang (Current State)
+Kasir mencatat nota secara manual di bawah tekanan antrean jam sibuk (11.30–12.30 WIB), memicu 9,37% kesalahan pesanan ke dapur, waktu tunggu 18 menit, dan kelelahan mental kasir akibat interupsi pertanyaan status makanan.
+Masa Depan yang Bernilai (Desired State)
+Transaksi kasir tuntas dalam \(<3\) detik per pesanan, 0% kesalahan nota ke dapur, kasir bebas dari interupsi pembeli, dan operasional stan tetap berjalan 100% aman tanpa rasa cemas saat Wi-Fi/listrik mati.
+Nilai Relasional (Value)
+Bagi Kasir (Maya): Ketenangan kerja dan terbebas dari kelelahan fisik/mental pencatatan manual.
+Bagi Pemilik (Pak Hendra): Kepastian omzet harian tanpa risiko pembeli batal antre dan arus kas yang terprediksi.
+Batas Risiko Terhitung (Acceptable Risk)
+Uji coba terbatas (pilot test) selama 2 hari untuk 20 transaksi pertama jam sibuk, dengan jaminan buku nota manual tetap ditaruh di meja kasir sebagai backup utama tanpa biaya investasi awal.
+Ambang Bukti (Evidence Threshold)
+Keterbacaan layar dapur 100% akurat pada 20 transaksi berturut-turut, tidak ada lag sistem, dan kasir dapat beralih ke mode offline dalam waktu \(<5\) detik jika internet terputus.
+Rantai Penerjemahan Makna (Feature–Benefit–Value–Outcome Chain)
+Agar komunikasi tidak terjebak menjadi pembuangan fitur (feature dumping), setiap kemampuan teknis diterjemahkan secara bertahap menuju dampak masa depan yang bernilai:
+\[\text{Fitur Teknis} \longrightarrow \text{Manfaat Langsung} \longrightarrow \text{Nilai Relasional} \longrightarrow \text{Hasil Masa Depan (Outcome)}\]
+Rantai Layar Kasir 1-Klik:
+Fitur: Layar draf pesanan 1-klik dengan tombol extra-large.
+Manfaat: Kasir tidak perlu menulis kertas nota dan tidak perlu berteriak ke dapur.
+Nilai (Kasir): Menghilangkan kelelahan fisik dan kecemasan salah catat saat jam sibuk.
+Hasil (Outcome): Mbak Maya dapat melayani pembeli dengan senyum dan pikiran tenang.
+Rantai Papan Antrean TV Dinamis:
+Fitur: Papan status nomor antrean otomatis (Sedang Dimasak \(\rightarrow\) Siap Diambil).
+Manfaat: Pembeli memantau status pesanan sendiri dari kejauhan tanpa mendekati meja kasir.
+Nilai (Pembeli & Kasir): Pembeli mendapat kepastian waktu; kasir terbebas dari interupsi berulang.
+Hasil (Outcome): Mahasiswa makan tepat waktu tanpa takut terlambat kelas jam 13.00, dan antrean di depan stan tetap rapi.
+Rantai Arsitektur Offline-First & Struk Cadangan:
+Fitur: Penyimpanan basis data lokal (SQLite local cache).
+Manfaat: Transaksi kasir tetap tersimpan dan dapat diproses meskipun koneksi internet terputus.
+Nilai (Pemilik Stan): Kepastian bahwa operasional toko tidak tergantung pada sinyal Wi-Fi kampus yang tidak stabil.
+Hasil (Outcome): Pak Hendra memiliki rasa percaya penuh untuk beralih ke digitalisasi tanpa takut kehilangan pendapatan.
+Transkrip Dialog Utama (Demonstrasi Pembangun Keinginan — Simulasi 5 Menit)
+Berikut adalah transkrip lengkap percakapan lisan aktual/simulasi dalam bentuk teks penuh tanpa menggunakan lampiran berkas atau pautan luar:
+Olsen (Communicator): “Mbak Maya dan Pak Hendra, dari obrolan kita kemarin, kita sama-sama sepakat bahwa beban terberat saat jam sibuk jam 12.00 adalah kasir harus menulis nota cepat-cepat sambil dikejar antrean 14 orang. Akibatnya, 1 dari 10 nota salah dibaca dapur dan Mbak Maya sering pusing diinterupsi pembeli. Bayangkan jika besok siang, Mbak Maya cukup tekan tombol menu 2 kali di layar tablet, pesanan langsung sampai di dapur secara akurat, dan pembeli melihat statusnya di TV luar tanpa perlu bertanya lagi. Mbak Maya bisa melayani dengan tenang, dan Pak Hendra tidak kehilangan potensi pembeli yang batal antre. Apakah masa depan ini yang benar-benar ingin kita wujudkan bersama?”
+Pak Hendra (Pemilik Stan): “Kondisi itu memang ideal banget dek. Tapi jujur, saya ini khawatir soal biaya dan kerumitan alatnya. Kalau harus beli tablet mahal dan bayar sewa aplikasi tiap bulan, omzet stan kami yang tipis ini malah tergerus. Apalagi kalau alatnya bikin staf saya pusing.”
+Olsen (Communicator): “Terima kasih atas kejujuran Bapak. Keharusan menjaga efisiensi biaya adalah hal yang paling utama. Mari kita lihat bukti nyata dari mekanisme ini (menunjukkan prototipe fisik tablet murah & sketsa alur). Pertama, untuk uji coba ini, Bapak tidak perlu keluar uang satu rupiah pun karena kami menyediakan unit uji coba gratis. Kedua, mekanismenya dibuat serba 1-klik dengan tombol ekstra besar sehingga Mbak Maya hanya butuh latihan 2 menit. Dan yang paling krusial, saya ingin jujur menyampaikan keterbatasan sistem ini: aplikasi ini baru kami uji untuk 20 transaksi jam sibuk dan belum pernah diuji untuk 500 transaksi beruntun. Karena itu, sebagai jaminan keamanan 100%, buku nota manual Mbak Maya tetap kami letakkan tepat di samping tablet sebagai backup utama. Jika terjadi masalah sekecil apa pun, Mbak Maya bisa langsung kembali ke nota manual dalam 2 detik.”
+Mbak Maya (Kasir): “Nah, kalau buku nota manualnya tetap ada di samping saya sih saya berani coba dek. Yang penting saya nggak panik kalau tiba-tiba tabletnya hang.”
+Pak Hendra (Pemilik Stan): “Ooh, jadi nota manualnya nggak langsung dibuang ya? Dan tidak ada biaya investasi di awal untuk uji coba besok?”
+Olsen (Communicator): “Betul sekali Pak Hendra. Tidak ada biaya awal dan nota manual tetap siaga. Kami tidak ingin memaksakan keputusan Bapak. Jika setelah uji coba 20 transaksi besok Bapak dan Mbak Maya merasa sistem ini justru merepotkan, Bapak berhak penuh untuk menghentikannya kapan saja tanpa beban apa pun. Apakah alur uji coba 20 transaksi besok jam 11.30 cukup adil dan aman untuk kita jadwalkan?”
+Pak Hendra (Pemilik Stan): “Baik dek, kalau mekanismenya seaman itu dan ada nota cadangan, saya setuju kita uji coba 20 transaksi besok siang.”
+Analysis of Objections, Risks & Adaptations
+Diagnostic Table of 5 Objections Domains (Ranah Keberatan)
+Ranah Keberatan
+Gejala & Pertanyaan Target
+Strategi Respons Komunikatif & Adaptasi
+Biaya (Cost)
+Pak Hendra khawatir biaya langganan aplikasi tersembunyi tergerus dari omzet stan.
+Menegaskan skema zero investment untuk pilot test dan transparan mengenai biaya operasional masa depan.
+Usaha (Effort)
+Mbak Maya takut aplikasi rumit dipelajari dan memperlambat pencatatan.
+Menyederhanakan UX menjadi tombol extra-large 1-klik dan memberikan pendampingan langsung 2 menit.
+Risiko (Risk)
+Ketakutan sistem hang atau mati internet di tengah antrean membludak.
+Menyajika fitur offline-first dan menjamin nota manual tetap berada di meja kasir sebagai backup.
+Kepercayaan (Trust)
+Target skeptis pada janji efisiensi teknologi dari mahasiswa.
+Menyampaikan honest limits (baru diuji 20 transaksi) secara terbuka untuk menaikkan kredibilitas.
+Nilai (Value)
+Pertanyaan apakah masa depan tanpa nota kertas benar-benar berharga.
+Menghubungkan ketenangan kasir dan perlindungan omzet sebagai nilai emosional/finansial nyata.
+Evidence Package (Verbatim Peer Feedback)
+Berikut adalah transkrip umpan balik lisan berbasis bukti dari pengamat (peer observer) pascasimulasi:
+Umpan Balik Pengamat (Rian - NIM 18225042): “Ketika Olsen menyampaikan honest limits bahwa aplikasi ini baru diuji untuk 20 transaksi dan belum diuji untuk 500 transaksi, saya mengamati Pak Hendra yang tadinya bersikap defensif dengan menyilangkan tangan langsung menyandarkan badan ke depan dan mengangguk pelan. Pengakuan jujur akan keterbatasan tersebut, ditambah jaminan bahwa buku nota manual tidak dibuang, terbukti menjadi titik balik yang mengubah keraguan target (Interest with Reservation) menjadi kesediaan mengambil risiko terukur (Desire). Komunikator juga sangat etis karena menutup sesi dengan memberikan kebebasan penuh kepada pemilik stan untuk membatalkan uji coba kapan saja.”
+Catatan Deklarasi Penggunaan AI
+Peranti AI digunakan secara general sebatas untuk membantu menyusun kata-kata, merapikan struktur tata bahasa, serta memformat penyajian Markdown agar sesuai dengan templat portofolio. Seluruh dinamika negosiasi, hambatan wewenang, keputusan teknis, transkrip dialog, dan data transaksi yang dilaporkan murni merupakan pengalaman nyata pribadi di lapangan tanpa rekayasa AI
+Self-Assessment
+Dimensi Penilaian
+Skor
+Evidence Singkat
+Person & Character
+3
+Desired state dirumuskan sangat presisi berbasis kebutuhan riil Mbak Maya (kasir) dan Pak Hendra (pemilik).
+Objective & State
+4
+Pergeseran batin dari Interest ragu-ragu menjadi Desire terukur divalidasi lewat persetujuan uji coba 20 transaksi.
+Repertoire, Language & AI
+3
+Menggunakan Rantai Fitur-Manfaat-Nilai-Hasil tanpa feature dumping, didukung prototipe fisik.
+Response & Adaptation
+4
+Keberatan biaya dan risiko dijawab dengan kejujuran keterbatasan (honest limits) dan jaminan nota manual.
+Agreement, Action & Relationship
+4
+Disepakati jadwal pilot test 20 transaksi tanpa urgensi palsu, menjaga martabat relasi secara utuh.
+Total Skor: 18 / 20 — Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP 2026
+Action & Agreement Challenge
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#identitas-kompetensi-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#current-dan-desired-state-analysis
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#rantai-penerjemahan-makna-featurebenefitvalueoutcome-chain
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#transkrip-dialog-utama-demonstrasi-pembangun-keinginan-simulasi-5-menit
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#analysis-of-objections-risks-adaptations
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#diagnostic-table-of-5-objections-domains-ranah-keberatan
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#evidence-package-verbatim-peer-feedback
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#catatan-deklarasi-penggunaan-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

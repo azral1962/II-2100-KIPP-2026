@@ -1,0 +1,139 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 960
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://aduadu17.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Attention evidence dan solution hypothesis
+Pitch dan demonstration
+Hidden concern dan adaptation
+Evidence, AI, dan feedback
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Attention evidence dan solution hypothesis
+Hasil pengamatan pada 2 kelompok uji coba dari minggu lalu menunjukkan bahwa tingkat kesalahan penamaan versi file berkurang hingga 0%, sementara 4 kelompok lainnya masih mengalami 3 kali salah pengiriman draf. Ketua Kelas menyetujui bahwa masalah kepatuhan format berpengaruh nyata pada efisiensi pengumpulan.
+Solution hypothesis: Pembuatan template header draf otomatis dan checklist penyerahan ringkas pada dokumen bersama dapat mencegah tertumpuknya versi file tanpa membebani pengerjaan anggota.
+Problem
+Mechanism
+Expected benefit
+Value bagi target (Ketua Kelas)
+Versi file berantakan & salah kirim
+Ringkasan header (Versi, Tanggal, Penulis) di halaman pertama file
+Anggota kelompok langsung tahu draf mana yang paling mutakhir
+Beban rekonsiliasi tugas angkatan berkurang
+Pengerjaan di jam kritis
+Checklist 3 poin sebelum export PDF
+Mengurangi pengiriman draf setengah jadi saat tenggat
+Mengurangi keterlambatan pengumpulan ke dosen
+Pitch dan demonstration
+“Berdasarkan uji coba minggu lalu di 2 kelompok, penggunaan format baku berhasil menghilangkan kesalahan salah kirim file secara total. Saya sudah buatkan template dokumen siap pakai dengan header otomatis ini. Demo-nya hanya butuh 1 menit: anggota tinggal isi nama dan versi draf di tabel bagian atas sebelum diunduh. Mari kita uji coba ke seluruh kelompok untuk tugas minggu ini.”
+Saya memperagakan penggunaan template dokumen tersebut selama 60 detik kepada Ketua Kelas. Ketua Kelas mencoba mengisi tabel dan merespons: “Tampilannya simpel, tapi gimana kalau anggota kelompok malas mengisi header-nya dan tetap kirim file acak?”
+Hidden concern dan adaptation
+Awalnya saya mengira kekhawatiran utama Ketua Kelas adalah kompleksitas pembuatan template. Namun, respons tersebut menunjukkan hidden concern sebenarnya: kepraktisan kepatuhan anggota (user compliance).
+Adaptasi yang dilakukan: * Memangkas isian header dari 5 baris menjadi hanya 2 baris utama: Nama Penyunting dan Versi/Tanggal. * Menambahkan pengingat otomatis dalam bentuk kalimat petunjuk singkat di bagian atas dokumen.
+Ketua Kelas menunjukkan sinyal Interest dengan meminta salinan tautan template yang sudah disederhanakan untuk diperiksa kembali sebelum dibagikan ke grup angkatan.
+Evidence, AI, dan feedback
+Tangkapan layar template dokumen versi awal dan versi setelah disederhanakan berdasarkan masukan.
+Catatan pengamatan saat sesi demo pitching bersama Ketua Kelas.
+Penggunaan AI: AI digunakan untuk menganalisis potensi hambatan kepatuhan pengguna (friction points) pada draf template awal. AI tidak digunakan untuk mengambil keputusan penyeragaman format.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Mengenali beban kerja Ketua Kelas dan resistensi anggota kelompok
+Objective & State
+3
+Sinyal Interest teridentifikasi lewat permintaan tautan template
+Repertoire, Language & AI
+3
+Demo singkat, pertanyaan eksplorasi concern, dan penggunaan AI terukur
+Response & Adaptation
+4
+Mengubah struktur template menjadi lebih simpel akibat concern kepatuhan
+Agreement, Action & Relationship
+3
+Target setuju meninjau ulang template teradaptasi sebelum distribusi
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Ragawa Bhramastya Aquila Saksono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://aduadu17.github.io/kipp-students/index.html
+- https://aduadu17.github.io/kipp-students/assets/logo.png
+- https://aduadu17.github.io/kipp-students/course/index.html
+- https://aduadu17.github.io/kipp-students/portfolio/index.html
+- https://aduadu17.github.io/kipp-students/examples/index.html
+- https://aduadu17.github.io/kipp-students/lk/index.html
+- https://aduadu17.github.io/kipp-students/slides.html
+- https://aduadu17.github.io/kipp-students/slides-pdf/index.html
+- https://aduadu17.github.io/kipp-students/assessment/index.html
+- https://aduadu17.github.io/kipp-students/about.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-03.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-05.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-08.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-09.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-10.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-11.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-12.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-13.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-14.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-15.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html#pitch-dan-demonstration
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html#evidence-ai-dan-feedback
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

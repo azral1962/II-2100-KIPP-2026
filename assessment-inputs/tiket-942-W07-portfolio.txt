@@ -1,0 +1,162 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 942
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://tristanaw1.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Minggu 7 — Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Minggu 7 — Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Minggu 7 — Interest Pitch
+Minggu 8 — Jawaban UTS KIPP 2026
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identitas
+Competency Target
+Attention Evidence dan Solution Hypothesis
+Pitch dan Demonstration
+Hidden Concern dan Adaptation
+Evidence, AI, dan Feedback
+Self-Assessment
+Minggu 7 — Interest Pitch
+Fondasi
+Person
+Pitch prototype FindMyClass berbasis bukti perhatian target, pembongkaran hidden concern integritas infrastruktur Wi-Fi/ESP, adaptasi mekanisme tanpa aplikasi berat, dan penyepakatan parameter pilot.
+Identitas
+Nama: Tristan Anthony Wijaya
+NIM: 18225045
+Tanggal Pengerjaan: 19 Oktober 2026
+Competency Target
+Mampu menyusun dan menyampaikan Interest Pitch berbasis evidence perhatian target, membaca response serta hidden concern secara adaptif, menggeser mekanisme solusi tanpa kehilangan objective, serta menghasilkan agreement berupa komitmen tindakan nyata (pilot test atau pengujian terbatas).
+Attention Evidence dan Solution Hypothesis
+Berdasarkan pengamatan dua minggu di area gedung perkuliahan dan sekretariat unit, dicatat 14 kali mahasiswa baru/anggota kelompok tersesat mencari ruang kelas/gudang latihan, serta 6 keluhan langsung dari pengelola fasilitas terkait padatnya pertanyaan rute dan peminjaman ruang secara lisan. Target (Pengelola Fasilitas Gedung / Pembina Kegiatan) telah mengakui bahwa ketidakjelasan alur navigasi dan verifikasi keberadaan lokasi merupakan beban operasional harian.
+Solution Hypothesis: Sistem peta navigasi indoor berbasis web-app ringan yang memanfaatkan titik akses Wi-Fi / modul ESP8266 dan algoritma Dijkstra dapat menentukan posisi serta rute terpendek secara real-time tanpa menuntut pengguna mengunduh aplikasi tambahan atau mengubah infrastruktur jaringan kampus.
+Problem
+Mechanism
+Expected Benefit
+Value bagi Target
+Akses Lokasi & Rute Mengambang: Pengunjung/mahasiswa bingung mencari posisi ruang praktikum/ruang unit.
+Web-app ringan dengan pemindaian QR/SSID terdekat dan pengolahan jalur Dijkstra di sisi server.
+Pengguna langsung mendapatkan rute visual visualisasi dari posisi saat ini tanpa install APK.
+Menurunkan interupsi pertanyaan arah ke staf gedung hingga >50%.
+Kekhawatiran Beban Jaringan & Perangkat: Pengelola khawatir alat tambahan merusak/membebani listrik dan jaringan kampus.
+Node penerima menggunakan modul mikrokontroler independen (ESP8266) berkonsumsi daya rendah (stand-alone).
+Tidak ada intervensi ke core switch jaringan ITB atau perubahan konfigurasi router utama.
+Menghilangkan risiko keamanan siber internal dan menurunkan biaya maintenance.
+Pitch dan Demonstration
+“Bapak/Ibu menyebutkan bahwa waktu staf habis hanya untuk mengarahkan rute ruangan dan memastikan lokasi kegiatan. Prototype FindMyClass ini tidak mengubah sistem inventaris atau jaringan utama kampus: pengguna cukup memindai QR di titik masuk, dan algoritma Dijkstra akan menampilkan rute terpendek di browser HP mereka secara real-time. Mari kita uji coba 2 titik node di koridor lantai 1 selama 3 hari; keberhasilannya kita ukur dari penurunan pertanyaan lokasi dan akurasi titik kedatangan pengguna.”
+Saya mendemonstrasikan working prototype selama 90 detik menggunakan perangkat HP. Target menguji navigasi dari titik selasar menuju gudang/ruang praktikum, lalu memberikan tanggapan:
+“Tampilannya cepat dan interaktif, tetapi bagaimana kalau modul ESP ini mati atau koneksi Wi-Fi node-nya terputus saat ribuan mahasiswa lewat? Apakah staf kami yang harus restart dan troubleshoot alatnya?”
+Hidden Concern dan Adaptation
+Saya semula mengira concern utama target adalah biaya pembuatan hardware atau kesulitan mahasiswa memakai web. Namun, response target menunjukkan bahwa hidden concern sebenarnya adalah integritas operasional, potensi workload baru bagi staf operasional, dan keandalan hardware (ESP8266).
+Saya tidak memaksakan defense atas prototype awal, melainkan melakukan adaptasi langsung pada mekanisme:
+Adaptasi Mekanisme Hardware & System: Modul ESP8266 dilengkapi mekanisme fallback otomatis (penentuan rute berbasis peta matriks statis QR jika node ESP kehilangan daya) serta indikator heartbeat LED sederhana yang dapat dipantau tanpa mengecek kodingan.
+Adaptasi Tanggung Jawab Operasional: Maintenance alat sepenuhnya dipegang oleh tim pengembang (PIC: Tristan), bukan staf gedung. Target tidak dibebani troubleshooting teknis.
+Reframing Janji Solusi: Mengubah janji dari “sistem navigasi otomatis 100% tanpa henti” menjadi “uji coba terisolasi 2 node untuk memverifikasi penurunan interupsi rute dan kemudahan pemeliharaan alat”.
+Target menunjukkan sinyal Interest kuat dengan meminta lembar spesifikasi teknis daya ESP8266, menyetujui lokasi peletakan node uji coba, serta menyepakati kriteria keberhasilan pilot test.
+Evidence, AI, dan Feedback
+Evidence Lapangan: Rekaman demonstrasi 3 menit 21 detik, dan Pitch deck penjelasan node ESP8266 di selasar gedung Tautan: Video di YouTube dan slide presentasi di Canva.
+Catatan Observer: Observer mencatat bahwa pertanyaan reflektif saya — “Bagian operasional mana dari alat ini yang paling berpotensi menambah beban harian Bapak/Ibu?” — berhasil membongkar hidden concern terkait keandalan hardware tanpa membuat target merasa tertekan.
+Penggunaan AI secara Terbatas & Etis: AI (LLM) digunakan hanya 1 kali secara terbatas untuk membantu merapikan tata bahasa tabel perbandingan Problem-Mechanism-Benefit agar sesuai dengan format markah Quarto (.qmd).
+Next Practice: Menanyakan kekhawatiran operasional dan batasan workload target di awal sesi sebelum live demo dijalankan.
+Self-Assessment
+Dimensi
+Skor (1–4)
+Evidence Singkat
+Person & Character
+4
+Mengenali person target secara utuh (workload staf gedung dan kekhawatiran operasional) serta menjalankan character pengembang yang akuntabel tanpa defensive.
+Objective & State
+4
+Berhasil mengidentifikasi transisi target dari Attention (mengakui adanya masalah) menjadi Interest (meminta spesifikasi teknis dan mendiskusikan kriteria pilot test).
+Repertoire, Language & AI
+4
+Pitch 90 detik yang lugas, penggunaan pertanyaan pembongkar hidden concern, serta penggunaan AI secara strictly terikat (hanya 1 kali untuk formatting sintaksis).
+Response & Adaptation
+4
+Langsung mengadaptasi mekanisme fallback sistem ESP8266 dan memindahkan beban maintenance dari staf ke tim pengembang begitu hidden concern terungkap.
+Agreement, Action & Relationship
+4
+Menghasilkan agreement tindakan nyata: persetujuan lokasi pilot test 2 node selama 3 hari, penetapan PIC (Tristan), dan indikator keberhasilan terukur.
+Total Skor: 20/20 — Sangat Kompeten (Tercapai).
+Assessment Dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Minggu 8 — Jawaban UTS KIPP 2026
+Portfolio KIPP-2 · Tristan Anthony Wijaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://tristanaw1.github.io/kipp-students/index.html
+- https://tristanaw1.github.io/kipp-students/assets/logo.png
+- https://tristanaw1.github.io/kipp-students/course/index.html
+- https://tristanaw1.github.io/kipp-students/portfolio/index.html
+- https://tristanaw1.github.io/kipp-students/examples/index.html
+- https://tristanaw1.github.io/kipp-students/lk/index.html
+- https://tristanaw1.github.io/kipp-students/slides.html
+- https://tristanaw1.github.io/kipp-students/slides-pdf/index.html
+- https://tristanaw1.github.io/kipp-students/assessment/index.html
+- https://tristanaw1.github.io/kipp-students/about.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-01.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-02.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-03.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-04.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-05.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-06.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-08.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-09.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-10.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-11.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-12.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-13.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-14.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-15.html
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#identitas
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#competency-target
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#pitch-dan-demonstration
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#evidence-ai-dan-feedback
+- https://tristanaw1.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://youtu.be/3fhGXASvTv4?si=PMEp1c5H_bkILUGx
+- https://canva.link/uk27zcouccjwapx
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

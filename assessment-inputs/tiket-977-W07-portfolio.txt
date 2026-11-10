@@ -1,0 +1,424 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 977
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Portfolio Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Week 07 — Problem–Solution Interest Pitch
+1. Kompetensi yang Ditargetkan
+2. Evidence Wajib
+3. Attention Evidence dan Solution Hypothesis
+3.1 Attention Evidence
+3.2 Solution Hypothesis
+3.3 Problem–Solution Fit
+3.4 Batas Solution Hypothesis
+4. Konteks Performance
+4.1 Tanggal dan Setting
+4.2 Persons dan Relationship
+4.3 Objective dan Initial State
+5. Interest Pitch dan Demonstration
+5.1 Interest Pitch
+5.2 Tujuan Pitch
+5.3 Demonstration
+5.4 Interest Signal dan State Assessment
+6. Hidden Concern dan Adaptation
+6.1 Kemungkinan Hidden Concern
+6.2 Adaptation Pertama — Feedback Awal C
+6.3 Perubahan Solusi Berdasarkan Feedback Pertama
+6.4 Replay — Feedback Kedua C
+6.5 Adaptation Kedua — Penyempurnaan Panduan
+6.6 Evaluasi Adaptasi
+7. Analisis Komunikasi
+8. Penggunaan AI
+8.1 Alat dan Peran AI
+8.2 Penggunaan Feedback Target
+8.3 Pemeriksaan Accuracy, Privacy, dan Authority
+8.4 Apa yang Tetap Menjadi Tanggung Jawab Saya
+9. Feedback, Agreement, dan Tindak Lanjut
+9.1 Feedback yang Diterima
+9.2 Action yang Telah Dilakukan
+9.3 Agreement dan Batas Evidence
+9.4 Next Practice
+10. Self-assessment
+11. Kesimpulan
+Assessment Dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit, Interest signal, dan evidence loop adaptasi berdasarkan feedback target.
+Week 07 — Problem–Solution Interest Pitch
+1. Kompetensi yang Ditargetkan
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Pada minggu ini, saya berlatih menghubungkan masalah yang dialami target dengan solusi yang dapat saya tawarkan, menjelaskan manfaat dan nilai solusi tersebut, serta mengidentifikasi sinyal Interest dari respons target.
+Saya menggunakan pengalaman membagikan informasi akses layanan psikiater melalui BPJS dan mendengarkan orang yang mengalami kesulitan sebagai dasar untuk mengembangkan hipotesis solusi.
+Pada proses pengembangan solusi, saya menerima feedback dari teman yang disebut sebagai C melalui Discord. Saya menggunakan feedback tersebut untuk merevisi panduan akses layanan kesehatan jiwa, lalu meminta C menilai kembali versi revisinya. Proses ini membantu saya memahami pentingnya menguji solusi berdasarkan kebutuhan target, bukan hanya berdasarkan asumsi saya sendiri.
+Saya juga mengevaluasi keterbatasan evidence agar tidak menyimpulkan bahwa respons positif awal selalu berarti solusi telah berhasil atau menghasilkan perubahan perilaku.
+2. Evidence Wajib
+Evidence yang digunakan dalam refleksi ini meliputi:
+Attention evidence dan hubungan antara problem dengan solusi.
+Interest pitch yang dilengkapi contoh atau demonstration.
+Respons target dan penilaian terhadap perubahan state.
+Kemungkinan hidden concern yang perlu dikonfirmasi.
+Adaptasi pendekatan berdasarkan kebutuhan target.
+Feedback nyata dari C terhadap panduan awal dan versi revisi.
+Dokumentasi perubahan solusi berdasarkan feedback serta evaluasi setelah revisi.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+3. Attention Evidence dan Solution Hypothesis
+3.1 Attention Evidence
+Saya pernah membagikan informasi tentang cara mengakses layanan psikiater melalui BPJS di Discord STEI ’26 pada 28 Juli 2026. Informasi tersebut mendapat apresiasi dari teman-teman dan memunculkan diskusi tentang kesehatan mental.
+Selain itu, saya memiliki pengalaman mendengarkan curhatan teman dan merespons orang di media sosial yang sedang mengalami kesulitan dengan menawarkan diri untuk mendengarkan. Dalam beberapa interaksi, orang juga pernah bertanya lebih lanjut mengenai akses bantuan atau meminta saran dan informasi lanjutan setelah bercerita.
+Pengalaman tersebut menjadi dasar untuk mengeksplorasi dua masalah yang ingin saya bantu atasi:
+Mahasiswa mungkin kebingungan mengenai cara mengakses bantuan profesional.
+Stigma kesehatan mental dapat membuat mahasiswa takut dianggap lemah atau dihakimi ketika mencari bantuan.
+Feedback C memberikan evidence tambahan yang lebih spesifik mengenai kebutuhan informasi akses layanan. C menilai bahwa informasi akses psikiater melalui BPJS relevan bagi mahasiswa karena kesehatan mental dapat memengaruhi kehidupan akademik dan biaya konsultasi pribadi dapat menjadi pertimbangan.
+C juga menjelaskan bahwa informasi akan lebih praktis jika disertai prosedur rujukan, dokumen yang perlu dipersiapkan, cara mencari fasilitas kesehatan, informasi biaya, dan sumber resmi.
+Evidence tersebut menunjukkan bahwa setidaknya satu target memberikan penilaian dan masukan konkret terhadap informasi yang dibagikan. Namun, saya belum memiliki data sistematis untuk menentukan seberapa umum masalah tersebut atau mengukur dampak jangka panjang dari solusi.
+3.2 Solution Hypothesis
+Hipotesis solusi saya adalah:
+Panduan akses bantuan profesional yang mudah dipahami, disertai pendekatan dukungan teman sebaya yang tidak menghakimi, dapat membantu mahasiswa memahami pilihan bantuan dan merasa lebih nyaman untuk mencari pertolongan.
+Panduan akses layanan berfokus pada kebutuhan praktis, seperti mengetahui langkah awal, memahami prosedur rujukan, dan mencari fasilitas kesehatan yang sesuai.
+Dukungan teman sebaya berfokus pada kebutuhan komunikasi, seperti mendengarkan tanpa menghakimi, memahami kebutuhan orang yang bercerita, dan tidak memaksakan saran.
+Hipotesis ini belum menjadi solusi yang tervalidasi secara luas. Feedback C membantu saya memperbaiki panduan, tetapi belum membuktikan bahwa seluruh mahasiswa memiliki kebutuhan yang sama atau bahwa panduan tersebut menyebabkan penerima mengakses layanan profesional.
+3.3 Problem–Solution Fit
+Problem
+Solution mechanism
+Expected benefit
+Value bagi target
+Mahasiswa bingung cara mengakses bantuan profesional.
+Membagikan panduan langkah-langkah mendapatkan layanan kesehatan jiwa melalui BPJS.
+Mahasiswa memahami langkah awal untuk mencari bantuan.
+Informasi lebih mudah ditemukan dan dipahami.
+Informasi akses layanan masih terlalu umum.
+Menjelaskan langkah awal, rujukan jika diperlukan, dokumen yang perlu dikonfirmasi, dan cara mencari fasilitas.
+Penerima memiliki gambaran yang lebih jelas tentang hal yang perlu dilakukan.
+Mengurangi kebingungan sebelum menghubungi fasilitas kesehatan.
+Informasi praktis sulit ditemukan dalam satu tempat.
+Menyertakan ringkasan alur dan tautan sumber resmi.
+Penerima dapat memahami alur utama dan memeriksa informasi lanjutan.
+Mengurangi kebutuhan untuk mencari ulang seluruh prosedur dari awal.
+Mahasiswa takut dianggap lemah atau dihakimi.
+Mendengarkan tanpa menghakimi dan membagikan informasi bahwa mencari bantuan bukanlah kelemahan.
+Mahasiswa memiliki kesempatan untuk membicarakan kesulitan dengan lebih nyaman.
+Dukungan yang lebih empatik dan upaya mengurangi stigma.
+Teman sebaya ingin membantu, tetapi khawatir memberikan saran yang salah.
+Mendengarkan terlebih dahulu dan menanyakan apakah orang tersebut ingin didengarkan atau ingin mencari solusi.
+Respons dapat disesuaikan dengan kebutuhan orang yang bercerita.
+Dukungan lebih sesuai tanpa memaksakan solusi.
+3.4 Batas Solution Hypothesis
+Solusi yang saya usulkan tidak dimaksudkan untuk mendiagnosis kondisi kesehatan mental atau menggantikan tenaga profesional.
+Panduan akses bantuan berfungsi untuk membantu orang memahami langkah awal, sedangkan dukungan sebaya berfungsi untuk menyediakan ruang mendengarkan dan membantu orang mempertimbangkan pilihan yang sesuai.
+Saya juga perlu memastikan informasi layanan yang dibagikan masih berlaku. Prosedur BPJS, ketersediaan layanan, proses rujukan, dan cakupan pembiayaan perlu dikonfirmasi melalui sumber resmi atau fasilitas terkait.
+Feedback C digunakan sebagai masukan dari satu target. Karena itu, saya tidak menggeneralisasikan hasil feedback tersebut kepada seluruh mahasiswa.
+4. Konteks Performance
+4.1 Tanggal dan Setting
+Salah satu evidence utama berasal dari pesan Discord STEI ’26 pada 28 Juli 2026, ketika saya membagikan informasi akses layanan psikiater melalui BPJS.
+Evidence tambahan berasal dari interaksi dengan C melalui Discord. Saya meminta C memberikan feedback terhadap informasi akses layanan, merevisi panduan berdasarkan masukan tersebut, lalu meminta C menilai versi revisi.
+Interaksi ini berlangsung secara informal, bukan melalui eksperimen formal. Namun, proses tersebut memberikan kesempatan untuk memperoleh respons target yang spesifik dan menggunakannya sebagai dasar perbaikan solusi.
+4.2 Persons dan Relationship
+Saya berperan sebagai mahasiswa yang membagikan informasi dan menawarkan dukungan sebagai teman sebaya.
+C berperan sebagai pemberi feedback terhadap panduan. Saya menggunakan nama samaran C untuk menjaga privasi dan membatasi dokumentasi pada feedback yang relevan dengan pengembangan solusi.
+Saya tidak menganggap diri saya sebagai tenaga profesional. Peran saya terbatas pada mendengarkan, berbagi informasi yang telah diperiksa, dan membantu orang mempertimbangkan pilihan bantuan.
+4.3 Objective dan Initial State
+Tujuan saya adalah menghubungkan dua kebutuhan, yaitu kemudahan memahami akses bantuan profesional dan kebutuhan untuk memperoleh respons yang tidak menghakimi.
+Kondisi awal yang saya identifikasi adalah kemungkinan kebingungan mengenai akses layanan, kekhawatiran terhadap stigma, dan ketidakpastian mengenai cara memberikan dukungan kepada teman.
+Pada panduan awal, informasi mengenai akses psikiater melalui BPJS telah dibagikan, tetapi masih ada kebutuhan untuk memastikan apakah informasi tersebut cukup jelas dan praktis bagi penerima.
+Feedback pertama C menunjukkan bahwa informasi tersebut dianggap relevan, tetapi masih membutuhkan rincian langkah praktis dan sumber informasi lanjutan. Hal ini menjadi dasar untuk merevisi panduan.
+Kondisi tersebut merupakan evidence dari kebutuhan yang disampaikan C, bukan bukti bahwa semua mahasiswa mengalami masalah yang sama.
+5. Interest Pitch dan Demonstration
+5.1 Interest Pitch
+Berikut pitch yang saya susun berdasarkan pengalaman dan hipotesis solusi saya. Teks ini merupakan rumusan pitch, bukan kutipan verbatim dari percakapan yang sudah terjadi.
+Mencari bantuan kesehatan mental bisa terasa membingungkan, terutama kalau kita belum tahu harus mulai dari mana atau takut dihakimi. Aku pernah membagikan panduan akses psikiater melalui BPJS di Discord STEI ’26. Menurutmu, apakah panduan sederhana tentang cara mencari bantuan profesional, disertai dukungan teman sebaya yang tidak menghakimi, akan membantu mahasiswa yang sedang mengalami kesulitan?
+5.2 Tujuan Pitch
+Pitch ini bertujuan untuk:
+Menunjukkan masalah yang mungkin dialami mahasiswa.
+Memperkenalkan solusi berupa panduan akses bantuan dan dukungan sebaya.
+Menghubungkan solusi dengan manfaat praktis dan emosional bagi target.
+Mengundang target untuk memberikan pendapat mengenai relevansi solusi.
+Pertanyaan di akhir pitch digunakan untuk membuka diskusi dan menguji apakah solusi yang ditawarkan sesuai dengan kebutuhan target.
+5.3 Demonstration
+Demonstration 1 — Contoh informasi praktis
+Saya dapat menunjukkan informasi akses psikiater melalui BPJS yang pernah saya bagikan di Discord STEI ’26 sebagai contoh informasi praktis yang dapat membantu mahasiswa memahami langkah awal mencari bantuan.
+Feedback C kemudian membantu saya mengetahui bahwa informasi awal perlu disusun lebih praktis, terutama pada bagian langkah awal, rujukan, dokumen, biaya, dan pencarian fasilitas kesehatan.
+Demonstration 2 — Contoh dukungan sebaya
+Saya dapat mencontohkan cara merespons curhatan dengan mendengarkan terlebih dahulu, kemudian menanyakan apakah orang tersebut ingin didengarkan atau ingin mencari solusi.
+Jika orang tersebut menginginkan solusi, saya dapat membagikan pengalaman pribadi atau informasi yang relevan tanpa menganggap pengalaman saya berlaku untuk semua orang.
+Demonstration kedua ini menjelaskan mekanisme dukungan yang ingin saya praktikkan. Saya tidak menganggapnya sebagai bukti bahwa metode dukungan baru telah diuji secara formal.
+5.4 Interest Signal dan State Assessment
+Berdasarkan pengalaman yang saya ceritakan, ada orang yang bertanya lebih lanjut mengenai akses bantuan dan ada yang meminta saran atau informasi lanjutan setelah bercerita. Informasi yang saya bagikan di Discord STEI ’26 juga mendapat apresiasi dan memunculkan diskusi.
+Pada pengujian panduan, C memberikan feedback spesifik mengenai relevansi, kejelasan, kelengkapan, kepraktisan, dan sumber informasi. Setelah panduan direvisi, C menyatakan bahwa versi revisi lebih jelas dan praktis dibandingkan sebelumnya.
+Respons C merupakan evidence yang lebih spesifik daripada apresiasi umum karena C menjelaskan bagian yang membantu dan bagian yang masih perlu ditingkatkan.
+Namun, saya tetap membedakan beberapa hal:
+Apresiasi belum tentu menunjukkan bahwa target membutuhkan atau akan menggunakan solusi tersebut.
+Pertanyaan lanjutan dan feedback positif merupakan indikasi perhatian serta keterlibatan, tetapi belum membuktikan penggunaan layanan profesional.
+C menilai panduan lebih jelas dan praktis, tetapi hal tersebut tidak membuktikan bahwa seluruh mahasiswa akan memberikan penilaian yang sama.
+Saya belum memiliki pengukuran yang menunjukkan bahwa panduan menyebabkan perubahan perilaku atau meningkatkan penggunaan layanan.
+Karena itu, state assessment saya terbatas pada respons yang benar-benar disampaikan oleh target.
+6. Hidden Concern dan Adaptation
+6.1 Kemungkinan Hidden Concern
+Beberapa hal yang mungkin membuat mahasiswa ragu mencari bantuan atau membicarakan kesehatan mental adalah:
+Takut dianggap lemah.
+Khawatir dihakimi oleh teman atau lingkungan.
+Bingung mengenai proses mengakses layanan profesional.
+Khawatir mengenai biaya atau ketersediaan layanan.
+Tidak yakin apakah kesulitan yang dialami sudah memerlukan bantuan profesional.
+Feedback C memberikan evidence spesifik mengenai beberapa kebutuhan praktis, seperti prosedur rujukan, dokumen, biaya, kendala administrasi, serta alternatif jika fasilitas yang dituju tidak tersedia.
+Hal tersebut menunjukkan bahwa kejelasan prosedur dan kemudahan memperoleh informasi merupakan aspek yang perlu diperhatikan dalam solusi.
+Saya tidak menyimpulkan bahwa semua mahasiswa memiliki kekhawatiran yang sama. Setiap kebutuhan tetap perlu dikonfirmasi kepada target yang bersangkutan.
+Saya juga memiliki kekhawatiran ketika membantu orang lain, seperti takut memberikan saran yang tidak sesuai, membagikan informasi yang salah, atau merasa terbebani secara emosional setelah mendengarkan masalah mereka.
+6.2 Adaptation Pertama — Feedback Awal C
+Setelah meninjau informasi akses layanan yang telah dibagikan, saya meminta C memberikan feedback mengenai relevansi, kejelasan, kelengkapan informasi, efektivitas penyampaian, dan informasi yang masih dibutuhkan.
+C menyampaikan bahwa:
+Informasi akses psikiater melalui BPJS relevan bagi mahasiswa karena kesehatan mental dapat memengaruhi kehidupan akademik.
+Panduan akan lebih membantu jika disampaikan secara runtut dan langsung menunjukkan langkah yang perlu dilakukan.
+Informasi tentang rujukan, dokumen, fasilitas kesehatan, biaya, dan kemungkinan kendala administrasi masih dibutuhkan.
+Discord merupakan media yang cukup efektif karena familiar bagi mahasiswa.
+Panduan sebaiknya dilengkapi langkah-langkah, tautan sumber resmi, serta kontak atau kanal untuk informasi lanjutan.
+Feedback tersebut menunjukkan bahwa informasi awal memiliki relevansi, tetapi masih dapat ditingkatkan dari segi kepraktisan dan kemudahan penggunaan.
+6.3 Perubahan Solusi Berdasarkan Feedback Pertama
+Berdasarkan masukan C, saya merevisi panduan akses layanan kesehatan jiwa melalui BPJS.
+Perubahan yang dilakukan meliputi:
+Menyusun langkah secara runtut. Panduan dimulai dari pemeriksaan status kepesertaan, menghubungi FKTP, mengonfirmasi kebutuhan rujukan, mencari fasilitas yang sesuai, hingga mengikuti prosedur pendaftaran.
+Menambahkan daftar hal yang perlu dikonfirmasi. Panduan mencakup pertanyaan mengenai dokumen, prosedur rujukan, jadwal, cakupan biaya, dan kemungkinan kendala administrasi.
+Menambahkan sumber resmi. Pembaca diarahkan untuk memeriksa informasi melalui kanal resmi BPJS Kesehatan dan sumber Kementerian Kesehatan.
+Memperjelas batas informasi. Panduan menekankan bahwa prosedur dan cakupan layanan perlu dikonfirmasi, bukan dianggap sama untuk semua orang atau fasilitas.
+Tujuan perubahan ini adalah membuat panduan lebih operasional sehingga penerima memiliki gambaran mengenai langkah awal dan informasi yang perlu diperiksa.
+6.4 Replay — Feedback Kedua C
+Setelah panduan direvisi, saya mengirimkan versi revisi kepada C dan meminta feedback kembali.
+C memberikan respons berikut:
+Haii! Menurutku versi revisinya sudah jauh lebih jelas dan praktis dibandingkan sebelumnya.
+C menjelaskan bahwa langkah awal, yaitu memeriksa status BPJS dan menghubungi FKTP terdaftar, sudah lebih mudah dipahami. C juga menilai informasi mengenai rujukan, dokumen, dan biaya cukup membantu mengurangi kebingungan.
+Namun, C masih menyarankan beberapa perbaikan:
+Menambahkan contoh alur singkat dari FKTP sampai konsultasi dengan psikiater.
+Menambahkan kontak atau tautan untuk mencari fasilitas kesehatan yang menyediakan layanan psikiatri.
+Menyediakan diagram sederhana agar pembaca dapat memahami langkah utama tanpa harus membaca seluruh panduan terlebih dahulu.
+Feedback kedua ini menunjukkan bahwa C menilai hasil revisi lebih jelas dan praktis, sekaligus memberikan masukan spesifik untuk perbaikan berikutnya.
+6.5 Adaptation Kedua — Penyempurnaan Panduan
+Berdasarkan feedback kedua C, saya menyempurnakan panduan dengan menambahkan diagram alur dan sumber untuk mencari fasilitas kesehatan.
+Diagram alur merangkum langkah umum berikut:
+Memeriksa status kepesertaan BPJS.
+Menghubungi FKTP terdaftar.
+Mengikuti arahan tenaga kesehatan dan mendapatkan rujukan jika diperlukan.
+Memastikan fasilitas tujuan, jadwal, dokumen, dan ketentuan layanan.
+Mengikuti prosedur pendaftaran dan konsultasi.
+Saya juga menambahkan tautan ke situs resmi BPJS Kesehatan dan direktori rumah sakit Kementerian Kesehatan sebagai titik awal pencarian informasi.
+Panduan menekankan bahwa ketersediaan layanan psikiatri, prosedur rujukan, jadwal, dan cakupan BPJS harus dikonfirmasi kepada fasilitas terkait atau BPJS Kesehatan.
+Perubahan ini secara langsung menanggapi masukan C tentang kebutuhan diagram ringkas dan kemudahan mencari fasilitas.
+6.6 Evaluasi Adaptasi
+Proses adaptasi yang saya lakukan mencakup:
+Feedback awal → identifikasi kebutuhan → revisi panduan → pengiriman ulang → feedback kedua → penyempurnaan panduan.
+Feedback pertama membantu saya mengidentifikasi kekurangan panduan awal. Saya kemudian memperbaiki susunan langkah, informasi praktis, dan sumber resmi.
+Feedback kedua memberikan indikasi bahwa perubahan tersebut membantu meningkatkan kejelasan dan kepraktisan menurut C. C juga membantu mengidentifikasi kebutuhan lanjutan berupa diagram alur dan tautan pencarian fasilitas.
+Dengan demikian, proses ini menunjukkan adanya respons terhadap feedback target dan evaluasi terhadap hasil revisi, bukan hanya rencana untuk melakukan adaptasi di masa depan.
+Namun, evaluasi ini terbatas pada penilaian C. Saya belum dapat menyimpulkan bahwa panduan telah meningkatkan penggunaan layanan kesehatan jiwa atau menghasilkan perubahan perilaku yang terukur.
+7. Analisis Komunikasi
+Elemen
+Evidence dan analisis
+Person & Character
+Saya berperan sebagai teman sebaya yang membagikan informasi dan menawarkan dukungan. Saya menggunakan nama samaran C dalam dokumentasi dan membatasi klaim pada feedback yang relevan. Saya memahami bahwa setiap orang memiliki kebutuhan dan batas privasi yang berbeda.
+Objective & State
+Tujuan saya adalah membantu mahasiswa memahami pilihan akses bantuan dan merasa lebih nyaman membicarakan kesulitan. Feedback C menunjukkan bahwa panduan dinilai relevan dan versi revisinya lebih jelas serta praktis. Namun, respons tersebut belum membuktikan perubahan perilaku atau dampak jangka panjang.
+Repertoire, Language & AI
+Saya menggunakan informasi praktis, bahasa yang mudah dipahami, dan pendekatan mendengarkan tanpa menghakimi. Feedback C digunakan untuk memperbaiki struktur panduan. AI dapat membantu penyusunan materi, tetapi informasi layanan harus diverifikasi melalui sumber resmi.
+Response & Adaptation
+Saya mengumpulkan feedback awal, merevisi panduan berdasarkan kebutuhan yang disebutkan C, mengirimkan kembali versi revisi, dan memperoleh feedback kedua. Saya kemudian menambahkan diagram alur dan sumber pencarian fasilitas berdasarkan saran C. Ini merupakan evidence spesifik dari siklus adaptasi.
+Agreement, Action & Relationship
+Saya telah membagikan informasi, meminta feedback, merevisi panduan, dan mengundang C menilai kembali hasil revisi. C memberikan masukan pada dua tahap interaksi. Namun, feedback tersebut tidak membuktikan bahwa C telah menggunakan layanan profesional atau membuat kesepakatan untuk tindakan lanjutan tertentu.
+Relationship Outcome
+Interaksi memberikan kesempatan bagi C untuk menyampaikan kebutuhan dan terlibat dalam perbaikan panduan. Respons positif C menunjukkan bahwa versi revisi dinilai lebih jelas dan praktis oleh C. Saya tidak menggeneralisasikan penilaian tersebut kepada seluruh mahasiswa atau mengklaim dampak hubungan yang belum diukur.
+8. Penggunaan AI
+AI digunakan sebagai alat bantu penyusunan dan perencanaan, bukan sebagai pengganti tenaga profesional.
+8.1 Alat dan Peran AI
+ChatGPT digunakan untuk membantu menyusun struktur panduan akses bantuan, merapikan bahasa, menyusun daftar pertanyaan feedback, dan mengorganisasikan hasil evaluasi ke dalam dokumentasi.
+AI juga membantu saya merumuskan hubungan antara problem, mekanisme solusi, benefit, dan value agar dapat dianalisis secara lebih terstruktur.
+8.2 Penggunaan Feedback Target
+Feedback C menjadi evidence utama untuk menentukan bagian yang perlu diperbaiki. AI dapat membantu mengorganisasikan masukan tersebut, tetapi tidak menggantikan respons asli C atau menciptakan hasil interaksi yang tidak terjadi.
+Saya membedakan antara:
+Feedback yang benar-benar disampaikan C.
+Analisis saya terhadap feedback tersebut.
+Perubahan panduan yang telah dilakukan.
+Dampak yang belum dapat dipastikan.
+8.3 Pemeriksaan Accuracy, Privacy, dan Authority
+Accuracy: Informasi mengenai prosedur BPJS dan layanan kesehatan harus diverifikasi melalui sumber resmi atau fasilitas terkait.
+Privacy: Saya menggunakan nama samaran C dan tidak perlu memasukkan identitas atau detail pribadi yang tidak relevan ke dalam prompt.
+Authority: AI tidak digunakan untuk mendiagnosis, menentukan kebutuhan perawatan seseorang, atau menggantikan tenaga profesional kesehatan mental.
+Evidence integrity: AI tidak digunakan untuk mengarang kutipan, respons target, atau hasil yang tidak terjadi.
+8.4 Apa yang Tetap Menjadi Tanggung Jawab Saya
+Saya tetap bertanggung jawab untuk memahami kebutuhan target, memeriksa informasi, menjaga privasi, melakukan revisi berdasarkan feedback nyata, dan menilai batas kemampuan diri.
+AI dapat membantu menyiapkan materi dan mengorganisasikan refleksi, tetapi tidak menggantikan interaksi langsung dan tanggung jawab saya terhadap orang yang menerima informasi.
+9. Feedback, Agreement, dan Tindak Lanjut
+9.1 Feedback yang Diterima
+Saya memperoleh dua tahap feedback dari C.
+Feedback pertama menunjukkan bahwa informasi akses psikiater melalui BPJS relevan, tetapi panduan masih perlu diperjelas melalui langkah praktis, prosedur rujukan, dokumen, informasi biaya, fasilitas kesehatan, dan sumber resmi.
+Feedback kedua, setelah revisi, menunjukkan bahwa panduan dinilai lebih jelas dan praktis. C menyatakan bahwa langkah awal lebih mudah dipahami dan informasi mengenai rujukan, dokumen, serta biaya membantu mengurangi kebingungan.
+C juga menyarankan diagram alur dan tautan pencarian fasilitas kesehatan untuk meningkatkan kepraktisan panduan.
+9.2 Action yang Telah Dilakukan
+Tindakan yang telah dilakukan dalam proses pengembangan solusi meliputi:
+Membagikan informasi akses layanan psikiater melalui BPJS.
+Meminta feedback C mengenai relevansi, kejelasan, kelengkapan, dan kepraktisan informasi.
+Merevisi panduan berdasarkan feedback pertama.
+Mengirimkan versi revisi kepada C untuk dievaluasi kembali.
+Menerima feedback kedua dan mengidentifikasi kebutuhan tambahan.
+Menambahkan diagram alur dan sumber pencarian fasilitas ke panduan final.
+Tindakan tersebut menunjukkan bahwa feedback digunakan sebagai dasar pengambilan keputusan dan perubahan solusi.
+9.3 Agreement dan Batas Evidence
+C bersedia memberikan feedback pada panduan dan menyampaikan masukan pada dua tahap interaksi. Hal ini menunjukkan keterlibatan C dalam proses evaluasi solusi.
+Namun, saya tidak menganggap feedback sebagai bukti bahwa C telah menyetujui seluruh isi panduan, menggunakan layanan kesehatan jiwa, atau berkomitmen melakukan tindakan lanjutan tertentu.
+Saya juga tidak mengklaim bahwa panduan menyebabkan seseorang mengakses layanan profesional karena tidak ada evidence dalam interaksi ini yang membuktikan hubungan sebab-akibat tersebut.
+9.4 Next Practice
+Jika mengembangkan solusi lebih lanjut, saya akan:
+Memastikan versi final panduan memuat diagram alur, tautan resmi, dan petunjuk konfirmasi layanan.
+Memeriksa kembali apakah tautan dan informasi yang dicantumkan masih berlaku.
+Jika C bersedia, meminta feedback lanjutan mengenai versi final untuk mengetahui apakah diagram dan tautan tambahan menjawab kebutuhan yang sebelumnya disampaikan.
+Jika panduan diuji kepada target lain, mencatat feedback secara terpisah agar dapat membandingkan kebutuhan yang berbeda.
+Mengevaluasi hasil berdasarkan evidence yang benar-benar diperoleh, bukan menganggap panduan berhasil hanya karena sudah dibagikan.
+Langkah-langkah tersebut merupakan rencana tindak lanjut. Saya hanya akan mencatatnya sebagai hasil yang tercapai jika benar-benar dilakukan.
+10. Self-assessment
+Dimensi
+Skor 1–4
+Evidence dan alasan
+Person & Character
+4
+Saya menunjukkan perhatian terhadap kebutuhan target, menggunakan nama samaran C dalam dokumentasi, dan membatasi klaim pada evidence yang tersedia.
+Objective & State
+4
+Saya menghubungkan problem dengan solusi dan membedakan feedback positif terhadap panduan dari bukti penggunaan layanan atau perubahan perilaku.
+Repertoire, Language & AI
+4
+Saya menggunakan informasi praktis, menyusun panduan yang lebih terstruktur, menggunakan AI secara terbatas, dan menekankan verifikasi informasi melalui sumber resmi.
+Response & Adaptation
+4
+Saya memperoleh feedback awal C, merevisi panduan berdasarkan feedback tersebut, mengirimkan kembali versi revisi, memperoleh feedback kedua, dan melakukan penyempurnaan berdasarkan masukan lanjutan.
+Agreement, Action & Relationship
+3
+Saya melakukan tindakan nyata dalam berbagi informasi, meminta feedback, dan memperbaiki panduan. C terlibat dalam evaluasi dua tahap. Namun, belum ada bukti penggunaan layanan oleh C, kesepakatan tindakan lanjutan yang eksplisit, atau dampak hubungan yang terukur.
+Total
+19/20
+Usulan self-assessment berdasarkan evidence yang didokumentasikan.
+Skor ini merupakan penilaian diri, bukan jaminan skor dari pengajar. Penilaian akhir tetap mengikuti rubrik, kualitas evidence, dan keputusan evaluator.
+Saya memberikan skor lebih rendah pada Agreement, Action & Relationship karena meskipun tindakan dan keterlibatan target telah terdokumentasi, bukti mengenai kesepakatan lanjutan dan dampak yang terukur masih terbatas.
+11. Kesimpulan
+Pengalaman membagikan informasi akses bantuan profesional dan mendengarkan orang yang mengalami kesulitan menjadi dasar bagi saya untuk mengembangkan hipotesis solusi yang menggabungkan panduan praktis dengan dukungan teman sebaya yang tidak menghakimi.
+Feedback C menunjukkan bahwa informasi akses psikiater melalui BPJS dinilai relevan, tetapi panduan awal masih membutuhkan langkah praktis dan sumber informasi yang lebih jelas. Saya kemudian merevisi panduan dengan menyusun langkah secara runtut, menambahkan hal yang perlu dikonfirmasi, dan menyediakan sumber resmi.
+Setelah panduan revisi dikirimkan kembali, C menilai bahwa versi tersebut lebih jelas dan praktis. C juga memberikan saran tambahan berupa diagram alur dan tautan pencarian fasilitas kesehatan, yang kemudian digunakan sebagai dasar penyempurnaan panduan final.
+Proses ini memberikan evidence spesifik bahwa saya tidak hanya merencanakan adaptasi, tetapi juga mengumpulkan feedback, menerapkan perubahan, dan mengevaluasi hasil revisi bersama target.
+Meskipun demikian, saya tetap membedakan kejelasan panduan menurut C dari bukti bahwa solusi telah menghasilkan perubahan perilaku atau meningkatkan penggunaan layanan profesional. Dampak tersebut belum dapat disimpulkan dari evidence yang tersedia.
+Pembelajaran utama saya adalah bahwa problem–solution fit perlu diuji melalui respons target yang konkret. Solusi sebaiknya dikembangkan berdasarkan kebutuhan yang disampaikan target, diperbaiki secara bertahap, dan dievaluasi tanpa melebih-lebihkan hasil.
+Assessment Dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Erin Cherryl Angela
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://silinderpejal.github.io/kipp-students/index.html
+- https://silinderpejal.github.io/kipp-students/assets/logo.png
+- https://silinderpejal.github.io/kipp-students/course/index.html
+- https://silinderpejal.github.io/kipp-students/portfolio/index.html
+- https://silinderpejal.github.io/kipp-students/examples/index.html
+- https://silinderpejal.github.io/kipp-students/lk/index.html
+- https://silinderpejal.github.io/kipp-students/slides.html
+- https://silinderpejal.github.io/kipp-students/slides-pdf/index.html
+- https://silinderpejal.github.io/kipp-students/assessment/index.html
+- https://silinderpejal.github.io/kipp-students/about.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-01.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-02.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-03.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-04.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-05.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-06.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-08.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-09.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-10.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-11.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-12.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-13.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-14.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-15.html
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#week-07-problemsolution-interest-pitch
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#kompetensi-yang-ditargetkan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#attention-evidence
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#solution-hypothesis
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#problemsolution-fit
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#batas-solution-hypothesis
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#tanggal-dan-setting
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#persons-dan-relationship
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#objective-dan-initial-state
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#interest-pitch
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#tujuan-pitch
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#demonstration
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#interest-signal-dan-state-assessment
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#kemungkinan-hidden-concern
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#adaptation-pertama-feedback-awal-c
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#perubahan-solusi-berdasarkan-feedback-pertama
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#replay-feedback-kedua-c
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#adaptation-kedua-penyempurnaan-panduan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#evaluasi-adaptasi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#alat-dan-peran-ai
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#penggunaan-feedback-target
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#pemeriksaan-accuracy-privacy-dan-authority
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#apa-yang-tetap-menjadi-tanggung-jawab-saya
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#feedback-agreement-dan-tindak-lanjut
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#feedback-yang-diterima
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#action-yang-telah-dilakukan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#agreement-dan-batas-evidence
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#next-practice
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#kesimpulan
+- https://silinderpejal.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://silinderpejal.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

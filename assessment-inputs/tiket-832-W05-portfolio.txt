@@ -1,0 +1,221 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 832
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Initial assumption dan rencana discovery
+Potongan transcript
+Pembaruan pembacaan
+Evidence, feedback, dan next step
+Self-assessment
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Evidence wajib
+Initial assumption dan pertanyaan discovery.
+Transcript/paraphrase serta problem impact dan constraint.
+Shared problem statement yang dikonfirmasi partner.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Initial assumption dan rencana discovery
+Saya berasumsi ibu kesulitan mengisi nilai rapor karena jumlah siswa terlalu banyak dan ia kurang paham teknologi. Saya mewawancarai ibu (samaran JMK), seorang guru, sebelum mengusulkan solusi apa pun.
+Pertanyaan utama:
+Ceritakan terakhir kali Anda kerepotan mengurus nilai.
+Pada langkah mana Anda mengalami kesulitan?
+Apa dampaknya terhadap pekerjaan atau waktu Anda?
+Cara apa yang sekarang Anda gunakan untuk mengatasinya?
+Constraint apa yang perlu dipertahankan?
+Potongan transcript
+JMK: “Dua minggu lalu saya harus mengisi nilai rapor untuk 90 siswa dalam seminggu. Banyak tugas belum saya periksa, jadi saya lembur tiap malam.”
+Saya: “Jadi masalahnya bukan cuma jumlah siswa, tapi nilai yang menumpuk karena tidak dicatat bertahap?”
+JMK: “Betul. Saya sering lupa mencatat nilai setiap minggu, jadi numpuk di akhir.”
+Saya: “Seberapa sering itu memengaruhi pekerjaan Anda?”
+JMK: “Hampir tiap akhir semester, dan saya khawatir ada nilai yang salah karena buru-buru.”
+Saya: “Apa yang tidak boleh hilang jika prosesnya diperbaiki?”
+JMK: “Jangan sampai saya harus pakai cara yang ribet atau aplikasi baru yang saya tidak paham.”
+Pembaruan pembacaan
+Initial assumption “jumlah siswa terlalu banyak” tidak cukup didukung. Evidence interview menunjukkan tiga kemungkinan masalah: nilai tidak dicatat bertahap, tidak ada kebiasaan mencatat mingguan, dan ibu menolak proses yang menambah kerumitan teknologi. Satu interview belum membuktikan prevalensi; saya menandainya sebagai discovery awal.
+Shared problem statement yang dikonfirmasi ibu:
+“Seorang guru mengalami kesulitan mencatat dan memeriksa nilai secara bertahap setiap minggu sehingga nilai menumpuk menjelang rapor dan ia harus lembur. Ia membutuhkan cara mencatat nilai yang sederhana dan bisa dilakukan di sela-sela jam mengajar, dengan mempertimbangkan banyaknya siswa, keterbatasan kemampuan digital, dan tenggat sekolah.”
+Ibu mengubah frasa awal “aplikasi pencatatan nilai” menjadi “cara mencatat yang sederhana” karena ia belum menyetujui bentuk solusi tertentu.
+Evidence, feedback, dan next step
+Catatan wawancara ±15 menit dengan consent lisan.
+Identitas ibu disamarkan (JMK), tidak ada data siswa yang dicatat.
+Pesan konfirmasi problem statement dari ibu.
+Feedback observer: satu pertanyaan saya masih leading, terutama “apakah aplikasi akan membantu?”; pertanyaan itu dikeluarkan dari analisis.
+Next practice: melakukan wawancara tambahan dengan guru lain dan menanyakan current workaround sebelum menyebut solusi.
+AI dipakai untuk memberi label fact, interpretation, dan solution suggestion pada catatan wawancara. Saya memeriksa ulang setiap label terhadap catatan asli dan tidak memasukkan nama atau data sensitif.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Pengalaman dan constraint ibu dipetakan
+Objective & State
+3
+Asumsi awal diperbarui menjadi problem statement
+Repertoire, Language & AI
+3
+Open question, paraphrase, confirmation, dan AI terbatas
+Response & Adaptation
+3
+Solusi awal ditahan setelah response
+Agreement, Action & Relationship
+3
+Problem statement dikonfirmasi; next interview jelas
+Total: 15/20 — Kompeten.
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Tirta Wening Putri Harsono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://1py1h9fg8.github.io/kipp-students/index.html
+- https://1py1h9fg8.github.io/kipp-students/assets/logo.png
+- https://1py1h9fg8.github.io/kipp-students/course/index.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/index.html
+- https://1py1h9fg8.github.io/kipp-students/examples/index.html
+- https://1py1h9fg8.github.io/kipp-students/lk/index.html
+- https://1py1h9fg8.github.io/kipp-students/slides.html
+- https://1py1h9fg8.github.io/kipp-students/slides-pdf/index.html
+- https://1py1h9fg8.github.io/kipp-students/assessment/index.html
+- https://1py1h9fg8.github.io/kipp-students/about.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-01.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-02.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-03.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-04.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-06.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-07.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-08.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-09.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-10.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-11.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-12.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-13.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-14.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-15.html
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#evidence-wajib
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#potongan-transcript
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#evidence-feedback-dan-next-step
+- https://1py1h9fg8.github.io/kipp-students/portfolio/week-05.html#self-assessment-1
+- https://1py1h9fg8.github.io/kipp-students/examples/week-05.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

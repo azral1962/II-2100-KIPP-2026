@@ -1,0 +1,186 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 995
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Penghubungan jadwal cicilan dan pembagian tugas dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi jadwal fleksibel setelah muncul hidden concern benturan jadwal.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Senin, 25 Mei 2026, diskusi tim lewat chat selama kurang lebih 30–60 menit, di awal lomba Data Science berikutnya yang diikuti tim yang sama.
+Persons dan relationship: Saya dan Anggota A, rekan satu tim lomba dengan posisi setara (tanpa hubungan atasan-bawahan), bersama Anggota B. Relasi kerja tetap terjaga setelah kasus Week 6, ketika Anggota A menerima tawaran bantuan saat tenggat lomba Maret tinggal satu hari.
+Objective dan initial state: Membangun ketertarikan (Interest) Anggota A terhadap jadwal cicilan dan pembagian tugas yang jelas sejak awal lomba, agar pekerjaan tidak kembali menumpuk menjelang tenggat. Initial state Anggota A: Attention, sudah mengakui pada Maret bahwa penundaan berdampak pada tim, tetapi belum terlihat apakah ia siap mengikuti cara kerja baru di tengah kesibukannya.
+Evidence
+Catatan1. Attention Evidence & Solution Hypothesis
+Evidence dari lomba Maret 2026: pengerjaan ditunda sampai tenggat tinggal satu hari (19 Maret 2026), sehingga beberapa bagian pekerjaan hasilnya kurang maksimal dan hampir tidak ada waktu untuk memeriksa ulang serta memperbaiki hasil.
+Solution Hypothesis: jadwal cicilan bertahap dan pembagian tugas yang dibagikan sejak awal, disertai pengecekan progres berkala, dapat mencegah penumpukan pekerjaan dan memunculkan kendala anggota lebih awal.
+Problem
+Mechanism
+Expected benefit
+Value bagi target (Anggota A)
+Pengerjaan ditunda sampai mendekati tenggat
+Jadwal cicilan bertahap dan pembagian tugas yang jelas sejak awal lomba
+Pekerjaan berjalan sedikit demi sedikit dan masih ada waktu memeriksa serta merevisi
+Anggota A tahu prioritas bagiannya dan tidak harus mengejar semuanya di hari terakhir
+Kendala anggota baru terlihat ketika waktu hampir habis
+Pengecekan progres berkala dan ajakan “kabarin aja kalau sibuk”
+Hambatan terdeteksi lebih awal dan bantuan bisa diatur
+Anggota A bisa meminta bantuan sebelum pekerjaan menumpuk, tanpa harus merasa bersalah seperti di Maret
+2. Pitch & Demonstration
+“Guys, ini ya pembagian tugas kita. Tolong jangan mepet lagi yaa kerjainnya. Kalo semisal sibuk atau gimana, kabarin ajaa, kita saling bantu!”
+Saya membagikan pembagian tugas dan jadwal pengerjaan langsung di chat tim, sehingga setiap anggota bisa melihat bagiannya sendiri dan urutan pengerjaannya. Gaya bahasa sengaja informal agar tanggung jawab tersampaikan tanpa terasa seperti teguran.
+3. Response, Hidden Concern & Adaptation
+Respons Anggota A: mengungkapkan kekhawatiran bahwa jadwal pengerjaan bisa berbenturan dengan kegiatannya yang lain.
+Identifikasi Hidden Concern: saya semula mengira masalah utamanya adalah kebiasaan menunda, sehingga fokus saya pada disiplin jadwal. Respons Anggota A menunjukkan hidden concern sebenarnya adalah ketersediaan waktu dan benturan dengan kegiatan lain, bukan keengganan mengerjakan.
+Pertanyaan pengecekan: sebelum mengubah jadwal, saya menanyakan apakah Anggota A tetap akan berusaha mengikuti lomba ini, untuk membedakan kesediaan berkomitmen dari kendala waktu.
+Adaptasi: saya tidak mempertahankan jadwal awal secara kaku. Jadwal dibuat lebih fleksibel dan pembagian tugas disesuaikan dengan ketersediaan waktu Anggota A, dengan tetap menjaga bagiannya sebagai tanggung jawabnya sendiri.
+Hasil & State Shift: Anggota A menyetujui jadwal yang sudah disesuaikan dan mulai mengerjakan bagiannya. State berpindah dari Attention menjadi Interest, ditunjukkan lewat persetujuan sekaligus tindakan nyata.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya menghargai keterbatasan waktu Anggota A sebagai kondisi nyata, bukan menganggapnya kurang disiplin; posisi setara membuat saya memilih ajakan, bukan perintah.
+Objective & state
+State Anggota A dinilai (Attention → Interest), dan saya tidak memaksakan jadwal final sebelum hidden concern terurai.
+Repertoire & language
+Pembagian tugas dan jadwal ditunjukkan langsung di chat, dihubungkan dengan pengalaman Maret, dan disampaikan informal dengan ajakan saling bantu.
+Response & adaptation
+Kekhawatiran benturan jadwal mengubah mekanisme dari jadwal tetap menjadi jadwal fleksibel dengan pembagian tugas yang disesuaikan.
+Agreement/action
+Anggota A menyetujui jadwal yang disesuaikan dan mulai mengerjakan bagiannya; progres dipantau lewat pengecekan berkala.
+Relationship outcome
+Anggota A merasa kondisinya didengar, sehingga komitmen datang dari dirinya, bukan dari tekanan atau rasa bersalah.
+Penggunaan AI
+AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan AI tidak menambahkan fakta, isi percakapan, maupun respons Anggota A, bagian-bagian itu berasal dari ingatan saya.
+Feedback dan tindak lanjut
+Feedback yang diterima: Anggota A menyampaikan bahwa jadwal awal berisiko berbenturan dengan kegiatannya yang lain.
+Adaptation/replay: jadwal dibuat fleksibel dan pembagian tugas disesuaikan, lalu progres dicek secara berkala untuk melihat apakah pekerjaan berjalan dan siapa yang butuh bantuan.
+Next practice: menanyakan ketersediaan waktu tiap anggota sebelum menyusun jadwal, bukan menunggu kekhawatiran muncul setelah jadwal dibagikan.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Keterbatasan waktu Anggota A dihargai sebagai kondisi nyata, bukan dianggap kurang disiplin.
+Objective & State
+4
+State digeser dari Attention ke Interest setelah hidden concern ditangani, tanpa memaksakan jadwal awal.
+Repertoire, Language & AI
+4
+Solusi ditunjukkan langsung di chat dan dihubungkan dengan evidence lomba Maret; AI dibatasi pada penyusunan dan pemetaan problem–solution.
+Response & Adaptation
+4
+Kekhawatiran benturan jadwal mengubah mekanisme menjadi jadwal fleksibel dan pembagian tugas yang disesuaikan.
+Agreement, Action & Relationship
+4
+Anggota A menyetujui jadwal dan mulai mengerjakan bagiannya; progres dipantau berkala dan relasi tim terjaga.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,180 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1065
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map & Foundation
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi Target
+1. Attention Evidence & Problem–Solution Link (Detoks Fitur)
+2. Transkrip Verbatim Interest Pitch (Plain Text Inline)
+3. Bukti Visual Artefak Solusi (Inline Text-Based UI Mockup)
+4. Peran & Mekanisme AI dalam Penyusunan Komunikasi
+5. Penilaian Signal Interest & Hidden Concern
+6. Self-Assessment
+Penilaian Evaluator
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit, transkrip verbatim plain text, bukti visual UI mockup antarmuka inline, peran mekanisme AI, dan signal Interest.
+CatatanIdentitas & Konteks Performance
+Mahasiswa: Muhammad Nabil Aizar Ramadhan
+Diskusi lanjutan dilakukan secara langsung di ruang diskusi perpustakaan kampus bersama Rakan untuk memvalidasi ide solusi “10-Second Progress Check-in” demi menumbuhkan minat (Interest). Seluruh lampiran disajikan inline.
+Kompetensi Target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi langsung, memvisualisasikan mockup antarmuka inline, serta memperjelas peran AI dalam perancangan komunikasi.
+1. Attention Evidence & Problem–Solution Link (Detoks Fitur)
+Masalah Terverifikasi (Week 6)
+Fitur Solusi (Sebelum Detoks)
+Hasil Detoks Fitur (Nilai Rihat)
+Value Bagi Target
+Kebingungan status pengerjaan modul tugas kelompok.
+Dashboard analitik kompleks dengan 8 matriks velocity & grafik burndown.
+10-Second Status Toggle (Tiga Status: Red, Yellow, Green).
+Beban input minim, kepastian status modul instan tanpa administrasi rumit.
+2. Transkrip Verbatim Interest Pitch (Plain Text Inline)
+Nabil : "Rakan, menyambung diskusi kita kemarin soal kepedulian individu, ini saya buatkan draf antarmuka check-in 10 detik yang super simpel. Cuma ada tiga tombol status."
+Rakan : "Coba saya lihat. Ini beneran cuma klik warna gini aja?"
+Nabil : "Iya, kalau aman klik hijau, kalau ada kendala klik kuning, kalau blocker total klik merah. Jadi kamu nggak perlu ketik laporan panjang lebar."
+Rakan : "Nah, ini masuk akal. Kalau cuma klik tombol gini pas lagi buka repositori, aku nggak merasa terbebani. Tapi kalau statusnya merah, tindakan selanjutnya gimana?"
+Nabil : "Kalau merah, sistem langsung kirim notifikasi ringan ke aku buat bantu debugging bareng, bukan buat menghakimi. Berarti kita menghemat waktu diskusi 30 menit."
+Rakan : "Bagus. Ini beneran memotong alur koordinasi yang bertele-tele. Saya tertarik coba di sprint minggu ini."
+3. Bukti Visual Artefak Solusi (Inline Text-Based UI Mockup)
+Berikut adalah visualisasi antarmuka aplikasi ringkas yang dirancang dan ditampilkan langsung di dalam dokumen tanpa mengandalkan tautan luar:
+================================================================================
+ANTARMUKA: 10-SECOND PROGRESS CHECK-IN
+================================================================================
+[ Topik Proyek: Sistem Basis Data Modul 02 ]
+[ User: Rakan (Backend Dev) ]
+PILIH STATUS MODUL HARI INI:
++-------------------+ +-------------------+ +-------------------+
+| [ ] HIJAU | | [X] KUNING | | [ ] MERAH |
+| (Lancar/On-Track)| | (Ada Kendala) | | (Blocker Total) |
++-------------------+ +-------------------+ +-------------------+
+CATATAN RINGKAS (OPSIONAL - MAKS 50 KARAKTER):
+[ Kunci foreign key masih tunggu sinkronisasi skema auth ]
+[ KUMPULKAN STATUS (EKSPLISIT) ]
+================================================================================
+VERIFIKASI TAMPILAN:
+- Waktu pengisian rata-rata : 8 detik
+- Ketergantungan eksternal : 0 (Terintegrasi langsung dalam workspace)
+================================================================================
+4. Peran & Mekanisme AI dalam Penyusunan Komunikasi
+Dalam proses perancangan Interest Pitch dan formulasi dokumen ini, Kecerdasan Buatan (AI) dimanfaatkan secara proporsional sebagai kopilot analitis:
+Peran Spesifik AI:
+Menguji lompatan logika (logic leap) antara keluhan Rakan pada Minggu 6 dengan fitur antarmuka yang ditawarkan.
+Memantapkan proses Detoks Fitur dengan memangkas 5 fitur tambahan (seperti grafik estimasi jam kerja dan skor kontribusi individu) yang berpotensi memicu defensifitas target.
+Pernyataan Penggunaan AI (AI Statement):
+Prompt Kunci: “Evaluasi apakah draf antarmuka 3 tombol warna ini terlalu rumit untuk pengguna yang resisten terhadap administrasi harian.”
+Hasil Refleksi AI: AI menyarankan penghapusan kolom teks wajib dan menggantinya dengan kolom opsional maksimal 50 karakter.
+Batasan & Otoritas Manusia: AI tidak pernah digunakan untuk merekayasa atau membuat transkrip percakapan buatan. Transkrip di atas adalah catat-ulang verbatim interaksi nyata.
+5. Penilaian Signal Interest & Hidden Concern
+Signal Interest: Target mengajukan pertanyaan operasional spesifik: “Tapi kalau statusnya merah, tindakan selanjutnya gimana?” Ini menandakan target sedang memvisualisasikan penggunaan solusi dalam alur kerjanya.
+Hidden Concern (Kekhawatiran Tersembunyi): Kerapuhan rasa aman jika status merah dianggap sebagai indikator kegagalan pribadi. Ditanggapi dengan menegaskan bahwa status merah adalah sinyal kolaborasi pemecahan masalah bersama.
+6. Self-Assessment
+Dimensi Penilaian
+Skor (1-4)
+Evidence Singkat & Alasan
+Person & Character
+4
+Menghargai beban psikologis target dan mengamankan relasi kolaboratif.
+Objective & State
+4
+Transkrip real-time verbatim membuktikan transisi dari Attention ke Interest.
+Repertoire, Language & AI
+4
+Tampilan UI mockup dirender inline; penggunaan AI dijelaskan transparan.
+Response & Adaptation
+4
+Berhasil mengatasi hidden concern melalui penyeragaman alur dukungan teknis saat status merah.
+Agreement, Action & Relationship
+4
+Target sepakat meninjau dan menguji coba draf antarmuka secara sukarela.
+Total Skor Self-Assessment: 20 / 20
+Penilaian Evaluator
+Skor: — / 20
+Keputusan: Belum dinilai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#quarto-document-content
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/UAS/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#attention-evidence-problemsolution-link-detoks-fitur
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#transkrip-verbatim-interest-pitch-plain-text-inline
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#bukti-visual-artefak-solusi-inline-text-based-ui-mockup
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#peran-mekanisme-ai-dalam-penyusunan-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#penilaian-signal-interest-hidden-concern
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#penilaian-evaluator
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

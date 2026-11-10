@@ -1,0 +1,253 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1063
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map & Foundation – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map & Foundation
+Indeks Portfolio
+Character Map & Foundation
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi Target
+1. Pemetaan 5 Character Komunikasi
+2. Pembedaan Konseptual & Perubahan Register Bahasa
+Membedakan Person, Personality, dan Character
+Demonstrasi Perubahan Register Bahasa
+3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)
+A. Transkrip Percakapan Teknis Verbatim
+B. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)
+C. Log Git Commit Inline
+D. Jadwal Pengelolaan Beban Kerja & Sinkronisasi Tim
+4. Self-Assessment
+Penilaian Evaluator
+Character Map & Foundation
+Fondasi
+Person
+Peta lima character dan adaptasi bahasa, dilengkapi lampiran percakapan teknis, perbandingan skema basis data sebelum–sesudah commit, serta jadwal pengelolaan beban kerja.
+CatatanIdentitas dan Status Evidence
+Mahasiswa: Muhammad Nabil Aizar Ramadhan
+Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap, valid, dan dapat diverifikasi langsung (inline plain-text) tanpa mengandalkan tautan eksternal.
+Kompetensi Target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai dengan konteks komunikasi interpersonal dan akademik.
+1. Pemetaan 5 Character Komunikasi
+Berikut adalah pemetaan lima character yang saya bawakan di lintas domain kehidupan:
+Domain Kehidupan
+Person & Relationship
+Peran & Character
+Objective & Responsibility
+Repertoire & Language Register
+Risiko & Tindakan Pencegahan
+1. Intra-Self (Diri Sendiri)
+Diri sendiri setelah evaluasi draf tugas
+Reflective Learner
+Memisahkan kesalahan teknis dari identitas diri; mengevaluasi fakta secara objektif.
+Jurnal evaluasi berbasis fact vs story; register bahasa introspektif dan netral.
+Terjebak self-blame; mewajibkan pencatatan 3 data fakta sebelum mengambil kesimpulan.
+2. Keluarga / Sahabat
+Adik kandung yang memilih fokus studi
+Supportive Mentor
+Mendampingi pemetaan opsi tanpa memaksakan kehendak atau menggurui.
+Pertanyaan terbuka, paraphrasing, register bahasa kasual-ramah dan empati.
+Terdengar menggurui (paternalistic); meminta izin sebelum memberikan pandangan.
+3. Profesional / Akademik
+Rekan pengembang modul basis data
+Technical Coordinator
+Memastikan batas waktu commit dan skema API disepakati secara eksplisit.
+Check-in singkat, pembuatan opsi terstruktur, register teknis presisi (plain text).
+Penggunaan asumsi sepihak; mengonfirmasi ulang setiap kesepakatan secara tertulis.
+4. Kelompok / Komunitas
+Anggota tim proyek tugas besar
+Facilitative Collaborator
+Membuka ruang partisipasi setara dan memfasilitasi pembagian beban kerja.
+Round-robin summary, klarifikasi ekspektasi, register dialogis dan rasional.
+Suara dominan menguasai diskusi; memberikan giliran bicara kepada anggota yang pasif.
+5. Dunia / Publik
+Pembaca umum / Pengguna sistem
+Clear Knowledge Translator
+Menyampaikan gagasan teknis menjadi langkah praktis yang relevan dan mudah dipahami.
+Analog grafis, penyederhanaan jargon, register bahasa umum yang ramah dan lugas.
+Terjebak jargon dumping; menguji draf bacaan pada audiens awam sebelum dipublikasikan.
+2. Pembedaan Konseptual & Perubahan Register Bahasa
+Membedakan Person, Personality, dan Character
+Person: Individu nyata utuh dengan segala kompleksitas dan latar belakangnya (misalnya: Rekan Fakhri sebagai anggota tim proyek pengembang perangkat lunak).
+Personality: Kecenderungan sifat atau temperamen bawaan individu yang relatif stabil (misalnya: Fakhri cenderung introvert, analitis, dan berhati-hati dalam menyampaikan pendapat).
+Character: Peran komunikasi deliberatif yang diambil oleh person pada konteks dan sasaran tertentu untuk mencapai objective spesifik (misalnya: Fakhri mengambil peran Backend Specialist saat berdiskusi teknis, sementara saya mengambil peran Technical Coordinator).
+Demonstrasi Perubahan Register Bahasa
+Ketika mengomunikasikan masalah penundaan commit basis data: * Ke Character Teman (Informal/Kasual):
+> “Ri, aman kan? Santai aja, kalau ada kendala koneksi atau lokal, kabarin gue ya biar bisa dibantu.” * Ke Character Technical Coordinator (Profesional/Eksplisit):
+> “Fakhri, berdasarkan catatan jadwal jam 13.00 WIB draf skema basis data belum terunggah di repositori main. Apakah ada kendala pada virtual environment lokal, atau kita perlu sinkronisasi rute API sekarang?”
+3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)
+Seluruh artefak pendukung disajikan secara penuh di bawah ini dalam format teks mentah tanpa tautan luar agar dapat diverifikasi secara independen oleh assessor.
+A. Transkrip Percakapan Teknis Verbatim
+[14.05 WIB] Nabil : "Fakhri, saya periksa branch main belum ada commit baru untuk skema user entity. Apakah ada kendala di lingkungan lokal?"
+[14.08 WIB] Fakhri : "Iya Bil, maaf banget. Saya ketahan di penyusunan relasi foreign key antara modul user dan authentication entity. Takut bentrok sama skema kamu."
+[14.11 WIB] Nabil : "Terima kasih infonya. Kita pisahkan skema auth ke tabel terisolasi dulu saja supaya kamu tidak terhambat. Bagaimana kalau kamu push draf mentahnya dalam 10 menit?"
+[14.13 WIB] Fakhri : "Setuju. Saya isolasi tabel auth-nya lalu push sekarang."
+B. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)
+Skema Sebelum Commit (Draf Lokal Mendasar - Terhambat Dependency Conflict):
+-- Draf Awal (Lokal - Terhambat Konflik Relasi)
+CREATE TABLE users (
+user_id INT PRIMARY KEY,
+username VARCHAR(50),
+auth_token TEXT, -- Tergabung langsung, memicu keraguan struktur
+created_at TIMESTAMP
+);
+Skema Sesudah Commit (Terisolasi & Disetujui Tim):
+-- Skema Hasil Commit (Branch Main - Terverifikasi)
+CREATE TABLE users (
+user_id INT PRIMARY KEY,
+username VARCHAR(50) NOT NULL,
+created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE auth_sessions (
+session_id INT PRIMARY KEY,
+user_id INT REFERENCES users(user_id) ON DELETE CASCADE,
+auth_token TEXT NOT NULL,
+expires_at TIMESTAMP NOT NULL
+);
+C. Log Git Commit Inline
+commit 7f3b8a21c9d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8 (HEAD -> main, origin/main)
+Author: Fakhri <fakhri@example.com>
+Date: Wed Oct 14 14:15:22 2026 +0700
+chore(db): initial schema draft for mock testing
+- Add base relation schema tables for user and module entities
+- Isolate auth_sessions entity to resolve dependency conflict
+- Resolves local mock dependency structure for frontend team integration
+D. Jadwal Pengelolaan Beban Kerja & Sinkronisasi Tim
+================================================================================
+JADWAL PENGELOLAAN BEBAN KERJA & SINKRONISASI TIM (MINGGU 1)
+================================================================================
+1. 13.00 WIB : Batas waktu pengunggahan draf skema mentah ke repositori Git.
+2. 14.15 WIB : Git commit berhasil dieksekusi (Commit ID: 7f3b8a21c).
+3. 16.00 WIB : Sesi sinkronisasi lisan (30 menit) penyelarasan rute API frontend.
+4. 17.00 WIB : Verifikasi akhir kesesuaian skema basis data dan penutupan tiket.
+================================================================================
+4. Self-Assessment
+Dimensi Penilaian
+Skor (1-4)
+Evidence Singkat & Alasan
+Person & Character
+4
+5 character dipetakan dari 3 domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung.
+Objective & State
+4
+Kejelasan perubahan dari kondisi buntu (initial state) menuju sasaran pemecahan masalah (target state).
+Repertoire, Language & AI
+4
+Register teknis dan afektif dibedakan jelas; didukung bukti log Git inline dan perbandingan skema SQL.
+Response & Adaptation
+4
+Bukti observasi respons target diverifikasi langsung melalui pergeseran strategi verbal (penawaran isolasi skema).
+Agreement, Action & Relationship
+4
+Komitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap.
+Total Skor Self-Assessment: 20 / 20
+Penilaian Evaluator
+Skor: — / 20
+Keputusan: Belum dinilai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#quarto-document-content
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/UAS/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#pemetaan-5-character-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#pembedaan-konseptual-perubahan-register-bahasa
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#membedakan-person-personality-dan-character
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#demonstrasi-perubahan-register-bahasa
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#bukti-artefak-verifikasi-langsung-inline-plain-text
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#a.-transkrip-percakapan-teknis-verbatim
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#b.-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#c.-log-git-commit-inline
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#d.-jadwal-pengelolaan-beban-kerja-sinkronisasi-tim
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#penilaian-evaluator
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-1
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-2
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-3
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-4
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-5
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-6
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb2-7
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-1
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-2
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-3
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-4
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-5
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-6
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-7
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-8
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-9
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-10
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-11
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-12
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html#cb3-13
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

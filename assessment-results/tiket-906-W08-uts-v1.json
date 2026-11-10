@@ -1,0 +1,237 @@
+{
+  "assessment_type": "uts",
+  "schema_version": 1,
+  "week": "W08",
+  "ticket": "906",
+  "nim": "18225005",
+  "input_hash": "2e66a5d7769b6e6aa0e7f5034dfb4ff96fc40e00128db1aec500b17d9c28ae25",
+  "prompt_hash": "cec0babcd397e35f53dc56cf54f2ed5f8b5b4f070eb407a2117e3234155b727d",
+  "reference": {
+    "available": false,
+    "reason": "Descriptor operasional masih draf; menunggu pengesahan dosen."
+  },
+  "manifest": {
+    "index": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/week-08.html",
+      "hash": "802c7fdda59ef2571121cdf108d776601ea9dbcf94468a772eb2da3e0ef74a69",
+      "status": "Ada"
+    },
+    "paper": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/UTS/paper.html",
+      "status": "Ada",
+      "hash": "3c783101a998fe70de6f63929505b910be883222809b72a3706e36f83c1781b6"
+    },
+    "1": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/UTS/hasil_1_18225005.html",
+      "status": "Ada",
+      "hash": "f195e202eefa391340dca362b0c42283500942d3a814dd935e29f99fed6839f7"
+    },
+    "2a": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/UTS/hasil_2a_18225005.html",
+      "status": "Ada",
+      "hash": "c7229bb9577cfb30ea16d8195db149310541f7bb389f331165ddea9ffda85560"
+    },
+    "2b": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/UTS/hasil_2b_18225005.html",
+      "status": "Ada",
+      "hash": "8e793af77609126b507dcdc8cbe1960882144cf06eb480486326270399dafc99"
+    },
+    "3a": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/UTS/hasil_3a_18225005.html",
+      "status": "Ada",
+      "hash": "5ffe6298329ebf624e15064cec16992b81952edfb2a527e52a04c8b9e471cab8"
+    },
+    "3b": {
+      "url": "https://kyevins.github.io/kipp-students/portfolio/UTS/hasil_3b_18225005.html",
+      "status": "Ada",
+      "hash": "5c00dd8393b5f1d0d29aeaf2f8f6f1a895b9d1a5c8401d018ff74dfc64ce6690"
+    }
+  },
+  "sessions": {
+    "1": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "2a": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "2b": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "3a": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    },
+    "3b": {
+      "evidence_status": "Tidak memadai",
+      "summary": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "improvement_priority": "Evidence sesi atau descriptor resmi belum tersedia; BT.",
+      "dimensions": {
+        "objective_context": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "perception_validation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "repertoire_sequence": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "execution_care_consistency": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "evaluation_adaptation": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        },
+        "reflection_learning": {
+          "score": null,
+          "evidence": "BT",
+          "reason": "Evidence sesi atau descriptor resmi belum tersedia; BT."
+        }
+      }
+    }
+  }
+}

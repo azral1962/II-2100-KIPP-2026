@@ -1,0 +1,596 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1093
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 7 — Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Tugas Minggu 6 — Target–Attention Challenge
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Tugas Minggu 9 — Desire-State Communication
+Tugas Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+W07 — Problem–Solution Interest Pitch
+1. Tujuan dan Kompetensi
+2. Konteks Permasalahan
+3. Identifikasi Target Komunikasi
+3.1. Karakter dan Kepentingan Target
+3.2. Kondisi Awal Target
+3.3. Tujuan Komunikasi
+4. Identifikasi Masalah dan Hipotesis Solusi
+4.1. Rumusan Masalah
+4.2. Hipotesis Solusi
+4.3. Hubungan Fitur dengan Manfaat
+5. Rancangan Pitch
+5.1. Tujuan Pitch
+5.2. Naskah Pitch
+5.3. Strategi Penyampaian
+6. Demonstrasi Artefak Solusi
+6.1. Mockup Awal V1.0
+6.2. Respons Target terhadap V1.0
+6.3. Analisis Respons Target
+6.4. Perubahan Artefak V1.0 ke V2.0
+6.5. Mockup V2.0 Setelah Adaptasi
+6.6. Perbandingan Visual dan Fungsional V1.0–V2.0
+6.7. Evaluasi Adaptasi
+7. Repertoire, Bahasa, dan Penggunaan AI
+7.1. Repertoire Komunikasi
+7.2. Penyesuaian Bahasa
+7.3. Penggunaan AI
+8. Trade-off dan Batas Solusi
+9. Evidence Log dan Rencana Tindak Lanjut
+9.1. Evidence Log
+9.2. Rencana Tindak Lanjut
+9.3. Indikator Keberhasilan
+10. Refleksi
+11. Self-Assessment
+12. Kesimpulan
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Professional
+Pitch
+Adaptation
+Menyampaikan solusi kepada target, membaca respons, dan menunjukkan perubahan artefak berdasarkan masukan.
+W07 — Problem–Solution Interest Pitch
+1. Tujuan dan Kompetensi
+Pada minggu ini, saya berlatih menyampaikan solusi yang relevan kepada target komunikasi, menjelaskan hubungan antara masalah dan manfaat solusi, serta menyesuaikan solusi berdasarkan respons target.
+Kompetensi yang ingin saya tunjukkan:
+Mampu memahami karakter, kebutuhan, dan posisi target komunikasi.
+Mampu menjelaskan masalah yang ingin diselesaikan secara spesifik.
+Mampu menghubungkan fitur solusi dengan manfaat bagi target.
+Mampu menyampaikan pitch secara persuasif tanpa memaksakan persetujuan.
+Mampu membaca respons target, termasuk keberatan dan kekhawatiran yang disampaikan.
+Mampu mengubah rancangan solusi berdasarkan masukan yang diterima.
+Mampu menentukan tindak lanjut yang realistis sesuai kewenangan pihak terkait.
+2. Konteks Permasalahan
+Permasalahan yang diangkat adalah kesulitan mahasiswa dalam memperoleh informasi terbaru mengenai ketersediaan dan jadwal penggunaan ruangan kampus.
+Informasi mengenai ruangan dapat berasal dari beberapa sumber, sementara mahasiswa belum tentu mengetahui sumber mana yang paling baru dan dapat dipercaya. Akibatnya, mahasiswa berpotensi harus bertanya berulang kali kepada pihak administrasi untuk memastikan informasi.
+Pihak administrasi menjadi target komunikasi karena memiliki pemahaman mengenai alur informasi ruangan dan dapat memberikan masukan mengenai kebutuhan operasional.
+Namun, pihak administrasi bukan satu-satunya pemegang keputusan. Pengelola fasilitas memiliki kewenangan terkait persetujuan penggunaan ruangan, sedangkan pihak IT dapat memberikan pertimbangan mengenai akses dan kelayakan teknis.
+Oleh karena itu, tujuan pitch ini bukan meminta persetujuan implementasi secara langsung, melainkan memperkenalkan konsep solusi dan memperoleh masukan dari pihak administrasi.
+3. Identifikasi Target Komunikasi
+3.1. Karakter dan Kepentingan Target
+Pihak
+Peran
+Kepentingan
+Kewenangan
+Mahasiswa
+Pengguna informasi
+Mengetahui ketersediaan ruangan dengan mudah
+Tidak memiliki kewenangan mengubah data
+Staf administrasi
+Pengelola informasi
+Menyampaikan informasi yang benar tanpa menambah pekerjaan administratif
+Dapat memvalidasi informasi operasional
+Pengelola fasilitas
+Pengambil keputusan terkait penggunaan ruangan
+Menjaga keteraturan penggunaan fasilitas
+Memberikan persetujuan sesuai prosedur
+Tim IT
+Pendukung teknis
+Memastikan solusi dapat diakses dan aman
+Memberikan penilaian teknis
+Saya
+Pengusul solusi
+Mengembangkan rancangan yang sesuai kebutuhan
+Tidak memiliki kewenangan menyetujui implementasi
+3.2. Kondisi Awal Target
+Sebelum menyampaikan pitch, saya memiliki beberapa asumsi:
+Mahasiswa mengalami kesulitan memperoleh informasi terbaru mengenai ruangan.
+Mahasiswa mungkin harus menghubungi staf administrasi untuk memastikan jadwal.
+Informasi yang tersebar di beberapa tempat dapat menimbulkan kebingungan.
+Staf administrasi mungkin menghadapi pertanyaan berulang dari mahasiswa.
+Solusi yang membutuhkan pengisian data tambahan berpotensi menambah beban pekerjaan staf.
+Informasi yang tidak diperbarui secara konsisten dapat menurunkan kepercayaan pengguna.
+Asumsi tersebut belum dapat dianggap sebagai fakta karena perlu dikonfirmasi melalui komunikasi dengan pihak yang memahami proses administrasi.
+3.3. Tujuan Komunikasi
+Tujuan komunikasi saya adalah membuat pihak administrasi memahami konsep dashboard informasi ruangan dan bersedia memberikan masukan mengenai kesesuaiannya dengan proses kerja yang sudah berjalan.
+Saya tidak menargetkan persetujuan implementasi pada tahap ini karena keputusan tersebut melibatkan pihak lain dan memerlukan pemeriksaan lebih lanjut.
+4. Identifikasi Masalah dan Hipotesis Solusi
+4.1. Rumusan Masalah
+Mahasiswa membutuhkan cara yang lebih mudah untuk mengetahui informasi ketersediaan dan jadwal ruangan, tetapi informasi yang tersedia belum tentu mudah ditemukan atau dipahami sebagai informasi terbaru.
+Masalah utama yang ingin diselesaikan bukan sekadar tidak tersedianya informasi, melainkan kesulitan menemukan informasi yang benar, terbaru, dan dapat dipercaya.
+4.2. Hipotesis Solusi
+Saya mengusulkan dashboard informasi ruangan sederhana yang menampilkan:
+Nama atau identitas ruangan.
+Status penggunaan ruangan.
+Jadwal penggunaan.
+Waktu terakhir informasi diperbarui.
+Sumber informasi.
+Petunjuk untuk menghubungi pihak administrasi atau mengikuti prosedur resmi apabila membutuhkan konfirmasi.
+Dashboard tidak dimaksudkan untuk menggantikan prosedur peminjaman ruangan. Dashboard hanya membantu mahasiswa memperoleh gambaran awal mengenai informasi ruangan.
+4.3. Hubungan Fitur dengan Manfaat
+Fitur
+Manfaat bagi pengguna
+Nilai bagi target
+Status ruangan
+Mahasiswa dapat mengetahui kondisi ruangan
+Mengurangi pertanyaan dasar
+Jadwal penggunaan
+Mahasiswa dapat melihat informasi waktu penggunaan
+Mempermudah penyampaian informasi
+Waktu pembaruan
+Mahasiswa mengetahui kapan informasi terakhir diperbarui
+Mengurangi risiko informasi dianggap selalu terbaru padahal belum diperiksa
+Sumber informasi
+Mahasiswa mengetahui asal informasi
+Menjaga transparansi
+Petunjuk konfirmasi
+Mahasiswa mengetahui langkah berikutnya
+Menghindari kesalahpahaman mengenai prosedur resmi
+5. Rancangan Pitch
+5.1. Tujuan Pitch
+Pitch dirancang untuk menjelaskan masalah, memperkenalkan solusi, dan menunjukkan manfaat yang relevan bagi pihak administrasi.
+Saya menghindari penyampaian yang terlalu menjanjikan karena dashboard masih berupa konsep dan belum diuji menggunakan data operasional sebenarnya.
+5.2. Naskah Pitch
+Selama ini, mahasiswa yang ingin mengetahui ketersediaan atau jadwal penggunaan ruangan mungkin harus mencari informasi dari beberapa sumber atau bertanya langsung kepada pihak administrasi.
+Saya melihat bahwa masalahnya bukan hanya mengenai ketersediaan informasi, tetapi juga bagaimana mahasiswa dapat menemukan informasi yang terbaru dan mengetahui apakah informasi tersebut masih relevan.
+Karena itu, saya mengusulkan dashboard informasi ruangan sederhana yang menampilkan status ruangan, jadwal penggunaan, waktu pembaruan, dan sumber informasi.
+Dengan adanya dashboard tersebut, mahasiswa diharapkan dapat memperoleh gambaran awal secara mandiri tanpa harus selalu menanyakan informasi dasar kepada pihak administrasi.
+Saya juga memahami bahwa informasi ruangan harus tetap akurat dan mengikuti prosedur yang berlaku. Oleh karena itu, dashboard ini tidak akan menggantikan sistem administrasi atau prosedur peminjaman resmi.
+Saya ingin meminta masukan dari pihak administrasi mengenai informasi apa saja yang memang perlu ditampilkan dan bagaimana cara memastikan informasi tersebut tetap sesuai dengan kondisi sebenarnya.
+5.3. Strategi Penyampaian
+Bagian
+Strategi
+Alasan
+Pembukaan
+Menjelaskan situasi yang dekat dengan pengalaman target
+Membantu target memahami konteks
+Masalah
+Menjelaskan kesulitan memperoleh informasi terbaru
+Menghindari masalah yang terlalu umum
+Solusi
+Memperkenalkan dashboard sederhana
+Menunjukkan bentuk solusi secara konkret
+Manfaat
+Menghubungkan fitur dengan pengurangan pertanyaan dasar
+Menekankan manfaat bagi target
+Batasan
+Menjelaskan bahwa dashboard tidak menggantikan prosedur resmi
+Menghindari kesan mengambil alih kewenangan
+Penutup
+Meminta masukan mengenai informasi dan proses pembaruan
+Membuka komunikasi dua arah
+6. Demonstrasi Artefak Solusi
+6.1. Mockup Awal V1.0
+Pada rancangan awal, dashboard dibuat dengan tujuan agar mahasiswa dapat melihat informasi ruangan sekaligus mengirim permintaan melalui formulir.
+Mockup V1.0 — Sebelum Mendapatkan Masukan
+Komponen
+Tampilan
+Nama halaman
+Dashboard Informasi Ruangan
+Ruangan
+Ruang A101
+Status
+Tersedia
+Jadwal
+08.00–10.00
+Formulir
+Nama mahasiswa, NIM, tanggal, waktu penggunaan
+Tombol
+Ajukan Peminjaman
+Informasi tambahan
+Kontak administrasi
+Rancangan awal tersebut memiliki asumsi bahwa mahasiswa akan terbantu apabila dapat langsung mengirimkan permintaan melalui dashboard.
+Namun, rancangan ini memiliki kelemahan karena formulir berpotensi membuat mahasiswa mengisi data yang sebenarnya sudah tersedia dalam prosedur administrasi.
+6.2. Respons Target terhadap V1.0
+Berikut merupakan simulasi percakapan untuk menggambarkan jenis respons yang perlu diperhatikan dalam proses pitch. Percakapan ini bukan transkrip wawancara nyata dan tidak digunakan sebagai bukti bahwa pihak administrasi benar-benar telah memberikan persetujuan.
+Simulasi percakapan:
+Saya:
+“Menurut Bapak/Ibu, apakah dashboard yang menampilkan status ruangan dan menyediakan formulir pengajuan peminjaman seperti ini akan membantu mahasiswa?”
+Staf administrasi:
+“Kalau untuk melihat informasi ruangan mungkin bisa membantu. Namun, untuk pengajuan peminjaman, mahasiswa tetap harus mengikuti prosedur yang sudah ada.”
+Saya:
+“Berarti formulir pengajuan yang saya masukkan di dashboard belum tentu diperlukan karena proses pengajuan sudah memiliki alurnya sendiri?”
+Staf administrasi:
+“Iya. Jangan sampai mahasiswa mengisi data yang sama dua kali. Selain itu, informasi jadwal harus benar-benar diperbarui supaya mahasiswa tidak salah mendapatkan informasi.”
+Saya:
+“Kalau begitu, mungkin dashboard lebih baik difokuskan untuk menampilkan informasi ruangan dan jadwal, bukan untuk menggantikan proses pengajuan.”
+Staf administrasi:
+“Betul. Informasinya juga harus jelas sumbernya dan kapan terakhir diperbarui. Kalau ada perubahan, mahasiswa harus tahu apakah informasi tersebut sudah dikonfirmasi atau belum.”
+6.3. Analisis Respons Target
+Dari simulasi respons tersebut, terdapat beberapa masukan yang memengaruhi rancangan solusi.
+Respons target
+Makna yang saya tangkap
+Implikasi terhadap solusi
+Pengajuan tetap mengikuti prosedur yang berlaku
+Dashboard tidak boleh mengambil alih kewenangan administrasi
+Menghapus formulir pengajuan
+Hindari pengisian data berulang
+Solusi tidak boleh menambah beban kerja
+Memanfaatkan informasi yang sudah tersedia
+Jadwal harus diperbarui
+Informasi lama dapat menyesatkan pengguna
+Menambahkan waktu pembaruan
+Sumber informasi harus jelas
+Pengguna perlu mengetahui asal informasi
+Menampilkan sumber data
+Perubahan harus dapat diketahui
+Tidak semua informasi selalu sudah dikonfirmasi
+Menambahkan status konfirmasi
+Masukan tersebut menunjukkan bahwa solusi yang dianggap menarik oleh pengguna belum tentu sesuai dengan kebutuhan operasional pihak administrasi.
+Saya perlu menyesuaikan solusi agar manfaatnya tidak hanya dirasakan mahasiswa, tetapi juga tidak menambah pekerjaan atau mengganggu prosedur yang sudah berjalan.
+6.4. Perubahan Artefak V1.0 ke V2.0
+Perubahan artefak dilakukan secara spesifik berdasarkan masukan target.
+Komponen
+V1.0 sebelum masukan
+V2.0 setelah masukan
+Alasan perubahan
+Formulir pengajuan
+Tersedia di dashboard
+Dihapus
+Menghindari pengisian data berulang
+Status ruangan
+Tersedia
+Tetap tersedia
+Merupakan informasi utama yang dibutuhkan
+Jadwal penggunaan
+Tersedia
+Tetap tersedia
+Membantu mahasiswa memahami penggunaan ruangan
+Waktu pembaruan
+Belum tersedia
+Ditambahkan
+Membantu pengguna menilai kebaruan informasi
+Sumber informasi
+Belum dijelaskan
+Ditambahkan
+Menunjukkan asal informasi
+Status konfirmasi
+Belum tersedia
+Ditambahkan
+Membedakan informasi yang sudah dan belum dikonfirmasi
+Prosedur resmi
+Hanya terdapat kontak administrasi
+Ditambahkan petunjuk mengikuti prosedur resmi
+Menegaskan batas fungsi dashboard
+6.5. Mockup V2.0 Setelah Adaptasi
+Mockup V2.0 — Rancangan Setelah Mendapatkan Masukan
+Komponen
+Tampilan
+Nama halaman
+Dashboard Informasi Ruangan
+Ruangan
+Ruang A101
+Status penggunaan
+Tersedia
+Jadwal
+08.00–10.00
+Terakhir diperbarui
+09.30
+Sumber informasi
+Data administrasi
+Status informasi
+Perlu Konfirmasi
+Petunjuk
+Untuk peminjaman, ikuti prosedur resmi melalui pihak administrasi
+Tombol
+Lihat Prosedur Peminjaman
+Perubahan utama: formulir pengajuan dihapus dan digantikan dengan informasi sumber, waktu pembaruan, serta status konfirmasi.
+Status “Perlu Konfirmasi” digunakan untuk menghindari kesan bahwa seluruh informasi yang ditampilkan otomatis menjamin ketersediaan ruangan. Pengguna tetap diarahkan untuk mengikuti prosedur resmi.
+6.6. Perbandingan Visual dan Fungsional V1.0–V2.0
+V1.0 — Sebelum Adaptasi
+Area
+Isi
+Informasi utama
+Status dan jadwal ruangan
+Interaksi
+Mahasiswa mengisi formulir pengajuan
+Sumber informasi
+Tidak ditampilkan
+Waktu pembaruan
+Tidak ditampilkan
+Kepastian informasi
+Belum dibedakan
+Prosedur resmi
+Belum dijelaskan secara tegas
+V2.0 — Setelah Adaptasi
+Area
+Isi
+Informasi utama
+Status dan jadwal ruangan
+Interaksi
+Mahasiswa melihat informasi dan petunjuk prosedur
+Sumber informasi
+Ditampilkan
+Waktu pembaruan
+Ditampilkan
+Kepastian informasi
+Memiliki status konfirmasi
+Prosedur resmi
+Ditegaskan sebagai jalur pengajuan peminjaman
+Perubahan tersebut bukan sekadar perubahan tampilan, tetapi perubahan fungsi dan batas solusi. V1.0 mencoba menggabungkan pencarian informasi dan pengajuan peminjaman, sedangkan V2.0 memusatkan fungsi dashboard pada penyampaian informasi.
+6.7. Evaluasi Adaptasi
+Adaptasi V2.0 lebih sesuai dengan masukan target karena:
+Tidak membuat proses pengajuan baru yang berpotensi menduplikasi prosedur.
+Tidak mengharuskan staf memasukkan data tambahan hanya untuk memenuhi kebutuhan dashboard.
+Menampilkan waktu pembaruan agar pengguna dapat menilai kebaruan informasi.
+Menampilkan sumber informasi agar asal data lebih transparan.
+Menunjukkan status konfirmasi agar pengguna tidak menganggap seluruh informasi selalu final.
+Tetap mempertahankan kewenangan pihak administrasi dan pengelola fasilitas.
+Walaupun demikian, V2.0 belum dapat dianggap sebagai solusi yang siap diimplementasikan. Keakuratan data, mekanisme pembaruan, akses teknis, dan persetujuan pihak berwenang masih harus diperiksa.
+7. Repertoire, Bahasa, dan Penggunaan AI
+7.1. Repertoire Komunikasi
+Dalam menyampaikan pitch, saya menggunakan beberapa pendekatan komunikasi.
+Repertoire
+Penerapan
+Tujuan
+Framing masalah
+Menjelaskan kesulitan memperoleh informasi terbaru
+Membuat target memahami konteks
+Persuasi berbasis manfaat
+Menghubungkan dashboard dengan pengurangan pertanyaan dasar
+Menjelaskan nilai solusi
+Pertanyaan terbuka
+Meminta target menjelaskan kebutuhan dan kendala
+Menghindari asumsi sepihak
+Active listening
+Memperhatikan keberatan mengenai pengisian data berulang
+Menangkap kebutuhan sebenarnya
+Klarifikasi
+Memastikan bahwa pengajuan tetap melalui prosedur resmi
+Menghindari salah interpretasi
+Reframing
+Mengubah fokus dari pengajuan peminjaman menjadi penyediaan informasi
+Menyesuaikan solusi
+Acknowledgement
+Mengakui kekhawatiran target mengenai akurasi data
+Menunjukkan bahwa masukan dihargai
+7.2. Penyesuaian Bahasa
+Saya menggunakan bahasa yang relatif sederhana dan tidak terlalu teknis karena target komunikasi lebih membutuhkan penjelasan mengenai manfaat dan alur kerja daripada detail implementasi.
+Saya juga menghindari klaim seperti “dashboard akan menghilangkan seluruh pertanyaan mahasiswa” karena belum ada pengujian yang membuktikan hal tersebut.
+Sebagai gantinya, saya menggunakan ungkapan seperti:
+“Diharapkan dapat mengurangi pertanyaan dasar.”
+“Informasi tetap perlu divalidasi oleh pihak terkait.”
+“Dashboard tidak menggantikan prosedur resmi.”
+“Saya ingin meminta masukan mengenai informasi yang memang diperlukan.”
+Penggunaan bahasa tersebut membantu menjaga ekspektasi target dan menghindari janji yang belum dapat dipastikan.
+7.3. Penggunaan AI
+AI digunakan sebagai alat bantu untuk:
+Mengevaluasi apakah masalah yang disampaikan sudah cukup spesifik.
+Memeriksa hubungan antara fitur dan manfaat.
+Mengidentifikasi kemungkinan keberatan dari pihak administrasi.
+Membandingkan rancangan solusi awal dan rancangan setelah adaptasi.
+Memeriksa apakah pitch mengandung klaim yang terlalu berlebihan.
+AI tidak digunakan untuk menentukan apakah data ruangan benar, apakah prosedur peminjaman sudah sesuai, atau apakah pihak administrasi menyetujui implementasi.
+Keputusan mengenai kebutuhan operasional dan validitas informasi tetap harus berasal dari pihak yang berwenang.
+8. Trade-off dan Batas Solusi
+Perubahan dari V1.0 ke V2.0 menghasilkan beberapa trade-off.
+Aspek
+Keuntungan V2.0
+Konsekuensi
+Penghapusan formulir
+Tidak menduplikasi proses pengajuan
+Mahasiswa tetap harus menggunakan prosedur resmi
+Penambahan waktu pembaruan
+Pengguna mengetahui kapan informasi diperbarui
+Waktu pembaruan harus benar-benar dijaga
+Penambahan sumber data
+Informasi lebih transparan
+Sumber data perlu disepakati
+Status konfirmasi
+Mengurangi risiko salah memahami informasi
+Pengguna perlu memahami arti setiap status
+Ruang lingkup lebih sederhana
+Lebih mudah divalidasi
+Belum menyediakan fungsi pengajuan otomatis
+Saya memilih mempertahankan ruang lingkup yang sederhana karena prioritas utama adalah keakuratan informasi dan kesesuaian dengan proses administrasi, bukan banyaknya fitur.
+Batas solusi yang perlu dijaga:
+Dashboard tidak memberikan persetujuan peminjaman.
+Dashboard tidak menggantikan prosedur administrasi.
+Dashboard tidak boleh menampilkan informasi yang belum memiliki sumber jelas seolah-olah sudah pasti benar.
+Perubahan jadwal harus mengikuti mekanisme pembaruan yang disepakati.
+Hak akses untuk mengubah informasi perlu dibatasi.
+Implementasi memerlukan validasi pihak administrasi, pengelola fasilitas, dan pihak IT sesuai kewenangannya.
+9. Evidence Log dan Rencana Tindak Lanjut
+9.1. Evidence Log
+Bukti
+Isi
+Status
+Naskah pitch
+Penjelasan masalah, solusi, dan manfaat
+Artefak tertulis
+Mockup V1.0
+Rancangan awal dengan formulir pengajuan
+Artefak konseptual
+Analisis respons
+Pemetaan keberatan dan kebutuhan target
+Dokumentasi simulasi
+Mockup V2.0
+Rancangan setelah perubahan fitur
+Artefak konseptual
+Tabel perbandingan
+Perubahan spesifik dari V1.0 ke V2.0
+Dokumentasi perubahan
+Rencana validasi
+Langkah untuk memeriksa kelayakan solusi
+Rencana tindak lanjut
+Catatan: percakapan pada bagian demonstrasi merupakan simulasi, bukan bukti wawancara nyata. Mockup V1.0 dan V2.0 merupakan artefak konseptual yang menunjukkan perubahan rancangan. Persetujuan pihak administrasi dan implementasi sistem belum diklaim sebagai hasil yang telah terjadi.
+9.2. Rencana Tindak Lanjut
+Tahap
+Aktivitas
+Hasil yang diharapkan
+1
+Memastikan sumber informasi ruangan yang dapat digunakan
+Sumber data yang jelas
+2
+Meminta validasi pihak administrasi
+Daftar informasi yang layak ditampilkan
+3
+Meminta arahan pengelola fasilitas
+Batas penggunaan informasi dan prosedur
+4
+Meminta pemeriksaan pihak IT
+Penilaian akses dan kelayakan teknis
+5
+Menyempurnakan mockup
+Rancangan yang sesuai kebutuhan
+6
+Melakukan uji coba terbatas setelah memperoleh izin
+Masukan pengguna dan evaluasi awal
+9.3. Indikator Keberhasilan
+Keberhasilan solusi nantinya dapat dievaluasi menggunakan indikator berikut:
+Mahasiswa dapat menemukan informasi ruangan tanpa harus selalu bertanya kepada staf.
+Mahasiswa dapat memahami status ruangan.
+Informasi yang ditampilkan memiliki sumber yang jelas.
+Waktu pembaruan informasi dapat diketahui.
+Tidak terjadi pengisian data yang menduplikasi prosedur resmi.
+Staf administrasi tidak mendapatkan beban kerja tambahan yang tidak diperlukan.
+Informasi yang ditampilkan tidak bertentangan dengan data resmi.
+10. Refleksi
+Melalui latihan ini, saya memahami bahwa pitch yang baik tidak hanya bergantung pada kemampuan menjelaskan ide secara meyakinkan. Saya juga perlu memahami bagaimana solusi tersebut memengaruhi pekerjaan dan kepentingan target.
+Pada awalnya, saya menganggap bahwa menambahkan formulir pengajuan akan membuat dashboard lebih praktis karena mahasiswa dapat melihat informasi sekaligus mengajukan peminjaman. Namun, respons target menunjukkan bahwa fungsi tersebut berpotensi menduplikasi prosedur yang sudah ada.
+Saya kemudian menyadari bahwa solusi yang terlihat lebih lengkap belum tentu lebih sesuai dengan kebutuhan pengguna. Menghapus fitur juga dapat menjadi bentuk pengembangan solusi apabila fitur tersebut justru menimbulkan masalah baru.
+Saya juga belajar untuk tidak langsung menganggap respons target sebagai persetujuan. Masukan mengenai sumber informasi, waktu pembaruan, dan status konfirmasi lebih tepat dipahami sebagai kebutuhan validasi yang harus ditindaklanjuti.
+Ke depannya, saya ingin lebih memperhatikan reaksi target ketika menyampaikan ide, terutama ketika target menunjukkan kekhawatiran terhadap beban kerja, kewenangan, atau risiko penggunaan solusi. Saya juga perlu memastikan bahwa setiap perubahan yang saya klaim dapat ditunjukkan melalui perbandingan artefak yang jelas.
+11. Self-Assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+4/4
+Mampu membedakan kebutuhan mahasiswa, staf administrasi, pengelola fasilitas, dan IT.
+Objective & State
+4/4
+Mampu mengidentifikasi masalah, tujuan pitch, kepentingan target, dan batas kewenangan.
+Repertoire, Language & AI
+4/4
+Menggunakan framing, persuasi berbasis manfaat, pertanyaan terbuka, klarifikasi, active listening, dan AI secara proporsional.
+Response & Adaptation
+4/4
+Menunjukkan perubahan spesifik dari V1.0 ke V2.0 berdasarkan respons target.
+Agreement, Action & Relationship
+4/4
+Menjaga hubungan dan tidak memaksakan persetujuan, serta menyusun tindak lanjut sesuai kewenangan pihak terkait.
+Total
+20/20
+Penilaian mandiri berdasarkan kelengkapan artefak dan analisis.
+12. Kesimpulan
+Pada W07, saya mengembangkan kemampuan menyampaikan solusi melalui pitch yang berfokus pada kebutuhan target, bukan hanya keunggulan fitur.
+Perubahan dari V1.0 ke V2.0 menjadi bagian utama dari proses adaptasi. Saya menghapus formulir pengajuan, mempertahankan informasi status dan jadwal, serta menambahkan sumber informasi, waktu pembaruan, dan status konfirmasi.
+Dengan demikian, solusi menjadi lebih terarah pada kebutuhan utama mahasiswa untuk memperoleh informasi yang jelas dan terbaru tanpa mengambil alih prosedur resmi pihak administrasi.
+Tahap berikutnya adalah melakukan validasi kepada pihak yang berwenang sebelum menganggap rancangan ini layak untuk diuji atau diimplementasikan.
+Kembali ke atas
+Tugas Minggu 6 — Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#quarto-document-content
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#w07-problemsolution-interest-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#tujuan-dan-kompetensi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#konteks-permasalahan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#identifikasi-target-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#karakter-dan-kepentingan-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#kondisi-awal-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#tujuan-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#identifikasi-masalah-dan-hipotesis-solusi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#rumusan-masalah
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#hipotesis-solusi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#hubungan-fitur-dengan-manfaat
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#rancangan-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#tujuan-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#naskah-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#strategi-penyampaian
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#demonstrasi-artefak-solusi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#mockup-awal-v1.0
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#respons-target-terhadap-v1.0
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#analisis-respons-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#perubahan-artefak-v1.0-ke-v2.0
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#mockup-v2.0-setelah-adaptasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#perbandingan-visual-dan-fungsional-v1.0v2.0
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#evaluasi-adaptasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#repertoire-bahasa-dan-penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#repertoire-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#penyesuaian-bahasa
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#trade-off-dan-batas-solusi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#evidence-log-dan-rencana-tindak-lanjut
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#evidence-log
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#rencana-tindak-lanjut
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#indikator-keberhasilan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#refleksi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html#kesimpulan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

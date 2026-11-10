@@ -1,0 +1,181 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1105
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Stakeholder map, interests, options, trade-offs, dan agreement.
+Kompetensi target
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+Evidence wajib
+Stakeholder person map dan multi-state TAIDA.
+Position–interest analysis, common ground, dan options.
+Negotiation evidence, agreement/dissent, dan relationship review.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 11 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 5 Juli 2024, Rapat Koordinasi Lintas Divisi menjelang acara Shhowcase SMA via Google Meet.
+Persons dan relationship: 1. Pel (Saya): Wakil Kepala Acara (Fasilitator jalannya rapat). 2. Raka: Kepala Divisi Materi/Kurikulum (Fokus pada esensi akademik dan penilaian). 3. Dina: Kepala Divisi Logistik/Operasional (Fokus pada anggaran dan batasan gedung).
+Objective dan initial state: - Objective: Menjembatani deadlock (jalan buntu) antara kebutuhan waktu presentasi dari Divisi Materi dengan batasan waktu sewa gedung dari Divisi Logistik, serta mencapai agreement berupa susunan acara (rundown) yang realistis. - Initial state: Suasana rapat tegang (Defensive/Reactive state). Raka bersikeras memperpanjang waktu acara, sedangkan Dina bersikeras memotong durasi presentasi karena takut terkena denda dari pihak gedung.
+Evidence
+Peta Pemangku Kepentingan (Stakeholder & Position-Interest Map):
+Pihak
+Posisi (Tuntutan Awal)
+Kepentingan (Interest / Kebutuhan Batin)
+State TAIDA
+Raka (Materi)
+15 tim harus presentasi 10 menit di panggung utama (total 2,5 jam).
+Semua tim mendapat kesempatan dinilai secara adil oleh juri atas kerja keras mereka.
+Desire (kuat pada esensi), tapi defensif.
+Dina (Logistik)
+Potong waktu presentasi jadi 3 menit per tim atau diskualifikasi sebagian tim.
+Menghindari denda overtime penyewaan aula yang batas maksimalnya hanya 3 jam total.
+Action-oriented tapi panik/cemas soal anggaran.
+Pel (Acara)
+(Fasilitator)
+Acara berjalan lancar, esensi penilaian tercapai, anggaran aman, tim tetap solid.
+Responsive & Appreciative.
+Transkrip Negosiasi (Fasilitasi & Pencarian Common Ground):
+Raka: “Gak bisa Din, anak-anak udah ngerjain tugas berminggu-minggu. Kalau presentasi dipotong jadi 3 menit, juri gak bisa menilai esensi kodingan mereka. Harus 10 menit per tim.” Dina: “Ka, kalau 15 tim dikali 10 menit plus tanya jawab, itu presentasi doang 3 jam. Aula kita sewanya mentok 3 jam! Belum pembukaan sama awarding. Kita nggak ada budget buat bayar denda overtime.” Pel: (Intervensi) “Oke, jeda sebentar. Saya rangkum ya. Raka, intinya kamu butuh semua tim dinilai adil oleh juri, kan? Dan Dina, intinya kamu butuh seluruh acara beres di bawah 3 jam biar dana aman, betul?” (Position-Interest check) (Keduanya mengangguk) Pel: “Gimana kalau kita ganti formatnya jadi Expo/Science Fair? Kita kasih waktu 1 jam, semua 15 tim buka booth barengan. Juri yang keliling menilai mereka secara paralel. Nanti, cuma Top 3 dengan nilai tertinggi yang presentasi 10 menit di panggung utama.” (Offering Trade-off & Option) Raka: (Bepikir sejenak) “Oh, jadi juri tetep interaksi langsung sama semua karya mereka di booth ya? Boleh juga, malah lebih dekat interaksinya.” Dina: “Kalau gitu, 1 jam buat Expo, 1 jam buat presentasi Top 3, sisa 1 jam buat opening/closing. Total 3 jam. Aman! Nggak kena denda.” (Agreement) Pel: “Sepakat ya? Raka, tolong siapkan rubrik juri buat keliling. Dina, tolong siapkan 15 meja untuk booth. Rundown saya revisi malam ini.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya melepaskan ego untuk memenangkan satu sisi, dan mengambil karakter sebagai mediator netral yang menjembatani operasional (Dina) dan kurikulum (Raka).
+Objective & state
+Berhasil menurunkan ketegangan (dari Defensive state) menuju Action state yang konstruktif melalui penemuan common ground.
+Repertoire & language
+Menggunakan parafrasa resolusi konflik: “Intinya kamu butuh X, dan kamu butuh Y. Gimana kalau Z?” untuk mengalihkan perdebatan dari “Posisi” ke “Kepentingan”.
+Response & adaptation
+Saat melihat perdebatan memanas pada durasi waktu (barrier angka baku), saya mengadaptasi tata letak acara (merubah panggung tunggal menjadi sistem paralel/booth).
+Agreement/action
+Kesepakatan tercapai dengan pembagian aksi jelas (Owner & Deadline): Raka menyiapkan rubrik expo, Dina menyiapkan meja, Pelangi merevisi rundown.
+Relationship outcome
+Relasi tim panitia kembali kondusif. Baik Divisi Materi maupun Logistik merasa kebutuhan inti mereka terpenuhi tanpa ada yang “kalah”.
+Penggunaan AI
+Tidak menggunakan AI dalam memproduksi analisis negosiasi dan resolusi konflik. Pemisahan antara Position dan Interest murni merupakan hasil evaluasi pemahaman komunikasi interpersonal yang saya terapkan pada dinamika rapat kepanitiaan HMIF di dunia nyata.
+Feedback dan tindak lanjut
+Feedback yang diterima: Penerimaan yang antusias dari Raka (“Boleh juga, malah lebih dekat”) dan Dina (“Aman! Nggak kena denda”) membuktikan bahwa negosiasi tidak perlu diselesaikan dengan kompromi potong tengah (menang-kalah), melainkan dengan solusi lateral (expo) yang menjawab kepentingan batin kedua pihak secara penuh.
+Adaptation/replay: Mengubah format acara pasif (semua duduk melihat panggung) menjadi format aktif (pameran paralel) demi memanipulasi keterbatasan waktu gedung agar efisien.
+Next practice: Saya akan melatih diri untuk selalu membuat Stakeholder Map secara tertulis sebelum memimpin rapat-rapat lintas divisi, agar siap mengidentifikasi potensi benturan interest sebelum rapat dimulai.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Tampil sebagai fasilitator netral yang menengahi tanpa mendominasi.
+Objective & State
+4
+State berhasil digeser dari perdebatan buntu menuju kolaborasi antusias.
+Repertoire, Language & AI
+4
+Penggunaan kalimat pemisah “Posisi vs Kepentingan” terekam jelas di transkrip.
+Response & Adaptation
+4
+Menawarkan opsi trade-off lateral (Sistem Expo) yang memuaskan kedua pihak.
+Agreement, Action & Relationship
+4
+Menghasilkan komitmen tindakan yang spesifik (Rundown direvisi dalam 3 jam).
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Action & Agreement Challenge
+Community Communication Challenge
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-11.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

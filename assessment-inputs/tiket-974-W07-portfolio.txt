@@ -1,0 +1,180 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 974
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Attention evidence dan solution hypothesis
+Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)
+Hidden concern, response, dan adaptation
+Analisis komunikasi
+Penggunaan AI
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit, transkrip verbatim plain text, deskripsi artefak antarmuka, dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan bukti transkrip verbatim plain text langsung.
+Response, state assessment, hidden concern, deskripsi artefak antarmuka, dan adaptation aktual.
+Konteks performance
+Tanggal dan setting: Diskusi tatap muka langsung di selasar perpustakaan kampus untuk menguji draf solusi ringkas (10-second check-in) guna menumbuhkan minat (Interest).
+Persons dan relationship: Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.
+Objective dan initial state: Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata tanpa tautan eksternal agar dapat diverifikasi langsung oleh assessor.
+Attention evidence dan solution hypothesis
+Berdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, melainkan keengganan mengisi laporan rumit dan ketakutan beban pengawasan jatuh ke satu orang.
+Solution hypothesis: Papan checklist progres bersama 1-halaman dengan sistem sekali klik (10-second check-in) dapat memberikan kepastian tanpa menambah beban administrasi.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Ketidakpastian progres tugas kelompok
+Papan checklist bersama 1-halaman
+Anggota melihat status pekerjaan secara transparan
+Mengurangi kepanikan malam tenggat dan menghindari saling tunggu
+Keengganan mengisi laporan rumit
+Status sekali klik (10-sec check-in)
+Pembaruan informasi sangat cepat
+Menghemat waktu dan energi harian
+Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)
+Deskripsi Artefak Draf Antarmuka (Pengganti Tautan Eksternal): > Berkas artefak berupa lembar kerja tabel digital 1 halaman (single-page mock-up) yang memuat kolom: (1) Nama Anggota, (2) Status Tugas (tombol pilihan: Belum, Proses, Selesai dengan durasi klik < 10 detik), serta (3) Kotak Catatan Mini untuk kendala darurat.
+Transkrip Verbatim Plain Text: > Saya: “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”
+> (Sambil memperlihatkan draf antarmuka lembar tabel digital 1 halaman di layar ponsel)
+> Target: “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”
+> Saya: “Poin yang sangat valid. Artinya, alat ini tidak boleh dibebankan jadi tanggung jawab personalmu buat nagih. Bagaimana kalau kita tambahkan sistem pengingat otomatis netral di grup, jadi sistem yang ‘mengingatkan’ jadwal, bukan kamu?”
+> Target: “Nah, kalau pengingatnya dari sistem atau bot grup yang netral, saya jadi tidak merasa jadi ‘polisi kelompok’. Boleh juga, coba saya lihat draf template-nya buat dicoba minggu depan.”
+Hidden concern, response, dan adaptation
+Hidden concern discovery: Keberatan target bukan pada kemudahan teknis, melainkan pada akuntabilitas sosial dan beban pengawasan (takut menjadi penagih tunggal).
+Adaptation: Menambahkan mekanisme pengingat otomatis yang netral agar beban moral penagihan beralih dari personal ke sistem kelompok.
+Signal Interest: Target menunjukkan minat nyata dengan meminta draf template lembar checklist tersebut untuk diuji coba langsung pada tugas berikutnya.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Menghargai beban psikologis target dan mengamankan relasi kolaboratif.
+Objective & State
+Transkrip real-time verbatim membuktikan transisi dari Attention bersyarat ke Interest terbuka.
+Repertoire & Language
+Demo visual singkat dipadu dengan klarifikasi verbatim transparan tanpa tautan eksternal.
+Response & Adaptation
+Berhasil mengatasi hidden concern melalui penambahan mekanisme pengingat netral.
+Agreement/action
+Target sepakat meninjau dan menguji coba draf template secara sukarela.
+Penggunaan AI
+AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sembari seluruh transkrip percakapan verbatim dicatat murni dari interaksi nyata di lapangan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Beban pengawasan dan kekhawatiran relasional dipetakan secara sangat spesifik.
+Objective & State
+4
+Transkrip verbatim plain text membuktikan validitas pergeseran state ke Interest.
+Repertoire, Language & AI
+4
+Demo didukung transkrip asli terverifikasi tanpa mengandalkan tautan luar.
+Response & Adaptation
+4
+Hidden concern dijawab tuntas melalui adaptasi pengingat sistem yang netral.
+Agreement, Action & Relationship
+4
+Kesepakatan uji coba tercapai secara organik dan setara.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#transkrip-verbatim-plain-text-deskripsi-artefak-antarmuka-verifikasi-langsung
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#hidden-concern-response-dan-adaptation
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

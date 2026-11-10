@@ -1,0 +1,193 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 950
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Target–Attention Challenge
+TAIDA
+ATTENTION
+Penyusunan target map, penyampaian attention pitch berbasis evidence, serta adaptasi objective saat mengidentifikasi masalah serah terima teknis kepanitiaan.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Rabu, 7 Oktober 2026. Lobi Lab STI ITB setelah rapat koordinasi kepanitiaan. Winda berdiskusi singkat selama 15 menit dengan Koordinator Operasional/Logistik.
+Persons dan relationship: Winda (penanggung jawab teknis/divisi IT) dan Rian (Koordinator Operasional/Logistik). Hubungan: rekan kerja seangkatan di kepanitiaan dengan kolaborasi aktif, namun memiliki perbedaan sudut pandang antara kebutuhan operasional lapangan dan teknis.
+Objective dan initial state: Mengajukan isu keterlambatan serah terima inventaris & server staging acara agar disepakati sebagai masalah alur kerja (process issue), bukan sekadar kelalaian individu. Initial state Rian: Unaware / Netral terhadap akar masalah teknis, menganggap delay sebagai hal biasa di lapangan.
+Evidence
+Catatan1. Target Map & Pemilihan Target
+Person
+Relevance
+Authority
+Current state
+Ketua Pelaksana
+Menanggung dampak kelancaran acara secara keseluruhan
+Dapat menyetujui perubahan SOP panitia
+Unaware / Netral
+Koordinator Logistik (Rian)
+Menghadapi langsung gesekan jadwal dan keluhan alur serah terima
+Dapat menyetujui uji coba (pilot) alur baru
+Problem aware
+Ketua Divisi IT
+Bertanggung jawab atas konfigurasi teknis & server
+Mengatur internal divisi IT saja
+Problem aware
+Staff Lapangan
+Menjalankan proses fisik di hari H
+Tidak memiliki wewenang mengubah alur
+Problem aware (Low authority)
+Alasan memilih Rian (Koordinator Logistik):
+Rian memiliki pengalaman langsung (direct experience) terkait gesekan jadwal serah terima barang/server dan memiliki wewenang langsung (authority) untuk menguji coba alur kerja baru tanpa perlu menunggu keputusan birokratis Ketua Pelaksana.
+2. Attention Pitch & Evidence
+“Rian, dari catatan 2 kali gladi bersih kemarin, kita mengalami delay kickoff masing-masing 20 dan 25 menit karena serah terima server staging dan alat teknis baru kelar di tempat. Data log kita mencatat ada 3 kali perubahan konfigurasi mendadak di lokasi. Saya belum menyimpulkan bahwa alat atau server kita kurang, tapi bolehkah kita periksa apakah masalah utamanya ada pada ketidakjelasan alur cutoff handover?”
+Evidence yang digunakan: Catatan waktu delay 2 kali gladi bersih (20 & 25 menit) dan 3 entri log perubahan konfigurasi mendadak di lokasi acara.
+Framing evidence: Menggunakan angka spesifik dan sampel terbatas tanpa langsung membuat generalisasi atau menyalahkan personel.
+3. Response, State Assessment & Adaptation
+Respon Rian: “Memang ada delay sih Win, tapi setahu gua itu lebih karena anak-anak lapangan yang telat kumpul di lokasi H-1 jam, bukan karena alur atau checklist teknisnya yang membingungkan.”
+State Assessment sesudah Pitch: Berpindah dari Unaware menjadi Attention with reservation — Rian mengakui adanya isu delay, namun masih meragukan akar masalahnya (magnitude / root cause).
+Adaptasi Pesan & Objective Winda:
+> “Poin yang bagus, Rian. Kehadiran fisik tim memang krusial. Gimana kalau di simulasi Jumat besok saya bantu siapkan checklist serah terima terpusat sederhana? Kita bisa lihat apakah keterlambatan itu murni karena kehadiran atau ada hambatan di pengecekan fungsi alat/server.”
+Hasil / State Akhir: Rian menyetujui usulan validasi data ini (Interest/Agreement). Objective komunikasi bergeser dari “langsung menerapkan SOP baru” menjadi “menyetujui uji coba checklist pada simulasi Jumat”.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Rian dipilih berdasarkan kombinasi relevance (mengalami langsung) dan authority (bisa mengizinkan uji coba checklist). Winda tidak memintas langsung ke Ketua Pelaksana.
+Objective & state
+State awal Rian dinilai tepat (Unaware). Saat Rian memberikan reservation, objective disesuaikan secara adaptif dari meminta persetujuan SOP menjadi menyepakati uji coba pengumpulan data.
+Repertoire & language
+Pitch disampaikan ringkas dalam 30 detik menggunakan data kuantitatif spesifik (delay 20-25 menit, 3 log revisi). Bahasa yang digunakan objektif dan non-judgmental.
+Response & adaptation
+Respon Rian yang menunjuk faktor kehadiran fisik diadaptasi tanpa konfrontasi, melainkan diintegrasikan ke dalam skenario uji coba checklist simulasi Jumat.
+Agreement/action
+Disepakati penggunaan checklist serah terima terpusat untuk simulasi Jumat tanpa merusak batasan wewenang antar-divisi.
+Relationship outcome
+Hubungan kerja antara Divisi IT dan Logistik tetap positif dan kolaboratif; Rian merasa tidak disalahkan dan melihat Winda sebagai penyelesai masalah.
+Penggunaan AI
+AI digunakan pasca-diskusi untuk melakukan pengujian kalimat pitch (differentiating evidence vs. inference). AI mengonfirmasi bahwa penyebutan angka delay (20–25 menit) bertindak sebagai evidence objektif, sedangkan klausa “masalah alur cutoff handover” bertindak sebagai inference/hypothesis yang diajukan untuk diuji bersama.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rian meminta agar checklist tidak menambah beban administratif berbelit bagi anak-anak lapangan.
+Adaptation/replay: Checklist disederhanakan menjadi format digital ringkas (3 poin centang via ponsel) agar proses serah terima selesai dalam kurang dari 2 menit.
+Next practice: Saat mengajukan isu efisiensi ke koordinator lapangan, selalu sertakan data keterlambatan konkret dan tawarkan skenario uji coba (pilot) berisiko rendah.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Target Map disusun lengkap; Rian dipilih karena relevansi dan wewenang uji coba langsung.
+Objective & State
+4
+State Rian dipetakan akurat (Unaware -> Attention with reservation -> Agreement).
+Repertoire, Language & AI
+4
+Pitch ringkas dengan angka konkret; AI digunakan untuk mengecek pemisahan bukti vs asumsi.
+Response & Adaptation
+4
+Menanggapi keraguan Rian dengan mengalihkan objective ke uji coba data (pilot checklist).
+Agreement, Action & Relationship
+4
+Disepakati penggunaan checklist pada simulasi Jumat; hubungan antar-divisi terjaga harmonis.
+Total: 20 / 20 - Lanjut.
+CatatanAssessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#konteks-performance
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://ambreluee.github.io/kipp-students/examples/week-06.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
