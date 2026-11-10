@@ -1,0 +1,169 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 873
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Minggu 1 — Character Map
+PortfolioMinggu 1
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Minggu 6Minggu 7Minggu 8Indeks
+Character Map
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Minggu 1
+Status Siap dinilai
+Self 18
+Assessor —
+Fondasi Person
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — reflective learner
+Diri sendiri saat debugging kode
+Mencari sumber error dengan tenang
+Self-talk, “Apa asumsi saya yang salah?”
+Frustrasi; ambil jeda 5 menit
+Family — anak
+Orang tua di rumah
+Memberi kabar dan mendengarkan
+Tanya kabar, “Bagaimana hari ini?”
+Mengabaikan pesan; balas dalam 1 jam
+Friends — teman diskusi
+Teman seangkatan
+Saling mendukung dan bertukar pikiran
+Listening, “Gimana menurutmu?”
+Memotong pembicaraan; tunggu jeda
+Work — peer mentor
+Teman sekelompok praktikum
+Membantu evaluasi pemahaman materi
+Check-in, review, “Bagian mana yang bingung?”
+Menggurui; perbanyak bertanya
+Community — staf himpunan
+Ketua himpunan dan staf lain
+Mensukseskan program kerja
+Summary, voting, “Ada masukan lain?”
+Pasif; ajukan satu ide tiap rapat
+Konteks performance
+Tanggal dan setting: 25 September 2026, Diskusi evaluasi pasca-Praktikum 3 OOP.
+Persons dan relationship: Agas, Ariya, dan Naufal (Teman seangkatan/sekelompok praktikum). Hubungan pertemanan suportif.
+Objective dan initial state: Mengatasi rasa frustrasi Ariya terkait kegagalannya di praktikum tanpa membuatnya merasa diremehkan atau digurui. Initial state: Ariya kebingungan dan kecewa karena gagal menyelesaikan modul Praktikum 3.
+Evidence: Artefak Replay 5 Karakter (Situasi Dinamis & Perubahan State)
+Berikut adalah transkripsi artefak (replay) yang menunjukkan kelima karakter berinteraksi dalam situasi nyata/simulasi yang melibatkan konflik atau perubahan state batin:
+1. Karakter Intra-Self — Reflective Debugger (Domain Diri):
+Konteks: Menghadapi error NullPointerException saat pengerjaan tugas OOP menjelang deadline.
+State Awal: Frustrasi dan panik.
+Transkripsi Dialog Batin:
+Agas (Internal): "Kenapa baris 42 selalu null? Padahal inisialisasinya sudah ada di baris 10! Apa gunanya belajar OOP kalau hal dasar begini bikin stuck berjam-jam?"
+Agas (Jeda/Regulasi Diri): "Tarik napas dulu, Gas. Panik nggak bakal bikin pointer-nya valid. Ambil jeda 5 menit, cuci muka, lalu cetak nilai objek sebelum baris 42."
+State Akhir: Tenang, fokus, dan berhasil melacak letak bug logika.
+2. Karakter Family — Anak Berbakti (Domain Keluarga):
+Konteks: Telepon dari orang tua di sela-sela kepadatan jadwal praktikum di kampus.
+State Awal: Tertekan oleh tugas dan lelah emosional.
+Transkripsi Dialog:
+Ibu: "Halo Gas, lagi di mana? Kok akhir-akhir ini jarang telepon ke rumah?"
+Agas: "Halo Bu. Maaf banget ya, minggu ini Agas lagi padat banget praktikum Basis Data sama Arsitektur Komputer dari pagi sampai sore. Tapi kondisi Agas sehat kok."
+Ibu: "Oalah ya sudah, jangan lupa makan ya le, jaga kesehatan."
+Agas: "Iya Bu, nanti malam setelah selesai lab, Agas telepon lagi buat cerita santai ya. Salam buat bapak."
+State Akhir: Hubungan keluarga tetap terjaga hangat tanpa mengabaikan tanggung jawab kuliah.
+3. Karakter Friends — Sahabat Pendengar (Domain Pertemanan):
+Konteks: Owen datang dengan keluhan tugas praktikum Jaringan Komunikasi yang menumpuk.
+State Awal: Owen cemas dan tertekan.
+Transkripsi Dialog:
+Owen: "Gas, aku benar-benar stuck di konfigurasi routing jaringan kemarin. Bingung mau mulai dari mana, tugas lain juga numpuk."
+Agas: "Wajar banget kalau kamu ngerasa overwhelmed, Wen, materinya emang lumayan padat. Mau cerita bagian mana yang paling bikin kamu bingung?"
+Owen: "Bagian subnetting sama static routing-nya. Kalau ada waktu luang, boleh minta saran belajarnya?"
+Agas: "Boleh banget, sore ini setelah kelas kita duduk bareng setengah jam ya."
+State Akhir: Owen merasa didengarkan dan menemukan kembali ketenangan belajarnya.
+4. Karakter Work / Akademik — Peer Mentor (Domain Akademik/Profesional):
+Konteks: Evaluasi pasca-Praktikum 3 OOP bersama Ariya.
+State Awal: Ariya kecewa karena kode programnya gagal dikompilasi saat tes lab.
+Transkripsi Dialog:
+Agas: "Ariya, kulihat evaluasi praktikum 3 OOP kemarin kurang maksimal ya? Ada kendala di mananya?"
+Ariya: "Iya, aku stuck di bagian implementasi inheritance sama Polymorphism-nya nih. Pas di-compile pas praktikum error terus, waktunya keburu abis."
+Agas: "Oke, jadi masalahnya di pemahaman struktur OOP-nya. Mau coba kita review bareng kode praktikummu malam ini jam 8 biar praktikum minggu depan aman?"
+Ariya: "Boleh banget, thanks Gas."
+State Akhir: Ariya lega dan memiliki rencana tindakan konkret untuk perbaikan.
+5. Karakter Community — Staf Teknis Divisi Himpunan (Domain Komunitas):
+Konteks: Koordinasi logistik peminjaman perangkat laboratorium bersama Randy.
+State Awal: Potensi konflik akibat keterlambatan persetujuan izin lab.
+Transkripsi Dialog:
+Randy: "Gas, izin peminjaman lab untuk simulasi besok belum ditandatangani koordinator asisten nih. Waktunya mepet banget."
+Agas: "Paham, Ran. Jangan panik dulu. Aku sudah siapkan draf surat cadangan dan langsung nemuin koordinator asisten pas jam istirahat siang nanti. Ada hal teknis lain yang perlu kupastikan ke beliau?"
+Randy: "Tolong pastikan proyektor sama switch jaringannya bisa dipakai ya Gas."
+Agas: "Siap, langsung kutanyakan siang ini dan kukabari di grup jam 13.00."
+State Akhir: Ketidakpastian logistik teratasi dan kesepakatan koordinasi tercapai.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Berperan sebagai teman yang suportif (peer mentor), bukan sekadar ikut mengeluh soal susahnya praktikum.
+Objective & state
+State awal: Ariya frustrasi dan kebingungan. State akhir: Ariya lega karena ada jadwal review kode bersama.
+Repertoire & language
+Menggunakan pertanyaan terbuka (“Ada kendala di mananya?”) daripada menghakimi (“Kok bisa error?”).
+Response & adaptation
+Menyesuaikan penawaran bantuan (me-review kode) setelah tahu kendalanya adalah error kompilasi saat praktikum.
+Agreement/action
+Sepakat melakukan bedah kode praktikum 3 jam 20.00 malam ini.
+Relationship outcome
+Hubungan tetap baik, Ariya tidak merasa dipojokkan atas nilai praktikumnya dan merasa dibantu.
+Penggunaan AI
+Tidak menggunakan AI dalam menyusun percakapan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Naufal (Observer): “Bagus, kamu nggak menggurui tapi nawarin buat nge-review bareng kodenya Ariya.”
+Adaptation/replay: Ke depannya, saya akan mengajak teman-teman untuk berdiskusi sebelum praktikum dimulai, bukan hanya evaluasi sesudahnya.
+Next practice: Melakukan diskusi persiapan (sharing session) H-1 sebelum praktikum dilaksanakan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Berpindah dari teman biasa menjadi mentor sebaya yang solutif
+Objective & State
+4
+Jelas mengubah state dari frustrasi menjadi terencana
+Repertoire, Language & AI
+3
+Bahasa empati sudah tepat, namun bisa lebih eksplisit
+Response & Adaptation
+4
+Cepat beradaptasi setelah tahu masalahnya di pemahaman OOP
+Agreement, Action & Relationship
+3
+Tindakan jelas, relationship terjaga
+Total skor self-assessment18/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-01.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-06.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-07.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-08.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

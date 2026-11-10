@@ -1,0 +1,323 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 983
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Week 9 - Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Week 9 - Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Week 9 - Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Week 12 — Community Communication Challenge
+Week 13 — Public Contribution Challenge
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+Capstone Performance Portfolio
+Di halaman ini
+Desire-State Communication
+Kompetensi target
+Konteks performance
+Evidence
+Ringkasan percakapan
+Hasil aktual wawancara
+Kontribusi pribadi
+Analisis komunikasi
+1. Person & Character
+2. Objective & State
+3. Repertoire, Language & AI
+4. Response & Adaptation
+5. Agreement, Action & Relationship
+Feature–Benefit–Value–Outcome Chain
+Risk, Evidence Threshold, Response & Adaptation
+Risk
+Evidence Threshold
+Response
+Adaptation
+Feedback dan tindak lanjut
+Feedback yang diperoleh
+Hasil komunikasi dan adaptasi
+Refleksi
+Self-assessment
+1. Person & Character — 4/4
+2. Objective & State — 4/4
+3. Repertoire, Language & AI — 3/4
+4. Response & Adaptation — 3/4
+5. Agreement, Action & Relationship — 3/4
+Rekapitulasi skor
+Refleksi akhir
+Assessment dosen
+Kesimpulan
+Week 9 - Desire-State Communication
+TAIDA
+Desire
+Membangun desired state berdasarkan kebutuhan target, menghubungkan fitur dengan manfaat dan nilai bagi pengguna, serta menganalisis risiko, bukti komunikasi, dan respons terhadap kebutuhan target.
+Desire-State Communication
+TAIDA · Desire
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel. Kompetensi ini ditunjukkan melalui kemampuan memahami kondisi saat ini, menggali kondisi yang diinginkan, menjelaskan nilai solusi, merespons masukan, dan mengidentifikasi bukti yang relevan untuk menilai keberhasilan solusi.
+Konteks performance
+Tanggal dan setting: Oktober 2026, dalam wawancara singkat mengenai kesulitan mengantre di kantin kampus. Tanggal dan lokasi spesifik disesuaikan dengan pelaksanaan kegiatan yang sebenarnya.
+Persons dan relationship: Saya sebagai pewawancara dan seorang teman yang beraktivitas di lingkungan kampus serta memiliki pengalaman membeli makanan di kantin.
+Objective dan initial state: Tujuan komunikasi adalah memahami masalah yang dialami target ketika membeli makanan di kantin, menggali kondisi yang diinginkan, dan mengetahui apakah sistem informasi pesanan dapat memberikan manfaat bagi pengguna.
+Kondisi awal yang diidentifikasi melalui wawancara adalah antrean yang panjang, waktu tunggu yang tidak jelas, dan kebutuhan untuk bertanya kepada penjual guna mengetahui perkembangan pesanan. Situasi tersebut membuat pengguna kesulitan memperkirakan waktu yang dibutuhkan, terutama ketika harus kembali mengikuti perkuliahan.
+Evidence
+Bukti kegiatan berupa rekonstruksi percakapan berdasarkan ingatan mengenai wawancara. Teks berikut menyajikan isi percakapan yang digunakan untuk analisis, bukan rekaman audio atau transkrip verbatim yang telah diverifikasi.
+Ringkasan percakapan
+Saya: Kalau kamu sedang mengantre di kantin pada jam makan siang, apa yang paling membuat kamu kesulitan?
+Target: Biasanya karena antreannya panjang dan kita nggak tahu harus menunggu berapa lama. Kadang udah pesan, tapi masih harus menunggu cukup lama sampai makanannya jadi.
+Saya: Kalau ada sistem yang menampilkan status pesanan, misalnya sedang disiapkan atau sudah siap diambil, apakah itu membantu?
+Target: Iya, membantu sih. Jadi kita tahu pesanan kita udah sampai mana dan nggak perlu bolak-balik nanya ke penjual. Kita juga jadi tahu kapan harus mengambil makanan.
+Saya: Selain mengetahui status pesanan, apakah kamu juga membutuhkan perkiraan waktu tunggu? Kenapa?
+Target: Iya, menurutku perlu juga. Soalnya kalau tahu perkiraan waktunya, kita bisa memperkirakan mau menunggu atau melakukan hal lain dulu. Apalagi kalau waktunya terbatas sebelum masuk kelas lagi.
+Saya: Kalau estimasi waktunya berubah karena kondisi kantin sedang ramai, apakah informasi itu tetap berguna? Apa yang perlu diperhatikan?
+Target: Tetap berguna, asalkan informasinya diperbarui kalau memang ada perubahan. Nggak harus selalu akurat banget, tapi setidaknya perkiraannya masuk akal supaya kita nggak salah memperkirakan waktu.
+Saya: Berarti, selain status pesanan, informasi estimasi waktu yang diperbarui juga penting supaya kamu bisa mengatur waktu menunggu. Terima kasih, ya, atas masukannya!
+Hasil aktual wawancara
+Wawancara menghasilkan beberapa temuan yang secara langsung berkaitan dengan kebutuhan target.
+Masalah utama berhasil diidentifikasi. Target menjelaskan bahwa antrean panjang dan ketidakjelasan waktu tunggu menyulitkan pengguna dalam memperkirakan berapa lama mereka harus menunggu.
+Kebutuhan informasi berhasil digali. Target menyatakan bahwa status pesanan membantu pengguna mengetahui perkembangan pesanan tanpa harus berulang kali bertanya kepada penjual.
+Nilai estimasi waktu berhasil diperjelas. Target menghubungkan estimasi waktu tunggu dengan kemampuan menentukan apakah akan tetap menunggu atau melakukan kegiatan lain.
+Risiko solusi berhasil diidentifikasi. Target menjelaskan bahwa estimasi tetap bermanfaat ketika kondisi berubah, asalkan informasi diperbarui dan perkiraannya masuk akal.
+Pemahaman terhadap kebutuhan target berhasil dirangkum. Saya menyimpulkan bahwa solusi perlu menyediakan status pesanan dan estimasi waktu yang memperhatikan perubahan kondisi kantin.
+Hasil tersebut merupakan bukti kualitatif dari proses komunikasi dan pemahaman kebutuhan. Hasil ini menunjukkan bahwa wawancara menghasilkan informasi yang relevan untuk merumuskan solusi, tetapi tidak membuktikan bahwa sistem telah meningkatkan efisiensi antrean atau mengurangi keterlambatan masuk kelas.
+Kontribusi pribadi
+Saya menyusun dan mengajukan pertanyaan terbuka, menggali pengalaman target, menjelaskan contoh fitur sistem, mendengarkan tanggapan, serta merangkum kebutuhan yang muncul. Saya menghubungkan masalah yang disampaikan target dengan manfaat yang diharapkan dari solusi.
+Kontribusi utama saya adalah mengarahkan percakapan dari masalah umum berupa antrean panjang menuju kebutuhan yang lebih spesifik, yaitu visibilitas status pesanan, estimasi waktu tunggu, dan pembaruan informasi ketika kondisi berubah.
+Analisis komunikasi
+1. Person & Character
+Target dipilih karena memiliki pengalaman yang relevan dengan permasalahan antrean kantin. Saya menggunakan pengalaman target sebagai dasar untuk memahami masalah, bukan langsung mengasumsikan bahwa fitur yang saya pikirkan pasti dibutuhkan.
+Saya mengajukan pertanyaan terbuka mengenai kesulitan yang dialami, kemudian melanjutkan dengan pertanyaan tentang manfaat fitur dan keandalan estimasi waktu. Pendekatan ini memberikan kesempatan kepada target untuk menjelaskan kebutuhan dan alasannya.
+Hasil wawancara menunjukkan bahwa saya memperoleh perspektif yang lebih terarah mengenai masalah pengguna. Saya memahami bahwa masalah bukan hanya panjangnya antrean, tetapi juga ketidakpastian waktu dan kesulitan memperoleh informasi perkembangan pesanan.
+2. Objective & State
+Current state
+Antrean kantin dapat berlangsung lama, khususnya saat jam makan siang.
+Pengguna tidak selalu mengetahui waktu tunggu yang diperlukan.
+Setelah memesan, pengguna masih harus menunggu hingga makanan selesai dibuat.
+Pengguna terkadang perlu bertanya kepada penjual untuk mengetahui perkembangan pesanan.
+Desired state
+Target menginginkan informasi yang membuat perkembangan pesanan lebih mudah diketahui dan waktu tunggu lebih mudah diperkirakan. Informasi tersebut diharapkan membantu pengguna mengatur waktu tanpa harus terus-menerus bertanya kepada penjual.
+Desired state ini dibentuk dari jawaban target mengenai kesulitan, kebutuhan status pesanan, dan manfaat estimasi waktu. Dengan demikian, kondisi yang diinginkan tidak hanya berfokus pada keberadaan aplikasi, tetapi pada perubahan pengalaman pengguna ketika menunggu.
+Value
+Nilai utama yang ditemukan adalah kepastian informasi dan kemampuan mengatur waktu. Pengguna dapat menggunakan informasi status dan estimasi untuk mempertimbangkan aktivitas selama menunggu, terutama ketika memiliki waktu terbatas sebelum kelas.
+Outcome yang diharapkan
+Pengalaman membeli makanan menjadi lebih nyaman, kebutuhan untuk bertanya mengenai pesanan berkurang, dan risiko terlambat kembali ke kelas diharapkan menurun. Outcome ini merupakan manfaat yang dituju, bukan hasil kuantitatif yang sudah terbukti.
+3. Repertoire, Language & AI
+Saya menggunakan pertanyaan terbuka secara bertahap. Percakapan dimulai dari masalah yang dialami target, dilanjutkan dengan manfaat status pesanan, kebutuhan estimasi waktu, dan akhirnya keandalan informasi ketika kondisi kantin berubah.
+Pertanyaan lanjutan membantu saya menggali alasan di balik jawaban target. Saya tidak hanya menanyakan apakah fitur dianggap berguna, tetapi juga mengapa fitur tersebut diperlukan dan dalam kondisi apa informasi tetap bermanfaat.
+Saya menggunakan AI untuk membantu menyusun dan merapikan transkrip serta refleksi. AI digunakan sebagai alat bantu penyajian dan analisis, bukan sebagai sumber bukti bahwa wawancara telah berlangsung. Isi mengenai pengalaman, tanggapan target, dan kontribusi pribadi tetap perlu sesuai dengan kejadian sebenarnya.
+Saya juga perlu memastikan bahwa hasil penyusunan AI tidak mengubah makna tanggapan target, menambahkan pernyataan yang tidak pernah disampaikan, atau membuat kesimpulan yang melampaui informasi yang tersedia.
+4. Response & Adaptation
+Tanggapan target memperlihatkan bahwa status pesanan dan estimasi waktu tunggu mempunyai fungsi yang saling melengkapi. Status pesanan membantu pengguna memahami perkembangan pesanan, sedangkan estimasi waktu membantu pengguna memperkirakan durasi menunggu.
+Masukan paling penting adalah bahwa estimasi tidak harus selalu tepat secara mutlak, tetapi harus masuk akal dan diperbarui ketika kondisi berubah. Temuan ini memperjelas bahwa manfaat sistem tidak cukup ditentukan oleh tersedianya fitur; kualitas dan relevansi informasi juga menentukan apakah fitur dapat dipercaya.
+Respons saya adalah merangkum kebutuhan tersebut dengan menekankan status pesanan dan estimasi waktu yang diperbarui. Hasil komunikasi ini memperjelas kebutuhan solusi dibandingkan gagasan awal yang hanya berfokus pada menampilkan informasi pesanan.
+Adaptasi pada tahap analisis adalah memasukkan kebutuhan pembaruan estimasi sebagai bagian penting dari solusi. Belum ada bukti bahwa perubahan teknis telah diterapkan atau diuji, sehingga hasil adaptasi yang dapat dilaporkan adalah penajaman pemahaman terhadap kebutuhan pengguna.
+5. Agreement, Action & Relationship
+Percakapan menghasilkan pemahaman bahwa status pesanan dan estimasi waktu tunggu dapat membantu pengguna mengatur waktu. Target juga menjelaskan kondisi yang membuat estimasi tetap berguna, yaitu informasi perlu diperbarui dan perkiraannya harus masuk akal.
+Kesimpulan tersebut menunjukkan adanya keselarasan pemahaman mengenai kebutuhan informasi pengguna. Namun, belum ada kesepakatan untuk menerapkan sistem, melaksanakan pilot, atau melakukan pengujian langsung.
+Dalam hubungan komunikasi, saya berusaha mendengarkan pengalaman target dan menggunakan tanggapannya untuk memperjelas kebutuhan solusi. Saya tidak menganggap persetujuan terhadap manfaat fitur sebagai bukti bahwa sistem telah berhasil. Pembedaan ini penting agar kesimpulan komunikasi tetap sesuai dengan bukti yang tersedia.
+Feature–Benefit–Value–Outcome Chain
+Tahap
+Hasil analisis
+Feature
+Sistem menampilkan status pesanan dan estimasi waktu tunggu yang diperbarui ketika kondisi berubah.
+Benefit
+Pengguna dapat mengetahui perkembangan pesanan dan memperkirakan waktu tunggu tanpa harus terus-menerus bertanya kepada penjual.
+Value
+Pengguna memperoleh kepastian informasi dan dapat mengatur waktu dengan lebih terarah.
+Outcome
+Pengalaman membeli makanan diharapkan menjadi lebih nyaman dan risiko terlambat kembali ke kelas dapat berkurang.
+Rantai tersebut menunjukkan hubungan logis antara fitur, manfaat langsung, nilai bagi pengguna, dan outcome yang dituju. Wawancara mendukung relevansi kebutuhan status pesanan dan estimasi waktu, tetapi outcome berupa pengurangan keterlambatan atau peningkatan efisiensi masih memerlukan pengukuran tersendiri.
+Risk, Evidence Threshold, Response & Adaptation
+Risk
+1. Estimasi waktu tidak akurat
+Kondisi kantin yang berubah dapat membuat estimasi awal tidak lagi sesuai. Jika pengguna mengandalkan estimasi yang sudah tidak relevan, mereka dapat mengambil keputusan yang keliru mengenai waktu menunggu.
+2. Status pesanan terlambat diperbarui
+Informasi yang tertinggal dari kondisi aktual dapat membuat pengguna mengira pesanan masih disiapkan padahal sudah siap, atau sebaliknya. Hal tersebut dapat mengurangi kepercayaan terhadap sistem.
+3. Beban kerja penjual bertambah
+Jika pembaruan status dan estimasi memerlukan banyak input manual, sistem berpotensi menambah pekerjaan penjual ketika kantin ramai. Solusi perlu mempertimbangkan kelayakan operasional, bukan hanya kenyamanan pengguna.
+Evidence Threshold
+Berdasarkan hasil wawancara, terdapat bukti kualitatif yang mendukung tiga hal:
+Target mengalami masalah berupa ketidakjelasan waktu tunggu.
+Target menilai status pesanan dan estimasi waktu berpotensi membantu pengguna mengatur waktu.
+Target mengidentifikasi pembaruan informasi dan kewajaran estimasi sebagai syarat agar informasi tetap berguna.
+Ketiga temuan tersebut merupakan evidence bahwa kebutuhan pengguna berhasil digali melalui wawancara. Bukti tersebut belum cukup untuk menyimpulkan bahwa sistem sudah berhasil meningkatkan kinerja antrean.
+Untuk menilai keberhasilan sistem secara operasional, evidence threshold yang relevan mencakup:
+Status pesanan yang ditampilkan sesuai dengan perkembangan pesanan aktual.
+Selisih antara estimasi dan waktu penyelesaian aktual dapat diukur dan berada pada batas yang dapat diterima.
+Frekuensi pertanyaan berulang kepada penjual dapat dibandingkan sebelum dan sesudah penggunaan sistem.
+Pengguna menilai informasi membantu pengambilan keputusan terkait waktu tunggu.
+Pembaruan informasi tidak menambah beban kerja penjual secara berlebihan.
+Kriteria tersebut merupakan ukuran keberhasilan yang dapat digunakan dalam evaluasi. Belum tersedia hasil pengukuran yang membuktikan bahwa kriteria operasional tersebut telah tercapai.
+Response
+Respons terhadap risiko adalah memastikan bahwa estimasi tidak diperlakukan sebagai jaminan waktu yang pasti. Informasi harus tetap masuk akal dan memperhatikan perubahan kondisi. Status pesanan juga harus mencerminkan perkembangan yang sebenarnya agar pengguna tidak menerima informasi yang menyesatkan.
+Dari sisi operasional, mekanisme pembaruan perlu mempertimbangkan beban kerja penjual. Solusi baru memberikan nilai apabila informasi bermanfaat bagi pengguna dan proses penyediaannya tetap layak bagi pihak kantin.
+Adaptation
+Masukan target memperjelas bahwa solusi perlu memperhatikan pembaruan estimasi, bukan hanya menampilkan perkiraan pada awal pemesanan. Karena itu, kebutuhan pembaruan informasi menjadi bagian penting dalam perumusan solusi.
+Hasil aktual yang dapat dinyatakan adalah penajaman kebutuhan berdasarkan masukan target. Belum ada pengujian sistem, perbandingan waktu tunggu, atau pengukuran frekuensi pertanyaan kepada penjual yang dapat dilaporkan sebagai hasil implementasi.
+Feedback dan tindak lanjut
+Feedback yang diperoleh
+Target memberikan tanggapan mengenai manfaat status pesanan dan estimasi waktu tunggu. Target menjelaskan bahwa status membantu pengguna mengetahui perkembangan pesanan tanpa harus bolak-balik bertanya kepada penjual.
+Target juga menyampaikan bahwa estimasi waktu berguna untuk menentukan apakah akan tetap menunggu atau melakukan kegiatan lain. Ketika ditanya mengenai perubahan kondisi kantin, target menekankan pentingnya pembaruan informasi dan estimasi yang masuk akal.
+Tidak ada feedback formal dari pengamat mengenai kualitas komunikasi saya. Oleh karena itu, evaluasi terhadap cara berkomunikasi didasarkan pada refleksi pribadi dan isi percakapan yang tersedia, bukan penilaian pengamat.
+Hasil komunikasi dan adaptasi
+Wawancara menghasilkan pemahaman yang lebih spesifik mengenai kebutuhan target. Solusi tidak cukup hanya menunjukkan status pesanan, tetapi juga perlu memberikan estimasi yang relevan ketika kondisi berubah.
+Hasil yang telah dicapai adalah identifikasi kebutuhan, pemahaman manfaat fitur, dan pengenalan risiko informasi yang tidak akurat. Hasil ini merupakan capaian komunikasi dan analisis kebutuhan, bukan bukti bahwa sistem telah berhasil diterapkan.
+Refleksi
+Saya sudah menggunakan pertanyaan terbuka untuk menggali masalah dan meminta alasan di balik kebutuhan target. Namun, saya masih dapat memperdalam percakapan dengan menanyakan prioritas target apabila status pesanan dan estimasi waktu tidak dapat disediakan sekaligus.
+Saya juga perlu memeriksa kembali apakah rangkuman saya sesuai dengan maksud target. Dengan demikian, desired state tidak hanya berasal dari interpretasi saya, tetapi benar-benar mencerminkan kebutuhan yang dipahami bersama.
+Self-assessment
+Penilaian diri dilakukan dengan mengevaluasi proses komunikasi, pemahaman terhadap kebutuhan target, kemampuan menghubungkan solusi dengan nilai bagi pengguna, serta keterbatasan bukti yang tersedia. Skor diberikan berdasarkan kegiatan yang dilakukan dan refleksi terhadap proses tersebut.
+1. Person & Character — 4/4
+Saya memilih target yang memiliki pengalaman relevan dengan permasalahan antrean kantin. Selama wawancara, saya berusaha memahami pengalaman target melalui pertanyaan terbuka, bukan langsung mengasumsikan masalah yang dialami.
+Saya menggali kesulitan saat mengantre, kebutuhan informasi pesanan, dan alasan estimasi waktu tunggu dianggap penting. Pendekatan tersebut membantu saya melihat permasalahan dari perspektif target, termasuk ketidakpastian waktu tunggu ketika target memiliki jadwal perkuliahan.
+Saya juga memberi ruang bagi target untuk menjelaskan kekhawatirannya mengenai estimasi yang berubah. Hal ini menunjukkan bahwa saya berusaha memahami kebutuhan pengguna sebelum menarik kesimpulan mengenai solusi.
+2. Objective & State — 4/4
+Saya dapat mengidentifikasi current state berupa antrean panjang, waktu tunggu yang tidak jelas, dan kebutuhan untuk bertanya kepada penjual mengenai perkembangan pesanan.
+Dari hasil wawancara, saya merumuskan desired state berupa tersedianya informasi status pesanan dan estimasi waktu tunggu yang membantu pengguna mengatur waktu. Saya juga dapat menghubungkan perubahan yang diinginkan dengan nilai bagi target, yaitu memperoleh kepastian informasi dan membuat keputusan yang lebih baik selama menunggu.
+Saya memahami bahwa desired state merupakan kondisi yang diharapkan, bukan hasil implementasi yang sudah terbukti. Pembedaan ini membantu saya menyusun analisis yang tidak melampaui bukti yang tersedia.
+3. Repertoire, Language & AI — 3/4
+Saya menggunakan pertanyaan terbuka dan pertanyaan lanjutan untuk menggali masalah, manfaat fitur, serta kebutuhan tambahan dari target. Urutan pertanyaan membantu percakapan berkembang dari pengalaman yang dialami menuju penilaian terhadap solusi.
+Saya menggunakan AI untuk membantu menyusun dan merapikan tulisan secara terstruktur. Saya memahami bahwa AI hanya membantu penyajian dan analisis, bukan menjadi bukti bahwa kegiatan telah dilakukan.
+Skor belum maksimal karena dokumentasi percakapan masih berupa rekonstruksi berdasarkan ingatan. Dengan demikian, ketepatan setiap pernyataan belum dapat diverifikasi melalui rekaman atau catatan asli. Saya perlu meningkatkan dokumentasi agar bukti komunikasi lebih mudah ditelusuri.
+4. Response & Adaptation — 3/4
+Saya menggali tanggapan target mengenai status pesanan dan estimasi waktu tunggu, termasuk kekhawatiran bahwa estimasi dapat berubah ketika kantin ramai. Masukan tersebut membantu saya mengidentifikasi kebutuhan pembaruan informasi.
+Saya dapat menjelaskan hubungan antara masukan target dan kebutuhan solusi. Namun, belum ada bukti pengujian yang menunjukkan bahwa perubahan pendekatan tersebut benar-benar meningkatkan pengalaman pengguna. Oleh karena itu, penilaian saya berfokus pada kemampuan mengidentifikasi kebutuhan dan menganalisis respons, bukan mengklaim keberhasilan implementasi.
+5. Agreement, Action & Relationship — 3/4
+Percakapan menghasilkan pemahaman bahwa status pesanan dan estimasi waktu tunggu berpotensi membantu target mengatur waktu. Saya juga dapat merangkum kebutuhan tersebut dan mengenali syarat penting agar informasi tetap bermanfaat ketika kondisi kantin berubah.
+Namun, hasil percakapan masih berupa pemahaman terhadap kebutuhan pengguna. Belum ada keputusan implementasi, pengujian sistem, atau tindakan bersama yang dapat dilaporkan sebagai hasil lanjutan.
+Saya menyadari bahwa komunikasi yang lebih kuat perlu memastikan kesimpulan dipahami bersama dan, ketika relevan, menghasilkan keputusan atau tindakan yang jelas. Saya juga perlu membedakan kesepahaman mengenai kebutuhan dari persetujuan untuk menerapkan solusi.
+Rekapitulasi skor
+Dimensi
+Skor
+Dasar penilaian
+Person & Character
+4/4
+Menggali pengalaman target dan mempertimbangkan perspektifnya.
+Objective & State
+4/4
+Mengidentifikasi current state, desired state, dan nilai perubahan.
+Repertoire, Language & AI
+3/4
+Menggunakan pertanyaan bertahap dan AI secara transparan, tetapi bukti percakapan belum terverifikasi secara independen.
+Response & Adaptation
+3/4
+Mengidentifikasi kebutuhan tambahan dari respons target, tetapi dampak perubahan solusi belum diuji.
+Agreement, Action & Relationship
+3/4
+Memperoleh pemahaman mengenai kebutuhan target, tetapi belum ada tindakan bersama atau implementasi.
+Total
+17/20
+Penilaian diri berdasarkan kegiatan dan bukti yang tersedia.
+Refleksi akhir
+Kekuatan utama saya adalah kemampuan menggali masalah target secara bertahap dan menghubungkan tanggapannya dengan kebutuhan solusi. Saya belajar bahwa fitur tidak cukup dinilai dari apakah fitur tersebut menarik, tetapi juga dari manfaatnya bagi pengguna, keandalan informasinya, dan dampaknya terhadap aktivitas sehari-hari.
+Saya juga memahami bahwa komunikasi yang efektif harus menghasilkan pemahaman yang jelas mengenai kondisi saat ini dan kondisi yang diinginkan. Dalam kegiatan ini, wawancara membantu memperjelas bahwa pengguna membutuhkan informasi yang bukan hanya tersedia, tetapi juga relevan dan dapat dipercaya.
+Hal yang perlu saya tingkatkan adalah kemampuan menggali prioritas target secara lebih mendalam, memeriksa kembali apakah rangkuman saya sesuai dengan maksud target, serta mendokumentasikan proses komunikasi dengan bukti yang lebih mudah diverifikasi.
+Saya juga perlu membedakan antara keberhasilan memahami kebutuhan pengguna dan keberhasilan sistem dalam praktik. Wawancara ini mendukung kesimpulan mengenai kebutuhan target, sedangkan efektivitas sistem memerlukan bukti operasional yang belum tersedia.
+Assessment dosen
+Skor dosen: Belum dinilai.
+Evidence: Rekonstruksi percakapan berdasarkan ingatan, identifikasi current state dan desired state, Feature–Benefit–Value–Outcome Chain, serta analisis risiko dan kriteria evaluasi.
+Prioritas evaluasi: Keterlacakan bukti percakapan, kedalaman pembentukan desired state bersama target, dan kekuatan hubungan antara fitur, manfaat, serta nilai bagi pengguna.
+Keputusan: Menunggu penilaian dosen.
+Kesimpulan
+Wawancara membantu saya memahami bahwa kesulitan mengantre di kantin tidak hanya berkaitan dengan panjangnya antrean, tetapi juga ketidakpastian mengenai perkembangan pesanan dan waktu tunggu. Status pesanan dan estimasi waktu dapat menjawab kebutuhan tersebut apabila informasi yang diberikan relevan, diperbarui ketika kondisi berubah, dan tidak menambah beban operasional secara berlebihan.
+Hasil aktual kegiatan adalah teridentifikasinya masalah pengguna, kebutuhan terhadap status pesanan dan estimasi waktu, serta risiko yang perlu diperhatikan agar informasi tetap berguna. Hasil tersebut memperjelas dasar perumusan solusi dan menunjukkan hubungan antara kebutuhan target dengan fitur yang ditawarkan.
+Pembelajaran utama saya adalah bahwa solusi yang baik harus berangkat dari kebutuhan target, memberikan nilai yang jelas, dan memiliki kriteria evaluasi yang dapat diperiksa. Keberhasilan komunikasi dalam memahami kebutuhan tidak boleh disamakan dengan keberhasilan implementasi. Dengan membedakan keduanya, saya dapat menyusun solusi yang lebih kredibel dan mengevaluasi hasilnya berdasarkan bukti yang sesuai.
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#desire-state-communication
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#konteks-performance
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#evidence
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#ringkasan-percakapan
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#hasil-aktual-wawancara
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#kontribusi-pribadi
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#analisis-komunikasi
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#person-character
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#objective-state
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#repertoire-language-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#response-adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#agreement-action-relationship
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#risk-evidence-threshold-response-adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#risk
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#evidence-threshold
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#response
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#feedback-yang-diperoleh
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#hasil-komunikasi-dan-adaptasi
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#refleksi
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#person-character-44
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#objective-state-44
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#repertoire-language-ai-34
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#response-adaptation-34
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#agreement-action-relationship-34
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#rekapitulasi-skor
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#refleksi-akhir
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html#kesimpulan
+- https://azral1962.github.io/kipp-students/portfolio/index.html#category=TAIDA
+- https://azral1962.github.io/kipp-students/portfolio/index.html#category=Desire
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

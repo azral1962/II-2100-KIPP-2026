@@ -1,0 +1,193 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1094
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas.
+Agreement dengan owner/deadline serta bukti action atau review.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Kamis, 22 Oktober 2026. Rapat koordinasi teknis kepanitiaan di Ruang Diskusi Lab STI ITB selama 30 menit.
+Persons dan relationship: Winda (PJ Teknis IT), Rian (Koordinator Logistik), Aris (Lead IT / Penanggung Jawab Keamanan Sistem), dan Fajar (Ketua Pelaksana / Authority SOP Utama). Hubungan kerja profesional dan kolaboratif antar-divisi.
+Objective dan initial state: Mengatasi desire–action gap (keinginan kuat untuk uji coba tapi belum ada keputusan formal eksekusi) dengan memetakan wewenang (authority), menyepakati skenario pilot, serta menetapkan agreement eksplisit dengan stop rule yang jelas. Initial state: Desire tinggi dari Rian, namun tertahan oleh persetujuan resmi Ketua Pelaksana dan clearance teknis Lead IT.
+Evidence
+Catatan1. Desire–Action Gap & Authority Map
+Meskipun Rian sangat menginginkan uji coba digital, eksekusi belum terjadi karena adanya hambatan wewenang (authority barrier) yang belum dipetakan:
+Barrier / Hambatan
+Person dengan Authority
+Respons & Syarat Approval
+Izin keamanan data & privasi staf
+Aris (Lead IT)
+Wajib memastikan form tidak mengambil email/NIM pribadi staf secara otomatis.
+Persetujuan perubahan SOP serah terima
+Fajar (Ketua Pelaksana)
+Menyetujui pilot selama tidak mengganggu linimasa Gladi Resik.
+Alokasi petugas & jam simpul lapangan
+Rian (Koord Logistik)
+Menetapkan 2 staf logistik untuk memindai QR Code di boks server.
+Pembuatan QR Code & setting offline mode
+Winda (PJ Teknis IT)
+Menyiapkan stiker QR, form offline, dan dashboard spreadsheet.
+2. Negosiasi Opsi & Trade-off
+Winda memaparkan 3 pilihan skenario eksekusi untuk didiskusikan bersama:
+Opsi A (Pilot Penuh 2 Hari Acara pada 5 Boks Alat): Evidence sangat kuat, namun risiko teknis tinggi dan membutuhkan clearance birokrasi yang panjang.
+Opsi B (Pilot Terbatas 1 Sesi Gladi Resik pada 1 Boks Server Utama): Evidence memadai untuk menguji mekanisme, risiko dan beban kerja rendah, serta mudah dihentikan jika terjadi kendala. (Dipilih)
+Opsi C (Observasi Manual Tanpa Digitalisasi): Tanpa risiko, tetapi tidak menguji keandalan mekanisme solusi digital.
+3. Agreement Eksplisit
+Seluruh pihak sepakat mengeksekusi Opsi B dengan kriteria kesepakatan formal sebagai berikut:
+Scope: 1 Boks Server Utama pada Gladi Resik Akhir (Jumat, 23 Oktober 2026).
+Owners & Responsibilities: Winda (stiker QR & dashboard), Aris (security review), Rian (briefing staf logistik), Fajar (lisensi uji coba).
+Deadline: Review keamanan teknis Kamis 22 Okt pukul 18.00 WIB; Keputusan Go/No-Go Jumat 23 Okt pukul 08.00 WIB.
+Stop Rule: Pilot dihentikan seketika dan dialihkan ke kertas manual jika form gagal menyimpan data \(>2\) kali berturut-turut atau terindikasi mengumpulkan identitas personal.
+Review Schedule: Sabtu, 24 Oktober 2026 pukul 10.00 WIB.
+4. Action Evidence & Adaptation
+Temuan saat Technical Review: Aris (Lead IT) menemukan opsi “Collect email addresses automatically” masih aktif.
+Tindakan / Adaptasi Winda: Winda langsung mengubah pengatur form menjadi Anonymous Submission di depan Aris dan mengunduh berkas konfigurasi offline.
+Evidence Tangible: Screenshot pengaturan privasi form dan tanda tangan digital persetujuan Go/No-Go dari Fajar dan Aris.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Winda menghormati hirarki wewenang organisasi dengan melibatkan Ketua Pelaksana dan Lead IT.
+Objective & state
+Desire–action gap berhasil ditutupi dengan mengonversi keinginan abstrak menjadi struktur aksi konkret (scope, owner, deadline).
+Repertoire & language
+Menyajikan pilihan opsi beserta trade-off secara rasional tanpa memaksakan kehendak sepihak.
+Response & adaptation
+Beradaptasi cepat menghapus pengumpulan email saat mendapat catatan security review dari Lead IT.
+Agreement/action
+Terbentuk agreement tertulis eksplisit lengkap dengan stop rule darurat untuk mitigasi risiko.
+Relationship outcome
+Semua pihak merasa aman (secure) karena memiliki kendali kontrol (stop rule) dan kejelasan batas tanggung jawab.
+Penggunaan AI
+AI dimanfaatkan untuk menyusun checklist potensi risiko teknis dan merancangkan draf stop rules. Namun, batasan wewenang, keputusan Go/No-Go, dan approval privasi data sepenuhnya dipegang dan ditetapkan oleh Aris, Fajar, dan Rian.
+Feedback dan tindak lanjut
+Feedback yang diterima: Aris mengapresiasi kecepatan Winda dalam merevisi pengaturan privasi data form.
+Adaptation/replay: Menyiapkan lembar fisik Stop Rule Check di lokasi Gladi Resik untuk dipantau langsung oleh Rian.
+Next practice: Pastikan setiap agreement aksi selalu dilengkapi dengan stop rule eksplisit agar target person tidak ragu mengambil risiko uji coba.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Pemetaan authority akurat (Fajar untuk SOP, Aris untuk IT Security, Rian untuk Lapangan).
+Objective & State
+4
+Desire–action gap dijembatani secara terstruktur dan terukur.
+Repertoire, Language & AI
+4
+Opsi & trade-off dijelaskan proporsional; AI digunakan untuk draf kriteria risiko.
+Response & Adaptation
+4
+Mengubah pengaturan privasi form secara real-time sesuai hasil review IT Lead.
+Agreement, Action & Relationship
+4
+Scope, owner, deadline, stop rule, dan jadwal review disepakati lengkap dan eksplisit.
+Total: 20 / 20 — Selesai.
+CatatanAssessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#konteks-performance
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#analisis-komunikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://ambreluee.github.io/kipp-students/examples/week-10.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

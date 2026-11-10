@@ -1,0 +1,195 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 996
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Desire-State Communication
+TAIDA
+Desire
+Perumusan desired state bersama Anggota A untuk cara kerja tim lomba Data Science, chain fitur–manfaat–nilai–hasil, serta adaptasi solusi setelah target mengungkap ketergantungan PPT pada hasil Colab dan tekanan check-in harian.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Kamis, 29 Oktober 2026, percakapan pribadi lewat WhatsApp sebagai evaluasi cara kerja tim setelah lomba Data Science dengan tenggat Selasa, 9 Juni 2026, sekaligus persiapan jika tim ikut lomba lagi.
+Persons dan relationship: Saya (pengerjaan model di Google Colab) dan Anggota A (pembuatan PPT), rekan satu tim dengan posisi setara, bersama Anggota B (ide dan revisi). Kepercayaan terbangun setelah sistem spreadsheet dan check-in harian di Week 7 membawa tim submit tepat waktu.
+Objective dan initial state: Menggali desired state cara kerja tim menurut Anggota A sendiri, menguji chain fitur–manfaat–nilai–hasil dari sistem spreadsheet, lalu menyepakati evidence threshold dan batas risiko untuk lomba berikutnya. Initial state Anggota A: Interest, sudah memakai dan menerima spreadsheet serta jadwal fleksibel, tetapi belum diketahui bagian mana yang benar-benar membantu dan mana yang membebaninya.
+Evidence
+Catatan1. Pemetaan Current vs Desired State
+Elemen
+Rumusan Target (Bukan Asumsi Saya)
+Current state
+Spreadsheet membuat pembagian tugas dan progres jelas, tetapi ditanya progres setiap hari terasa menekan saat sedang banyak kesibukan; bagian PPT harus menunggu hasil Colab sehingga sulit dikerjakan maksimal.
+Desired state
+Timeline dan pembagian tugas jelas sejak awal dengan tenggat internal per bagian; bagian yang saling bergantung punya waktu serah terima yang disepakati; tetap fleksibel jika ada yang berhalangan.
+Value bagi Anggota A
+Punya cukup waktu menyusun PPT tanpa buru-buru dan tetap merasa dipahami saat sedang sibuk, tanpa tanggung jawab menjadi kabur.
+Acceptable risk
+Jadwal boleh bergeser selama perubahan atau hasil yang belum selesai dikabarkan sejak awal di grup, dengan bantuan dan batas waktunya disepakati jelas.
+Evidence threshold
+Hasil Colab untuk PPT tersedia paling lambat H-3; update progres tiap 2 hari berjalan; kendala dikabarkan lebih awal; semua bagian final paling lambat H-1 untuk pengecekan dan revisi.
+2. Feature–Benefit–Value–Outcome Chain (As Hypothesis)
+Chain berikut saya susun sebagai hipotesis yang diuji bersama Anggota A, bukan klaim pasti:
+Tenggat internal + serah terima Colab H-3 di spreadsheet → PPT tidak menunggu tanpa kepastian → Anggota A punya waktu menyusun PPT dengan tenang → Semua bagian final H-1 dan ada waktu revisi sebelum submit
+Feature: spreadsheet dengan kolom tenggat internal per bagian, komitmen hasil Colab tersedia paling lambat H-3, dan update progres satu baris setiap 2 hari.
+Benefit (Hypothesis 1): Anggota A tahu kapan bahan PPT pasti tersedia dan tidak perlu menebak progres Colab.
+Value (Hypothesis 2): PPT dikerjakan tanpa terburu-buru, dan update progres tetap rutin tanpa terasa menekan.
+Outcome (Hypothesis 3): seluruh bagian final H-1 sehingga tim punya waktu mengecek dan memperbaiki hasil sebelum submit.
+3. Dialog Percakapan, Respon & Adaptasi Solusi
+Saya: “Kalau ikut lomba lagi, cara kerja tim yang paling ideal buat kamu tuh kayak gimana? Dari cara kerja kemarin, mana yang ngebantu, mana yang malah bikin berat?”
+Anggota A: spreadsheet “ngebantu banget”, tetapi ditanya progres tiap hari “kadang terasa agak menekan”; hambatan PPT adalah “menunggu hasil Colab karena beberapa bagian PPT butuh hasil analisis dulu.”
+Refleksi: saya semula mengira kebutuhan utama Anggota A adalah fleksibilitas karena kesibukannya sendiri. Jawabannya menunjukkan bagian dari hambatannya justru berasal dari bagian saya: PPT tertahan karena hasil Colab belum pasti kapan siap. Desired state bergeser dari “jadwal yang fleksibel” menjadi “serah terima antarbagian yang pasti, dengan pemantauan yang ringan”.
+Pengecekan pemahaman: saya merangkum empat poin (tenggat internal per bagian, kepastian waktu hasil Colab, update singkat, final H-1) dan bertanya apakah sudah benar; Anggota A mengonfirmasi.
+Adaptasi solusi:
+Menambahkan kolom tenggat internal per bagian di spreadsheet.
+Saya berkomitmen hasil Colab yang dibutuhkan PPT tersedia paling lambat H-3 sebelum deadline.
+Check-in harian diganti update progres setiap 2 hari dengan format satu baris: sudah apa, sedang mengerjakan apa, ada kendala atau tidak.
+Hasil & State Shift: Anggota A menyetujui keempat poin dan target final H-1, dengan menilai usulan ini “lebih jelas dari cara kerja kita kemarin.” State bergerak dari Interest ke Desire: Anggota A melihat kondisi ideal yang ia rumuskan sendiri tercermin dalam solusi.
+4. Pengelolaan Risiko & Safeguard
+Risiko utama: jadwal fleksibel kembali membuat pekerjaan menumpuk, atau hasil Colab terlambat sehingga PPT tertahan lagi.
+Safeguard: tenggat internal per bagian tercatat di spreadsheet, serah terima Colab H-3 menjadi batas yang saya pegang, dan setiap perubahan jadwal atau hasil yang belum selesai dikabarkan sejak awal di grup dengan bantuan serta batas waktunya disepakati jelas.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya memakai bahasa dan kriteria Anggota A sendiri (terstruktur tetapi saling memahami) dan menerima bahwa sebagian hambatannya berasal dari bagian saya, bukan hanya dari kesibukannya.
+Objective & state
+Current state, desired state, value, acceptable risk, dan evidence threshold dirumuskan eksplisit dari jawaban target; state bergerak dari Interest ke Desire.
+Repertoire & language
+Pertanyaan terbuka dipakai sebelum menawarkan apa pun, lalu jawaban dirangkum dan dikonfirmasi; chain disajikan sebagai hipotesis.
+Response & adaptation
+Temuan soal ketergantungan pada hasil Colab dan tekanan check-in harian mengubah mekanisme solusi: ada serah terima H-3 dan frekuensi update diturunkan menjadi 2 hari dengan format satu baris.
+Agreement/action
+Disepakati empat poin cara kerja dan target final H-1 untuk lomba berikutnya, dengan angka yang bisa dicek.
+Relationship outcome
+Anggota A ikut merumuskan aturan kerjanya sendiri, sehingga cara kerja baru terasa sebagai kesepakatan bersama, bukan aturan dari saya.
+Penggunaan AI
+AI (Claude) digunakan untuk menyusun draf pertanyaan pembuka dan pesan rangkuman yang saya kirim ke Anggota A, serta merapikan hasil percakapan ke format portofolio. Isi jawaban, angka H-3, frekuensi 2 hari, dan target H-1 berasal dari percakapan dengan Anggota A, bukan dari AI. AI tidak saya pakai untuk memperkirakan dampak atau persentase penghematan waktu, karena cara kerja baru ini belum diuji di lomba berikutnya.
+Feedback dan tindak lanjut
+Feedback yang diterima: Anggota A meminta agar setiap perubahan jadwal atau hasil yang belum selesai dikabarkan sejak awal oleh semua anggota, supaya pembagian tugas tetap jelas tetapi masih fleksibel.
+Adaptation/replay: permintaan itu saya terapkan juga pada bagian saya sendiri: jika hasil Colab berisiko lewat dari H-3, saya kabarkan di grup lebih dulu, bukan hanya menunggu laporan dari anggota lain.
+Next practice: sebelum menetapkan solusi, petakan dulu ketergantungan antarbagian dan tanyakan ke setiap anggota bagian mana yang membuat mereka menunggu, termasuk yang berasal dari bagian saya sendiri.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Desired state memakai bahasa dan kriteria Anggota A; saya mengakui bagian saya sebagai salah satu sumber hambatan.
+Objective & State
+4
+Current state, desired state, value, acceptable risk, dan evidence threshold eksplisit; state bergerak ke Desire.
+Repertoire, Language & AI
+4
+Pertanyaan terbuka, rangkuman yang dikonfirmasi, dan chain sebagai hipotesis; AI dibatasi pada draf pesan tanpa klaim angka.
+Response & Adaptation
+4
+Jawaban target mengubah mekanisme solusi secara substantif: serah terima Colab H-3 dan update 2 hari satu baris.
+Agreement, Action & Relationship
+4
+Empat poin dan target final H-1 disepakati dengan ukuran yang bisa dicek; target ikut merumuskan aturan sehingga relasi semakin setara.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-09.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

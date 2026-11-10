@@ -1,0 +1,199 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1106
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character (Lengkap 5 Domain)
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character (Lengkap 5 Domain)
+Domain dan character
+Person & relationship
+Objective & responsibility (Tanggung Jawab)
+Repertoire & language
+Risiko
+Intra-Self — Reflective Learner
+Diri sendiri saat evaluasi tugas
+Tanggung Jawab: Mengevaluasi kinerja pribadi secara objektif, merawat mental, dan memisahkan hasil kerja dari harga diri (self-worth).
+Self-talk positif, evaluasi logis; “Apa yang bisa diperbaiki di masa depan?”
+Jatuh ke dalam victim mentality (merasa jadi korban) atau perfeksionisme berlebih saat gagal.
+Family/Friends — Kakak/Teman Curhat
+Adik kandung (Bening) dan sahabat
+Tanggung Jawab: Memberikan dukungan emosional, menjaga kehangatan, dan menjadi teladan tanpa harus selalu menyuapi solusi.
+Listening, empati, nada kasual; “Kamu lagi mau didengerin atau mau cari solusi?”
+Sering refleks memotong obrolan untuk memberi ceramah/solusi (merasa paling tahu).
+Work — Anggota Kepanitiaan
+Rekan satu divisi HMIF
+Tanggung Jawab: Memastikan tugas operasional/data selesai sesuai deadline dan menyelaraskan pembagian kerja tim.
+Asertif, bertanya hambatan, check-in; “Kira-kira bagian ini realistis selesai kapan?”
+Terdengar terlalu bossy (menuntut hasil) dan mengabaikan beban atau kendala fisik rekan kerja.
+Community — Mentor
+Mentee (peserta bimbingan debat)
+Tanggung Jawab: Membangun kepercayaan diri peserta dan mentransfer ilmu pemahaman logika secara runut.
+Analogi sederhana, dorongan, memancing jawaban; “Coba baca baris ini, menurutmu errornya di mana?”
+Terlalu dominan berbicara (spoon-feeding), sehingga mentee tidak mandiri dalam memecahkan masalah.
+Public — Anggota Masyarakat
+Pengguna media sosial / Publik luas
+Tanggung Jawab: Berkontribusi informasi positif secara objektif, serta menjaga etika tanpa memicu konflik di ruang publik.
+Bahasa sopan, objektif, netral, mengedepankan verifikasi fakta (anti-hoax).
+Terpancing emosi (flaming/cyberbullying) saat berdebat dengan anonim (troll) di internet.
+Konteks performance
+Tanggal dan setting: September 2026, dokumentasi perbandingan komunikasi via grup chat (WhatsApp) untuk membuktikan pergeseran bahasa antar-karakter.
+Persons dan relationship: Pel (saya) berinteraksi dengan Rekan Panitia (Work), Sahabat (Family/Friends), dan Mentee (Community).
+Objective dan initial state: - Objective: Membuktikan kemampuan mengubah respons dan bahasa (dari menuntut hasil menjadi empati atau edukasi) tergantung dari peran/karakter yang sedang dimainkan di domain yang berbeda. - Initial state: Mengalami situasi di mana lawan bicara mengalami kendala/keterlambatan, dan saya harus menyesuaikan cara bicara agar sesuai dengan objective masing-masing karakter.
+Evidence
+Bukti Artefak Percakapan: Pergeseran Bahasa Lintas Domain
+1. Domain Work (Karakter: Anggota Kepanitiaan) Konteks: Rekan panitia terlambat mengirim data HMIF. > Pel: “Halo, aku cek di Drive laporannya belum masuk ya. Boleh di-share apa ada kendala teknis atau butuh bantuan?” > Rekan: “Maaf banget, aku lagi ada kuis mendadak jadi belum rapihin.” > Pel: “Oke, berarti kendalanya di waktu ya. Gimana kalau kamu drop raw datanya sekarang, nanti aku bantu format biar kita tetap on track?” (Bahasa: Semi-formal, asertif, fokus pada solusi tugas).
+2. Domain Family/Friends (Karakter: Sahabat/Teman Curhat) Konteks: Sahabat curhat karena belum selesai mengerjakan tugas kuliahnya dan merasa burn out. > Sahabat: “Pel, gw belum ngerjain tugas sama sekali gila, capek banget hidup wkwk.” > Pel: “Waduh, lagi capek banget ya lo? Gapapa napas dulu aja. Lo lagi pengen didengerin doang buat ngeluh, atau mau gw bantuin cari cara biar tugasnya cepet beres?” (Bahasa: Kasual, empati tinggi, fokus pada kondisi emosional lawan bicara).
+3. Domain Community (Karakter: Mentor) Konteks: Mentee kebingungan memahami logika coding di sesi mentoring. > Mentee: “Kak, aku stuck di bagian error ini dari tadi, nyerah deh.” > Pel: “Coba kita lihat bareng ya. Wajar kok kalau error di bagian situ, aku dulu juga gitu. Coba kamu baca lagi baris ke-10, kira-kira menurut kamu yang bikin sistemnya bingung apa?” (Bahasa: Suportif, edukatif, memancing jawaban dengan pertanyaan terbuka).
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya berhasil memposisikan diri secara berbeda sesuai tanggung jawab di 5 domain: sebagai eksekutor di kepanitiaan, pendengar yang aman bagi keluarga/sahabat, fasilitator bagi mentee, evaluasi untuk diri sendiri (intra-self), dan komunikator objektif di publik.
+Objective & state
+State awal lawan bicara yang tertekan berhasil diubah menjadi lebih tenang karena saya menggunakan language yang tepat untuk masing-masing objective peran.
+Repertoire & language
+Terdapat pergeseran bahasa yang eksplisit di evidence lintas domain.
+Response & adaptation
+Saya beradaptasi dari sekadar menuntut hasil (work) menjadi respons yang tailor-made (curhat atau edukasi) sesuai kapasitas lawan bicara.
+Agreement/action
+Kesepakatan tercapai di setiap domain: data panitia terformat, sahabat merasa tervalidasi, dan mentee kembali mau mencoba menganalisis error.
+Relationship outcome
+Relasi tetap terawat di berbagai domain karena lawan bicara merasa direspons sesuai porsi kedekatan dan kebutuhan mereka.
+Penggunaan AI
+Saya menggunakan AI (Gemini) untuk menstrukturisasi draft Lembar Kerja dan merapikan format tabel markdown. Seluruh pengisian matriks 5 karakter, definisi tanggung jawab, mitigasi risiko, serta transkrip percakapan dunia nyata murni hasil observasi saya pribadi di lapangan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Lawan bicara dari berbagai domain merespons positif. Rekan panitia kooperatif memberikan data mentah, sahabat lebih tenang curhat, dan mentee kembali mandiri (self-reliant) menganalisis program.
+Adaptation/replay: Saya menyadari bahwa kepribadian dasar saya yang berorientasi tugas (task-oriented) harus ditekan secara kuat saat memegang peran sebagai teman/kakak dan mentor.
+Next practice: Saat ada masalah lintas peran, saya akan selalu melakukan jeda 3 detik untuk bertanya pada diri sendiri: “Di domain mana saya sedang berada dan risiko (harm) apa yang terjadi jika saya salah menggunakan bahasa?” sebelum membalas pesan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Pemetaan 5 karakter (lengkap 5 domain) jelas merinci objective, responsibility dan risiko nyata tiap peran.
+Objective & State
+4
+State awal yang tertekan berhasil diubah menuju solusi di berbagai domain.
+Repertoire, Language & AI
+4
+Perbedaan language dibuktikan lewat transkrip nyata lintas domain, AI terdeklarasi sebagai alat formatasi.
+Response & Adaptation
+4
+Sangat adaptif mengubah nada bicara (dari penyelesai masalah menjadi pendengar berempati).
+Agreement, Action & Relationship
+4
+Kesepakatan di tiga domain tercapai berkat pengenalan peran yang tepat.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#lima-character-lengkap-5-domain
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-01.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

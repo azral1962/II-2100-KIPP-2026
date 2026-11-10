@@ -1,0 +1,178 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 967
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP 2026
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identitas & Kompetensi Target
+Attention Evidence & Problem–Solution Link
+Rangkuman Bukti Attention (Lanjutan Minggu 6)
+Solusi Hipotesis & Matriks Link Masalah–Solusi
+Transkrip Dialog Utama (Demonstrasi & Tanggapan Target)
+Analisis Hidden Concern & Adaptasi Mekanisme
+Identifikasi Kekhawatiran Tersembunyi (Hidden Concern)
+Adaptasi Mekanisme Komunikasi
+Evidence Package (Verbatim Peer Feedback)
+Catatan Deklarasi Penggunaan AI
+Peranti AI digunakan secara general sebatas untuk membantu menyusun kata-kata, merapikan struktur tata bahasa, serta memformat penyajian Markdown agar sesuai dengan templat portofolio[cite: 1]. Seluruh dinamika negosiasi, hambatan wewenang, keputusan teknis, transkrip dialog, dan data transaksi yang dilaporkan murni merupakan pengalaman nyata pribadi di lapangan tanpa rekayasa AI
+Self-Assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Identitas & Kompetensi Target
+Nama & NIM: Olsen Danilson Sitohang (18225061)
+Kelas: K1 Sistem dan Teknologi Informasi
+Kompetensi Target: Menghubungkan mekanisme solusi (solution mechanism) dengan masalah, manfaat langsung (benefit), dan nilai relasional (value) yang relevan untuk memunculkan minat (Interest) tanpa terjebak feature dumping.
+Attention Evidence & Problem–Solution Link
+Rangkuman Bukti Attention (Lanjutan Minggu 6)
+Hasil observasi terkonfirmasi bersama Staf Kasir Stan Kantin Kampus ITB (Mbak Maya) menunjukkan bahwa pada jam sibuk (11.30–12.30 WIB): - Terjadi rata-rata 14 antrean pembeli dengan waktu tunggu 18 menit. - 1 dari 10 pesanan (sekitar 9,37%) mengalami kesalahan/klarifikasi ulang ke dapur akibat nota manual yang ditulis terburu-buru. - Target telah mengakui masalah ini (Attention) dan sepakat bahwa penumpukan nota serta interupsi dapur menyita energi operasional.
+Solusi Hipotesis & Matriks Link Masalah–Solusi
+Masalah Terkonfirmasi
+Mekanisme Solusi (Mechanism)
+Manfaat Langsung (Benefit)
+Nilai Relasional (Value)
+Nota manual sering terselip/salah dibaca dapur saat jam sibuk.
+Layar draf pesanan kasir 1-klik yang terhubung langsung ke monitor dapur tanpa kertas nota.
+Kasir tidak perlu menulis ulang nota dan dapur tidak perlu bertanya berulang.
+Bagi Kasir (Maya): Kerja tenang, bebas pusing interupsi dapur.
+Bagi Dapur: Urutan masak rapi & jelas.
+Bagi Pembeli: Makanan siap tepat waktu.
+Pembeli sering menyela kasir menanyakan pesanan.
+Papan status nomor pesanan dinamis (Sedang Dimasak \(\rightarrow\) Siap Diambil).
+Pembeli memantau status sendiri di layar TV antrean.
+Bagi Kasir: Bebas dari pertanyaan berulang.
+Bagi Pembeli: Kepastian waktu tanpa takut terlambat kelas.
+Transkrip Dialog Utama (Demonstrasi & Tanggapan Target)
+Berikut adalah transkrip lengkap percakapan lisan aktual/simulasi dalam bentuk teks penuh tanpa tautan luar:
+Olsen (Communicator): “Mbak Maya, menyambung obrolan kemarin tentang nota yang sering terselip pas jam sibuk 12.00, kami merancang mekanisme draf pesanan 1-klik di tablet kasir. Begitu Mbak tekan nomor menu, pesanan langsung tampil di monitor dapur dan nomor antrean otomatis muncul di layar TV luar. Jadi Mbak nggak perlu nulis kertas nota lagi dan nggak akan diganggu pertanyaan mahasiswa. Bolehkah kita coba peragakan alur 30 detik ini?”
+Mbak Maya (Kasir): “Wah, kalau nggak usah nulis kertas lagi sih enak banget dek. Tapi bentar, kalau mati listrik atau koneksi Wi-Fi kantin putus gimana? Apa kasirnya bakalan macet total nggak bisa jualan?”
+Olsen (Communicator): “Pertanyaan yang sangat krusial, Mbak Maya. Untuk mengantisipasi itu, sistem ini punya mode offline-first. Jika Wi-Fi putus, tablet otomatis menyimpan data secara lokal dan mencetak struk cadangan tanpa internet. Kasir tetap bisa jualan 100% lancar. Selain itu, jika tablet bermasalah, buku nota manual Mbak tetap siaga di samping kasir sebagai backup utama.”
+Mbak Maya (Kasir): “Oh, begitu… Jadi kalau jaringan hilang tetap bisa jalan ya. Boleh deh, coba tunjukin tampilan tombol kasirnya seberapa cepat kalau saya mau tekan pesanan Nasi Ayam.”
+Olsen (Communicator): (Mendemonstrasikan prototipe layar 1-klik) “Di sini Mbak cukup tekan gambar Nasi Ayam, lalu tekan ‘Simpan’. Dalam 1 detik nomor antrean 05 keluar. Boleh Mbak coba tekan sendiri?”
+Mbak Maya (Kasir): (Mencoba menekan layar) “Eh iya, cepat juga ya, cuma dua kali tekan. Kalau boleh tahu, tombolnya bisa dibikin lebih besar nggak ya biar pas jam sibuk jari saya nggak salah tekan?”
+Analisis Hidden Concern & Adaptasi Mekanisme
+Identifikasi Kekhawatiran Tersembunyi (Hidden Concern)
+Awalnya komunikator menduga kekhawatiran utama kasir adalah kecepatan sistem. Namun melalui pertanyaan target (“kalau mati listrik atau Wi-Fi putus gimana?” dan “tombolnya bisa dibikin lebih besar nggak?”), terungkap bahwa hidden concern target adalah: 1. Keandalan operasional (reliability): Takut sistem digital lumpuh saat jaringan terputus. 2. Kenyamanan fisik pengguna (usability): Takut terjadi salah tekan tombol karena ukuran antarmuka terlalu kecil saat melayani pembeli dengan cepat.
+Adaptasi Mekanisme Komunikasi
+Menurunkan Klaim & Memberikan Jaminan Cadangan: Menjelaskan fitur offline-first dan menjamin bahwa buku nota manual tetap berada di meja kasir sebagai backup utama tanpa gengsi teknologi.
+Penyesuaian Antarmuka (UX): Mengubah tata letak tombol menu utama menjadi ukuran extra-large berbasis warna kategori makanan untuk mencegah typo input.
+Sinyal Minat (Interest Signal): Target bergeser dari ragu (attention with reservation) menjadi penasaran (Interest) yang ditandai dengan mencoba langsung prototipe dan memberikan usulan perbaikan (“tombolnya bisa dibikin lebih besar nggak?”).
+Evidence Package (Verbatim Peer Feedback)
+Bukti percakapan umpan balik rekan (peer feedback) dalam bentuk teks penuh tanpa tautan luar:
+Umpan Balik Observer (Rian): “Ketika Olsen menjawab pertanyaan tentang Wi-Fi putus dengan memberikan jaminan bahwa buku nota manual tetap ditaruh di meja kasir sebagai backup, saya mengamati raut wajah Mbak Maya langsung rileks dan mengangguk lega. Hal itu menunjukkan bahwa hidden concern kasir tentang risiko sistem macet berhasil ditangani dengan jujur. Target menunjukkan sinyal Interest nyata saat ia secara sukarela mencoba menekan prototipe dan meminta ukuran tombol diperbesar.”
+Catatan Deklarasi Penggunaan AI
+Peranti AI digunakan secara general sebatas untuk membantu menyusun kata-kata, merapikan struktur tata bahasa, serta memformat penyajian Markdown agar sesuai dengan templat portofolio[cite: 1]. Seluruh dinamika negosiasi, hambatan wewenang, keputusan teknis, transkrip dialog, dan data transaksi yang dilaporkan murni merupakan pengalaman nyata pribadi di lapangan tanpa rekayasa AI
+Self-Assessment
+Dimensi Penilaian
+Skor
+Evidence Singkat
+Person & Character
+3
+Karakter kasir (Maya) dipahami dari aspek kerumitan input dan ketakutan akan kegagalan sistem.
+Objective & State
+4
+State target teramati bergeser dari ragu menjadi Interest aktif (mencoba prototipe & memberi masukan UX).
+Repertoire, Language & AI
+4
+Menggunakan layered communication (masalah \(\rightarrow\) mekanisme 1-klik \(\rightarrow\) demo 30 detik), bebas jargon teknis.
+Response & Adaptation
+4
+Menangkap hidden concern tentang jaringan dan merespons jujur dengan solusi offline-first & backup manual.
+Agreement, Action & Relationship
+3
+Disepakati uji coba terbatas 5 transaksi dan penyesuaian ukuran tombol tanpa merusak rasa aman target.
+Total: 18/20 — Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP 2026
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#identitas-kompetensi-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#attention-evidence-problemsolution-link
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#rangkuman-bukti-attention-lanjutan-minggu-6
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#solusi-hipotesis-matriks-link-masalahsolusi
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#transkrip-dialog-utama-demonstrasi-tanggapan-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#analisis-hidden-concern-adaptasi-mekanisme
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#identifikasi-kekhawatiran-tersembunyi-hidden-concern
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#adaptasi-mekanisme-komunikasi
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#evidence-package-verbatim-peer-feedback
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#catatan-deklarasi-penggunaan-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#peranti-ai-digunakan-secara-general-sebatas-untuk-membantu-menyusun-kata-kata-merapikan-struktur-tata-bahasa-serta-memformat-penyajian-markdown-agar-sesuai-dengan-templat-portofoliocite-1.-seluruh-dinamika-negosiasi-hambatan-wewenang-keputusan-teknis-transkrip-dialog-dan-data-transaksi-yang-dilaporkan-murni-merupakan-pengalaman-nyata-pribadi-di-lapangan-tanpa-rekayasa-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

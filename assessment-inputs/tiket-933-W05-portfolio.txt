@@ -1,0 +1,203 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 933
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://g7zel.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Discovery Interview Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Discovery Interview Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Initial Assumption dan Rencana Discovery
+Potongan Transcript Wawancara & Evaluasi Teknik Bertanya
+Pembaruan Pembacaan & Perbaikan Proses di Wawancara Kedua
+Evidence, Penggunaan AI, dan Feedback
+Self-assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence Tambahan
+Discovery Interview Journal
+Fondasi
+Discovery
+Evidence penggalian akar masalah (discovery), perubahan asumsi, dan perumusan problem statement.
+Initial Assumption dan Rencana Discovery
+Saat menyusun konsep kegiatan sosial masyarakat SINEMA di sebuah panti asuhan lokal pada bulan Mei 2026, saya dan tim awalnya memiliki initial assumption (asumsi awal) bahwa adik-adik di panti asuhan paling membutuhkan sesi motivasi akademik serta pelatihan keterampilan teknologi dasar (seperti pengenalan komputer/presentasi edukatif selama 2 jam) agar mereka memiliki bekal belajar seperti siswa di luar.
+Sebelum mengunci susunan acara (rundown) dan mencetak modul materi, saya melakukan dua tahap wawancara discovery: pertama dengan Ibu Rini (pengurus pendamping harian panti) pada 28 April, dan kedua dengan Kang Deden (pendamping remaja putra panti) pada 30 April.
+Pertanyaan utama (Discovery): 1. Bagaimana rutinitas harian dan respon adik-adik sepulang sekolah terhadap acara kunjungan mahasiswa sebelumnya? 2. Pada bagian acara mana adik-adik biasanya mulai kehilangan fokus atau merasa kurang nyaman? 3. Hal apa yang sebenarnya paling mereka butuhkan atau senangi dari kehadiran kakak-kakak mahasiswa? 4. Batasan (constraint) apa yang sangat penting untuk kami jaga selama berinteraksi dengan adik-adik lintas usia (SD–SMA)?
+Potongan Transcript Wawancara & Evaluasi Teknik Bertanya
+Fayza: “selamat pagi bu rini, saya fayza dari panitia SINEMA ITB… awalnya kami berencana mengadakan sesi materi motivasi belajar dan pengenalan teknologi pakai slide sekitar 2 jam. kalau dari pengalaman kunjungan mahasiswa sebelumnya, respon adik-adik kalau ada sesi kelas seperti itu bagaimana ya bu?” Ibu Rini: “pagi neng fayza. aduh neng, jujur aja ya kalau disuruh duduk dengerin materi slide 2 jam mah biasanya baru 20 menit anak-anak yang SD udah pada ngantuk dan lari-larian. mereka kan dari senin sampai sabtu siang udah capek duduk terus di sekolah” Fayza (Beralih ke Open Question Murni): “oalah begitu ya bu.. berarti mereka sebenarnya sudah jenuh kalau formatnya duduk mendengarkan materi lagi. kalau di keseharian mereka sendiri, hal apa yang paling mereka butuhkan atau senangi saat ada kakak-kakak mahasiswa yang datang berkunjung bu?” Ibu Rini: “mereka itu di sini bareng-bareng terus, tapi karena pengurusnya terbatas, mereka jarang dapet perhatian personal yang diajak ngobrol satu-satu atau bikin prakarya bareng. kadang kalau ada tamu datang cuma kasih ceramah terus bagi bingkisan dan foto-foto, anak-anak ngerasa kayak jadi objek acara aja, bukan diajak main sebagai kakak-adik” Fayza (Paraphrase & Menggali Constraint): “wah insight yang berharga sekali bu. berarti intinya bukan soal kurang materi pelajaran, tapi mereka butuh ruang interaksi personal yang hangat dan aktivitas berkarya bareng supaya tidak terasa berjarak ya bu? kalau untuk batasannya sendiri, hal apa yang paling perlu kami hindari selama kegiatan nanti bu?” Ibu Rini: “betul pisan neng. sama satu lagi batasannya: di sini usianya campur dari kelas 2 SD sampai SMA, jadi jangan bikin lomba yang terlalu kompetitif dan ngebandingin kepintaran akademik, soalnya yang kecil atau yang nilainya lagi turun suka langsung minder. harus kegiatan yang semua umur bisa ikut berhasil bareng”
+Pembaruan Pembacaan & Perbaikan Proses di Wawancara Kedua
+Dari wawancara pertama bersama Ibu Rini, asumsi awal “seminar slide 2 jam” patah total karena tiga masalah nyata di lapangan: (1) kelelahan duduk pascasekolah Senin–Sabtu, (2) kurangnya perhatian personal akibat rasio pengurus terbatas yang membuat anak merasa jadi “objek acara”, dan (3) rentang usia SD–SMA yang rentan minder jika dihadapkan pada kompetisi akademik.
+Refleksi Kritis & Perbaikan Langsung (Self-Correction): Saat meninjau ulang chat saya dengan Ibu Rini hingga pukul 10:33:40, saya menyadari dua kelemahan metode saya: 1. Pada pesan pertama (10:15:10), saya terlanjur menyebutkan rencana solusi kami (“slide 2 jam”). Untungnya Ibu Rini berani membantah, namun di wawancara berikutnya saya tidak boleh mengulangi ini. 2. Pada pukul 10:30:50–10:33:40, saya menggabungkan konfirmasi problem statement dengan usulan solusi (“prakarya kelompok kecil”), sehingga balasan Ibu Rini (10:33:40) lebih mengomentari solusinya daripada memvalidasi rumusan masalahnya. Oleh karena itu, pada pukul 10:35:15 saya mengirim satu chat klarifikasi tambahan khusus untuk mengunci rumusan masalahnya (dan Ibu Rini menambahkan detail penting soal anak yang pendiam/pemalu).
+Penerapan Perbaikan pada Wawancara Discovery ke-2 (Kang Deden — 30 April 2026): Belajar dari evaluasi wawancara pertama, saat mewawancarai Kang Deden (pengasuh remaja putra SMP–SMA) dua hari kemudian, saya sama sekali tidak menyebutkan ide kegiatan/solusi di awal, melainkan murni menanyakan pengalaman masa lalu remaja panti. Hasilnya, muncul temuan baru: remaja SMP–SMA sering menarik diri dan merasa gengsi jika digabung begitu saja dengan anak kelas 2 SD tanpa diberi peran tanggung jawab sebagai “kakak bantu”.
+Shared problem statement final (rumusan awal dikonfirmasi Ibu Rini dengan satu tambahan; unsur remaja SMP–SMA berasal dari Kang Deden dan belum dikonfirmasi ulang): > “Anak-anak panti asuhan dengan rentang usia beragam (SD hingga SMA) dan karakter kepercayaan diri yang berbeda membutuhkan ruang interaksi personal yang hangat, melibatkan aktivitas tangan bersama, dan menghargai peran usia remaja tanpa kompetisi akademik, karena format acara kunjungan satu arah pascasekolah membuat mereka jenuh, merasa dijadikan objek acara, serta membuat anak yang pendiam maupun remaja SMP–SMA menarik diri.”
+Evidence, Penggunaan AI, dan Feedback
+Evidence: Transkrip wawancara pertama dengan Ibu Rini (28 April) beserta chat konfirmasi khusus problem statement (10:35:15), dan transkrip wawancara kedua yang bebas leading question bersama Kang Deden (30 April).
+Penggunaan AI: Saya menggunakan AI setelah wawancara pertama untuk mengkritisi transkrip saya sendiri—AI membantu menunjukkan bahwa pesan saya pada 10:30:50 dan 10:32:05 mencampuradukkan validasi masalah dengan pitching solusi, yang kemudian mendorong saya melakukan konfirmasi ulang dan memperbaiki teknik wawancara saya kepada Kang Deden.
+Batasan & next step: Kedua narasumber adalah pengasuh, belum ada suara anak-anak sendiri, dan rumusan final belum dikonfirmasi ulang oleh keduanya. Langkah berikutnya: mengirim rumusan final kepada Ibu Rini dan Kang Deden untuk dikonfirmasi tertulis.
+Self-assessment
+Dimensi
+Skor
+Alasan / Evidence Singkat
+Person & Character
+3
+Kondisi anak-anak dipetakan lewat dua pengasuh (kelelahan, usia SD–SMA, anak pendiam, gengsi remaja), belum ada suara anak sendiri.
+Objective & State
+4
+Asumsi seminar IT bergeser total menjadi rumusan masalah interaksi personal lintas usia.
+Repertoire, Language & AI
+4
+Kelemahan pesan pembuka wawancara 1 diakui jujur, lalu wawancara 2 dibuka dengan pertanyaan terbuka tanpa menyebut solusi.
+Response & Adaptation
+4
+Konsep acara diadaptasi sekaligus teknik wawancara diperbaiki dengan memisahkan validasi masalah dari usulan solusi.
+Agreement, Action & Relationship
+3
+Ibu Rini mengonfirmasi rumusan masalah awal dengan satu tambahan, tetapi rumusan final belum dikonfirmasi ulang oleh Ibu Rini maupun Kang Deden.
+Total: 18/20.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence Tambahan
+Catatan privasi: sebagian jam dan menit pada log chat disamarkan demi privasi. Isi pesan dikutip langsung dari percakapan; karena itu klaim durasi pada dokumen ini bersifat perkiraan.
+1. Transkrip Chat Wawancara Discovery 1 bersama Ibu Rini (28 April 2026 — Teks Asli Utuh + Konfirmasi Khusus Problem Statement): > [28/04/26, 10:15:10] Fayza: selamat pagi bu rini, saya fayza dari panitia SINEMA ITB. izin berdiskusi sebentar bu terkait persiapan kunjungan kami bulan depan. awalnya kami berencana mengadakan sesi materi motivasi belajar dan pengenalan teknologi pakai slide sekitar 2 jam. kalau dari pengalaman kunjungan mahasiswa sebelumnya, respon adik-adik kalau ada sesi kelas seperti itu bagaimana ya bu? > [28/04/26, 10:18:45] Ibu Rini (Pengurus Panti): pagi neng fayza. aduh neng, jujur aja ya kalau disuruh duduk dengerin materi slide 2 jam mah biasanya baru 20 menit anak-anak yang SD udah pada ngantuk dan lari-larian. mereka kan dari senin sampai sabtu siang udah duduk terus di sekolah > [28/04/26, 10:20:30] Fayza: oalah begitu ya bu.. berarti mereka sebenarnya sudah jenuh kalau formatnya duduk mendengarkan materi lagi. kalau di keseharian mereka sendiri, hal apa yang paling mereka butuhkan atau senangi saat ada kakak-kakak mahasiswa yang datang berkunjung bu? > [28/04/26, 10:23:50] Ibu Rini (Pengurus Panti): mereka itu di sini bareng-bareng terus, tapi karena pengurusnya terbatas, mereka jarang dapet perhatian personal yang diajak ngobrol satu-satu atau bikin prakarya bareng. kadang kalau tamu datang cuma kasih ceramah terus bagi bingkisan dan foto-foto, anak-anak ngerasa kayak jadi objek acara aja, bukan diajak main sebagai kakak-adik > [28/04/26, 10:25:40] Fayza: wah insight yang berharga sekali bu. berarti intinya bukan soal kurang materi pelajaran, tapi mereka butuh ruang interaksi personal yang hangat dan aktivitas berkarya bareng supaya tidak terasa berjarak ya bu? kalau untuk batasannya sendiri, hal apa yang paling perlu kami hindari selama kegiatan nanti bu? > [28/04/26, 10:28:15] Ibu Rini (Pengurus Panti): betul pisan neng. sama satu lagi batasannya: di sini usianya campur dari kelas 2 SD sampai SMA, jadi jangan bikin lomba yang terlalu kompetitif dan ngebandingin kepintaran akademik, soalnya yang kecil atau yang nilainya lagi turun suka langsung minder. harus kegiatan yang semua umur bisa ikut berhasil bareng > [28/04/26, 10:30:50] Fayza: baik bu rini, terima kasih banyak sudah meluruskan asumsi awal kami. berarti kalau rumusan kebutuhan acaranya kami kunci seperti ini sudah tepat ya bu: “Adik-adik di panti dengan rentang usia SD hingga SMA membutuhkan kegiatan yang interaktif, melatih kreativitas tangan, dan memberikan pendampingan personal dalam kelompok kecil tanpa adu kepintaran akademik, karena format ceramah satu arah membuat mereka jenuh dan merasa berjarak.” > [28/04/26, 10:32:05] Fayza: untuk solusinya nanti sesi slide 2 jam kami hapus total bu, kami ganti jadi bikin prakarya tangan bareng di kelompok-kelompok kecil (1 kakak mendampingi 3 adik). bagaimana menurut ibu? > [28/04/26, 10:33:40] Ibu Rini (Pengurus Panti): alhamdulillah nah kalau konsepnya begitu mah pas banget neng fayza! anak-anak pasti seneng banget kalau diajak bikin karya bareng kakak-kakaknya langsung > [28/04/26, 10:35:15] Fayza: syukurlah bu. oh iya bu, untuk rumusan akar masalahnya sendiri di luar bentuk prakaryanya tadi, apakah menurut ibu sudah ada yang kelewat gak ya dari kondisi psikologis anak-anak saat menerima tamu? > [28/04/26, 10:37:02] Ibu Rini (Pengurus Panti): untuk akar masalahnya udah bener banget karena kecapekan sekolah sama ngerasa jadi objek acara kalau satu arah, paling tambahin satu catatan aja neng di rumusan masalahnya: anak-anak yang sifatnya pendiam/pemalu suka makin tenggelam kalau acaranya kumpul satu panggung besar. selebihnya udah pas pisan
+2. Transkrip Chat Wawancara Discovery 2 bersama Kang Deden — Murni Non-Leading (30 April 2026): > [30/04/26, 16:05:12] Fayza: selamat sore kang deden, saya fayza dari panitia SINEMA ITB. izin ngobrol sebentar kang, sebelum kami memfinalkan rancangan kegiatan bulan depan, boleh diceritakan kang kalau dari pengalaman kunjungan tamu sebelumnya, gimana biasanya reaksi anak-anak asrama putra yang udah usia SMP dan SMA? > [30/04/26, 16:08:40] Kang Deden (Pengasuh Putra): sore teh fayza. kalau anak-anak SMP sama SMA mah selain gampang bosen dengerin sambutan lama-lama, kendala utamanya tuh mereka suka gengsi teh kalau disuruh gabung kegiatan yang kelihatannya “anak kecil banget” bareng adik-adik kelas 2 SD. akhirnya mereka suka mojok di belakang ga mau ikutan > [30/04/26, 16:10:20] Fayza: oalah, jadi ada faktor gengsi usia remaja kalau kegiatannya disamaratakan persis sama anak SD ya kang. kalau di keseharian panti sendiri, gimana cara akang biasanya biar yang SMP–SMA ini mau berbaur aktif sama adik-adiknya? > [30/04/26, 16:12:55] Kang Deden (Pengasuh Putra): mereka paling seneng kalau dikasih peran tanggung jawab jadi “kakak bantu” di tiap kelompok teh. jadi mereka ngerasa dihargai sebagai anak gede yang ikut bantuin kakak mahasiswanya ngarahin adik-adik SD, bukan diperlakukan kayak peserta anak kecil > [30/04/26, 16:14:30] Fayza: wah makasih banyak kang deden! berarti rumusan masalah kami kemarin makin lengkap sekarang: selain menghindari acara satu arah dan kompetisi akademik, kami harus memastikan remaja SMP–SMA tidak merasa disamakan dengan anak kecil dengan melibatkan mereka sebagai pendamping bersama kami. hatur nuhun pisan kang!
+CatatanPenilaian Asesor
+Skor: - / 20 Evidence yang mendukung: - Prioritas perbaikan: - Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Portfolio KIPP-2 · Fayza Kamilia
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://g7zel.github.io/kipp-students/index.html
+- https://g7zel.github.io/kipp-students/assets/logo.png
+- https://g7zel.github.io/kipp-students/course/index.html
+- https://g7zel.github.io/kipp-students/portfolio/index.html
+- https://g7zel.github.io/kipp-students/examples/index.html
+- https://g7zel.github.io/kipp-students/lk/index.html
+- https://g7zel.github.io/kipp-students/slides.html
+- https://g7zel.github.io/kipp-students/slides-pdf/index.html
+- https://g7zel.github.io/kipp-students/assessment/index.html
+- https://g7zel.github.io/kipp-students/about.html
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html
+- https://g7zel.github.io/kipp-students/portfolio/week-03.html
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html
+- https://g7zel.github.io/kipp-students/portfolio/week-06.html
+- https://g7zel.github.io/kipp-students/portfolio/week-07.html
+- https://g7zel.github.io/kipp-students/portfolio/week-08.html
+- https://g7zel.github.io/kipp-students/portfolio/week-09.html
+- https://g7zel.github.io/kipp-students/portfolio/week-10.html
+- https://g7zel.github.io/kipp-students/portfolio/week-11.html
+- https://g7zel.github.io/kipp-students/portfolio/week-12.html
+- https://g7zel.github.io/kipp-students/portfolio/week-13.html
+- https://g7zel.github.io/kipp-students/portfolio/week-14.html
+- https://g7zel.github.io/kipp-students/portfolio/week-15.html
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#initial-assumption-dan-rencana-discovery
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#potongan-transcript-wawancara-evaluasi-teknik-bertanya
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#pembaruan-pembacaan-perbaikan-proses-di-wawancara-kedua
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#evidence-penggunaan-ai-dan-feedback
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#self-assessment
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#konteks-performance
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#evidence
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#analisis-komunikasi
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#penggunaan-ai
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#feedback-dan-tindak-lanjut
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#self-assessment-1
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#assessment-dosen
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html#evidence-tambahan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,225 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 997
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Action & Agreement Challenge
+TAIDA
+Action
+Desire–action gap, authority map, negosiasi opsi timeline, agreement eksplisit dengan owner dan tenggat internal, serta spreadsheet pembagian tugas sebagai action evidence untuk lomba Interactive Dashboard Creation.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas.
+Agreement dengan owner/deadline serta bukti action atau review.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Kamis, 29 Oktober 2026, diskusi di chat grup tim lomba Data Science, sebagai lanjutan percakapan pribadi dengan Anggota A pada hari yang sama (Week 9).
+Persons dan relationship: Saya (analisis di Google Colab), Anggota A (PPT), dan Anggota B (ide dan revisi), satu tim dengan posisi setara. Tim sudah dua kali lomba bersama (Maret dan Mei–Juni 2026).
+Objective dan initial state: Mengubah keinginan bersama untuk “kerja lebih terstruktur tapi fleksibel” menjadi rencana aksi dengan lomba yang pasti, owner, tenggat internal, aturan saat rencana meleset, dan jadwal review. Initial state: Desire dari Anggota A sudah terbentuk di Week 9, tetapi belum ada keputusan lomba, belum ada tenggat internal yang disepakati seluruh tim, dan Anggota B belum terlibat.
+Evidence
+Catatan1. Desire–Action Gap & Authority Map
+Anggota A sudah ingin cara kerja baru dijalankan, tetapi aksi tertahan oleh beberapa hambatan yang masing-masing punya pemegang keputusan berbeda:
+Barrier / Hambatan
+Person dengan Authority
+Respons & Syarat
+Pemilihan lomba dan deadline resmi
+Seluruh tim (konsensus)
+Dipilih berdasarkan kemampuan tim dan waktu pengerjaan: Interactive Dashboard Creation, deadline Sabtu, 28 November 2026.
+Pendaftaran tim
+Saya
+Mendaftarkan tim paling lambat Jumat, 30 Oktober 2026.
+Kerangka ide awal dan review
+Anggota B
+Kerangka ide H-5; review hasil analisis dan PPT tiap 2 hari.
+Hasil analisis Colab
+Saya
+Hasil yang dibutuhkan PPT tersedia H-5.
+Draft dan revisi PPT
+Anggota A
+Draft H-3, revisi berdasarkan masukan B paling lambat H-2.
+2. Negosiasi Opsi & Trade-off
+Target final H-1 vs H-2. H-1 memberi waktu kerja lebih panjang tetapi tidak menyisakan cadangan. Dipilih H-2 (usulan Anggota A), dengan H-1 khusus untuk cek akhir dan submit.
+Hasil Colab H-3 vs H-5. Usulan awal Anggota A adalah Colab H-3 dan draft PPT H-2, tetapi itu hanya menyisakan satu hari untuk PPT. Dipilih H-5, sehingga draft PPT bisa H-3 dan revisi H-2.
+Pembagian tugas tetap vs rotasi. Rotasi memberi pengalaman baru tetapi butuh adaptasi. Dipilih tetap (Colab, PPT, ide dan revisi) karena tiap anggota sudah tahu tugasnya dan lebih efisien.
+3. Agreement Eksplisit
+Seluruh anggota menyetujui kesepakatan berikut di chat grup:
+Scope: lomba Interactive Dashboard Creation, deadline resmi Sabtu, 28 November 2026.
+Pendaftaran: saya mendaftarkan tim paling lambat Jumat, 30 Oktober 2026.
+Owners & tenggat internal:
+Tugas
+Penanggung jawab
+Tenggat
+Status
+Kerangka ide awal
+Anggota B
+H-5 (Senin, 23 Nov 2026)
+Belum dimulai
+Hasil analisis Colab
+Saya
+H-5 (Senin, 23 Nov 2026)
+Belum dimulai
+Draft PPT
+Anggota A
+H-3 (Rabu, 25 Nov 2026)
+Belum dimulai
+Review ide dan hasil
+Anggota B
+H-2 (Kamis, 26 Nov 2026)
+Belum dimulai
+Finalisasi seluruh hasil
+Semua anggota
+H-2 (Kamis, 26 Nov 2026)
+Belum dimulai
+Pengecekan akhir dan submit
+Anggota yang ditunjuk
+H-1 (Jumat, 27 Nov 2026)
+Belum dimulai
+Update dan review: update progres tiap 2 hari dengan format satu baris (sudah apa, sedang apa, ada kendala atau tidak), sekaligus menjadi jadwal review bersama.
+Stop rule: jika hasil Colab belum siap pada tenggatnya, saya mengabarkan di grup dan PPT mulai disusun dari hasil sementara yang sudah valid, lalu diperbarui setelah analisis final selesai. Jika timeline ternyata tidak realistis, tim mengevaluasinya bersama pada review berikutnya.
+4. Action Evidence & Adaptation
+Temuan saat merangkum: usulan Anggota A berisi dua konflik: target final H-2 tetapi finalisasi “H-2 sampai H-1”, dan draft PPT H-2 hanya sehari setelah Colab H-3, padahal di Week 9 ia butuh waktu menyusun PPT tanpa buru-buru.
+Tindakan / Adaptasi: saya merangkum ulang dan mengusulkan H-1 khusus cek akhir, serta memajukan Colab ke H-5 agar PPT punya waktu. Anggota A menyetujui dan menyesuaikan tenggatnya; Anggota B menyetujui tenggat H-5 untuk kerangka ide.
+Evidence tangible: spreadsheet pembagian tugas dengan enam tugas, penanggung jawab, tenggat internal, dan status (tabel di atas) sudah dibuat dan dibagikan; Anggota B mengonfirmasi bagiannya di grup; pesan finalisasi lomba dikirim ke grup dan pendaftaran dijadwalkan paling lambat 30 Oktober 2026.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Setiap hambatan dipetakan ke pemegang keputusannya; pilihan lomba tidak saya putuskan sendiri karena itu wewenang seluruh tim, sedangkan pendaftaran saya ambil sebagai owner.
+Objective & state
+Keinginan abstrak dari Week 9 diubah menjadi struktur aksi: lomba dan deadline pasti, owner, tenggat internal bertanggal, update, review, dan stop rule.
+Repertoire & language
+Opsi dan trade-off dibahas terbuka, lalu saya merangkum ulang agar semua anggota membaca kesepakatan yang sama.
+Response & adaptation
+Konflik H-2/H-1 dan sempitnya waktu PPT saya tangkap dari usulan A sendiri, lalu tenggat Colab dimajukan ke H-5.
+Agreement/action
+Kesepakatan eksplisit disetujui ketiga anggota, dituangkan dalam spreadsheet bertanggal, dengan pendaftaran sebagai aksi pertama paling lambat 30 Oktober 2026.
+Relationship outcome
+Anggota A dan B ikut mengusulkan tenggat dan aturan sendiri, sehingga rencana terasa milik bersama, bukan perintah dari saya.
+Penggunaan AI
+AI (Claude) digunakan untuk menyusun draf pesan rangkuman ke grup dan merapikan hasil diskusi ke format portofolio. Usulan tenggat, pilihan opsi, stop rule, pilihan lomba, dan persetujuan berasal dari diskusi tim. Keputusan lomba dan pendaftaran tidak diserahkan ke AI karena itu wewenang tim.
+Feedback dan tindak lanjut
+Feedback yang diterima: Anggota A menyampaikan bahwa rangkuman membuat pembagian dan target lebih jelas; Anggota B berkomitmen mengabarkan temuan atau kendala di grup agar rencana bisa disesuaikan bersama.
+Adaptation/replay: spreadsheet dibagikan ke grup agar Anggota A memasukkan tenggat PPT-nya dan setiap anggota memperbarui status tiap 2 hari.
+Next practice: setiap kali merangkum kesepakatan, cek konsistensi antar-tenggat (apakah tiap bagian punya cukup waktu dari bagian sebelumnya) sebelum meminta persetujuan.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Authority map memisahkan keputusan tim, pendaftaran, dan tiap bagian kerja sesuai pemegangnya.
+Objective & State
+4
+Desire–action gap dijembatani dengan lomba dan deadline pasti, owner, tenggat bertanggal, update, review, dan stop rule.
+Repertoire, Language & AI
+4
+Tiga opsi dan trade-off dibahas terbuka; AI dibatasi pada draf rangkuman.
+Response & Adaptation
+4
+Konflik tenggat dari usulan target ditangkap dan diubah menjadi Colab H-5, draft PPT H-3, revisi H-2.
+Agreement, Action & Relationship
+4
+Kesepakatan disetujui tiga anggota, dituangkan dalam spreadsheet bertanggal, dengan owner pendaftaran, stop rule, dan jadwal review eksplisit.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-10.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

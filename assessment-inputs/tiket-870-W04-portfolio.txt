@@ -1,0 +1,183 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 870
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://razkuts.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima Versi
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Evidence wajib
+Lima versi untuk friend, technical peer, manager, customer, dan public.
+Alasan perubahan language dan repertoire.
+Feedback understanding dari sedikitnya satu target.
+Lima Versi
+Core meaning: Normalisasi basis data menata data supaya setiap informasi hanya disimpan di satu tempat, sehingga tidak ada data ganda yang bisa saling bertentangan.
+Target
+Versi
+Friend (beda bidang)
+“Kamu pernah punya catatan keuangan yang nama toko langganannya kamu ketik ulang di setiap baris? Terus tokonya ganti nama, kamu harus edit satu-satu dan ada aja yang kelewat. Normalisasi itu cara merapikan data biar nama toko cukup ditulis sekali di satu tempat, dan baris-baris lain tinggal nunjuk ke situ. Jadi kalau ada yang berubah, benerinnya sekali aja dan nggak ada data yang saling bertentangan.”
+Technical peer
+“Normalisasi mendekomposisi relasi berdasarkan dependensi fungsional untuk menghilangkan redundansi dan anomali insert, update, dan delete. 1NF mensyaratkan atribut atomik. 2NF menghilangkan dependensi parsial terhadap bagian dari candidate key. 3NF menghilangkan dependensi transitif atribut non-key. BCNF mensyaratkan setiap determinan merupakan superkey. Dekomposisi harus lossless-join dan idealnya dependency-preserving. Trade-off-nya, query lebih banyak memerlukan join, sehingga denormalisasi kadang dipertimbangkan untuk beban baca yang berat.”
+Manager
+“Normalisasi basis data mengurangi risiko data pelanggan atau produk yang tidak konsisten antar laporan, yang bisa menyebabkan keputusan salah dan biaya koreksi manual. Dengan data tersimpan di satu sumber, biaya pemeliharaan turun dan perubahan cukup dilakukan sekali. Jika diabaikan: laporan saling bertentangan, waktu tim habis untuk rekonsiliasi data, dan kepercayaan terhadap data internal menurun. Investasi di awal desain lebih murah daripada memperbaiki data yang sudah kacau.”
+Customer
+“Saat Anda belanja di toko online, alamat Anda dipakai oleh bagian pengiriman, penagihan, dan layanan pelanggan. Kalau Anda pindah rumah dan alamat baru hanya tercatat di satu bagian, paket bisa tetap terkirim ke alamat lama. Dengan penataan data yang rapi, alamat Anda disimpan di satu tempat dan dipakai bersama oleh semua bagian. Jadi Anda cukup memperbarui alamat sekali, dan pesanan sampai ke tempat yang benar.”
+Public
+“Saat kita mengurus layanan seperti BPJS, bank, atau pendaftaran sekolah, data kita sering dipakai di banyak bagian sekaligus. Kalau alamat kita tersimpan terpisah di tiap bagian, lalu kita pindah rumah, bisa saja satu bagian sudah berubah sementara bagian lain masih alamat lama. Akibatnya surat salah kirim atau layanan tertunda. Normalisasi adalah cara menata data supaya satu informasi hanya disimpan di satu tempat dan dipakai bersama. Hasilnya, data kita lebih akurat dan urusan lebih lancar.”
+Konteks performance
+Tanggal dan setting: 14 Oktober 2026. Latihan menerjemahkan satu konsep teknis dari mata kuliah (Normalisasi Basis Data) ke lima ragam bahasa, berdasarkan lembar kerja lk-04. Versi untuk friend saya kirim ke Azka lewat pesan untuk dimintai tanggapan.
+Persons dan relationship: Azka, sahabat saya dari program studi yang sama. Dalam latihan ini ia berperan sebagai pembaca versi friend.
+Objective dan initial state: Saya ingin makna inti konsep tetap sama di semua versi, sementara bahasanya berubah sesuai pendengar. Initial state: konsep ini saya pahami dalam jargon teknis, sehingga penjelasan tanpa jargon belum teruji.
+Evidence
+Jenis evidence: Lima versi tertulis di atas, lembar kerja lk-04, dan umpan balik Azka.
+Umpan balik dari target: Azka membaca versi friend dan menyampaikan kepada saya bahwa penjelasannya jelas. Ini ringkasan dari ucapannya, bukan kutipan persis, dan ia tidak menyebutkan bagian yang membingungkan. Hanya versi friend yang diuji ke pembaca. Empat versi lain belum diuji ke target sungguhan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Setiap versi memosisikan pendengar berbeda: sahabat sebagai teman setara, rekan teknis sebagai ahli, manajer sebagai pengambil keputusan, pelanggan sebagai pengguna layanan, dan publik sebagai masyarakat luas.
+Objective & state
+Tujuan saya konsisten di semua versi: pendengar memahami bahwa satu informasi disimpan di satu tempat. Yang berubah hanya cara membawanya.
+Repertoire & language
+Sahabat: analogi catatan keuangan dengan bahasa santai. Rekan teknis: istilah presisi (1NF sampai BCNF, lossless-join). Manajer: biaya, risiko, dan konsekuensi. Pelanggan: contoh alamat pengiriman dengan “Anda”. Publik: contoh layanan umum seperti BPJS dan bank.
+Response & adaptation
+Azka menyatakan versi friend jelas, sehingga tidak ada bagian yang saya ubah. Tidak ada fakta baru yang memaksa adaptasi, sehingga belum terlihat adaptasi nyata dari tanggapan target.
+Agreement/action
+Tidak ada kesepakatan formal. Hasilnya hanya konfirmasi bahwa versi friend dipahami.
+Relationship outcome
+Hubungan dengan Azka tidak berubah. Ia bersedia membaca dan menanggapi, tetapi tanggapannya singkat dan belum menguji pemahaman secara mendalam.
+Penggunaan AI
+Alat dan peran AI: Claude (Anthropic) memandu pengerjaan lewat pilihan singkat, lalu menyusun definisi, daftar jargon, kebenaran inti, kelima versi bahasa, dan alasan perubahan language.
+Prompt atau instruksi penting: Meminta AI memberi pilihan singkat berdasarkan lembar kerja Bab 04.
+Bagian output yang digunakan, diubah, atau ditolak:
+Pilihan saya sendiri: konsep (normalisasi basis data), ragam bahasa tersulit (Publik Umum), dan arah refleksi.
+Disusun AI dan saya pakai apa adanya: seluruh lima versi bahasa (termasuk versi customer yang baru ditambahkan).
+Dari saya sendiri: mengirim versi friend ke Azka dan menyampaikan tanggapannya.
+Apa yang tetap saya pelajari sebagai manusia: Saya melihat bahwa penjelasan yang terasa jelas bagi saya belum tentu jelas bagi orang lain, dan satu pembaca belum cukup untuk menguji semua versi.
+Feedback dan tindak lanjut
+Feedback yang diterima: Azka menyampaikan bahwa versi friend jelas dan tidak menyebutkan bagian yang membingungkan. Ini ringkasan dari ucapannya.
+Adaptation/replay: Karena tanggapan Azka singkat, belum ada perubahan pada versi friend. Replay yang saya rencanakan: meminta Azka mengulang penjelasan dengan kata-katanya sendiri untuk menguji pemahaman, bukan hanya penilaian “jelas”.
+Next practice: Menguji satu versi lagi (customer atau public) ke target sungguhan dan meminta mereka menjelaskan ulang isinya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Lima pendengar dibedakan dengan jelas dan masing-masing mendapat register sendiri.
+Objective & State
+3
+Core meaning konsisten di semua versi, tetapi belum ada ukuran pemahaman target.
+Repertoire, Language & AI
+4
+Perbedaan gaya jelas antar versi; penggunaan AI dilaporkan jujur.
+Response & Adaptation
+2
+Hanya satu target yang memberi feedback dan tanggapannya singkat, sehingga belum ada adaptasi nyata.
+Agreement, Action & Relationship
+2
+Tidak ada kesepakatan formal, dan evidence masih ringkasan tanggapan lisan Azka.
+Total: 14 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Muhammad Razka Adhitya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://razkuts.github.io/kipp-students/index.html
+- https://razkuts.github.io/kipp-students/assets/logo.png
+- https://razkuts.github.io/kipp-students/course/index.html
+- https://razkuts.github.io/kipp-students/portfolio/index.html
+- https://razkuts.github.io/kipp-students/examples/index.html
+- https://razkuts.github.io/kipp-students/lk/index.html
+- https://razkuts.github.io/kipp-students/slides.html
+- https://razkuts.github.io/kipp-students/slides-pdf/index.html
+- https://razkuts.github.io/kipp-students/assessment/index.html
+- https://razkuts.github.io/kipp-students/about.html
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html
+- https://razkuts.github.io/kipp-students/portfolio/week-01.html
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html
+- https://razkuts.github.io/kipp-students/portfolio/week-05.html
+- https://razkuts.github.io/kipp-students/portfolio/week-06.html
+- https://razkuts.github.io/kipp-students/portfolio/week-07.html
+- https://razkuts.github.io/kipp-students/portfolio/week-08.html
+- https://razkuts.github.io/kipp-students/portfolio/week-09.html
+- https://razkuts.github.io/kipp-students/portfolio/week-10.html
+- https://razkuts.github.io/kipp-students/portfolio/week-11.html
+- https://razkuts.github.io/kipp-students/portfolio/week-12.html
+- https://razkuts.github.io/kipp-students/portfolio/week-13.html
+- https://razkuts.github.io/kipp-students/portfolio/week-14.html
+- https://razkuts.github.io/kipp-students/portfolio/week-15.html
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#evidence-wajib
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#lima-versi
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

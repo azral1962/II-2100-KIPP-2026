@@ -1,0 +1,219 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1010
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://lvdis29.github.io/kipp-suci/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Current dan Desired State
+Feature–Benefit–Value–Outcome Chain
+Percakapan dan Response
+Adaptasi Solusi Berdasarkan Dialog
+Risk dan Evidence
+Self-Assessment
+Lampiran: Lembar Kerja Bab 09 — Demonstrasi Pembangun Keinginan
+1. Data Pelaksanaan
+2. Fase I: Pemetaan Jembatan Batin
+3. Fase II: Menyusun Tangga Bukti (Ladder of Evidence)
+4. Fase III: Antisipasi Keberatan Sasaran
+5. Rekap Simulasi Demonstrasi 5 Menit & Evaluasi Rekan Sejawat
+6. Lembar Refleksi Mandiri Mahasiswa
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Kompetensi Target
+Membangun rumusan desired state bersama target secara dialogis dan menghubungkannya dengan mekanisme solusi secara kredibel melalui pengakuan risiko, tangga bukti, dan pengujian kesiapan batin (Desire) tanpa manipulasi.
+Current dan Desired State
+Elemen
+Rumusan Target (Kasir Stan Kantin), Bukan Asumsi Penulis
+Current state
+Kasir melayani pesanan manual sambil berulang kali mengonfirmasi lauk yang tersisa dan menunggu pembeli membuka aplikasi pembayaran; antrean menumpuk dan sering terjadi komplain salah ambil pesanan saat jam puncak (12.00–12.40).
+Desired state
+Transaksi di meja saji selesai dalam waktu kurang dari 30 detik per orang tanpa kasir perlu mengingat atau menulis ulang pesanan, dan tidak ada pesanan tertukar meskipun variasi lauk berganti di tengah jam layanan.
+Value
+Menurunkan tingkat kelelahan mental kasir pada jam sibuk, menjaga ritme penggorengan dapur tetap stabil, serta memberikan kepastian waktu makan bagi mahasiswa.
+Acceptable risk
+Uji coba terbatas selama 3 hari pada 15 transaksi pertama per hari; bila alur slip pesanan justru memperlambat antrean atau memicu kebingungan pembeli, sistem dapat langsung dihentikan saat itu juga tanpa kerugian finansial.
+Evidence threshold
+Nol insiden salah catat menu, tidak ada pembeli yang mencentang lauk yang sudah habis, dan waktu transaksi di kasir terpangkas minimal sepertiga dari durasi biasa.
+Feature–Benefit–Value–Outcome Chain
+Slip menu fisik + penanda lauk habis dinamis \(\rightarrow\) pembeli memilih lauk dan menyiapkan pembayaran sebelum tiba di kasir \(\rightarrow\) kasir menerima pesanan yang sudah pasti tanpa tanya-jawab berulang \(\rightarrow\) waktu layanan per orang terpangkas dan antrean mengalir lancar \(\rightarrow\) ritme kerja kasir lebih tenang dan mahasiswa tidak terlambat masuk kuliah siang.
+Catatan Kritis: Rantai di atas disajikan sebagai rangkaian hipotesis sebab-akibat yang bergantung pada kepatuhan pembeli membaca penanda stok, bukan jaminan kepastian mutlak.
+Percakapan dan Response
+Komunikator: “Jika uji coba slip pesanan dan penanda menu ini kita terapkan besok, keadaan seperti apa yang sebenarnya paling Ibu harapkan terjadi di stan?”
+Target (Kasir): “Bukan cuma antreannya jadi lebih pendek. Yang paling penting buat saya adalah tidak ada pembeli yang protes karena lauknya habis setelah mereka lama antre, dan saya tidak perlu pusing mengecek sisa porsi di baskom belakang setiap lima menit.”
+Komunikator: “Berarti rancangan kemarin masih gagal jika slip pesanan diletakkan di depan tanpa sinkronisasi langsung dengan stok yang ada di wajan penggorengan?”
+Target: “Iya, betul. Kalau pembeli sudah senang mencentang ayam bakar tapi pas di depan ternyata habis, mereka malah makin kecewa dan saya yang kena marah.”
+Adaptasi Solusi Berdasarkan Dialog
+Mekanisme disesuaikan secara substantif: alih-alih menggunakan daftar menu lengkap statis, slip pesanan dibagi menjadi dua zona (Lauk Utama & Menu Cepat). Disediakan klip penanda fisik berwarna merah di dekat kotak slip yang dipindahkan oleh staf dapur saat porsi lauk tersisa 3 porsi terakhir. Desired state resmi bergeser dari sekadar “antrean berkurang” menjadi “transaksi cepat tanpa risiko kekecewaan akibat stok habis”.
+Risk dan Evidence
+Risiko operasional terbesar adalah keterlambatan staf dapur menandai lauk yang hampir habis ketika kondisi penggorengan sedang sangat padat.
+Safeguard yang Disepakati: 1. Penandaan stok menipis didelegasikan langsung kepada juru masak dengan mekanisme gantungan klip merah sederhana (membutuhkan waktu < 2 detik). 2. Jika terjadi kelalaian penandaan, kasir berhak memprioritaskan penggantian menu tanpa pembeli harus kembali ke belakang antrean.
+Target menyetujui tahap dry-run simulasi alur internal bersama staf stan sebelum jam buka kantin, bukan langsung menerapkannya pada kerumunan jam 12.00.
+Pernyataan Penggunaan AI: AI (Gemini) digunakan untuk mengevaluasi celah logika (logical leaps) pada value chain dan merancang simulasi keberatan operasional kasir. Angka durasi dan kuota uji coba diverifikasi langsung bersama target di lapangan.
+Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+3
+Desired state dirumuskan menggunakan bahasa, kekhawatiran nyata, dan nilai ketenangan kerja milik kasir stan.
+Objective & State
+4
+Current state, desired state, risiko batas toleransi, dan ambang bukti (threshold) dinyatakan secara eksplisit dan terukur.
+Repertoire, Language & AI
+3
+Menyajikan rantai nilai sebagai hipotesis yang dapat diuji; AI dibatasi hanya sebagai penguji konsistensi logika.
+Response & Adaptation
+4
+Keberatan kasir terkait risiko kekecewaan stok habis mengubah arsitektur alur pemilahan menu secara substantif.
+Agreement, Action & Relationship
+3
+Menyepakati dry-run simulasi internal tanpa menuntut komitmen implementasi skala penuh secara tergesa-gesa.
+Total Skor: 17/20 — Lanjut / Kompeten Tinggi.
+Lampiran: Lembar Kerja Bab 09 — Demonstrasi Pembangun Keinginan
+1. Data Pelaksanaan
+Nama / NIM: Eka Suci Ramadhani / 18225063
+Peran: Mahasiswa Pengusul Perbaikan Alur Layanan
+Pribadi Sasaran & Perannya: Ibu Maryam (Staf Kasir & Penjual Stan Makanan Kantin)
+Gagasan / Solusi: Alur Pre-Order Slip Fisik Terdesentralisasi dengan Penanda Stok Dinamis
+2. Fase I: Pemetaan Jembatan Batin
+Unsur Jembatan Batin
+Analisis & Draf Konkret
+Keadaan Sekarang (Beban)
+Kasir menghadapi 18 antrean konvergen per jam sibuk; waktu tersita 45–60 detik per transaksi hanya untuk meladeni pertanyaan lauk dan menunggu verifikasi pembayaran ponsel.
+Keadaan Masa Depan (Hasil)
+Transaksi kasir tuntas dalam < 20 detik; pembeli menyerahkan slip yang sudah pasti bersama bukti bayar; tidak ada komplain stok kosong di meja kasir.
+Mekanisme Solusi
+Pembeli mengambil slip menu di tiang antrean luar, melihat papan ketersediaan lauk terkini, mencentang pesanan, dan menyiapkan nominal transfer sebelum giliran tiba.
+Pengorbanan
+Staf dapur perlu meluangkan 2 detik untuk menjepit klip penanda ketika lauk tersisa sedikit; kasir merapikan slip kertas di wadah khusus meja saji.
+Risiko Kegagalan
+Kertas slip berantakan atau pena habis; staf dapur lupa memperbarui klip stok habis saat pesanan mendadak melonjak.
+3. Fase II: Menyusun Tangga Bukti (Ladder of Evidence)
+Bukti A (Tingkat 2 — Prototipe Fisik Alur Nyata):
+Deskripsi Bukti: Memperagakan papan mika transparan berisi 20 lembar slip pesanan seukuran saku dan klip penanda menu habis berwarna merah mencolok yang dapat dipasang tanpa alat tulis.
+Batasan Bukti: Prototipe baru diuji secara simulatif antar-mahasiswa; belum teruji ketahanan fisiknya terhadap cipratan minyak atau kuah di area stan basah.
+Bukti B (Tingkat 4 — Data Uji Coba Transaksi Skala Kecil):
+Deskripsi Bukti: Hasil pengujian mandiri pada 10 transaksi simulasi menunjukkan penurunan waktu interaksi meja kasir dari rata-rata 52 detik menjadi 14 detik per orang.
+Batasan Bukti: Simulasi dilakukan dengan nominal transfer pas dan koneksi internet stabil; belum memperhitungkan pembeli yang mengubah pikiran di depan etalase.
+4. Fase III: Antisipasi Keberatan Sasaran
+Keberatan Usaha / Perubahan Perilaku:
+Tuduhan Sasaran: “Ini bikin repot orang dapur, mereka lagi sibuk goreng masa harus bolak-balik pasang klip penanda ke depan?”
+Respons Komunikasi: “Kekhawatiran Ibu sangat berdasar. Karena itu klip penandanya kita pasang tepat di bibir etalase bagian dalam yang bisa dijangkau tangan juru masak tanpa perlu melangkah keluar dapur sama sekali.”
+Keberatan Biaya / Pengorbanan:
+Tuduhan Sasaran: “Biaya fotokopi kertas slip dan pengadaan papan mika ini siapa yang menanggung? Kami tidak ada anggaran tambahan.”
+Respons Komunikasi: “Seluruh perlengkapan prototipe awal dan 100 lembar slip uji coba kami yang sediakan sepenuhnya. Stan Ibu tidak mengeluarkan biaya sepeser pun selama masa evaluasi.”
+Keberatan Risiko:
+Tuduhan Sasaran: “Bagaimana kalau pembeli tetap mencentang menu yang habis karena tidak melihat klip penanda lalu marah-marah di kasir?”
+Respons Komunikasi: “Jika itu terjadi, pembeli tersebut langsung mendapat hak tukar menu alternatif di tempat tanpa antre ulang, dan kami akan mengevaluasi apakah posisi papan penanda kurang terlihat jelas.”
+5. Rekap Simulasi Demonstrasi 5 Menit & Evaluasi Rekan Sejawat
+Mitra Simulasi: Fayza (berperan sebagai Ibu Maryam / Kasir Skeptis)
+Membangun Jembatan Batin:
+Umpan Balik Berbasis Bukti: “Ketika Anda mengawali pembicaraan dengan menyebutkan beban mental kasir yang harus menghafal sisa porsi lauk, saya mengamati nada bicara lawan bicara melunak dan mengiyakan. Hal itu menunjukkan keadaan batin sasaran merasa dimengerti secara personal, bukan sekadar dijadikan target uji coba program.”
+Penyajian Bukti & Pengakuan Risiko:
+Umpan Balik Berbasis Bukti: “Ketika Anda secara terbuka mengakui bahwa sistem ini bisa gagal jika juru masak lupa memasang klip stok habis, kerutan dahi lawan bicara berkurang. Kejujuran risiko ini justru membuat demonstrasi prototipe terasa masuk akal dan membumi.”
+Mengelola Keberatan:
+Umpan Balik Berbasis Bukti: “Ketika sasaran memprotes kerepotan juru masak, Anda tidak mendebat melainkan memvalidasi keberatan tersebut terlebih dahulu (‘Kekhawatiran Ibu sangat berdasar’). Sikap ini menjaga percakapan tetap aman secara psikologis.”
+Etika Kebebasan Memilih:
+Umpan Balik Berbasis Bukti: “Di menit akhir, Anda tidak memaksa stan langsung menyetujui penggunaan harian, melainkan menawarkan simulasi internal 10 menit sebelum stan buka. Hal itu memberi ruang kendali penuh bagi sasaran untuk menolak jika merasa tidak cocok.”
+6. Lembar Refleksi Mandiri Mahasiswa
+Hasil Nyata yang Diinginkan Lawan Bicara: Lawan bicara bukan sekadar menginginkan antrean rapi, melainkan kepastian alur kerja yang bebas konflik dengan pembeli dan terhindar dari rasa bersalah akibat salah menyajikan pesanan.
+Bukti yang Paling Menumbuhkan Percaya: Demonstrasi langsung kecepatan mencentang slip menu (hanya butuh 5 detik) sambil memperlihatkan bentuk klip stok habis. Bukti fisik ini berhasil karena sasaran dapat langsung memegang dan mencoba sendiri kesederhanaan alatnya.
+Respon atas Pengakuan Keterbatasan Solusi: Saat disampaikan bahwa alur ini tetap memiliki risiko jika pena di tiang antrean hilang atau macet, target justru tertawa kecil dan berkata, “Nah, betul itu, biasanya pulpen sering dibawa kabur mahasiswa.” Keterbukaan ini mencairkan resistensi dan memicu target ikut memikirkan solusi (misalnya mengikat pena dengan tali pegas).
+Keberatan yang Menyadarkan Kelemahan Desain: Keberatan tentang potensi pembeli mencentang menu yang baru saja habis 1 menit lalu. Hal ini menyadarkan kami bahwa sistem tidak boleh mengandalkan asumsi stok statis, melainkan butuh mekanisme pembeda visual untuk menu kritis.
+Pernyataan Penggunaan AI (AI Statement):
+Alat yang digunakan: Google Gemini.
+Peran AI: Membantu mengecek validitas logika value chain dan menyusun alternatif skenario keberatan operasional kasir.
+Data yang dibagikan: Deskripsi alur pemesanan kantin tanpa memuat data pribadi atau identitas komersial stan.
+Prompt kunci: “Ujilah apakah transisi dari interest ke desire pada alur slip pemesanan kantin ini mengandung klaim berlebihan, dan identifikasikan risiko operasional tersembunyi bagi juru masak.”
+Verifikasi: Seluruh tanggapan AI diverifikasi silang dengan kondisi tata letak fisik stan kantin dan dikonfirmasi langsung dalam simulasi bersama Fayza.
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Eka Suci Ramadhani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://lvdis29.github.io/kipp-suci/index.html
+- https://lvdis29.github.io/kipp-suci/assets/logo.png
+- https://lvdis29.github.io/kipp-suci/course/index.html
+- https://lvdis29.github.io/kipp-suci/portfolio/index.html
+- https://lvdis29.github.io/kipp-suci/examples/index.html
+- https://lvdis29.github.io/kipp-suci/lk/index.html
+- https://lvdis29.github.io/kipp-suci/slides.html
+- https://lvdis29.github.io/kipp-suci/slides-pdf/index.html
+- https://lvdis29.github.io/kipp-suci/assessment/index.html
+- https://lvdis29.github.io/kipp-suci/about.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-01.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-03.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-05.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-07.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-08.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-11.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-12.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-13.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-14.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-15.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#kompetensi-target
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#current-dan-desired-state
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#percakapan-dan-response
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#adaptasi-solusi-berdasarkan-dialog
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#risk-dan-evidence
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#self-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#lampiran-lembar-kerja-bab-09-demonstrasi-pembangun-keinginan
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#data-pelaksanaan
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#fase-i-pemetaan-jembatan-batin
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#fase-ii-menyusun-tangga-bukti-ladder-of-evidence
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#fase-iii-antisipasi-keberatan-sasaran
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#rekap-simulasi-demonstrasi-5-menit-evaluasi-rekan-sejawat
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html#lembar-refleksi-mandiri-mahasiswa
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

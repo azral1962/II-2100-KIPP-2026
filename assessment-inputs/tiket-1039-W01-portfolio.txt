@@ -1,0 +1,210 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1039
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Lima character
+Konteks performance
+Evidence
+Analisis komunikasi
+Perubahan language antar character
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Character Map
+FONDASI
+PERSON
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence wajib
+Lima character dari sedikitnya tiga domain kehidupan.
+Objective, responsibility, repertoire, dan risiko tiap character.
+Satu contoh perubahan language ketika character berubah.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Akademik - Mahasiswa STI (Lead Dev)
+Rekan tim koding/praktikum
+Memastikan arsitektur kode bebas konflik; menjaga standar clean code
+Bahasa teknis komputasional, async handler, refactor, pull request
+Race condition / build error; latihan: koordinasi alur git transparan sebelum merge
+Peer - Rekan Kelompok Praktikum
+Anggota kelompok praktikum
+Membangun suasana kelompok yang setara & menyeimbangkan tugas
+Bahasa diskusi inklusif, mengecek pemahaman, pertanyaan terbuka
+Konflik internal dan burnout; latihan: membagi peran sesuai kapasitas anggota
+Domestik - Anak Pertama
+Orang Tua (Ibu)
+Memberikan penghormatan & empati; merawat emosional keluarga
+Bahasa lembut, santun, tanpa jargon teknis, perhatian non-verbal
+Hubungan emosional renggang; latihan: peka sinyal lelah & menyapa hangat
+Komunitas - Koordinator Pubdok
+Tim media & audiens acara
+Menjamin seluruh aset konten publikasi terbit tepat waktu
+Instruksi alur kerja, penjelas timeline, written task list
+Publikasi terlambat; latihan: penegasan deadline yang jelas & suportif
+Intra-Self - Jurnalis Diri
+Diri sendiri saat mendapat tekanan tugas
+Mengurai emosi & mempertahankan kesadaran kritis diri
+Jurnal reflektif, pertanyaan audit asumsi internal
+Kelelahan mental (mental exhaustion); latihan: memetakan kecemasan sebelum beraksi
+Konteks performance
+Tanggal dan setting: Senin, 8 September 2026, pukul 20.30 WIB. Sesi koordinasi koding via Zoom sambil mengerjakan tugas praktikum, bertepatan dengan momen domestik di rumah.
+Persons dan relationship: Rekan tim koding praktikum (hubungan kerja akademis) dan Ibu (hubungan domestik keluarga).
+Objective dan initial state: State awal: Winda sedang memimpin diskusi teknis koding yang tegang. Objective: Mengubah peran secara halus dari Lead Dev ke Anak Pertama saat Ibu masuk kamar tanpa merusak fokus rapat maupun mengabaikan Ibu.
+Evidence
+Rekonstruksi percakapan Zoom & respon domestik (catatan pribadi):
+Saya (Lead Dev ke Tim): “Rekan-rekan, kita harus segera refactor async handler di controller ini malam ini, biar pas kita buat pull request ke branch main enggak memicu race condition.”
+(Non-verbal trigger: Ibu masuk membawa teh hangat dengan raut wajah lelah setelah bekerja seharian)
+(Action: Mematikan mic Zoom, menurunkan bahu yang tegang, tersenyum hangat, dan memutar posisi duduk menghadap Ibu)
+Saya (Anak Pertama ke Ibu): “Eh Ibu… makasih banyak ya Bu udah dibawain teh hangat. Ibu kelihatan capek banget hari ini, langsung istirahat aja ya Bu, nanti cangkirnya Winda yang cuci ke dapur.”
+Ibu: “Sama-sama Neng, jangan tidur terlalu malam ya.”
+Saya: “Iya Bu, ini rapat tinggal 5 menit lagi kok.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Beralih dari peran Lead Dev (teknis, rasional) ke Anak Pertama (empatis, hangat) secara instan berdasarkan konteks lawan bicara.
+Objective & state
+Mengelola dua objective sekaligus: penyelesaian kode teknis + penghormatan dan perhatian domestik kepada Orang Tua.
+Repertoire & language
+Penyesuaian kosa kata dari jargon teknis (refactor, pull request) ke bahasa kasih & perhatian informal tanpa istilah kampus.
+Response & adaptation
+Merespons sinyal non-verbal Ibu (raut lelah) dengan mengubah posture, ekspresi wajah, dan menahan alur rapat sejenak.
+Agreement/action
+Ibu merasa tenang dan dihargai; tim rapat memahami jeda singkat dan keputusan teknis diselesaikan tepat waktu.
+Relationship outcome
+Ikatan emosional dengan Ibu terjaga hangat, sementara profesionalisme kerja kelompok tetap terpenuhi.
+Perubahan language antar character
+Situasi yang sama (menghadapi hambatan/tekanan) menghasilkan language yang berbeda tergantung character yang aktif:
+Sebagai Lead Dev: “Kalau direfactor sekarang, estimasi waktu pengerjaan berapa lama biar tidak memicu race condition?” — fokus pada efisiensi sistem dan kejelasan teknis.
+Sebagai Anak Pertama: “Ibu langsung istirahat aja ya, nanti cangkirnya biar Winda yang rapikan ke dapur.” — fokus pada kenyamanan fisik dan perhatian emosional.
+Sebagai Jurnalis Diri: “Apakah kecemasan ini karena deadline koding atau karena saya belum istirahat?” — fokus pada mengaudit asumsi dan regulasi emosi internal.
+Penggunaan AI
+AI digunakan setelah sesi selesai untuk dua hal:
+Memisahkan fakta dan story: Mengurai kronologi percakapan Zoom & momen domestik agar tidak tercampur antara asumsi emosional dan fakta tindakan.
+Draft struktur tabel character map: Menyusun draf matriks 5 kolom agar rapi dan sesuai indikator Quarto.
+Output AI yang ditolak: AI menyarankan karakter “Manager Strategis” yang belum saya jalankan secara nyata dalam kehidupan sehari-hari.
+Feedback dan tindak lanjut
+Feedback yang diterima: Anggota tim koding mengapresiasi komunikasi yang fleksibel dan tidak kaku meskipun ada jeda domestik.
+Adaptation/replay: Mengirim rangkuman keputusan rapat ke chat grup agar rekan tim memiliki catatan tertulis yang jelas.
+Next practice: Membiasakan pemberitahuan singkat (“Izin mute 1 menit ya” ) saat perlu melakukan transisi peran mendadak di tengah sesi online.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Lima character dipetakan lintas domain dengan analisis peran, tanggung jawab, dan risiko yang jelas.
+Objective & State
+4
+State awal, tujuan, dan transisi antar objective dijelaskan secara konkret.
+Repertoire, Language & AI
+4
+Repertoire disesuaikan antar peran; AI digunakan secara selektif dengan evaluasi kritis.
+Response & Adaptation
+4
+Sinyal non-verbal dideteksi dan diadaptasi secara langsung di lapangan.
+Agreement, Action & Relationship
+4
+Agreement eksplisit dengan tim & perbaikan relasi domestik tercapai secara seimbang.
+Total: 20/20 - Lanjut. Seluruh dimensi mencapai level 4.
+CatatanAssessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#evidence-wajib
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#perubahan-language-antar-character
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://ambreluee.github.io/kipp-students/examples/week-01.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,175 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 838
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://csd-hub.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Refleksi
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Konteks performance
+Tanggal dan setting:
+Percakapan dilakukan secara langsung di kosan saya ketika sedang mengerjakan script game Metaforia Keluargaan untuk mata kuliah Kewarganegaraan bersama anggota kelompok.
+Persons dan relationship:
+Saya berbicara dengan salah satu anggota kelompok yang juga merupakan teman dekat saya. Kami sedang bekerja sama dalam menyusun cerita dan script game.
+Objective dan initial state:
+Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalnya terdapat perbedaan pendapat mengenai nasib karakter. Teman saya menginginkan semua karakter mati agar ending-nya berkesan tragis, sedangkan saya ingin beberapa karakter tetap hidup karena menurut saya tidak semua karakter harus mati agar alur tetap masuk akal dan menarik.
+Evidence
+Percakapan terjadi ketika saya dan salah satu anggota kelompok sedang mengerjakan tugas mata kuliah Kewarganegaraan berupa game Metaforia Keluargaan. Dalam proses menyusun script, kami mengalami perbedaan pendapat mengenai ending cerita.
+Teman saya mengusulkan agar semua karakter dalam cerita meninggal. Berikut adalah kutipan percakapan asli yang menunjukkan proses listening aktif, validasi eksplisit, hingga penyusunan kesepakatan bersama:
+Teman: “Gue berfikir mending di ending ini semua karakternya mati aja. Jadi biar dampaknya bener-bener berasa tragis dan pesannya dapet banget.”
+Saya (Listening Aktif & Validasi Eksplisit): “Gue mengerti kamu merasa ending dengan semua karakter mati akan lebih kuat dan berkesan tragis karena dampaknya emang bakalan dalam banget buat pemain. Gue paham kebutuhan lu buat bikin ending yang mengguncang.”
+Teman: “Nah iya bener, kalau ada yang selamat rasanya jadi kurang mengguncang aja.”
+Saya (Expressing Boundary & Suggestion): “Setuju sih kalau soal impact-nya. Tapi menurut gue, kalau semua mati seketika, beberapa peran penting yang udah kita bangun di awal jadi kurang tuntas konfliknya. Gimana kalau kita bikin beberapa karakter utama tetep hidup, tapi karakter pendukung lainnya yang gugur?”
+Teman: “Hmm, tapi tetep berasa kurang dapet efek syoknya kalau karakter utamanya selamat gitu aja.”
+Saya (Proposing Collaboration / Repair): “Oiya, gimana kalau kita bikin plot twist? Karakter pendukung yang keliatan mati itu sebenarnya cuma muncul dalam bentuk halusinasi atau mimpi buruk karakter utama akibat trauma? Jadi kesan ‘semua mati’ tetep dapet di awal, tapi cerita tetep masuk akal buat dilanjutin.”
+Teman: “Wah, gokil sih! Itu masuk akal banget. Efek tragisnya dapet di mimpi, tapi character arc-nya tetep tuntas. Gue setuju pake konsep itu!”
+Melalui dialog ini, saya menerapkan validasi eksplisit terhadap kebutuhan/perasaan teman sebelum menyampaikan argumen pribadi, lalu kami menyepakati plot twist halusinasi sebagai solusi bersama.
+Problem impact: Perbedaan ide yang tidak diselaraskan dapat menghambat penyelesaian penulisan naskah game dan merusak dinamika kerja kelompok.
+Constraint: Waktu pengumpulan naskah game yang makin dekat menuntut kami menemukan kesepakatan tanpa merusak hubungan pertemanan.
+Kontribusi saya adalah memvalidasi perasaan dan kebutuhan teman secara eksplisit, menyampaikan sudut pandang pribadi tanpa menyalahkan, serta mengajukan opsi kompromi yang dapat diterima kedua pihak.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya dan teman memiliki pandangan berbeda mengenai ending cerita. Karena kami teman dekat, saya berfokus pada validasi perasaan dan idenya agar diskusi tetap produktif tanpa memicu konflik personal.
+Objective & state
+Tujuan menyelaraskan ending cerita tercapai. Kondisi awal yang saling mempertahankan ide berhasil diubah menjadi kolaborasi kreatif.
+Repertoire & language
+Saya menggunakan kalimat validasi eksplisit (“Gue mengerti kamu merasa ending dengan semua karakter mati akan lebih kuat karena…”) sebelum menyampaikan perspektif pribadi.
+Response & adaptation
+Saya beradaptasi dengan tidak menolak gagasan “semua karakter mati”, melainkan mengalihkan eksekusinya ke dalam bentuk halusinasi/mimpi agar keinginan estetika teman dan kebutuhan logika cerita saya sama-sama terpenuhi.
+Agreement/action
+Kami menyepakati alur plot twist halusinasi untuk ending game Metaforia Keluargaan dan langsung menuliskan draf naskahnya bersama.
+Relationship outcome
+Hubungan pertemanan tetap terjaga harmonis, bahkan menghasilkan solusi cerita yang lebih kaya dari ide awal masing-masing.
+Penggunaan AI
+Tidak menggunakan AI saat percakapan berlangsung.
+Percakapan dan pengambilan keputusan mengenai ending dilakukan secara langsung bersama anggota kelompok. Saya tidak menggunakan AI untuk menentukan hasil diskusi atau menggantikan proses pengambilan keputusan dengan teman.
+AI digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses komunikasi berdasarkan evidence dialog yang saya tuliskan.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Teman merespons positif proses diskusi ini. Ia merasa kebutuhan estetika kreasinya diperhatikan dan dihargai melalui kalimat validasi eksplisit yang saya sampaikan di awal, bukan sekadar ditolak argumennya.
+Adaptation/replay:
+Pengalaman ini membuktikan bahwa melakukan validasi eksplisit di awal percakapan (“Gue mengerti kamu merasa…”) sangat efektif meredam benturan ego dan membuka ruang kompromi.
+Next practice:
+Saya akan terus membiasakan pola komunikasi 3 langkah ini: Validasi Eksplisit Perasaan/Kebutuhan Partner \(\rightarrow\) Sampaikan Batas/Kebutuhan Pribadi \(\rightarrow\) Tawarkan Solusi Kolaboratif dalam setiap diskusi kelompok maupun pertemanan.
+Refleksi
+Dari pengalaman ini, saya belajar bahwa dalam hubungan kerja kelompok dan pertemanan, memvalidasi perasaan/kebutuhan partner secara eksplisit adalah kunci sebelum menawarkan gagasan alternatif.
+Dengan menyampaikan kalimat validasi di awal, lawan bicara merasa bahwa kita berada di pihak yang sama untuk menyelesaikan masalah, bukan berseberangan untuk saling mengalahkan.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3 – Kompeten
+Saya menyadari bahwa saya berbicara dengan teman dekat, sehingga menjaga komunikasi tetap empati dan suportif.
+Objective & State
+3 – Kompeten
+Saya berhasil mengubah pertentangan ide ending menjadi kesepakatan alur cerita yang kreatif.
+Repertoire, Language & AI
+3 – Kompeten
+Saya mendokumentasikan penggunaan kalimat validasi eksplisit dan teknik Active Listening secara eksplisit pada percakapan asli.
+Response & Adaptation
+3 – Kompeten
+Saya tidak bersikap kaku pada ide awal dan bersedia mengakomodasi elemen tragis gagasan teman ke dalam bentuk mimpi/halusinasi.
+Agreement, Action & Relationship
+3 – Kompeten
+Menghasilkan kesepakatan naskah cerita dan mempererat hubungan pertemanan serta kolaborasi tim.
+Total: 15 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Mouristio R. A. K. L. Praing
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://csd-hub.github.io/kipp-students/index.html
+- https://csd-hub.github.io/kipp-students/assets/logo.png
+- https://csd-hub.github.io/kipp-students/course/index.html
+- https://csd-hub.github.io/kipp-students/portfolio/index.html
+- https://csd-hub.github.io/kipp-students/examples/index.html
+- https://csd-hub.github.io/kipp-students/lk/index.html
+- https://csd-hub.github.io/kipp-students/slides.html
+- https://csd-hub.github.io/kipp-students/slides-pdf/index.html
+- https://csd-hub.github.io/kipp-students/assessment/index.html
+- https://csd-hub.github.io/kipp-students/about.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-01.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-02.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-04.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-05.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-06.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-07.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-08.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-09.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-10.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-11.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-12.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-13.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-14.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-15.html
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#refleksi
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://csd-hub.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

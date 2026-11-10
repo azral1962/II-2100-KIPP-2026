@@ -1,0 +1,107 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 849
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://yoofromlv.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+1. Attention Evidence & Problem–Solution Link
+2. Interest Pitch & Evidence
+3. Response, State Assessment, Hidden Concern, & Adaptation
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+1. Attention Evidence & Problem–Solution Link
+Attention Evidence (dari Minggu 6): Kelompok telah sepakat pada problem bahwa pembagian tugas yang menumpuk memicu data tercecer dan waktu tunggu (idle). Solusi awal berupa pembagian alat per orang (Edward memegang mikrometer sekrup, Rijal memegang penggaris, dan Tio sisanya) telah diakui relevan oleh anggota kelompok.
+Problem–Solution Link:
+Problem: Meskipun pembagian alat sudah jelas, risiko kesalahan transkripsi satuan (misalnya kesalahan konversi dari milimeter ke sentimeter saat menyalin ke format laporan) masih berpotensi terjadi.
+Mechanism: Penggunaan lembar tabel data terstandarisasi dengan kolom satuan yang sudah dikunci sejak awal pencatatan (standardized recording template).
+Benefit: Praktikan langsung memasukkan angka ukur ke kolom satuan yang tepat tanpa perlu melakukan konversi manual yang rawan keliru.
+Value: Proses rekapitulasi data akhir menjadi jauh lebih cepat, akurat, dan meminimalkan risiko revisi dari asisten praktikum.
+2. Interest Pitch & Evidence
+Formula yang Digunakan: Karena Anda mengalami [problem], [solution/mechanism] dapat membantu dengan [benefit]. Untuk situasi Anda, ini berarti [value]. Bagian mana yang ingin Anda lihat lebih jauh?
+Interest Pitch (30 detik): > “Karena kemarin kita sempat hampir salah nyatet satuan pas mindahin data ukur, kalau kita pakai format tabel kolom satuan baku dari awal pencatatan, lu tinggal masukkan angka sesuai kolomnya tanpa hitung ulang konversi. Ini berarti rekap data akhir kita langsung klop dan gak perlu buang waktu ngecek ulang. Mau coba lihat rancangan kolom tabelnya?”
+Evidence / Simulasi Respons Nyata:
+Edward: “Boleh juga, biar nanti pas lu rekap gak pusing ngecek satuan gw. Coba tunjukin kolom tabelnya kayak gimana.”
+3. Response, State Assessment, Hidden Concern, & Adaptation
+Response Teramati: Edward menunjukkan signal interest yang ditandai dengan rasa ingin tahu (curiosity) dan persetujuan untuk melihat langsung bentuk format tabel yang ditawarkan, bukan sekadar respons sopan (polite response).
+State Assessment: State bergeser dari sekadar mengakui masalah (attention) menjadi ingin tahu cara kerja solusi (interest).
+Hidden Concern: Di balik pertanyaan Edward mengenai bentuk tabel, tersimpan kekhawatiran apakah format tabel baru tersebut justru akan menambah kerumitan atau menyita waktu mereka saat praktikum berjalan.
+Adaptation: Menanggapi hidden concern tersebut dengan menunjukkan bahwa format tabel dibuat sangat sederhana di selembar kertas praktikum tanpa aplikasi tambahan, sehingga langsung bisa digunakan tanpa hambatan teknis.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Tio Christian Doly Silitonga
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://yoofromlv.github.io/kipp-students/index.html
+- https://yoofromlv.github.io/kipp-students/assets/logo.png
+- https://yoofromlv.github.io/kipp-students/course/index.html
+- https://yoofromlv.github.io/kipp-students/portfolio/index.html
+- https://yoofromlv.github.io/kipp-students/examples/index.html
+- https://yoofromlv.github.io/kipp-students/lk/index.html
+- https://yoofromlv.github.io/kipp-students/slides.html
+- https://yoofromlv.github.io/kipp-students/slides-pdf/index.html
+- https://yoofromlv.github.io/kipp-students/assessment/index.html
+- https://yoofromlv.github.io/kipp-students/about.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-02.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-03.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-04.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-08.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-09.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-10.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-11.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-12.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-13.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-14.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-15.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html#attention-evidence-problemsolution-link
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html#interest-pitch-evidence
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html#response-state-assessment-hidden-concern-adaptation
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

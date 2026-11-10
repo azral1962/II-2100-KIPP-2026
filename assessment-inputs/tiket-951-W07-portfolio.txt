@@ -1,0 +1,186 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 951
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+INTEREST
+Penghubungan mekanisme solusi dengan masalah, benefit, dan value bagi koordinator operasional melalui demo prototype ringkas dan penanganan hidden concern.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Jumat, 9 Oktober 2026. Lobi Lab STI ITB sesaat setelah simulasi alur gladi bersih kepanitiaan selesai. Percakapan berlangsung sekitar 15 menit antara Winda dan Rian.
+Persons dan relationship: Winda (PJ Teknis/Divisi IT) dan Rian (Koordinator Operasional/Logistik). Hubungan: Rekan panitia seangkatan. Kepercayaan meningkat pasca-kesepakatan uji coba checklist di Minggu 6.
+Objective dan initial state: Mengangkat ketertarikan (Interest) Rian terhadap solusi digital berupa Form Handover 3-Klik via QR Code di boks server/peralatan, guna menggantikan alur serah terima kertas manual. Initial state Rian: Attention with reservation (sudah sadar isu delay, tapi belum yakin solusi digital fleksibel di lapangan).
+Evidence
+Catatan1. Attention Evidence & Solution Hypothesis
+Evidence dari Simulasi Jumat: Dari 4 kali alur serah terima barang/server pada simulasi, 3 di antaranya mengalami penundaan pencatatan karena lembar kertas terpisah/tercecer, meskipun durasi fisik pengisian hanya butuh <2 menit.
+Solution Hypothesis: Form Handover Digital 3-Klik berbasis Google Form ringkas dengan stiker QR Code yang ditempel langsung di boks server/peralatan dapat memangkas pencarian lembar fisik tanpa menambah beban aplikasi baru di ponsel staf.
+Problem
+Mechanism
+Expected benefit
+Value bagi target (Rian)
+Lembar fisik serah terima acap kali tercecer / hilang di lapangan
+Pindai QR Code di boks alat \(\rightarrow\) Form 3 centang ringkas di HP
+Waktu pencatatan \(<90\) detik; timestamp otomatis tercatat di cloud
+Mengurangi komplain dari ketua divisi lain & melacak penanggung jawab alat secara akurat
+Perdebatan siapa yang memegang barang terakhir saat ada kendala
+Rekapitualisasi real-time spreadsheet read-only untuk semua koordinator
+Status alat/server transparan & dapat diakses kapan saja
+Rian tidak perlu menjadi “pemadam kebakaran” saat terjadi gesekan jadwal
+2. Pitch & Demonstration
+“Rian, dari uji coba simulasi tadi, kita lihat pengisian checklist kertas sebenarnya cepat, tapi 3 dari 4 berkasnya sempat tercecer dan bikin kita bingung melacak penanggung jawab server. Prototype ini tidak mewajibkan anak-anak lapangan instal aplikasi baru: cukup pindai QR Code di boks server ini, centang 3 kondisi alat, lalu kirim. Mari kita coba simulasikan dalam 90 detik.”
+Winda menunjukkan stiker QR Code di boks server dan mendemonstrasikan pengisian via HP selama 90 detik.
+3. Response, Hidden Concern & Adaptation
+Respon & Demo Rian: Rian mencoba memindai QR Code di HP miliknya, proses pengisian lancar. Namun Rian mengernyitkan dahi dan berkata:
+“Tampilannya ringkas sih Win. Tapi gimana kalau di basement atau tempat acara nanti sinyal internet jelek? Anak lapangan bakalan panik kalau form-nya gagal muat.”
+Identifikasi Hidden Concern: Winda semula mengira kekhawatiran utama Rian adalah kerumitan tampilan/teknologi. Respon Rian menunjukkan hidden concern sebenarnya adalah keandalan sistem di kondisi ekstrem lapangan (field reliability).
+Adaptasi Winda: Winda tidak defensif atau memaksakan koneksi cloud. Winda langsung mengadaptasi mekanisme:
+Mengaktifkan fitur offline submission pada form sehingga data tersimpan otomatis di HP dan tersinkronisasi saat mendapat sinyal.
+Menyediakan 1 lembar fisik backup emergency di dalam boks alat sebagai jaminan keamanan terakhir.
+Hasil & State Shift: Rian tersenyum dan berkata: “Nah, kalau ada backup offline dan fisik emergency gitu gua tenang.” State Rian resmi berpindah dari Attention menjadi Interest (meminta draf stiker QR Code dikirimkan untuk ditinjau bersama tim operasional).
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Winda fokus menghargai kekhawatiran operasional Rian (risiko sinyal buruk di lapangan) ketimbang membela kecanggihan sistem IT yang dibuat.
+Objective & state
+State Rian dinilai secara cermat (Attention \(\rightarrow\) Interest). Winda tidak terburu-buru meminta keputusan final sebelum hidden concern terurai.
+Repertoire & language
+Pitch menggunakan demonstrasi langsung (90 detik) serta menghubungkan fitur (QR code & offline mode) langsung dengan benefit operasional (bebas komplain & lacak akurat).
+Response & adaptation
+Respon kekhawatiran sinyal diadaptasi secara real-time dengan solusi offline submission dan physical backup sheet.
+Agreement/action
+Rian meminta draf QR Code dan mekanisme backup offline untuk dibahas dalam rapat internal Divisi Logistik.
+Relationship outcome
+Kepercayaan Rian meningkat pesat karena Divisi IT terbukti mendengarkan realitas kendala lapangan, bukan sekadar memaksakan sistem.
+Penggunaan AI
+AI digunakan pasca-demo untuk melakukan simulasi objection handling berbasis daftar risiko lapangan (seperti masalah baterai HP, sinyal buruk, dan kendala hak akses). AI membantu merumuskan penjelasan offline submission mode dengan kalimat intuitif non-teknis.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rian menyarankan agar stiker QR Code dicetak dengan laminasi tahan air agar tidak rusak saat mobilisasi barang.
+Adaptation/replay: Winda menyiapkan stiker QR bercetak tahan air dan menempelkannya di boks utama peralatan.
+Next practice: Saat melakukan demo prototype teknis, selalu siapkan skenario penanganan kendala darurat (fail-safe plan) sebelum ditanyakan oleh target person.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Sangat menghargai kebutuhan keandalan lapangan yang menjadi beban tanggung jawab Rian.
+Objective & State
+4
+Berhasil menggeser state dari Attention ke Interest melalui penanganan hidden concern.
+Repertoire, Language & AI
+4
+Demo 90 detik sangat konkret; AI dimanfaatkan untuk memetakan risiko kendala lapangan.
+Response & Adaptation
+4
+Cepat beradaptasi menyediakan fitur offline mode dan backup fisik saat Rian meragukan sinyal.
+Agreement, Action & Relationship
+4
+Rian menyetujui uji coba penuh dan meminta bahan QR Code untuk dibahas dengan timnya.
+Total: 20 / 20 - Lanjut.
+CatatanAssessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://ambreluee.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,198 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1059
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mkafkaa.github.io/repo/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Attention evidence dan solution hypothesis
+Pitch dan demonstration
+Hidden concern dan adaptation
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Discovery interview dilakukan pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring. Pitch solusi dilakukan pada 5 November 2026 melalui Chat Facebook/Messenger.
+Objective dan initial state: Objective saya adalah menghubungkan masalah biaya admin dengan kemungkinan alternatif marketplace tanpa langsung meminta Jon berpindah platform. Initial state Jon adalah Problem aware karena ia telah mengakui dampak biaya admin terhadap profit dan harga jual.
+Attention evidence dan solution hypothesis
+Attention evidence: Jon menyatakan biaya admin marketplace dapat mencapai sekitar 20%, memberi contoh harga Rp200.000 menjadi Rp240.000, dan mengonfirmasi problem statement. Evidence ini menjadi dasar untuk membahas kemungkinan solusi.
+Solution hypothesis: Membandingkan marketplace alternatif dari sisi biaya, keamanan, reputasi, dan kemudahan dapat membantu menemukan pilihan yang menjaga profit penjual tanpa mengurangi kepercayaan pembeli.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Biaya admin tinggi mengurangi profit dan menaikkan harga
+Membandingkan atau menguji perantara dengan biaya lebih rendah
+Harga tidak perlu dinaikkan sebesar biaya marketplace
+Profit Jon dan ketertarikan pembeli dapat lebih terjaga
+Kekhawatiran keamanan dan kepercayaan
+Memeriksa reputasi, keamanan, dan kemudahan proses sebelum berpindah
+Risiko transaksi dapat dipahami sebelum digunakan
+Jon tidak menukar profit dengan risiko kepercayaan
+Pitch dan demonstration
+“Jon, berdasarkan masalah biaya admin tadi, saya ingin membandingkan beberapa pilihan marketplace dari sisi biaya, keamanan, kepercayaan, dan kemudahan. Tujuannya bukan langsung pindah platform, tetapi melihat apakah ada alternatif yang bisa menjaga profit tanpa membuat pembeli merasa tidak aman. Menurutmu, perbandingan seperti ini berguna untuk dipertimbangkan?”
+Response target: Jon menjawab, “Nah bagus tuh kalo ada marketplace alternatif.” Ia kemudian bertanya, “itu fitur nya gimana aja? sama keuntungannya apa pake marketplace itu?”
+Hidden concern dan adaptation
+Asumsi awal tentang concern target: Saya semula mengira concern utama Jon adalah biaya admin yang sangat besar.
+Hidden concern yang ditemukan: Jon juga mempertimbangkan keamanan dan reputasi marketplace di mata pembeli. Hal ini terlihat dari pertanyaannya tentang fitur dan keuntungan marketplace alternatif setelah pitch solusi.
+Adaptation: Awalnya saya menawarkan perbandingan biaya marketplace. Setelah Jon menyampaikan perhatian terhadap fitur dan keuntungan marketplace alternatif, saya mengubah fokus menjadi perbandingan biaya sekaligus reputasi, keamanan transaksi, dan kemudahan pembeli.
+State setelah interaksi: State Jon menjadi Interest karena ia menyambut kemungkinan marketplace alternatif dan meminta informasi tentang fitur serta keuntungannya.
+Evidence
+Transcript pitch solusi Messenger, 5 November 2026:
+Saya: “Jon, berdasarkan masalah biaya admin tadi, saya ingin membandingkan beberapa pilihan marketplace dari sisi biaya, keamanan, kepercayaan, dan kemudahan. Tujuannya bukan langsung pindah platform, tetapi melihat apakah ada alternatif yang bisa menjaga profit tanpa membuat pembeli merasa tidak aman. Menurutmu, perbandingan seperti ini berguna untuk dipertimbangkan?”
+Jon: “Nah bagus tuh kalo ada marketplace alternatif. Itu fitur nya gimana aja? Sama keuntungannya apa pake marketplace itu?”
+Transcript discovery dan konfirmasi problem statement dari Week 5 mendukung attention evidence. Langkah eksplorasi marketplace alternatif menjadi action setelah percakapan ini.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Jon adalah penjual diecast yang mempertimbangkan profit, harga wajar, keamanan, reputasi, dan kemudahan pembeli. Saya berperan sebagai partner yang membantu mengeksplorasi alternatif marketplace.
+Objective & state
+Objective saya adalah menguji apakah perbandingan marketplace relevan bagi Jon. State Jon berubah dari Problem aware menjadi Interest setelah menyambut alternatif dan meminta informasi fitur serta keuntungan.
+Repertoire & language
+Saya menggunakan evidence biaya, tujuan yang tidak memaksa perpindahan platform, serta bahasa yang menghubungkan biaya dengan keamanan dan kepercayaan pembeli.
+Response & adaptation
+Pertanyaan Jon tentang fitur dan keuntungan menunjukkan bahwa ia tidak hanya mempertimbangkan biaya. Saya mengadaptasi fokus solusi pada biaya, reputasi, keamanan, dan kemudahan.
+Agreement/action
+Jon menyetujui langkah awal untuk mengeksplorasi marketplace alternatif.
+Relationship outcome
+Jon merespons positif dan menunjukkan keterbukaan untuk membahas alternatif marketplace lebih lanjut.
+Penggunaan AI
+Tidak menggunakan AI. Pitch, response, hidden concern, dan adaptation berasal dari percakapan dengan Jon.
+Feedback dan tindak lanjut
+Feedback yang diterima: Jon menyambut kemungkinan marketplace alternatif dan menanyakan fitur serta keuntungannya.
+Adaptation/replay: Fokus solusi diperluas dari biaya admin menjadi perbandingan biaya, reputasi, keamanan transaksi, dan kemudahan pembeli.
+Next practice: Mengeksplorasi marketplace alternatif berdasarkan fitur, biaya, keuntungan, keamanan, reputasi, dan kemudahan penggunaannya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Value dan concern Jon terhadap profit, keamanan, reputasi, dan kemudahan dipetakan.
+Objective & State
+3
+Objective pitch jelas dan state Jon berubah menjadi Interest berdasarkan response langsung.
+Repertoire, Language & AI
+3
+Pitch menggunakan evidence, bahasa tidak memaksa, dan menghubungkan problem dengan value.
+Response & Adaptation
+4
+Pertanyaan Jon mengungkap concern keamanan dan reputasi, lalu fokus solusi diadaptasi.
+Agreement, Action & Relationship
+3
+Jon merespons positif dan menyepakati eksplorasi marketplace alternatif.
+Total: 16 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Muhammad Kafka Ghaisan Yusuf
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#quarto-document-content
+- https://mkafkaa.github.io/repo/index.html
+- https://mkafkaa.github.io/repo/assets/logo.png
+- https://mkafkaa.github.io/repo/course/index.html
+- https://mkafkaa.github.io/repo/portfolio/index.html
+- https://mkafkaa.github.io/repo/examples/index.html
+- https://mkafkaa.github.io/repo/lk/index.html
+- https://mkafkaa.github.io/repo/slides.html
+- https://mkafkaa.github.io/repo/slides-pdf/index.html
+- https://mkafkaa.github.io/repo/assessment/index.html
+- https://mkafkaa.github.io/repo/about.html
+- https://mkafkaa.github.io/repo/portfolio/week-07.html
+- https://mkafkaa.github.io/repo/portfolio/week-01.html
+- https://mkafkaa.github.io/repo/portfolio/week-02.html
+- https://mkafkaa.github.io/repo/portfolio/week-03.html
+- https://mkafkaa.github.io/repo/portfolio/week-04.html
+- https://mkafkaa.github.io/repo/portfolio/week-05.html
+- https://mkafkaa.github.io/repo/portfolio/week-06.html
+- https://mkafkaa.github.io/repo/portfolio/week-08.html
+- https://mkafkaa.github.io/repo/portfolio/week-09.html
+- https://mkafkaa.github.io/repo/portfolio/week-10.html
+- https://mkafkaa.github.io/repo/portfolio/week-11.html
+- https://mkafkaa.github.io/repo/portfolio/week-12.html
+- https://mkafkaa.github.io/repo/portfolio/week-13.html
+- https://mkafkaa.github.io/repo/portfolio/week-14.html
+- https://mkafkaa.github.io/repo/portfolio/week-15.html
+- https://mkafkaa.github.io/repo/portfolio/UAS/index.html
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#kompetensi-target
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#evidence-wajib
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#konteks-performance
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#pitch-dan-demonstration
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#evidence
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#analisis-komunikasi
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#penggunaan-ai
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#self-assessment
+- https://mkafkaa.github.io/repo/portfolio/week-07.html#assessment-dosen
+- https://mkafkaa.github.io/repo/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

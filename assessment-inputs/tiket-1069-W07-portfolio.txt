@@ -1,0 +1,195 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1069
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Demonstrasi prototipe dashboard Streamlit kepada dua rekan tim lomba IDC, penanganan hidden concern soal waktu coding dan kemudahan memilih data, serta adaptasi berupa penambahan filter dan perbaikan tampilan.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Sabtu, 31 Oktober 2026, malam hari, lewat Google Meet, sehari setelah tim memutuskan Streamlit sebagai tools utama lomba Interactive Dashboard Creation (deadline 28 November 2026).
+Persons dan relationship: Saya (integrasi dashboard di Streamlit), Anggota A (pengolahan data dan visualisasi), dan Anggota B (analisis dan pengujian kemudahan penggunaan), satu tim dengan posisi setara. Pada diskusi sehari sebelumnya, A menerima Streamlit dengan syarat, dan B masih lebih menyukai Looker Studio karena dianggap lebih praktis.
+Objective dan initial state: Membangun ketertarikan (Interest) A dan B terhadap Streamlit lewat bukti nyata, bukan sekadar argumen. Initial state: keduanya ada di Attention: sudah menerima keputusan, tetapi A masih khawatir soal waktu coding dan B belum melihat bahwa Streamlit bisa sepraktis Looker Studio.
+Evidence
+Catatan1. Attention Evidence & Solution Hypothesis
+Evidence dari diskusi 30 Oktober 2026: A bertanya siapa yang akan mengerjakan coding dan khawatir pekerjaan menumpuk di satu orang; B menilai Looker Studio lebih praktis dan ingin tim fokus pada isi dashboard.
+Solution Hypothesis: prototipe awal dashboard Streamlit yang sudah jadi dapat menunjukkan bahwa tim tidak memulai dari nol, sekaligus menjadi bahan uji kemudahan penggunaan sebelum fitur ditambah.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Coding Streamlit dikhawatirkan memakan waktu lama (A)
+Prototipe awal yang sudah saya buat dijadikan dasar pengembangan
+Tim tinggal mengembangkan, tidak membangun dari nol
+A bisa fokus pada pengolahan data dan visualisasi tanpa terbebani coding dari awal
+Streamlit dianggap kurang praktis dibanding Looker Studio (B)
+Filter untuk memilih data yang ingin ditampilkan
+Pengguna dashboard bisa memilih data dengan mudah
+Kebutuhan B akan dashboard yang praktis tetap terpenuhi di tools yang dipilih tim
+Tampilan awal belum rapi
+Perbaikan susunan grafik, ukuran teks dan judul, warna, dan tata letak
+Dashboard lebih mudah dibaca
+Hasil kerja A dan B tampil lebih jelas di dashboard akhir
+2. Pitch & Demonstration
+“Aku coba bikin prototipe dashboard pakai Streamlit. Ini gambaran hasilnya.”
+Saya membagikan layar di Google Meet dan menunjukkan prototipe awal dashboard secara keseluruhan, sehingga A dan B melihat langsung hasil Streamlit, bukan hanya mendengar penjelasan kelebihannya.
+3. Response, Hidden Concern & Adaptation
+Reaksi awal: A dan B memberi respons positif setelah melihat tampilan prototipe.
+Kekhawatiran A: “Kalau pakai Streamlit, takutnya coding-nya bakal makan waktu lama.”
+Identifikasi Hidden Concern: demonstrasi saya berfokus pada tampilan hasil. Respons A menunjukkan yang sebenarnya ia khawatirkan bukan tampilan, melainkan beban waktu membangun dashboard dari awal. Usulan B menunjukkan kebutuhannya adalah kemudahan memilih data, alasan yang sama dengan preferensinya pada Looker Studio.
+Adaptasi:
+Saya menjelaskan bahwa prototipe ini menjadi dasar pengembangan, sehingga tim tidak mulai dari nol. A merespons: “Oh, kalau sudah ada prototype-nya berarti kita tinggal mengembangkan dari sini, ya.”
+B mengusulkan: “Bisa ditambah filter supaya data yang mau dilihat lebih gampang dipilih?” Saya menerima usulan itu dan menambahkan filter ke prototipe.
+Saya memperbaiki tampilan: susunan dan posisi grafik dirapikan, ukuran tulisan dan judul diperbesar, warna dan desain disesuaikan, dan tata letak keseluruhan diperbaiki.
+Hasil & State Shift: A menjadi lebih yakin memakai Streamlit, dan B aktif memberi masukan pengembangan. Versi terbaru ditunjukkan kembali di rapat berikutnya dan dibagikan lewat WhatsApp; A dan B menilai tampilannya lebih baik dan memberi masukan lanjutan. State keduanya bergeser dari Attention ke Interest, terlihat dari keyakinan A dan kontribusi aktif B terhadap pengembangan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Dua target dengan keberatan berbeda dibaca terpisah: A soal waktu coding, B soal kepraktisan; keduanya diperlakukan sebagai rekan setara yang ikut menentukan arah dashboard.
+Objective & state
+State A dan B dinilai dari Attention ke Interest; saya tidak menganggap keputusan 30 Oktober sudah otomatis berarti mereka tertarik.
+Repertoire & language
+Pitch memakai demonstrasi langsung lewat share screen, lalu dihubungkan dengan kekhawatiran yang muncul di diskusi sebelumnya.
+Response & adaptation
+Kekhawatiran A dijawab dengan menjadikan prototipe dasar pengembangan; usulan B mengubah mekanisme solusi dengan penambahan filter; tampilan diperbaiki dan ditunjukkan ulang.
+Agreement/action
+A menerima Streamlit dengan lebih yakin, filter ditambahkan, versi terbaru dibagikan di WhatsApp, dan masukan lanjutan dicatat untuk pengembangan berikutnya.
+Relationship outcome
+B, yang sebelumnya lebih menyukai Looker Studio, ikut membentuk dashboard lewat usulannya sendiri, sehingga keputusan tools terasa milik bersama.
+Penggunaan AI
+AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio. AI tidak menambahkan kutipan, reaksi A dan B, maupun detail prototipe; semuanya berasal dari kejadian yang saya alami.
+Feedback dan tindak lanjut
+Feedback yang diterima: B mengusulkan filter agar data lebih mudah dipilih; setelah melihat versi terbaru, A dan B memberi masukan perbaikan tampilan dan menilai dashboard menjadi lebih baik.
+Adaptation/replay: filter ditambahkan, tampilan diperbaiki, versi terbaru ditunjukkan di rapat berikutnya dan dibagikan lewat WhatsApp, dan masukan tambahan dicatat untuk tahap pengembangan selanjutnya.
+Next practice: sebelum demonstrasi, tanyakan dulu apa yang paling dikhawatirkan tiap anggota, supaya demo langsung menjawab kekhawatiran itu, bukan hanya menunjukkan tampilan.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Kekhawatiran A (waktu coding) dan kebutuhan B (kepraktisan) dibaca terpisah dan dihubungkan dengan posisi mereka di diskusi sebelumnya.
+Objective & State
+4
+State A dan B digeser dari Attention ke Interest lewat bukti, bukan dengan menganggap keputusan tim sudah cukup.
+Repertoire, Language & AI
+4
+Demonstrasi prototipe langsung lewat share screen; AI dibatasi pada penyusunan dan pemetaan problem–solution.
+Response & Adaptation
+4
+Kekhawatiran A dijawab dengan prototipe sebagai dasar; usulan filter dari B langsung diterapkan; tampilan diperbaiki dan ditunjukkan ulang.
+Agreement, Action & Relationship
+4
+A lebih yakin, B aktif memberi masukan, versi baru dibagikan, dan masukan lanjutan dicatat untuk pengembangan.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#quarto-document-content
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-07.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,499 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 998
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://qilooooow.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+UTS Performance Evidence Package
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+1. Konteks dan Identifikasi Permasalahan
+Objective
+2. Target Map
+Target yang Dipilih
+Person dan Character Assessment
+3. Evidence Preparation
+Evidence yang Akan Divalidasi
+4. Attention Pitch
+Initial Pitch
+Analisis Attention Pitch
+5. Response Target
+Simulated Response
+Response Analysis
+Initial State Assessment
+6. Response Adaptation
+Adapted Response
+Adaptation Analysis
+Alasan Adaptation
+7. Response Setelah Adaptation
+Simulated Response
+Final State Assessment
+8. Agreement dan Action Plan
+Agreement
+Action Plan
+9. Evidence dan Dokumentasi
+Evidence yang Tersedia dalam Rancangan
+Evidence Pelaksanaan
+10. Refleksi Pribadi
+11. Penggunaan AI
+12. Next Practice
+13. Self-Assessment
+Justifikasi Self-Assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, evidence-based attention pitch, response, state assessment, dan adaptation dalam koordinasi Business Development.
+Kompetensi Target
+Memilih target person yang tepat berdasarkan relevance, authority, dan current state, kemudian membangun attention terhadap suatu permasalahan melalui evidence yang relevan. Kompetensi ini mencakup kemampuan membedakan observation dan inference, membaca respons target, mengadaptasi pendekatan komunikasi, serta menghasilkan agreement dan tindak lanjut yang konkret.
+CatatanKonteks Praktik
+Praktik ini disusun sebagai skenario role-play berdasarkan pengalaman organisasi saya sebagai Staff Business Development di Inkubator IT ITB. Respons target dan kesepakatan yang dituliskan merupakan hasil simulasi yang perlu dibuktikan melalui pelaksanaan role-play dan observer note.
+1. Konteks dan Identifikasi Permasalahan
+Sebagai Staff Business Development di Inkubator IT ITB, saya terlibat dalam aktivitas yang berkaitan dengan pengembangan peluang kerja sama dan koordinasi dengan calon mitra.
+Dalam proses Business Development, keberhasilan pendekatan tidak hanya ditentukan oleh kemampuan menghubungi calon mitra, tetapi juga oleh konsistensi dalam melakukan follow-up dan memantau perkembangan komunikasi.
+Saya mengidentifikasi potensi permasalahan berupa kurangnya visibilitas terhadap status follow-up ketika informasi komunikasi tersebar melalui beberapa kanal, seperti grup koordinasi, pesan pribadi, dan dokumen kerja.
+Kondisi ini berpotensi menimbulkan tiga risiko:
+Information gap: Anggota membutuhkan waktu tambahan untuk mengetahui perkembangan terakhir calon mitra.
+Unclear ownership: Pembagian tanggung jawab follow-up berpotensi menjadi kurang jelas.
+Delayed action: Tindak lanjut berpotensi tertunda apabila next action belum terdokumentasi secara konsisten.
+Namun, ketiga risiko tersebut masih merupakan hipotesis. Saya belum memiliki evidence yang cukup untuk menyimpulkan bahwa koordinasi yang berjalan benar-benar tidak efektif.
+Oleh karena itu, saya memilih untuk membangun attention terhadap pentingnya evaluasi proses terlebih dahulu, bukan langsung menawarkan sistem baru.
+Objective
+Primary Objective
+Membuat Koordinator Business Development mengakui bahwa visibilitas status follow-up merupakan isu yang relevan untuk diperiksa dan menyetujui langkah validasi terbatas.
+Secondary Objective
+Membangun komunikasi yang kolaboratif agar target melihat pembahasan ini sebagai upaya meningkatkan efektivitas tim, bukan kritik terhadap mekanisme yang sudah berjalan.
+Minimum Acceptable Outcome
+Target bersedia mendiskusikan indikator yang dapat digunakan untuk mengevaluasi efektivitas monitoring.
+Desired Outcome
+Target menyetujui evaluasi terbatas terhadap lima riwayat follow-up calon mitra, dengan ruang lingkup dan batasan akses yang jelas.
+2. Target Map
+Person
+Relevance
+Authority
+Current State
+Koordinator Business Development
+Bertanggung jawab atas koordinasi pendekatan dan tindak lanjut calon mitra
+Dapat mengevaluasi proses kerja dan menyetujui evaluasi internal
+Solution aware, low urgency
+Staff Business Development
+Menjalankan komunikasi dan follow-up secara langsung
+Dapat memberikan pengalaman operasional dan menguji perbaikan
+Problem aware
+Project Manager
+Membutuhkan informasi perkembangan kerja sama untuk mendukung proyek
+Dapat memberikan masukan terkait kebutuhan informasi lintas divisi
+Problem aware
+Pengurus inti organisasi
+Memantau efektivitas organisasi dan perkembangan kemitraan
+Dapat menyetujui perubahan yang berdampak luas
+Unaware/Netral
+Target yang Dipilih
+Saya memilih Koordinator Business Development sebagai target utama.
+Pemilihan ini didasarkan pada tiga pertimbangan.
+1. Relevance
+Koordinator memiliki keterlibatan langsung dalam pengawasan aktivitas Business Development. Dengan demikian, isu mengenai monitoring dan koordinasi follow-up berkaitan dengan tanggung jawabnya.
+2. Authority
+Koordinator memiliki kewenangan operasional untuk memberikan arahan dan menyetujui evaluasi internal tanpa harus langsung mengubah kebijakan organisasi.
+3. Accessibility
+Sebagai staff, saya memiliki hubungan kerja langsung dengan koordinator sehingga diskusi dapat dilakukan melalui mekanisme komunikasi yang sudah tersedia.
+Saya tidak langsung memilih pengurus inti karena perubahan sistem belum menjadi objective pada tahap ini. Saya juga tidak hanya memilih sesama staff karena validasi masalah membutuhkan perspektif yang lebih menyeluruh terhadap proses kerja.
+Person dan Character Assessment
+Aspek
+Assessment
+Person
+Koordinator Business Development
+Character
+Pemimpin operasional yang bertanggung jawab terhadap koordinasi dan efektivitas anggota
+Primary Concern
+Kelancaran follow-up tanpa meningkatkan beban administrasi
+Potential Resistance
+Menganggap sistem tambahan tidak diperlukan karena komunikasi informal masih berjalan
+Preferred Approach
+Diskusi singkat, evidence-based, dan tidak langsung menuntut perubahan
+Relationship Objective
+Membangun kepercayaan melalui inisiatif yang tetap menghormati kewenangan koordinator
+Saya memahami bahwa target tidak hanya mempertimbangkan apakah suatu ide bermanfaat, tetapi juga apakah ide tersebut realistis untuk dijalankan oleh tim.
+Karena itu, saya memilih pendekatan yang menekankan efisiensi dan validasi, bukan langsung menawarkan solusi.
+3. Evidence Preparation
+Sebelum menyusun pitch, saya memisahkan informasi menjadi observation, inference, dan validation needed.
+Komponen
+Evidence atau Penalaran
+Observation
+Informasi komunikasi calon mitra dapat tersimpan pada beberapa kanal berbeda
+Observation
+Monitoring membutuhkan informasi mengenai PIC, status terakhir, dan next action
+Inference
+Penyebaran informasi berpotensi meningkatkan effort untuk memantau perkembangan kerja sama
+Inference
+Ketidakjelasan status berpotensi memengaruhi konsistensi follow-up
+Validation Needed
+Apakah PIC dan next action sudah mudah diketahui melalui mekanisme saat ini?
+Validation Needed
+Apakah terdapat keterlambatan akibat koordinasi internal atau justru respons calon mitra?
+Evidence yang Akan Divalidasi
+Untuk menghindari kesimpulan berdasarkan asumsi, saya merancang pemeriksaan terhadap lima riwayat follow-up calon mitra yang dapat diakses dengan izin.
+Indikator yang akan diperiksa:
+Indikator
+Pertanyaan Evaluasi
+PIC clarity
+Apakah penanggung jawab setiap calon mitra dapat diidentifikasi?
+Status visibility
+Apakah status komunikasi terakhir mudah diketahui?
+Next action clarity
+Apakah tindak lanjut berikutnya sudah jelas?
+Follow-up timeliness
+Apakah tindak lanjut dilakukan sesuai waktu yang direncanakan?
+Delay attribution
+Apakah keterlambatan berasal dari koordinasi internal atau respons eksternal?
+Lima riwayat dipilih sebagai pemeriksaan awal yang terbatas, bukan sampel yang cukup untuk menggeneralisasi seluruh kinerja divisi.
+PentingEvidence Boundary
+Saya belum memiliki data yang membuktikan bahwa mekanisme monitoring menyebabkan keterlambatan atau kehilangan peluang kerja sama. Karena itu, pitch hanya menyampaikan potensi risiko dan mengusulkan validasi, bukan mengklaim adanya penurunan performa.
+4. Attention Pitch
+Initial Pitch
+“Kak, aku mau diskusi sedikit soal proses follow-up calon mitra. Dari alur kerja yang aku perhatikan, update komunikasi bisa tersebar di beberapa tempat, jadi ketika mau mengecek status terakhir suatu mitra, kita mungkin perlu melihat beberapa sumber informasi.
+Aku belum bisa menyimpulkan kalau ini menyebabkan keterlambatan, karena bisa saja koordinasi yang sekarang sebenarnya sudah cukup efektif. Tapi menurutku ada peluang untuk membuat monitoring lebih mudah, terutama ketika beberapa anggota menangani mitra yang berbeda.
+Sebelum membahas solusi, menurut Kakak apakah perlu kita cek dulu apakah PIC, status terakhir, dan next action setiap mitra sudah cukup mudah dipantau?”
+Analisis Attention Pitch
+Pitch tersebut dirancang menggunakan empat strategi.
+1. Relevance First
+Saya menghubungkan isu dengan tanggung jawab target, yaitu memastikan koordinasi follow-up berjalan efektif.
+2. Evidence Before Solution
+Saya memulai dari kondisi yang dapat diperiksa, bukan langsung menyatakan bahwa tim membutuhkan tracker baru.
+3. Calibrated Claim
+Saya secara eksplisit menyatakan bahwa hubungan antara penyebaran informasi dan keterlambatan belum terbukti.
+4. Low-Commitment Question
+Saya tidak meminta persetujuan untuk mengimplementasikan sistem baru, melainkan meminta pandangan target mengenai perlunya evaluasi.
+Pendekatan ini bertujuan mengurangi resistensi dan memberikan ruang bagi target untuk menilai relevansi isu secara mandiri.
+5. Response Target
+Simulated Response
+Dalam role-play, target memberikan respons berikut:
+“Sebenarnya selama ini update lewat chat masih cukup efektif. Kalau harus bikin tracker baru, aku khawatir anak-anak justru punya tambahan kerjaan. Lagipula, belum tentu masalahnya ada di monitoring. Bisa jadi memang respons dari calon mitranya yang lama.”
+Response Analysis
+Saya mengidentifikasi tiga keberatan utama.
+Response
+Interpretasi
+Implikasi
+“Update lewat chat masih cukup efektif”
+Target belum melihat masalah yang cukup signifikan
+Perlu memvalidasi apakah ada information gap
+“Tracker baru menambah kerjaan”
+Target mempertimbangkan biaya implementasi dan beban anggota
+Solusi harus memiliki effort rendah
+“Respons calon mitranya yang lama”
+Target menawarkan alternatif penyebab keterlambatan
+Perlu membedakan faktor internal dan eksternal
+Saya tidak menganggap respons tersebut sebagai penolakan terhadap diri saya atau ide yang disampaikan.
+Sebaliknya, respons tersebut memberikan informasi mengenai prioritas target dan batasan yang harus dipertimbangkan.
+Initial State Assessment
+State sebelum pitch: Solution aware, low urgency.
+Target mengetahui mekanisme monitoring yang berlaku dan belum melihat urgensi untuk melakukan perubahan.
+State setelah pitch: Attention with reservation.
+Target mulai menanggapi isu yang disampaikan, tetapi masih mempertanyakan magnitude permasalahan dan relevansi solusi.
+Saya tidak mengategorikan target sebagai Interest karena belum terdapat indikasi ketertarikan terhadap penerapan solusi tertentu.
+6. Response Adaptation
+Berdasarkan keberatan target, saya menyadari bahwa melanjutkan pembicaraan dengan menawarkan tracker baru justru dapat memperkuat resistensi.
+Saya kemudian mengubah pendekatan dari solution-oriented menjadi evidence-oriented.
+Adapted Response
+“Iya Kak, aku setuju kalau sistem baru malah nambah pekerjaan, berarti belum tentu itu solusi yang tepat. Aku juga setuju kalau keterlambatan respons bisa berasal dari calon mitranya, bukan dari koordinasi internal kita.
+Mungkin sebelum membuat perubahan, kita bisa lihat beberapa riwayat follow-up yang sudah ada. Dari situ kita cek apakah PIC, status terakhir, dan next action-nya memang mudah diketahui atau masih ada bagian yang perlu diperjelas.
+Kalau ternyata mekanisme sekarang sudah efektif, berarti kita nggak perlu menambah sistem baru. Tapi kalau ada kendala yang berulang, kita bisa mempertimbangkan perbaikan yang paling sederhana.
+Menurut Kakak, kalau evaluasinya dibatasi ke beberapa contoh dulu dan nggak mengubah alur kerja yang sekarang, memungkinkan nggak?”
+Adaptation Analysis
+Aspek
+Sebelum Adaptation
+Setelah Adaptation
+Focus
+Potensi kebutuhan monitoring yang lebih baik
+Validasi efektivitas mekanisme yang sudah berjalan
+Objective
+Membangun attention terhadap masalah
+Memperoleh persetujuan evaluasi terbatas
+Language
+Menjelaskan potensi risiko
+Mengakui concern dan menawarkan langkah kecil
+Repertoire
+Problem/opportunity framing
+Active listening, validation, dan collaborative inquiry
+Perceived Risk
+Kemungkinan penambahan sistem
+Evaluasi tanpa perubahan prosedur
+Expected Response
+Target mengakui relevansi isu
+Target bersedia memeriksa evidence bersama
+Alasan Adaptation
+1. Active Listening
+Saya merespons dua keberatan utama secara eksplisit, yaitu beban administrasi dan kemungkinan keterlambatan dari pihak eksternal.
+2. Perspective Validation
+Saya mengakui bahwa mekanisme saat ini mungkin sudah efektif sehingga evaluasi tidak harus menghasilkan sistem baru.
+3. Reducing Perceived Risk
+Saya memperkecil komitmen yang diminta menjadi pemeriksaan beberapa kasus tanpa mengubah alur kerja.
+4. Objective Adjustment
+Saya tidak lagi berfokus pada penerimaan solusi, tetapi pada kesepakatan untuk mengumpulkan evidence yang lebih baik.
+5. Relationship Preservation
+Saya menggunakan pertanyaan terbuka dan tetap memberikan kewenangan kepada koordinator untuk menentukan kelayakan langkah berikutnya.
+7. Response Setelah Adaptation
+Simulated Response
+Dalam lanjutan role-play, koordinator memberikan tanggapan:
+“Kalau cuma evaluasi beberapa follow-up dan nggak langsung bikin sistem baru, menurutku boleh. Coba pilih beberapa contoh yang sudah ada dan lihat apakah memang ada kendala dari sisi koordinasi. Nanti kita bahas hasilnya.”
+Respons ini menunjukkan bahwa target mulai menerima pentingnya evaluasi, meskipun belum menyetujui penerapan solusi baru.
+Final State Assessment
+Tahap
+State
+Evidence
+Sebelum Pitch
+Solution aware, low urgency
+Target menganggap koordinasi yang berjalan sudah cukup efektif
+Setelah Initial Pitch
+Attention with reservation
+Target menanggapi isu tetapi mempertanyakan urgensi dan dampaknya
+Setelah Adaptation
+Attention validated, open to investigation
+Target bersedia memberikan kesempatan untuk evaluasi terbatas
+Final State: Attention validated, open to limited investigation.
+Perubahan state ditunjukkan oleh kesediaan target untuk mempertimbangkan evidence tambahan dan menyetujui pemeriksaan terbatas.
+Namun, saya tidak mengklaim bahwa target telah mencapai Interest terhadap solusi tracker karena belum terdapat persetujuan untuk menerapkan mekanisme baru.
+Keberhasilan tahap Attention dalam simulasi ini terletak pada perubahan dari mempertahankan mekanisme yang ada menjadi bersedia mengevaluasi apakah terdapat peluang perbaikan.
+8. Agreement dan Action Plan
+Agreement
+Dalam simulasi, saya dan koordinator menyepakati evaluasi terbatas terhadap lima riwayat follow-up calon mitra.
+Komponen
+Kesepakatan
+Action
+Meninjau lima riwayat follow-up yang tersedia
+Owner
+Saya sebagai Staff Business Development
+Support
+Koordinator memberikan arahan mengenai informasi yang boleh diperiksa
+Timeline
+Tiga hari kerja setelah diskusi
+Output
+Ringkasan temuan dan rekomendasi awal
+Success Criteria
+Dapat dibedakan kendala koordinasi internal dan keterlambatan eksternal
+Boundary
+Tidak mengakses pesan pribadi tanpa izin dan tidak mengubah prosedur sebelum evaluasi
+Action Plan
+Tahap 1 — Data Collection
+Saya akan mengumpulkan informasi yang relevan dari lima riwayat follow-up yang telah memperoleh izin akses.
+Informasi yang diperiksa meliputi:
+PIC yang bertanggung jawab.
+Status komunikasi terakhir.
+Waktu komunikasi terakhir.
+Next action yang direncanakan.
+Penyebab keterlambatan jika ditemukan.
+Tahap 2 — Pattern Identification
+Saya akan mengidentifikasi apakah terdapat pola kendala yang berulang.
+Keterlambatan respons calon mitra tidak akan langsung dikategorikan sebagai masalah koordinasi internal.
+Tahap 3 — Alternative Evaluation
+Jika ditemukan kendala internal, saya akan mempertimbangkan alternatif dengan effort terendah terlebih dahulu.
+Alternatif tersebut dapat berupa standardisasi format update pada kanal komunikasi yang sudah digunakan.
+Pembuatan tracker baru hanya akan dipertimbangkan jika evidence menunjukkan kebutuhan yang jelas.
+Tahap 4 — Follow-up Discussion
+Saya akan menyampaikan hasil evaluasi kepada koordinator dengan memisahkan:
+Temuan yang dapat diverifikasi.
+Interpretasi terhadap temuan.
+Rekomendasi yang mungkin dilakukan.
+Keterbatasan data dan risiko implementasi.
+Keputusan perubahan proses tetap berada pada koordinator dan pihak yang memiliki kewenangan terkait.
+9. Evidence dan Dokumentasi
+Evidence yang Tersedia dalam Rancangan
+Evidence
+Bentuk
+Fungsi
+Target map
+Tabel stakeholder
+Membuktikan dasar pemilihan target
+Evidence preparation
+Observation–inference–validation table
+Menunjukkan pemisahan fakta dan asumsi
+Initial pitch
+Naskah komunikasi
+Menunjukkan strategi membangun attention
+Simulated response
+Transkrip skenario
+Menjadi dasar latihan interpretasi respons
+Adapted response
+Naskah respons lanjutan
+Menunjukkan perubahan pendekatan
+State assessment
+Tabel tiga tahap
+Menunjukkan evaluasi perubahan state
+Agreement
+Tabel kesepakatan simulasi
+Menunjukkan rancangan tindak lanjut yang terukur
+Evidence Pelaksanaan
+Untuk membuktikan kompetensi secara aktual, saya perlu melengkapi:
+Rekaman atau transkrip role-play yang benar-benar dilaksanakan.
+Observer note mengenai kualitas pitch dan respons target.
+Feedback terhadap ketepatan state assessment.
+Dokumentasi agreement yang muncul selama praktik.
+Perbandingan antara rancangan dan hasil praktik.
+Evidence tersebut penting agar penilaian tidak hanya didasarkan pada kualitas naskah, tetapi juga pada kemampuan menerapkan strategi komunikasi.
+10. Refleksi Pribadi
+Melalui Target–Attention Challenge ini, saya memahami bahwa komunikasi persuasif bukan hanya tentang bagaimana membuat orang lain menerima ide, tetapi juga bagaimana membuat suatu isu dipandang relevan dari perspektif target.
+Salah satu pembelajaran terbesar bagi saya adalah bahwa relevance harus dibangun sebelum menawarkan solusi.
+Dalam konteks Business Development, suatu usulan yang terlihat bermanfaat belum tentu menjadi prioritas bagi koordinator. Target juga harus mempertimbangkan waktu, kapasitas anggota, dan dampak perubahan terhadap pekerjaan yang sedang berjalan.
+Saya juga belajar bahwa keberatan tidak selalu berarti penolakan. Ketika target mempertanyakan urgensi masalah, respons tersebut justru memberikan informasi mengenai hal yang perlu saya validasi.
+Daripada langsung mempertahankan ide awal, saya dapat menyesuaikan objective dan menawarkan langkah yang lebih kecil.
+Hal ini juga berkaitan dengan kemampuan komunikasi asertif yang ingin saya kembangkan. Saya ingin mampu menyampaikan pandangan secara jelas tanpa mengabaikan perspektif orang lain atau menghindari diskusi hanya karena terdapat perbedaan pendapat.
+Dalam latihan ini, saya berusaha mempertahankan substansi masalah sambil tetap terbuka terhadap kemungkinan bahwa asumsi awal saya belum tentu benar.
+Saya menyadari bahwa membangun attention membutuhkan keseimbangan antara confidence dan intellectual humility. Saya perlu cukup percaya diri untuk mengangkat isu yang menurut saya penting, tetapi juga cukup terbuka untuk merevisi pandangan berdasarkan evidence dan respons target.
+Pembelajaran lain adalah pentingnya membedakan antara attention, interest, dan agreement.
+Target yang bersedia mendengarkan belum tentu tertarik pada solusi. Begitu pula target yang bersedia melakukan evaluasi belum tentu telah menyetujui perubahan sistem.
+Dengan memahami perbedaan tersebut, saya dapat menilai perkembangan komunikasi secara lebih objektif dan tidak terburu-buru menyimpulkan keberhasilan.
+Bagi saya, hasil yang paling penting bukan persetujuan terhadap tracker baru, melainkan terbukanya kesempatan untuk melakukan evaluasi bersama dengan batasan dan tindak lanjut yang jelas.
+11. Penggunaan AI
+AI digunakan untuk mendukung proses pembelajaran, terutama dalam:
+Menyusun beberapa alternatif attention pitch.
+Menguji apakah observation dan inference sudah dibedakan.
+Mensimulasikan keberatan yang mungkin muncul dari target.
+Mengevaluasi apakah adapted response benar-benar menjawab concern.
+Memeriksa apakah perubahan state dinilai secara realistis.
+Menyusun indikator agreement dan tindak lanjut.
+Saya menggunakan AI sebagai sarana latihan dan evaluasi, bukan sebagai pengganti evidence interaksi nyata.
+AI tidak digunakan untuk membuat klaim mengenai jumlah keterlambatan, kegagalan kerja sama, atau hasil observasi yang belum dilakukan.
+12. Next Practice
+Pada latihan berikutnya, saya menetapkan tiga target pengembangan.
+1. Concise Attention Pitch
+Menyampaikan pitch dalam waktu maksimal 45 detik dengan tetap mencakup relevance, observation, uncertainty, dan pertanyaan kepada target.
+2. Evidence-Based Adaptation
+Melatih kemampuan merespons keberatan tanpa langsung mempertahankan solusi, dengan menggunakan active listening dan pertanyaan klarifikasi.
+3. More Accurate State Assessment
+Membandingkan penilaian state pribadi dengan observer feedback agar tidak terlalu cepat menginterpretasikan respons positif sebagai Interest atau persetujuan.
+Saya juga ingin mencoba pendekatan serupa dalam diskusi organisasi yang sebenarnya, terutama ketika perlu menyampaikan usulan perbaikan proses kepada koordinator atau anggota tim.
+13. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+4
+Target map membandingkan empat stakeholder berdasarkan relevance, authority, dan state. Target dipilih berdasarkan tanggung jawab, kewenangan, aksesibilitas, dan potensi concern.
+Objective & State
+4
+Primary, secondary, minimum, dan desired objective ditetapkan. State dievaluasi pada tiga tahap tanpa mengklaim Interest secara prematur.
+Repertoire, Language & AI
+4
+Pitch membedakan observation, inference, dan validation needed. Bahasa disesuaikan dengan prioritas target. Penggunaan AI dijelaskan secara transparan.
+Response & Adaptation
+4
+Tiga keberatan dianalisis secara spesifik. Adaptation mengubah pendekatan dari solution-oriented menjadi evidence-oriented dan menurunkan perceived risk.
+Agreement, Action & Relationship
+4
+Agreement simulasi memiliki action, owner, timeline, output, success criteria, dan boundary. Pendekatan mempertahankan hubungan kolaboratif dan menghormati authority target.
+Total Self-Assessment: 20/20 — Target Kompetensi Maksimal.
+Justifikasi Self-Assessment
+Saya menetapkan target skor 4 pada seluruh dimensi karena rancangan latihan menunjukkan keterkaitan yang jelas antara pemilihan target, objective, evidence, response, adaptation, dan agreement.
+Pada dimensi Person & Character, saya tidak hanya memilih target berdasarkan posisi, tetapi juga mempertimbangkan tanggung jawab, prioritas, kewenangan, dan potensi keberatan.
+Pada dimensi Objective & State, saya membedakan beberapa tingkat keberhasilan dan menilai perubahan state berdasarkan respons yang muncul, bukan berdasarkan asumsi bahwa target telah menerima solusi.
+Pada dimensi Repertoire, Language & AI, saya menyusun pitch yang relevan, menghindari klaim tanpa evidence, dan menggunakan AI sebagai alat simulasi serta evaluasi secara transparan.
+Pada dimensi Response & Adaptation, saya menunjukkan perubahan strategi yang didasarkan pada keberatan target. Saya tidak sekadar mengulang argumen, tetapi mengubah objective dan menurunkan risiko komitmen yang diminta.
+Pada dimensi Agreement, Action & Relationship, saya merancang tindak lanjut yang spesifik dan terukur dengan tetap mempertimbangkan batasan akses informasi, beban kerja, serta kewenangan pengambilan keputusan.
+Kekuatan utama latihan ini terletak pada kemampuan membangun attention tanpa memaksakan solusi yang belum tervalidasi.
+Meskipun rancangan ini menargetkan 20/20, penilaian aktual tetap memerlukan evidence pelaksanaan, respons target, observer feedback, dan dokumentasi agreement.
+PentingKey Learning
+Komunikasi yang efektif bukan tentang memenangkan argumen atau membuat target langsung menerima solusi. Keberhasilan tahap Attention adalah ketika target memahami relevansi suatu isu, bersedia mempertimbangkan evidence, dan membuka ruang untuk langkah berikutnya.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Aqila Zahra Athaya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://qilooooow.github.io/kipp-students/index.html
+- https://qilooooow.github.io/kipp-students/assets/logo.png
+- https://qilooooow.github.io/kipp-students/course/index.html
+- https://qilooooow.github.io/kipp-students/portfolio/index.html
+- https://qilooooow.github.io/kipp-students/examples/index.html
+- https://qilooooow.github.io/kipp-students/lk/index.html
+- https://qilooooow.github.io/kipp-students/slides.html
+- https://qilooooow.github.io/kipp-students/slides-pdf/index.html
+- https://qilooooow.github.io/kipp-students/assessment/index.html
+- https://qilooooow.github.io/kipp-students/about.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-01.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-02.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-03.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-04.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-05.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-07.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-08.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-09.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-10.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-11.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-12.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-13.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-14.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-15.html
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#konteks-dan-identifikasi-permasalahan
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#objective
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#target-yang-dipilih
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#person-dan-character-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#evidence-preparation
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#evidence-yang-akan-divalidasi
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#initial-pitch
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#analisis-attention-pitch
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#response-target
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#simulated-response
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#response-analysis
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#initial-state-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#response-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#adapted-response
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#adaptation-analysis
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#alasan-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#response-setelah-adaptation
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#simulated-response-1
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#final-state-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#agreement-dan-action-plan
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#agreement
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#action-plan
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#evidence-dan-dokumentasi
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#evidence-yang-tersedia-dalam-rancangan
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#evidence-pelaksanaan
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#refleksi-pribadi
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#next-practice
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://qilooooow.github.io/kipp-students/portfolio/week-06.html#justifikasi-self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

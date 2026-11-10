@@ -1,0 +1,169 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 856
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fargudd.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Panduan Detoks Fitur (Bab 07)
+Portfolio Minggu 8 — UTS KIPP
+Portofolio UTS
+Makalah Akademik: MBTI, Komunikasi Efektif, dan Kerangka PASK dalam Pengemasan Solusi Sistem Informasi
+Laporan UTS KIPP - Sesi 1
+Laporan UTS KIPP - Sesi 2a
+Laporan UTS KIPP - Sesi 2b
+Laporan UTS KIPP - Sesi 3a
+Laporan UTS KIPP 2026 — Versi 2.0
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Identitas Mahasiswa
+Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Rubrik Penilaian & Evaluasi Mandiri
+Five-Language Translation Portfolio
+Fondasi
+Language
+Satu meaning untuk lima person atau character.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Identitas Mahasiswa
+Nama Lengkap: Farrel Garuda Haryono
+NIM: 18225121
+Program Studi: Sistem Teknologi dan Informasi
+Tanggal Pengisian: 29 September 2026
+Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+Konsep Teknis yang Dipilih:
+Enkripsi Kunci Publik (Public Key Cryptography / Asymmetric Encryption)
+Definisi Teknis Awal:
+Skema kriptografi asimetris yang menggunakan sepasang kunci terikat secara matematis—kunci publik untuk enkripsi dan kunci privat untuk dekripsi—guna menjamin kerahasiaan, integritas, dan otentikasi data tanpa perlu membagikan kunci rahasia terlebih dahulu.
+Daftar Jargon Teknis & Artian Sederhananya:
+Kriptografi Asimetris: Sistem gembok yang menggunakan dua kunci berbeda (satu untuk mengunci, satu untuk membuka).
+Enkripsi & Dekripsi: Mengacak pesan menjadi kode rahasia, lalu mengembalikannya lagi menjadi tulisan yang bisa dibaca.
+Otentikasi Data: Cara memastikan bahwa pengirim pesan memang benar-benar orang yang bersangkutan, bukan penipu.
+Kebenaran Inti (Marrow of the Message):
+Cara aman untuk berkirim pesan rahasia di internet tanpa takut diintip orang lain, menggunakan gembok umum yang bisa dipakai siapa saja dan kunci pribadi yang hanya disimpan oleh kita.
+Tahap 2: Matriks Terjemahan Lima Bahasa
+1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+Karakteristik Pendengar: Menggunakan pemikiran konkret, menyukai imajinasi, dan belum mengenal istilah akademis.
+Draf Terjemahan: Bayangkan kamu punya kotak harta karun terbuka dengan gembok ajaib di luar rumah. Siapa saja boleh memasukkan surat ke kotak itu lalu menguncinya. Tapi, gembok itu cuma bisa dibuka pakai satu kunci rahasia yang selalu kamu kalungkan di lehermu. Jadi, teman-temanmu bisa kirim pesan rahasia kapan saja, dan cuma kamu yang bisa membacanya!
+2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+Karakteristik Pendengar: Setara secara usia, santai, dan tidak memiliki latar belakang keilmuan yang sama.
+Draf Terjemahan: Jadi gini, kalau kita kirim pesan atau transaksi di internet, biar nggak bisa diintip hacker, sistemnya pakai dua kunci. Kunci pertama itu kayak alamat rumah atau nomor rekening (semua orang boleh tahu) buat ‘mengunci’ pesan. Kunci kedua itu kayak PIN ATM kamu sendiri buat ‘membuka’ pesannya. Jadi walau pesan itu lewat internet umum, yang bisa baca cuma si pemilik PIN itu.
+3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+Karakteristik Pendengar: Menuntut efisiensi, akurasi tinggi, serta pembuktian logis/akademis.
+Draf Terjemahan: Sistem ini memanfaatkan algoritma kriptografi asimetris (seperti RSA atau ECC) dengan key pair: public key dibagikan secara terbuka untuk proses enkripsi payload, sedangkan private key disimpan secara kompromistis di sisi penerima untuk decryption dan digital signature. Ini menyelesaikan hambatan key exchange problem pada kriptografi simetris.
+4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+Karakteristik Pendengar: Berorientasi pada hasil, efisiensi alokasi sumber daya, manajemen risiko, dan dampak terhadap tujuan organisasi.
+Draf Terjemahan: Teknologi ini adalah standar keamanan digital utama yang melindungi transaksi keuangan dan data sensitif pelanggan aplikasi kita dari risiko peretasan dan kebocoran data. Dengan investasi pada infrastruktur kunci publik ini, kita bisa menekan risiko finansial akibat klaim peretasan dan meningkatkan kepercayaan pengguna terhadap keandalan platform kita.
+5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+Karakteristik Pendengar: Masyarakat heterogen yang ingin mengetahui dampak langsung bagi keamanan dan kehidupan sehari-hari.
+Draf Terjemahan: Enkripsi ini adalah gembok pengaman digital otomatis yang bekerja setiap kali Anda membuka aplikasi perbankan atau mengirim pesan WhatsApp. Sistem ini memastikan belanja online dan obrolan pribadi Anda tetap aman serta tidak bisa diintip atau disalahgunakan oleh pihak yang tidak bertanggung jawab.
+Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+Ragam bahasa mana yang paling sulit dibuat? Mengapa?
+Jawab: Ragam bahasa anak-anak dan publik umum. Membuang seluruh istilah teknis seperti asimetris dan kunci privat tanpa merusak logika utama tentang bagaimana dua kunci bekerja bersama membutuhkan analogi yang sangat presisi.
+Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?
+Jawab: Proses ini membuat saya sadar bahwa keahlian teknis sejati bukan diukur dari seberapa rumit istilah yang kita gunakan, melainkan seberapa jernih kita bisa menjelaskan konsep kompleks tersebut agar bermanfaat bagi orang lain di luar bidang IT.
+Catatan Penggunaan AI Kopilot:
+Prompt: “Bertindaklah sebagai anak usia 10 tahun. Evaluasi apakah penjelasan tentang enkripsi ini mudah kamu pahami atau masih membingungkan.”
+Umpan balik AI: AI menyarankan untuk mengganti istilah “data” menjadi “surat/pesan” agar bayangannya lebih konkret di pikiran anak-anak.
+Rubrik Penilaian & Evaluasi Mandiri
+Evaluasi
+Skor
+Catatan Singkat
+Five-Language Translation (Minggu 4)
+4 / 4
+Berhasil melakukan dekonstruksi jargon dengan tajam dan memetakan 5 ragam bahasa secara sangat presisi sesuai konteks audiens.
+Total Skor: Tingkat Unggul (Skor 4 / 4).
+Kembali ke atas
+Relationship Conversation
+Professional Discovery Interview
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fargudd.github.io/kipp-students/index.html
+- https://fargudd.github.io/kipp-students/assets/logo.png
+- https://fargudd.github.io/kipp-students/course/index.html
+- https://fargudd.github.io/kipp-students/portfolio/index.html
+- https://fargudd.github.io/kipp-students/examples/index.html
+- https://fargudd.github.io/kipp-students/lk/index.html
+- https://fargudd.github.io/kipp-students/slides.html
+- https://fargudd.github.io/kipp-students/slides-pdf/index.html
+- https://fargudd.github.io/kipp-students/assessment/index.html
+- https://fargudd.github.io/kipp-students/about.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html
+- https://fargudd.github.io/kipp-students/portfolio/week-03.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html
+- https://fargudd.github.io/kipp-students/portfolio/week-08.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/paper.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_1_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/week-09.html
+- https://fargudd.github.io/kipp-students/portfolio/week-10.html
+- https://fargudd.github.io/kipp-students/portfolio/week-11.html
+- https://fargudd.github.io/kipp-students/portfolio/week-12.html
+- https://fargudd.github.io/kipp-students/portfolio/week-13.html
+- https://fargudd.github.io/kipp-students/portfolio/week-14.html
+- https://fargudd.github.io/kipp-students/portfolio/week-15.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#identitas-mahasiswa
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#tahap-1-detoks-jargon-dekonstruksi-konsep
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#tahap-2-matriks-terjemahan-lima-bahasa
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#ragam-bahasa-anak-anak-usia-10-tahun
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#ragam-bahasa-sahabat-beda-bidang-program-studi
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#ragam-bahasa-publik-umum-masyarakat-luas
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#tahap-3-refleksi-pembelajaran-intrapribadi
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html#rubrik-penilaian-evaluasi-mandiri
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

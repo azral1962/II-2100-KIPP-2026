@@ -1,5 +1,31 @@
 # Student Course Services II2100
 
+## Collective Intelligence — v3 TISE Laboratory
+
+`ci.py` tetap memakai `TELEGRAM_BOT_TOKEN_CI` dan identitas `peserta.csv`.
+Versi 3 menambahkan dashboard lengkap (`ci_dashboard.py`), sesi TAIDA,
+indikator modal sosial observasional, evaluasi CI dengan bobot/cakupan eksplisit,
+survei sukarela, simulasi 40 agen lokal, dan Project Charter UAS berversi yang
+bersumber pada keputusan dikonfirmasi. Fungsi observer, antrean fasilitator,
+intervensi dengan persetujuan manusia, serta konsensus versi 2 tetap tersedia.
+
+Demo dashboard (data sintetik, tanpa token):
+`CI_DASHBOARD_MODE=demo .venv/bin/python -m streamlit run ci_dashboard.py --server.address 127.0.0.1 --server.port 8502`.
+Mode kelas memerlukan login OIDC; mahasiswa hanya dapat membuka asesmen sendiri.
+Setelah `/setuju` di chat pribadi, bot mengirim tautan permintaan bergabung dan
+menyetujui pemohon yang terdaftar serta masih memberi persetujuan. Gunakan
+`/gabung` untuk meminta tautan kembali; bot perlu hak admin mengundang pengguna.
+Analisis/simulasi berbasis aturan lokal, tanpa panggilan LLM. Indeks belum
+tervalidasi ilmiah dan bukan nilai akademik.
+
+Panduan mahasiswa: [petunjuk lengkap KIPP_ci_bot](manuals/kipp-ci-panduan-mahasiswa.md)
+dan [PDF siap dibagikan](output/pdf/kipp-ci-panduan-mahasiswa.pdf).
+
+Panduan: [v3 TISE Laboratory](manuals/ci-v3-manual.md),
+[v2 Intelligent Facilitator](manuals/ci-v2-manual.md),
+[setup observer/antrean](manuals/ci-manual.md),
+[konfigurasi bot](ci.env.example), dan [contoh login dashboard](ci.secrets.example.toml).
+
 ## UTS menggantikan W08
 
 W08 memakai assessment UTS khusus: makalah 10%, lima sesi masing-masing 18%,

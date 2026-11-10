@@ -1,0 +1,202 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1073
+Minggu: 15
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+
+Isi halaman portfolio:
+---
+Capstone Performance Portfolio – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Capstone Performance Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Refleksi capstone
+Self-assessment
+Assessment dosen
+Capstone Performance Portfolio
+Assessment
+Capstone
+Rapat final tim lomba Interactive Dashboard Creation yang diamati mentor: pemetaan person dan state, perubahan rekomendasi prioritas fitur setelah masukan anggota, keputusan dengan owner, perbaikan bug, submit 8 November 2026, feedback observer, kritik AI, dan refleksi rangkaian Week 6–14.
+Kompetensi target
+Mengintegrasikan person, character, objective, state, repertoire, language, response, agreement, action, relationship, dan AI judgment.
+Evidence wajib
+Person/character/state map dan performance plan.
+Rekaman/transcript, observer feedback, serta decisive adaptation.
+Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 15 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Sabtu, 7 November 2026, rapat final tim lomba Interactive Dashboard Creation lewat Google Meet, lebih dari satu jam, diamati oleh seorang mentor sebagai observer. Rapat tidak direkam; evidence berasal dari catatan rapat saya dan feedback langsung mentor.
+Persons dan relationship: Saya (integrasi dashboard di Streamlit, fasilitator rapat), Anggota A (pengolahan data dan visualisasi), Anggota B (analisis dan pengujian kemudahan penggunaan), dan mentor sebagai observer yang tidak ikut mengambil keputusan. Rapat ini menutup rangkaian kerja tim sejak lomba Maret 2026 (Week 6) sampai pemilihan tools dan demo prototipe (Week 7 dan 11).
+Objective dan initial state: Memutuskan versi final dashboard sebelum pengumpulan: fitur yang dipertahankan, perbaikan yang masih wajib, pembagian tugas akhir, dan siapa yang mengecek serta mengirim hasil, tanpa membuat anggota terbebani di akhir.
+Evidence
+Catatan1. Person, Character & State Map
+Person
+Character dalam rapat
+Kepentingan
+State awal
+Saya
+Fasilitator dan penanggung jawab integrasi Streamlit
+Dashboard berjalan stabil dan sesuai hasil olah data
+Membawa rekomendasi awal soal fitur
+Anggota A
+Pemilik bagian data dan visualisasi
+Perubahan akhir tidak merusak data dan visual yang sudah siap
+Siap menyampaikan masukan dari sisi data
+Anggota B
+Pemilik analisis dan uji kemudahan penggunaan
+Dashboard mudah dipakai pengguna
+Membawa catatan dari pengujian
+Mentor
+Observer
+Menilai cara saya memimpin diskusi
+Tidak ikut memutuskan
+Performance plan: menunjukkan kondisi dashboard, menyampaikan rekomendasi awal, meminta pendapat A dan B dari sisi tanggung jawab masing-masing, membedakan perbaikan wajib dan tambahan, lalu menutup dengan keputusan eksplisit dan pertanyaan apakah masih ada yang belum setuju.
+2. Decisive Adaptation
+Saya membuka rapat dengan rekomendasi awal mengenai fitur dashboard.
+A dan B menyampaikan masukan berdasarkan bagian yang mereka pegang, yaitu data dan visualisasi serta hasil pengujian kemudahan penggunaan.
+Masukan itu membuat saya mengubah rekomendasi awal: tim memprioritaskan fitur utama dan menunda fitur tambahan yang belum menjadi prioritas, dengan mempertimbangkan kebutuhan pengguna, kondisi pengerjaan, dan waktu yang tersisa.
+Rapat tidak direkam, sehingga bagian ini berasal dari catatan rapat saya, bukan transkrip.
+3. Agreement & Action
+Keputusan: fitur utama dipertahankan, fitur tambahan ditunda, pembagian tugas dan tenggat akhir ditetapkan, dan saya ditunjuk sebagai penanggung jawab submit.
+Persetujuan: seluruh anggota menyetujui keputusan rapat.
+Action setelah rapat: tim mengecek dashboard bersama dan menemukan beberapa bug. Perbaikan dibagi sesuai sumber masalah masing-masing, dan seluruh bug selesai diperbaiki pada 8 November 2026.
+Hasil akhir: dashboard dan PPT selesai, lalu saya submit hasil akhir IDC pada 8 November 2026, jauh sebelum deadline 28 November 2026. Screenshot bukti pengumpulan saya simpan.
+Fitur yang ditunda: dicatat sebagai prioritas pengembangan berikutnya, bukan dihapus dari daftar.
+4. Observer Feedback
+Mentor memberikan feedback langsung setelah rapat: saya sudah mampu mengarahkan diskusi dan menjaga pembahasan tetap fokus pada tujuan rapat.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya memegang dua character sekaligus, fasilitator dan pemilik bagian teknis, sehingga perlu menahan diri agar rekomendasi saya tidak otomatis menjadi keputusan.
+Objective & state
+Objective menyelesaikan dashboard tepat waktu dijaga bersamaan dengan objective tidak membebani anggota di akhir.
+Repertoire & language
+Rapat dimulai dari kondisi dashboard, lalu rekomendasi, lalu putaran pendapat sesuai tanggung jawab tiap anggota.
+Response & adaptation
+Masukan A dan B mengubah rekomendasi awal saya menjadi prioritas fitur utama dan penundaan fitur tambahan.
+Agreement/action
+Keputusan dengan owner dan penanggung jawab submit; bug ditemukan dan diperbaiki; hasil disubmit 8 November 2026 dengan bukti.
+Relationship outcome
+Usulan yang ditunda tetap dicatat untuk pengembangan berikutnya, sehingga anggota yang mengusulkannya tidak merasa diabaikan.
+Penggunaan AI
+AI (Claude) digunakan setelah rapat untuk merapikan dokumentasi menjadi format portofolio. Keputusan prioritas fitur, pembagian tugas, dan penyelesaian proyek ditentukan dalam diskusi tim. Satu saran AI tidak saya pakai karena tidak sesuai dengan kondisi dan kebutuhan tim.
+Feedback dan tindak lanjut
+Feedback yang diterima: mentor menilai saya sudah mampu mengarahkan diskusi dan menjaga fokus rapat.
+Adaptation/replay: jika mengulang rapat, saya akan membedakan perubahan wajib dan perubahan tambahan sejak awal, sebelum menyampaikan rekomendasi, agar diskusi tidak menghabiskan waktu pada fitur yang tidak penting menjelang deadline.
+Next practice: meminta observer menyebut satu momen ketika saya terlalu mengarahkan, bukan hanya yang sudah berjalan baik.
+Refleksi capstone
+Rangkaian Week 6–15 menunjukkan perubahan cara saya berkomunikasi dalam tim. Di lomba Maret, saya baru berbicara ketika tenggat tinggal sehari. Di Week 7 dan 9, saya belajar bahwa solusi yang saya anggap tepat (check-in harian, jadwal kaku) perlu diubah setelah mendengar kondisi anggota, termasuk ketika hambatan anggota ternyata berasal dari bagian saya sendiri. Di Week 10 dan 11, saya belajar memetakan siapa yang berwenang dan mencatat ketidaksetujuan, bukan menutupinya, termasuk mengakui keterlambatan pendaftaran yang menjadi tanggung jawab saya. Di rapat final ini, kemampuan terpenting bukan membuat rekomendasi yang meyakinkan, melainkan mengizinkan masukan anggota mengubah rekomendasi itu sambil tetap menutup rapat dengan keputusan yang jelas.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Person, character, kepentingan, dan peran observer dipetakan; dua character saya disadari.
+Objective & State
+4
+Objective penyelesaian dan beban anggota dikelola bersamaan.
+Repertoire, Language & AI
+4
+Struktur rapat, putaran pendapat, dan AI dibatasi pada dokumentasi.
+Response & Adaptation
+4
+Masukan anggota mengubah rekomendasi awal menjadi prioritas fitur utama.
+Agreement, Action & Relationship
+4
+Keputusan disetujui semua, bug diperbaiki, hasil disubmit 8 November dengan bukti, usulan yang ditunda tetap dicatat.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+AI-Mediated Communication Design
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#quarto-document-content
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#refleksi-capstone
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-15.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

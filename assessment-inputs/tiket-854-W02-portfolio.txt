@@ -1,0 +1,120 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 854
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fargudd.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Panduan Detoks Fitur (Bab 07)
+Portfolio Minggu 8 — UTS KIPP
+Portofolio UTS
+Makalah Akademik: MBTI, Komunikasi Efektif, dan Kerangka PASK dalam Pengemasan Solusi Sistem Informasi
+Laporan UTS KIPP - Sesi 1
+Laporan UTS KIPP - Sesi 2a
+Laporan UTS KIPP - Sesi 2b
+Laporan UTS KIPP - Sesi 3a
+Laporan UTS KIPP 2026 — Versi 2.0
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Bagian 1: Identifikasi Kasus (Bahan Mentah)
+1. Peristiwa yang Dapat Diamati (Fakta Objektif)
+2. Interpretasi Pertama (Asumsi Otomatis)
+3. Emosi & Sensasi Tubuh
+Bagian 2: Membedah Tiga Narasi
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Bagian 1: Identifikasi Kasus (Bahan Mentah)
+1. Peristiwa yang Dapat Diamati (Fakta Objektif)
+Fakta: Rekan kelompok belum mengirimkan draf bagian kodenya di repositori/grup hingga tenggat waktu yang disepakati, yaitu hari Selasa pukul 20.00.
+2. Interpretasi Pertama (Asumsi Otomatis)
+Interpretasi: “Dia tidak bertanggung jawab, meremehkan tugas kelompok, dan sengaja melepaskan beban pengerjaan ke saya.”
+3. Emosi & Sensasi Tubuh
+Emosi yang Dirasakan: Kesal / Marah (Skala 8/10), Cemas (Skala 6/10).
+Sensasi Tubuh yang Muncul: Rahang menegang, napas terasa agak pendek, dan dada terasa sesak.
+Bagian 2: Membedah Tiga Narasi
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fargudd.github.io/kipp-students/index.html
+- https://fargudd.github.io/kipp-students/assets/logo.png
+- https://fargudd.github.io/kipp-students/course/index.html
+- https://fargudd.github.io/kipp-students/portfolio/index.html
+- https://fargudd.github.io/kipp-students/examples/index.html
+- https://fargudd.github.io/kipp-students/lk/index.html
+- https://fargudd.github.io/kipp-students/slides.html
+- https://fargudd.github.io/kipp-students/slides-pdf/index.html
+- https://fargudd.github.io/kipp-students/assessment/index.html
+- https://fargudd.github.io/kipp-students/about.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html
+- https://fargudd.github.io/kipp-students/portfolio/week-03.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html
+- https://fargudd.github.io/kipp-students/portfolio/week-08.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/paper.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_1_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/week-09.html
+- https://fargudd.github.io/kipp-students/portfolio/week-10.html
+- https://fargudd.github.io/kipp-students/portfolio/week-11.html
+- https://fargudd.github.io/kipp-students/portfolio/week-12.html
+- https://fargudd.github.io/kipp-students/portfolio/week-13.html
+- https://fargudd.github.io/kipp-students/portfolio/week-14.html
+- https://fargudd.github.io/kipp-students/portfolio/week-15.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html#bagian-1-identifikasi-kasus-bahan-mentah
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html#peristiwa-yang-dapat-diamati-fakta-objektif
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html#interpretasi-pertama-asumsi-otomatis
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html#emosi-sensasi-tubuh
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html#bagian-2-membedah-tiga-narasi
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

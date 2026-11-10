@@ -1,0 +1,146 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 992
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://minei114.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Desire–action gap
+Options dan trade-off
+Agreement eksplisit
+Action evidence dan adaptation
+Self-assessment
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Desire–action gap
+Saat menjadi staff LO Wisuda HMIF, aku sudah mendapat plotting wisudawan berdasarkan pembagian panitia. Namun, ada wisudawan, Kak K, yang tiba-tiba meminta agar aku menjadi LO-nya, padahal Kak K tidak mengisi form untuk permintaan plotting tersebut.
+Keinginan Kak K belum bisa langsung diwujudkan karena plotting sudah ditentukan dan aku tidak memiliki kewenangan untuk mengubahnya sendiri. Aku perlu menyampaikan permintaan tersebut kepada atasan atau kadiv terlebih dahulu.
+Barrier
+Person dengan authority
+Respons
+Permintaan Kak K tidak sesuai dengan plotting awal
+Atasan/kadiv
+Perlu dimintai persetujuan sebelum perubahan
+Pembagian LO sudah ditentukan
+Atasan/kadiv
+Perubahan plotting perlu dikoordinasikan
+Aku sudah mendapat plotting wisudawan lain
+Aku sebagai staff LO
+Perlu mengikuti hasil keputusan dan penugasan
+Kasus ini menunjukkan bahwa keinginan wisudawan dan pembagian tugas panitia tidak selalu sejalan. Aku perlu membedakan pihak yang mengajukan permintaan dengan pihak yang memiliki kewenangan untuk menyetujui perubahan.
+Options dan trade-off
+Langsung menerima permintaan Kak K: respons cepat, tetapi berisiko melewati kewenangan dan mengganggu pembagian LO.
+Meminta persetujuan atasan/kadiv: membutuhkan waktu untuk koordinasi, tetapi menjaga kejelasan kewenangan dan konsistensi plotting.
+Mempertahankan plotting awal tanpa meneruskan permintaan: pembagian tetap, tetapi permintaan Kak K tidak mendapat tindak lanjut.
+Aku memilih opsi kedua dengan meminta persetujuan atasan/kadiv terlebih dahulu. Dengan begitu, permintaan tetap ditindaklanjuti tanpa mengambil keputusan di luar kewenanganku.
+Agreement eksplisit
+Scope: Menindaklanjuti permintaan Kak K untuk menjadi wisudawanku tanpa langsung mengubah plotting sendiri.
+Owner: Aku menyampaikan permintaan dan meminta persetujuan; atasan/kadiv menangani keputusan perubahan plotting sesuai kewenangannya.
+Deadline: Tidak ada deadline spesifik yang tercatat dalam kasus ini.
+Evidence: Permintaan Kak K, proses meminta persetujuan, dan hasil penugasan berupa plotting wisudawan baru.
+Decision: Setelah meminta persetujuan, aku akhirnya dialihkan untuk mendampingi wisudawan baru.
+Review: Belum ada informasi yang memastikan apakah hasil keputusan disampaikan kembali kepada Kak K atau apakah ada evaluasi lanjutan.
+Action evidence dan adaptation
+Aku tidak langsung menerima permintaan Kak K, tetapi meminta persetujuan atasan/kadiv terlebih dahulu. Hasil akhirnya, aku mendapat plotting wisudawan baru. Ini menunjukkan bahwa tindakanku mengikuti proses koordinasi dan hasil keputusan, bukan hanya keinginan wisudawan.
+Jika menghadapi situasi serupa, aku akan memastikan sejak awal siapa yang berwenang menyetujui perubahan, menyampaikan konsekuensi terhadap plotting yang sudah ada, dan mengonfirmasi hasil keputusan kepada pihak terkait. Langkah tersebut dapat mengurangi ketidakpastian dan mencegah perubahan penugasan tanpa koordinasi.
+AI dapat digunakan untuk membantu memetakan barrier, authority, serta trade-off dari beberapa pilihan. Namun, keputusan tetap berada pada pihak panitia yang berwenang. Karena belum ada artefak fisik penggunaan AI yang dilampirkan, proses tersebut belum dapat dibuktikan melalui screenshot atau log penggunaan.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Membedakan kebutuhan wisudawan, tanggung jawab staff, dan kewenangan atasan/kadiv
+Objective & State
+4
+Mengidentifikasi kesenjangan antara permintaan wisudawan dan plotting yang berlaku
+Repertoire, Language & AI
+3
+Membandingkan opsi dan trade-off; belum ada artefak fisik penggunaan AI
+Response & Adaptation
+4
+Meminta persetujuan sebelum bertindak dan menyesuaikan penugasan dengan hasil koordinasi
+Agreement, Action & Relationship
+4
+Permintaan ditindaklanjuti melalui koordinasi dan menghasilkan perubahan penugasan
+Total: 19/20 — Lanjut.
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Michelle Nataneilla
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://minei114.github.io/kipp-students/index.html
+- https://minei114.github.io/kipp-students/assets/logo.png
+- https://minei114.github.io/kipp-students/course/index.html
+- https://minei114.github.io/kipp-students/portfolio/index.html
+- https://minei114.github.io/kipp-students/examples/index.html
+- https://minei114.github.io/kipp-students/lk/index.html
+- https://minei114.github.io/kipp-students/slides.html
+- https://minei114.github.io/kipp-students/slides-pdf/index.html
+- https://minei114.github.io/kipp-students/assessment/index.html
+- https://minei114.github.io/kipp-students/about.html
+- https://minei114.github.io/kipp-students/portfolio/week-10.html
+- https://minei114.github.io/kipp-students/portfolio/week-01.html
+- https://minei114.github.io/kipp-students/portfolio/week-02.html
+- https://minei114.github.io/kipp-students/portfolio/week-03.html
+- https://minei114.github.io/kipp-students/portfolio/week-04.html
+- https://minei114.github.io/kipp-students/portfolio/week-05.html
+- https://minei114.github.io/kipp-students/portfolio/week-06.html
+- https://minei114.github.io/kipp-students/portfolio/week-07.html
+- https://minei114.github.io/kipp-students/portfolio/week-08.html
+- https://minei114.github.io/kipp-students/portfolio/week-09.html
+- https://minei114.github.io/kipp-students/portfolio/week-11.html
+- https://minei114.github.io/kipp-students/portfolio/week-12.html
+- https://minei114.github.io/kipp-students/portfolio/week-13.html
+- https://minei114.github.io/kipp-students/portfolio/week-14.html
+- https://minei114.github.io/kipp-students/portfolio/week-15.html
+- https://minei114.github.io/kipp-students/portfolio/week-10.html#desireaction-gap
+- https://minei114.github.io/kipp-students/portfolio/week-10.html#options-dan-trade-off
+- https://minei114.github.io/kipp-students/portfolio/week-10.html#agreement-eksplisit
+- https://minei114.github.io/kipp-students/portfolio/week-10.html#action-evidence-dan-adaptation
+- https://minei114.github.io/kipp-students/portfolio/week-10.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

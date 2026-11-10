@@ -1,0 +1,167 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 859
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Jurnal intra-self
+Evidence tindakan dan internal agreement
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+PeringatanCatatan validasi evidence
+Episode refleksi dan tindakan lanjut telah dilakukan menurut konfirmasi Ariya. Uraian di bawah dirapikan dengan bantuan AI dan bukan salinan jurnal/log asli; tambahkan contoh langkah soal atau catatan aktual bila tersedia.
+Jurnal intra-self
+Tanggal dan setting: 8 September 2026, setelah sesi belajar Matematika Diskret. Episode ini ditulis sebagai draf retrospektif.
+Event: Aku membuka kembali latihan relasi dan fungsi, lalu menemukan satu jawaban yang tidak konsisten dengan definisi yang kupakai di langkah sebelumnya. Ini deskripsi draf yang perlu dicocokkan dengan lembar latihan sebenarnya.
+Tahap
+Catatan
+Fact
+Ada jawaban latihan yang tidak konsisten; aku belum memeriksa semua langkah untuk menemukan sumbernya.
+Initial story
+“Aku tertinggal dan seharusnya sudah paham materi ini.” Ini kesimpulan, bukan fakta.
+Emotion
+Cemas dan kesal karena waktu belajar terasa sempit.
+Internal character
+Critic: menilai kemampuan dari satu kesalahan; protector: ingin menutup latihan agar tidak merasa gagal.
+Alternative narrative 1
+Aku memahami sebagian definisi, tetapi mungkin mencampur domain, kodomain, dan range pada contoh ini.
+Alternative narrative 2
+Instruksi soal atau notasi perlu dibaca ulang; satu jawaban salah belum menunjukkan seluruh pemahaman.
+Chosen response
+Berperan sebagai investigator/coach: tandai langkah pertama yang tidak valid, tulis definisi yang dipakai, lalu uji dengan satu contoh kecil.
+Outcome yang dituju
+Mengetahui miskonsepsi spesifik dan menyiapkan satu pertanyaan untuk diskusi, bukan sekadar mengulang soal tanpa arah.
+Evidence tindakan dan internal agreement
+Internal agreement: Luangkan 25 menit untuk mengerjakan ulang satu soal tanpa melihat jawaban. Bandingkan setiap langkah dengan definisi relasi/fungsi; bila masih buntu, kirim pertanyaan yang menunjukkan langkah spesifik kepada Naufal.
+Tindakan dan hasil: Menurut konfirmasi Ariya, sesi ulang dan pemeriksaan langkah benar dilakukan. Hasil refleksi yang dicatat adalah mengubah kesimpulan umum tentang kemampuan menjadi pencarian langkah spesifik yang keliru. Lembar latihan, waktu aktual, dan pertanyaan yang dikirim belum ditautkan pada halaman ini.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Person yang diajak berkomunikasi adalah diri sendiri; critic dan protector mempersempit pilihan, sedangkan investigator membantu mencari evidence.
+Objective & state
+Dari cemas dan menghindari soal menuju identifikasi miskonsepsi dan satu langkah belajar yang dapat diuji.
+Repertoire & language
+Menamai fakta, story, dan emosi; mengubah “aku tidak bisa” menjadi pertanyaan “langkah mana yang belum sesuai definisi?”
+Response & adaptation
+Jika contoh kecil tetap gagal, strategi bergeser ke meminta klarifikasi dengan menunjukkan pekerjaan, bukan meminta jawaban akhir.
+Agreement/action
+Rencana 25 menit dan satu pertanyaan spesifik perlu dicatat setelah benar-benar dilakukan.
+Relationship outcome
+Self-talk yang lebih adil berpotensi menjaga kepercayaan diri tanpa menyangkal kesalahan; efek aktual perlu direfleksikan sendiri.
+Penggunaan AI
+AI membantu mengorganisasi format event–fact–story–emotion dan menawarkan alternatif narasi. AI tidak mengetahui lembar latihan atau emosi aktualku. Dialog batin di atas adalah contoh draf, bukan data yang dapat diverifikasi; aku harus mengganti bagian yang tidak sesuai.
+Feedback dan tindak lanjut
+Feedback: Belum ada feedback eksternal yang diklaim. Kriteria pemeriksaan mandiri adalah apakah aku dapat menunjukkan langkah pertama yang salah dan menjelaskan definisi yang relevan.
+Adaptation/replay: Jika masih buntu setelah contoh kecil, berhenti mengulang prosedur yang sama dan bawa satu langkah spesifik ke sesi diskusi.
+Next practice: Setiap menemukan kesalahan, tulis satu fakta dan satu pertanyaan yang bisa diuji sebelum memberi label pada kemampuan diri.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Critic dan protector dikenali sebagai suara dengan objective berbeda; investigator/coach dipilih untuk mengelola keduanya.
+Objective & State
+4
+Emosi, ketidakpastian sumber kesalahan, dan objective belajar dipisahkan sebelum memilih response.
+Repertoire, Language & AI
+3
+Fact/story dan batas kontribusi AI dicatat.
+Response & Adaptation
+4
+Dua alternative narratives diuji dan strategi bergeser ke pertanyaan spesifik jika contoh mandiri belum cukup.
+Agreement, Action & Relationship
+3
+Internal agreement spesifik, tetapi pelaksanaannya menunggu verifikasi.
+Total: 18/20. Nilai 4 didukung pemisahan beberapa kemungkinan cerita dan perubahan strategi setelah memeriksa evidence. Agreement/action tetap 3 karena artefak latihan dan rincian hasil belum ditautkan; skor ini adalah self-assessment, bukan nilai dosen.
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Ariya Nanda Harimawan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sg22ariya.github.io/kipp-students/index.html
+- https://sg22ariya.github.io/kipp-students/assets/logo.png
+- https://sg22ariya.github.io/kipp-students/course/index.html
+- https://sg22ariya.github.io/kipp-students/portfolio/index.html
+- https://sg22ariya.github.io/kipp-students/examples/index.html
+- https://sg22ariya.github.io/kipp-students/lk/index.html
+- https://sg22ariya.github.io/kipp-students/slides.html
+- https://sg22ariya.github.io/kipp-students/slides-pdf/index.html
+- https://sg22ariya.github.io/kipp-students/assessment/index.html
+- https://sg22ariya.github.io/kipp-students/about.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-03.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-08.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-09.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-10.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-11.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-12.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-13.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-14.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-15.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#jurnal-intra-self
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan-dan-internal-agreement
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

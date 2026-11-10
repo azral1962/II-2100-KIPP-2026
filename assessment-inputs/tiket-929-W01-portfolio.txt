@@ -1,0 +1,238 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 929
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://g7zel.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence, AI, dan feedback
+Lima character
+1. Lembar Kerja Mahasiswa (Peta Karakter)
+Episode yang dianalisis
+Perubahan language
+Self-assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence Tambahan
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Kompetensi target
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Evidence, AI, dan feedback
+Bukti Fisik (Transkrip Asli WhatsApp): (Terdapat di bagian bawah dokumen pada “Evidence Tambahan”)
+AI: Digunakan murni sebagai sparring partner setelah kejadian untuk mengaudit apakah gaya komunikasiku saat terdesak sudah mencerminkan karakter profesional atau masih terbawa sifat reaktif personal. Aku menolak mentah-mentah saran kalimat template dari AI yang terdengar seperti customer service korporat karena lawan bicaraku adalah rekan kepanitiaan seangkatan.
+Refleksi: Aku sering mencampuradukkan personality bawaanku yang perfeksionis (ingin semua output langsung sempurna sekali jalan) dengan tuntutan character sebagai pengurus PR yang sebenarnya lebih membutuhkan kecepatan update status agar tim desain tidak menggantung.
+Next practice: Memisahkan dokumen kerja menjadi “Draf Kasar Validasi Teknis” dan “Final Copywriting” agar alur kerja tim tidak terhambat oleh sifat perfeksionisku.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — Mindful Crafter & Dancer
+Diri sendiri di luar jam layar laptop
+Menjaga kewarasan mental dari paparan coding lewat gerakan tari Jaipong dan hitungan pola rajut (Stitch Fiddle)
+Dialog batin tanpa penghakiman, fokus sensorik pada benang/gerak, jeda dari notifikasi
+Menganggap waktu hobi sebagai “kemalasan produktif”; latih menjadwalkan waktu merajut sebagai hak istirahat resmi
+Family — Tech-Savvy Daughter
+Ayah (partner diskusi sistem & logika)
+Bertukar pikiran tentang arsitektur sistem (seperti blockchain voting bot) sambil tetap menjadi anak yang hangat di rumah
+Kasual-analitis, antusias, menyelipkan candaan keluarga di sela bahasan teknis
+Terlalu fokus berdebat soal efisiensi algoritma sampai lupa menanyakan kabar; latih membuka obrolan dengan topik non-teknis
+Organization — PR & Publication Manager IMPACT 6.0
+Rekan panitia (Ribka), divisi acara, dan peserta SMA se-Indonesia
+Menjaga akurasi guidebook, ketepatan rilis informasi lomba Matematika-Fisika-Informatika, dan citra resmi STEI ITB
+Terstruktur, persuasif, zero-ambiguity, berbasis checklist penayangan
+Menahan informasi terlalu lama demi mengejar kalimat yang “paling estetik”; latih rilis bertahap (iterative drafting)
+Work / Academic Team — Product Manager & Logic Scripter
+Tim developer & illustrator gim Kotak Nusantara (Ren’Py)
+Menjembatani alur cerita budaya dengan keterbatasan logika kode script.rpy agar gim bebas bug saat dimainkan
+Bahasa user flow, conditional branching (if/else), negosiasi scope fitur
+Terlalu mendikte artistik; latih menanyakan kapasitas waktu rekan sebelum mengunci cabang skenario baru
+Community — Penggerak Sosial SINEMA
+Pengurus panti asuhan, donatur, dan relawan mahasiswa
+Menciptakan interaksi yang setara, hangat, dan berdampak nyata bagi adik-adik panti asuhan
+Bahasa membumi, penuh empati, mendengarkan aktif, bebas istilah elitis kampus
+Terjebak pola pikir “penyelamat” (savior complex) yang kaku; latih berbaur dan mengobrol sejajar sebelum memulai acara
+1. Lembar Kerja Mahasiswa (Peta Karakter)
+Nama Mahasiswa: Fayza Kamilia Tanggal Pengerjaan: 20 September 2026
+Episode yang dianalisis
+Konteks: Pukul 17.30 WIB, baru saja selesai kelas di Jatinangor dan bersiap mengendarai motor pulang ke kosan di tengah mendung, grup kepanitiaan IMPACT 6.0 mendadak ramai. Ada perubahan ketentuan teknis babak penyisihan Informatika dari divisi soal yang harus segera diumumkan ke peserta SMA malam itu juga. Ribka menghubungiku untuk meminta teks caption dan ralat guidebook. Muncul story panik di kepalaku: “Kalau aku bilang lagi di jalan naik motor dan belum pegang laptop, aku bakal dianggap PR Manager yang lambat dan menghambat kerja divisi visual.” Padahal fakta objektifnya: aku sedang berada di area parkir motor, belum bisa mengetik dokumen panjang, dan baru akan tiba di kosan 15 menit lagi.
+Objective & Pengukuran State (Self-Report): - State Awal: Tingkat kepanikan/terburu-buru 8/10 (takut kehujanan di jalan sekaligus takut menghambat tim desain); tingkat kejelasan koordinasi 3/10. - Objective: Mengubah respons dari kepanikan pasif menjadi koordinasi taktis yang membagi tahap pengiriman informasi agar tim desain tetap bisa bekerja sebelum tenggat mereka tanpa membahayakan perjalananku. - State Akhir: Tingkat kepanikan turun menjadi 2/10 setelah kesepakatan dua tahap tercapai; tingkat kejelasan koordinasi naik ke 9/10 karena jam serah terima terukur jelas.
+Transkrip Adaptasi (Kutipan Langsung): Awalnya aku hanya menjelaskan kendala posisiku yang sedang di parkiran motor dan takut salah ketik kalau dipaksakan membuat full caption di HP (17:34:05). Namun, respons susulan Ribka (17:34:30) memberi informasi baru: anak desain harus segera export poster sebelum jam 6 sore karena ada urusan kelas/kuis, dan mereka sebenarnya baru butuh poin intinya saja dulu untuk ditempel di gambar. Informasi baru inilah yang membuatku beradaptasi (17:34:50): memecah pengiriman menjadi 3 poin inti saat itu juga di parkiran, dan caption + link Bitly menyusul pukul 18.15.
+Ribka: “fay, anak soal barusan ketok palu revisi aturan penyisihan informatika. tim desain udah siap pasang template nih, teks pengumuman sama poin ralatnya bisa naik jam 6 sore ini gak?” Fayza: “rib, posisi aku lagi di parkiran motor mau ngegas balik kosan dulu 15 menit biar ga kehujanan. kalau aku ketik full caption sekarang di HP takut ada syarat teknis yang kelewat” Ribka (Informasi Baru): “waduh, soalnya anak desain harus beresin posternya sebelum jam 6 nih fay mau ada kuis, mereka butuh poin yang buat ditempel di gambarnya aja dulu sih” Fayza (Adaptasi): “gimana kalau sekarang aku ketik 3 poin inti perubahannya dulu buat dimasukin anak desain ke slide poster? nanti jam 18.15 pas nyampe kosan baru aku kirim teks caption rapi + link bitly guidebook barunya” Ribka (Agreement): “eh iya hati-hati di jalan fay! boleh banget gitu aja, kirim 3 poin intinya sekarang ya biar anak desain langsung jalan, caption sama bitly kita tunggu jam 18.15”
+Perubahan language
+Jika aku berbicara memakai character teman main biasa, aku akan membalas: “Bentar elah rib, gue lagi mau naik motor nih mendung banget, ntar malem aja yak.” Namun, karena aku sedang memegang character PR & Publication Manager IMPACT 6.0, bahasaku bergeser menjadi manajemen alur kerja (workflow): menyatakan kendala keselamatan berkendara secara ringkas, merespons kebutuhan mendesak tim desain dengan menyuplai 3 poin inti poster terlebih dahulu, lalu mengunci jam pengiriman caption dan shortlink Bitly pada pukul 18.15 WIB.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3
+Lima karakter dipetakan spesifik beserta risiko dan latihan, tetapi relasi kuasa dan tujuan yang bersaing belum dianalisis.
+Objective & State
+4
+State awal dan akhir diukur eksplisit (Kepanikan 8/10 \(\rightarrow\) 2/10; Kejelasan Koordinasi 3/10 \(\rightarrow\) 9/10), meski berupa self-report.
+Repertoire, Language & AI
+4
+Teknik unbundling (poin poster dulu, caption menyusul), pergeseran bahasa dari teman biasa ke PR Manager, dan penolakan saran AI yang bernada korporat.
+Response & Adaptation
+4
+Informasi baru dari Ribka (desain harus selesai sebelum jam 6 dan hanya butuh poin inti) mengubah responsku dari melapor kendala menjadi mengirim 3 poin saat itu juga.
+Agreement, Action & Relationship
+3
+Kesepakatan dua tahap terlaksana sebelum janji 18.15 dan dikonfirmasi Ribka, tetapi belum ada review lanjutan atau repair karena episodenya sederhana.
+Total: 18/20.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence Tambahan
+Catatan privasi: sebagian jam dan menit pada log chat disamarkan demi privasi. Isi pesan dikutip langsung dari percakapan; karena itu klaim durasi pada dokumen ini bersifat perkiraan.
+Transkrip Chat WhatsApp (Manajemen Rilis Publikasi IMPACT 6.0): (Catatan: Baris pukul 17:34:30 dan rincian poin 17:36:40 disertakan utuh sesuai chat asli tanpa ringkasan) > [12/05/26, 17:32:10] Ribka: fay, anak soal barusan ketok palu revisi aturan penyisihan informatika. tim desain udah siap pasang template nih, teks pengumuman sama poin ralatnya bisa naik jam 6 sore ini gak? > [12/05/26, 17:34:05] Fayza: rib, posisi aku lagi di parkiran motor mau ngegas balik kosan dulu 15 menit biar ga kehujanan. kalau aku ketik full caption sekarang di HP takut ada syarat teknis yang kelewat > [12/05/26, 17:34:30] Ribka: waduh, soalnya anak desain harus beresin posternya sebelum jam 6 nih fay mau ada kuis, mereka butuh poin yang buat ditempel di gambarnya aja dulu sih > [12/05/26, 17:34:50] Fayza: gimana kalau sekarang aku ketik 3 poin inti perubahannya dulu buat dimasukin anak desain ke slide poster? nanti jam 18.15 pas nyampe kosan baru aku kirim teks caption rapi + link bitly guidebook barunya > [12/05/26, 17:35:30] Ribka: eh iya hati-hati di jalan fay! boleh banget gitu aja, kirim 3 poin intinya sekarang ya biar anak desain langsung jalan, caption sama bitly kita tunggu jam 18.15 > [12/05/26, 17:36:40] Fayza: 1. Memory limit C/C++ naik jadi 256 MB 2. Time limit tetep 1.0s 3. Compiler GCC C++17 > [12/05/26, 17:37:12] Fayza: ini ya rib buat di poster. aku jalan duluu > [12/05/26, 18:12:40] Fayza: rib aku udah sampe kosan. ini draf final caption IG sama link bit.ly/GuidebookIMPACT6-Rev1 udah aku update di Notion publikasi ya. aman buat langsung tayang! > [12/05/26, 18:14:02] Ribka: cepet banget! makasih banyak fayzaa, langsung aku oper ke medsos ya
+CatatanPenilaian Asesor
+Skor: - / 20 Evidence yang mendukung: - Prioritas perbaikan: - Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Fayza Kamilia
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://g7zel.github.io/kipp-students/index.html
+- https://g7zel.github.io/kipp-students/assets/logo.png
+- https://g7zel.github.io/kipp-students/course/index.html
+- https://g7zel.github.io/kipp-students/portfolio/index.html
+- https://g7zel.github.io/kipp-students/examples/index.html
+- https://g7zel.github.io/kipp-students/lk/index.html
+- https://g7zel.github.io/kipp-students/slides.html
+- https://g7zel.github.io/kipp-students/slides-pdf/index.html
+- https://g7zel.github.io/kipp-students/assessment/index.html
+- https://g7zel.github.io/kipp-students/about.html
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html
+- https://g7zel.github.io/kipp-students/portfolio/week-03.html
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html
+- https://g7zel.github.io/kipp-students/portfolio/week-06.html
+- https://g7zel.github.io/kipp-students/portfolio/week-07.html
+- https://g7zel.github.io/kipp-students/portfolio/week-08.html
+- https://g7zel.github.io/kipp-students/portfolio/week-09.html
+- https://g7zel.github.io/kipp-students/portfolio/week-10.html
+- https://g7zel.github.io/kipp-students/portfolio/week-11.html
+- https://g7zel.github.io/kipp-students/portfolio/week-12.html
+- https://g7zel.github.io/kipp-students/portfolio/week-13.html
+- https://g7zel.github.io/kipp-students/portfolio/week-14.html
+- https://g7zel.github.io/kipp-students/portfolio/week-15.html
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#kompetensi-target
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#evidence-ai-dan-feedback
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#lembar-kerja-mahasiswa-peta-karakter
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#self-assessment
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#konteks-performance
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#evidence
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#analisis-komunikasi
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#penggunaan-ai
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#feedback-dan-tindak-lanjut
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#self-assessment-1
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#assessment-dosen
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html#evidence-tambahan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

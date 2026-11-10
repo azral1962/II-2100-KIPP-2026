@@ -1,0 +1,174 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 857
+Minggu: 05
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fargudd.github.io/kipp-students/portfolio/week-05.html
+
+Isi halaman portfolio:
+---
+Professional Discovery Interview – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Professional Discovery Interview
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Panduan Detoks Fitur (Bab 07)
+Portfolio Minggu 8 — UTS KIPP
+Portofolio UTS
+Makalah Akademik: MBTI, Komunikasi Efektif, dan Kerangka PASK dalam Pengemasan Solusi Sistem Informasi
+Laporan UTS KIPP - Sesi 1
+Laporan UTS KIPP - Sesi 2a
+Laporan UTS KIPP - Sesi 2b
+Laporan UTS KIPP - Sesi 3a
+Laporan UTS KIPP 2026 — Versi 2.0
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Fase 1: Profil Narasumber (Disamarkan Demi Privasi)
+Fase 2: Log Catatan Wawancara (5 Pertanyaan Penemuan)
+Pertanyaan 1: Kejadian Nyata & Contoh Konkret
+Pertanyaan 2: Dampak Nyata & Beban Masalah
+Pertanyaan 3: Pemetaan Pihak Terdampak
+Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir)
+Pertanyaan 5: Batasan & Kendala Lapangan
+Fase 3: Formulasi Pernyataan Masalah Pelanggan
+Formula Standar:
+Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+Fase 4: Refleksi Intrapribadi
+Fase 5: Rubrik Penilaian Mandiri (Self-Assessment)
+Professional Discovery Interview
+Professional
+Discovery
+Discovery menuju shared problem statement.
+Kompetensi target
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Fase 1: Profil Narasumber (Disamarkan Demi Privasi)
+Nama Samaran: Mas Budi
+Peran/Pekerjaan Nyata: Penanggung Jawab Operasional & Kasir
+Domain Hubungan: Rekan Kerja / Mitra Usaha
+Konteks Lingkungan: Kedai Kopi Dekat Area Kampus
+Fase 2: Log Catatan Wawancara (5 Pertanyaan Penemuan)
+Pertanyaan 1: Kejadian Nyata & Contoh Konkret
+Pertanyaan: “Bisa ceritakan kejadian spesifik di mana proses pelayanan pesanan terasa paling menghambat atau bermasalah dalam seminggu terakhir?”
+Jawaban Narasumber: “Hari Selasa kemarin pas jam makan siang (12.00–13.00), antrean pesanan menumpuk sampai 15 orang di depan kasir. Saat antrean sudah panjang, ada pelanggan yang sudah bayar menu kopi susu oat, tapi pas barista mau bikin, ternyata stok susu oat di kulkas habis. Saya harus panggil pelanggannya lagi buat ganti menu atau refund. Ini bikin antrean makin macet dan pelanggan lain jadi emosi.”
+Pertanyaan 2: Dampak Nyata & Beban Masalah
+Jawaban Narasumber: Kasir dan barista merasa sangat tertekan (overwhelmed) karena harus menghadapi komplain pelanggan di tengah situasi ramai. Selain itu, kedai kehilangan sekitar 4–5 transaksi akibat pelanggan membatalkan pesanan karena tidak sabar menunggu, yang berdampak pada penurunan omzet harian dan merusak reputasi pelayanan kedai.
+Pertanyaan 3: Pemetaan Pihak Terdampak
+Kasir (Mas Budi): Menjadi sasaran kekecewaan pelanggan dan kewalahan menangani pembatalan transaksi.
+Barista: Terganggu fokusnya dalam membuat minuman karena harus bolak-balik mengonfirmasi ketersediaan bahan ke kasir.
+Pelanggan (Mahasiswa): Terlambat masuk kelas akibat waktu tunggu yang tidak pasti.
+Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir)
+Jawaban Narasumber: Kasir dapat langsung mengetahui ketersediaan stok bahan secara riil saat mencatat pesanan tanpa harus bertanya ke dapur, serta pelanggan mendapat kepastian estimasi waktu penyajian sebelum mereka memutuskan untuk membayar.
+Pertanyaan 5: Batasan & Kendala Lapangan
+Jawaban Narasumber: Kedai tidak memiliki anggaran besar untuk membeli sistem perangkat keras baru yang mahal. Area meja kasir sangat sempit, dan waktu pencatatan transaksi tidak boleh melebihi 45 detik per pelanggan agar antrean tidak mengular.
+Fase 3: Formulasi Pernyataan Masalah Pelanggan
+Formula Standar:
+[Pribadi/Peran] mengalami [keadaan yang dapat diamati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].
+Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+Kasir kedai kopi kampus mengalami penumpukan antrean dan ketidaksesuaian stok bahan baku ketika jam sibuk pergantian kuliah, sehingga pelanggan sering membatalkan pesanan dan kasir merasa kewalahan. Kasir membutuhkan cara untuk mengetahui ketersediaan bahan secara langsung dan menyampaikan waktu tunggu ke pelanggan, dengan mempertimbangkan anggaran operasional yang terbatas serta area meja kasir yang sempit.
+Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+Kasir dan barista kedai kopi kampus mengalami penumpukan antrean serta keterlambatan konfirmasi stok bahan baku yang habis ketika jam sibuk makan siang pergantian kuliah, sehingga pelanggan membatalkan pesanan akibat waktu tunggu yang tidak terprediksi. Mereka membutuhkan kejelasan status ketersediaan bahan secara seketika dan kemampuan mengomunikasikan estimasi waktu penyajian kepada pelanggan, dengan mempertimbangkan keterbatasan ruang meja kasir dan target durasi transaksi maksimal 45 detik per orang.
+Fase 4: Refleksi Intrapribadi
+Latihan ini menjadi ajakan yang sangat kuat bagi saya sebagai mahasiswa Sistem dan Teknologi Informasi untuk menahan ego teknis. Di awal wawancara, dorongan otomatis saya adalah langsung menawarkan solusi seperti “membuatkan aplikasi POS berbasis tablet” atau “sistem pencatatan otomatis berbasis IoT”. Namun, saya memaksa diri untuk diam dan mendengarkan.
+Asumsi awal saya bahwa masalah utama kedai adalah “kurangnya sistem digital” ternyata keliru. Masalah sebenarnya terletak pada ketidakpastian alur komunikasi stok antara kasir dan barista serta ekspektasi waktu tunggu pelanggan.
+Langkah nyata yang harus saya lakukan untuk menjaga kepercayaan narasumber adalah menyampaikan terima kasih atas waktunya, membagikan salinan rumusan masalah ini sebagai bahan masukan operasional internal mereka, dan tidak memberikan janji manis palsu bahwa saya akan segera membuatkan aplikasi rumit tanpa analisis kebutuhan yang lebih matang.
+Fase 5: Rubrik Penilaian Mandiri (Self-Assessment)
+Kriteria Evaluasi
+Skor Mandiri
+Catatan Singkat
+Kualitas Mendengarkan
+92 / 100
+Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh.
+Ketepatan Rumusan Masalah
+95 / 100
+Berpusat pada masalah, menggunakan fakta teramati, terikat konteks, bebas solusi, dan telah terkonfirmasi.
+Etika & Penjagaan Privasi
+95 / 100
+Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber dihormati.
+Keandalan & Hubungan
+90 / 100
+Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya.
+Total Skor Rata-rata: 93/100 (Tingkat Unggul).
+Kembali ke atas
+Five-Language Translation Portfolio
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fargudd.github.io/kipp-students/index.html
+- https://fargudd.github.io/kipp-students/assets/logo.png
+- https://fargudd.github.io/kipp-students/course/index.html
+- https://fargudd.github.io/kipp-students/portfolio/index.html
+- https://fargudd.github.io/kipp-students/examples/index.html
+- https://fargudd.github.io/kipp-students/lk/index.html
+- https://fargudd.github.io/kipp-students/slides.html
+- https://fargudd.github.io/kipp-students/slides-pdf/index.html
+- https://fargudd.github.io/kipp-students/assessment/index.html
+- https://fargudd.github.io/kipp-students/about.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html
+- https://fargudd.github.io/kipp-students/portfolio/week-03.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html
+- https://fargudd.github.io/kipp-students/portfolio/week-08.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/paper.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_1_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/week-09.html
+- https://fargudd.github.io/kipp-students/portfolio/week-10.html
+- https://fargudd.github.io/kipp-students/portfolio/week-11.html
+- https://fargudd.github.io/kipp-students/portfolio/week-12.html
+- https://fargudd.github.io/kipp-students/portfolio/week-13.html
+- https://fargudd.github.io/kipp-students/portfolio/week-14.html
+- https://fargudd.github.io/kipp-students/portfolio/week-15.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#kompetensi-target
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#fase-1-profil-narasumber-disamarkan-demi-privasi
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#fase-2-log-catatan-wawancara-5-pertanyaan-penemuan
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#pertanyaan-1-kejadian-nyata-contoh-konkret
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#pertanyaan-2-dampak-nyata-beban-masalah
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#pertanyaan-3-pemetaan-pihak-terdampak
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#pertanyaan-4-gambaran-keadaan-yang-lebih-baik-hasil-akhir
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#pertanyaan-5-batasan-kendala-lapangan
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#fase-3-formulasi-pernyataan-masalah-pelanggan
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#formula-standar
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#draft-1-pernyataan-masalah-awal-sebelum-konfirmasi
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#fase-4-refleksi-intrapribadi
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html#fase-5-rubrik-penilaian-mandiri-self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

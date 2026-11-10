@@ -1,0 +1,164 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1103
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://pelangips.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: 24/10/2026, Simulasi di area Kantin Utama Kampus pada sore hari (di luar jam sibuk).
+Persons dan relationship: Pel (saya, penginisiasi solusi operasional) dan Ibu Kasir (pihak pelaksana/operator kantin). Hubungan sudah berada di tahap minat (Interest) dari diskusi minggu sebelumnya.
+Objective dan initial state: - Objective: Mentransformasi status Interest (penasaran soal bot WA) menjadi Desire (keinginan kuat dan persetujuan implementasi) dengan menghadirkan bukti demonstrasi, menangani keberatan operasional, dan mengakui risiko lapangan secara jujur. - Initial state: Ibu Kasir mulai tertarik namun masih menahan diri dengan keraguan (skeptis terhadap kerumitan teknis dapur dan risiko kegagalan sistem saat puncak kesibukan).
+Evidence
+Transkrip Simulasi Membangun Jembatan Batin & Pengakuan Risiko (5 Menit):
+Pel: “Sore Bu. Tadi saya ingat Ibu bilang, beban paling berat jam 12 itu bukan sekadar lelah masak, tapi stres karena harus bolak-balik ngitung duit receh sama dengerin anak-anak nanya pesanan. (Current State)” Ibu Kasir: “Nah itu, kadang sampai salah kasih kembalian sangking ramenya.” Pel: “Bayangin Bu, besok kalau sistem ini jalan, Ibu jam 12 beneran tinggal fokus nyendokin nasi dan ayam aja. Nggak ada pegang uang tunai, karena anak-anak udah bayar sendiri via QRIS. Kerja Ibu lebih tenang. (Desired State & Value)” Pel: “Biar nggak ngawang, saya tunjukin langsung ya Bu. Ini layar chat WA Ibu (menunjukkan demo di HP). Ada 5 teman saya pura-pura pesan. Ibu nggak usah bales. Tiba-tiba di HP Ibu langsung muncul list rekap kayak gini: Nasi Ayam 3, Es Teh 2. (Demonstration/Evidence)” Ibu Kasir: “Wah, ngerangkum sendiri dia? Tapi Neng, kalau Ibu masak tangannya kan berminyak, repot kalau dikit-dikit harus geser-geser layar HP buat ngecek pesanan ke berapa.” (Objection) Pel: “Oh iya, bener banget, bahaya juga layarnya. Kalau gitu gini Bu adaptasinya: HP-nya Ibu letakkan agak jauh aja. Tiap jam 11.45, list rekap dari HP itu Ibu atau anak Ibu tulis gede-gede di whiteboard kecil ini. Jadi pas masak Ibu panduannya tetap lihat ke papan tulis, bukan lihat HP. (Response & Adaptation)” Ibu Kasir: (Mengangguk-angguk setuju) “Oh, gitu masuk akal. Lebih aman.” Pel: “Tapi saya harus jujur juga Bu, sistem ini punya satu risiko besar. Kalau internet kampus mati atau server error di jam 11, sistem ini lumpuh. Kalau itu terjadi, hari itu terpaksa kita balik manual, Bu. (Risk Acknowledgment)” Ibu Kasir: “Ya namanya juga mesin, kalau error ya wajar, manual pun ibu udah biasa. Nggak apa-apa.” Pel: “Gimana Bu, dengan risiko tadi, kira-kira Ibu siap nggak kalau kita uji coba betulan hari Senin depan? Keputusannya terserah Ibu, kalau dirasa ribet kita nggak usah jalanin. (Freedom of Choice)” Ibu Kasir: “Boleh deh Neng. Hari Senin kita mulai pake WA itu.” (Desire Reached)
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya bertindak sebagai fasilitator objektif. Tidak berusaha merayu atau menutupi kekurangan, melainkan berpihak pada kenyamanan kerja Ibu Kasir.
+Objective & state
+Terjadi perubahan status dari Interest yang penuh keraguan menjadi Desire (Agreement/Commitment) yang stabil karena target merasa aman risikonya dipaparkan.
+Repertoire & language
+Menjaga bahasa tetap membumi (Feature: Bot Auto-Rekap \(\rightarrow\) Benefit: Tidak ketik ulang \(\rightarrow\) Value: Ketenangan batin tanpa stres menghitung uang kembalian).
+Response & adaptation
+Ketika dihadapkan pada hambatan ergonomis (tangan berminyak vs layar HP), saya segera beradaptasi dengan mempertahankan cara manual yang sukses (analog fallback), yakni papan tulis.
+Agreement/action
+Kesepakatan uji coba langsung hari Senin tercipta secara sadar karena sasaran memahami sepenuhnya risiko kegagalan internet.
+Relationship outcome
+Tingkat kepercayaan (kredibilitas) meningkat drastis. Target tidak merasa ditipu oleh janji “teknologi dewa”, melainkan diajak bekerjasama mengelola batasannya.
+Penggunaan AI
+Tidak menggunakan AI. Segala pembentukan kerangka jembatan batin, rantai nilai, tanggapan atas keberatan ergonomis (penggunaan whiteboard), serta pengakuan risiko matinya jaringan didapatkan secara empiris dari sesi latihan tatap muka tanpa ada unsur generative language buatan AI.
+Feedback dan tindak lanjut
+Feedback yang diterima: Penerimaan yang ikhlas saat saya menyebutkan “sistem bisa mati jika internet putus” (Ibu Kasir merespons: “ya wajar, manual pun ibu udah biasa”) menjadi bukti kuat bahwa pengakuan terhadap kelemahan justru tidak mematikan proyek, tetapi membunuh sikap defensif pelanggan.
+Adaptation/replay: Perubahan alur operasional ditambahkan (integrasi digital-analog). Sistem tidak sepenuhnya paperless demi menjaga aspek ergonomi dapur (menulis kembali di papan tulis kecil whiteboard).
+Next practice: Saya akan mempraktikkan pengakuan kelemahan (risk acknowledgment) lebih awal pada setiap presentasi atau diskusi kelompok sebelum audiens sempat menemukan kelemahan itu terlebih dahulu.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Menempatkan diri sebagai mitra jujur, bukan penjual yang menjanjikan kesempurnaan.
+Objective & State
+4
+Keberhasilan beralih dari rasa penasaran teknis menuju komitmen uji coba (Desire).
+Repertoire, Language & AI
+4
+Transformasi lengkap dari Fitur (rekap bot) menuju Value konkret (ketenangan kerja).
+Response & Adaptation
+4
+Adaptasi sistem dengan mengusulkan jalan tengah whiteboard manual di dapur.
+Agreement, Action & Relationship
+4
+Kesepakatan tercapai dengan menghormati martabat dan hak tolak target sepenuhnya.
+Total: 20 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Pelangi Putri Sanyoto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://pelangips.github.io/kipp-students/index.html
+- https://pelangips.github.io/kipp-students/assets/logo.png
+- https://pelangips.github.io/kipp-students/course/index.html
+- https://pelangips.github.io/kipp-students/portfolio/index.html
+- https://pelangips.github.io/kipp-students/examples/index.html
+- https://pelangips.github.io/kipp-students/lk/index.html
+- https://pelangips.github.io/kipp-students/slides.html
+- https://pelangips.github.io/kipp-students/slides-pdf/index.html
+- https://pelangips.github.io/kipp-students/assessment/index.html
+- https://pelangips.github.io/kipp-students/about.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html
+- https://pelangips.github.io/kipp-students/portfolio/week-01.html
+- https://pelangips.github.io/kipp-students/portfolio/week-02.html
+- https://pelangips.github.io/kipp-students/portfolio/week-03.html
+- https://pelangips.github.io/kipp-students/portfolio/week-04.html
+- https://pelangips.github.io/kipp-students/portfolio/week-05.html
+- https://pelangips.github.io/kipp-students/portfolio/week-06.html
+- https://pelangips.github.io/kipp-students/portfolio/week-07.html
+- https://pelangips.github.io/kipp-students/portfolio/week-08.html
+- https://pelangips.github.io/kipp-students/portfolio/week-10.html
+- https://pelangips.github.io/kipp-students/portfolio/week-11.html
+- https://pelangips.github.io/kipp-students/portfolio/week-12.html
+- https://pelangips.github.io/kipp-students/portfolio/week-13.html
+- https://pelangips.github.io/kipp-students/portfolio/week-14.html
+- https://pelangips.github.io/kipp-students/portfolio/week-15.html
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#konteks-performance
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#evidence
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#analisis-komunikasi
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://pelangips.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+- https://pelangips.github.io/kipp-students/examples/week-09.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

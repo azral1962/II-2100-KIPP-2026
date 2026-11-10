@@ -1,0 +1,176 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 864
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Attention evidence dan problem–solution link
+Interest pitch dan demonstrasi konseptual
+Hidden concern dan adaptation
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+PeringatanCatatan validasi evidence
+Interest-pitch role-play dilakukan menurut konfirmasi Ariya. Dialog direkonstruksi dengan bantuan AI, bukan transkrip verbatim. Checklist masih rancangan konseptual dan belum diuji; jangan mengklaim solusi terbukti atau disetujui target.
+Attention evidence dan problem–solution link
+Tanggal dan setting: 13 Oktober 2026, role-play lanjutan setelah target mengakui kebingungan memilih konfigurasi sesuai topologi dan langkah awal diagnosis.
+Problem yang diakui dalam skenario
+Mechanism
+Benefit yang diharapkan
+Value bagi person
+Catatan lama mungkin tidak sesuai dengan topologi aktif
+Lembar satu halaman mencantumkan nama/topologi, IP, subnet mask, gateway, serta langkah uji berurutan
+Target dapat membandingkan konfigurasi terhadap diagram yang sedang dipakai
+Lebih yakin menentukan langkah berikutnya tanpa mengandalkan ingatan saja
+Saat ping gagal, urutan pemeriksaan tidak jelas
+Checklist memisahkan pemeriksaan alamat, gateway, koneksi lokal, lalu tes berikutnya sesuai materi praktikum
+Kesalahan dapat dilokalisasi satu per satu
+Waktu belajar dipakai untuk memahami hasil tes, bukan menebak langkah
+Checklist hanya usulan untuk latihan. Akurasi urutan dan nilai konfigurasi harus diperiksa terhadap topologi serta instruksi resmi praktikum sebelum digunakan.
+Interest pitch dan demonstrasi konseptual
+Ariya: “Karena kamu bilang catatan lama bisa beda topologi, aku membayangkan satu lembar yang dimulai dari diagram yang sedang dipakai, lalu mencatat IP, subnet mask, dan gateway untuk tiap perangkat. Di bawahnya ada urutan cek saat ping gagal. Tujuannya bukan menggantikan pemahaman konsep, tapi membantu kamu tahu langkah mana yang sedang diuji. Mau lihat susunan contohnya?”
+Owen: “Boleh. Tapi kalau ada yang salah di checklist, orang bisa ikut konfigurasi yang salah juga.”
+Ariya: “Betul. Berarti lembar itu perlu mencantumkan sumber topologi dan siapa yang memeriksa versinya. Kita juga tidak pakai nilai contoh sebelum dicocokkan dengan instruksi praktikum.”
+Owen: “Kalau begitu, aku ingin lihat formatnya. Bagaimana cara membedakan tes koneksi lokal dengan gateway?”
+Owen meminta penjelasan mekanisme lanjutan dalam role-play, sebuah signal Interest. Ia belum menyatakan ingin memakai checklist atau menyetujui uji coba nyata.
+Hidden concern dan adaptation
+Pertanyaan tentang checklist yang salah menunjukkan concern utama bukan tampilan, melainkan akurasi, sumber, dan pemilik pembaruan. Adaptasi: tambahkan kolom nama topologi, sumber instruksi, tanggal/versi, dan pemeriksa; pisahkan placeholder dari nilai konfigurasi resmi. Untuk pertanyaan tentang koneksi lokal dan gateway, jelaskan perbedaan itu dengan diagram praktikum yang sudah diverifikasi, bukan mengarang nilai IP.
+Tahap
+State assessment
+Sebelum pitch
+Attention: target mengakui masalah rujukan dan urutan diagnosis dalam skenario.
+Sesudah pitch
+Interest awal: target meminta penjelasan cara membedakan dua tes, tetapi concern akurasi masih terbuka.
+Belum tercapai
+Desire, izin implementasi, dan action belum ada.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & Character
+Owen diposisikan sebagai pengguna praktikum; kebutuhannya adalah keandalan dan pemahaman, bukan fitur teknologi.
+Objective & State
+Objective bergerak dari attention ke rasa ingin tahu pada mechanism, tanpa menyamakan pertanyaan dengan persetujuan.
+Repertoire & Language
+Satu lapis penjelasan, diagram/checklist konseptual, dan pertanyaan terbuka digunakan.
+Response & Adaptation
+Concern validitas mengubah rancangan dengan sumber, versi, dan pemeriksa; klaim dibatasi.
+Agreement & Action
+Belum ada komitmen. Jika dilanjutkan, validasi checklist bersama instruksi praktikum dan minta target menguji satu contoh.
+Relationship Outcome
+Mengakui risiko dan tidak defensif menjaga kredibilitas; outcome relasi aktual belum diketahui.
+Penggunaan AI
+AI membantu menyusun pitch, mengantisipasi concern, dan merapikan tabel hubungan problem–mechanism–benefit–value. AI tidak memvalidasi konfigurasi jaringan atau memberi persetujuan dari Owen. Nilai IP dan prosedur teknis harus diperiksa terhadap materi praktikum resmi sebelum dipakai.
+Feedback dan tindak lanjut
+Feedback role-play: Pertanyaan tentang kemungkinan kesalahan checklist mengungkap concern yang tidak muncul dari pitch awal.
+Adaptation/replay: Tampilkan hanya format kosong dahulu; isi contoh setelah sumber topologi diverifikasi dan sepakati siapa yang memeriksa perubahan.
+Next practice: Setelah menjelaskan satu mechanism, berhenti dan tanyakan concern target sebelum menambah fitur atau detail.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Value untuk pengguna dan tanggung jawab pihak yang memvalidasi materi dibedakan.
+Objective & State
+4
+Attention, Interest awal, Desire, dan Action tidak dicampur; state uncertainty dipertahankan setelah pertanyaan target.
+Repertoire, Language & AI
+4
+Mechanism dijelaskan berlapis, evidence dibatasi, dan klaim teknis diarahkan untuk verifikasi sumber resmi.
+Response & Adaptation
+4
+Concern akurasi mengubah rancangan melalui sumber, versi, dan pemeriksa, bukan dijawab dengan defensif.
+Agreement, Action & Relationship
+3
+Ada langkah validasi, tetapi belum ada komitmen target.
+Total: 19/20. Nilai 4 didukung pembacaan signal Interest dan adaptasi terhadap concern tersembunyi; agreement/action tetap 3 karena belum ada komitmen target, validasi checklist, atau dampak relasi pasca-pitch.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Ariya Nanda Harimawan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sg22ariya.github.io/kipp-students/index.html
+- https://sg22ariya.github.io/kipp-students/assets/logo.png
+- https://sg22ariya.github.io/kipp-students/course/index.html
+- https://sg22ariya.github.io/kipp-students/portfolio/index.html
+- https://sg22ariya.github.io/kipp-students/examples/index.html
+- https://sg22ariya.github.io/kipp-students/lk/index.html
+- https://sg22ariya.github.io/kipp-students/slides.html
+- https://sg22ariya.github.io/kipp-students/slides-pdf/index.html
+- https://sg22ariya.github.io/kipp-students/assessment/index.html
+- https://sg22ariya.github.io/kipp-students/about.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-03.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-08.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-09.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-10.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-11.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-12.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-13.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-14.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-15.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-problemsolution-link
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstrasi-konseptual
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

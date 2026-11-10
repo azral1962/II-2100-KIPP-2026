@@ -1,0 +1,127 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 878
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Minggu 7 — Problem–Solution Interest Pitch
+PortfolioMinggu 7
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Minggu 6Minggu 7Indeks
+Problem–Solution Interest Pitch
+Problem–solution fit dan sinyal Interest (TAIDA Framework).
+Minggu 7
+Status Siap dinilai
+Self 19
+Assessor —
+TAIDA Interest
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan guna menumbuhkan minat (Interest) pada kerangka TAIDA.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration (prototipe).
+Response, state assessment, deteksi hidden concern, dan adaptation.
+Konteks performance
+Tanggal dan setting: 29 Oktober 2026, 15.00, selasar Labtek usai tindak lanjut temuan log deadlock di Minggu 6.
+Persons dan relationship: Agas (mahasiswa penggagas solusi), Naufal (asisten lab / koordinator teknis Pemodelan Basis Data), dan Randy (rekan praktikan). Hubungan bersifat kemitraan teknis akademik.
+Objective dan initial state: Mengajak Naufal tertarik menguji coba mekanisme isolasi schema sesi (pg-session-guard) untuk mencegah deadlock praktikum, tanpa menambah beban kerja operasional asisten lab. Initial state: Naufal telah memiliki Attention dari data Minggu 6, namun belum memiliki minat (Interest) karena khawatir solusi baru justru menambah kerumitan maintenance server.
+Evidence
+Attention evidence dan problem–solution link
+Dari hasil penarikan log agregat di Minggu 6, terbukti 14 sesi praktikum mengalami lock contention dan deadlock akibat penggunaan user bersama pada database PostgreSQL lab.
+Masalah yang Disepakati (Minggu 6)
+Mekanisme Solusi (Minggu 7)
+Manfaat Langsung
+Nilai Relasional bagi Target (Naufal)
+Praktikan login user yang sama dan menimpa tabel rekan sekelompok
+Skrip wrapper CLI pg-session-guard yang otomatis mengarahkan koneksi ke schema privat berbasis NIM praktikan
+Sesi transaksi terisolasi secara independen
+Nilai tugas praktikan valid dan keluhan nilai hilang ke asisten berkurang drastis
+Transaksi menggantung (idle in transaction) memicu deadlock
+Konfigurasi timeout otomatis idle_in_transaction_session_timeout = '5min' di tingkat session
+Lock otomatis lepas jika koneksi ditinggal
+Asisten lab tidak perlu memantau dan melakukan pg_terminate_backend manual
+Pitch minat dan demonstrasi prototipe (90 detik)
+Draf Pitch Lisan kepada Naufal:
+"Naufal, ringkasan 14 kasus deadlock minggu lalu sudah kita sepakati. Daripada harus migrasi akun server yang rumit dan butuh persetujuan birokrasi fakultas, aku buatkan prototipe skrip CLI ringan bernama pg-session-guard. Mekanismenya sederhana: saat praktikan login, skrip ini otomatis membuat schema isolasi sementara berdasarkan NIM, sehingga transaksi Randy dan praktikan lain tidak saling tunggu lock. Boleh aku demokan 90 detik di terminal laptop ini?"
+Demonstrasi prototipe:
+Agas membuka dua jendela terminal berdampingan, menyimulasikan Randy dan praktikan lain menjalankan query UPDATE secara serentak di tabel yang sama. Skrip berhasil mengisolasi eksekusi tanpa terjadi blocking maupun deadlock.
+Response, hidden concern, dan adaptasi
+Naufal: "Demonstrasinya mulus banget Gas, kuerinya langsung jalan di dua terminal. Tapi... kalau koneksi Wi-Fi lab tiba-tiba putus pas praktikan lagi jalanin transaksi, status schemanya gimana? Jangan-jangan lock-nya nyangkut di background, terus asisten lab yang harus repot nge-reset manual satu-satu tiap lima menit?"
+Observasi langsung dan deteksi hidden concern:
+Naufal tidak menolak mekanisme teknisnya, melainkan mengkhawatirkan workload (beban kerja tambahan bagi asisten lab) jika terjadi anomali jaringan. Ini adalah hidden concern klasik: ketakutan bahwa otomatisasi teknologi justru memindahkan beban pemeliharaan ke pundak operator.
+Adaptasi responsif terhadap kekhawatiran beban kerja
+Ucapan Adaptasi Agas:
+"Kekhawatiranmu sangat beralasan Fal. Tujuan alat ini justru meringankan beban asisten, bukan menambah kerjaan tiket komplain. Karena itu, aku sudah pasang dua pengaman di skrip ini:
+Auto-kill session timeout: Di level server, transaksi idle otomatis diputus dalam 5 menit jika koneksi Wi-Fi drop.
+Self-service reset command: Jika ada praktikan yang mengalami lock nyangkut, mereka cukup ketik pg-session-guard --reset dari terminal mereka sendiri untuk membersihkan koneksi lama mereka, tanpa perlu memanggil asisten lab sama sekali.
+Gimana kalau mekanisme reset mandiri ini kita uji coba di kelompoknya Randy dulu minggu depan?"
+Respons dan sinyal Interest Naufal:
+"Nah! Kalau praktikan bisa self-reset sendiri dan ada timeout otomatisnya, itu aman banget buat tim asisten. Boleh Gas, kita uji coba pilot di kelompok Randy pada sesi praktikum hari Rabu depan ya. Kalau lancar, kita terapkan ke seluruh kelas."
+Perubahan state: Naufal bergerak dari Attention with Workload Skepticism menjadi Active Interest disertai persetujuan pilot testing.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Berperan sebagai product engineer yang empatik terhadap beban kerja rekan pelaksana. Mengakui prioritas Naufal yang menjaga stabilitas operasional lab.
+Objective & state
+Objective menumbuhkan minat (Interest) tercapai penuh tanpa pemaksaan (feature dumping). Perubahan state Naufal teramati: dari skeptis terhadap pemeliharaan sistem bergeser menjadi antusias menyetujui uji coba pilot.
+Repertoire & language
+Menggunakan demonstrasi interaktif visual 90 detik, bahasa nilai operasional (bukan sekadar deretan fitur), mendengarkan keberatan tanpa defensif, serta menghadirkan mitigasi konkret.
+Response & adaptation
+Berhasil mendeteksi hidden concern beban kerja di balik pertanyaan jaringan Naufal, dan mengadaptasi pesan dengan menonjolkan fitur self-service reset dan timeout otomatis.
+Agreement/action
+Kesepakatan uji coba pilot formal: skrip pg-session-guard diujicobakan pada kelompok praktikum Randy pada sesi Rabu, 4 November 2026.
+Relationship outcome
+Mengukuhkan posisi Agas sebagai pemecah masalah yang matang dan bertanggung jawab, memperkuat sinergi profesional antara praktikan dan asisten lab.
+Penggunaan AI
+AI digunakan dalam proses penyusunan skrip uji coba dan pengecekan sintaks bash scripting. AI tidak digunakan dalam interaksi komunikasi riil; pengenalan hidden concern murni hasil observasi langsung terhadap ekspresi keraguan Naufal.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Naufal (Asisten Lab): "Poin penentu buatku tadi adalah fitur self-reset-nya. Itu nunjukin kamu mikirin beban kerja tim asisten, bukan cuma pamer kodingan canggih."
+Randy (Praktikan): "Siap jadi kelompok uji coba minggu depan Gas, semoga nggak ada drama deadlock lagi pas submit praktikum."
+Adaptation/replay: Menyiapkan dokumentasi satu halaman panduan penggunaan perintah pg-session-guard --reset untuk kelompok uji coba Randy.
+Next practice: Menjelang tahap Decision (Minggu 8/UTS), menyiapkan parameter metrik keberhasilan uji coba pilot (angka penurunan komplain dan error rate).
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Menyelaraskan inovasi teknis dengan kenyamanan beban kerja asisten lab
+Objective & State
+4
+Menumbuhkan sinyal Interest nyata dan mengonfirmasi persetujuan uji coba pilot
+Repertoire, Language & AI
+4
+Pitch 90 detik padat, demo visual efektif, dan bebas pembuangan fitur yang tidak relevan
+Response & Adaptation
+4
+Hidden concern beban operasional direspons dengan mekanisme reset mandiri yang presisi
+Agreement, Action & Relationship
+3
+Jadwal pilot disepakati untuk minggu depan, evaluasi metrik penuh menunggu pelaksanaan
+Total skor self-assessment19/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-07.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-06.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-07.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

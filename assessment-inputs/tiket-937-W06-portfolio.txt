@@ -1,0 +1,167 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 937
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Target map
+Attention pitch
+Response dan state assessment
+Proposed opportunity
+Evidence dan refleksi
+Self-assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Target map
+Person
+Relevance
+Authority
+Current state
+Mahasiswa seangkatan yang mengambil PBO dan Basdat
+Mengalami langsung pembagian waktu belajar untuk dua praktikum di hari yang sama
+Tidak memiliki kewenangan atas jadwal maupun sebaran asesmen
+Problem aware
+Asisten praktikum (asprak)
+Memandu sesi dan melihat kesiapan praktikan secara langsung
+Dapat mengatur ritme asistensi dan menyampaikan masukan ke dosen
+Baru memperhatikan gejalanya
+Koordinator praktikum / dosen pengampu
+Menyusun jadwal praktikum dan sebaran asesmen mingguan
+Dapat meninjau ulang penempatan hari dan sebaran beban
+Belum sadar
+Saya memilih mahasiswa seangkatan yang mengambil kedua praktikum sebagai target awal. Pilihan ini bukan karena ia paling mudah ditemui, melainkan karena objective awal saya bukan mengubah jadwal, melainkan memeriksa apakah persoalan ini benar-benar dialami orang lain atau hanya pengalaman pribadi saya.
+Saya sengaja belum menghubungi asprak maupun koordinator praktikum. Membawa isu ke pihak yang berwenang dengan dasar satu pengalaman pribadi berisiko menjadi keluhan, bukan observasi. Target pengguna adalah pihak yang paling tepat untuk menguji apakah pola yang saya amati memiliki dasar, sekaligus pihak yang paling sedikit terbebani jika ternyata dugaan saya keliru.
+Attention pitch
+Observasi awal saya: praktikum Pemrograman Berorientasi Objek dijadwalkan pukul 09.00–11.00 dan praktikum Pemodelan Basis Data pukul 13.00–15.00 pada hari yang sama. Pada minggu kuis Basdat kedua, jadwal tersebut berimpitan dengan kuis Matematika Diskrit dan tugas kecil Jaringan Komputer, sehingga waktu persiapan efektif hanya tersisa sekitar dua hari untuk dua praktikum sekaligus. Akibat yang saya alami sendiri: saya memprioritaskan Basdat dan hasil PBO saya turun.
+Saya menggunakan formula versi masalah (Observasi → Dampak → Periksa) dan menempatkan dampak pada diri sendiri lebih dulu agar target tidak merasa sedang dinilai.
+Saya: “Jadi gini, aku perhatiin PBO jam 9 sama Basdat jam 1 itu kan sehari. Jadinya waktu belajarku kebagi dua. Pas minggu ada kuis Matdis sama tucil Jarkom kemarin, aku akhirnya ngorbanin PBO. Menurut kamu, kamu ngerasain pembagian waktu kayak gitu juga nggak?”
+Sebelum menyampaikan pitch, saya meminta izin singkat dan menyebutkan keperluannya sejak awal, agar target mengetahui konteks percakapan sebelum mendengar isunya.
+Evidence yang saya gunakan berasal dari jadwal praktikum yang dapat diperiksa dan pengalaman saya sendiri pada minggu tersebut. Saya tidak menyimpulkan bahwa seluruh angkatan mengalami hal yang sama, karena pada titik ini saya belum memiliki dasar untuk itu.
+Response dan state assessment
+Target merespons dengan uraian panjang yang tidak saya minta, dan langsung mengenali minggu yang saya maksud.
+Target (inisial G): “Oh yang pas minggu itu ya, emang kacau sih minggu itu. Udah kuis Matdis materinya banyak banget, terus ada tucil Jarkom. Kalau gw jujur aja gw ngorbanin Basdat. Habis kelar tucil Jarkom malam Kamis langsung belajar PBO sampai pagi. Jumatnya bangun jam tujuhan, belajar PBO bentar sampai jam sembilan. Habis kelar PBO jam sebelas gw push belajar Basdat, tapi karena materinya lagi susah-susahnya ya cuma bisa dasarnya aja. Yang keluar di praktikum nggak ada dasar-dasarnya, jadi gw bengong pas praktikum Basdat.”
+Respons ini mengubah state target dari problem aware menjadi attention: issue tidak hanya diakui, tetapi diperkuat dengan kronologi yang ia alami sendiri.
+Yang lebih penting, respons tersebut mengoreksi asumsi saya. Saya menduga mahasiswa yang mengalami tabrakan jadwal cenderung mengorbankan mata kuliah yang sama seperti saya. Ternyata target mengorbankan praktikum yang justru saya prioritaskan, dan hasilnya tetap sama-sama tidak optimal.
+Karena itu saya tidak melanjutkan dengan menguatkan dugaan awal, melainkan menguji ulang hipotesis saya sendiri — termasuk kemungkinan bahwa penyebabnya bukan jadwal:
+Saya: “Lu kan ngorbanin Basdat, gw kebalikannya ngorbanin PBO — berarti dua-duanya tetep ada yang jebol ya. Menurut lu yang bikin jebol itu emang jadwalnya sehari, atau lebih ke materi Basdatnya yang pas itu lagi susah?”
+Target: “Menurut gw emang gara-gara jadwalnya aja. Menurut gw PBO maupun Basdat materinya emang susah, tapi bukan impossible untuk dapetin nilai tinggi.”
+Jawaban ini menutup satu kemungkinan penjelasan alternatif. Target memisahkan dua hal yang semula saya campur: kesulitan materi dan ketersediaan waktu persiapan. Menurutnya materi yang sulit tetap dapat dikuasai bila waktunya cukup, sehingga variabel yang menentukan adalah penempatan jadwal.
+Objective saya berubah setelah percakapan ini. Semula saya ingin menunjukkan bahwa tabrakan jadwal merugikan mahasiswa. Setelah mendapat respons, rumusannya menjadi lebih presisi: apa pun praktikum yang diprioritaskan, selalu ada satu praktikum yang tidak tersiapkan — sehingga persoalannya bukan pilihan mahasiswa, melainkan sebaran beban pada hari tersebut.
+Proposed opportunity
+Dari percakapan ini belum muncul usulan solusi, dan itu disengaja. Target tidak memiliki authority atas jadwal, sehingga meminta solusi darinya tidak tepat sasaran.
+Yang dihasilkan adalah dasar untuk melangkah ke target berikutnya: observasi saya kini didukung pengalaman pihak lain dengan pola pilihan yang berbeda, dan satu penjelasan alternatif sudah diuji serta ditolak oleh pihak yang mengalami. Dengan bekal itu, isu dapat dibawa ke asprak sebagai pola lapangan, lalu ke koordinator praktikum sebagai pertimbangan sebaran beban, tanpa bergantung pada pengalaman satu orang saja.
+Evidence dan refleksi
+Jadwal praktikum PBO (09.00–11.00) dan Basdat (13.00–15.00) pada hari yang sama, dengan jeda sekitar dua jam.
+Pada minggu kuis Basdat kedua, jadwal tersebut berimpitan dengan kuis Matematika Diskrit dan tugas kecil Jaringan Komputer.
+Pengalaman saya sendiri: memprioritaskan Basdat dan mengalami penurunan hasil pada PBO.
+Respons target menunjukkan pola yang berkebalikan dengan pilihan saya, namun berujung pada hasil yang sama-sama tidak optimal.
+Target menolak penjelasan alternatif bahwa penyebabnya adalah tingkat kesulitan materi.
+Saya menyampaikan izin dan keperluan di awal, tidak menawarkan solusi pada kalimat pembuka, dan menutup pitch dengan pertanyaan yang memberi ruang untuk menjawab “tidak”.
+AI digunakan untuk memeriksa apakah pitch saya sudah memisahkan observasi, asumsi, dan opportunity, serta apakah panjangnya masih wajar sebagai pembuka. AI tidak digunakan untuk membuat evidence, mengarang respons target, maupun menyimpulkan kondisi mahasiswa lain.
+Next practice: setelah validasi pada tingkat pengguna, langkah berikutnya adalah menyusun pitch untuk pelaksana dengan dampak yang dirumuskan dalam satuan kerja mereka, bukan dalam keluhan mahasiswa.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Target dipilih dengan alasan eksplisit (validasi sebelum eskalasi), namun ia tidak memiliki authority sehingga percakapan belum menyentuh pihak yang dapat mengambil keputusan
+Objective & State
+4
+State target bergerak dari problem aware ke attention; objective saya sendiri diperbarui menjadi rumusan yang lebih presisi setelah respons
+Repertoire, Language & AI
+4
+Menggunakan jalur masuk observasi dengan ragam sebaya; dampak ditempatkan pada diri sendiri agar tidak terkesan menilai; AI hanya dipakai memeriksa framing
+Response & Adaptation
+4
+Setelah respons pertama saya tidak melanjutkan naskah, melainkan menguji ulang hipotesis sendiri dengan menawarkan penjelasan alternatif
+Agreement, Action & Relationship
+3
+Percakapan menghasilkan validasi dan dasar untuk langkah berikutnya, tetapi belum menghasilkan kesepakatan tindakan konkret
+Total: 18/20 — Kompeten.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#proposed-opportunity
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#evidence-dan-refleksi
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

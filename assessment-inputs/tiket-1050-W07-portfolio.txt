@@ -1,0 +1,217 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1050
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-1
+Skip to main content
+Portfolio KIPP-1
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 - UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks Performance
+Attention Evidence dan Problem–Solution Link
+Interest Pitch dan Demonstration
+Transcript dan Response
+Hidden Concern dan Adaptation
+State Assessment
+Agreement dan Tindak Lanjut
+Analisis Komunikasi
+Penggunaan AI
+Feedback dan Tindak Lanjut
+Self-assessment
+Assessment Dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Menghubungkan masalah bagian tanpa pemilik dengan tabel pemilik bagian pada dokumen induk dan membaca signal Interest dari N.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+Konteks Performance
+Nama diganti inisial. Pembicaraan ini lanjutan Minggu 6 dengan N, koordinator tim tugas besar kami yang beranggotakan saya, N, R, dan D. Saya menemui N Sabtu, 3 Oktober 2026, sekitar pukul 14.10, di teras kos N, selama kira-kira 15 menit. Pada Minggu 6 kami sepakat saya membawa satu ide untuk pembagian bagian, dan N yang menilai cocok atau tidak. Tugas besar 2 baru dimulai dan tenggatnya Jumat, 13 November 2026.
+Objective saya: N ingin tahu cara kerja idenya dan melihat apakah cocok dengan cara tim bekerja. Saya tidak meminta N menyetujui apa pun. Beberapa objective bersaing: ide harus ringan karena N sudah kewalahan di malam penggabungan, tidak boleh terkesan menyindir cara N mengelola dokumen, dan tidak boleh menjanjikan lebih dari yang bisa dibuktikan. State awal: Attention sudah ada dari Minggu 6 (N mengakui bahwa bagian tidak punya penanda pemilik dan pertanyaan “file mana” berulang), tetapi belum ada pertanyaan dari N tentang solusinya.
+Attention Evidence dan Problem–Solution Link
+Evidence Attention saya bawa dari Minggu 6: N sendiri yang menyebut “nggak ada tanda siapa pegang bagian mana” dan “harus scroll riwayat tiap ditanya file mana”. Saya menyusun tautan masalah ke solusi sebelum bertemu, lalu mengujinya dengan N di tempat.
+Masalah yang N akui
+Mekanisme
+Manfaat bagi N
+Dua orang mengedit bagian yang sama karena tidak ada tanda pemegang
+Tabel pemilik bagian di atas dokumen induk: bagian, pemilik, status
+N tahu siapa memegang apa tanpa bertanya
+Pertanyaan “file mana” menghabiskan waktu N
+Satu dokumen induk; pemilik hanya menyunting bagiannya, orang lain memberi komentar
+N berhenti jadi pusat pertanyaan di grup
+Dari tiga hal yang bisa saya tawarkan (tabel pemilik, aturan penamaan file, aplikasi papan tugas), saya hanya membawa yang pertama. Aturan penamaan tidak menyentuh masalah “dua orang di bagian yang sama”, dan aplikasi baru menambah beban yang N sudah keluhkan.
+Interest Pitch dan Demonstration
+Saya tidak memulai dari fitur. Pembuka saya mengulang kata-kata N, lalu menawarkan satu mekanisme dalam satu kalimat, dan baru menambah detail ketika N bertanya.
+Saya: “Minggu lalu lu bilang masalahnya nggak ada tanda siapa pegang bagian mana. Ide gua kecil: di paling atas dokumen, ada tabel empat kolom. Sebelum ngedit bagian, orangnya nulis namanya di situ.”
+Demonstration yang saya bawa hanya satu: tangkapan layar tabel kosong di ponsel saya, berisi enam baris bagian dari draft proposal tugas besar 2. Isinya bukan data. Saya memakainya agar N bisa melihat ukurannya, dan agar N melihat sendiri bahwa tabelnya muat dalam satu layar.
+Transcript dan Response
+N: “Kolom empatnya apa aja?”
+Saya: “Bagian, pemilik, status, tenggat. Statusnya cuma tiga: kosong, lagi digarap, siap digabung.”
+N: “Terus kalau ada yang lupa ngisi nama sebelum ngedit?”
+Saya: “Itu celahnya. Makanya gua usul percobaan kecil dulu, bukan aturan. Menurut lu, kalau lupa ngisi, apa yang paling mungkin kejadian?”
+N: “Ya sama aja kayak sekarang. Tapi seenggaknya gua bisa bilang ‘lu kan belum ngisi’ tanpa kedengeran nyalahin.”
+Saya: “Jadi tabelnya ngasih lu kalimat yang netral buat nanya?”
+N: “Iya, itu yang kurang. Sekarang gua nanya ‘lu ngedit bagian mana’ itu kedengeran ngawasin.”
+N: “Kalau pas deadline gua harus nyuntik bagian orang yang belum selesai, nulisnya gimana?”
+Saya: “Lu tulis nama lu sementara di kolom pemilik, kasih catatan ‘pinjam dari R’. Nanti dikembaliin kalau R mau nerusin.”
+N: “Boleh juga. Bisa bagian yang dikerjain berdua juga? Misal gua sama D.”
+Saya: “Bisa ditulis dua nama, tapi gua belum yakin itu nggak balik jadi masalah lama. Mau gua tandain sebagai hal yang diuji di percobaan?”
+N: “Tandain.”
+Hidden Concern dan Adaptation
+Ada satu hal yang tidak diucapkan langsung. Saat saya menyebut “orang lain hanya komentar”, N sempat berhenti sebentar, melirik ke ponselnya yang menampilkan grup, lalu bertanya soal kalau ada yang lupa mengisi. Itu sinyal lemah. Saya menduga N khawatir tabel ini akan dibaca D sebagai tanda diawasi, karena D yang paling sering mengerjakan sendiri lalu menempel hasilnya.
+Saya tidak mengatakan dugaan itu sebagai fakta. Saya bertanya:
+Saya: “Tadi lu sempet ngeliat grup. Ada yang lu pikirin soal tabelnya ke R atau D?”
+N: “Soal D sih. Dia kerja sore, kadang baru bisa ngerjain tengah malem. Kalau disuruh ngisi tabel tiap ngedit, nanti dia ngerasa kita ngawasin.”
+Saya: “Berarti bukan tabelnya yang bikin lu ragu, tapi cara nyampeinnya ke D?”
+N: “Iya. Kalau gua yang bilang, mungkin masih oke. Kalau lu yang nyuruh, jadinya kayak dari luar.”
+Saya mengubah dua hal. Pertama, saya tidak lagi menawarkan tabel ke seluruh tim. N yang menentukan siapa diberi tahu, kapan, dan dengan kalimat apa. Kedua, saya mengubah penutup dari ajakan menjalankan menjadi percobaan satu sesi yang N kendalikan penuh.
+State Assessment
+Interest tercapai. Tiga penanda yang dapat ditunjuk: N menanyakan skenario kegagalan (“kalau lupa ngisi”), menanyakan cara kerja tambahan (“kalau pas deadline harus nyuntik bagian orang”, “bagian dikerjain berdua”), dan mengusulkan modifikasi yang sesuai caranya bekerja. Itu menunjukkan N sedang menimbang kecocokan dengan tim, bukan sekadar mengangguk.
+Desire belum tercapai. N belum mengatakan ia menginginkan tabel ini dijalankan. Ia justru mengangkat risiko D merasa diawasi dan menahan keputusan sampai ia bisa mencoba sendiri. Karena itu saya tidak menutup dengan ajakan menjalankan, tetapi dengan percobaan kecil.
+Agreement dan Tindak Lanjut
+Kesepakatan hari itu kecil dan eksplisit:
+Hal
+Isi
+Percobaan
+Tabel pemilik bagian dipakai satu sesi kerja daring, Sabtu, 10 Oktober, sekitar pukul 19.00 sampai 21.00, untuk draft proposal tugas besar 2
+Owner
+Saya menyiapkan templat tabel dan mengirimkannya ke N lewat chat pribadi paling lambat Rabu, 7 Oktober. N yang menentukan cara menyampaikannya kepada R dan D
+Batas
+Saya tidak mengirim apa pun ke grup. Bagian yang dikerjakan berdua tetap dicatat sebagai hal yang diuji
+Review
+N mengabari hasilnya lewat pesan pribadi setelah sesi, dan saya tidak meminta N memutuskan lebih dari itu
+Analisis Komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+N dibaca sebagai koordinator yang teliti dan peka pada kesan mengawasi. Authority N atas dokumen dibedakan dari kuasa saya yang tidak ada. D dibaca lewat sinyal lemah (kerja paruh waktu, bekerja tengah malam, lebih suka menempel hasil).
+Objective & state
+State dibaca dari pertanyaan N: dari mengakui masalah (Attention) ke menanyakan cara kerja (Interest). Objective bersaing: ide ringan, tidak menyindir N, tidak overpromise. Uncertainty: respons D belum diketahui, sehingga saya tidak mengklaim tabel pasti berhasil.
+Repertoire & language
+Layered communication: satu kalimat mekanisme, lalu detail hanya saat N bertanya. Pembukaan memakai kata-kata N dari Minggu 6. Pitch dibatasi pada dua dari tiga mekanisme yang mungkin.
+Response & adaptation
+Jeda dan lirikan N ke grup mengubah pertanyaan saya menjadi pengecekan hidden concern. Jawaban N mengubah keputusan saya: percobaan satu sesi, N yang menyampaikan ke tim.
+Agreement, action & relationship
+Next step dengan tanggal, owner, batas, dan review. Saya menolak jalan pintas membawa tabel ke grup karena authority penyampaian ada pada N.
+Penggunaan AI
+AI digunakan sebelum pertemuan untuk membandingkan tiga kandidat mekanisme dan sesudahnya untuk merapikan catatan. Saya menolak usulan AI untuk membawa ketiganya sekaligus ke N, karena itu feature dumping dan N sudah menyebut malam penggabungan sebagai beban. Saya juga menolak kalimat AI “tabel ini akan menghilangkan semua bagian ketimpa”, karena belum ada data selain satu sesi nanti. AI tidak membuat ucapan N, dugaan saya tentang D, atau keputusan percobaan. AI tidak menghasilkan dialog, respons, atau outcome
+Feedback dan Tindak Lanjut
+Feedback terpenting datang dari N: tabel itu berguna karena memberi kalimat netral untuk bertanya, bukan karena ia mengatur orang. Itu mengubah cara saya menjelaskan manfaat. Next practice saya: menanyakan “apa yang akan lu pakai dari ini” sebelum menjelaskan manfaat menurut saya. Indikatornya, partner menyebut manfaat dengan kata-katanya sendiri sebelum saya menyebutnya.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+N dibaca sebagai koordinator yang peka soal kesan mengawasi; authority N atas dokumen dibedakan dari batas saya; D dibaca lewat sinyal lemah tanpa dijadikan label.
+Objective & State
+4
+State bergeser dari Attention ke Interest dengan penanda konkret; Desire belum tercapai dan tidak dipaksakan; uncertainty respons D dinyatakan.
+Repertoire, Language & AI
+4
+Pitch berlapis dan dibatasi pada satu mekanisme; saran AI yang membawa tiga opsi sekaligus dan klaim berlebihan ditolak dengan alasan.
+Response & Adaptation
+4
+Jeda N dan lirikan ke grup mengubah pertanyaan serta keputusan penutup; loop hidden concern ditutup dengan konfirmasi N.
+Agreement, Action & Relationship
+4
+Percobaan bertanggal dengan owner, batas, dan review; saya tidak melangkahi authority N dalam menyampaikan ke tim.
+Total: 20 / 20 - Lanjut
+Assessment Dosen
+Skor: - / 20
+Evidence yang mendukung: -
+Prioritas perbaikan: -
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 - UTS KIPP
+Portfolio KIPP-1 · Ihsan Fadhlih Akbar
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#quarto-document-content
+- https://frnkensteinn.github.io/kipp-students/index.html
+- https://frnkensteinn.github.io/kipp-students/assets/logo.png
+- https://frnkensteinn.github.io/kipp-students/course/index.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/index.html
+- https://frnkensteinn.github.io/kipp-students/examples/index.html
+- https://frnkensteinn.github.io/kipp-students/lk/index.html
+- https://frnkensteinn.github.io/kipp-students/slides.html
+- https://frnkensteinn.github.io/kipp-students/slides-pdf/index.html
+- https://frnkensteinn.github.io/kipp-students/assessment/index.html
+- https://frnkensteinn.github.io/kipp-students/about.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-01.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-02.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-03.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-04.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-05.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-06.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-08.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-09.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-10.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-11.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-12.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-13.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-14.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-15.html
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#konteks-performance
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-problemsolution-link
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#transcript-dan-response
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#state-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#agreement-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#analisis-komunikasi
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#penggunaan-ai
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#self-assessment
+- https://frnkensteinn.github.io/kipp-students/portfolio/week-07.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

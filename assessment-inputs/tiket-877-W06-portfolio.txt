@@ -1,0 +1,140 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 877
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://agastyatristan.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Minggu 6 — Target–Attention Challenge
+PortfolioMinggu 6
+MingguMinggu 1Minggu 2Minggu 3Minggu 4Minggu 5Minggu 6Minggu 7Minggu 8Indeks
+Target–Attention Challenge
+Target map, attention pitch, response, dan state assessment.
+Minggu 6
+Status Siap dinilai
+Self 19
+Assessor —
+TAIDA Attention
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence konkret pada tahap Attention (TAIDA).
+Evidence wajib
+Target map dan alasan memilih satu target person.
+Problem/opportunity pitch berbasis observasi konkret serta evidence (maksimal 45 kata).
+Response, state sesudah pitch, dan adaptation terhadap keberatan/reservasi target.
+Konteks performance
+Tanggal dan setting: 22 Oktober 2026, 16.30, ruang kontrol Lab Komputer setelah sesi Praktikum 3 Pemodelan Basis Data selesai.
+Persons dan relationship: Agas (Mahasiswa praktikan STI semester 3), Naufal (Asisten Lab / Koordinator Teknis Praktikum Basis Data), dan Randy (Rekan praktikan sekelas). Hubungan Agas dengan Naufal bersifat kolegial akademik yang kooperatif.
+Objective dan initial state: Mengajak Naufal mengakui bahwa fenomena transaction deadlock dan duplikasi session login pada server PostgreSQL lab adalah isu infrastruktur yang mendesak untuk diinvestigasi, bukan sekadar kesalahan penulisan query individu praktikan. Initial state: Naufal menganggap kendala praktikan murni kelalaian sintaks SQL biasa dan belum memprioritaskan pemeriksaan server.
+Evidence
+Target map
+Person
+Relevance (Relevansi Masalah)
+Authority (Kewenangan Tindakan)
+State Awal
+Randy (Praktikan Kelompok 3)
+Mengalami langsung data tabel praktikumnya tertimpa saat transaksi konkuren
+Tidak memiliki akses server untuk memperbaiki konfigurasi
+Problem aware (merasa dirugikan)
+Naufal (Asisten Lab Basis Data)
+Menangani keluhan teknis lab dan memegang akses administrator PostgreSQL
+Berwenang mengecek query log pg_stat_activity dan konfigurasi sesi server
+Problem aware with reservation (menganggap isu remeh)
+Dosen Pengampu Basis Data
+Bertanggung jawab atas regulasi kurikulum dan penilaian praktikum
+Memiliki wewenang mutlak kebijakan praktikum lab
+Unaware (belum mengetahui kendala teknis harian)
+Alasan memilih target:
+Saya sengaja memilih Naufal (Asisten Lab) sebagai target utama, bukan langsung mengadu ke Dosen Pengampu. Membawa isu yang belum tervalidasi datanya kepada dosen berisiko menciptakan persepsi bahwa praktikan hanya mengeluh tanpa dasar. Naufal adalah pihak yang memiliki relevansi operasional harian dan memegang otoritas langsung untuk membuka log server tanpa memicu birokrasi berlebih.
+Evidence awal yang dihimpun sebelum pitch
+Catatan observasi mandiri pada sesi Praktikum 2 dan 3: kelompok Randy mengalami lock wait lebih dari 120 detik saat mengeksekusi perintah UPDATE bersamaan.
+Tangkapan layar terminal error psql milik Randy yang menampilkan pesan: ERROR: deadlock detected.
+Keterbatasan bukti awal: data ini baru berasal dari satu kelompok praktikan, sehingga berpotensi disangkal sebagai kasuistis belaka.
+Attention pitch (22 Oktober 2026, 16.35)
+Draf Pitch Lisan (41 kata):
+"Naufal, di dua sesi praktikum Basdat kemarin kulihat transaksi antarkelompok sering deadlock karena praktikan login bersamaan di satu user database yang sama. Akibatnya data tugas praktikan tertimpa. Boleh kita cek log agregat pg_stat_activity 15 menit biar jelas polanya?"
+Pemeriksaan formula: Observasi konkret → Dampak riil → Pertanyaan periksa netral (tanpa langsung menuntut ganti kebijakan).
+Response dan state assessment target
+Naufal: "Hmm, kejadian deadlock gitu biasanya cuma karena anak-anak lupa ngetik COMMIT di akhir blok transaksi mereka kok, Gas. Dari dulu tiap praktikum juga ada satu dua orang yang begitu, hal biasa lah."
+Analisis state: Naufal berada pada state Attention with Reservation. Ia mendengarkan dan mengakui adanya kejadian tersebut, tetapi meremehkan signifikansinya (magnitude) dan mengatribusikan penyebabnya murni ke kesalahan praktikan.
+Adaptasi 1: Menurunkan beban permintaan
+Ucapan Adaptasi Agas (30 kata):
+"Paham Fal, bisa jadi memang kelalaian sintaks. Tapi biar kita nggak menebak-nebak, cukup periksa query agregat tanpa nama: berapa sesi yang saling tunggu lock dalam 90 menit kemarin? Lima menit saja."
+Strategi adaptasi: Tidak mendebat opini Naufal, melainkan menurunkan skala permintaan dari audit log menyeluruh menjadi satu kueri agregat sederhana yang tidak mengorbankan privasi praktikan maupun menyita waktu Naufal.
+Respons Naufal: "Oke kalau cuma mau narik agregat lock duration. Sebentar kubuka terminal admin."
+Adaptasi 2: Menerima pembaruan data dan menetapkan kesepakatan
+Naufal menjalankan kueri pemantauan lock:
+SELECT count(*), relation::regclass, mode
+FROM pg_locks WHERE NOT granted
+GROUP BY relation, mode;
+Naufal (setelah melihat hasil output): "Lho, kok ada 14 sesi yang status granted-nya FALSE di tabel yang sama pas praktikum sesi 2 kemarin? Ini bukan cuma kelompoknya Randy doang ternyata."
+Agas: "Terima kasih banyak Fal sudah bantu cek. Berarti dugaanku sebelumnya bahwa ini cuma masalah isolated ternyata keliru: polanya sistemik karena shared credentials. Batasan data ini: kita baru tahu frekuensinya, belum tahu dampaknya ke nilai akhir mahasiswa. Kalau kamu sepakat, aku bantu buatkan ringkasan 1 halaman berisi angka agregat ini agar kamu bisa evaluasi bareng tim asisten sebelum sesi minggu depan."
+Naufal: "Setuju banget Gas. Buatkan ya, nanti kita bahas di rapat internal asisten hari Jumat."
+Perubahan state akhir: Naufal bergerak dari skeptis/meremehkan menjadi Attention penuh disertai kesediaan bertindak (action-oriented interest).
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Berperan sebagai mitra peneliti (investigative collaborator), bukan pengeluh pasif atau auditor yang mencari kesalahan asisten lab. Menghargai keahlian dan peran Naufal.
+Objective & state
+Berhasil menarik perhatian target pada masalah nyata tanpa resistensi defensif. State Naufal bergerak dari dismissive (menganggap sepele) menuju curious, hingga collaborative.
+Repertoire & language
+Menggunakan formula pitch ringkas (Observasi - Dampak - Periksa), register teknis basis data yang presisi (pg_stat_activity, pg_locks, deadlock), serta bahasa pengajuan izin tanpa intimidasi.
+Response & adaptation
+Mampu mendeteksi penolakan halus Naufal dan meresponsnya secara adaptif dengan menurunkan ambang batas permintaan (concession), memvalidasi keraguan Naufal, serta mengakui batasan data sendiri.
+Agreement/action
+Aksi konkret langsung terjadi: Naufal mengeksekusi query server di depan Agas, data agregat 14 lock contention terverifikasi, dan Agas ditugaskan menyusun ringkasan 1 halaman untuk rapat asisten lab.
+Relationship outcome
+Hubungan kemitraan dengan Naufal semakin solid dan profesional; Naufal memandang Agas sebagai mahasiswa yang kritis berbasis data dan dapat diandalkan.
+Penggunaan AI
+AI digunakan saat persiapan untuk memverifikasi apakah draf pitch memenuhi batasan panjang maksimal 45 kata serta memisahkan fakta observasi dari opini subjektif. AI tidak digunakan untuk mereka-reka hasil kueri PostgreSQL.
+Feedback dan tindak lanjut
+Feedback yang diterima:
+Naufal (Asisten Lab): "Untung kamu ngajak ngecek query agregatnya tadi Gas, kalau nggak kita bakal terus-terusan nyalahin praktikan pas mereka komplain nilai praktikumnya kosong."
+Randy (Praktikan): "Mantap Gas, akhirnya asisten lab tahu kalau kendala kemarin bukan karena kelompok kita yang salah ngetik query."
+Adaptation/replay: Menjaga kebiasaan membawa bukti agregat daripada sekadar testimoni kualitatif personal.
+Next practice: Pada tahap kelanjutan (Minggu 7 - Interest), menyiapkan draf solusi mekanisme pencegahan deadlock yang tidak membebani tugas operasional asisten.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Pemilihan target Naufal didasarkan pada matriks otoritas dan relevansi yang matang
+Objective & State
+4
+State perubahan Naufal dari mengabaikan menjadi menyelidiki teramati secara empiris
+Repertoire, Language & AI
+4
+Pitch ringkas (41 kata) berakar pada fakta teknis tanpa asumsi berlebihan
+Response & Adaptation
+4
+Menurunkan tuntutan akses saat target ragu terbukti membuka pintu kolaborasi
+Agreement, Action & Relationship
+3
+Tindakan pemeriksaan log terlaksana dan kesepakatan ringkasan tercapai
+Total skor self-assessment19/20
+Agastya Tristan Dhaniswara · 18225093 · KIPP-2
+Sumber: week-06.qmd
+
+Tautan yang ditemukan pada halaman:
+- https://agastyatristan.github.io/kipp-students/portfolio/week-01.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-02.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-03.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-04.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-05.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-06.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-07.html
+- https://agastyatristan.github.io/kipp-students/portfolio/week-08.html
+- https://agastyatristan.github.io/kipp-students/portfolio/index.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

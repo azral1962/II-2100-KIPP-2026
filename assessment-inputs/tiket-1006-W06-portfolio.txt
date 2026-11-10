@@ -1,0 +1,212 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1006
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Target map
+Attention pitch
+Response dan state assessment
+Konteks performance
+Evidence
+Transkrip Percakapan Lengkap
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Target map
+Person
+Relevance
+Authority
+Current state
+Mitra A (Koordinator Divisi GCORP / Penanggung Jawab Teknis Wisuda)
+Mengelola penentuan lini produk jualan, alur pemesanan, dan target pendapatan wisuda
+Berwenang menetapkan daftar produk jualan dan batas waktu rilis ke publik
+Problem aware
+Mitra B (Kepala Departemen GCORP)
+Bertanggung jawab atas pencapaian target fundraising tahunan dan alokasi modal departemen
+Berwenang mengesahkan penggunaan anggaran modal awal serta kebijakan strategis departemen
+Unaware/Netral
+Mitra C (Vendor Eksternal Merchandise)
+Memproduksi barang fisik pesanan pembeli
+Berwenang menentukan kapasitas cetak, minimal order, dan tenggat produksi
+Belum dilibatkan
+Saya memilih Mitra A sebagai sasaran utama karena ia memegang relevansi operasional langsung terhadap linimasa peluncuran katalog dan memiliki wewenang langsung untuk mengunci daftar produk sebelum saya memproses desain visual dan konfigurasi teknis pada website pemesanan.
+Attention pitch
+“Dari data pemesanan wisuda periode lalu, 3 dari 5 pembeli batal checkout karena katalog dan website baru siap H-7. Apakah jadwal finalisasi produk minggu ini perlu kita kunci agar integrasi desain dan web selesai tepat waktu?”
+Pitch ini terdiri dari 36 kata, menggunakan formula [Observasi] + [Dampak] + [Periksa], dan membatasi klaim hanya pada catatan transaksi tanpa berasumsi mengenai efisiensi kerja tim.
+Response dan state assessment
+Mitra A memberikan tanggapan: > “Isu waktu rilis kemarin memang mepet, tapi kendala utamanya bukan di lambatnya katalog, melainkan vendor merchandise yang lama mengonfirmasi harga modal. Kalau vendor belum pasti, daftar produk belum bisa kita finalisasi.”
+Tanggapan tersebut menunjukkan bahwa Mitra A mengakui adanya masalah keterlambatan pembukaan sistem pesanan (problem acknowledged), namun menyatakan bahwa faktor penyebab utamanya adalah kepastian harga vendor (reservation on cause & scope). Status target berpindah dari Problem aware ke Attention dengan reservasi, belum masuk ke tahap Interest.
+Saya melakukan adaptasi komunikasi lingkar tertutup:
+“Ketergantungan pada vendor memang krusial untuk penentuan margin harga. Jika demikian, bagaimana jika hari ini kita tetapkan dulu produk utama yang vendornya sudah pasti, agar saya bisa mulai menyiapkan aset desain dan konfigurasi alur web pemesanannya?”
+Mitra A menyetujui pendekatan bertahap tersebut. Fokus pembicaraan bergeser dari menunggu seluruh vendor menjadi mengamankan persiapan teknis produk yang sudah pasti.
+Konteks performance
+Tanggal dan setting: 29 September 2026, diskusi tatap muka di ruang kerja sekretariat divisi.
+Persons dan relationship: Saya (Staf Desain & Web Developer GCORP) dan Mitra A (Koordinator Divisi GCORP). Hubungan kerja bersifat rekan kepengurusan internal organisasi.
+Objective dan initial state: - Objective: Memperoleh kesepakatan daftar produk yang siap dikerjakan aset visual dan sistem webnya tanpa terhambat ketidakpastian vendor lain. - Initial State: Mitra A berstatus Problem aware terhadap mepetnya jadwal persiapan wisuda, namun ragu mengambil keputusan finalisasi karena kendala dari pihak ketiga.
+Evidence
+Transkrip Percakapan Lengkap
+Saya: “Halo Mitra A, apakah ada waktu luang sekitar dua menit untuk koordinasi persiapan penjualan wisuda Oktober?”
+Mitra A: “Halo, iya silakan. Ada hal mendesak apa?”
+Saya: “Dari data pemesanan wisuda periode lalu, 3 dari 5 pembeli batal checkout karena katalog dan website baru siap H-7. Apakah jadwal finalisasi produk minggu ini perlu kita kunci agar integrasi desain dan web selesai tepat waktu?”
+Mitra A: “Isu waktu rilis kemarin memang mepet, tapi kendala utamanya bukan di lambatnya katalog, melainkan vendor merchandise yang lama mengonfirmasi harga modal. Kalau vendor belum pasti, daftar produk belum bisa kita finalisasi.”
+Saya: “Ketergantungan pada vendor memang krusial untuk penentuan margin harga. Jika demikian, bagaimana jika hari ini kita tetapkan dulu produk utama yang vendornya sudah pasti, agar saya bisa mulai menyiapkan aset desain dan konfigurasi alur web pemesanannya?”
+Mitra A: “Boleh, itu masuk akal. Kita kunci dulu paket buket bunga dan selempang bordir yang vendornya sudah pasti. Untuk paket cinderamata lainnya kita tunggu kepastian vendor sampai lusa.”
+Saya: “Baik, berarti hari ini saya mulai pengerjaan desain aset visual dan konfigurasi form pemesanan web untuk dua produk itu, lalu kita periksa hasilnya lusa, tanggal 1 Oktober sore ya.”
+Mitra A: “Sepakat, silakan mulai dikerjakan.”
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Memilih Mitra A berdasarkan perannya sebagai koordinator yang memegang wewenang penentuan lini produk dan linimasa penjualan, tanpa melompat ke kepala departemen.
+Objective & state
+Mengarahkan status mitra dari Problem aware dengan hambatan eksternal menjadi Attention dengan reservasi yang menghasilkan kompromi kerja konkret.
+Repertoire & language
+Menerapkan formula Observasi-Dampak-Periksa di bawah batas 45 kata (36 kata) serta kalimat periksa yang memberikan ruang kendali kepada mitra.
+Response & adaptation
+Mendengarkan kendala harga vendor secara aktif tanpa membantah, lalu mengadaptasi tawaran menjadi penguncian bertahap untuk item yang sudah terkonfirmasi.
+Agreement/action
+Mencapai kesepakatan operasional: pengerjaan desain visual dan konfigurasi web untuk dua produk pasti dimulai hari ini (29 September), dengan evaluasi lanjutan lusa sore (1 Oktober).
+Relationship outcome
+Membangun kolaborasi kerja yang solutif antaranggota divisi tanpa menimbulkan tekanan kerja berlebih.
+Penggunaan AI
+Alat dan peran AI: Gemini digunakan untuk membantu penyusunan.
+Prompt penting: > “Bantu evaluasi draf pitch pembuka untuk koordinator divisi fundraising wisuda.”
+Bagian output yang diubah/ditolak: AI sempat menyarankan kalimat yang mendesak Mitra A untuk langsung menetapkan semua target keuntungan finansial. Usulan tersebut ditolak karena tidak relevan dengan kebutuhan tahap pembuka yang sekadar meminta perhatian pada kepastian jadwal kerja teknis.
+Pemeriksaan accuracy, privacy, dan authority: Transkrip percakapan mencerminkan interaksi nyata, data transaksi disajikan tanpa rekayasa angka berlebihan, dan identitas rekan kerja disamarkan sebagai Mitra A.
+Apa yang tetap dipelajari sebagai manusia: Menyadari bahwa kendala rekan kerja sering kali bersumber dari faktor eksternal (seperti respons vendor), sehingga komunikasi yang efektif menuntut fleksibilitas rencana daripada pemaksaan kehendak sepihak.
+Feedback dan tindak lanjut
+Feedback yang diterima: > “Pendekatan mencicil produk yang sudah fix vendornya sangat membantu, jadi kita tidak kehilangan waktu tunggu sementara teknis web dan desain tetap bisa jalan duluan.”
+Adaptation/replay: Menyesuaikan struktur basis data website pemesanan agar bersifat modular, sehingga produk tambahan dari vendor yang menyusul dapat langsung diaktifkan tanpa mengubah arsitektur form utama.
+Next practice: Menyiapkan purwarupa visual katalog dan tampilan halaman pemesanan web tepat pada 1 Oktober sore untuk melanjutkan pembicaraan ke tahap Interest dan Desire.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Menentukan target (Mitra A) secara tepat berdasarkan peran teknis, relevansi masalah, dan wewenang operasional.
+Objective & State
+4
+Menilai pergeseran status mitra secara akurat dan mengarahkan tujuan dari sekadar komplain linimasa menjadi aksi teknis bertahap.
+Repertoire, Language & AI
+4
+Menggunakan naskah pembuka ringkas (36 kata) berstruktur teruji dan memanfaatkan AI hanya sebagai alat telaah struktur bahasa.
+Response & Adaptation
+4
+Merespons sanggahan mitra terkait keterlambatan vendor dengan mengajukan alternatif solusi penguncian parsial secara fleksibel.
+Agreement, Action & Relationship
+3
+Menghasilkan kesepakatan pengerjaan dua kategori produk spesifik serta jadwal pertemuan evaluasi berikutnya pada 1 Oktober.
+Total: 19 / 20 - Lanjut
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Rijal Kholis Al-Ausath
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ouksigen.github.io/kipp-students/index.html
+- https://ouksigen.github.io/kipp-students/assets/logo.png
+- https://ouksigen.github.io/kipp-students/course/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/index.html
+- https://ouksigen.github.io/kipp-students/examples/index.html
+- https://ouksigen.github.io/kipp-students/lk/index.html
+- https://ouksigen.github.io/kipp-students/slides.html
+- https://ouksigen.github.io/kipp-students/slides-pdf/index.html
+- https://ouksigen.github.io/kipp-students/assessment/index.html
+- https://ouksigen.github.io/kipp-students/about.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-01.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-02.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-03.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-04.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-05.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-07.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-08.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-09.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-10.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-11.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-12.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-13.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-14.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-15.html
+- https://ouksigen.github.io/kipp-students/portfolio/UAS/index.html
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#konteks-performance
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#evidence
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#transkrip-percakapan-lengkap
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#feedback-dan-tindak-lanjut
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://ouksigen.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+- https://ouksigen.github.io/kipp-students/examples/week-06.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

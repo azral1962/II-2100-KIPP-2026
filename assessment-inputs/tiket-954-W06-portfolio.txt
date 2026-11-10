@@ -1,0 +1,175 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 954
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Target map
+Attention pitch
+Response dan state assessment
+Evidence dan refleksi
+Self-assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+Target map
+Person
+Relevance
+Authority
+Current state
+Mahasiswa pengguna refill
+Pengguna rutin yang merasakan langsung kekosongan air
+Dapat memvalidasi masalah dan menguji pencatatan sederhana
+Problem aware
+Petugas pengisi atau teknisi gedung
+Menjalankan pengisian dan menerima keluhan pengguna
+Dapat menjalankan pengisian dan pencatatan
+Problem aware, belum melihat pola jam
+Kepala unit sarana prasarana
+Bertanggung jawab atas fasilitas air minum
+Dapat menyetujui perubahan jadwal atau pencatatan
+Unaware/Netral
+Pengelola gedung kuliah
+Menjaga kebersihan dan operasional gedung
+Diperlukan bila pencatatan menjadi permanen
+Belum dilibatkan
+Saya memilih mahasiswa pengguna refill sebagai target awal karena ia memiliki direct experience dan dapat memvalidasi apakah kekosongan air itu juga dirasakan orang lain. Saya tidak langsung menemui kepala unit sarana prasarana karena data saya baru sembilan pengecekan dan belum cukup untuk meminta keputusan. Saya juga sama-sama pengguna refill, sehingga relasi dengan target awal sudah ada dan percakapan bisa dimulai dari pengalaman bersama.
+Attention pitch
+Data pengecekan saya pada satu titik refill di gedung kuliah, 3 hari dengan 3 jam pengamatan per hari.
+Jam
+Hari 1
+Hari 2
+Hari 3
+10.00
+Ada air
+Kosong
+12.00
+Kosong
+14.00
+Ada air
+Kosong
+Ada air
+“Dalam 9 kali pengecekan selama 3 hari di gedung kuliah, air refill kosong 5 kali, 3 di antaranya pukul 12.00. Saya belum menyimpulkan bahwa pasokan air kurang. Bolehkah kita memeriksa apakah masalah utamanya jadwal pengisian atau unit yang bermasalah?”
+Evidence yang dipakai adalah catatan 9 pengecekan di atas dan cerita dua rekan yang pernah kehabisan air. Saya menyebut ukuran sampel dan bahwa pengamatan hanya pada satu titik agar tidak menggeneralisasi ke seluruh kampus. Pitch ini sengaja memisahkan evidence berupa 5 dari 9 pengecekan dari inference tentang penyebabnya, yang saya tawarkan untuk diperiksa bersama.
+Response dan state assessment
+Dalam simulasi pitch pengguna selama 90 detik, rekan menjawab, “Iya sih, aku juga sering kehabisan air siang-siang, kemarin juga di lantai satu, tapi biasanya pindah ke gedung sebelah masih ada, jadi menurutku belum parah.” Response ini menunjukkan target mengakui issue, tetapi meragukan magnitude karena ada alternatif. State berpindah dari problem aware menjadi attention dengan reservation, belum Interest.
+Saya mengadaptasi:
+“Betul, mungkin tergantung lokasi. Bisakah kamu menyebut dua titik refill lain yang sering kamu pakai, supaya saya bisa membandingkan catatannya sebelum menyimpulkan kekosongannya merata?”
+Rekan bersedia menyebut dua titik pembanding dan menyepakati bahwa saya akan mengecek ketiganya pada jam yang sama. Objective percakapan berubah dari meyakinkan bahwa masalahnya besar menjadi menyepakati pengumpulan data pembanding yang lebih baik.
+Evidence dan refleksi
+Target map versi sebelum dan sesudah percakapan, termasuk perubahan state target dari problem aware menjadi attention dengan reservation.
+Rekaman role-play 90 detik dan observer note pada response target, termasuk umpan balik rekan dengan format kalimat berbasis bukti.
+Agreement berupa kesediaan rekan menyebut dua titik pembanding, dan saya hanya mengecek titik refill yang terbuka untuk umum tanpa meminta data pribadi siapa pun.
+AI digunakan untuk membantu menyusun dan memeriksa draf pitch serta jumlah katanya. Angka pengamatan dan response rekan berasal dari pengecekan dan simulasi saya sendiri.
+Refleksi. Angka konkret (“5 dari 9 pengecekan”) lebih cepat membangun attention daripada pembuka umum, tetapi tanpa pembanding angka itu mudah dianggap tidak representatif.
+Next practice. Menyampaikan relevance dalam 30 detik tanpa menghilangkan keterbatasan data, dan membuka pitch pelaksana dengan pertanyaan tentang kendala lapangan sebelum menyebut pola.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Target dipilih berdasarkan relevance, authority, dan riwayat relasi, dengan alasan tidak langsung menemui pengambil keputusan
+Objective & State
+3
+State target dinilai sebelum dan sesudah pitch dan diperbarui
+Repertoire, Language & AI
+3
+Pitch 39 kata, evidence dan inference dipisahkan, keterbatasan sampel dinyatakan
+Response & Adaptation
+4
+Keraguan target mengubah objective dari meyakinkan menjadi validasi data pembanding
+Agreement, Action & Relationship
+3
+Disepakati pengecekan pembanding pada dua titik, tanpa memaksa dan tanpa data pribadi
+Total: 17/20.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#evidence-dan-refleksi
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

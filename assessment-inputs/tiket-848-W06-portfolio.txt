@@ -1,0 +1,132 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 848
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://yoofromlv.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+1. Problem / Opportunity Statement
+2. Target Map & Alasan Pemilihan
+3. Attention Pitch & Evidence
+4. Response, State Sesudah Pitch, & Adaptation
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+1. Problem / Opportunity Statement
+Dalam kegiatan Praktikum Fisika Dasar TPB ITB (Modul Pengukuran dan Ketidakpastian), kelompok sering menghadapi hambatan operasional berupa data tercecer, kesalahan transkripsi satuan seperti konversi milimeter ke sentimeter, serta waktu tunggu atau idle antar anggota karena pembagian tugas pencatatan yang tidak merata. Perhatian praktikan terpecah antara fokus membaca presisi alat ukur dan ketergesaan waktu.
+2. Target Map & Alasan Pemilihan
+Pemetaan target person atau character dalam kelompok praktikum diuraikan sebagai berikut:
+Person/Character
+Problem / Opportunity
+Pengaruh
+Authority
+Current State
+Praktikan A (Edward)
+Membaca alat ukur presisi tinggi mikrometer sekrup dengan beban tugas ganda
+Tinggi
+Sedang
+Terburu-buru dan terpecah perhatiannya
+Praktikan B (Rijal)
+Mengukur dimensi makro penggaris atau massa dengan risiko data tercecer
+Sedang
+Belum optimal dalam alur pencatatan
+Pencatat & Pengolah Data
+Menerima data mentah yang sering salah satuan dan tidak sinkron
+Tinggi
+Sadar masalah dan kewalahan
+Asisten Praktikum (Asprak)
+Menilai kebenaran alur data dan ketepatan waktu kelompok
+Tinggi
+Mengawasi proses praktikum
+Target yang Dipilih: Edward sebagai praktikan pemegang mikrometer sekrup.
+Alasan Pemilihan: Edward memegang peran krusial pada pengukuran presisi tinggi yang sering menjadi sumber utama hambatan alur kerja dan kesalahan transkripsi data di dalam kelompok.
+3. Attention Pitch & Evidence
+Jenis Pitch: Problem-oriented pitch.
+Pitch (30 detik): > “Kita ngeliat kemarin pas praktikum, kalau pencatatan data numpuk ke satu orang dan pembagian alat ukur gak jelas, data gampang banget tercecer atau salah satuan, terus anggota lain jadi nunggu. Apakah lu juga ngerasa alur kerja kayak gini bikin kita buang banyak waktu?”
+Evidence (Percakapan langsung di laboratorium tanpa perangkat seluler):
+Tio: “gmana kalau kita 1 orang 1 alat aja yg ngitung biar semanya kebagian ngitung dan ga dibebanin untuk 1 orng doang yg nyatet nyatet”
+Edward: “boleh tuh gw yg mmskrup ya”
+Rijal: “gw penggaris”
+Tio: “iyauda gw sisanya”
+4. Response, State Sesudah Pitch, & Adaptation
+Response Teramati: Edward langsung mengenali masalah efisiensi tersebut dan merespons secara aktif dengan mengambil alih tugas mikrometer sekrup tanpa menunjukkan sikap defensif.
+State Sesudah Pitch: Dari kondisi awal yang terburu-buru dan terpecah perhatiannya, state berubah menjadi lebih sadar, kolaboratif, serta memiliki kejelasan peran operasional yang pasti.
+Adaptation: Melakukan penyesuaian alur kerja secara langsung di tempat dengan membagi kepemilikan alat ukur secara merata yaitu satu orang satu alat guna menghilangkan beban ganda dan mencegah kesalahan transkripsi data.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Tio Christian Doly Silitonga
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://yoofromlv.github.io/kipp-students/index.html
+- https://yoofromlv.github.io/kipp-students/assets/logo.png
+- https://yoofromlv.github.io/kipp-students/course/index.html
+- https://yoofromlv.github.io/kipp-students/portfolio/index.html
+- https://yoofromlv.github.io/kipp-students/examples/index.html
+- https://yoofromlv.github.io/kipp-students/lk/index.html
+- https://yoofromlv.github.io/kipp-students/slides.html
+- https://yoofromlv.github.io/kipp-students/slides-pdf/index.html
+- https://yoofromlv.github.io/kipp-students/assessment/index.html
+- https://yoofromlv.github.io/kipp-students/about.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-01.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-02.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-03.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-04.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-05.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-07.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-08.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-09.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-10.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-11.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-12.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-13.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-14.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-15.html
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html#problem-opportunity-statement
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html#target-map-alasan-pemilihan
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html#attention-pitch-evidence
+- https://yoofromlv.github.io/kipp-students/portfolio/week-06.html#response-state-sesudah-pitch-adaptation
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

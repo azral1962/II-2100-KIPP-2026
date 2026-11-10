@@ -1,0 +1,169 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 915
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Target map
+Attention pitch
+Response dan state assessment
+Evidence dan refleksi
+Self-assessment
+Assessment dosen
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Evidence wajib
+Target map dan alasan memilih satu target.
+Problem/opportunity pitch serta evidence.
+Response, state sesudah pitch, dan adaptation.
+Target map
+Konteks isu: Keterlambatan verifikasi data pemilih dan penumpukan pertanyaan berulang di meja registrasi/helpdesk saat pelaksanaan pemungutan suara dan kegiatan organisasi mahasiswa.
+Person
+Relevance
+Authority
+Current state
+Ketua Umum Organisasi
+Bertanggung jawab atas kelancaran acara umum
+Dapat menyetujui perubahan kebijakan besar
+Unaware / Netral
+Koordinator Helpdesk & Registrasi
+Menangani langsung antrean verifikasi dan komplain anggota
+Dapat mengubah alur kerja operasional meja layanan
+Problem aware
+Anggota / Pemilih
+Mengalami langsung waktu tunggu verifikasi
+Dapat memberikan umpan balik pengalaman pengguna
+Problem aware
+Tim Pengembang Back-End
+Mengelola basis data dan server aplikasi
+Diperlukan bila ada modifikasi skema database
+Belum dilibatkan
+Saya memilih Koordinator Helpdesk & Registrasi sebagai target awal karena ia merasakan langsung beban antrean verifikasi (direct operational pain) dan memiliki kewenangan penuh untuk memvalidasi apakah masalah utamanya terletak pada alur pencarian data atau keterbatasan petugas, sebelum mengajukan perubahan sistem kepada Ketua Umum.
+Attention pitch
+“Berdasarkan catatan waktu tunggu pada simulasi registrasi gelombang pertama kemarin, 4 dari 12 anggota membutuhkan waktu lebih dari 4 menit di meja verifikasi karena petugas harus mencocokkan NIM dan status keaktifan di tiga tab spreadsheet yang terpisah. Selain itu, log pesan helpdesk mencatat 9 pertanyaan berulang mengenai kendala token tidak muncul dalam waktu satu jam. Saya belum menyimpulkan bahwa sistem intinya bermasalah. Bolehkah kita memeriksa bersama apakah hambatan utamanya ada pada tampilan pencarian data petugas dan ketiadaan panduan status otomatis?”
+Evidence yang dipakai: Pengamatan durasi verifikasi pada 12 sampel partisipan gelombang pertama dan rekapitulasi 9 pesan masuk di log helpdesk. Ukuran sampel disebutkan secara eksplisit di awal agar tidak menggeneralisasi keseluruhan acara.
+Response dan state assessment
+Koordinator menjawab: “Memang betul kemarin sempat antre agak panjang di meja verifikasi, tapi 4 orang yang lama itu kebetulan mahasiswa angkatan baru yang datanya belum sinkron dari pusat, bukan semata-mata karena petugas lambat membuka tiga tab.”
+Respons ini menunjukkan target mengakui adanya isu keterlambatan, namun mengoreksi penyebab dan meragukan generalisasi data (karena sampel gelombang pertama didominasi kasus khusus angkatan baru). State target berpindah dari Problem aware menjadi Attention dengan reservation (keberatan bersyarat), dan belum masuk ke tahap Interest terhadap solusi teknis baru.
+Saya melakukan adaptasi (adaptation) tanpa memaksakan asumsi awal:
+“Poin yang sangat tepat, kasus angkatan baru kemarin memang belum tentu mewakili antrean reguler. Supaya kita tidak salah mengambil langkah, bolehkah saya ikut mengamati pencatatan waktu verifikasi untuk 20 peserta reguler pada sesi siang ini dan memisahkan mana kendala data belum sinkron vs kendala pencarian tab?”
+Koordinator menyetujui observasi bersama pada sesi siang dengan syarat tidak mengganggu jalannya antrean dan tidak menyalin data kontak pribadi peserta. Objective percakapan diadaptasi dari semula menawarkan perombakan tampilan dashboard menjadi menyepakati pemisahan kategori bukti (data disaggregation) pada sesi reguler.
+Evidence dan refleksi
+Target map: Versi awal (menargetkan Ketua Umum) dikoreksi menjadi menargetkan Koordinator Helpdesk & Registrasi untuk validasi operasional langsung.
+Catatan Observasi & Log: Log 12 sampel sesi awal dibandingkan dengan kesepakatan observasi 20 sampel sesi reguler.
+Agreement: Koordinator mengizinkan pencatatan waktu agregat (tanpa menyimpan nama/nomor telepon pribadi) pada sesi siang pukul 13.00–14.00 WIB dan meninjau hasilnya bersama pukul 15.00 WIB.
+Pemanfaatan AI: AI digunakan untuk menguji draf kalimat attention pitch agar tidak terdengar menyalahkan kinerja petugas meja layanan serta memisahkan fakta observasi dari opini. AI tidak digunakan untuk mengarang angka sampel.
+Next practice: Menyiapkan klasifikasi penyebab masalah (root-cause tagging) sejak awal observasi agar saat menyampaikan pitch, variabel pengganggu (seperti kasus angkatan baru) sudah terpisah dengan jelas.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Memilih Koordinator Helpdesk yang mengalami masalah langsung dan berwenang di lapangan
+Objective & State
+3
+Mengenali perpindahan state ke Attention with reservation tanpa memaksakan solusi
+Repertoire, Language & AI
+3
+Pitch menyebutkan ukuran sampel secara jujur dan tidak menyalahkan petugas
+Response & Adaptation
+4
+Mengubah objective menjadi observasi terpisah saat target mengkritisi bias sampel
+Agreement, Action & Relationship
+4
+Menyepakati observasi 20 sampel reguler pukul 13.00 dengan batas privasi data yang jelas
+Total: 17/20 — Kompeten.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/lk/index.html
+- https://fkkhrri.github.io/kipp-students/slides.html
+- https://fkkhrri.github.io/kipp-students/slides-pdf/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#evidence-dan-refleksi
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

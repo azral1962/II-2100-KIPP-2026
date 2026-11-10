@@ -1,0 +1,187 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 863
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Target map
+Attention pitch
+State dan adaptation
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Kompetensi target
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+PeringatanCatatan validasi evidence
+Target–Attention performance dilakukan menurut konfirmasi Ariya. Dialog direkonstruksi dengan bantuan AI, bukan transkrip verbatim atau survei; klaim frekuensi dan dampak sengaja dibatasi karena tidak ada data agregat.
+Target map
+Tanggal dan setting: 6 Oktober 2026, latihan pitch tentang kendala konfigurasi praktikum Jaringan Komputer. Ini skenario latihan terpisah dari discovery Pemodelan Basdat pekan sebelumnya, bukan hasil survei kelas.
+Person/character
+Problem atau opportunity
+Pengaruh
+Authority
+Current state dalam skenario
+Mahasiswa yang mengulang konfigurasi
+Ragu memilih alamat/gateway dan langkah diagnosis
+Sedang
+Rendah
+Menyadari kebingungan pribadi
+Owen — rekan praktikum
+Membutuhkan rujukan sesuai topologi
+Sedang
+Rendah
+Mengakui masalah dalam role-play
+Randy — koordinator kelompok
+Perlu menjaga anggota mengikuti langkah uji yang sama
+Tinggi
+Sedang
+Belum diminta menilai solusi
+Asisten/dosen praktikum
+Menjaga akurasi materi dan prosedur
+Tinggi
+Belum dilibatkan; tidak diasumsikan setuju
+Target yang dipilih: Owen sebagai rekan yang mengalami friction langsung dan dapat menjelaskan kebutuhan, bukan sebagai pemberi izin atas perubahan materi praktikum. Ia paling tepat untuk menguji relevance awal, tetapi bukan satu-satunya stakeholder.
+Attention pitch
+Evidence proporsional: Dalam skenario latihan, Owen mengatakan bahwa catatan lama bisa berbeda topologi dan ia ragu menentukan urutan ketika ping gagal. Tidak ada hitungan kejadian, pengukuran waktu, atau klaim bahwa semua mahasiswa mengalaminya.
+Ariya: “Di latihan konfigurasi, kamu tadi menyebut catatan lama kadang tidak cocok dengan topologi yang sedang dipakai, dan saat ping gagal kamu ragu mulai dari mana. Apakah masalah memastikan IP/gateway dan urutan cek ini memang cukup mengganggu buat kamu?”
+Owen: “Iya, terutama kalau topologinya berubah. Tapi aku belum tahu apakah itu masalah catatan atau aku yang belum hafal konsepnya.”
+Ariya: “Masuk akal. Aku belum menyimpulkan penyebabnya. Bagian mana yang paling ingin kamu pastikan dulu?”
+Response tersebut menandakan pengakuan relevance sekaligus membuka ketidakpastian penyebab. Itu belum merupakan persetujuan pada solusi.
+State dan adaptation
+Tahap
+State
+Sebelum
+Target menyadari kesulitan, tetapi penyebab dan bentuk bantuan yang dibutuhkan belum jelas.
+Sesudah
+Target mengakui bahwa mismatch topologi relevan, tetapi belum yakin apakah perlu rujukan atau penguatan konsep.
+Adaptation
+Tidak menawarkan aplikasi. Tanyakan contoh langkah yang membingungkan, lalu bedakan kesalahan konsep dari masalah dokumentasi.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & Character
+Target dipilih dari pengalaman langsung dan batas authority-nya dijelaskan.
+Objective & State
+Objective hanya memperoleh pengakuan relevance, bukan menjual solusi atau mengklaim konsensus kelas.
+Repertoire & Language
+Observasi spesifik dan pertanyaan terbuka menjaga pitch singkat serta tidak menyalahkan.
+Response & Adaptation
+Keraguan target tentang penyebab dibaca sebagai kebutuhan discovery tambahan, bukan penolakan atau persetujuan penuh.
+Agreement & Action
+Belum ada agreement implementasi; langkah berikutnya adalah menguji satu contoh kasus.
+Relationship Outcome
+Nada memberi ruang bagi target untuk berbeda pendapat dan menjaga percakapan tetap terbuka.
+Penggunaan AI
+AI membantu menyusun variasi target map dan menguji apakah pitch membuat klaim tanpa data. Skenario respons dibuat untuk latihan dan tidak mewakili Owen yang sebenarnya. Tidak ada data kelas atau profiling sensitif yang dimasukkan.
+Feedback dan tindak lanjut
+Feedback simulasi: Pertanyaan “apakah ini cukup mengganggu?” memperoleh pengakuan bersyarat sekaligus keraguan yang berguna.
+Adaptation/replay: Minta satu contoh terakhir dan tanyakan apa yang dilakukan sebelum, saat, dan setelah ping gagal.
+Next practice: Gunakan satu evidence yang dapat diamati, nyatakan batas pengetahuan, lalu tunggu response sebelum memperkenalkan solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Target langsung, stakeholder yang memengaruhi, dan pihak berauthority dipisahkan; keterbatasan target pilihan dinyatakan.
+Objective & State
+4
+State awal, pengakuan relevance, dan ketidakpastian penyebab dibedakan; objective tidak melompat ke solution.
+Repertoire, Language & AI
+4
+Pitch memakai observasi terbatas, pertanyaan terbuka, dan batas klaim yang proporsional.
+Response & Adaptation
+4
+Keraguan dianggap signal lemah untuk discovery tambahan, bukan ditafsirkan sebagai penolakan atau persetujuan.
+Agreement, Action & Relationship
+3
+Next action ada, tetapi belum ada agreement implementasi.
+Total: 19/20. Nilai 4 mencerminkan pembacaan state dan ketidakpastian secara adaptif; agreement/action tetap 3 karena pitch baru memperoleh relevance, belum menghasilkan komitmen atau outcome relasi lanjutan.
+Kembali ke atas
+Professional Discovery Interview
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Ariya Nanda Harimawan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://sg22ariya.github.io/kipp-students/index.html
+- https://sg22ariya.github.io/kipp-students/assets/logo.png
+- https://sg22ariya.github.io/kipp-students/course/index.html
+- https://sg22ariya.github.io/kipp-students/portfolio/index.html
+- https://sg22ariya.github.io/kipp-students/examples/index.html
+- https://sg22ariya.github.io/kipp-students/lk/index.html
+- https://sg22ariya.github.io/kipp-students/slides.html
+- https://sg22ariya.github.io/kipp-students/slides-pdf/index.html
+- https://sg22ariya.github.io/kipp-students/assessment/index.html
+- https://sg22ariya.github.io/kipp-students/about.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-01.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-02.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-03.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-04.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-05.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-07.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-08.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-09.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-10.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-11.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-12.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-13.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-14.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-15.html
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#state-dan-adaptation
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#analisis-komunikasi
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#feedback-dan-tindak-lanjut
+- https://sg22ariya.github.io/kipp-students/portfolio/week-06.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

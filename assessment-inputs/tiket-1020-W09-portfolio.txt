@@ -1,0 +1,354 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1020
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 9 — Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 9 — Desire-State Communication
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Tugas Minggu 6 — Target–Attention Challenge
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Tugas Minggu 9 — Desire-State Communication
+Tugas Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+1. Kompetensi Target
+2. Evidence Wajib
+3. Status Pengerjaan
+4. Current State dan Desired State
+4.1 Pembaruan dari W07
+4.2 Current State
+4.3 Desired State
+5. Potongan Transcript (Desire-State Discovery)
+5.1 Menggali Kondisi Ideal
+5.2 Memperjelas Prioritas
+5.3 Konfirmasi Desired State
+6. Feature–Benefit–Value–Outcome Chain
+6.1 Prioritas Fitur
+7. Risiko, Evidence Threshold, dan Adaptation
+7.1 Identifikasi Risiko
+7.2 Evidence Threshold
+7.3 Adaptasi Berdasarkan Masukan
+8. Analisis Repertoire dan Penggunaan AI
+8.1 Repertoire Komunikasi
+8.2 Penggunaan AI
+9. Evidence, Feedback, dan Next Step
+9.1 Evidence
+9.2 Feedback dan Insight
+9.3 Next Step
+10. Self-Assessment (Rubrik Evaluasi Mandiri)
+Refleksi Akhir
+Tugas Minggu 9 — Desire-State Communication
+Professional
+Desire
+Menggali desired state, manfaat solusi, dan risiko implementasi.
+1. Kompetensi Target
+Pada minggu ini, saya berlatih memahami kondisi ideal yang ingin dicapai oleh target komunikasi (desired state), bukan hanya berfokus pada fitur solusi yang sudah saya buat.
+Saya ingin memastikan bahwa solusi yang dikembangkan benar-benar membantu target mencapai kondisi yang diharapkan.
+Kompetensi yang ingin saya kembangkan: - Mengidentifikasi perbedaan current state dan desired state. - Menggali kebutuhan target melalui pertanyaan lanjutan. - Menghubungkan fitur, manfaat, nilai, dan hasil yang diharapkan. - Mengidentifikasi risiko dan batasan solusi. - Menyesuaikan ekspektasi berdasarkan masukan target. - Menentukan bukti yang diperlukan sebelum solusi diuji coba.
+2. Evidence Wajib
+Evidence yang menjadi fokus: 1. Current state dan desired state berdasarkan perspektif target. 2. Percakapan untuk menggali kondisi ideal. 3. Hubungan feature–benefit–value–outcome. 4. Risiko dan batasan solusi. 5. Konfirmasi target terhadap desired state. 6. Penyesuaian solusi berdasarkan kebutuhan target.
+3. Status Pengerjaan
+CatatanIdentitas
+Nama: Keisha Nazla Ananta Putri
+NIM: 18225059
+Tugas: W09 — Desire-State Communication
+Status: Siap Dinilai
+4. Current State dan Desired State
+4.1 Pembaruan dari W07
+Pada minggu sebelumnya, saya telah memperkenalkan konsep dashboard informasi ketersediaan ruangan kepada petugas administrasi.
+Target memberikan tanggapan bahwa dashboard berpotensi membantu mahasiswa, tetapi terdapat beberapa hal yang harus diperhatikan: - Data tidak boleh berbeda dengan informasi administrasi. - Petugas tidak seharusnya melakukan input berulang. - Waktu pembaruan informasi harus terlihat. - Akses untuk mengubah data harus dibatasi.
+Berdasarkan masukan tersebut, saya menyadari bahwa keberhasilan solusi tidak cukup diukur dari apakah dashboard dapat menampilkan informasi. Saya juga perlu memahami kondisi operasional yang diinginkan target.
+4.2 Current State
+Berdasarkan pembahasan sebelumnya, saya mengidentifikasi kondisi saat ini sebagai berikut:
+Aspek
+Current State
+Akses informasi
+Mahasiswa belum tentu mengetahui tempat memperoleh informasi terbaru
+Konfirmasi
+Mahasiswa masih perlu menghubungi petugas untuk memastikan status
+Pembaruan data
+Perubahan jadwal harus diperhatikan agar informasi tidak tertinggal
+Beban administrasi
+Petugas perlu menjawab pertanyaan dan melakukan pengecekan
+Kepercayaan pengguna
+Mahasiswa membutuhkan kepastian bahwa informasi masih relevan
+4.3 Desired State
+Saya kemudian menggali kondisi ideal yang ingin dicapai oleh target.
+Aspek
+Desired State
+Akses informasi
+Mahasiswa dapat melihat status ruangan dengan mudah
+Konfirmasi
+Pertanyaan sederhana dapat dikurangi
+Pembaruan data
+Informasi memiliki waktu pembaruan yang jelas
+Beban administrasi
+Petugas tidak perlu memasukkan data berulang
+Kepercayaan pengguna
+Mahasiswa mengetahui bahwa informasi berasal dari sumber yang dapat dipertanggungjawabkan
+Saya menyimpulkan bahwa desired state bukan sekadar tersedianya dashboard, tetapi terciptanya proses pencarian informasi yang lebih mudah tanpa mengurangi keakuratan data dan menambah beban petugas.
+5. Potongan Transcript (Desire-State Discovery)
+5.1 Menggali Kondisi Ideal
+Saya:
+“Setelah saya menunjukkan konsep dashboard sebelumnya, saya ingin memahami lebih jauh kondisi seperti apa yang sebenarnya paling membantu pekerjaan Bapak/Ibu. Menurut Bapak/Ibu, kalau proses pencarian informasi ruangan berjalan dengan baik, seperti apa kondisinya?”
+Petugas Administrasi:
+“Yang paling penting mahasiswa bisa mendapatkan informasi yang benar tanpa harus bertanya berkali-kali. Tetapi kami juga harus memastikan informasi yang ditampilkan sesuai dengan jadwal yang kami miliki.”
+Saya:
+“Berarti kondisi idealnya bukan hanya mahasiswa bisa melihat status ruangan, tetapi informasi tersebut juga harus bisa dipercaya?”
+Petugas Administrasi:
+“Iya. Kalau mahasiswa melihat ruangan kosong tetapi ternyata sudah dipesan, justru akan menimbulkan masalah baru.”
+Saya:
+“Kalau dari sisi pekerjaan petugas, apa yang paling ingin dikurangi?”
+Petugas Administrasi:
+“Pertanyaan yang sama berulang kali bisa dikurangi. Tetapi kami tidak ingin ada sistem tambahan yang membuat pekerjaan menjadi lebih panjang.”
+5.2 Memperjelas Prioritas
+Saya:
+“Jika harus memilih, mana yang lebih penting: tampilan dashboard yang memiliki banyak fitur atau tampilan sederhana yang informasinya benar dan mudah diperbarui?”
+Petugas Administrasi:
+“Lebih baik sederhana tetapi informasinya benar. Fitur banyak tidak terlalu berguna kalau datanya tidak sesuai.”
+Saya:
+“Baik. Jadi saya akan memprioritaskan ketepatan informasi dan kemudahan akses terlebih dahulu, bukan menambahkan banyak fitur.”
+Petugas Administrasi:
+“Betul. Kalau memang bisa mengambil data dari jadwal yang sudah tersedia, itu akan lebih baik.”
+5.3 Konfirmasi Desired State
+Saya:
+“Berarti kondisi yang ingin dicapai adalah mahasiswa bisa melihat informasi ruangan secara mandiri, sementara petugas tetap menggunakan sumber data yang sudah ada dan tidak perlu melakukan input berulang. Apakah pemahaman saya sudah sesuai?”
+Petugas Administrasi:
+“Iya, itu sudah cukup menggambarkan kebutuhan kami.”
+Saya:
+“Baik. Saya akan menjadikan kemudahan akses, keakuratan informasi, dan tidak adanya pekerjaan administrasi tambahan sebagai prioritas utama.”
+6. Feature–Benefit–Value–Outcome Chain
+Saya menggunakan hubungan feature–benefit–value–outcome untuk memastikan setiap fitur memiliki alasan yang jelas.
+Feature
+Benefit
+Value
+Outcome
+Dashboard status ruangan
+Mahasiswa dapat melihat status tanpa bertanya terlebih dahulu
+Kemudahan akses informasi
+Proses pencarian ruangan lebih efisien
+Informasi jadwal
+Mahasiswa mengetahui waktu penggunaan
+Kejelasan penggunaan fasilitas
+Mengurangi kesalahpahaman jadwal
+Timestamp pembaruan
+Pengguna mengetahui waktu terakhir informasi diperiksa
+Transparansi
+Pengguna dapat menilai kebaruan informasi
+Pembatasan akses edit
+Hanya petugas berwenang yang dapat memperbarui data
+Keamanan dan akuntabilitas
+Risiko perubahan data tidak sah berkurang
+Pemanfaatan data yang tersedia
+Mengurangi input berulang
+Efisiensi pekerjaan
+Beban administrasi tambahan dapat dihindari
+6.1 Prioritas Fitur
+Berdasarkan hasil komunikasi, saya menetapkan tiga fitur prioritas:
+Tampilan status ruangan.
+Informasi jadwal dan waktu pembaruan.
+Pembatasan akses perubahan informasi.
+Fitur tambahan seperti pemesanan otomatis dan notifikasi belum menjadi prioritas karena dapat meningkatkan kompleksitas pengembangan dan membutuhkan persetujuan lebih lanjut.
+7. Risiko, Evidence Threshold, dan Adaptation
+7.1 Identifikasi Risiko
+Risiko
+Dampak
+Mitigasi
+Data tidak diperbarui
+Mahasiswa menerima informasi yang salah
+Menampilkan waktu pembaruan
+Jadwal berubah mendadak
+Status dashboard tidak sesuai kondisi
+Menetapkan prosedur pembaruan
+Pengguna tidak memahami status
+Terjadi kesalahpahaman
+Menggunakan label status yang sederhana
+Akses edit terlalu luas
+Informasi dapat berubah tanpa izin
+Membatasi akses petugas
+Data sumber tidak dapat diakses
+Dashboard tidak dapat diperbarui otomatis
+Memulai dengan pemeriksaan data secara terbatas
+7.2 Evidence Threshold
+Sebelum solusi diuji coba, saya menetapkan beberapa hal yang perlu diperiksa:
+Sumber data jadwal yang digunakan harus jelas.
+Petugas harus mengetahui cara memperbarui informasi.
+Waktu pembaruan harus dapat ditampilkan.
+Mahasiswa dapat membedakan status tersedia, dipesan, dan sedang digunakan.
+Dashboard tidak boleh menjadi sumber informasi yang bertentangan dengan administrasi resmi.
+Saya juga menetapkan bahwa jika informasi tidak dapat dipastikan kebenarannya, dashboard harus menampilkan keterangan bahwa status perlu dikonfirmasi kepada petugas.
+7.3 Adaptasi Berdasarkan Masukan
+Pada awalnya, saya ingin mengembangkan dashboard dengan beberapa fitur tambahan agar terlihat lebih lengkap.
+Namun, target menekankan bahwa kesederhanaan dan keakuratan lebih penting daripada banyaknya fitur.
+Saya kemudian mengurangi cakupan solusi. Saya tidak lagi memprioritaskan pemesanan otomatis dan notifikasi, melainkan memastikan informasi status, jadwal, dan waktu pembaruan dapat ditampilkan dengan jelas.
+Saya juga menambahkan batasan bahwa dashboard hanya membantu penyampaian informasi dan tidak menggantikan keputusan petugas administrasi.
+8. Analisis Repertoire dan Penggunaan AI
+8.1 Repertoire Komunikasi
+Repertoire
+Penerapan
+Tujuan
+Future-state questioning
+Menanyakan kondisi ideal menurut target
+Memahami desired state
+Prioritization question
+Meminta target membandingkan fitur dan akurasi
+Mengetahui prioritas
+Paraphrasing
+Mengulangi kesimpulan kebutuhan target
+Memastikan kesamaan pemahaman
+Trade-off discussion
+Membahas fitur tambahan dan kompleksitas
+Menentukan batas solusi
+Risk framing
+Membahas kemungkinan informasi tidak akurat
+Mengantisipasi dampak negatif
+8.2 Penggunaan AI
+Saya menggunakan AI untuk mengevaluasi apakah fitur yang saya tawarkan memiliki hubungan yang jelas dengan desired state.
+Contoh prompt:
+“Analisis hubungan feature, benefit, value, dan outcome dari dashboard informasi ruangan. Identifikasi fitur yang tidak memiliki hubungan langsung dengan kebutuhan target, risiko implementasi, serta bukti yang harus tersedia sebelum uji coba.”
+AI membantu saya menyusun alternatif dan mengidentifikasi risiko yang mungkin terlewat.
+Namun, saya tidak menggunakan AI untuk menetapkan bahwa target pasti membutuhkan suatu fitur. Prioritas solusi tetap mengacu pada hasil komunikasi dengan target.
+9. Evidence, Feedback, dan Next Step
+9.1 Evidence
+Evidence
+Isi
+Fungsi
+Current–Desired State Mapping
+Perbandingan kondisi sekarang dan kondisi ideal
+Menentukan arah solusi
+Discovery Transcript
+Pertanyaan dan respons target
+Menggali kebutuhan
+Feature–Benefit–Value–Outcome
+Hubungan fitur dan hasil yang diharapkan
+Menguji relevansi fitur
+Risk Register
+Daftar risiko dan mitigasi
+Menentukan batas solusi
+Feature Prioritization
+Penentuan fitur utama
+Menjaga fokus pengembangan
+9.2 Feedback dan Insight
+Saya memperoleh pemahaman bahwa target lebih menghargai solusi yang sederhana dan dapat dipercaya daripada sistem yang memiliki banyak fitur.
+Hal ini mengubah cara saya menilai keberhasilan solusi. Sebelumnya, saya cenderung menganggap semakin banyak fitur akan membuat solusi semakin menarik.
+Namun, saya menyadari bahwa fitur tambahan justru dapat menimbulkan beban dan risiko apabila tidak benar-benar dibutuhkan.
+9.3 Next Step
+Pada minggu berikutnya, saya akan mengubah hasil pembahasan menjadi rencana tindakan yang lebih konkret.
+Hal yang perlu disepakati: 1. Ruangan yang akan digunakan untuk uji coba. 2. Pihak yang bertanggung jawab terhadap data. 3. Batas waktu uji coba. 4. Indikator keberhasilan. 5. Prosedur penghentian apabila informasi tidak akurat atau proses justru menambah beban administrasi.
+10. Self-Assessment (Rubrik Evaluasi Mandiri)
+Dimensi
+Penilaian
+Alasan
+Person & Character
+4
+Saya memahami kebutuhan mahasiswa dan petugas serta mempertimbangkan kewenangan masing-masing.
+Objective & State
+4
+Saya membedakan current state dan desired state berdasarkan kebutuhan target.
+Repertoire, Language & AI
+4
+Saya menggunakan pertanyaan kondisi ideal, prioritas, trade-off, dan AI sebagai alat evaluasi.
+Response & Adaptation
+4
+Saya mengurangi fitur yang tidak menjadi prioritas dan menambahkan mitigasi risiko.
+Agreement, Action & Relationship
+4
+Saya mengarahkan pembicaraan pada kebutuhan uji coba tanpa menganggap diskusi sebagai persetujuan implementasi.
+Total Self-Assessment: 20/20
+Refleksi Akhir
+Saya belajar bahwa memahami keinginan target membutuhkan lebih dari sekadar menanyakan fitur apa yang mereka inginkan. Saya perlu memahami kondisi yang ingin mereka capai dan alasan di balik kebutuhan tersebut.
+Melalui komunikasi ini, saya menyadari bahwa solusi yang baik tidak selalu merupakan solusi dengan fitur paling banyak. Solusi yang sederhana, akurat, dan sesuai dengan proses kerja target dapat memberikan manfaat yang lebih nyata.
+Saya juga belajar untuk mempertimbangkan risiko sejak awal agar solusi yang ditawarkan tidak menciptakan masalah baru.
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Tugas Minggu 10 — Action & Agreement Challenge
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#status-pengerjaan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#current-state-dan-desired-state
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#pembaruan-dari-w07
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#current-state
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#desired-state
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#potongan-transcript-desire-state-discovery
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#menggali-kondisi-ideal
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#memperjelas-prioritas
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#konfirmasi-desired-state
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#prioritas-fitur
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#risiko-evidence-threshold-dan-adaptation
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#identifikasi-risiko
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#evidence-threshold
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#adaptasi-berdasarkan-masukan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#analisis-repertoire-dan-penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#repertoire-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#evidence-feedback-dan-next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#evidence
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#feedback-dan-insight
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#self-assessment-rubrik-evaluasi-mandiri
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html#refleksi-akhir
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,188 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 952
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Desire-State Communication
+TAIDA
+DESIRE
+Perumusan shared desired state bersama Koordinator Operasional, penyusunan feature-benefit-value-outcome chain, identifikasi risiko, serta penetapan evidence threshold.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Selasa, 20 Oktober 2026. Diskusi santai di Selasar Lab STI ITB selama 20 menit sebelum rapat koordinasi kepanitiaan.
+Persons dan relationship: Winda (PJ Teknis/Divisi IT) dan Rian (Koordinator Operasional/Logistik). Hubungan: Rekan kerja seangkatan dengan tingkat kepercayaan baik setelah keberhasilan kesepakatan uji coba Form Handover 3-Klik pada minggu-minggu sebelumnya.
+Objective dan initial state: Menggali Desired State otentik dari perspektif Rian, menguji Feature–Benefit–Value–Outcome Chain tanpa asumsi sepihak, serta menyepakati evidence threshold dan batasan risiko (acceptable risk) sebelum uji coba penuh. Initial state Rian: Interest (tertarik dengan konsep QR Code, tetapi masih mengamati dampak beban kerja riil timnya).
+Evidence
+Catatan1. Pemetaan Current vs Desired State
+Elemen
+Rumusan Otentik Target (Bukan Asumsi Winda)
+Current state
+Tim logistik harus melakukan verifikasi fisik dan rekap ulang data kertas secara manual di akhir acara hingga larut malam; data penanggung jawab alat rentan tidak sinkron.
+Desired state
+Seluruh alur serah terima terekam secara live dalam satu pintu data tanpa perlu ada pekerjaan duplikasi rekap ulang di malam hari pasca-acara.
+Value bagi Rian
+Eliminasi overtime rekap inventaris pasca-acara, efisiensi energi tim operasional, serta kepastian pertanggungjawaban fisik alat/server yang dapat dilacak transparan.
+Acceptable risk
+Uji coba terbatas pada 1 sesi utama (Gladi Resik Akhir); jika sistem mengalami gangguan, tim diperbolehkan kembali ke lembar fisik tanpa penalti.
+Evidence threshold
+Nol insiden duplikasi pencatatan (duplicate logging), waktu rekap pasca-acara berkurang \(>50\%\), dan tim operasional menyatakan alur baru tidak menambah beban administratif.
+2. Feature–Benefit–Value–Outcome Chain (As Hypothesis)
+Winda menyusun chain ini sebagai serangkaian hipotesis yang perlu divalidasi bersama Rian, bukan sebagai klaim mutlak:
+\[\text{QR Form 3-Klik} \longrightarrow \text{Data Auto-Sync ke Cloud} \longrightarrow \text{Status Live Tanpa Rekap Manual} \longrightarrow \text{Beban Kerja Rekap Malam Hilang} \longrightarrow \text{Fokus Operasional Maksimal}\]
+Feature: Form digital 3-klik berbasis QR Code dengan fitur offline submission.
+Benefit (Hypothesis 1): Data masuk otomatis ke spreadsheet terpusat tanpa pengetikan ulang.
+Value (Hypothesis 2): Rian dan tim operasional menghemat waktu rekap 1–2 jam di akhir acara.
+Outcome (Hypothesis 3): Tingkat stres operasional menurun, risiko kehilangan alat mendekati nol, dan koordinasi antar-divisi menjadi lancar.
+3. Dialog Percakapan, Respon & Adaptasi Arsitektur Solusi
+Winda: “Rian, kalau misal uji coba sistem ini dianggap sukses besar di hari H nanti, kondisi ideal seperti apa yang sebenarnya ingin kamu lihat di tim operasional?”
+Rian: “Bukan sekadar proses pengisiannya yang keren atau cepat di HP, Win. Yang paling penting buat gue: anak-anak lapangan gak perlu melotot rekap dua kali di spreadsheet malam-malam setelah acara selesai. Kalau sistem kamu cepat tapi di akhir tetap bikin gue harus bikin sheet terpisah buat nyusun laporan ke Ketupel, itu sama aja bohong.”
+Refleksi & Adaptasi Winda: Winda menyadari bahwa desired state Rian bukan hanya soal kecepatan scanning, melainkan keutuhan alur data tanpa duplikasi kerja (no double-handling). Winda langsung merubah rancangan backend solusi:
+Mengintegrasikan tampilan spreadsheet agar otomatis membuat tab ringkasan siap cetak untuk laporan Ketua Pelaksana, sehingga Rian tidak perlu lagi memindahkan data secara manual.
+4. Pengelolaan Risiko & Safeguard
+Risiko Utama: Keterlambatan sinkronisasi data saat HP staf baru mendapatkan sinyal internet di luar area basement.
+Safeguard: Tampilan spreadsheet diberi penanda timestamp jernih (“Diperbarui pukul HH:MM”) dan tombol refresh manual. Keputusan akhir pertanggungjawaban fisik tetap berada di tangan Koordinator Logistik di lapangan.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Winda mendengarkan dengan penuh empati, menempatkan beban kerja malam tim Rian sebagai prioritas utama perbaikan arsitektur sistem.
+Objective & state
+Winda berhasil mengeksplorasi Desired State otentik Rian dan menggeser pemahaman dari sekadar efisiensi fitur menjadi efisiensi nilai (value-driven).
+Repertoire & language
+Feature-benefit-value chain disajikan sebagai hipotesis yang diuji terbuka. Bahasa yang digunakan berpijak pada terminologi operasional lapangan Rian.
+Response & adaptation
+Respon Rian mengenai kekhawatiran duplikasi laporan langsung diadaptasi dengan mengubah arsitektur output spreadsheet agar otomatis menghasilkan laporan rangkuman.
+Agreement/action
+Rian menyetujui evidence threshold dan sepakat melakukan pengecekan teknis (technical check) akhir sebelum Gladi Resik.
+Relationship outcome
+Kemitraan strategis antara Divisi IT dan Logistik semakin kokoh; Rian memandang Winda sebagai mitra solutif yang benar-benar memahami realitas lapangan.
+Penggunaan AI
+AI digunakan untuk menguji keberadaan lompatan logika (logic leaps) dalam penyusunan Feature–Benefit–Value–Outcome Chain. Winda menolak saran instan AI yang mengklaim “efisiensi waktu 90%” karena angka tersebut belum teruji secara empiris melalui evidence threshold di lapangan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Rian meminta ringkasan otomatis di spreadsheet memisahkan antara barang kategori “Perangkat Kritis” (server/mixer) dan “Konsumabel” (kabel/adapter).
+Adaptation/replay: Winda memperbarui template spreadsheet untuk menyertakan kategorisasi otomatis tersebut.
+Next practice: Dalam merumuskan desired state, selalu gunakan pertanyaan terbuka untuk memancing value terdalam dari target person, bukan mendiktekan kriteria sukses sepihak.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Menggunakan kriteria nilai dan bahasa riil milik target (no double-handling).
+Objective & State
+4
+Current state, desired state, risiko, dan evidence threshold dirumuskan eksplisit.
+Repertoire, Language & AI
+4
+Value chain disajikan sebagai hipotesis teruji; klaim AI yang tidak berdasar ditolak.
+Response & Adaptation
+4
+Kekhawatiran duplikasi kerja mengubah arsitektur output solusi secara substantif.
+Agreement, Action & Relationship
+4
+Disepakati pengecekan teknis & threshold pengujian tanpa komitmen prematur yang memaksa.
+Total: 20 / 20 - Lanjut.
+CatatanAssessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://ambreluee.github.io/kipp-students/index.html
+- https://ambreluee.github.io/kipp-students/assets/logo.png
+- https://ambreluee.github.io/kipp-students/course/index.html
+- https://ambreluee.github.io/kipp-students/portfolio/index.html
+- https://ambreluee.github.io/kipp-students/examples/index.html
+- https://ambreluee.github.io/kipp-students/lk/index.html
+- https://ambreluee.github.io/kipp-students/slides.html
+- https://ambreluee.github.io/kipp-students/slides-pdf/index.html
+- https://ambreluee.github.io/kipp-students/assessment/index.html
+- https://ambreluee.github.io/kipp-students/about.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-01.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-02.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-03.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-04.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-05.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-06.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-07.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-08.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-10.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-11.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-12.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-13.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-14.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-15.html
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#konteks-performance
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#evidence
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#analisis-komunikasi
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://ambreluee.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://ambreluee.github.io/kipp-students/examples/week-09.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

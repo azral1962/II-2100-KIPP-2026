@@ -1,0 +1,212 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 930
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://g7zel.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode komunikasi dengan diri sendiri
+Pemisahan Story dan Alternative Narratives
+Internal Agreement dan Action
+Feedback, Penggunaan AI, dan Refleksi
+Self-assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence Tambahan
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence pengelolaan multiple states, trade-off, dan pergeseran narasi internal.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action, serta mengelola trade-off di antara beberapa prioritas.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode komunikasi dengan diri sendiri
+Peristiwa (Fakta Objektif): Saat sedang mengejar beberapa tenggat tugas kelompok sekaligus di bulan Mei, saya baru menyadari setelah menekan tombol Submit bahwa saya salah memasukkan data Peer Assessment untuk kelompok tugas PSTI ke dalam tautan formulir milik mata kuliah LIDIA (yang diampu oleh Bapak dosen LIDIA).
+Emosi & Tokoh Internal: Detik itu juga jantung saya berdegup kencang, telapak tangan dingin, muncul rasa panik dan malu luar biasa (9/10). Terjadi pertarungan tiga suara di dalam kepala saya: 1. Si Katastrofik (Panik): Meyakini bahwa kesalahan fatal ini akan membuat nilai LIDIA dan PSTI saya sama-sama nol karena dianggap tidak teliti membaca instruksi. 2. Si Perfeksionis yang Malu: Merasa harga diri sebagai mahasiswa STI yang biasa mengurus administrasi rapi hancur lebur hanya karena salah tab browser. 3. Si Problem-Solver (Logis): Mencari cara paling cepat dan sopan untuk menganulir input data yang salah tersebut sebelum rekap nilai dikunci.
+Pemisahan Story dan Alternative Narratives
+Initial Story (Narasi Bencana & Menyalahkan Diri): “Bodoh banget sih aku! Gimana ceritanya form peer assessment PSTI malah keisi di link matkul LIDIA?! Bapak dosen LIDIA pasti bakal ngira aku mahasiswa yang ngawur dan nggak niat kuliah. Nilai kelompokku di dua matkul ini bakal berantakan gara-gara kecerobohanku sendiri.” (Komentar: Mencampuradukkan satu kesalahan teknis input formulir dengan vonis karakter “mahasiswa ngawur” dan asumsi kehancuran nilai akhir).
+Alternative Narrative 1 (Narasi Teknis Sistem Data): “Secara sistem basis data/spreadsheet, form yang salah input hanyalah satu baris data anomali (outlier) di Google Forms/Edunex. Selama masa pengumpulan belum ditutup, baris data tersebut sangat mudah dihapus atau ditimpa (overwrite) asalkan saya melapor dengan menyebutkan NIM (18225097) dan timestamp pengisian secara jelas.”
+Alternative Narrative 2 (Narasi Empati Manusiawi & Trade-off Beban Kognitif): “Kesalahan ini terjadi karena saya membuka terlalu banyak tab tugas secara bersamaan (multitasking ekstrem antara PSTI, LIDIA, dan kepanitiaan). Bapak dosen dan asisten pasti pernah menemui mahasiswa yang salah kirim berkas. Trade-off yang harus saya ambil sekarang adalah menelan rasa gengsi/malu, segera mengirim permohonan maaf dan klarifikasi tertulis yang sopan, lalu langsung mengisi form PSTI yang benar.”
+Internal Agreement dan Action
+Internal Agreement: Saya bersepakat dengan diri sendiri untuk menghentikan makian internal dalam hitungan beberapa menit dan menurunkan kepanikan dari 9/10 menjadi 2/10 (self-report). Saya menolak bersembunyi atau berharap kesalahan itu “tidak ketahuan”. Saya mengambil kendali sebagai Si Problem-Solver: memverifikasi ulang tautan yang benar, mengisi form yang seharusnya di kedua mata kuliah, dan memberikan konfirmasi kepada pihak matkul LIDIA serta rekan kelompok.
+Bukti Tindakan (Action): 1. Mitigasi Administratif (21 Mei 2026): Mengisi ulang form PSTI dan form LIDIA yang benar, lalu mengirimkan pesan permohonan maaf berisi kronologi singkat, NIM (18225097), dan timestamp pengisian yang salah (19:58 WIB) kepada asisten/pengampu LIDIA agar input pertama diabaikan (transkrip asli terlampir di bawah). 2. Perubahan Kebiasaan Kerja (Single-Tab Submission — Terbukti Dijalankan pada 24 Mei 2026): Aturan pribadi menutup semua tab mata kuliah lain saat hendak menekan tombol Submit benar-benar saya jalankan pada pengumpulan tugas kelompok berikutnya tanggal 24 Mei 2026 (terbukti pada chat lanjutan dengan Dinda di bawah).
+Feedback, Penggunaan AI, dan Refleksi
+Penggunaan AI & Batas Otoritas: Sebelum mengirim pesan permohonan maaf ke asisten/pihak LIDIA, saya sempat mengecek draf kalimat saya menggunakan AI agar terdengar sopan. Namun, AI memberikan draf yang terlalu bertele-tele dan menyalahkan beban kuliah (“Sehubungan dengan padatnya jadwal akademik minggu ini…”). Saya menolak bagian tersebut karena terdengar seperti mencari alasan (excuse), lalu mengirim pesan singkat yang langsung menyebutkan NIM 18225097 dan jam submit yang salah agar mudah dicari di spreadsheet.
+Feedback Rekan: Rekan kelompok saya (Dinda) pada pukul 20:09:20 mengapresiasi kecepatan saya melakukan pengecekan dan konfirmasi ulang sebelum rekap nilai ditutup.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+4
+Tiga suara internal dibedakan, dan kesalahan teknis (salah klik tautan) dipisahkan dari identitas diri.
+Objective & State
+3
+Kepanikan 9/10 terdokumentasi di chat, tetapi penurunan ke 2/10 hanya klaim self-report dan durasinya tidak dapat diverifikasi karena jam disamarkan.
+Repertoire, Language & AI
+4
+Masalah dianalisis sebagai data entry error yang bisa diperbaiki; penggunaan AI dan penolakan kalimat excuse dari AI dijelaskan di bagian khusus.
+Response & Adaptation
+3
+Aturan Single-Tab Submission terbukti dijalankan pada 24 Mei, tetapi itu perbaikan prosedur atas inisiatif sendiri, bukan penyesuaian terhadap informasi baru.
+Agreement, Action & Relationship
+4
+Ada pesan permohonan maaf ke asisten LIDIA beserta konfirmasi penghapusan data, dan chat lanjutan yang menunjukkan kebiasaan baru dijalankan.
+Total: 18/20.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence Tambahan
+Catatan privasi: sebagian jam dan menit pada log chat disamarkan demi privasi. Isi pesan dikutip langsung dari percakapan; karena itu klaim durasi pada dokumen ini bersifat perkiraan.
+1. Transkrip Chat WhatsApp dengan Rekan Kelompok — Dinda (Teks Asli Utuh): > [21/05/26, 20:04:12] Fayza: weh gawat, aku barusan panik banget sampe lemes. masa aku salah ngisi peer assessment buat kelompok PSTI kita malah ke-submit di link form matkul LIDIA punya Bapaknya 😭 > [21/05/26, 20:05:01] Rekan Kelompok (Dinda): HAH kok bisa fay?? terus gimana dong nilai peer assessment kita? > [21/05/26, 20:06:30] Fayza: tadi 2 menit pertama aku udah mikir nilai kita bakal auto nol dan Bapak dosen LIDIA bakal nandain NIM aku wkwk. tapi bentar, aku udah tarik napas dan cek ulang sistem form-nya > [21/05/26, 20:07:15] Fayza: faktanya form-nya masih buka dan belum direkap. jadi ini murni human error gara-gara aku buka tab PSTI sama LIDIA barengan. aku ga mau panik ga jelas, ini langkah yang barusan langsung aku lakuin: > [21/05/26, 20:08:05] Fayza: 1. Aku udah isi ulang link PSTI yang bener buat kelompok kita. 2. Aku udah isi form LIDIA yang bener sesuai kelompok LIDIA. 3. Aku udah kirim pesan permohonan maaf + keterangan NIM 18225097 & jam submit yang salah tadi supaya input pertama di LIDIA diabaikan/dihapus > [21/05/26, 20:09:20] Rekan Kelompok (Dinda): yaampun untung kamu langsung gercep ngecek dan konfirmasi fay, kirain bakal ketuker beneran sampe akhir semester. aman berarti ya sekarang? > [21/05/26, 20:10:02] Fayza: aman din! asli pelajaran mahal banget buat aku, abis ini pantang buka dua tab matkul beda pas mau submit form
+2. Transkrip Chat WhatsApp Klarifikasi ke Asisten Matkul LIDIA (21 Mei 2026): > [21/05/26, 20:03:10] Fayza: Malam kak, maaf mengganggu waktunya. Saya Fayza Kamilia (18225097) dari kelas LIDIA. Kak, maaf banget barusan jam 19:58 saya salah klik tab browser, jadi penilaian kelompok PSTI saya malah ke-submit di link form Peer Assessment LIDIA. > [21/05/26, 20:03:45] Fayza: Barusan jam 20:02 saya sudah isi ulang form LIDIA-nya pakai data kelompok LIDIA saya yang bener. Mohon bantuannya ya kak supaya input pertama saya yang jam 19:58 tadi diabaikan/dihapus aja dari rekap sheet Bapaknya. Terima kasih banyak kak, maaf merepotkan 🙏 > [21/05/26, 20:14:22] Asisten LIDIA: malam fayza, oke aman ya barusan udah aku hapus row punya kamu yang jam 19:58 di sheet, sisa yang jam 20:02 aja. untung langsung bilang sebelum direkap
+3. Transkrip Chat Lanjutan Bukti Menjalankan Kebiasaan Baru (24 Mei 2026): > [24/05/26, 21:15:08] Rekan Kelompok (Dinda): fay, link dokumen tugas akhir pekan PSTI udah siap dikumpul nih, kamu yang submit ke form kan ya? > [24/05/26, 21:16:40] Fayza: iya aku yang submit. tenang din, trauma kemaren wkwk ini sebelum buka link form-nya semua tab matkul lain di safari udah aku close paksa sampe beneran sisa 1 tab PSTI doang di layar > [24/05/26, 21:17:55] Fayza: udah beres aku submit ya barusan! udah aku cek 3 kali judul form-nya beneran PSTI wkwk > [24/05/26, 21:18:20] Rekan Kelompok (Dinda): wkwkwk mantap beneran tobat dari buka banyak tab ya sekarang, makasih fayy!
+CatatanPenilaian Asesor
+Skor: - / 20 Evidence yang mendukung: - Prioritas perbaikan: - Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Fayza Kamilia
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://g7zel.github.io/kipp-students/index.html
+- https://g7zel.github.io/kipp-students/assets/logo.png
+- https://g7zel.github.io/kipp-students/course/index.html
+- https://g7zel.github.io/kipp-students/portfolio/index.html
+- https://g7zel.github.io/kipp-students/examples/index.html
+- https://g7zel.github.io/kipp-students/lk/index.html
+- https://g7zel.github.io/kipp-students/slides.html
+- https://g7zel.github.io/kipp-students/slides-pdf/index.html
+- https://g7zel.github.io/kipp-students/assessment/index.html
+- https://g7zel.github.io/kipp-students/about.html
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html
+- https://g7zel.github.io/kipp-students/portfolio/week-03.html
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html
+- https://g7zel.github.io/kipp-students/portfolio/week-06.html
+- https://g7zel.github.io/kipp-students/portfolio/week-07.html
+- https://g7zel.github.io/kipp-students/portfolio/week-08.html
+- https://g7zel.github.io/kipp-students/portfolio/week-09.html
+- https://g7zel.github.io/kipp-students/portfolio/week-10.html
+- https://g7zel.github.io/kipp-students/portfolio/week-11.html
+- https://g7zel.github.io/kipp-students/portfolio/week-12.html
+- https://g7zel.github.io/kipp-students/portfolio/week-13.html
+- https://g7zel.github.io/kipp-students/portfolio/week-14.html
+- https://g7zel.github.io/kipp-students/portfolio/week-15.html
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#episode-komunikasi-dengan-diri-sendiri
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#pemisahan-story-dan-alternative-narratives
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#internal-agreement-dan-action
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#feedback-penggunaan-ai-dan-refleksi
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#self-assessment-1
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html#evidence-tambahan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

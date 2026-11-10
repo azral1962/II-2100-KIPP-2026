@@ -1,0 +1,149 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 956
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://aduadu17.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Evidence tindakan
+Feedback, AI, dan refleksi
+Self-assessment
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Episode
+Event: Dosen memberikan catatan kritis pada draf slide presentasi kelompok: “Alur argumen di bagian latar belakang belum jelas dan datanya kurang valid.”
+Lapisan
+Catatan Refleksi
+Fact
+Catatan dosen meminta perbaikan alur argumen dan penambahan data valid pada slide latar belakang; belum ada pemotongan nilai resmi.
+Initial story
+“Dosen menganggap hasil kerja saya jelek dan saya tidak becus menyusun materi presentasi.”
+Emotion/body signal
+Jantung berdebar 7/10, kecewa 8/10, dada terasa sesak, ada dorongan untuk menutup file tugas.
+Reactive character
+“Defender” yang ingin beralasan bahwa waktu pengerjaan sangat terbatas dan anggota lain tidak membantu.
+Desired character
+“Analyst” yang fokus membaca ulang masukan secara objektif dan mencari data pendukung tambahan.
+Initial story saya melampaui fakta yang ada. Catatan dosen adalah evaluasi terhadap kualitas draf slide, bukan penilaian terhadap harga diri atau kemampuan saya secara keseluruhan.
+Alternative narratives
+Gap Data: Ide dasarnya sudah tepat, tetapi klaim di latar belakang belum kuat karena belum menyertakan sumber statistik yang relevan.
+Peluang Perbaikan: Catatan ini diberikan sebelum hari presentasi agar kelompok kami memiliki waktu untuk menyempurnakannya.
+Keterbatasan Penyampaian: Bahasa yang saya gunakan di slide terlalu umum sehingga pesan utamanya tidak tersampaikan dengan presisi.
+Narasi alternatif kedua paling bermanfaat karena selaras dengan fakta dan mendorong tindakan nyata tanpa membuat saya larut dalam emosi negatif.
+Internal conversation dan agreement
+Defender: “Langsung bilang ke dosen kalau waktu pengerjaannya keburu-buru, lagian ini kan tugas kelompok.”
+Analyst: “Tahan dulu. Buka lagi slidenya, cek bagian mana yang datanya belum ada sumbernya, lalu cari jurnal penunjang.”
+Diri Saya: “Saya akan mengambil jeda 15 menit untuk menenangkan emosi, lalu mencatat 2 sumber data baru sebelum menghubungi kelompok.”
+Internal agreement: Sebelum pukul 17.00, saya akan membagikan 2 artikel ilmiah relevan di grup kelompok dan memperbarui draf slide latar belakang.
+Evidence tindakan
+Bukti pencarian 2 jurnal ilmiah penunjang pada riwayat peramban (browser history).
+Tangkapan layar pesan pembagian tugas revisi di grup WhatsApp kelompok pukul 16.45.
+Riwayat revisi slide pada Google Slides yang menunjukkan pembaruan grafik dan sitasi data dua hari kemudian.
+Hasilnya, slide presentasi menjadi lebih padat data dan mendapat tanggapan positif dari dosen saat sesi presentasi.
+Feedback, AI, dan refleksi
+Teman sekelompok mengingatkan bahwa reaksi awal saya yang cemas sempat membuat suasana kelompok tegang.
+AI digunakan hanya untuk membantu memformulasi kalimat pencarian jurnal (search query) yang efektif.
+Rencana latihan berikutnya: Menggunakan metode 3-column journal (fakta, asumsi, tindakan) setiap kali menerima umpan balik kritis.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Karakter Defender dan Analyst dipetakan dengan jelas
+Objective & State
+3
+Reaksi emosional dan perubahan respon terukur
+Repertoire, Language & AI
+3
+Penggunaan jeda emosi dan AI tercatat transparan
+Response & Adaptation
+3
+Perubahan narasi menghasilkan tindakan revisi slide
+Agreement, Action & Relationship
+3
+Internal agreement terbukti lewat aktivitas kelompok
+Total: 15/20 — Kompeten. Belum mencapai tingkat 4 karena belum menganalisis pola pemicu emosi (emotional trigger) secara lebih mendalam.
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Ragawa Bhramastya Aquila Saksono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://aduadu17.github.io/kipp-students/index.html
+- https://aduadu17.github.io/kipp-students/assets/logo.png
+- https://aduadu17.github.io/kipp-students/course/index.html
+- https://aduadu17.github.io/kipp-students/portfolio/index.html
+- https://aduadu17.github.io/kipp-students/examples/index.html
+- https://aduadu17.github.io/kipp-students/lk/index.html
+- https://aduadu17.github.io/kipp-students/slides.html
+- https://aduadu17.github.io/kipp-students/slides-pdf/index.html
+- https://aduadu17.github.io/kipp-students/assessment/index.html
+- https://aduadu17.github.io/kipp-students/about.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-03.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-05.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-08.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-09.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-10.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-11.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-12.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-13.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-14.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-15.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html#episode
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html#evidence-tindakan
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html#feedback-ai-dan-refleksi
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

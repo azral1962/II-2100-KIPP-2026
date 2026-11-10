@@ -1,0 +1,155 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 881
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fargudd.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Panduan Detoks Fitur (Bab 07) – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Panduan Detoks Fitur (Bab 07)
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Panduan Detoks Fitur (Bab 07)
+Portfolio Minggu 8 — UTS KIPP
+Portofolio UTS
+Makalah Akademik: MBTI, Komunikasi Efektif, dan Kerangka PASK dalam Pengemasan Solusi Sistem Informasi
+Laporan UTS KIPP - Sesi 1
+Laporan UTS KIPP - Sesi 2a
+Laporan UTS KIPP - Sesi 2b
+Laporan UTS KIPP - Sesi 3a
+Laporan UTS KIPP 2026 — Versi 2.0
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+1. Pernyataan Masalah Sasaran (Customer Problem Statement)
+2. Matriks Detoks Fitur
+3. Draf Pitch Minat 60 Detik
+4. Rubrik Penilaian Mandiri (Self-Assessment)
+Panduan Detoks Fitur (Bab 07)
+Professional
+Feature Detox
+Detoks fitur, matriks penerjemahan nilai relasional, dan draf pitch minat 60 detik.
+Kompetensi target
+Menghindari feature dumping, menerjemahkan kemampuan teknis menjadi nilai relasional bagi peran yang berbeda, serta menyampaikan pitch minat berbasis bukti tanpa janji berlebihan.
+1. Pernyataan Masalah Sasaran (Customer Problem Statement)
+Kasir dan barista kedai kopi kampus mengalami penumpukan antrean serta keterlambatan konfirmasi stok bahan baku yang habis ketika jam sibuk makan siang pergantian kuliah (12.00–13.00), sehingga pelanggan membatalkan pesanan akibat waktu tunggu yang tidak terprediksi. Mereka membutuhkan kejelasan status ketersediaan bahan secara seketika dan kemampuan mengomunikasikan estimasi waktu penyajian kepada pelanggan, dengan mempertimbangkan keterbatasan ruang meja kasir dan target durasi transaksi maksimal 45 detik per orang.
+2. Matriks Detoks Fitur
+Nama Fitur Teknis
+Manfaat Langsung
+Nilai Relasional (Sebutkan Perannya)
+Bukti yang Dimiliki / Diperlukan
+Keputusan (Pertahankan / Pangkas)
+Fitur A: Indikator status stok cepat (toggle 1-klik kasir) & estimasi waktu tunggu otomatis pada layar kecil kasir.
+Kasir dapat mengecek stok dan memberitahukan estimasi waktu penyajian secara riil saat mencatat transaksi.
+Bagi Kasir (Mas Budi): Menghindari kepanikan dan komplain pelanggan akibat bahan habis mendadak.
+Bagi Pelanggan (Mahasiswa): Mendapat kepastian waktu tunggu sebelum membayar agar tidak terlambat kuliah.
+Hasil uji coba simulasi transaksi kasir selama 5 menit di jam sibuk.
+PERTAHANKAN (Sangat menempel pada masalah utama ketidakpastian stok dan durasi tunggu).
+Fitur B: Laporan analitik keuangan bulanan dan grafik prediksi omzet berbasis AI.
+Menampilkan proyeksi pendapatan dan statistik penjualan produk dalam jangka panjang.
+Bagi Kasir & Barista: Tidak memberikan nilai langsung saat menghadapi antrean jam sibuk makan siang.
+Belum ada bukti relevansi bagi kelancaran transaksi harian di meja kasir.
+PANGKAS (Beban informasi teknis yang tidak relevan dengan masalah antrean operasional saat ini).
+Fitur C: Sistem pembayaran terintegrasi dengan login otentikasi media sosial.
+Memudahkan pelanggan membuat akun pengguna dengan verifikasi ganda.
+Bagi Pelanggan: Menambah durasi transaksi mikro menjadi lebih lambat dari target 45 detik.
+Data menunjukkan transaksi kasir secara langsung (offline) lebih cepat menggunakan QRIS/Cash standar.
+PANGKAS (Memperlambat durasi transaksi dan memperparah antrean).
+3. Draf Pitch Minat 60 Detik
+“Kemarin Mas Budi menceritakan bahwa kasir sering kewalahan ketika antrean menumpuk dan baru menyadari stok susu habis saat pelanggan sudah membayar[cite: 4].”
+“Untuk membantu mengatasi hal itu, kita bisa mencoba tampilan indikator stok cepat sederhana di layar kasir. Cara kerjanya, kasir cukup menekan satu tombol jika bahan habis, dan sistem akan langsung memperbarui daftar menu aktif serta menghitung estimasi waktu tunggu transaksi secara otomatis.”
+“Dengan begitu, Mas Budi bisa memberikan kepastian waktu ke mahasiswa sebelum mereka bayar tanpa perlu bolak-balik bertanya ke barista. Namun, perlu dicatat bahwa sistem ini tetap membutuhkan ketelitian kasir untuk menekan tombol status bahan saat pergantian shift. Apakah mekanisme sesederhana ini layak kita uji coba pada 10 transaksi pertama besok siang?”
+Jumlah Kata: 114 kata (Maksimal 120 kata / 60 detik).
+4. Rubrik Penilaian Mandiri (Self-Assessment)
+Kriteria Evaluasi
+Skor
+Catatan Singkat
+Kecocokan (Fit)
+4 / 4
+Fitur yang dipertahankan menempel sempurna pada masalah antrean dan kendala waktu transaksi 45 detik[cite: 4].
+Kejelasan Mekanisme
+4 / 4
+Cara kerja dijelaskan tanpa menggunakan jargon teknis yang rumit, berfokus pada alur kerja kasir.
+Penerjemahan Nilai
+4 / 4
+Mampu membedakan nilai relasional yang diterima kasir (bebas panggil barista) dan mahasiswa (kepastian waktu).
+Kejujuran & Batas
+4 / 4
+Menyampaikan keterbatasan sistem secara terbuka (butuh ketelitian kasir menekan tombol) tanpa janji berlebihan.
+Total Skor: Tingkat Unggul (Skor 4 / 4).
+Kembali ke atas
+Tiga Pitch untuk Tiga Pihak (Bab 06)
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Nama Mahasiswa
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fargudd.github.io/kipp-students/index.html
+- https://fargudd.github.io/kipp-students/assets/logo.png
+- https://fargudd.github.io/kipp-students/course/index.html
+- https://fargudd.github.io/kipp-students/portfolio/index.html
+- https://fargudd.github.io/kipp-students/examples/index.html
+- https://fargudd.github.io/kipp-students/lk/index.html
+- https://fargudd.github.io/kipp-students/slides.html
+- https://fargudd.github.io/kipp-students/slides-pdf/index.html
+- https://fargudd.github.io/kipp-students/assessment/index.html
+- https://fargudd.github.io/kipp-students/about.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html
+- https://fargudd.github.io/kipp-students/portfolio/week-01.html
+- https://fargudd.github.io/kipp-students/portfolio/week-02.html
+- https://fargudd.github.io/kipp-students/portfolio/week-03.html
+- https://fargudd.github.io/kipp-students/portfolio/week-04.html
+- https://fargudd.github.io/kipp-students/portfolio/week-05.html
+- https://fargudd.github.io/kipp-students/portfolio/week-06.html
+- https://fargudd.github.io/kipp-students/portfolio/week-08.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/paper.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_1_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_2b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3a_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/UTS/hasil_3b_18225121.html
+- https://fargudd.github.io/kipp-students/portfolio/week-09.html
+- https://fargudd.github.io/kipp-students/portfolio/week-10.html
+- https://fargudd.github.io/kipp-students/portfolio/week-11.html
+- https://fargudd.github.io/kipp-students/portfolio/week-12.html
+- https://fargudd.github.io/kipp-students/portfolio/week-13.html
+- https://fargudd.github.io/kipp-students/portfolio/week-14.html
+- https://fargudd.github.io/kipp-students/portfolio/week-15.html
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html#pernyataan-masalah-sasaran-customer-problem-statement
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html#matriks-detoks-fitur
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html#draf-pitch-minat-60-detik
+- https://fargudd.github.io/kipp-students/portfolio/week-07.html#rubrik-penilaian-mandiri-self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

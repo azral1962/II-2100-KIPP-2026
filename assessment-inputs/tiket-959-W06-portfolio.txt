@@ -1,0 +1,148 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 959
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://aduadu17.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Target map
+Attention pitch
+Response dan state assessment
+Evidence dan refleksi
+Self-assessment
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch, response, dan state assessment.
+Target map
+Person
+Relevance
+Authority
+Current state
+Ketua Kelas / Koordinator Mata Kuliah
+Mengelola jadwal dan kendala pengumpulan tugas angkatan
+Bisa menyepakati alur pengumpulan alternatif
+Problem aware
+Anggota Kelompok Lain
+Mengalami langsung masalah integrasi draf tugas
+Memvalidasi dan menguji alur baru
+Problem aware
+Asisten Laboratorium / Praktikum
+Bertanggung jawab atas ketersediaan modul dan sarana
+Menentukan aturan teknis penyerahan
+Unaware / Netral
+Dosen Pengampu
+Menilai hasil akhir tugas
+Menyetujui kebijakan resmi penyerahan
+Belum dilibatkan
+Saya memilih Ketua Kelas / Koordinator Mata Kuliah sebagai target utama karena memiliki pengalaman langsung dalam mencatat keterlambatan pengumpulan draf dan dapat menjembatani usulan perbaikan alur ke seluruh angkatan.
+Attention pitch
+“Dari pemantauan dua minggu terakhir, 4 dari 6 kelompok kelas kita mengalami keterlambatan pengunggahan draf tugas karena alur integrasi file di obrolan grup terpisah-pisah. Akibatnya, ada 3 kali pengiriman file versi lama yang tidak sengaja terunggah ke portal. Saya belum mengusulkan penggantian platform, tetapi bolehkah kita memeriksa apakah masalah utamanya ada pada kejelasan batasan revisi dan penamaan file?”
+Data yang digunakan: Catatan waktu unggah draf dari 6 kelompok dan rekapitulasi kesalahan versi file di grup obrolan angkatan.
+Response dan state assessment
+Ketua kelas merespons: “Masalah bentrok versi file memang sering terjadi, tapi biasanya karena mahasiswa baru pengerjaannya mendekati jam tenggat. Apakah penyeragaman nama file benar-benar bisa menyelesaikan masalah itu?”
+Respons ini menunjukkan target menyadari adanya masalah, namun meragukan efektivitas penyeragaman format sebagai solusi utama. State target bergeser dari Problem aware menjadi Attention dengan reservasi.
+Adaptasi komunikasi: > “Sangat setuju, faktor pengerjaan di akhir waktu memang berpengaruh. Bisakah kita mencoba menerapkan aturan format penamaan file sederhana di 2 kelompok dulu minggu ini untuk melihat apakah tingkat kesalahan unggah file berkurang?”
+Ketua kelas menyetujui uji coba (pilot test) terbatas pada 2 kelompok untuk tugas minggu depan.
+Evidence dan refleksi
+Bukti target map sebelum dan sesudah wawancara pitching.
+Tangkapan layar kesepakatan uji coba format penamaan file bersama Ketua Kelas lewat obrolan WhatsApp.
+Kesepakatan: Penilaian keberhasilan uji coba didasarkan pada ketepatan versi file yang dikirimkan pada tugas berikutnya.
+Penggunaan AI: AI digunakan untuk menyederhanakan struktur attention pitch agar dapat disampaikan di bawah 40 detik tanpa menambah data fiktif.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Target dipilih berdasarkan relevansi peran dan otoritas koordinasi
+Objective & State
+3
+Perubahan respon target dari ragu menjadi setuju dicatat eksplisit
+Repertoire, Language & AI
+3
+Menggunakan data konkret, pitch ringkas, dan validasi AI transparan
+Response & Adaptation
+4
+Mengubah target kesepakatan dari seluruh kelas menjadi uji coba 2 kelompok
+Agreement, Action & Relationship
+3
+Menyepakati uji coba format file terbatas untuk pengerjaan tugas minggu depan
+Total: 16/20 — Kompeten.
+Kembali ke atas
+Five-Language Translation Portfolio
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Ragawa Bhramastya Aquila Saksono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://aduadu17.github.io/kipp-students/index.html
+- https://aduadu17.github.io/kipp-students/assets/logo.png
+- https://aduadu17.github.io/kipp-students/course/index.html
+- https://aduadu17.github.io/kipp-students/portfolio/index.html
+- https://aduadu17.github.io/kipp-students/examples/index.html
+- https://aduadu17.github.io/kipp-students/lk/index.html
+- https://aduadu17.github.io/kipp-students/slides.html
+- https://aduadu17.github.io/kipp-students/slides-pdf/index.html
+- https://aduadu17.github.io/kipp-students/assessment/index.html
+- https://aduadu17.github.io/kipp-students/about.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-03.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-05.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-08.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-09.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-10.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-11.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-12.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-13.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-14.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-15.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html#attention-pitch
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html#response-dan-state-assessment
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html#evidence-dan-refleksi
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

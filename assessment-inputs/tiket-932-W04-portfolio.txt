@@ -1,0 +1,220 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 932
+Minggu: 04
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://g7zel.github.io/kipp-students/portfolio/week-04.html
+
+Isi halaman portfolio:
+---
+Five-Language Translation Portfolio – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Five-Language Translation Portfolio
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Core Meaning
+Lima Versi Language
+Evidence Understanding (Feedback, Adaptasi, & Tindak Lanjut)
+Analisis dan Batas Penggunaan AI
+Self-assessment
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Evidence Tambahan
+Five-Language Translation Portfolio
+Fondasi
+Adaptasi Bahasa
+Evidence adaptasi repertoire dan language ke lima target berbeda tanpa mengubah core meaning.
+Kompetensi target
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+Core Meaning
+Fakta yang tidak boleh berubah: Bot Telegram pengingat akademik yang saya bangun bekerja dengan membaca daftar tenggat tugas dan jadwal kuliah mahasiswa dari tabel penyimpanan data (Sheets/Notion), mengelompokkan tingkat kedaruratannya berdasarkan sisa waktu dan bobot tugas, lalu mengirimkan pesan pengingat otomatis ke ruang chat pribadi setiap pagi pukul 06.30 WIB serta H-6 jam sebelum batas pengumpulan berakhir.
+Lima Versi Language
+Target / Character
+Versi Language
+Alasan Adaptasi (Rationale)
+Adik / Pelajar SMP (~13 thn)
+“Aku bikin asisten robot di aplikasi chat Telegram. Setiap jam 06.30 pagi, robotnya bakal membaca daftar jadwal dan PR yang aku catat di tabel komputer, mengurutkan PR mana yang nilainya paling besar dan paling darurat harus dikerjain duluan hari ini, terus bakal ngingetin lagi 6 jam sebelum batas kumpulnya tutup biar aku gak lupa!”
+Mengubah konsep cron job, database, dan priority sorting menjadi “asisten robot”, “tabel komputer”, dan “PR” yang dekat dengan dunia sekolah tanpa menghilangkan fakta sumber data.
+Friend (Teman sesama mahasiswa luar STEI yang sering keteteran tugas)
+“Gue bikin bot Telegram penyelamat hidup nih wkwk. Jadi cukup kita catat jadwal kelas sama deadline tugas di tabel Sheets/Notion yang terhubung, bot-nya bakal ngurutin otomatis mana yang paling mepet & gede bobotnya, terus nge-chat kita tiap jam 06.30 pagi sama H-6 jam sebelum deadline nutup!”
+Bahasa tongkrongan kampus, menekankan pada manfaat praktis dan kemudahan input tabel tanpa menyebut struktur backend atau webhook.
+Technical Peer (Rekan ngoding Python / Developer di STEI)
+“Bot Telegram ini jalan pake scheduler (cron job) yang nge-query tabel penyimpanan tugas (Sheets/Notion API) setiap pukul 06.30 WIB dan interval window H-6 jam deadline, lalu mengurutkan output payload berdasarkan skor bobot dan sisa waktu sebelum menembak pesan via Telegram Bot API.”
+Menggunakan terminologi rekayasa perangkat lunak yang presisi (scheduler, cron job, query, payload, API) agar arsitektur sistem langsung terbayang dalam satu kalimat.
+Koordinator Akademik / Pengurus Angkatan (BPA)
+“Sistem otomatisasi pengingat via Telegram ini membaca tabel jadwal dan tenggat tugas di Sheets/Notion yang diisi pengguna, mengurutkan prioritas berdasarkan bobot dan sisa waktu, lalu mengirim notifikasi terjadwal pada pukul 06.30 pagi dan 6 jam sebelum tenggat berakhir, sehingga mahasiswa lebih mudah memantau tugas.”
+Fokus pada keandalan dan keteraturan sistem (sumber data, kriteria prioritas, jadwal kirim) tanpa mengklaim dampak yang belum terukur.
+Public / Mahasiswa Pengguna Baru
+“Layanan Bot Pengingat Akademik ini membantu Anda memantau jadwal kuliah dan batas waktu tugas secara otomatis di Telegram. Berdasarkan data jadwal yang Anda isikan pada tabel lembar kerja (Sheets/Notion), bot akan mengirimkan urutan tugas terpenting berdasarkan bobot dan sisa waktu setiap pukul 06.30 WIB serta pengingat akhir 6 jam sebelum waktu pengumpulan habis.”
+Bahasa panduan layanan yang netral, sopan, menjelaskan input-proses-output secara transparan tanpa jargon koding maupun bahasa slang.
+Evidence Understanding (Feedback, Adaptasi, & Tindak Lanjut)
+Saya melakukan uji coba kalimat draf awal versi Friend kepada rekan saya (Alya) yang berasal dari luar jurusan IT, tanpa memberi penjelasan tambahan di awal.
+Respons Target (19:12:30): Alya langsung mengerti fungsi pengingat jam 06.30 pagi dan H-6 jam deadline, namun ia bertanya: “itu bot-nya bisa tau daftar deadline tugas gue dari mana? gue harus ngetik manual di chat telegramnya atau dia nyedot otomatis dari web kampus?”
+Adaptasi (19:14:15–19:15:20): Pertanyaan Alya menyadarkan saya bahwa frasa “di daftar kita” pada draf awal belum menjelaskan sumber datanya secara konkret. Saya langsung merevisi kalimat tersebut (serta memastikan kelima versi di tabel portofolio) menyebutkan tabel Sheets/Notion yang terhubung. Pada pukul 19:16:10, Alya mengonfirmasi bahwa alurnya sudah 100% jelas dan meminta tautan bot-nya.
+Kesepakatan & Tindak Lanjut Nyata (19:17:02 & Keesokan Paginya): Menindaklanjuti permintaan Alya, kami sepakat untuk langsung menyambungkan tabel Google Sheets tugas miliknya malam itu juga untuk diuji coba pada pengiriman otomatis besok pagi pukul 06.30 WIB. Keesokan paginya (17 April pukul 06.33 WIB), Alya mengabari bahwa notifikasi urutannya berhasil masuk tepat waktu.
+Analisis dan Batas Penggunaan AI
+Saya menggunakan AI untuk mengecek apakah kelima versi kalimat di tabel akhir telah memuat empat fakta kunci: (1) platform Telegram, (2) membaca sumber tabel data jadwal/tugas, (3) pengelompokan prioritas bobot/sisa waktu, dan (4) waktu kirim pukul 06.30 WIB & H-6 jam.
+Batasan (Authority): Saat menyusun versi Technical Peer, AI sempat menyarankan penambahan kalimat “menggunakan model Natural Language Processing (NLP) berbasis LLM untuk membaca instruksi tugas”. Saya menolak dan memotong klaim tersebut karena logika pemilahan prioritas di bot saya menggunakan algoritma pembobotan aturan terstruktur (rule-based scoring dari selisih waktu dan bobot), bukan model LLM.
+Self-assessment
+Dimensi
+Skor
+Alasan terhadap descriptor rubrik
+Person & Character
+3
+Lima target dibedakan sesuai kebutuhan masing-masing dengan alasan, tetapi belum ada analisis risiko salah paham atau relasi kuasa antar target, dan baru satu target yang diuji.
+Objective & State
+4
+Keempat fakta inti (Telegram, sumber tabel, logika prioritas, waktu kirim) hadir di kelima versi tanpa klaim dampak tambahan.
+Repertoire, Language & AI
+4
+Code-switching dari cron job/API ke bahasa sehari-hari, pengecekan empat fakta kunci, dan penolakan klaim NLP/LLM yang tidak benar.
+Response & Adaptation
+4
+Pertanyaan Alya tentang sumber data langsung diterjemahkan menjadi revisi kalimat dan dikonfirmasi jelas.
+Agreement, Action & Relationship
+4
+Tindak lanjut nyata: template tabel dikirim, Alya mengisi tugasnya, dan notifikasi pagi terkonfirmasi masuk.
+Total: 19/20.
+Konteks performance
+Tanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+Persons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+Objective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+Evidence
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Ganti dengan analisis Anda.
+Objective & state
+Ganti dengan analisis Anda.
+Repertoire & language
+Ganti dengan analisis Anda.
+Response & adaptation
+Ganti dengan analisis Anda.
+Agreement/action
+Ganti dengan analisis Anda.
+Relationship outcome
+Ganti dengan analisis Anda.
+Penggunaan AI
+Nyatakan Tidak menggunakan AI atau jelaskan:
+alat dan peran AI;
+prompt atau instruksi penting;
+bagian output yang digunakan, diubah, atau ditolak;
+pemeriksaan accuracy, privacy, dan authority;
+apa yang tetap Anda pelajari sebagai manusia.
+Feedback dan tindak lanjut
+Feedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.
+Adaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.
+Next practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+—
+Objective & State
+—
+Repertoire, Language & AI
+—
+Response & Adaptation
+—
+Agreement, Action & Relationship
+—
+Total: — / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Evidence Tambahan
+Catatan privasi: sebagian jam dan menit pada log chat disamarkan demi privasi. Isi pesan dikutip langsung dari percakapan; karena itu klaim durasi pada dokumen ini bersifat perkiraan.
+Bukti Transkrip Chat Uji Terjemahan Bahasa & Tindak Lanjut Pemakaian Bot (Teks Asli Utuh + Chat Lanjutan): > [16/04/26, 19:10:05] Fayza: al, aku lagi ngetes cara jelasin bot Telegram pengingat tugas yang baru aku bikin nih. kalau kamu baca kalimat ini doang, kamu langsung paham cara kerjanya ga? > [16/04/26, 19:10:45] Fayza: “Gue bikin bot Telegram penyelamat hidup nih. Jadi semua jadwal kelas sama deadline tugas di daftar kita bakal diurutin otomatis mana yang paling mepet & gede bobotnya, terus bot-nya bakal nge-chat kita tiap jam 06.30 pagi sama H-6 jam sebelum deadline nutup!” > [16/04/26, 19:12:30] Alya: wah sumpah butuh banget gue yang suka lupa kuis edunex wkwk. fungsi pengingat jam setengah 7 pagi sama H-6 jamnya jelas banget kok fay. cuma gue bingung satu hal: itu bot-nya bisa tau daftar deadline tugas gue dari mana? gue harus ngetik manual di chat telegramnya atau dia nyedot otomatis dari web kampus? > [16/04/26, 19:14:15] Fayza: nahhh untung aku nanya kamu! bagian “di daftar kita” tadi kurang jelas ya sumber inputnya. itu sebenernya nyambung ke tabel Notion/Google Sheets yang kita isi, belum nyedot langsung dari server kampus > [16/04/26, 19:15:20] Fayza: kalau aku revisi jadi: “Cukup catat jadwal & deadline tugasmu di tabel Sheets/Notion yang terhubung, bot Telegram ini bakal otomatis ngurutin mana yang paling darurat dan nge-chat kamu tiap jam 06.30 pagi plus H-6 jam sebelum deadline nutup!” -> kalau gini masih ada yang bikin bingung ga? > [16/04/26, 19:16:10] Alya: nah kalau disebutin tinggal isi di tabel Sheets/Notion gitu langsung kebayang 100% alurnya fay! gas bagi link bot-nya dong wkwk > [16/04/26, 19:17:02] Fayza: boleh banget! ini aku kirim link template google sheets-nya ya, coba malem ini kamu masukin 2 atau 3 tugas minggu ini terus klik start di bot telegramnya. besok pagi jam 06.30 kabarin aku ya notifnya beneran masuk apa ngga > [16/04/26, 19:18:15] Alya: siap udah gue copy template sheets-nya dan barusan gue isi jadwal kuis sama tugas makalah besok. besok pagi gue kabarin! > [17/04/26, 06:33:40] Alya: fayzaaa beneran bunyi dong telegram gue jam 06.30 teng!! mana langsung diurutin kuis gue yang siang ini paling atas. makasih banyak weh kepake banget ini mah > [17/04/26, 06:35:10] Fayza: yey alhamdulillah jalan lancar! kalo ada bug atau masukan bilang aja ya al
+CatatanPenilaian Asesor
+Skor: - / 20 Evidence yang mendukung: - Prioritas perbaikan: - Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Relationship Conversation
+Discovery Interview Journal
+Portfolio KIPP-2 · Fayza Kamilia
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://g7zel.github.io/kipp-students/index.html
+- https://g7zel.github.io/kipp-students/assets/logo.png
+- https://g7zel.github.io/kipp-students/course/index.html
+- https://g7zel.github.io/kipp-students/portfolio/index.html
+- https://g7zel.github.io/kipp-students/examples/index.html
+- https://g7zel.github.io/kipp-students/lk/index.html
+- https://g7zel.github.io/kipp-students/slides.html
+- https://g7zel.github.io/kipp-students/slides-pdf/index.html
+- https://g7zel.github.io/kipp-students/assessment/index.html
+- https://g7zel.github.io/kipp-students/about.html
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html
+- https://g7zel.github.io/kipp-students/portfolio/week-01.html
+- https://g7zel.github.io/kipp-students/portfolio/week-02.html
+- https://g7zel.github.io/kipp-students/portfolio/week-03.html
+- https://g7zel.github.io/kipp-students/portfolio/week-05.html
+- https://g7zel.github.io/kipp-students/portfolio/week-06.html
+- https://g7zel.github.io/kipp-students/portfolio/week-07.html
+- https://g7zel.github.io/kipp-students/portfolio/week-08.html
+- https://g7zel.github.io/kipp-students/portfolio/week-09.html
+- https://g7zel.github.io/kipp-students/portfolio/week-10.html
+- https://g7zel.github.io/kipp-students/portfolio/week-11.html
+- https://g7zel.github.io/kipp-students/portfolio/week-12.html
+- https://g7zel.github.io/kipp-students/portfolio/week-13.html
+- https://g7zel.github.io/kipp-students/portfolio/week-14.html
+- https://g7zel.github.io/kipp-students/portfolio/week-15.html
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#kompetensi-target
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#core-meaning
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#lima-versi-language
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#evidence-understanding-feedback-adaptasi-tindak-lanjut
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#analisis-dan-batas-penggunaan-ai
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#self-assessment
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#konteks-performance
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#evidence
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#analisis-komunikasi
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#penggunaan-ai
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#feedback-dan-tindak-lanjut
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#self-assessment-1
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#assessment-dosen
+- https://g7zel.github.io/kipp-students/portfolio/week-04.html#evidence-tambahan
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

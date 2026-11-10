@@ -1,0 +1,196 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 969
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP 2026
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+1. Pemetaan Barrier & Authority (Desire–Action Gap)
+2. Negosiasi Posisi vs. Kepentingan & Pilihan Solusi
+Alternatif Solusi & Trade-off:
+3. Formula Kesepakatan Presisi (Explicit Agreement)
+4. Evidence Transkrip Dialog, Action Checkpoint & Penggunaan AI
+Transkrip 1: Negosiasi Batas Wewenang & Kesepakatan Awal (15 Oktober 2026)
+Transkrip 2: Checkpoint H-2 & Adaptasi Risiko (18 Oktober 2026)
+Transkrip 3: Peninjauan Akhir & Handover Hasil Pilot (24 Oktober 2026)
+Catatan Deklarasi Penggunaan AI
+5. Self-Assessment
+Assessment dosen
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas.
+Agreement dengan owner/deadline serta bukti action atau review.
+TipLihat contoh pengisian
+Buka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+1. Pemetaan Barrier & Authority (Desire–Action Gap)
+Dalam pelaksanaan pilot Sistem Presensi & Reservasi Alat Laboratorium Komputer, ditemukan bahwa tingginya keinginan (desire) dari pengelola lab belum otomatis menghasilkan tindakan (action) karena terhambat wewenang dan perizinan teknis. Niat baik dan semangat saja tidak cukup tanpa wewenang eksplisit serta kepastian administratif.
+Barrier (Penghalang)
+Person dengan Authority
+Respons & Rencana Aksi
+Wewenang Penggunaan Data NIM & SSO
+Kepala Laboratorium (Dr. Hendra)
+Menyetujui lingkup akses data agar aman dari risiko pelanggaran privasi.
+Technical Clearance & Port Server
+Tim TI Fakultas (Pak Aris)
+Melakukan audit keamanan skrip dan memberi izin penempatan di server lokal.
+Jadwal Verifikasi Fisik Asisten
+Koordinator Aslab (Rian)
+Membagi jadwal piket asisten lab untuk memandu pengguna di lokasi.
+Pengembangan Dashboard & Integrasi QR
+Lead Developer (Olsen)
+Mengembangkan modul reservasi dan menyajikan laporan analitik.
+Sebelumnya, tim keliru meminta asisten lab menyetujui sistem secara keseluruhan, padahal wewenang keputusan final berada di tangan Kepala Laboratorium.
+2. Negosiasi Posisi vs. Kepentingan & Pilihan Solusi
+Mengatasi bahaya bahasa menggantung (“nanti dibicarakan” atau “diusahakan yang terbaik”), dilakukan pemetaan antara tuntutan kaku (posisi) dan kebutuhan mendasar (kepentingan):
+Posisi Laboratorium: “Sistem tidak boleh dihubungkan ke server sebelum ada jaminan 100% bebas kebocoran data.”
+Kepentingan Laboratorium: Menjaga kerahasiaan data pribadi mahasiswa dan mencegah komplain jika sistem down saat praktikum.
+Posisi Tim Mahasiswa: “Kami butuh integrasi langsung dengan database server fakultas minggu ini.”
+Kepentingan Tim Mahasiswa: Menguji fungsionalitas reservasi alat secara nyata dengan pengguna riil.
+Alternatif Solusi & Trade-off:
+Pilot 5 Hari, 1 Ruang Lab (Opsi Terpilih): Risiko teknis rendah, cakupan pengujian terbatas di 1 lab, namun evidence validasi cukup untuk membuktikan mechanism solution.
+Implementasi Penuh 1 Semester (Seluruh Lab): Evidence sangat kuat, namun risiko teknis tinggi dan membutuhkan review keamanan TI yang lama.
+Uji Coba Luring Tanpa Integrasi SSO: Cepat dijalankan, tetapi tidak menguji integrasi autentikasi sistem.
+3. Formula Kesepakatan Presisi (Explicit Agreement)
+Guna memastikan kesepakatan operasional yang terukur dan bebas istilah kabur, dirumuskan Agreement Formula sebagai berikut:
+Scope & Batas: Pilot reservasi 5 unit PC spesifikasi tinggi di Lab Komputer 1 selama periode 20–24 Oktober 2026.
+Owner & Tanggung Jawab: Olsen menyempurnakan skrip token QR; Pak Aris (TI) melakukan audit skrip autentikasi; Rian (Aslab) memandu alur check-in.
+Deadline: Audit keamanan selesai Rabu, 18 Oktober 2026 pukul 14:00 WIB; Keputusan Go/No-Go Kamis, 19 Oktober 2026 pukul 10:00 WIB.
+Definisi Selesai: 100% login menggunakan hashing token tanpa menyimpan kata sandi/NIM mentah, dan log presensi terekam presisi dalam basis data.
+Stop Rule: Pilot dihentikan seketika jika terjadi kegagalan autentikasi SSO lebih dari 2 kali berturut-turut atau terdeteksi pemicu kerentanan data.
+Mekanisme Review: Peninjauan hasil pilot dilaksanakan pada Jumat, 24 Oktober 2026 pukul 15:00 WIB.
+4. Evidence Transkrip Dialog, Action Checkpoint & Penggunaan AI
+Pelacakan janji mengacu pada lingkar komitmen (Commitment Loop). Seluruh evidence disajikan dalam bentuk transkrip percakapan teks langsung:
+Transkrip 1: Negosiasi Batas Wewenang & Kesepakatan Awal (15 Oktober 2026)
+Dr. Hendra (Kalab): “Saya tidak bisa memberi izin kalau sistem ini langsung mengambil data NIM dan nama mahasiswa ke server utama tanpa verifikasi TI. Itu berisiko.”
+Olsen (Lead Dev): “Kami memahami kekhawatiran Bapak. Bagaimana jika kita tidak menyimpan nama/NIM secara langsung, melainkan menggunakan token anonim berdurasi 2 jam? Kami menargetkan uji coba terbatas di Lab 1 dulu.”
+Dr. Hendra: “Kalau dengan token anonim dan hanya di Lab 1 selama 5 hari, saya setuju. Tapi Pak Aris dari TI harus mengecek kodenya dulu sebelum hari Kamis.”
+Pak Aris (TI): “Siap Pak. Kirimkan repositori kodenya ke saya. Saya kelar audit Rabu jam 14:00 WIB.”
+Transkrip 2: Checkpoint H-2 & Adaptasi Risiko (18 Oktober 2026)
+Pak Aris (TI): “Olsen, hasil audit skrip menemukan bahwa sesi login mahasiswa masih tertinggal di local storage browser lab setelah logout.”
+Olsen: “Baik Pak Aris, terima kasih masukannya. Hari ini juga jam 17:00 WIB saya perbaiki agar sesi otomatis dihapus saat browser ditutup (session cookie).”
+Pak Aris: “Bagus. Jika patch itu sudah dikirim dan lulus pengujian ulang malam ini, izin penempatan di server lokal fakultas saya terbitkan besok pagi.”
+Transkrip 3: Peninjauan Akhir & Handover Hasil Pilot (24 Oktober 2026)
+Rian (Aslab): “Selama 5 hari pilot, ada 42 transaksi reservasi di Lab 1. Seluruhnya berjalan lancar tanpa ada keluhan kebocoran data atau error login.”
+Dr. Hendra: “Hasilnya sangat memuaskan. Kesepakatan awal kita terpenuhi dengan baik. Kita bisa lanjutkan ke tahap pembahasan perluasan lab bulan depan.”
+Catatan Deklarasi Penggunaan AI
+Peranti AI digunakan secara general sebatas untuk membantu menyusun kata-kata, merapikan struktur tata bahasa, serta memformat penyajian Markdown agar sesuai dengan templat portofolio. Seluruh dinamika negosiasi, hambatan wewenang, keputusan teknis, transkrip dialog, dan data transaksi yang dilaporkan murni merupakan pengalaman nyata pribadi di lapangan tanpa rekayasa AI
+5. Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+3
+Membedakan wewenang Kepala Lab, TI, dan Aslab secara tegas tanpa melangkahi hierarki.
+Objective & State
+4
+Menjembatani desire-action gap dengan transkrip negosiasi nyata dan uji kelayakan.
+Repertoire, Language & AI
+3
+Menghindari kata kabur dan menggunakan AI sebatas perapi kalimat tanpa merekayasa fakta.
+Response & Adaptation
+4
+Melakukan perbaikan session cookie saat checkpoint berdasarkan review TI.
+Agreement, Action & Relationship
+4
+Memenuhi seluruh elemen Agreement Formula serta menjaga harmoni relasi jalur ganda (task & relationship track).
+Total: 18/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Olsen Danilson Sitohang
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://cpu-61.github.io/kipp-students/index.html
+- https://cpu-61.github.io/kipp-students/assets/logo.png
+- https://cpu-61.github.io/kipp-students/course/index.html
+- https://cpu-61.github.io/kipp-students/portfolio/index.html
+- https://cpu-61.github.io/kipp-students/examples/index.html
+- https://cpu-61.github.io/kipp-students/lk/index.html
+- https://cpu-61.github.io/kipp-students/slides.html
+- https://cpu-61.github.io/kipp-students/slides-pdf/index.html
+- https://cpu-61.github.io/kipp-students/assessment/index.html
+- https://cpu-61.github.io/kipp-students/about.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-01.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-02.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-03.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-04.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-05.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-06.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-07.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-08.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-09.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-11.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-12.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-13.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-14.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-15.html
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#pemetaan-barrier-authority-desireaction-gap
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#negosiasi-posisi-vs.-kepentingan-pilihan-solusi
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#alternatif-solusi-trade-off
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#formula-kesepakatan-presisi-explicit-agreement
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#evidence-transkrip-dialog-action-checkpoint-penggunaan-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#transkrip-1-negosiasi-batas-wewenang-kesepakatan-awal-15-oktober-2026
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#transkrip-2-checkpoint-h-2-adaptasi-risiko-18-oktober-2026
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#transkrip-3-peninjauan-akhir-handover-hasil-pilot-24-oktober-2026
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#catatan-deklarasi-penggunaan-ai
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://cpu-61.github.io/kipp-students/portfolio/week-10.html#assessment-dosen
+- https://cpu-61.github.io/kipp-students/examples/week-10.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

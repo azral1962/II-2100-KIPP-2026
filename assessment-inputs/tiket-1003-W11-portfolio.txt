@@ -1,0 +1,223 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1003
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Negosiasi tiga anggota tim lomba Interactive Dashboard Creation dengan preferensi tools berbeda (Streamlit, Power BI, Looker Studio), pemetaan position–interest, kesepakatan beserta catatan ketidaksetujuan, dan jadwal evaluasi.
+Kompetensi target
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+Evidence wajib
+Stakeholder person map dan multi-state TAIDA.
+Position–interest analysis, common ground, dan options.
+Negotiation evidence, agreement/dissent, dan relationship review.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 11 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Jumat, 30 Oktober 2026, diskusi di WhatsApp Group tim Interactive Dashboard Creation selama kurang lebih 45 menit, setelah tim membaca guidebook lomba secara lebih teliti. Deadline lomba: Sabtu, 28 November 2026.
+Persons dan relationship: Saya (Rosi), Anggota A, dan Anggota B, satu tim dengan posisi setara. Pada Week 10 tim masih merencanakan output berupa PPT; guidebook ternyata mewajibkan dashboard interaktif sebagai output utama, sehingga peran dan cara kerja harus dinegosiasikan ulang.
+Objective dan initial state: Memfasilitasi keputusan bersama tentang tools dashboard dan pembagian tanggung jawab baru, tanpa membuat beban kerja timpang dan tanpa memaksakan preferensi saya sendiri. Initial state: tiga anggota memegang tiga preferensi berbeda, belum ada kriteria bersama untuk memilih, dan pembagian kerja Week 10 tidak lagi sesuai output lomba.
+Evidence
+Catatan1. Stakeholder Person Map & Multi-State TAIDA
+Person
+Position
+Interest / constraint
+Authority
+State terhadap Streamlit (awal → akhir)
+Saya (Rosi)
+“Pakai Streamlit”
+Dashboard fleksibel, interaksi bisa disesuaikan, dikembangkan dengan Python; waktu terbatas dan kemampuan teknis anggota berbeda
+Mengusulkan opsi, menyusun struktur dashboard, mengoordinasikan pembagian kerja; keputusan akhir milik tim
+Desire → Action
+Anggota A
+“Pakai Power BI”
+Tools terstruktur dengan visualisasi memadai tanpa membangun semuanya dari awal; khawatir coding memakan waktu dan menumpuk di satu orang
+Menentukan kesediaannya memegang pengolahan data dan visualisasi
+Attention (mengakui fleksibilitas, ragu pada beban coding) → Action bersyarat
+Anggota B
+“Pakai Looker Studio”
+Pengerjaan praktis dan mudah diakses semua anggota; tidak ingin waktu tim habis untuk belajar tools baru
+Menentukan bagian analisis yang sanggup dikerjakan dan menilai kemudahan penggunaan dashboard
+Attention → Action dengan dissent
+Common ground: ketiganya ingin dashboard sesuai ketentuan lomba, selesai sebelum 28 November 2026, dan beban kerja tidak menumpuk di satu orang.
+2. Negotiation Evidence
+Rekonstruksi percakapan WhatsApp Group (berdasarkan catatan saya):
+Anggota A: “Menurutku lebih baik Power BI saja. Fiturnya sudah cukup lengkap untuk visualisasi dan kita tidak perlu membuat semuanya dari awal.”
+Anggota B: “Aku lebih setuju Looker Studio. Kalau pakai itu, pengerjaannya bisa lebih praktis dan kita bisa lebih fokus ke isi dashboard.”
+Saya: “Kalau Streamlit, kita bisa lebih bebas menentukan interaksi dan tampilan dashboard. Tapi memang perlu mempertimbangkan waktu pengerjaannya.”
+Anggota A: “Masalahnya, kalau kita pakai Streamlit, siapa yang nanti mengerjakan bagian coding-nya? Jangan sampai akhirnya hanya satu orang yang mengerjakan semuanya.”
+Saya: “Iya, itu juga perlu dipikirkan. Aku tidak ingin pemilihan tools justru membuat pembagian kerja jadi tidak seimbang.”
+Anggota B: “Kalau begitu, jangan hanya mempertimbangkan fitur. Kita juga harus melihat mana yang paling realistis untuk diselesaikan sebelum deadline.”
+Fasilitasi yang saya lakukan:
+Merangkum kepentingan tiap anggota: A butuh tools terstruktur, B butuh kemudahan pengerjaan, saya butuh fleksibilitas interaksi.
+Mengganti dasar perdebatan dari “tools paling bagus” menjadi tiga kriteria bersama: kesesuaian dengan ketentuan lomba, waktu pengerjaan, dan kemampuan anggota.
+Menjawab kekhawatiran A secara langsung: siapa yang memegang coding harus jelas sebelum tools diputuskan.
+3. Options, Agreement & Dissent
+Opsi
+Kelebihan
+Trade-off
+Power BI
+Visualisasi lengkap dan terstruktur
+Fleksibilitas pengembangan interaksi tertentu terbatas
+Looker Studio
+Praktis dan mudah diakses semua anggota
+Penyesuaian interaksi terbatas
+Streamlit
+Fleksibilitas interaksi dan tampilan paling besar
+Butuh waktu menulis, menguji, dan memperbaiki kode
+Keputusan: Streamlit sebagai tools utama, dengan pembagian tanggung jawab yang menjawab kekhawatiran beban coding:
+Saya: mengintegrasikan dashboard di Streamlit, mengatur struktur tampilan dan interaksi (bagian coding dipegang saya, bukan dibebankan ke anggota lain).
+Anggota A: memeriksa kualitas data, mengolah data, dan menyiapkan visualisasi yang dibutuhkan.
+Anggota B: menyusun analisis, menentukan informasi utama yang ditampilkan, dan menguji kemudahan penggunaan dashboard.
+Agreement dan dissent yang dicatat:
+Anggota A: setuju dengan syarat struktur dan kebutuhan dashboard ditentukan sejak awal agar tidak ada perubahan besar saat pengembangan.
+Anggota B: menerima keputusan, tetapi tetap lebih menyukai Looker Studio karena dianggap lebih praktis. Catatan ini dipertahankan, bukan dihapus demi kesan konsensus.
+4. Evaluation Threshold & Review
+Evaluasi pertama disepakati Senin, 2 November 2026, di WhatsApp Group, dengan ukuran:
+Streamlit sudah bisa dipakai untuk mulai membangun dashboard dan struktur awal sudah saya siapkan.
+Anggota A sudah menyelesaikan pemeriksaan dan pengolahan awal dataset.
+Anggota B sudah menyusun rancangan informasi dan visualisasi yang akan ditampilkan.
+Setiap anggota memahami tanggung jawab dan targetnya, dan tidak ada yang merasa bebannya terlalu besar.
+Stop rule: jika pada evaluasi pertama muncul kendala teknis, pembagian kerja tidak seimbang, atau Streamlit ternyata sulit diselesaikan sesuai tenggat, tim membahas penyederhanaan fitur atau meninjau ulang tools, termasuk opsi yang dipilih Anggota B.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Tiga anggota dipetakan dengan position, interest, constraint, dan authority masing-masing; peran berubah dari pembagian Week 10 karena output lomba ternyata dashboard.
+Objective & state
+Beberapa objective dikelola sekaligus (sesuai guidebook, selesai tepat waktu, beban seimbang), dan state tiap anggota dibaca terpisah, bukan sebagai satu kelompok.
+Repertoire & language
+Saya merangkum kepentingan, mengubah perdebatan preferensi menjadi kriteria bersama, lalu membandingkan opsi dengan trade-off yang eksplisit.
+Response & adaptation
+Pertanyaan A soal siapa yang coding mengubah keputusan: Streamlit hanya bisa diterima kalau coding dipegang saya dan bagian lain dibagi jelas.
+Agreement/action
+Keputusan, syarat dari A, dissent dari B, ukuran evaluasi, jadwal review 2 November, dan stop rule tercatat.
+Relationship outcome
+B tidak dipaksa berpura-pura setuju; preferensinya tetap tercatat dan menjadi opsi cadangan, sehingga tidak ada anggota yang merasa kalah suara.
+Penggunaan AI
+AI (Claude) digunakan setelah diskusi untuk menyusun catatan saya ke format portofolio dan memetakan position–interest tiap anggota. Pilihan tools, kriteria, pembagian kerja, syarat dari A, dan dissent dari B berasal dari diskusi tim; AI tidak dipakai untuk memilih tools.
+Feedback dan tindak lanjut
+Feedback yang diterima: Anggota A mengingatkan bahwa keputusan harus mempertimbangkan kemampuan seluruh anggota, bukan hanya kemampuan orang yang mengerjakan bagian teknis.
+Relationship review & repair: di awal diskusi saya terlalu cepat menjelaskan kelebihan Streamlit dan lebih banyak bicara sebelum memahami kekhawatiran A dan B. Setelah A menyinggung beban coding, saya berhenti mempromosikan Streamlit, memberi ruang A dan B menyampaikan pertimbangannya, lalu merangkum ulang pendapat mereka sebelum mengajukan keputusan.
+Next practice: saat saya punya preferensi sendiri dalam diskusi kelompok, tanyakan dulu kriteria dan kekhawatiran tiap anggota sebelum menyampaikan pilihan saya.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Position, interest, constraint, dan authority tiga anggota dipetakan; perubahan peran dari Week 10 dibaca dari perubahan output lomba.
+Objective & State
+4
+Beberapa objective dan multi-state TAIDA dikelola, termasuk state awal dan akhir tiap anggota.
+Repertoire, Language & AI
+4
+Ringkasan kepentingan, reframing ke kriteria bersama, dan perbandingan opsi dengan trade-off; AI dibatasi pada penyusunan catatan.
+Response & Adaptation
+4
+Kekhawatiran beban coding mengubah syarat keputusan menjadi pembagian kerja yang memisahkan coding dari pengolahan data dan analisis.
+Agreement, Action & Relationship
+4
+Keputusan, syarat, dissent, threshold evaluasi, jadwal review, stop rule, dan repair relasi tercatat.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Action & Agreement Challenge
+Community Communication Challenge
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-11.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

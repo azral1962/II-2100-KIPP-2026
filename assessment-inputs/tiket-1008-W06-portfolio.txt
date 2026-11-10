@@ -1,0 +1,223 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1008
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://lvdis29.github.io/kipp-suci/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Target–Attention Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Discovery Interview Journal
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Target Map
+Attention Pitch & Evidence
+Naskah Pitch (Kepada Kasir/Penjual Stan Kantin)
+Evidence Pendukung
+Response dan State Assessment
+Respons Target
+State Assessment
+Adaptasi Percakapan
+Refleksi dan Evidence Portofolio
+Self-Assessment
+Lampiran: Lembar Kerja Bab 06 — Tiga Pitch untuk Tiga Pihak
+Langkah 1: Draf Masalah Kampus
+Langkah 2: Pemetaan Tiga Pihak Sasaran
+Langkah 3: Tiga Draf Pitch Perhatian (Maksimal 45 Kata)
+Langkah 4: Simulasi Lapangan & Umpan Balik Rekan (90 Detik)
+Langkah 5: Refleksi Mandiri
+Target–Attention Challenge
+TAIDA
+Attention
+Target map, attention pitch tiga pihak, respons lapangan, dan evaluasi perubahan state TAIDA.
+Kompetensi Target
+Memilih target person yang tepat dan membuat isu diakui relevan melalui evidence tanpa manipulasi, pemaksaan, maupun generalisasi berlebihan.
+Target Map
+Pihak / Sasaran
+Relevance
+Authority
+Current State
+Staf Kasir / Penjual Tenant Kantin (Operator)
+Menghadapi bottleneck antrean pembayaran dan penyiapan makanan saat jam puncak
+Berwenang mengatur alur pemesanan langsung dan antrean fisik di stan
+Problem Aware
+Mahasiswa Pembeli (User)
+Terdampak waktu tunggu makan siang yang memotong jam istirahat dan kelas
+Memilih stan atau waktu makan, serta menguji solusi alur pesanan
+Problem Aware
+Pengelola Sarana Kantin Kampus (Decision Maker)
+Bertanggung jawab atas ketertiban, kenyamanan, dan perputaran fasilitas umum
+Berwenang menata ulang zonasi antrean, display menu, atau sistem pembayaran terpusat
+Unaware / Netral
+Alasan Memilih Target Awal: Target awal yang dipilih adalah Staf Kasir / Penjual Stan Kantin (Operator). Operator stan merasakan langsung tekanan jam sibuk dan kekacauan nomor antrean. Memvalidasi masalah pada tingkat operator memastikan akar kendala dipahami—apakah pada durasi memasak, lamanya pembayaran tunai/QRIS, atau penumpukan antrean fisik—sebelum mengajukan perubahan tata kelola ke pihak pengelola kantin kampus.
+Attention Pitch & Evidence
+Naskah Pitch (Kepada Kasir/Penjual Stan Kantin)
+“Pada pukul 12.00–12.40, antrean stan mencapai 18 orang dengan waktu tunggu rata-rata 16 menit per pesanan. Banyak mahasiswa akhirnya batal memesan karena terburu-buru masuk kelas. Bolehkah kita memeriksa apakah antrean bisa diurai dengan pemisahan jalur pemesanan dan pengambilan?” (39 kata)
+Evidence Pendukung
+Observasi Lapangan: Pengamatan mandiri selama 3 hari berturut-turut pada pukul 11.45–12.45 di stan makanan favorit kantin mencatat rata-rata 15–20 mahasiswa mengantre dalam satu deret campur antara yang memesan, membayar, dan menunggu piring jadi.
+Keterbatasan Data: Data baru mencakup satu stan makanan berat pada jam puncak istirahat siang; belum mencakup stan minuman atau jam di luar pukul 12.00–13.00.
+Response dan State Assessment
+Respons Target
+“Kalau jam 12 memang selalu ramai dan kami kewalahan melayani. Tapi antrean lama itu sering kali karena pembeli baru memilih lauk atau baru membuka aplikasi QRIS tepat di depan kasir saat gilirannya tiba, bukan karena masaknya lambat.”
+State Assessment
+Target mengakui adanya masalah penumpukan antrean (problem aware), namun memberikan koreksi atas asumsi penyebabnya. State target berpindah ke Attention with Reservation (memperhatikan isu, tetapi menggarisbawahi bahwa sumber perlambatan berasal dari ketidaksiapan pembeli saat di kasir).
+Adaptasi Percakapan
+Menanggapi masukan tersebut, fokus percakapan dialihkan dari penataan dapur ke percepatan kesiapan pembeli:
+“Penjelasan Bapak/Ibu sangat masuk akal; hambatannya ada pada keputusan menu dan persiapan bayar di kasir. Bagaimana jika kita pasang papan menu dan kode QRIS lebih awal di sepanjang jalur antrean agar pembeli siap bayar sebelum sampai di depan meja?”
+Perubahan Sasaran Dialog: Dari penataan ulang operasional dapur menjadi eksperimen sederhana berupa pemasangan daftar menu dan kode bayar di titik tunggu antrean.
+Refleksi dan Evidence Portofolio
+Target Map Dinamis: Diperbarui pasca-dialog; Pengelola Kantin Kampus tetap disimpan sebagai sasaran sekunder, namun intervensi difokuskan terlebih dahulu pada nudging pembeli di stan spesifik.
+Batasan dan Etika: Observasi waktu tunggu dilakukan tanpa mengganggu jalannya transaksi kasir dan tidak mengambil dokumentasi foto wajah pembeli demi menjaga privasi.
+Peran AI: Digunakan untuk memangkas jumlah kata naskah agar tidak melampaui batas 45 kata, memisahkan fakta terukur (18 orang, 16 menit) dari interpretasi personal, serta menyusun struktur dialog berbasis bukti.
+Self-Assessment
+Dimensi
+Skor
+Evidence Singkat
+Person & Character
+3
+Sasaran dipilih berdasarkan pihak yang menanggung beban operasional harian terberat di lapangan.
+Objective & State
+3
+Mengidentifikasi state awal sasaran dan langsung memperbaruinya saat kasir menyampaikan reservasi.
+Repertoire, Language & AI
+4
+Naskah sangat ringkas (39 kata), memuat angka konkret terukur, dan diakhiri pertanyaan periksa non-konfrontatif.
+Response & Adaptation
+3
+Tanggap terhadap sanggahan operator tanpa mendebat, lalu menyesuaikan fokus ide ke kesiapan menu pembeli.
+Agreement, Action & Relationship
+3
+Menyepakati uji coba pemasangan kertas menu di antrean luar selama 2 hari operasional.
+Total Skor: 16/20 — Cakap.
+Lampiran: Lembar Kerja Bab 06 — Tiga Pitch untuk Tiga Pihak
+Langkah 1: Draf Masalah Kampus
+Pada jam makan siang pukul 12.00–13.00, rata-rata waktu tunggu antrean kantin mencapai 16 menit akibat bercampurnya jalur pemesanan dan pembayaran, menyebabkan penumpukan fisik dan keterlambatan mahasiswa masuk ke sesi kuliah berikutnya.
+Langkah 2: Pemetaan Tiga Pihak Sasaran
+Dimensi Analisis
+Pihak 1: Pengguna (User)
+Pihak 2: Pelaksana (Operator)
+Pihak 3: Pengambil Keputusan (Decision Maker)
+Siapa Perannya?
+Mahasiswa Pembeli (diperankan oleh Fayza)
+Staf Kasir / Penjual Stan Kantin
+Pengelola Sarana dan Fasilitas Kantin Kampus
+Apa Tujuannya?
+Mendapatkan makan siang dengan cepat dan tenang tanpa khawatir terlambat masuk kelas.
+Memproses transaksi pesanan secara cepat, rapi, dan tanpa selisih hitungan di jam padat.
+Menjaga ketertiban sirkulasi pengunjung, sanitasi ruang kantin, dan perputaran omzet stan.
+Apa Hambatan Utamanya?
+Waktu jeda antarkelas yang sempit (hanya 30–45 menit) dan ketidakpastian panjang antrean.
+Keterbatasan area stan, konsentrasi terpecah antara melayani dan memasak, serta pembeli yang lambat bayar.
+Keterbatasan anggaran renovasi tata letak kantin dan keengganan mengubah kebiasaan alur gerak stan.
+State TAIDA Awal
+Problem Aware (mengeluhkan waktu antre yang lama).
+Problem Aware (merasa lelah dan tertekan saat jam makan siang).
+Unaware / Netral (menganggap kepadatan kantin di jam siang adalah fenomena wajar).
+Langkah 3: Tiga Draf Pitch Perhatian (Maksimal 45 Kata)
+Pitch 1: Pengguna (User — Fayza)
+Fokus Relevansi: Efisiensi waktu istirahat dan kepastian agar tidak terlambat masuk kelas.
+Draf Pitch: > “Kemarin antrean makan siang mencapai 16 menit dan membuat beberapa teman terburu-buru masuk kelas siang. Ada kemungkinan memangkas waktu tunggu jika kita memilih menu sebelum tiba di kasir. Apakah ide alur ini layak kita coba bersama?”
+Jumlah Kata: 37 kata.
+Pitch 2: Pelaksana (Operator)
+Fokus Relevansi: Pengurangan beban stres kerja saat jam puncak dan kelancaran alur kasir.
+Draf Pitch: > “Pada pukul 12.00–12.40, antrean stan mencapai 18 orang dengan waktu tunggu rata-rata 16 menit per pesanan. Banyak mahasiswa akhirnya batal memesan karena terburu-buru masuk kelas. Bolehkah kita memeriksa apakah antrean bisa diurai dengan pemisahan jalur pemesanan dan pengambilan?”
+Jumlah Kata: 39 kata.
+Pitch 3: Pengambil Keputusan (Decision Maker)
+Fokus Relevansi: Ketertiban lorong kantin, keselamatan sirkulasi, dan peningkatan kapasitas layanan.
+Draf Pitch: > “Penumpukan antrean di lorong tengah kantin menghalangi akses jalan utama selama 45 menit setiap siang hari. Ada peluang menata alur tunggu satu arah tanpa biaya renovasi fisik. Apakah alternatif penataan sirkulasi ini bisa kita diskusikan bersama?”
+Jumlah Kata: 36 kata.
+Langkah 4: Simulasi Lapangan & Umpan Balik Rekan (90 Detik)
+Mitra Simulasi: Fayza (berperan sebagai sasaran bergantian)
+Catatan Umpan Balik Rekan (Fayza) untuk Pitch Pengguna: > “Ketika Anda menyampaikan bagian ‘membuat beberapa teman terburu-buru masuk kelas siang’, saya mengamati respons nonverbal saya berupa anggukan tegas dan kontak mata langsung. Hal itu menunjukkan bahwa perhatian saya langsung terbangun karena saya sendiri sering panik menatap jam saat mengantre. Saya menyarankan untuk langsung menyebutkan contoh tindakan riil yang bisa dilakukan mahasiswa di barisan antrean.”
+Catatan Umpan Balik Rekan (Fayza) untuk Pitch Pelaksana: > “Ketika Anda menyebut angka ‘18 orang dengan waktu tunggu rata-rata 16 menit’, saya mengamati respons verbal saya berupa gumaman sepakat (‘Nah itu dia’). Hal itu menunjukkan bahwa data Anda diakui valid oleh penjual. Namun, saat Anda menyinggung pemisahan jalur, saya merasa bingung membayangkan tempatnya yang sempit. Saya menyarankan Anda menegaskan bahwa pemisahan jalur tidak membutuhkan meja tambahan.”
+Catatan Umpan Balik Rekan (Fayza) untuk Pitch Pengambil Keputusan: > “Ketika Anda menutup dengan klausul ‘tanpa biaya renovasi fisik’, saya mengamati ekspresi wajah saya mengendur dan lebih terbuka. Hal itu menunjukkan perhatian saya tetap positif karena pengelola biasanya langsung defensif jika proposal menuntut anggaran baru. Rekomendasi perbaikan: tambahkan estimasi lebar koridor yang bisa dibebaskan.”
+Langkah 5: Refleksi Mandiri
+Analisis Respons: Isyarat verbal berupa kesepakatan langsung terhadap angka observasi (“Nah itu dia, memang kalau jam 12 selalu membeludak”) dan gestur tubuh condong ke depan mengonfirmasi bahwa data yang disajikan menyentuh realitas harian mereka. Sasaran tidak merasa disalahkan atas antrean panjang tersebut.
+Koreksi Asumsi: Awalnya diasumsikan bahwa kelambatan layanan murni disebabkan oleh kecepatan tangan penjual dalam menyajikan makanan. Simulasi dan observasi membuktikan bahwa titik sumbat terbesar justru terjadi di meja kasir ketika pembeli masih menimbang menu atau kesulitan koneksi internet saat memindai QRIS.
+Pelajaran Etika: Perhatian didapatkan tanpa menciptakan desakan palsu atau mempermalukan stan kantin tertentu. Pendekatan dirancang sebagai eksplorasi bersama (mutual inquiry) dengan menguji data empiris secara jujur dan menghormati hak sasaran untuk mengoreksi perspektif kita.
+Kembali ke atas
+Discovery Interview Journal
+Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Eka Suci Ramadhani
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://lvdis29.github.io/kipp-suci/index.html
+- https://lvdis29.github.io/kipp-suci/assets/logo.png
+- https://lvdis29.github.io/kipp-suci/course/index.html
+- https://lvdis29.github.io/kipp-suci/portfolio/index.html
+- https://lvdis29.github.io/kipp-suci/examples/index.html
+- https://lvdis29.github.io/kipp-suci/lk/index.html
+- https://lvdis29.github.io/kipp-suci/slides.html
+- https://lvdis29.github.io/kipp-suci/slides-pdf/index.html
+- https://lvdis29.github.io/kipp-suci/assessment/index.html
+- https://lvdis29.github.io/kipp-suci/about.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-01.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-02.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-03.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-04.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-05.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-07.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-08.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-09.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-10.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-11.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-12.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-13.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-14.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-15.html
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#kompetensi-target
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#target-map
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#attention-pitch-evidence
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#naskah-pitch-kepada-kasirpenjual-stan-kantin
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#evidence-pendukung
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#response-dan-state-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#respons-target
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#state-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#adaptasi-percakapan
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#refleksi-dan-evidence-portofolio
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#self-assessment
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#lampiran-lembar-kerja-bab-06-tiga-pitch-untuk-tiga-pihak
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#langkah-1-draf-masalah-kampus
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#langkah-2-pemetaan-tiga-pihak-sasaran
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#langkah-3-tiga-draf-pitch-perhatian-maksimal-45-kata
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#langkah-4-simulasi-lapangan-umpan-balik-rekan-90-detik
+- https://lvdis29.github.io/kipp-suci/portfolio/week-06.html#langkah-5-refleksi-mandiri
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,169 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 869
+Minggu: 03
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://razkuts.github.io/kipp-students/portfolio/week-03.html
+
+Isi halaman portfolio:
+---
+Relationship Conversation – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Relationship Conversation
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Relationship Conversation
+Fondasi
+Relationship
+Evidence listening, boundary, request, atau repair.
+Kompetensi target
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Evidence wajib
+Transcript atau catatan percakapan.
+Evidence listening dan response.
+Analisis relationship state sebelum dan sesudah.
+Konteks performance
+Tanggal dan setting: 28 September 2026, latihan “Mendengarkan Tanpa Memperbaiki” berpasangan secara langsung dengan Azka.
+Persons dan relationship: Azka, sahabat saya. Azka berperan sebagai Pembicara dan saya sebagai Pendengar.
+Objective dan initial state: Saya ingin hadir penuh dan mendengarkan tanpa langsung memberi solusi. State awal Azka: merasa materi mata kuliah Pemodelan Basis Data sangat sulit dan takut menghadapi ujian. Hubungan kami baik dan saling percaya.
+Evidence
+Jenis evidence: Catatan percakapan (rekonstruksi dari ingatan) dan lembar kerja lk-03.
+Ditulis pada: 1 Oktober 2026 Kejadian: 28 September 2026.
+Catatan: Sesi berlangsung lisan sehingga tidak ada rekaman atau tangkapan layar. Catatan ditulis ulang dari ingatan sekitar dua minggu setelahnya, jadi kalimat berupa parafrasa, bukan kutipan persis.
+Potongan percakapan (parafrasa):
+Azka: Menyampaikan bahwa ia kesulitan di Pemodelan Basis Data, materinya sangat sulit. Saya: “Jadi kamu merasa materinya susah dan kamu takut menghadapi ujian?” Saya: Menanyakan apakah ia ingin didengarkan, dibantu memikirkan pilihan, atau butuh saran. Azka: Memilih butuh saran.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Saya berperan sebagai Pendengar bagi sahabat. Azka diposisikan sebagai orang yang membutuhkan dukungan, bukan orang yang perlu “diperbaiki”.
+Objective & state
+Tujuan saya hadir dan memahami. State awal Azka: kesulitan belajar dan takut menghadapi ujian.
+Repertoire & language
+Saya memakai parafrasa berbentuk pertanyaan konfirmasi untuk mengecek pemahaman, lalu menebak perasaan (takut) dan kebutuhan (dukungan) secara tentatif.
+Response & adaptation
+Saat ditanya kebutuhannya, Azka memilih saran. Ini menunjukkan sahabat tidak selalu hanya ingin didengarkan, sehingga memeriksa kebutuhan lebih dulu berguna.
+Agreement/action
+Tidak ada boundary atau repair dalam sesi ini. Kesepakatan yang terbentuk hanya bahwa kebutuhan Azka (saran) teridentifikasi lewat pertanyaan langsung, bukan asumsi saya.
+Relationship outcome
+Sebelum: Azka cemas soal ujian dan butuh dukungan, hubungan baik. Sesudah: Azka menyampaikan ia merasa paling didengarkan saat membutuhkan bantuan dan tidak menandai momen saya terburu-buru memperbaiki. Ini umpan balik lisan, bukan ukuran objektif perubahan hubungan.
+Penggunaan AI
+Alat dan peran AI: Claude (Anthropic) memandu pengerjaan lewat pertanyaan, merapikan jawaban singkat saya ke format lembar kerja dan portfolio, serta menyusun draf beberapa kalimat refleksi.
+Prompt atau instruksi penting: Meminta AI menanyakan satu per satu berdasarkan lembar kerja Bab 03, lalu menyusun hasilnya.
+Bagian output yang digunakan, diubah, atau ditolak:
+Ditulis sendiri: fakta cerita Azka, parafrasa saya, tebakan perasaan dan kebutuhan, pilihan Azka, umpan balik Azka, dan kebiasaan saya mendengarkan lebih dulu.
+Disusun AI dan saya pakai apa adanya: jawaban Bagian C nomor 1 dan 2 pada lk-03, komitmen 14 hari, dan kalimat pada bagian “Apa yang tetap saya pelajari sebagai manusia” (saya memilihnya dari beberapa opsi yang diusulkan AI).
+Pemeriksaan accuracy, privacy, dan authority: Isi cerita Azka dibatasi pada hal ringan. Catatan ditandai sebagai rekonstruksi dari ingatan.
+Feedback dan tindak lanjut
+Feedback yang diterima: Azka menyampaikan secara lisan bahwa ia merasa paling didengarkan saat ia membutuhkan bantuan, dan tidak menandai momen saya terburu-buru memperbaiki. Ini parafrase dari ingatan saya.
+Adaptation/replay: Saya akan menambahkan pertanyaan terbuka dan memeriksa kebutuhan lawan bicara lebih awal.
+Next practice: Dalam 14 hari ke depan, setiap kali sahabat bercerita tentang masalahnya, saya mendengarkan tanpa memotong. Jika bingung harus merespons apa, saya menyampaikan dengan jujur bahwa saya bingung dan bertanya apakah ia ingin sekadar didengarkan atau dicarikan solusi.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Peran Pendengar dan posisi Azka jelas, analisis karakter masih sederhana.
+Objective & State
+3
+Tujuan dan state awal Azka teridentifikasi, tapi tidak ada ukuran sebelum-sesudah yang terukur.
+Repertoire, Language & AI
+3
+Parafrasa dan tebakan tentatif dipakai, belum ada pertanyaan terbuka tercatat.
+Response & Adaptation
+3
+Kebutuhan Azka dicek langsung dan jawabannya diterima apa adanya.
+Agreement, Action & Relationship
+2
+Tidak ada boundary atau repair, evidence hanya catatan refleksi dan umpan balik lisan.
+Total: 14 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Intra-Self Communication Journal
+Five-Language Translation Portfolio
+Portfolio KIPP-2 · Muhammad Razka Adhitya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://razkuts.github.io/kipp-students/index.html
+- https://razkuts.github.io/kipp-students/assets/logo.png
+- https://razkuts.github.io/kipp-students/course/index.html
+- https://razkuts.github.io/kipp-students/portfolio/index.html
+- https://razkuts.github.io/kipp-students/examples/index.html
+- https://razkuts.github.io/kipp-students/lk/index.html
+- https://razkuts.github.io/kipp-students/slides.html
+- https://razkuts.github.io/kipp-students/slides-pdf/index.html
+- https://razkuts.github.io/kipp-students/assessment/index.html
+- https://razkuts.github.io/kipp-students/about.html
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html
+- https://razkuts.github.io/kipp-students/portfolio/week-01.html
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html
+- https://razkuts.github.io/kipp-students/portfolio/week-05.html
+- https://razkuts.github.io/kipp-students/portfolio/week-06.html
+- https://razkuts.github.io/kipp-students/portfolio/week-07.html
+- https://razkuts.github.io/kipp-students/portfolio/week-08.html
+- https://razkuts.github.io/kipp-students/portfolio/week-09.html
+- https://razkuts.github.io/kipp-students/portfolio/week-10.html
+- https://razkuts.github.io/kipp-students/portfolio/week-11.html
+- https://razkuts.github.io/kipp-students/portfolio/week-12.html
+- https://razkuts.github.io/kipp-students/portfolio/week-13.html
+- https://razkuts.github.io/kipp-students/portfolio/week-14.html
+- https://razkuts.github.io/kipp-students/portfolio/week-15.html
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#kompetensi-target
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#evidence-wajib
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#konteks-performance
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#evidence
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#analisis-komunikasi
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#penggunaan-ai
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#feedback-dan-tindak-lanjut
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#self-assessment
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

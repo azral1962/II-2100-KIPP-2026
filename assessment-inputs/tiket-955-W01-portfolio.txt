@@ -1,0 +1,161 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 955
+Minggu: 01
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://aduadu17.github.io/kipp-students/portfolio/week-01.html
+
+Isi halaman portfolio:
+---
+Character Map – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Character Map
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Lima character
+Episode yang dianalisis
+Perubahan language
+Evidence, AI, dan feedback
+Self-assessment
+Character Map
+Fondasi
+Person
+Evidence person, personality, character, objective, repertoire, language, action, dan relationship.
+Lima character
+Domain dan character
+Person & relationship
+Objective & responsibility
+Repertoire & language
+Risiko dan latihan
+Intra-Self — pembelajar mandiri
+Diri sendiri setelah mendapat evaluasi tugas
+Memahami kekurangan tanpa merasa gagal total
+Catatan reflektif; “Bagian mana yang bisa saya tingkatkan?”
+Self-blame; catat dua poin positif sebelum mencari kekurangan
+Family — anak/kakak
+Adik yang sedang bingung memilih jurusan
+Membantu mengeksplorasi pilihan tanpa memaksakan kehendak
+Pertanyaan terbuka; “Apa yang bikin kamu paling tertarik dari pilihan itu?”
+Menggurui; tanyakan dulu “Mau didengar atau mau minta saran?”
+Work/Academic — anggota kelompok
+Tiga rekan kelompok mata kuliah
+Menyelesaikan bagian tugas tepat waktu dan menjaga alur komunikasi
+Check-in, konfirmasi tertulis; “Gimana progres bagianmu, ada kendala?”
+Berasumsi teman paham; buat tenggat dan kejelasan bagian tugas
+Community — staf acara UKM
+Koordinator divisi dan sesama anggota
+Menjalankan jobdesk teknis sesuai rundown
+Reconfirm, checklist; “Untuk bagian ini sudah clear sesuai jadwal ya?”
+Pasif menunggu arahan; inisiatif bertanya jika ada instruksi ambigu
+Friends — sahabat
+Teman dekat yang sedang kewalahan kuliah
+Memberikan ruang aman untuk bercerita
+Empati, listening; “Kamu butuh tempat cerita atau butuh bantuan solusi?”
+Terlalu cepat memberi saran; fokus dengarkan dulu sampai selesai
+Episode yang dianalisis
+Konteks: Saat kerja kelompok, salah satu anggota belum mengirimkan draf bagiannya padahal sudah mendekati batas waktu penyerahan. Awalnya muncul asumsi bahwa ia menunda pekerjaan. Fakta yang ada: draf belum diunggah ke dokumen bersama.
+Objective: Mendapatkan kejelasan progres dan menentukan langkah penyelesaian bersama tanpa merusak hubungan kelompok.
+Saya: “Halo, untuk draf bagian 2 ada kendala di penyusunannya? Biar bisa kita rapikan bareng sebelum jam 8 malam.”
+Rekan: “Maaf banget, aku sempat bingung olah data grafik di bagian metode.”
+Saya: “Oke, paham. Mau kita bagi dua olah datanya, atau kamu mau pakai contoh format yang sudah ada?”
+Rekan: “Boleh tolong kirim contoh formatnya? Nanti datanya langsung aku masukin sekarang.”
+Respon tersebut mengubah pendekatan dari sekadar menagih menjadi penyelesaian masalah bersama (problem-solving). Kesepakatan akhir: contoh format dikirim, dan draf diselesaikan dalam waktu satu jam.
+Perubahan language
+Saat menjadi sahabat, bahasa yang digunakan lebih kasual dan berfokus pada emosi: “Tenang aja, cerita aja dulu, nggak usah mikirin tugasnya sekarang.”
+Saat menjadi anggota kelompok, bahasa bergeser menjadi lebih terstruktur dan berfokus pada kejelasan tindakan: “Agar dokumen bisa kita edit bareng, kira-kira bagian ini bisa selesai jam berapa?”
+Maksud utamanya tetap sama (peduli dan ingin membantu), tetapi tanggung jawab dan fokus aksinya disesuaikan dengan peran.
+Evidence, AI, dan feedback
+Evidence: Tangkapan layar chat koordinasi kelompok di WhatsApp dan riwayat komit/edit dokumen bersama.
+AI digunakan untuk memeriksa kelancaran tata bahasa dan kejelasan kalimat dalam draf refleksi ini. Data pribadi dan nama rekan disamarkan.
+Feedback rekan kelompok: Cara bertanya dinilai cukup tenang dan fokus pada solusi, tidak terkesan menyalahkan.
+Rencana latihan berikutnya: Menahan diri 5 detik sebelum membalas pesan saat terjadi kendala di kelompok.
+Self-assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3
+Karakter dan domain kehidupan dipetakan secara jelas
+Objective & State
+3
+Tujuan komunikasi dan perubahan situasi terdefinisi
+Repertoire, Language & AI
+3
+Perbedaan gaya bahasa sesuai peran dan penggunaan AI transparan
+Response & Adaptation
+3
+Mampu beradaptasi dari asumsi awal menuju solusi bersama
+Agreement, Action & Relationship
+3
+Menghasilkan kesepakatan konkret dan menjaga hubungan
+Total: 15/20 — Kompeten. Belum mencapai tingkat 4 karena analisis dinamika kekuasaan (power) dalam kelompok belum dibahas secara mendalam.
+Kembali ke atas
+Indeks Portfolio
+Intra-Self Communication Journal
+Portfolio KIPP-2 · Ragawa Bhramastya Aquila Saksono
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://aduadu17.github.io/kipp-students/index.html
+- https://aduadu17.github.io/kipp-students/assets/logo.png
+- https://aduadu17.github.io/kipp-students/course/index.html
+- https://aduadu17.github.io/kipp-students/portfolio/index.html
+- https://aduadu17.github.io/kipp-students/examples/index.html
+- https://aduadu17.github.io/kipp-students/lk/index.html
+- https://aduadu17.github.io/kipp-students/slides.html
+- https://aduadu17.github.io/kipp-students/slides-pdf/index.html
+- https://aduadu17.github.io/kipp-students/assessment/index.html
+- https://aduadu17.github.io/kipp-students/about.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-02.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-03.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-04.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-05.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-06.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-07.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-08.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-09.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-10.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-11.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-12.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-13.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-14.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-15.html
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html#lima-character
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html#episode-yang-dianalisis
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html#perubahan-language
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html#evidence-ai-dan-feedback
+- https://aduadu17.github.io/kipp-students/portfolio/week-01.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

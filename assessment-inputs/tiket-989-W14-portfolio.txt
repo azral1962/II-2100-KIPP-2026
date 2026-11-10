@@ -1,0 +1,302 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 989
+Minggu: 14
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-14.html
+
+Isi halaman portfolio:
+---
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Week 9 - Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Week 12 — Community Communication Challenge
+Week 13 — Public Contribution Challenge
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+Capstone Performance Portfolio
+Di halaman ini
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+1. Konteks Kegiatan
+1.1 Kegiatan dan waktu
+1.2 Pihak yang terlibat
+1.3 Tujuan penggunaan AI
+2. Pembagian Peran Manusia dan AI
+2.1 Peran AI
+2.2 Peran dan tanggung jawab manusia
+2.3 Batas penggunaan AI
+3. Prompt, Output, dan Revisi Manusia
+3.1 Prompt yang digunakan
+3.2 Output AI yang membantu
+3.3 Evaluasi output dan keputusan revisi
+3.4 Pemeriksaan kebenaran
+4. Privacy, Authority, dan Risk Review
+4.1 Privasi informasi
+4.2 Batas kewenangan
+4.3 Risiko penggunaan AI tanpa pemeriksaan
+4.4 Mengapa tidak menyerahkan semua tugas kepada AI?
+5. Analisis Enam Dimensi Komunikasi yang Dimediasi AI
+6. Response, Action, dan Dampak
+6.1 Respons terhadap output AI
+6.2 Adaptasi penggunaan AI
+6.3 Tindakan konkret dan bukti
+6.4 Dampak terhadap kemampuan dan hubungan
+7. Feedback, Pembelajaran, dan Rencana Perbaikan
+7.1 Feedback yang tersedia
+7.2 Perilaku yang akan dilatih
+7.3 Refleksi utama
+8. Self-Assessment
+9. Penilaian Dosen
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+AI
+Ethics
+Refleksi penggunaan AI untuk menyusun portofolio KIPP dan menganalisis proyek antrean kantin secara bertanggung jawab.
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+1. Konteks Kegiatan
+1.1 Kegiatan dan waktu
+Pada Oktober 2026, saya menggunakan ChatGPT melalui browser komputer untuk membantu menyusun portofolio KIPP Week 9–13, termasuk menganalisis proyek antrean kantin. Penggunaan AI berfokus pada penyusunan jawaban, perapian bahasa, pengorganisasian analisis, dan pengaitan pengalaman dengan konsep komunikasi, pengambilan keputusan, serta evaluasi diri.
+Sebelum menggunakan AI, saya telah memiliki konteks proyek dan gagasan utama mengenai masalah antrean kantin. Namun, saya masih perlu menyusun berbagai informasi menjadi jawaban yang runtut, memastikan setiap bagian menjawab pertanyaan tugas, serta membedakan pengalaman aktual dari analisis dan rencana.
+1.2 Pihak yang terlibat
+Pihak yang relevan dalam kegiatan ini adalah:
+Saya sebagai mahasiswa: menentukan konteks pengalaman, memeriksa isi, mengambil keputusan, dan bertanggung jawab atas jawaban akhir.
+ChatGPT sebagai alat bantu: membantu mengorganisasi informasi, merumuskan bahasa, mengembangkan analisis, dan mengidentifikasi kemungkinan risiko komunikasi.
+Dosen sebagai penilai: menilai portofolio berdasarkan tuntutan tugas dan kriteria penilaian.
+Pengguna kantin: menjadi sumber informasi dari diskusi sebelumnya mengenai pengalaman dan kebutuhan pengguna.
+Penjual, pengelola kantin, dan pihak kampus: merupakan stakeholder yang perlu dipertimbangkan dalam analisis, tetapi tidak dapat dianggap telah menyetujui solusi yang diusulkan.
+1.3 Tujuan penggunaan AI
+Tujuan saya menggunakan AI adalah menghasilkan portofolio yang lebih terstruktur dan menunjukkan hubungan antara konteks proyek, kebutuhan pengguna, alternatif solusi, risiko, serta refleksi pembelajaran.
+Saya tidak menggunakan AI untuk menggantikan pengalaman langsung, menciptakan bukti, atau menentukan keputusan atas nama stakeholder. AI membantu proses penyusunan dan analisis, sedangkan tanggung jawab atas kebenaran isi tetap berada pada saya.
+2. Pembagian Peran Manusia dan AI
+2.1 Peran AI
+Saya menggunakan ChatGPT untuk:
+Menyusun kerangka jawaban sesuai pertanyaan portofolio.
+Merapikan bahasa agar lebih jelas dan mudah dipahami.
+Mengelompokkan informasi berdasarkan bagian tugas.
+Membandingkan alternatif solusi untuk masalah antrean kantin.
+Mengembangkan draft analisis dan refleksi.
+Mengidentifikasi risiko salah paham dan klaim yang berlebihan.
+Membantu memahami aspek yang perlu dibahas berdasarkan tuntutan tugas.
+2.2 Peran dan tanggung jawab manusia
+Saya tetap menentukan pengalaman yang relevan, menilai kesesuaian jawaban dengan konteks, dan memutuskan bagian yang digunakan dalam portofolio. Saya juga bertanggung jawab membedakan fakta, interpretasi, dan rencana.
+Sebagai contoh, gagasan mengenai informasi status pesanan dan estimasi waktu tunggu dapat dijelaskan sebagai alternatif yang berpotensi membantu pembeli. Namun, saya tidak boleh menyatakan bahwa solusi tersebut sudah berhasil mengurangi antrean karena belum ada implementasi dan pengujian yang dapat membuktikannya.
+Saya juga tidak menggunakan AI untuk mengarang persetujuan penjual, menyatakan bahwa sistem sudah diterapkan, atau mengatasnamakan kampus.
+2.3 Batas penggunaan AI
+Saya menggunakan AI ketika membutuhkan bantuan untuk menyusun struktur, memperjelas bahasa, atau mempertimbangkan sudut pandang lain. Saya perlu berhenti atau melakukan pemeriksaan ulang ketika jawaban mulai melampaui informasi yang tersedia, mengandung asumsi yang belum terverifikasi, atau membuat rencana terdengar seperti kegiatan yang telah selesai.
+Dengan demikian, AI berperan sebagai pendukung proses berpikir, bukan sebagai pengganti penilaian dan tanggung jawab manusia.
+3. Prompt, Output, dan Revisi Manusia
+3.1 Prompt yang digunakan
+Berikut merupakan parafrasa instruksi yang menggambarkan penggunaan ChatGPT dalam penyusunan portofolio, bukan kutipan persis dari riwayat percakapan:
+Bantu saya menjawab pertanyaan portofolio KIPP berdasarkan konteks proyek antrean kantin sebelumnya. Gunakan bahasa Indonesia yang natural dan susun jawaban secara runtut sesuai pertanyaan tugas.
+Bantu saya membedakan kegiatan yang sudah dilakukan dari analisis dan rencana. Jangan membuat klaim atau bukti yang tidak tersedia.
+Instruksi tersebut menunjukkan bahwa saya tidak hanya membutuhkan bantuan menghasilkan teks, tetapi juga mengarahkan AI agar mempertahankan konteks dan batas bukti.
+3.2 Output AI yang membantu
+Output yang paling membantu adalah struktur analisis yang menghubungkan masalah antrean kantin, kebutuhan pengguna, alternatif solusi, risiko, dan refleksi diri.
+Melalui struktur tersebut, saya dapat menjelaskan alasan di balik gagasan status pesanan dan estimasi waktu tunggu, bukan sekadar menyebutkan solusi. AI juga membantu memperjelas bahwa estimasi waktu merupakan perkiraan yang perlu diperbarui sesuai kondisi, bukan jaminan bahwa pesanan selesai pada waktu tertentu.
+3.3 Evaluasi output dan keputusan revisi
+Output atau saran AI
+Keputusan manusia
+Alasan
+Menyusun pengalaman sesuai struktur pertanyaan portofolio
+Digunakan sebagai kerangka
+Membantu jawaban lebih runtut dan mudah ditinjau berdasarkan tuntutan tugas.
+Menjelaskan manfaat status pesanan dan estimasi waktu tunggu
+Digunakan dengan batasan
+Manfaat tersebut merupakan potensi solusi, bukan hasil yang sudah terbukti.
+Menghubungkan analisis dengan tindakan atau kesepakatan stakeholder
+Dibatasi sesuai bukti yang tersedia
+Saya tidak boleh menyatakan adanya implementasi atau persetujuan formal tanpa bukti.
+Merapikan bahasa dan refleksi
+Digunakan sebagai bahan penyusunan
+Bahasa yang lebih jelas membantu komunikasi, tetapi isi tetap harus sesuai pengalaman saya.
+Mengembangkan analisis dan risiko
+Ditinjau kembali berdasarkan konteks
+Analisis AI perlu dibedakan dari fakta yang benar-benar diperoleh melalui kegiatan.
+Saya tidak memiliki catatan terpisah yang memastikan adanya kesalahan faktual spesifik dalam setiap output awal. Oleh karena itu, saya tidak mengklaim telah memperbaiki kesalahan tertentu yang tidak dapat saya tunjukkan. Evaluasi saya berfokus pada risiko yang perlu diperiksa, terutama klaim berlebihan dan pencampuran fakta dengan rencana.
+3.4 Pemeriksaan kebenaran
+Saya membandingkan draft dengan konteks tugas dan pembahasan proyek sebelumnya. Saya memeriksa apakah pernyataan mengenai diskusi pengguna, kebutuhan, alternatif solusi, implementasi, dan respons stakeholder sesuai dengan informasi yang tersedia.
+Saya juga memastikan bahwa analisis tidak ditulis seolah-olah merupakan hasil pengujian. Pemeriksaan ini membantu menjaga agar jawaban tetap akurat dan tidak melebih-lebihkan hasil proyek.
+4. Privacy, Authority, dan Risk Review
+4.1 Privasi informasi
+Informasi yang saya masukkan ke ChatGPT terutama berupa pertanyaan tugas, konteks proyek antrean kantin, ringkasan pembahasan pengguna, dan draft portofolio.
+Saya memahami bahwa informasi pribadi yang tidak relevan sebaiknya tidak dimasukkan ke prompt. Dalam menjelaskan kebutuhan pengguna, fokusnya adalah pengalaman dan persoalan yang dibahas, bukan identitas pribadi seseorang. Jika hasil analisis digunakan dalam artefak publik, nama atau informasi kontak tidak perlu dicantumkan apabila tidak dibutuhkan.
+Pertimbangan ini merupakan upaya menjaga privasi, bukan hasil audit privasi formal.
+4.2 Batas kewenangan
+Saya berwenang menjelaskan pengalaman dan analisis saya sendiri. ChatGPT dapat membantu mengolah informasi dan menyusun bahasa, tetapi tidak dapat menentukan kebenaran pengalaman pribadi secara mandiri atau memberikan persetujuan atas nama orang lain.
+Pengguna kantin dapat memberikan masukan berdasarkan pengalamannya. Sementara itu, keputusan operasional mengenai penerapan sistem berada di luar kewenangan saya. Saya juga tidak memiliki dasar untuk menyampaikan gagasan ini sebagai kebijakan resmi kampus.
+4.3 Risiko penggunaan AI tanpa pemeriksaan
+Risiko yang saya identifikasi meliputi:
+Klaim berlebihan: solusi yang masih berupa gagasan dapat terdengar seperti sudah terbukti berhasil.
+Pencampuran fakta dan asumsi: interpretasi dapat ditulis seolah-olah berasal dari hasil wawancara atau pengujian.
+Hilangnya suara pribadi: bahasa yang terlalu formal dapat mengurangi keaslian refleksi.
+Risiko privasi: informasi pribadi yang tidak diperlukan dapat masuk ke prompt atau artefak.
+Ketergantungan: penggunaan AI secara berlebihan dapat mengurangi latihan berpikir dan menyusun argumen secara mandiri.
+Untuk mengurangi risiko tersebut, saya meninjau kesesuaian isi, membatasi klaim berdasarkan bukti, dan mempertahankan keputusan akhir pada diri sendiri.
+4.4 Mengapa tidak menyerahkan semua tugas kepada AI?
+Memahami pengalaman sendiri, mengonfirmasi apa yang benar-benar terjadi, melakukan wawancara, menilai respons orang lain, dan bertanggung jawab atas isi akhir tetap membutuhkan keterlibatan manusia.
+Saya juga perlu berlatih menyusun pemikiran sendiri agar tidak bergantung pada AI setiap kali menghadapi tugas. Karena itu, saya menggunakan AI terutama ketika membutuhkan bantuan untuk memperjelas pemikiran yang sudah memiliki dasar, bukan untuk menggantikan proses memahami pengalaman dan mengambil keputusan.
+5. Analisis Enam Dimensi Komunikasi yang Dimediasi AI
+Dimensi
+Analisis penerapan
+Person & Character
+Saya berperan sebagai mahasiswa yang bertanggung jawab atas isi portofolio, sedangkan ChatGPT berperan sebagai alat bantu. Saya perlu menjaga kejujuran, ketelitian, dan tanggung jawab ketika menggunakan output AI.
+Objective & State
+Tujuan penggunaan AI adalah menyusun jawaban yang runtut dan menghubungkan proyek dengan konsep pembelajaran. Kondisi awalnya adalah saya sudah memiliki konteks proyek, tetapi memerlukan bantuan untuk mengorganisasi informasi dan mengembangkan analisis.
+Repertoire & Language
+Saya menggunakan instruksi untuk mengatur struktur, gaya bahasa, konteks, dan batas klaim. AI membantu memperjelas bahasa, tetapi saya tetap perlu memastikan hasilnya sesuai dengan pengalaman dan tujuan komunikasi.
+Response & Adaptation
+Saya memperjelas instruksi agar jawaban lebih kontekstual, natural, dan tidak mencampuradukkan tindakan aktual dengan rencana. Saya juga mengarahkan analisis untuk mempertimbangkan risiko dan keterbatasan bukti.
+Agreement & Action
+Hasil konkret penggunaan AI adalah draft portofolio, pengorganisasian analisis, perumusan pesan inti, dan refleksi. Namun, penggunaan AI tidak menghasilkan persetujuan stakeholder atau bukti bahwa sistem antrean telah diterapkan.
+Relationship Outcome
+AI membantu saya mempertimbangkan kebutuhan pembeli dan keterbatasan penjual dalam analisis. Namun, belum ada bukti bahwa penggunaan AI menghasilkan perubahan hubungan dengan pengguna, penjual, atau pengelola kantin.
+Analisis ini menunjukkan bahwa penggunaan AI tidak hanya berkaitan dengan kualitas teks, tetapi juga dengan pembagian peran, pilihan bahasa, batas kewenangan, dan tanggung jawab terhadap pihak lain.
+6. Response, Action, dan Dampak
+6.1 Respons terhadap output AI
+Saya menilai bahwa penggunaan ChatGPT membantu membuat jawaban portofolio lebih terstruktur dan memperjelas hubungan antara proyek dengan konsep pembelajaran. Penilaian tersebut merupakan evaluasi diri atas proses pengerjaan, bukan feedback eksternal.
+Belum ada feedback khusus dari dosen atau pihak lain yang dapat saya kaitkan secara langsung dengan penggunaan AI ini.
+6.2 Adaptasi penggunaan AI
+Dalam proses penyusunan jawaban, saya memperjelas konteks dan batasan instruksi. Saya mengarahkan jawaban agar tidak hanya membahas solusi, tetapi juga menjelaskan risiko, keterbatasan bukti, dan tanggung jawab manusia.
+Adaptasi ini membantu saya memperhatikan bukan hanya apakah jawaban terlihat lengkap, melainkan juga apakah isinya dapat dipertanggungjawabkan.
+6.3 Tindakan konkret dan bukti
+Tindakan konkret yang dihasilkan dari penggunaan AI adalah:
+Menyusun draft jawaban portofolio KIPP Week 9–13.
+Mengorganisasi analisis proyek antrean kantin.
+Merumuskan pesan inti mengenai status pesanan dan estimasi waktu tunggu.
+Menyusun refleksi, identifikasi risiko, dan self-assessment.
+Bukti yang tersedia berupa percakapan dengan ChatGPT, instruksi yang diberikan selama percakapan, dan draft portofolio yang dihasilkan. Bukti tersebut menunjukkan proses penggunaan AI untuk penyusunan tugas, bukan keberhasilan implementasi sistem antrean.
+6.4 Dampak terhadap kemampuan dan hubungan
+Penggunaan AI membantu saya mengembangkan cara menjelaskan masalah dan menyusun gagasan secara sistematis. Di sisi lain, saya menyadari bahwa penggunaan yang berlebihan dapat membuat tulisan kehilangan suara pribadi dan mengurangi kesempatan untuk berlatih berpikir mandiri.
+Dalam proyek kantin, AI membantu saya mempertimbangkan kebutuhan pembeli dan kemungkinan keterbatasan penjual. Namun, belum ada perubahan hubungan dengan stakeholder yang dapat saya pastikan sebagai dampak langsung penggunaan AI.
+7. Feedback, Pembelajaran, dan Rencana Perbaikan
+7.1 Feedback yang tersedia
+Belum ada feedback eksternal yang secara khusus menilai penggunaan AI dalam penyusunan portofolio ini. Evaluasi yang tersedia berasal dari proses meninjau dan memperbaiki draft sendiri.
+Saya membedakan evaluasi diri tersebut dari feedback pengguna, penjual, pengelola kantin, atau dosen agar tidak menimbulkan kesan bahwa pihak-pihak tersebut telah memberikan penilaian.
+7.2 Perilaku yang akan dilatih
+Pada penggunaan AI berikutnya, saya akan memeriksa setiap pernyataan dalam draft dengan mengelompokkannya menjadi tiga kategori:
+Fakta: informasi yang benar-benar didukung oleh pengalaman atau bukti yang tersedia.
+Analisis: interpretasi atau penjelasan yang saya bangun berdasarkan informasi tersebut.
+Rencana: tindakan atau solusi yang belum dilakukan.
+Sebelum menggunakan output AI, saya akan memeriksa apakah setiap pernyataan ditempatkan pada kategori yang tepat dan apakah klaimnya sesuai dengan bukti.
+7.3 Refleksi utama
+Saya belajar bahwa AI dapat membantu menyusun pemikiran dan memperjelas bahasa, tetapi kualitas hasilnya tetap bergantung pada konteks dan pemeriksaan manusia. Jawaban yang terdengar meyakinkan belum tentu akurat apabila tidak sesuai dengan pengalaman atau bukti yang tersedia.
+Dalam proyek antrean kantin, saya perlu membedakan kebutuhan yang ditemukan, solusi yang diusulkan, dan hasil yang benar-benar telah diuji. Prinsip yang sama berlaku dalam penyusunan portofolio: tulisan yang rapi tidak otomatis berarti seluruh klaim di dalamnya sudah terbukti.
+Saya menyadari bahwa menggunakan AI secara bertanggung jawab bukan berarti harus menghindarinya, melainkan mengetahui kapan AI berguna dan kapan keputusan harus tetap dibuat sendiri. Tantangan saya adalah memanfaatkan bantuan AI tanpa kehilangan pemahaman, suara pribadi, dan tanggung jawab atas isi akhir.
+8. Self-Assessment
+Aspek
+Skor
+Alasan
+1. Person & Character
+4/4
+Saya memahami pembagian peran manusia dan AI, menjaga tanggung jawab atas isi akhir, serta membedakan kewenangan pribadi dengan kewenangan stakeholder lain.
+2. Objective & State
+4/4
+Tujuan penggunaan AI jelas dan berhubungan dengan kebutuhan nyata dalam penyusunan portofolio. Saya juga dapat menjelaskan kondisi awal serta bantuan yang diperlukan.
+3. Repertoire, Language & AI
+3/4
+Saya menggunakan AI untuk menyusun struktur, merapikan bahasa, dan mengembangkan analisis. Namun, pemeriksaan output masih berfokus pada konteks dan konsistensi informasi; belum ada dokumentasi sistematis untuk memverifikasi setiap klaim menggunakan sumber independen.
+4. Response & Adaptation
+4/4
+Saya memperjelas instruksi dan menyesuaikan arah jawaban agar lebih kontekstual, membedakan tindakan dari rencana, serta mempertimbangkan keterbatasan bukti.
+5. Agreement, Action & Relationship
+3/4
+Saya dapat menjelaskan tindakan konkret berupa draft dan analisis serta menjaga batas kewenangan. Namun, belum ada feedback eksternal atau bukti perubahan hubungan dengan stakeholder.
+Total self-assessment: 18/20
+Skor ini merupakan penilaian diri berdasarkan proses penggunaan AI yang dijelaskan di atas. Saya belum memberikan skor penuh pada seluruh aspek karena verifikasi independen, feedback eksternal, dan dampak hubungan belum didukung bukti yang memadai.
+9. Penilaian Dosen
+Bagian ini diisi oleh dosen atau penilai.
+Assessor score:
+Feedback:
+Area for improvement:
+Kembali ke atas
+Week 13 — Public Contribution Challenge
+Capstone Performance Portfolio
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#week-14-ai-mediated-communication-design
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#konteks-kegiatan
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#kegiatan-dan-waktu
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#pihak-yang-terlibat
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#tujuan-penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#pembagian-peran-manusia-dan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#peran-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#peran-dan-tanggung-jawab-manusia
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#batas-penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#prompt-output-dan-revisi-manusia
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#prompt-yang-digunakan
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#output-ai-yang-membantu
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#evaluasi-output-dan-keputusan-revisi
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#pemeriksaan-kebenaran
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#privacy-authority-dan-risk-review
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#privasi-informasi
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#batas-kewenangan
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#risiko-penggunaan-ai-tanpa-pemeriksaan
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#mengapa-tidak-menyerahkan-semua-tugas-kepada-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#analisis-enam-dimensi-komunikasi-yang-dimediasi-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#response-action-dan-dampak
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#respons-terhadap-output-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#adaptasi-penggunaan-ai
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#tindakan-konkret-dan-bukti
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#dampak-terhadap-kemampuan-dan-hubungan
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#feedback-pembelajaran-dan-rencana-perbaikan
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#feedback-yang-tersedia
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#perilaku-yang-akan-dilatih
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#refleksi-utama
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#self-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html#penilaian-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

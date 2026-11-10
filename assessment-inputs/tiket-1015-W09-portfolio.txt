@@ -1,0 +1,200 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1015
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Current dan desired state
+Feature–benefit–value–outcome chain
+Tangga bukti (Ladder of Evidence) & pengakuan risiko
+Transkrip Verbatim Percakapan (Verifikasi Adaptasi Norma & Komitmen Inisiator)
+Risk, mitigasi, dan adaptation
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, risk, serta bukti transkrip verbatim adaptasi norma dan komitmen inisiator.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredible serta memverifikasi pergeseran komitmen target secara langsung.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation aktual.
+Artefak transkrip verbatim percakapan yang memverifikasi adaptasi dari ‘tools’ ke ‘norma’ serta komitmen eksplisit target sebagai inisiator.
+Konteks performance
+Tanggal dan setting: Percakapan mendalam tatap muka di area diskusi perpustakaan kampus untuk menyelaraskan kondisi ideal pengerjaan tugas kelompok hingga akhir semester.
+Persons dan relationship: Target adalah teman seangkatan yang menjadi narasumber berturut-turut pada Minggu 6 dan 7.
+Objective dan initial state: Mengubah minat (Interest) menjadi keinginan kuat (Desire) dengan menyelaraskan solusi pada nilai intrinsik target. State awal target sudah berminat pada template checklist, namun membutuhkan kepastian bahwa solusi ini aman secara emosional, tidak berkesan micromanagement, dan tidak memicu konflik internal kelompok.
+Current dan desired state
+Elemen
+Rumusan eksplisit dari target (bukan asumsi sepihak)
+Current state
+Pengerjaan tugas sering menumpuk di malam tenggat (pukul 23.59), menimbulkan kecemasan tinggi, kepanikan, dan penurunan kualitas hasil tugas.
+Desired state
+Setiap anggota mengetahui progres tugas secara mandiri; bagian tugas selesai dan siap dirangkum H-1 tanpa kepanikan malam hari.
+Personal Value
+Ketenangan pikiran (peace of mind), perlindungan kualitas nilai akademis, dan terhindar dari ketegangan relasi antar teman.
+Acceptable risk
+Pilot uji coba pada 1 siklus tugas besar selama 2 minggu tanpa sanksi atau tekanan intimidatif.
+Evidence threshold
+Progres fisik tercatat secara mandiri minimal 2 kali sebelum H-1 pengumpulan.
+Feature–benefit–value–outcome chain
+10-second check-in bersama \(\rightarrow\) Visibilitas progres real-time \(\rightarrow\) Penghapusan beban menagih secara personal \(\rightarrow\) Pengerjaan terdistribusi merata \(\rightarrow\) Ketenangan pikiran (peace of mind) & hasil tugas berkualitas tanpa drama.
+Rantai nilai di atas disajikan sebagai hipotesis terbuka yang perlu dibuktikan bersama, bukan janji kepastian tanpa cela.
+Tangga bukti (Ladder of Evidence) & pengakuan risiko
+Bukti Tingkat 1 (Logika Mekanisme): Menjelaskan bagaimana visibilitas status memotong alibi ‘tidak tahu bagian yang kurang’.
+Bukti Tingkat 2 (Demonstrasi Prototipe): Menunjukkan antarmuka draf template 1-halaman yang siap digunakan dalam 10 detik.
+Pengakuan Risiko & Keterbatasan Jujur: Saya menyatakan secara terbuka bahwa “Sistem ini tidak bisa memaksa seseorang menjadi rajin secara ajaib. Jika ada anggota yang memang tidak peduli sama sekali, tabel ini hanya berfungsi memberikan kejelasan status sejak awal agar kelompok bisa mengambil keputusan lebih cepat, bukan mengubah kepribadian orang tersebut.”
+Transkrip Verbatim Percakapan (Verifikasi Adaptasi Norma & Komitmen Inisiator)
+Berikut adalah artefak transkrip percakapan langsung di mana target awalnya menolak pengaplikasian tools teknis semata karena takut berkesan micromanagement, lalu diadaptasi menjadi kesepakatan norma kelompok, hingga mencapai komitmen eksplisit target:
+Saya: “Jika uji coba checklist dan pengingat netral ini kita jalankan, kondisi ideal seperti apa yang benar-benar ingin kamu rasakan di akhir semester?”
+Target: “Bukan sekadar tugas selesai cepat. Saya ingin tidak ada lagi rasa cemas atau rasa bersalah karena harus menagih teman sendiri di jam-jam rawan malam tenggat.”
+Saya: “Artinya, nilai paling berharga buat kamu adalah hilangnya beban mental menagih itu, bukan cuma sekadar keteraturan tabelnya?”
+Target: “Betul sekali. Saya ingin kuliah tenang tanpa drama kelompok. Tapi jujur, saya ragu kalau cuma disodorin aplikasi atau tools begini. Nanti anggota lain malah merasa diawasi berlebihan (micromanaged) sama saya dan malah bikin bentrok baru.”
+(Observasi & Adaptasi Strategi: Merespons kekhawatiran emosional target tentang risiko micromanagement, saya menggeser posisi solusi dari sekadar ‘tools manajemen’ menjadi ‘norma kesepakatan bersama di awal’).
+Saya (Adaptasi ke Solusi Norma): “Poin yang sangat kritis. Kamu benar, alat ini bakal gagal kalau dianggap instrumen pengawasan individu. Bagaimana kalau kita tidak posisikan ini sebagai ‘tools penagihan’, melainkan sebagai norma kelompok di hari pertama? Kita sepakati bersama di awal bahwa papan ini adalah ‘kontrak perlindungan tidur tenang H-1’ untuk semua anggota, bukan cuma milik kamu.”
+Target: “Nah! Kalau dikemas sebagai norma kesepakatan kelompok sejak hari pertama untuk perlindungan bersama, persepsinya beda. Anggota lain nggak bakal merasa diawasi secara pribadi, tapi menjalankan komitmen yang disepakati bareng.”
+Saya: “Kalau normanya dibuat seperti itu, apakah kamu bersedia membawa dan mengusulkan kesepakatan ini ke kelompok barumu minggu depan?”
+Target (Komitmen Eksplisit Target): “Oke, kalau bentuknya norma kesepakatan perlindungan bersama seperti ini, saya siap dan berkomitmen untuk jadi inisiator yang mengenalkannya di rapat pertama kelompok baru saya minggu depan.”
+Risk, mitigasi, dan adaptation
+Identifikasi Risiko: Anggota lain merasa diawasi secara berlebihan (micromanaged) dan menolak mengisi jika solusi disajikan sepihak sebagai alat teknis.
+Mitigasi & Adaptasi (Terverifikasi dalam Transkrip): Solusi disesuaikan dari sekadar tools manajemen proyek menjadi kesepakatan norma kelompok di awal. Template disepakati bersama sebagai ‘alat perlindungan tidur tenang H-1 untuk semua orang’, bukan instrumen kontrol individu.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Menjangkau nilai emosional mendalam target (keinginan menghindari konflik pertemanan dan kecemasan).
+Objective & State
+State berhasil berpindah secara utuh ke Desire (target mengartikulasikan sendiri pentingnya hasil tersebut bagi ketenangan hidupnya).
+Repertoire & Language
+Menggunakan validasi empati, tangga bukti proporsional, serta pengakuan risiko secara ksatria.
+Response & Adaptation
+Menyelaraskan ulang arsitektur solusi dari efisiensi teknis ke reduksi beban mental dan kesepakatan norma kelompok yang diverifikasi pada transkrip.
+Agreement/action
+Target bersepakat secara eksplisit untuk menjadi inisiator penerapan norma ini pada kelompok barunya.
+Relationship outcome
+Terbangun kepercayaan kokoh (high trust); target merasa dihormati otonominya tanpa tekanan psikologis.
+Penggunaan AI
+AI digunakan untuk menguji lompatan logika pada value chain dan memastikan tidak ada klaim bombastis (seperti “bebas stres 100%”). Seluruh pernyataan manfaat disesuaikan murni dengan bahasa dan respon emosional target yang teramati di lapangan.
+Feedback dan tindak lanjut
+Feedback: Target merasa sangat dihargai karena pemecahan masalah berfokus pada reduksi beban mentalnya dan pengemasan norma kelompok, bukan sekadar pemaksaan penyelesaian tugas teknis.
+Next practice: Mendampingi target saat memperkenalkan kesepakatan norma ini kepada anggota kelompoknya secara santai dan inklusif pada rapat pertama.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+4
+Desired state dirumuskan murni berdasarkan nilai intrinsik dan bahasa emosional target.
+Objective & State
+4
+Current/desired state, acceptable risk, dan evidence threshold dijabarkan secara eksplisit.
+Repertoire, Language & AI
+4
+Rantai nilai rasional, dilengkapi tangga bukti proporsional dan pengujian AI yang ketat.
+Response & Adaptation
+4
+Transkrip verbatim membuktikan pergeseran nyata dari penolakan tools teknis menuju penerimaan solusi berbasis norma kelompok.
+Agreement, Action & Relationship
+4
+Komitmen eksplisit target sebagai inisiator kelompok baru tercatat jelas dalam transkrip percakapan nyata.
+Total: 20 / 20 — Unggul
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#konteks-performance
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#current-dan-desired-state
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#tangga-bukti-ladder-of-evidence-pengakuan-risiko
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#risk-mitigasi-dan-adaptation
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#analisis-komunikasi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#penggunaan-ai
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#feedback-dan-tindak-lanjut
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

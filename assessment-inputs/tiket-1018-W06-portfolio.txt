@@ -1,0 +1,371 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1018
+Minggu: 06
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+
+Isi halaman portfolio:
+---
+Tugas Minggu 6 — Target–Attention Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Tugas Minggu 6 — Target–Attention Challenge
+Indeks Portfolio
+Tugas Minggu 1 — Personal Communication Character Map
+Tugas Minggu 2 — Intra-Self Communication Journal
+Tugas Minggu 3 — Relationship Conversation
+Tugas Minggu 4 — Five-Language Translation
+Tugas Minggu 5 — Discovery Interview
+Tugas Minggu 6 — Target–Attention Challenge
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Tugas Minggu 9 — Desire-State Communication
+Tugas Minggu 10 — Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+1. Kompetensi Target
+2. Evidence Wajib
+3. Status Pengerjaan
+4. Initial Assumption dan Target Mapping
+4.1 Latar Belakang Masalah
+4.2 Target Map
+4.3 Pemilihan Target Utama
+4.4 Initial Assumption
+5. Problem Pitch dan Evidence
+5.1 Penyusunan Problem Pitch
+5.2 Problem Pitch
+5.3 Dasar Pengamatan Awal
+6. Potongan Transcript (Target–Attention Pitch)
+6.1 Percakapan Awal
+6.2 Percakapan Pendalaman
+6.3 Perubahan Pemahaman
+7. Response, State Assessment, dan Adaptation
+7.1 Respons Target
+7.2 State Assessment
+7.3 Hidden Concern
+7.4 Adaptasi Komunikasi
+8. Analisis Repertoire dan Penggunaan AI
+8.1 Repertoire Komunikasi
+8.2 Penggunaan AI
+9. Evidence, Feedback, dan Next Step
+9.1 Evidence Komunikasi
+9.2 Feedback dan Insight
+9.3 Next Step
+10. Self-Assessment (Rubrik Evaluasi Mandiri)
+Refleksi Akhir
+Tugas Minggu 6 — Target–Attention Challenge
+TAIDA
+Attention
+Menentukan target komunikasi dan memperoleh Attention melalui problem pitch.
+1. Kompetensi Target
+Pada minggu ini, saya berlatih menentukan target komunikasi yang tepat berdasarkan keterlibatan, kebutuhan, dan kewenangan target terhadap masalah yang ingin diselesaikan.
+Saya juga berlatih menyampaikan problem pitch yang singkat, relevan, dan didukung oleh bukti awal agar target bersedia memberikan perhatian terhadap masalah yang diangkat.
+Kompetensi yang ingin saya kembangkan: - Mengidentifikasi pihak yang paling memahami masalah. - Membedakan pihak yang mengalami masalah dengan pihak yang memiliki kewenangan mengambil keputusan. - Menyampaikan masalah tanpa langsung memaksakan solusi. - Menyesuaikan cara komunikasi berdasarkan respons target. - Menggunakan bukti secara proporsional dan tidak melakukan generalisasi berlebihan.
+2. Evidence Wajib
+Evidence yang menjadi fokus dalam tugas ini meliputi: 1. Target map yang menunjukkan beberapa pihak terkait beserta kepentingannya. 2. Alasan pemilihan target utama. 3. Problem pitch yang disampaikan kepada target. 4. Respons target terhadap masalah yang disampaikan. 5. Penyesuaian komunikasi berdasarkan respons tersebut. 6. Refleksi mengenai keberhasilan memperoleh Attention.
+3. Status Pengerjaan
+CatatanIdentitas
+Nama: Keisha Nazla Ananta Putri
+NIM: 18225059
+Tugas: W06 — Target–Attention Challenge
+Status: Siap Dinilai
+4. Initial Assumption dan Target Mapping
+4.1 Latar Belakang Masalah
+Dalam kegiatan perkuliahan dan organisasi, mahasiswa terkadang membutuhkan ruangan untuk mengadakan diskusi kelompok, rapat, maupun kegiatan lainnya.
+Namun, informasi mengenai ketersediaan ruangan tidak selalu mudah ditemukan. Mahasiswa dapat memperoleh informasi dari beberapa pihak atau harus melakukan konfirmasi secara langsung. Kondisi tersebut berpotensi menimbulkan kebingungan, terutama ketika ruangan yang ingin digunakan ternyata sudah dipesan atau informasi yang diterima belum diperbarui.
+Berdasarkan kondisi tersebut, saya mengangkat kemungkinan adanya kebutuhan terhadap sistem informasi yang dapat membantu mahasiswa mengetahui status penggunaan ruangan secara lebih mudah.
+Pada tahap awal, saya memiliki asumsi bahwa masalah utama terletak pada kurangnya transparansi informasi ketersediaan ruangan. Akan tetapi, saya belum mengetahui apakah masalah tersebut juga dirasakan oleh pihak yang bertanggung jawab mengelola peminjaman ruangan.
+4.2 Target Map
+Target
+Kepentingan terhadap Masalah
+Kewenangan
+Relevansi
+Mahasiswa
+Membutuhkan informasi ruangan yang tersedia
+Rendah
+Tinggi
+Pengurus organisasi
+Membutuhkan ruangan untuk kegiatan
+Rendah
+Tinggi
+Petugas administrasi
+Mengelola informasi peminjaman
+Menengah
+Sangat tinggi
+Pengelola fasilitas kampus
+Mengawasi penggunaan fasilitas
+Tinggi
+Bagian IT
+Mempertimbangkan aspek teknis sistem
+Tinggi
+Menengah
+Dosen
+Membutuhkan ruangan untuk kegiatan akademik
+Menengah
+Petugas keamanan
+Mengetahui aktivitas penggunaan ruangan
+Rendah
+Menengah
+4.3 Pemilihan Target Utama
+Saya memilih petugas administrasi sebagai target komunikasi utama karena pihak tersebut berhubungan langsung dengan proses peminjaman dan informasi penggunaan ruangan.
+Mahasiswa memang merupakan pihak yang merasakan kesulitan ketika mencari ruangan, tetapi petugas administrasi memiliki perspektif berbeda karena harus menangani permintaan, memberikan konfirmasi, dan memastikan informasi peminjaman sesuai dengan kondisi sebenarnya.
+Saya tidak langsung memilih pengelola fasilitas atau bagian IT karena pada tahap ini tujuan komunikasi saya bukan meminta persetujuan implementasi sistem. Saya ingin terlebih dahulu memahami apakah masalah yang saya angkat benar-benar terjadi dalam proses operasional sehari-hari.
+4.4 Initial Assumption
+Sebelum melakukan komunikasi, saya memiliki tiga asumsi awal:
+Mahasiswa kesulitan mengetahui ketersediaan ruangan karena informasi belum terpusat.
+Petugas administrasi harus menjawab pertanyaan yang sama secara berulang.
+Informasi peminjaman yang tidak diperbarui dapat menyebabkan mahasiswa datang ke ruangan yang ternyata sedang digunakan.
+Saya menyadari bahwa ketiga asumsi tersebut masih perlu diperiksa. Saya tidak ingin langsung menganggap seluruh masalah berasal dari tidak adanya sistem digital karena bisa saja terdapat prosedur administrasi yang memang harus dilakukan secara manual.
+5. Problem Pitch dan Evidence
+5.1 Penyusunan Problem Pitch
+Saya menyusun problem pitch dengan memperhatikan tiga hal: - Masalah yang dialami mahasiswa. - Dampak masalah terhadap pekerjaan petugas administrasi. - Pertanyaan terbuka untuk mengundang tanggapan target.
+Saya menghindari pembukaan yang langsung menawarkan aplikasi karena hal tersebut berisiko membuat target merasa bahwa saya hanya ingin mempromosikan solusi yang sudah saya tentukan.
+5.2 Problem Pitch
+Berikut pitch yang saya susun:
+“Saya ingin memahami proses peminjaman ruangan di kampus, terutama dari sisi mahasiswa yang membutuhkan informasi ketersediaan ruangan. Terkadang mahasiswa harus bertanya atau melakukan konfirmasi terlebih dahulu karena belum mengetahui apakah ruangan sedang digunakan atau sudah dipesan.
+Saya membayangkan kondisi ini juga dapat menambah pekerjaan petugas administrasi karena harus memberikan informasi yang sama berulang kali. Apakah dalam proses sehari-hari memang pernah terjadi kondisi seperti itu?”
+Pitch tersebut sengaja diakhiri dengan pertanyaan terbuka agar target dapat mengoreksi asumsi saya.
+5.3 Dasar Pengamatan Awal
+Saya mengidentifikasi beberapa kemungkinan kondisi yang perlu diperiksa:
+Indikasi
+Dampak yang Mungkin Terjadi
+Hal yang Perlu Divalidasi
+Informasi ruangan tersebar
+Mahasiswa harus bertanya ke beberapa pihak
+Sumber informasi yang digunakan mahasiswa
+Status ruangan tidak langsung diketahui
+Terjadi ketidakpastian sebelum menggunakan ruangan
+Frekuensi perubahan status
+Konfirmasi dilakukan berulang
+Beban komunikasi petugas meningkat
+Jenis pertanyaan yang paling sering diterima
+Pembatalan peminjaman tidak diketahui
+Ruangan berpotensi tidak digunakan
+Prosedur pembatalan peminjaman
+Saya membatasi kesimpulan pada indikasi tersebut dan tidak menggunakan angka statistik yang belum dapat diverifikasi.
+6. Potongan Transcript (Target–Attention Pitch)
+6.1 Percakapan Awal
+Saya:
+“Saya sedang mencoba memahami proses peminjaman ruangan kampus. Dari sisi mahasiswa, terkadang cukup sulit mengetahui apakah suatu ruangan masih tersedia atau sudah digunakan. Biasanya mahasiswa harus melakukan konfirmasi terlebih dahulu. Apakah hal seperti ini juga sering terjadi dari sisi administrasi?”
+Petugas Administrasi:
+“Iya, pertanyaan tentang ketersediaan ruangan memang cukup sering muncul. Biasanya mahasiswa bertanya apakah ruangan masih kosong atau sudah ada yang memesan.”
+Saya:
+“Berarti salah satu kendalanya adalah mahasiswa belum bisa langsung mengetahui status ruangan sebelum bertanya?”
+Petugas Administrasi:
+“Betul. Tetapi sebenarnya informasi peminjaman sudah ada. Hanya saja mahasiswa belum tentu mengetahui harus menghubungi siapa atau informasi terakhirnya ada di mana.”
+Saya:
+“Berarti masalahnya bukan sepenuhnya tidak ada informasi, tetapi akses terhadap informasi tersebut belum cukup mudah bagi mahasiswa?”
+Petugas Administrasi:
+“Iya, kurang lebih seperti itu. Apalagi kalau ada perubahan jadwal atau pembatalan peminjaman, informasinya perlu diperhatikan lagi.”
+6.2 Percakapan Pendalaman
+Saya:
+“Kalau ada mahasiswa yang bertanya tentang ruangan yang sama berulang kali, apakah hal tersebut cukup mengganggu proses administrasi?”
+Petugas Administrasi:
+“Kalau pertanyaannya sederhana tentu masih bisa ditangani. Tetapi ketika banyak permintaan masuk bersamaan, petugas harus mengecek kembali jadwal dan memastikan informasi yang diberikan benar.”
+Saya:
+“Jadi selain kemudahan mahasiswa memperoleh informasi, ketepatan informasi juga menjadi hal yang penting bagi petugas?”
+Petugas Administrasi:
+“Iya. Jangan sampai mahasiswa melihat informasi yang ternyata sudah tidak sesuai dengan kondisi sebenarnya.”
+Saya:
+“Baik, berarti saya perlu memperhatikan bukan hanya bagaimana informasi ditampilkan, tetapi juga bagaimana informasi tersebut diperbarui.”
+6.3 Perubahan Pemahaman
+Dari percakapan tersebut, saya menyadari bahwa asumsi awal saya perlu diperbaiki.
+Awalnya saya menganggap masalah utama adalah tidak adanya informasi terpusat. Namun, target menjelaskan bahwa informasi sebenarnya sudah tersedia. Permasalahan yang lebih relevan adalah kemudahan akses, kejelasan pihak yang dapat dihubungi, dan konsistensi pembaruan informasi.
+Saya juga menemukan bahwa ketepatan informasi merupakan kebutuhan penting bagi petugas administrasi. Sistem yang mudah diakses tetapi menampilkan informasi yang sudah kedaluwarsa justru dapat menimbulkan masalah baru.
+7. Response, State Assessment, dan Adaptation
+7.1 Respons Target
+Respons target menunjukkan bahwa masalah yang saya angkat cukup relevan dengan aktivitas administrasi sehari-hari.
+Namun, target tidak sepenuhnya menyetujui asumsi awal saya. Target menjelaskan bahwa informasi sebenarnya sudah tersedia, tetapi belum tentu mudah ditemukan mahasiswa.
+Saya menganggap koreksi tersebut sebagai respons penting karena menunjukkan adanya perbedaan antara masalah yang saya bayangkan dengan kondisi operasional yang sebenarnya.
+7.2 State Assessment
+Aspek
+Sebelum Pitch
+Setelah Pitch
+Pemahaman masalah
+Menganggap informasi belum terpusat
+Memahami bahwa informasi tersedia tetapi aksesnya belum mudah
+Perhatian target
+Belum diketahui
+Target memberikan contoh kondisi operasional
+Pemahaman kebutuhan
+Fokus pada mahasiswa
+Memperhatikan mahasiswa dan petugas administrasi
+Fokus solusi
+Membuat sistem informasi
+Mempermudah akses sekaligus menjaga akurasi informasi
+7.3 Hidden Concern
+Saya mengidentifikasi beberapa kekhawatiran yang mungkin dimiliki target:
+Keakuratan informasi: informasi yang ditampilkan harus sesuai dengan jadwal sebenarnya.
+Beban pekerjaan: sistem baru jangan sampai menambah pekerjaan administrasi.
+Perubahan jadwal: pembatalan atau perubahan peminjaman harus dapat diperbarui.
+Tanggung jawab: harus jelas pihak yang berwenang mengubah informasi.
+Kebingungan pengguna: sistem harus mudah dipahami mahasiswa.
+Saya tidak langsung menganggap seluruh kekhawatiran tersebut sudah menjadi keberatan resmi dari target. Saya menggunakannya sebagai hal yang perlu diperiksa pada komunikasi berikutnya.
+7.4 Adaptasi Komunikasi
+Setelah memperoleh respons target, saya mengubah fokus komunikasi.
+Sebelumnya saya lebih banyak menekankan bahwa mahasiswa membutuhkan informasi yang terpusat. Setelah mendengar penjelasan target, saya mulai menekankan bahwa solusi harus membantu mahasiswa mengakses informasi tanpa mengganggu proses administrasi yang sudah berjalan.
+Saya juga tidak lagi menyebut sistem sebagai pengganti prosedur administrasi. Sistem lebih tepat diposisikan sebagai sarana untuk mempermudah akses informasi, sedangkan petugas tetap memiliki kewenangan untuk memastikan kebenaran data.
+8. Analisis Repertoire dan Penggunaan AI
+8.1 Repertoire Komunikasi
+Dalam komunikasi ini, saya menggunakan beberapa pendekatan:
+Repertoire
+Penerapan
+Tujuan
+Open-ended question
+Menanyakan pengalaman petugas
+Memperoleh informasi tanpa mengarahkan jawaban
+Active listening
+Mengulangi inti jawaban target
+Memastikan pemahaman saya benar
+Clarification
+Memastikan apakah informasi sudah tersedia
+Menghindari kesimpulan yang keliru
+Reframing
+Mengubah fokus dari ketiadaan informasi menjadi aksesibilitas
+Menyesuaikan pemahaman dengan kondisi target
+Acknowledgement
+Mengakui pentingnya akurasi informasi
+Menunjukkan bahwa masukan target dipertimbangkan
+Saya merasa pendekatan active listening dan clarification sangat membantu karena target memiliki perspektif yang tidak saya miliki sebelumnya.
+8.2 Penggunaan AI
+Saya menggunakan AI untuk membantu: - Menyusun kemungkinan pertanyaan terbuka. - Memeriksa apakah problem pitch terlalu berorientasi pada solusi. - Mengidentifikasi asumsi yang masih perlu divalidasi. - Mengevaluasi apakah respons target sudah ditindaklanjuti dengan pertanyaan yang relevan.
+Contoh prompt:
+“Evaluasi problem pitch berikut. Identifikasi asumsi yang belum terbukti, bagian yang terlalu mengarahkan jawaban target, dan pertanyaan terbuka yang dapat digunakan untuk memahami masalah tanpa langsung menawarkan solusi.”
+Saya tidak menggunakan AI untuk menentukan apakah masalah tersebut benar-benar terjadi. Validasi tetap harus berasal dari informasi target dan pemeriksaan kondisi operasional.
+9. Evidence, Feedback, dan Next Step
+9.1 Evidence Komunikasi
+Evidence
+Isi
+Fungsi
+Target Map
+Identifikasi mahasiswa, petugas administrasi, pengelola fasilitas, dan bagian IT
+Menentukan target komunikasi
+Problem Pitch
+Penyampaian masalah akses informasi ruangan
+Menarik perhatian target
+Transcript
+Percakapan dan respons petugas administrasi
+Memahami kondisi operasional
+State Assessment
+Perbandingan pemahaman sebelum dan sesudah pitch
+Menilai perubahan pemahaman
+Adaptation Notes
+Perubahan fokus komunikasi
+Menunjukkan respons terhadap masukan
+9.2 Feedback dan Insight
+Insight paling penting dari tugas ini adalah bahwa masalah yang terlihat oleh pengguna belum tentu sama dengan masalah yang dirasakan oleh pihak yang mengelola proses.
+Saya awalnya beranggapan bahwa informasi peminjaman tidak tersedia secara terpusat. Namun, target menjelaskan bahwa informasi sudah ada, hanya saja akses dan pembaruannya masih menjadi tantangan.
+Hal ini mengingatkan saya untuk tidak terlalu cepat menyimpulkan penyebab masalah hanya berdasarkan pengalaman dari satu sisi.
+9.3 Next Step
+Pada minggu berikutnya, saya akan mengembangkan problem–solution pitch dengan mempertimbangkan kebutuhan kedua pihak.
+Fokus solusi yang akan saya bawa adalah: 1. Mahasiswa dapat melihat status ruangan dengan lebih mudah. 2. Informasi memiliki waktu pembaruan yang jelas. 3. Petugas administrasi tetap menjadi pihak yang berwenang memperbarui dan memvalidasi informasi. 4. Sistem tidak menambah proses administrasi yang tidak diperlukan.
+Saya juga perlu mencari tahu apakah target bersedia melihat demonstrasi sederhana dari solusi tersebut.
+10. Self-Assessment (Rubrik Evaluasi Mandiri)
+Dimensi
+Penilaian
+Alasan
+Person & Character
+4
+Saya mengidentifikasi beberapa pihak terkait dan memilih target berdasarkan keterlibatan langsung terhadap masalah.
+Objective & State
+4
+Saya membedakan kondisi awal dan kondisi setelah komunikasi serta memperbaiki asumsi berdasarkan respons target.
+Repertoire, Language & AI
+4
+Saya menggunakan pertanyaan terbuka, active listening, clarification, dan AI sebagai alat evaluasi komunikasi.
+Response & Adaptation
+4
+Saya menyesuaikan fokus pitch setelah target menjelaskan bahwa informasi sebenarnya sudah tersedia.
+Agreement, Action & Relationship
+4
+Saya menjaga komunikasi agar tidak langsung meminta persetujuan implementasi sebelum kebutuhan dan kewenangan dipahami.
+Total Self-Assessment: 20/20
+Refleksi Akhir
+Melalui tugas ini, saya belajar bahwa memperoleh perhatian target bukan hanya tentang menyampaikan masalah dengan cara yang menarik. Saya juga perlu memastikan bahwa masalah tersebut relevan dengan pengalaman target.
+Saya menyadari bahwa kemampuan mendengarkan sama pentingnya dengan kemampuan berbicara. Ketika target memberikan koreksi terhadap asumsi saya, saya perlu menerima dan menggunakannya untuk memperbaiki arah komunikasi, bukan mempertahankan pendapat awal.
+Ke depannya, saya ingin lebih percaya diri dalam mengajukan pertanyaan lanjutan dan tidak terlalu khawatir apabila jawaban atau asumsi awal saya ternyata kurang tepat. Bagi saya, koreksi dari target justru dapat menjadi kesempatan untuk memperoleh pemahaman yang lebih akurat.
+Kembali ke atas
+Tugas Minggu 5 — Discovery Interview
+Tugas Minggu 7 — Problem–Solution Interest Pitch
+Portfolio KIPP-2 · Keisha Nazla Ananta Putri
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://keishaanazla-glitch.github.io/kipp-students/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assets/logo.png
+- https://keishaanazla-glitch.github.io/kipp-students/course/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/examples/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/lk/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides.html
+- https://keishaanazla-glitch.github.io/kipp-students/slides-pdf/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/assessment/index.html
+- https://keishaanazla-glitch.github.io/kipp-students/about.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-01.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-02.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-03.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-04.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-05.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-07.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-08.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-09.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-10.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-11.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-12.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-13.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-14.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-15.html
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#kompetensi-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#evidence-wajib
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#status-pengerjaan
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#initial-assumption-dan-target-mapping
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#latar-belakang-masalah
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#target-map
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#pemilihan-target-utama
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#initial-assumption
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#problem-pitch-dan-evidence
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#penyusunan-problem-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#problem-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#dasar-pengamatan-awal
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#potongan-transcript-targetattention-pitch
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#percakapan-awal
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#percakapan-pendalaman
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#perubahan-pemahaman
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#response-state-assessment-dan-adaptation
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#respons-target
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#state-assessment
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#hidden-concern
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#adaptasi-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#analisis-repertoire-dan-penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#repertoire-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#penggunaan-ai
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#evidence-feedback-dan-next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#evidence-komunikasi
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#feedback-dan-insight
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#next-step
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#self-assessment-rubrik-evaluasi-mandiri
+- https://keishaanazla-glitch.github.io/kipp-students/portfolio/week-06.html#refleksi-akhir
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

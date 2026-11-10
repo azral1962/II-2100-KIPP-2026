@@ -1,0 +1,223 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1071
+Minggu: 13
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+
+Isi halaman portfolio:
+---
+Public Contribution Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Public Contribution Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Public Contribution Challenge
+Public
+Contribution
+Carousel Instagram berisi enam tips tugas kelompok untuk mahasiswa baru 2026 dari pengalaman pribadi, dengan pengecekan context collapse sebelum publikasi, respons publik, balasan komentar, dan koreksi caption.
+Kompetensi target
+Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertanggung jawab.
+Evidence wajib
+Public character, target, objective, dan TAIDA map.
+Public artifact serta sumber evidence.
+Context-collapse/reputation check, response, dan correction bila diperlukan.
+💡 Lihat contoh pengisian
+Buka contoh fiktif Minggu 13 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+Konteks performance
+Tanggal dan setting: Minggu, 8 November 2026, carousel tujuh slide di akun Instagram pribadi.
+Persons dan relationship: Saya sebagai mahasiswa STI ITB 2025 yang berbagi pengalaman pribadi, bukan perwakilan resmi ITB atau panitia mana pun. Target utama adalah mahasiswa baru 2026 yang sedang menghadapi tugas kelompok pertama; pembaca lain yang mungkin melihat termasuk teman satu tim, kakak tingkat, dosen, dan orang di luar ITB.
+Objective dan initial state: Membagikan cara kerja kelompok yang terbukti membantu saya, secara sederhana dan jujur termasuk kesalahan saya sendiri, tanpa terbaca sebagai aturan resmi dan tanpa menyalahkan teman satu tim. Initial state target: mahasiswa baru yang baru pertama kali mengerjakan tugas kelompok kuliah dan belum punya pola pembagian kerja.
+Evidence
+Catatan1. Public Character, Target & TAIDA Map
+Public character: mahasiswa STI ITB 2025 yang berbagi pengalaman pribadi (student contributor), bukan sumber resmi.
+Target: mahasiswa baru 2026 di jaringan Instagram saya.
+TAIDA map: Target — maba yang menghadapi tugas kelompok pertama; Attention — judul “Pertama kali kerja kelompok di kuliah?”; Interest — enam tips konkret dari pengalaman nyata; Desire — kerja kelompok yang terstruktur tapi tetap saling memahami; Action — mencoba tips, berbagi tips lain di komentar, atau meminta template spreadsheet.
+2. Public Artifact & Sumber Evidence
+Isi carousel:
+Judul: “Pertama kali kerja kelompok di kuliah? 6 hal yang kupelajari dari tugas kelompok dan lomba selama semester ini (termasuk kesalahan yang pernah kulakukan 🙃). Pengalaman pribadi mahasiswa STI ITB 2025.”
+Tanya kendala dulu, baru bagi tugas: contoh anggota yang lebih memahami analisis dibanding cleaning data, lalu pembagian tugas disesuaikan setelah diskusi.
+Pakai tenggat internal: H-5 bahan utama, H-3 draft, H-2 revisi selesai, H-1 cek akhir dan submit; dapat disesuaikan dengan kompleksitas tugas dan kesepakatan tim.
+Satu spreadsheet untuk semua: kolom Tugas, Penanggung jawab, Tenggat, Status, Link hasil, agar progres terlihat tanpa mencari di banyak chat.
+Update singkat: pengalaman meminta update harian, lalu belajar bahwa frekuensi update perlu mempertimbangkan kondisi anggota; format satu baris tiap 2 hari.
+Kalau ada yang telat, ngobrol berdua dulu: mulai dari fakta, jangan langsung berasumsi anggota tidak bertanggung jawab, cari tahu kendala, lalu sepakati solusi.
+Penutup: kerja kelompok yang baik butuh pembagian tanggung jawab jelas, komunikasi terbuka, dan saling memahami; ditegaskan sebagai pengalaman pribadi, bukan aturan resmi kampus.
+Sumber evidence: pengalaman saya sendiri di Tugas Besar dan lomba Data Science semester ini (pertukaran tugas berdasarkan kemampuan, tenggat internal H-5 sampai H-1, spreadsheet bersama, update progres tiap 2 hari, dan percakapan pribadi saat ada keterlambatan). Caption menyatakan bahwa isi berasal dari pengalaman pribadi dan bukan pedoman resmi ITB. Alt-text ditambahkan agar isi slide dapat diakses pembaca layar.
+3. Context-Collapse & Reputation Check
+Postingan ini bisa dibaca teman satu tim, kakak tingkat, dosen, dan orang di luar ITB, bukan hanya maba. Sebelum publikasi, saya merevisi draf:
+Bagian
+Sebelum
+Sesudah
+Alasan
+Slide 5
+“Dulu aku tanya progres tiap hari, ternyata ada teman yang merasa tertekan.”
+“Aku pernah mencoba meminta update progres setiap hari. Namun, aku belajar bahwa frekuensi update juga perlu mempertimbangkan kenyamanan dan kondisi anggota tim.”
+Tidak menyudutkan teman yang bisa mengenali dirinya.
+Slide 6
+“Sering kali alasannya kesibukan lain, bukan malas.”
+“Jangan langsung berasumsi bahwa anggota tersebut tidak bertanggung jawab. Bisa jadi ada kendala atau prioritas lain yang belum kita ketahui.”
+Kata “malas” bisa terbaca menghakimi; versi baru lebih adil bagi semua pihak.
+Slide 3
+Jadwal H-5 sampai H-1 tanpa catatan
+Ditambah “bisa disesuaikan dengan kompleksitas tugas dan kesepakatan tim”
+Agar tidak terbaca sebagai aturan wajib.
+Slide 7 dan caption
+—
+Penegasan “pengalaman pribadi, bukan aturan resmi kampus” dan nama teman tidak disebut
+Menjaga agar tidak tampak sebagai pedoman resmi ITB dan melindungi privasi teman.
+4. Response & Correction
+Respons publik (per 8 November 2026): 119 likes, 4 komentar, 5 shares.
+Komentar
+Jenis
+Balasan saya
+“Kak, kalau ada anggota yang susah dihubungi gimana?”
+Pertanyaan lanjutan
+Chat pribadi dulu dengan nada santai; jika tetap tidak ada kabar mendekati tenggat internal, kabari tim agar bagiannya dibantu sementara, dengan penanggung jawab asli tetap tercatat di spreadsheet.
+“Kalau semua anggota merasa sibuk, cara bagi tugasnya gimana?”
+Pertanyaan lanjutan
+Minta tiap anggota menyebut waktu paling longgar, sesuaikan tenggat internal ke situ, dan berikan bagian yang menjadi dasar bagian lain kepada yang paling longgar lebih dulu.
+“Menurutku update tiap dua hari sekali masih kurang kalau deadline tugasnya dekat.”
+Kritik isi
+Saya setuju: tiap 2 hari cocok untuk tenggat sekitar sebulan; untuk tenggat beberapa hari, update harian lebih masuk akal.
+“Nggak semua orang bisa dibagi tugas berdasarkan kemampuan. Kadang semua harus belajar bagian yang sama.”
+Kritik isi
+Saya mengakui poin ini: untuk tugas yang menuntut semua anggota paham materi, pembagian berdasarkan kemampuan bisa membuat anggota lain tidak belajar; solusinya tetap dibagi, tetapi tambahkan sesi saling menjelaskan.
+Correction log: dua kritik di atas menunjukkan slide 2 dan slide 5 terlalu umum. Saya menambahkan catatan di caption:
+📝 Catatan tambahan dari komentar teman-teman:
+• Kalau deadline tinggal beberapa hari, update progres tiap hari lebih cocok daripada tiap 2 hari.
+• Kalau tugasnya menuntut semua anggota paham materi yang sama, bagi tugas berdasarkan kemampuan belum tentu tepat. Bisa tetap dibagi, tapi tambahkan sesi saling menjelaskan.
+Makasih buat yang sudah kasih masukan! 🙏
+Angka engagement tidak saya anggap bukti bahwa tips ini berhasil. Yang lebih penting, dua pertanyaan menunjukkan pembaca ingin menerapkan tips pada situasi nyata, dan dua kritik menunjukkan batas berlakunya tips saya, yang kemudian saya koreksi secara terbuka.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+Character publik dinyatakan jelas sebagai mahasiswa yang berbagi pengalaman, bukan sumber resmi; pembaca di luar target ikut dipertimbangkan.
+Objective & state
+TAIDA map menghubungkan judul, isi, dan ajakan; komentar yang bertanya penerapan menunjukkan pembaca bergerak dari Attention ke Interest.
+Repertoire & language
+Carousel singkat, contoh nyata, alt-text, dan bahasa yang mengakui kesalahan sendiri agar tidak menggurui.
+Response & adaptation
+Revisi sebelum publikasi menghapus kalimat yang menyudutkan teman; dua kritik setelah publikasi dijawab dengan mengakui batas tips dan menambahkan koreksi di caption.
+Agreement/action
+Setiap komentar dibalas dengan saran konkret, koreksi dicatat di caption, dan template spreadsheet disiapkan untuk yang meminta.
+Relationship outcome
+Pengomentar yang mengkritik diakui dan diberi kredit, teman satu tim tidak disebut atau disudutkan, dan reputasi ITB tidak diwakili secara keliru.
+Penggunaan AI
+AI (Claude) digunakan untuk menyusun draf awal isi carousel, caption, alt-text, dan draf balasan komentar dari pengalaman yang saya ceritakan. Saya merevisi lima bagian draf carousel sebelum publikasi, terutama kalimat yang bisa menyalahkan teman atau terbaca sebagai aturan wajib, dan memeriksa bahwa semua contoh sesuai pengalaman nyata saya.
+Feedback dan tindak lanjut
+Feedback yang diterima: dua pembaca mengkritik bahwa update tiap 2 hari kurang untuk tenggat dekat dan bahwa pembagian berdasarkan kemampuan tidak selalu tepat.
+Adaptation/replay: kedua kritik saya akui di balasan komentar dan saya tambahkan sebagai catatan koreksi di caption, dengan ucapan terima kasih kepada pemberi masukan.
+Next practice: sebelum mempublikasikan tips, minta satu atau dua orang dari target audiens membaca draf, supaya batas berlakunya tips terlihat sebelum terbit, bukan setelah dikomentari.
+Self-assessment
+Dimensi
+Skor 1-4
+Evidence singkat
+Person & Character
+4
+Character publik dan batas otoritas dinyatakan; pembaca di luar target dipertimbangkan.
+Objective & State
+4
+TAIDA map jelas, klaim dibatasi sebagai pengalaman pribadi, dan respons menunjukkan pembaca ingin menerapkan tips.
+Repertoire, Language & AI
+4
+Artefak, sumber, alt-text, dan revisi draf AI sebelum publikasi terdokumentasi.
+Response & Adaptation
+4
+Dua kritik publik menghasilkan koreksi terbuka di caption; dua pertanyaan dijawab dengan saran konkret.
+Agreement, Action & Relationship
+4
+Semua komentar dibalas, correction log tercatat, dan reputasi teman serta institusi dijaga.
+Total: 20/20 - Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Community Communication Challenge
+AI-Mediated Communication Design
+Portfolio KIPP-2 · Rosianna Maria Aviv Silalahi
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#quarto-document-content
+- https://rosianna-maria.github.io/kipp-students/index.html
+- https://rosianna-maria.github.io/kipp-students/assets/logo.png
+- https://rosianna-maria.github.io/kipp-students/course/index.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/index.html
+- https://rosianna-maria.github.io/kipp-students/examples/index.html
+- https://rosianna-maria.github.io/kipp-students/lk/index.html
+- https://rosianna-maria.github.io/kipp-students/slides.html
+- https://rosianna-maria.github.io/kipp-students/slides-pdf/index.html
+- https://rosianna-maria.github.io/kipp-students/assessment/index.html
+- https://rosianna-maria.github.io/kipp-students/about.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-01.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-02.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-03.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-04.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-05.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-06.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-07.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-08.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-09.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-10.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-11.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-12.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-14.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-15.html
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#kompetensi-target
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#evidence-wajib
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#konteks-performance
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#evidence
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#analisis-komunikasi
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#penggunaan-ai
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#feedback-dan-tindak-lanjut
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#self-assessment
+- https://rosianna-maria.github.io/kipp-students/portfolio/week-13.html#assessment-dosen
+- https://rosianna-maria.github.io/kipp-students/examples/week-13.html
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

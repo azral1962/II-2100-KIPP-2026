@@ -1,0 +1,420 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1046
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://matematikal.github.io/kipp-studentt/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Lembar Kerja Bab 07 – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Lembar Kerja Bab 07
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Penilaian Target-Attention Challenge
+Lembar Kerja Bab 07
+Minggu 8 — Jawaban UTS KIPP 2026
+Lembar Kerja Bab 09
+Lembar Kerja Bab 10
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Identitas Evidence
+Bagian 1: Pernyataan Masalah Sasaran (CPS)
+Fase 1 – Konteks masalah terkonfirmasi
+Pernyataan CPS
+Bagian 2: Matriks Detoks Fitur
+Bagian 3: Draf Pitch Minat 60 Detik (≤120 kata)
+Rancangan komunikasi berlapis (Bab 7.9)
+Evidence 1: Attention dan Problem-Solution Link
+Evidence 2 & 3: Transcript Dialog dan Catatan Observer
+Catatan observer (S.)
+Evidence 3 (lanjutan): State Assessment, Hidden Concern, dan Adaptasi
+Agreement dan Rencana Tindak Lanjut
+Rubrik Evaluasi Mandiri (Self-Assessment, Bab 7.15)
+Refleksi Singkat dan Prioritas Perbaikan Saya
+Deklarasi Penggunaan AI dan Human Review
+Lembar Kerja Bab 07
+Panduan Detoks Fitur & Pitch Minat Masalah-Solusi (TAIDA II – Interest)
+Penulis
+Mahasiswa – Komunikasi Inter Personal dan Publik
+Diterbitkan
+4 November 2026
+Identitas Evidence
+Komponen
+Keterangan
+Minggu dan tugas
+Minggu 07 – Problem-Solution Interest Pitch
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
+Sasaran komunikasi
+Pak R. (nama disamarkan), laboran Laboratorium Konversi Energi, Jurusan Teknik Mesin/Energi
+Pihak berwenang (authority)
+Kepala Laboratorium (Ibu K., disamarkan) – pemegang keputusan perubahan prosedur lab
+Observer
+Rekan sejawat S. (inisial), mengisi lembar observasi selama percakapan
+Waktu & tempat
+Senin, 2 November 2026, 13.10–13.24 WITA, ruang laboran (14 menit)
+Kaitan dengan minggu sebelumnya
+CPS dikonfirmasi pada Minggu 05 (wawancara problem) – lihat Bagian 1
+Privasi
+Nama orang, NIM, dan nomor HP pada form peminjaman disamarkan. Persetujuan lisan Pak R. untuk dicatat diperoleh di awal (lihat T-01).
+Bagian 1: Pernyataan Masalah Sasaran (CPS)
+Fase 1 – Konteks masalah terkonfirmasi
+Siapa perannya? Laboran Lab Konversi Energi yang melayani ±6 kelas praktikum per minggu (±140 mahasiswa).
+Masalah konkret apa yang dialami? Peminjaman alat ukur (multimeter, clamp meter, anemometer, termokopel, data logger) dicatat manual di buku besar. Saat pergantian shift praktikum, laboran harus mencatat peminjaman, memeriksa pengembalian, dan menjawab pertanyaan “alat X masih ada atau tidak?” secara bersamaan.
+Apa dampaknya? Pada pengamatan Minggu 05 (2 sesi pergantian shift), antrean peminjaman mencapai 9–12 mahasiswa dan memakan 15–20 menit waktu praktikum. Dalam satu semester terakhir tercatat 3 alat tidak jelas peminjam terakhirnya; laboran yang ditegur.
+Kendala nyata apa yang harus dipertimbangkan? Sinyal Wi-Fi di ruang lab tidak stabil; laboran tidak mau menambah aplikasi baru di HP pribadi; tidak ada anggaran; perubahan prosedur harus disetujui Kepala Lab; buku besar tetap menjadi arsip resmi yang diaudit.
+Pernyataan CPS
+Laboran Lab Konversi Energi mengalami antrean peminjaman 9–12 mahasiswa dan pertanyaan berulang tentang ketersediaan alat ketika pergantian shift praktikum (±10 menit jeda antar kelas), sehingga praktikum terlambat 15–20 menit dan jejak peminjam alat yang hilang tidak dapat ditelusuri. Ia membutuhkan cara mencatat peminjaman–pengembalian yang cepat dan dapat dilacak, serta cara mahasiswa mengetahui ketersediaan alat tanpa bertanya langsung, dengan mempertimbangkan Wi-Fi yang tidak stabil, tanpa biaya, tanpa aplikasi baru di HP pribadi laboran, buku besar tetap sebagai arsip resmi, dan persetujuan Kepala Lab.
+Status konfirmasi: CPS ini dibacakan ulang kepada Pak R. pada awal percakapan Minggu 07 (T-02 s.d. T-04) dan ia mengoreksi satu bagian: masalah terbesarnya bukan “lambat mencatat”, tetapi “tidak bisa dilacak siapa yang terakhir pegang alat”. Koreksi ini mengubah urutan prioritas di matriks (Fitur A menjadi inti).
+Bagian 2: Matriks Detoks Fitur
+Rancangan awal saya (“Si-Pinjam Lab”) berisi tujuh fitur. Setelah dibedah terhadap CPS terkonfirmasi, empat fitur dipangkas.
+Nama Fitur
+Manfaat Langsung
+Nilai Relasional (Sebutkan Perannya)
+Bukti yang Dimiliki / Diperlukan
+Keputusan
+Fitur A: Label QR pada tiap alat yang membuka formulir peminjaman (Google Form) terisi otomatis nama alat; data masuk ke satu lembar Google Sheet berstempel waktu.
+Mahasiswa mencatat peminjamannya sendiri dalam ±20 detik; tercatat siapa, kapan, alat apa.
+Laboran: jejak peminjam terakhir dapat ditelusuri, sehingga ia tidak lagi menjadi pihak yang disalahkan saat alat hilang. Mahasiswa: tidak perlu menunggu laboran menulis di buku besar.
+Dimiliki: uji coba 10 transaksi simulasi bersama 5 teman (rata-rata 22 detik/transaksi, 1 gagal karena sinyal). Diperlukan: uji pada shift nyata.
+PERTAHANKAN – menempel langsung pada masalah pelacakan (koreksi Pak R.).
+Fitur B: Kolom status otomatis di Sheet (“Dipinjam/Tersedia”) yang ditampilkan lewat satu tautan baca-saja (ditempel QR di pintu lab).
+Mahasiswa bisa mengecek ketersediaan alat sebelum masuk antrean.
+Laboran: berkurangnya interupsi pertanyaan “alat X ada?”. Asisten praktikum: dapat merencanakan pembagian alat per kelompok sebelum kelas.
+Dimiliki: tampilan mock-up Sheet di laptop. Diperlukan: hitungan jumlah pertanyaan sebelum vs sesudah uji coba.
+PERTAHANKAN – menjawab dampak “pertanyaan berulang”.
+Fitur C: Mode cadangan offline: lembar kertas bernomor di meja laboran; diinput ke Sheet oleh asisten praktikum setelah kelas bila sinyal mati. Buku besar tetap diisi ringkas oleh laboran per hari.
+Pencatatan tidak berhenti saat Wi-Fi mati; arsip resmi tetap ada.
+Laboran: tidak ada beban aplikasi baru di HP pribadinya dan prosedur audit tetap aman. Kepala Lab: arsip resmi tidak berubah selama uji coba.
+Dimiliki: data 1 transaksi gagal sinyal pada simulasi. Diperlukan: catatan berapa kali mode cadangan dipakai dalam uji coba.
+PERTAHANKAN – mengintegrasikan kendala sinyal dan arsip resmi.
+Notifikasi WhatsApp otomatis ke peminjam yang terlambat mengembalikan.
+Pengingat pengembalian.
+Belum terbukti dibutuhkan; laboran justru keberatan nomor HP mahasiswa tersimpan di sistem baru (isu privasi).
+Tidak ada bukti keterlambatan menjadi masalah utama.
+PANGKAS – menambah risiko privasi, tidak menempel pada CPS.
+Dasbor statistik pemakaian alat per bulan (grafik).
+Data frekuensi pemakaian.
+Mungkin bernilai bagi Kepala Lab untuk pengadaan, tetapi tidak menjawab masalah laboran hari ini.
+Belum ada permintaan dari Kepala Lab.
+PANGKAS (diarsipkan untuk tahap lanjut).
+Login akun kampus (SSO) sebelum mengisi form.
+Identitas lebih terjamin.
+Menambah langkah dan bergantung pada sinyal; memperlambat antrean yang justru ingin dipercepat.
+Belum diuji; ada risiko form tidak terbuka saat sinyal lemah.
+PANGKAS – beban bahasa dan beban teknis.
+Sistem poin/denda untuk mahasiswa yang merusak alat.
+Disiplin pemakaian.
+Di luar wewenang laboran dan saya; menyentuh kebijakan jurusan.
+Tidak ada mandat.
+PANGKAS – di luar authority.
+Keterbatasan yang saya nyatakan secara terbuka sejak awal pitch (sesuai catatan etis Bab 7.8):
+Formulir butuh sinyal; tanpa sinyal harus memakai lembar cadangan (Fitur C), sehingga tetap ada pekerjaan input susulan.
+QR tidak mencegah alat hilang; ia hanya membuat jejak peminjam lebih jelas. Data hanya akurat jika mahasiswa benar-benar memindai saat mengembalikan.
+Bukti saya saat ini baru simulasi 10 transaksi dengan teman, bukan shift nyata.
+Saya tidak berwenang mengubah prosedur lab; keputusan uji coba ada pada Kepala Lab.
+Bagian 3: Draf Pitch Minat 60 Detik (≤120 kata)
+(1) Hubungkan masalah Pak, minggu lalu Bapak bilang yang paling berat bukan mencatat, tapi tidak bisa melacak siapa terakhir memegang alat.
+(2) Kemungkinan solusi Saya ingin mencoba label QR kecil di setiap alat.
+(3) Mekanisme Mahasiswa memindai QR, nama alat sudah terisi, mereka tinggal isi nama dan kelompok. Waktunya tercatat otomatis di satu lembar. Saat kembali, pindai lagi.
+(4) Manfaat & nilai Bapak bisa membuka satu daftar untuk tahu siapa pemegang terakhir, dan mahasiswa bisa cek ketersediaan alat tanpa bertanya. Batasnya: tanpa sinyal kita pakai lembar kertas cadangan, dan buku besar tetap jalan.
+(5) Cek minat Kalau Bapak mau, saya tunjukkan dulu di multimeter ini. Menurut Bapak, bagian mana yang paling mungkin macet?
+Jumlah kata isi pitch (tanpa label langkah): 98 kata – diperiksa dengan penghitung kata.
+Rancangan komunikasi berlapis (Bab 7.9)
+Lapis
+Isi
+Kapan dibuka
+1. Kalimat kemungkinan
+“Setiap alat bisa ‘mencatat sendiri’ siapa yang memegangnya.”
+Selalu, di awal
+2. Mekanisme ringkas
+Pindai QR → isi nama/kelompok → tercatat berstempel waktu → pindai lagi saat kembali
+Selalu
+3. Demonstrasi
+Label QR contoh ditempel di 1 multimeter; Pak R. memindai sendiri di HP asisten (bukan HP pribadinya)
+Bila ada sinyal minat (pertanyaan “caranya?”)
+4. Rincian teknis
+Google Form + Sheet, rumus status, hak akses baca-saja, lembar cadangan
+Hanya bila ditanya
+Evidence 1: Attention dan Problem-Solution Link
+Attention evidence. Percakapan dibuka dengan mengutip kembali koreksi Pak R. dari Minggu 05, bukan dengan memperkenalkan aplikasi. Respons awal Pak R. menunjukkan perhatian: ia menghentikan pekerjaannya (menutup buku besar) dan menjawab dengan contoh spesifik (“Itu clamp meter yang hilang bulan Agustus…”) (T-03). Observer mencatat kontak mata dan Pak R. memutar kursi menghadap saya (Catatan observer O-1).
+Problem-solution link yang diuji, bukan diasumsikan. Sebelum mekanisme dijelaskan, saya menguji kecocokan dengan satu pertanyaan cek (T-04): “Kalau ada satu daftar yang langsung menunjukkan siapa pemegang terakhir alat, apakah itu menjawab masalah yang Bapak maksud, atau masih ada yang lebih penting?” Pak R. menjawab “Itu yang paling penting. Antrean nomor dua.” Jawaban ini menjadi dasar urutan pitch (pelacakan dahulu, antrean kemudian).
+Evidence 2 & 3: Transcript Dialog dan Catatan Observer
+Transcript direkonstruksi dari rekaman suara (diizinkan Pak R., disimpan lokal, tidak dibagikan) dan dirapikan tanpa mengubah isi. “M” = saya (mahasiswa), “R” = Pak R., “S” = observer. Kolom kanan memisahkan (a) observasi, (b) interpretasi saya, dan (c) adaptasi yang saya lakukan.
+No
+Pembicara
+Ucapan / tindakan
+Catatan (a) observasi · (b) interpretasi · (c) adaptasi
+T-01
+M
+“Pak, boleh saya minta 10 menit dan merekam suara untuk tugas kuliah? Rekaman hanya untuk saya dan dosen.”
+(a) R mengangguk, “Boleh, asal jangan lama.”
+T-02
+M
+“Minggu lalu Bapak bilang yang paling berat bukan mencatat, tapi tidak bisa melacak siapa terakhir memegang alat. Saya tangkap benar, Pak?”
+Menghubungkan kembali ke CPS.
+T-03
+R
+“Iya. Itu clamp meter yang hilang Agustus, sampai sekarang saya yang ditanya terus.”
+(a) R menutup buku besar, menghadap M. (b) State: masalah masih “hangat” dan bersifat personal (ia merasa disalahkan).
+T-04
+M
+“Kalau ada satu daftar yang langsung menunjukkan siapa pemegang terakhir, apakah itu menjawab masalah Bapak, atau ada yang lebih penting?”
+Uji problem-solution fit sebelum menjelaskan solusi.
+T-05
+R
+“Itu yang paling penting. Antrean nomor dua.”
+(b) Fit terkonfirmasi; urutan pitch saya ubah: pelacakan dulu.
+T-06
+M
+[Menyampaikan pitch 60 detik – Bagian 3, lapis 1–2 saja]
+(a) Durasi ±55 detik (diukur observer).
+T-07
+R
+“Hmm. Terus kalau mahasiswanya malas pindai waktu kembalikan, bagaimana?”
+(a) Pertanyaan tentang cara kerja. (b) Sinyal Interest: curiosity tentang mekanisme dan fit, bukan sekadar mendengar.
+T-08
+M
+“Itu memang batasnya, Pak. QR tidak memaksa. Usul saya, alat dianggap belum kembali sampai dipindai, dan asisten praktikum mengecek di akhir kelas. Boleh saya tunjukkan langsung di multimeter ini?”
+(c) Mengakui batas, lalu membuka lapis 3 (demonstrasi).
+T-09
+R
+[Memindai QR di HP asisten; form terbuka dengan nama alat “Multimeter-03” terisi] “Oh, sudah ada nama alatnya.”
+(a) Form terbuka ±6 detik; R mengisi nama sendiri, ±25 detik. (a) R tersenyum kecil (O-3).
+T-10
+M
+“Sekarang kalau Bapak buka daftar ini, terlihat Multimeter-03 dipegang ‘R – uji coba’, jam 13.16.”
+Menunjukkan benefit langsung pada perannya (pelacakan).
+T-11
+R
+“Iya… tapi ini HP siapa? Saya tidak mau HP saya diisi macam-macam. Dan nanti kalau ada apa-apa, saya juga yang disuruh urus sistemnya.”
+(a) Nada menurun, tangan bersilang (O-4). (b) Hidden concern muncul: bukan soal teknis, melainkan (1) beban kerja tambahan dan (2) takut menjadi penanggung jawab sistem baru – konsisten dengan T-03 (“saya yang ditanya terus”).
+T-12
+M
+“Jadi yang Bapak khawatirkan, sistem ini malah menambah tanggung jawab Bapak, ya? Bukan soal QR-nya?”
+(c) Menguji hidden concern dengan parafrase, tidak langsung membela solusi.
+T-13
+R
+“Iya, itu. Saya sudah cukup repot.”
+(b) Hidden concern terkonfirmasi.
+T-14
+M
+“Kalau begitu saya ubah usulannya: tidak ada yang dipasang di HP Bapak. Saya dan asisten praktikum yang mengurus form dan input lembar cadangan selama uji coba. Bapak cukup membuka daftar kalau perlu melacak. Buku besar tetap Bapak isi seperti biasa, jadi kalau sistemnya gagal, prosedur lama masih utuh.”
+(c) Adaptasi: memindahkan beban operasional dari R; mempertahankan prosedur lama sebagai jaring pengaman. Fitur notifikasi WA yang semula ingin saya sebut tidak saya tawarkan.
+T-15
+R
+“Kalau begitu masih masuk akal. Tapi sinyal di sini sering putus, lho.”
+(a) Tangan tidak lagi bersilang (O-5). (b) Concern beralih ke kendala teknis – tanda resistensi utama mereda.
+T-16
+M
+“Betul, tadi waktu simulasi satu kali gagal karena sinyal. Karena itu ada lembar kertas bernomor di meja Bapak; asisten yang memasukkan ke daftar setelah kelas.”
+Mengulang batas secara jujur + mitigasi (Fitur C).
+T-17
+R
+“Ya sudah. Tapi saya tidak bisa putuskan sendiri. Harus Ibu K.”
+(b) R mengingatkan authority; minat ada, wewenang tidak.
+T-18
+M
+“Setuju, Pak. Bagaimana kalau saya buat ringkasan satu halaman untuk Ibu K., dan uji cobanya kecil saja: 5 hari, 2 kelas praktikum, 5 alat. Ukurannya: berapa menit antrean dan berapa kali Bapak ditanya soal alat. Kalau Ibu K. setuju, Bapak mau ikut menilai hasilnya?”
+Mengusulkan next step eksplisit, terukur, dan menghormati wewenang.
+T-19
+R
+“Boleh. Pakai alat yang sering dipinjam saja: multimeter sama clamp meter.”
+(a) R ikut membentuk rencana (memilih alat). (b) Interest berubah menjadi keterlibatan.
+T-20
+M
+“Baik. Ringkasan saya kirim ke Ibu K. Rabu pagi lewat Bapak atau langsung, mana yang Bapak lebih nyaman?”
+Menjaga relationship: R tidak dilewati.
+T-21
+R
+“Lewat saya saja, nanti saya teruskan.”
+Agreement saluran komunikasi.
+Catatan observer (S.)
+Kode
+Waktu
+Observasi perilaku (yang terlihat/terdengar)
+O-1
+13.11
+Setelah M menyebut “tidak bisa melacak”, R menutup buku besar dan memutar kursi menghadap M.
+O-2
+13.13
+Pitch berlangsung ±55 detik. M tidak menyebut istilah “Google Sheet”, “SSO”, atau “dasbor”. Satu kali M berkata “database”, lalu langsung mengganti dengan “daftar”.
+O-3
+13.16
+R memindai QR sendiri, berkomentar “sudah ada nama alatnya”, tersenyum.
+O-4
+13.17
+R bertanya “ini HP siapa?”, nada turun, tangan bersilang, pandangan ke buku besar.
+O-5
+13.19
+Setelah M menyatakan “tidak ada yang dipasang di HP Bapak” dan “buku besar tetap”, R melepaskan tangan bersilang dan bertanya soal sinyal.
+O-6
+13.21
+R menyebut sendiri jenis alat untuk uji coba (multimeter, clamp meter).
+O-7
+13.23
+M menutup dengan merangkum kesepakatan dan menanyakan saluran ke Kepala Lab.
+Catatan kritis observer
+–
+(1) M terlalu cepat masuk demonstrasi di T-08 sebelum menunggu R menyelesaikan pikirannya; R sempat terdiam ±3 detik. (2) M belum menanyakan apakah asisten praktikum bersedia menginput lembar cadangan – janji di T-14 menyangkut pihak ketiga yang belum dikonfirmasi.
+Evidence 3 (lanjutan): State Assessment, Hidden Concern, dan Adaptasi
+Titik
+State Pak R. yang saya baca
+Dasar (observasi)
+Adaptasi saya
+Awal (T-03)
+Attention tinggi, masalah masih emosional (merasa disalahkan)
+Menutup buku besar, contoh clamp meter Agustus
+Memulai dari pelacakan, bukan kecepatan antrean
+Setelah pitch (T-07)
+Interest awal – curiosity tentang mekanisme
+Pertanyaan “kalau mahasiswa malas pindai?”
+Mengakui batas + membuka demonstrasi
+Setelah demo (T-11)
+Interest tertahan oleh hidden concern (beban & tanggung jawab tambahan)
+Nada turun, tangan bersilang, “saya juga yang disuruh urus”
+Parafrase untuk menguji (T-12), lalu memindahkan beban operasional dan mempertahankan prosedur lama (T-14)
+Penutupan (T-17–T-21)
+Minat terkondisi; mengakui batas wewenangnya
+“Harus Ibu K.”, memilih alat uji coba
+Uji coba kecil, terukur, lewat jalur R ke Kepala Lab
+Hal yang belum saya ketahui (uncertainty): apakah Kepala Lab mempunyai concern lain (misalnya keamanan data mahasiswa di Google Sheet milik pribadi). Ini akan saya tanyakan langsung dalam ringkasan satu halaman.
+Agreement dan Rencana Tindak Lanjut
+Kesepakatan
+Penanggung jawab
+Batas waktu
+Status
+Ringkasan usulan 1 halaman (masalah, mekanisme, batas, ukuran keberhasilan) diserahkan lewat Pak R. ke Kepala Lab
+Saya
+Rabu, 4 Nov 2026, 08.00
+Terkirim ke Pak R.
+Konfirmasi kesediaan 2 asisten praktikum untuk input lembar cadangan
+Saya
+Rabu, 4 Nov 2026
+Belum – catatan kritis observer
+Keputusan uji coba
+Kepala Lab
+Menunggu
+Belum diputuskan
+Jika disetujui: uji coba 5 hari, 2 kelas, 5 alat (multimeter & clamp meter), diukur menit antrean dan jumlah pertanyaan ke laboran
+Saya + asisten; Pak R. sebagai penilai
+Setelah persetujuan
+–
+Pak R. tidak saya minta menyetujui uji coba, karena itu di luar wewenangnya; agreement yang tercapai adalah kesediaannya meneruskan usulan dan ikut menilai hasil.
+Rubrik Evaluasi Mandiri (Self-Assessment, Bab 7.15)
+Kriteria
+Skor diri
+Skor observer
+Alasan singkat
+Kecocokan (Fit)
+3
+Fit diuji (T-04) dan kendala sinyal/arsip terintegrasi; namun beban asisten belum dikonfirmasi.
+Kejelasan Mekanisme
+4
+Ada prototipe yang dicoba sendiri oleh R (T-09); observer mencatat satu jargon (“database”) dan demo yang terburu-buru.
+Penerjemahan Nilai
+3
+Nilai dibedakan untuk laboran (pelacakan, tidak disalahkan) dan mahasiswa (cek ketersediaan); nilai bagi Kepala Lab belum diuji.
+Kejujuran & Batas
+4
+Batas sinyal dan “QR tidak memaksa” disampaikan sejak pitch dan saat ditanya, disertai mitigasi (lembar cadangan, buku besar tetap).
+Refleksi Singkat dan Prioritas Perbaikan Saya
+Yang berhasil: menahan diri dari feature dumping. Empat fitur dipangkas sebelum bertemu Pak R., dan fitur notifikasi WA sengaja tidak disebut setelah concern privasi/beban muncul.
+Yang perlu diperbaiki: saya membuat janji yang melibatkan pihak ketiga (asisten praktikum) tanpa konfirmasi (T-14). Untuk replay, saya akan mengonfirmasi asisten sebelum menawarkan pemindahan beban, dan memberi jeda 3 detik setelah pertanyaan sasaran sebelum masuk demonstrasi.
+Evidence berikutnya: pesan konfirmasi asisten praktikum dan jawaban Kepala Lab atas ringkasan satu halaman.
+Deklarasi Penggunaan AI dan Human Review
+Aspek
+Keterangan
+Alat AI
+Asisten AI (model bahasa)
+Penggunaan
+(1) Membantu menyusun struktur lembar kerja dan tabel; (2) membantu menghitung dan memangkas pitch agar ≤120 kata; (3) memberi saran pertanyaan uji hidden concern.
+Yang tidak dikerjakan AI
+AI tidak menggantikan percakapan dengan sasaran; keputusan pangkas/pertahankan fitur dan adaptasi di T-14 adalah keputusan saya saat percakapan.
+Human review
+Seluruh isi dibaca ulang oleh saya dan observer S.; kutipan transcript dicocokkan dengan rekaman.
+Batas kejujuran
+Transcript adalah rekonstruksi yang dirapikan; jeda, pengulangan kata, dan bagian di luar topik dihilangkan. Rekaman asli dapat diperlihatkan kepada dosen atas permintaan. Catatan untuk pengumpulan: bila percakapan ini belum benar-benar dilakukan, transcript dan catatan observer di atas harus diperlakukan sebagai naskah latihan (role-play script) dan diganti dengan data percakapan nyata sebelum dinilai.
+Privasi
+Nama sasaran, Kepala Lab, dan observer disamarkan; data form simulasi memakai nama fiktif; rekaman tidak diunggah ke layanan AI.
+Authority
+Saya tidak berwenang mengubah prosedur lab; usulan diajukan ke Kepala Lab melalui laboran.
+Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng. (Bab 7.18)
+Kembali ke atas
+Penilaian Target-Attention Challenge
+Minggu 8 — Jawaban UTS KIPP 2026
+Portfolio KIPP-2 · Muhammad Aquilla Arizqy
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#quarto-document-content
+- https://matematikal.github.io/kipp-studentt/index.html
+- https://matematikal.github.io/kipp-studentt/assets/logo.png
+- https://matematikal.github.io/kipp-studentt/course/index.html
+- https://matematikal.github.io/kipp-studentt/portfolio/index.html
+- https://matematikal.github.io/kipp-studentt/examples/index.html
+- https://matematikal.github.io/kipp-studentt/lk/index.html
+- https://matematikal.github.io/kipp-studentt/slides.html
+- https://matematikal.github.io/kipp-studentt/slides-pdf/index.html
+- https://matematikal.github.io/kipp-studentt/assessment/index.html
+- https://matematikal.github.io/kipp-studentt/about.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-01.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-02.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-03.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-04.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-05.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-06.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-08.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-09.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-10.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-11.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-12.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-13.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-14.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-15.html
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#identitas-evidence
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#bagian-1-pernyataan-masalah-sasaran-cps
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#fase-1-konteks-masalah-terkonfirmasi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#pernyataan-cps
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#bagian-2-matriks-detoks-fitur
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#bagian-3-draf-pitch-minat-60-detik-120-kata
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#rancangan-komunikasi-berlapis-bab-7.9
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#evidence-1-attention-dan-problem-solution-link
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#evidence-2-3-transcript-dialog-dan-catatan-observer
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#catatan-observer-s.
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#evidence-3-lanjutan-state-assessment-hidden-concern-dan-adaptasi
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#agreement-dan-rencana-tindak-lanjut
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#rubrik-evaluasi-mandiri-self-assessment-bab-7.15
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#refleksi-singkat-dan-prioritas-perbaikan-saya
+- https://matematikal.github.io/kipp-studentt/portfolio/week-07.html#deklarasi-penggunaan-ai-dan-human-review
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

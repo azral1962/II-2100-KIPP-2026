@@ -1,0 +1,193 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 868
+Minggu: 02
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://razkuts.github.io/kipp-students/portfolio/week-02.html
+
+Isi halaman portfolio:
+---
+Intra-Self Communication Journal – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Intra-Self Communication Journal
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Episode
+Alternative narratives
+Internal conversation dan agreement
+Konteks performance
+Evidence
+Analisis komunikasi
+Penggunaan AI
+Feedback dan tindak lanjut
+Self-assessment
+Assessment dosen
+Intra-Self Communication Journal
+Fondasi
+Intra-Self
+Evidence perubahan dari reaction menuju response.
+Kompetensi target
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Evidence wajib
+Satu episode komunikasi dengan diri sendiri.
+Initial story dan sedikitnya dua alternative narratives.
+Internal agreement dan bukti tindakan berikutnya.
+Episode
+Event: Pada 30 Juni 2026, saya melihat nilai UAS mata kuliah Algoritma dan Pemrograman sebesar 17.
+Lapisan
+Catatan Saya
+Fact
+Nilai UAS Algoritma dan Pemrograman adalah 17, dilihat pada 30 Juni 2026. Saya belajar dengan sistem kebut semalam (SKS) sebelum ujian.
+Initial story
+“Ancur nih IP.”
+Emotion/body signal
+Cemas 7/10, kecewa 6/10, jantung berdebar
+Reactive character
+“Penghindar” yang ingin main game supaya tidak memikirkan nilai itu
+Desired character
+“Pembelajar Konsisten” yang mau mencicil belajar dari jauh hari, bukan menumpuk di malam terakhir
+Initial story melampaui fakta: angka 17 hanya menunjukkan hasil satu ujian dengan persiapan SKS, bukan bukti bahwa IP saya sudah pasti hancur atau tidak bisa diperbaiki.
+Alternative narratives
+Kesalahan penilaian: ada kemungkinan penilaian dari dosen keliru, meskipun belum saya periksa langsung.
+Constraint kondisi fisik: performa saya saat ujian mungkin terpengaruh kurang tidur karena begadang belajar semalam sebelumnya.
+Undangan memperbaiki metode: nilai ini adalah sinyal bahwa cara belajar SKS tidak memadai untuk mata kuliah ini, dan memberi saya kesempatan mengubah cara belajar ke depannya.
+Alternative ketiga paling berguna karena sesuai fakta (SKS memang cara belajar saya) dan menghasilkan tindakan konkret, tanpa berpura-pura bahwa nilai 17 itu tidak mengecewakan.
+Internal conversation dan agreement
+Penghindar: “Udahlah, main game aja, toh nilai udah keluar juga percuma dipikirin.” Pembelajar Konsisten: “Mikirin doang ga ngerubah nilai. Yang bisa gua ubah itu cara belajar gua buat ke depannya.” Saya: “Gua akan mulai belajar tiap hari secara konsisten, walaupun belum ada jadwal ujian.”
+Internal agreement: Mulai saat ini, saya belajar secara konsisten setiap hari, tidak menunggu sampai H-1 sebelum ujian. Saya juga meminta Azka menjadi pendamping untuk memantau komitmen ini.
+Konteks performance
+Tanggal dan setting: 30 Juni 2026 (kejadian awal); komitmen belajar konsisten dijalankan sejak akhir Juni 2026 hingga saat ini.
+Persons dan relationship: Percakapan ini murni intra-self (dengan diri sendiri). Azka (sahabat) dilibatkan sebagai pendamping eksternal untuk memantau komitmen.
+Objective dan initial state: Ingin mengubah pola pikir dari menyalahkan diri berlebihan dan menghindar (main game) menjadi belajar konsisten setiap hari. State awal: cemas dan kecewa melihat nilai 17, dengan dorongan untuk menghindar lewat bermain game.
+Evidence
+Catatan belajar harian di aplikasi Freeform, bertanggal, menunjukkan konsistensi belajar sejak komitmen ini dimulai. Seluruh catatan merupakan tulisan tangan digital saya sendiri.
+Analisis komunikasi
+Elemen
+Evidence dan analisis
+Person & character
+“Penghindar” dan “Pembelajar Konsisten” dibedakan sebagai dua karakter internal, bukan dijadikan identitas tetap (“saya orangnya emang gitu”).
+Objective & state
+State berubah dari ingin menghindar (main game) menjadi bersedia mengambil tindakan konkret (belajar konsisten harian).
+Repertoire & language
+Bahasa internal berubah dari menyalahkan diri (“gw ga becus”) menjadi berorientasi solusi (“yang bisa gua ubah itu cara belajar gua”).
+Response & adaptation
+Setelah menyadari fakta bahwa SKS adalah penyebab utama, saya mengubah pendekatan belajar secara nyata, bukan hanya berniat.
+Agreement/action
+Disepakati secara internal untuk belajar setiap hari tanpa menunggu ada jadwal ujian, dengan Azka sebagai pendamping.
+Relationship outcome
+Meminta pendampingan Azka memperkuat komitmen ini karena ada pihak eksternal yang memantau, bukan hanya niat pribadi.
+Penggunaan AI
+Alat dan peran AI: Claude (Anthropic) digunakan untuk memandu pengerjaan lewat pertanyaan satu per satu, memisahkan fakta dari interpretasi/story, dan merapikan jawaban saya ke format jurnal ini.
+Prompt atau instruksi penting: Meminta AI menanyakan satu per satu berdasarkan lembar kerja Bab 02 (tiga narasi: korban, analitis, pertumbuhan), bukan menuliskan jawaban untuk saya.
+Bagian output yang digunakan, diubah, atau ditolak: Seluruh isi event, fact, story, emotion, narasi, internal conversation, dan evidence adalah pengalaman dan kata-kata saya sendiri. AI membantu memetakan jawaban saya ke format tabel dan section yang sesuai template.
+Pemeriksaan accuracy, privacy, dan authority: Tidak ada data pribadi pihak lain yang dibuka selain nama Azka sebagai pendamping, dengan persetujuannya.
+Apa yang tetap saya pelajari sebagai manusia: Menyadari bahwa pola menghindar (main game) tidak menyelesaikan kecemasan saya, dan memutuskan mengganti kebiasaan belajar SKS dengan belajar konsisten adalah keputusan yang tetap saya ambil sendiri.
+Feedback dan tindak lanjut
+Feedback yang diterima: Azka menyampaikan bahwa ia menilai bagus karena saya sudah mulai mencicil belajar secara konsisten.
+Adaptation/replay: Saya mengganti kebiasaan belajar SKS (kebut semalam) dengan belajar setiap hari secara bertahap, dibuktikan lewat catatan belajar harian di Freeform.
+Next practice: Terus mempertahankan kebiasaan belajar harian ini, dan secara berkala meminta Azka mengecek progres saya sebagai bentuk akuntabilitas eksternal.
+Self-assessment
+Dimensi
+Skor 1–4
+Evidence singkat
+Person & Character
+3
+Reactive character (Penghindar) dan desired character (Pembelajar Konsisten) dibedakan dengan jelas.
+Objective & State
+3
+State berubah dari ingin menghindar menjadi bersedia bertindak konsisten.
+Repertoire, Language & AI
+3
+Bahasa internal berubah dari menyalahkan diri menjadi berorientasi solusi; penggunaan AI dilaporkan jujur.
+Response & Adaptation
+3
+Perubahan metode belajar (dari SKS ke cicil harian) sudah dimulai dan dibuktikan lewat catatan Freeform.
+Agreement, Action & Relationship
+3
+Ada agreement internal yang jelas, diperkuat dengan pendampingan Azka.
+Total: 15 / 20
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Character Map
+Relationship Conversation
+Portfolio KIPP-2 · Muhammad Razka Adhitya
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://razkuts.github.io/kipp-students/index.html
+- https://razkuts.github.io/kipp-students/assets/logo.png
+- https://razkuts.github.io/kipp-students/course/index.html
+- https://razkuts.github.io/kipp-students/portfolio/index.html
+- https://razkuts.github.io/kipp-students/examples/index.html
+- https://razkuts.github.io/kipp-students/lk/index.html
+- https://razkuts.github.io/kipp-students/slides.html
+- https://razkuts.github.io/kipp-students/slides-pdf/index.html
+- https://razkuts.github.io/kipp-students/assessment/index.html
+- https://razkuts.github.io/kipp-students/about.html
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html
+- https://razkuts.github.io/kipp-students/portfolio/week-01.html
+- https://razkuts.github.io/kipp-students/portfolio/week-03.html
+- https://razkuts.github.io/kipp-students/portfolio/week-04.html
+- https://razkuts.github.io/kipp-students/portfolio/week-05.html
+- https://razkuts.github.io/kipp-students/portfolio/week-06.html
+- https://razkuts.github.io/kipp-students/portfolio/week-07.html
+- https://razkuts.github.io/kipp-students/portfolio/week-08.html
+- https://razkuts.github.io/kipp-students/portfolio/week-09.html
+- https://razkuts.github.io/kipp-students/portfolio/week-10.html
+- https://razkuts.github.io/kipp-students/portfolio/week-11.html
+- https://razkuts.github.io/kipp-students/portfolio/week-12.html
+- https://razkuts.github.io/kipp-students/portfolio/week-13.html
+- https://razkuts.github.io/kipp-students/portfolio/week-14.html
+- https://razkuts.github.io/kipp-students/portfolio/week-15.html
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#kompetensi-target
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#evidence-wajib
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#episode
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#alternative-narratives
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#internal-conversation-dan-agreement
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#konteks-performance
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#evidence
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#analisis-komunikasi
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#penggunaan-ai
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#feedback-dan-tindak-lanjut
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#self-assessment
+- https://razkuts.github.io/kipp-students/portfolio/week-02.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

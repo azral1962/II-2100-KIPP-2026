@@ -1,0 +1,170 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 938
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Attention evidence dan problem–solution link
+Interest pitch dan demonstration
+Hidden concern dan adaptation
+Evidence, AI, dan feedback
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Attention evidence dan problem–solution link
+Pada Minggu 6, saya dan target (inisial G, mahasiswa seangkatan yang mengambil kedua praktikum) sudah menyepakati satu hal: praktikum Pemrograman Berorientasi Objek (09.00–11.00) dan Pemodelan Basis Data (13.00–15.00) jatuh di hari yang sama, dan pada minggu yang berimpitan dengan kuis Matematika Diskrit serta tugas kecil Jaringan Komputer, selalu ada satu praktikum yang tidak tersiapkan.
+Satu hal penting dari percakapan minggu lalu menjadi dasar solusi kali ini: ketika saya menawarkan penjelasan alternatif bahwa penyebabnya adalah kesulitan materi, target menolaknya. Menurutnya kedua materi memang sulit tetapi tetap mungkin dikuasai, sehingga yang menentukan adalah waktu persiapan. Dengan kata lain, masalah yang telah diakui bersama adalah alokasi waktu, bukan kemampuan.
+Karena itu solusi yang saya susun tidak menyentuh materi maupun jadwal, melainkan kapan keputusan prioritas diambil.
+Solution hypothesis: rutinitas sederhana bernama “Cek Senin” — mendata beban satu minggu di hari Senin, lalu menetapkan porsi belajar sejak awal minggu alih-alih menentukannya saat waktu sudah habis.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Beban satu minggu baru terasa ketika sudah mendekati hari praktikum
+Mendata praktikum, kuis, dan tugas minggu itu pada hari Senin
+Mengetahui minggu tersebut padat atau senggang sebelum mulai belajar
+Persiapan dapat dimulai dari Senin, bukan dari malam Kamis
+Pengorbanan satu praktikum terjadi karena kehabisan waktu
+Menetapkan praktikum mana yang diamankan penuh dan mana yang ditargetkan lulus, sejak hari Senin
+Pengorbanan menjadi keputusan sadar, bukan akibat panik
+Hasil yang dikorbankan tetap terkendali karena direncanakan
+Jeda dua jam antara kedua praktikum (11.00–13.00) terbuang
+Jeda digunakan untuk membaca cepat bagian dasar yang akan dipakai pada sesi siang
+Masuk praktikum kedua dengan dasar yang sudah dibaca
+Mengurangi kondisi “bengong” di sesi kedua seperti yang target alami
+Interest pitch dan demonstration
+Saya menyampaikan pitch dengan komunikasi berlapis: dimulai dari menghubungkan kembali ke masalah yang sudah diakui, lalu mekanisme ringkas tanpa jargon, lalu pernyataan batas, dan ditutup pertanyaan terbuka. Rincian teknis sengaja tidak saya sampaikan di awal.
+Saya: “Jadi kemarin lu bilang kan, yang bikin jebol itu jadwalnya, bukan materinya. Nah gw kepikiran satu cara, gw sebut ‘Cek Senin’. Cara kerjanya: tiap Senin gw daftar dulu minggu ini ada beban apa aja — praktikum, kuis, tucil. Kalau minggunya senggang, dua praktikum dicicil rata dari Senin. Kalau padat kayak minggu Matdis kemarin, gw langsung tentuin hari itu juga mana yang diamanin penuh dan mana yang cukup target lulus. Jujur ini nggak bikin dua-duanya aman. Yang berubah cuma: yang dikorbanin itu dipilih hari Senin, bukan kecelakaan malam Kamis. Menurut lu ini masuk akal nggak dijalanin, atau malah nambah ribet?”
+Batas solusi saya nyatakan sendiri di dalam pitch, sebelum ditanya. Saya tidak mengklaim rutinitas ini membuat kedua praktikum aman, karena klaim seperti itu akan langsung terbantah oleh pengalaman target sendiri.
+Target (G): “Menurut gw cara lu itu cara paling realistis, karena ya dibilang mustahil kalau ngincer nilai sempurna di empat matkul itu, kita harus set prioritas. Gw setuju sama cara lu.”
+Target menerima mekanisme utamanya. Saya kemudian menguji satu fitur yang belum dibahas, yaitu pemanfaatan jeda dua jam.
+Saya: “Kalau jeda 2 jam antara PBO sama Basdat itu dipakai buat latihan tipe soal doang, bukan baca modul lagi — kepake nggak sih menurut lu?”
+Hidden concern dan adaptation
+Di sinilah muncul keberatan yang tidak saya antisipasi.
+Target: “Hmm, menurut gw kalau lu belum belajar dasarnya dan langsung ke latsol yang tingkat kesusahannya setara praktikum, lu cooked sih. Nggak mungkin lu bisa belajar latsol kalau belum belajar dasarnya.”
+Asumsi saya keliru. Saya mengira jeda dua jam terbuang karena tidak diisi apa pun, sehingga mengisinya dengan latihan soal otomatis bernilai. Target menunjukkan hal berbeda: latihan soal setingkat praktikum menuntut prasyarat yang justru belum dimiliki pada minggu padat. Fitur itu bukan hanya tidak membantu, tetapi berpotensi membuang jeda yang tersisa.
+Saya tidak mempertahankan rancangan awal, melainkan mengubah isi fitur tersebut:
+Saya: “Bener juga sih. Berarti kalau jeda 2 jam itu dipakenya bukan buat latsol, tapi buat baca cepat bagian dasar yang bakal kepake di praktikum siang — baru masuk ke contoh soal yang gampang kalau sempat. Gitu lebih masuk akal nggak?”
+Target: “Ya menurut gw itu lebih masuk akal daripada langsung ngerjain latsol level praktikum tanpa paham dasarnya. Ketika lu belajar dasarnya dan latsol soal gampang, seenggaknya lu bisa kembangin materi yang lu pelajari saat praktikum nanti. Sukur-sukur lu dapet ilham bisa ngerjain soal praktikum dengan lu bikin cara sendiri berdasarkan dasar materi yang lu pelajari.”
+Respons terakhir ini menunjukkan signal Interest, bukan sekadar persetujuan. Target tidak berhenti pada “oke, boleh”, melainkan melanjutkan sendiri alasan mengapa mekanisme itu bisa bekerja, sampai ke konsekuensi yang tidak saya sebutkan: dasar yang dikuasai memungkinkan seseorang menyusun pendekatannya sendiri saat menghadapi soal praktikum. Target mulai melengkapi nilai solusi dengan bahasanya sendiri.
+Perubahan pada rancangan setelah adaptasi:
+Fitur
+Rancangan awal
+Setelah adaptasi
+Pemanfaatan jeda 11.00–13.00
+Latihan soal setingkat praktikum
+Membaca cepat bagian dasar yang akan dipakai sesi siang; contoh soal mudah hanya jika sempat
+Evidence, AI, dan feedback
+Kesepakatan dari Minggu 6 bahwa penyebab utamanya adalah alokasi waktu, bukan kesulitan materi, menjadi dasar perancangan solusi.
+Jadwal praktikum PBO (09.00–11.00) dan Basdat (13.00–15.00) dengan jeda dua jam menjadi konteks nyata yang dapat diperiksa.
+Pengalaman target pada minggu padat — belajar sampai pagi, lalu hanya menguasai dasar pada praktikum kedua — menjadi acuan untuk menentukan fitur mana yang relevan.
+Batas solusi dinyatakan di dalam pitch sebelum ditanya: rutinitas ini tidak membuat kedua praktikum aman, hanya memindahkan keputusan prioritas ke awal minggu.
+Hidden concern muncul pada fitur pemanfaatan jeda: latihan soal setingkat praktikum menuntut prasyarat yang belum tentu dimiliki.
+Adaptasi dilakukan dengan mengganti isi fitur tersebut, bukan membuangnya, dan perubahan itu dikonfirmasi ulang kepada target.
+AI digunakan untuk memeriksa apakah rancangan saya masih berupa daftar fitur atau sudah berupa mekanisme, serta membantu memilah fitur mana yang tidak menempel pada masalah. AI tidak digunakan untuk membuat evidence, mengarang respons target, atau menentukan keputusan akhir atas fitur.
+Next practice: menanyakan prasyarat yang dimiliki target sebelum merancang fitur, bukan sesudah fitur selesai dirancang. Keberatan pada jeda dua jam sebenarnya dapat diketahui lebih awal jika saya bertanya apa yang biasanya ia lakukan di jeda tersebut.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Solusi disusun untuk mahasiswa yang mengambil kedua praktikum, dan menempel pada kondisi yang target sendiri alami pada minggu padat
+Objective & State
+4
+Problem dibedakan dari solution; signal Interest dikenali dari target yang melanjutkan sendiri alasan mekanisme itu bisa bekerja
+Repertoire, Language & AI
+3
+Menggunakan komunikasi berlapis, penyebutan batas di awal, dan pertanyaan terbuka; namun belum ada demonstrasi atau prototipe yang dapat dicoba langsung
+Response & Adaptation
+4
+Keberatan terhadap fitur jeda tidak dibantah, melainkan dipakai mengubah isi fitur, lalu dikonfirmasi ulang
+Agreement, Action & Relationship
+4
+Target menyetujui mekanisme utama dan versi adaptasi, serta menambahkan sendiri nilai yang ia lihat dari solusi tersebut
+Total: 19/20 — Kompeten.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Muhammad Daffa Aprilianto
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://daffaaprilianto-160407.github.io/kipp-students/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assets/logo.png
+- https://daffaaprilianto-160407.github.io/kipp-students/course/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/examples/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/lk/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides.html
+- https://daffaaprilianto-160407.github.io/kipp-students/slides-pdf/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/assessment/index.html
+- https://daffaaprilianto-160407.github.io/kipp-students/about.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-01.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-02.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-03.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-04.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-05.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-06.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-08.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-09.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-10.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-11.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-12.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-13.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-14.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-15.html
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-problemsolution-link
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html#evidence-ai-dan-feedback
+- https://daffaaprilianto-160407.github.io/kipp-students/portfolio/week-07.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

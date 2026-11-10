@@ -1,0 +1,258 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 984
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://grasella07.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Week 9 - Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Week 12 — Community Communication Challenge
+Week 13 — Public Contribution Challenge
+WEEK 14 — AI-MEDIATED COMMUNICATION DESIGN
+Capstone Performance Portfolio
+Di halaman ini
+Action & Agreement Challenge
+1. Context
+2. Evidence
+3. Communication Analysis
+A. Person & Character
+B. Objective & State
+C. Repertoire & Language
+D. Response & Adaptation
+E. Agreement & Action
+F. Relationship Outcome
+4. AI Use
+5. Feedback & Follow-up
+6. Self-Assessment
+Refleksi Diri
+7. Assessor Assessment
+Action & Agreement Challenge
+Communication
+Action and Agreement
+Menganalisis kesenjangan antara kebutuhan dan tindakan, memetakan hambatan, membandingkan alternatif solusi, serta merumuskan kesepakatan tindak lanjut berdasarkan diskusi mengenai antrean kantin.
+Action & Agreement Challenge
+1. Context
+Kegiatan Action & Agreement Challenge merupakan tindak lanjut dari wawancara Week 9 mengenai permasalahan antrean kantin kampus. Dalam wawancara tersebut, saya menggali pengalaman pengguna ketika mengantre, kesulitan mengetahui perkembangan pesanan, dan kebutuhan akan informasi estimasi waktu tunggu.
+Setelah wawancara, saya kembali mendiskusikan ide sistem informasi pesanan dengan teman yang diwawancarai. Kami membahas fitur yang paling dibutuhkan pembeli serta kemungkinan langkah sederhana untuk mengembangkan ide tersebut. Saya juga bertukar pendapat dengan teman lain untuk mendapatkan perspektif tambahan mengenai kelayakan solusi.
+Dari diskusi dan analisis tersebut, saya mengidentifikasi bahwa permasalahan utama bukan hanya panjangnya antrean, tetapi juga ketidakpastian informasi selama menunggu. Pembeli perlu mengetahui status pesanan dan memperkirakan waktu makanan siap agar dapat mengatur kegiatan berikutnya, terutama ketika waktu istirahat terbatas.
+Saya kemudian mempertimbangkan alternatif solusi, hambatan penerapan, pihak yang perlu dilibatkan, dan pembagian tindakan yang dapat membantu membawa ide dari tahap pembahasan menuju rancangan awal. Fokus kegiatan ini adalah memahami kesenjangan antara kondisi yang diinginkan dan tindakan yang sudah dilakukan, serta menyusun tindak lanjut yang lebih terarah.
+2. Evidence
+Bukti kegiatan yang relevan meliputi:
+Catatan hasil wawancara Week 9 mengenai pengalaman pengguna ketika mengantre di kantin.
+Transkrip percakapan yang disusun berdasarkan wawancara.
+Hasil pengelompokan kebutuhan pengguna, termasuk kebutuhan mengetahui status pesanan dan estimasi waktu tunggu.
+Analisis alternatif solusi, prioritas fitur, hambatan operasional, dan risiko penerapan.
+Catatan diskusi lanjutan mengenai fitur yang diprioritaskan serta kemungkinan pengembangan rancangan sederhana.
+Catatan wawancara menjadi dasar untuk memahami kebutuhan pengguna, sedangkan analisis alternatif solusi membantu menghubungkan kebutuhan tersebut dengan pilihan tindakan yang memungkinkan.
+Untuk mendukung bagian kesepakatan, bukti yang paling relevan adalah catatan atau pesan yang menunjukkan keputusan mengenai rancangan awal, pembagian tanggung jawab, target penyelesaian, dan rencana peninjauan bersama. Bukti tersebut perlu menggunakan komunikasi atau hasil kerja yang benar-benar tersedia. Jika suatu keputusan hanya diingat dari percakapan lisan, hal itu perlu dijelaskan sebagai kesepakatan lisan, bukan sebagai dokumen tertulis.
+Kegiatan ini berfokus pada analisis dan penyusunan arah tindak lanjut. Efektivitas sistem dalam mengurangi waktu tunggu atau mempercepat antrean belum dapat disimpulkan karena sistem belum diuji dalam operasional kantin.
+3. Communication Analysis
+A. Person & Character
+Dalam kegiatan ini, saya berusaha memahami masalah dari sudut pandang pengguna sebelum menentukan solusi. Saya menggunakan pertanyaan terbuka untuk menggali pengalaman teman ketika mengantre, kesulitan yang dihadapi, dan informasi yang dapat membantunya mengatur waktu.
+Saya juga berusaha mempertimbangkan masukan pengguna ketika mengevaluasi gagasan awal. Salah satu masukan penting adalah bahwa estimasi waktu tunggu tetap berguna meskipun tidak selalu akurat, selama informasinya diperbarui ketika kondisi kantin berubah.
+Masukan tersebut membantu saya memahami bahwa solusi perlu mempertimbangkan pengalaman pengguna dan kondisi operasional, bukan hanya kelengkapan fitur. Sistem yang memiliki banyak fitur belum tentu efektif apabila sulit digunakan atau informasi yang ditampilkan tidak sesuai dengan kondisi sebenarnya.
+Karakter yang ingin saya kembangkan melalui kegiatan ini adalah keterbukaan terhadap perspektif orang lain, kesediaan mengevaluasi asumsi, dan tanggung jawab dalam membedakan kebutuhan yang disampaikan pengguna dari kesimpulan yang masih berupa analisis pribadi.
+B. Objective & State
+Tujuan utama pengguna adalah mengurangi ketidakpastian selama menunggu pesanan. Pengguna ingin mengetahui perkembangan pesanannya dan memperkirakan kapan makanan siap agar dapat mengatur waktu dengan lebih baik sebelum kembali mengikuti perkuliahan.
+Kondisi saat ini masih mengharuskan pembeli menunggu sampai makanan selesai dibuat atau terkadang bertanya kepada penjual untuk mengetahui perkembangan pesanan. Cara tersebut masih dapat dilakukan, tetapi kurang praktis ketika kantin ramai dan penjual sedang sibuk.
+Kesenjangan antara kondisi saat ini dan kondisi yang diinginkan dapat dirangkum sebagai berikut:
+Aspek
+Kondisi saat ini
+Kondisi yang diinginkan
+Informasi pesanan
+Pembeli menunggu atau bertanya kepada penjual
+Pembeli dapat mengetahui status pesanan secara mandiri
+Estimasi waktu
+Waktu tunggu sulit diperkirakan
+Pembeli memperoleh estimasi yang masuk akal
+Pengaturan waktu
+Pembeli kesulitan menentukan apakah perlu terus menunggu
+Pembeli dapat mengatur kegiatan berdasarkan informasi yang tersedia
+Proses operasional
+Informasi bergantung pada komunikasi langsung
+Informasi dapat diperbarui dengan cara yang mudah bagi penjual
+Saya mengidentifikasi bahwa kesenjangan tersebut berpotensi dikurangi melalui sistem informasi pesanan yang sederhana. Namun, solusi digital bukan satu-satunya kemungkinan, dan kelayakannya masih perlu dinilai berdasarkan kondisi operasional kantin.
+Hambatan yang saya identifikasi meliputi belum tersedianya sistem informasi pesanan yang sesuai dengan kebutuhan, kemungkinan keterbatasan waktu penjual untuk memperbarui status, ketepatan estimasi waktu, serta kebutuhan untuk menentukan pihak yang berwenang menyetujui penerapan sistem.
+Sebagian hambatan tersebut merupakan hasil analisis awal dan belum diverifikasi melalui observasi langsung. Karena itu, saya tidak menganggap seluruh dugaan tersebut sebagai fakta mengenai operasional kantin.
+C. Repertoire & Language
+Saya menggunakan pertanyaan terbuka untuk menggali masalah, kebutuhan, dan tanggapan pengguna terhadap solusi yang diusulkan. Setelah itu, saya mengelompokkan hasil percakapan menjadi kebutuhan utama, fitur yang berpotensi membantu, dan risiko yang perlu dipertimbangkan.
+Berdasarkan hasil wawancara dan diskusi, saya memprioritaskan status pesanan sebagai fitur awal. Estimasi waktu tunggu menjadi fitur pendukung yang melengkapi informasi status tersebut.
+Perbandingan alternatif solusi yang saya pertimbangkan adalah sebagai berikut.
+Alternatif
+Manfaat
+Trade-off atau risiko
+Status pesanan sebagai fitur awal
+Membantu pembeli mengetahui perkembangan pesanan
+Tetap membutuhkan pembaruan status dari penjual
+Status pesanan dan estimasi waktu tunggu
+Memberikan informasi perkembangan sekaligus membantu pengaturan waktu
+Estimasi dapat berubah dan perlu diperbarui
+Website sederhana
+Dapat diakses melalui ponsel tanpa memasang aplikasi
+Membutuhkan perangkat, akses sistem, dan mekanisme pembaruan yang mudah
+Papan informasi atau informasi manual
+Dapat menjadi alternatif sederhana untuk menyampaikan informasi
+Informasi mungkin tidak selalu mudah diakses secara personal dan tetap membutuhkan pembaruan
+Dari alternatif tersebut, saya mempertimbangkan website sederhana sebagai salah satu pilihan yang layak dievaluasi karena dapat diakses melalui ponsel. Rancangan awal dapat dibatasi pada nomor pesanan, status pesanan, dan estimasi waktu tunggu agar tidak terlalu rumit.
+Pemilihan website masih merupakan pilihan rancangan awal yang perlu diuji, bukan keputusan teknis yang sudah terbukti paling baik. Perbandingan antara website, aplikasi, papan informasi, dan informasi manual juga masih perlu diperkuat melalui observasi dan masukan dari penjual atau pengelola kantin.
+Melalui proses ini, saya belajar bahwa komunikasi yang efektif tidak hanya membutuhkan kemampuan menyampaikan ide, tetapi juga kemampuan menjelaskan alasan di balik pilihan, mempertimbangkan kekurangan, dan menggunakan bahasa yang mudah dipahami oleh pihak yang terlibat.
+D. Response & Adaptation
+Masukan pengguna memengaruhi cara saya memahami solusi yang dibutuhkan. Pada awalnya, saya berfokus pada informasi status pesanan. Setelah mempertimbangkan tanggapan pengguna, saya menyadari bahwa status pesanan saja belum sepenuhnya menjawab kebutuhan untuk mengatur waktu.
+Estimasi waktu tunggu juga diperlukan, tetapi tidak dapat dianggap sebagai waktu yang pasti. Ketika kondisi kantin berubah, estimasi perlu diperbarui agar tetap relevan dan tidak menimbulkan ekspektasi yang keliru.
+Berdasarkan masukan tersebut, saya mempertimbangkan tiga aspek dalam rancangan solusi:
+Status pesanan harus mudah dipahami oleh pembeli.
+Estimasi waktu tunggu perlu diperlakukan sebagai perkiraan yang dapat berubah.
+Proses pembaruan informasi harus sederhana agar tidak menambah beban kerja penjual secara berlebihan.
+Saya juga membedakan manfaat yang diharapkan dari hasil yang telah terbukti. Sistem berpotensi mengurangi ketidakpastian dan membantu pembeli mengatur waktu, tetapi belum ada bukti bahwa sistem benar-benar mengurangi durasi antrean karena belum dilakukan pengujian.
+Adaptasi ini menunjukkan bahwa saya mulai menggunakan respons pengguna untuk mengevaluasi asumsi awal dan memperbaiki arah solusi, bukan hanya mempertahankan ide yang pertama kali saya pikirkan.
+E. Agreement & Action
+Setelah wawancara dan diskusi lanjutan, arah tindakan yang dibahas adalah mengembangkan ide tersebut menjadi rancangan sederhana sistem informasi pesanan. Rancangan diprioritaskan pada status pesanan dan estimasi waktu tunggu, dengan mempertimbangkan kebutuhan pengguna serta kemungkinan kendala operasional.
+Pembagian tanggung jawab yang dibahas adalah:
+Pihak
+Tanggung jawab
+Hasil yang diharapkan
+Saya
+Merapikan hasil wawancara, menyusun kebutuhan pengguna, dan membuat rancangan awal fitur
+Rancangan yang berfokus pada masalah utama pengguna
+Teman yang diwawancarai
+Memberikan masukan dari sudut pandang calon pengguna
+Masukan mengenai kejelasan status pesanan dan manfaat estimasi waktu
+Saya dan teman
+Meninjau rancangan bersama
+Identifikasi bagian yang perlu diperbaiki sebelum rancangan diuji lebih lanjut
+Target tindak lanjut yang dibahas adalah menyelesaikan rancangan awal dalam waktu satu minggu setelah diskusi lanjutan, kemudian meninjaunya bersama. Target tersebut dimaksudkan agar ide dapat bergerak dari tahap pembahasan menuju hasil kerja yang bisa dievaluasi.
+Agar kesepakatan dapat dinilai secara konkret, perlu dibedakan antara keputusan yang telah disepakati dan tindakan yang masih harus dilaksanakan. Rancangan awal, masukan dari calon pengguna, dan hasil peninjauan merupakan keluaran yang dapat diperiksa. Sementara itu, pengembangan sistem dan pengujian dalam operasional kantin merupakan tahap lanjutan yang belum dapat dianggap selesai.
+Kesepakatan mengenai rancangan awal juga belum berarti bahwa penjual atau pengelola kantin telah menyetujui penerapan sistem. Pihak tersebut tetap perlu dilibatkan sebelum solusi diterapkan dalam kegiatan operasional.
+Dari proses ini, saya memahami bahwa kesepakatan yang efektif harus menjawab empat pertanyaan: apa yang akan dikerjakan, siapa yang bertanggung jawab, kapan hasilnya ditinjau, dan bukti apa yang menunjukkan kemajuan. Pembagian tanggung jawab dan target waktu membantu memperjelas arah tindakan, sedangkan bukti hasil kerja diperlukan untuk menilai apakah tindakan tersebut benar-benar terlaksana.
+F. Relationship Outcome
+Diskusi lanjutan membantu saya memperjelas kebutuhan pengguna dan mengembangkan gagasan solusi menjadi lebih terstruktur. Saya memperoleh pemahaman bahwa status pesanan dan estimasi waktu tunggu memiliki manfaat berbeda tetapi saling melengkapi.
+Pertukaran pendapat juga membantu saya mempertimbangkan kesederhanaan fitur dan risiko yang dapat muncul jika informasi terlambat diperbarui. Hal tersebut menjadi dasar untuk menentukan fitur yang perlu diprioritaskan dan bagian yang masih perlu dievaluasi.
+Hasil yang dapat diidentifikasi dari kegiatan ini adalah kebutuhan pengguna yang lebih terstruktur, alternatif solusi yang telah dipertimbangkan, serta arah tindak lanjut berupa rancangan awal dan peninjauan bersama.
+Namun, hasil tersebut belum membuktikan bahwa sistem telah meningkatkan efisiensi antrean. Efektivitas solusi masih perlu dinilai melalui pengujian, misalnya dengan memeriksa apakah pembeli lebih mudah mengetahui status pesanan dan apakah proses pembaruan informasi dapat dilakukan tanpa mengganggu pekerjaan penjual.
+Saya menyimpulkan bahwa komunikasi dapat menghasilkan pemahaman dan arah tindakan yang lebih jelas, tetapi keberhasilan implementasi tetap bergantung pada pelaksanaan, koordinasi, dan evaluasi hasil secara nyata.
+4. AI Use
+Saya menggunakan AI sebagai alat bantu untuk menyusun refleksi, mengelompokkan hambatan, membandingkan alternatif solusi, dan memperjelas hubungan antara kebutuhan pengguna, fitur yang diusulkan, serta risiko penerapannya.
+AI juga membantu saya memeriksa kelengkapan analisis, terutama mengenai kesenjangan antara kondisi saat ini dan kondisi yang diinginkan, pihak yang perlu dilibatkan, serta pentingnya menentukan tanggung jawab dan tindak lanjut.
+Saya tetap perlu memeriksa kembali relevansi analisis dengan hasil wawancara dan diskusi. Informasi mengenai respons pengguna harus sesuai dengan percakapan yang benar-benar terjadi, sedangkan analisis mengenai kewenangan, hambatan operasional, dan pilihan teknologi perlu dibedakan dari fakta yang telah diverifikasi.
+AI membantu proses penyusunan dan pengorganisasian gagasan, tetapi tidak menggantikan pengalaman komunikasi, pengambilan keputusan, atau bukti pelaksanaan kegiatan. Kesepakatan dan hasil tindakan harus didukung oleh kejadian atau hasil kerja yang benar-benar tersedia.
+5. Feedback & Follow-up
+Masukan utama yang saya peroleh dari pengguna adalah bahwa estimasi waktu tunggu tetap bermanfaat meskipun tidak selalu akurat, selama informasinya diperbarui ketika kondisi kantin berubah. Masukan ini membuat saya mempertimbangkan pembaruan informasi sebagai bagian penting dari rancangan.
+Saya juga menyadari bahwa solusi perlu mempertimbangkan pihak yang akan menggunakannya. Pembeli membutuhkan informasi yang mudah dipahami, sedangkan penjual membutuhkan proses pembaruan yang praktis dan tidak mengganggu pekerjaan utama.
+Tindak lanjut yang dibahas adalah menyusun rancangan sederhana, meminta masukan dari calon pengguna, dan meninjau bagian yang perlu diperbaiki. Setelah rancangan tersedia, evaluasi perlu difokuskan pada tiga pertanyaan:
+Apakah fitur yang dirancang sudah menjawab kebutuhan utama pengguna?
+Apakah status dan estimasi waktu dapat diperbarui dengan cara yang praktis?
+Risiko apa yang masih perlu diperbaiki sebelum rancangan diuji lebih lanjut?
+Saya juga mengidentifikasi beberapa hal yang perlu diperbaiki dalam komunikasi berikutnya. Saya perlu menggali prioritas pengguna secara lebih mendalam, mengonfirmasi rangkuman hasil diskusi, dan memastikan bahwa pembagian tanggung jawab serta target waktu dipahami dengan cara yang sama oleh semua pihak.
+Dengan demikian, tindak lanjut tidak berhenti pada kesepakatan lisan, tetapi dapat diarahkan menuju hasil kerja yang bisa diperiksa dan dievaluasi.
+6. Self-Assessment
+Dimensi
+Skor
+Alasan
+Person & Character
+3/4
+Saya berusaha memahami kebutuhan pengguna dan mempertimbangkan masukan sebelum menentukan solusi. Saya masih perlu memperluas pemahaman melalui perspektif pihak lain yang terlibat dalam operasional kantin.
+Objective & State
+3/4
+Saya mampu mengidentifikasi masalah, kebutuhan pengguna, dan kondisi yang diharapkan. Analisis masih perlu diperkuat melalui observasi langsung agar asumsi mengenai proses operasional dapat diverifikasi.
+Repertoire & Language
+3/4
+Saya menggunakan pertanyaan terbuka dan membandingkan beberapa alternatif solusi. Saya masih perlu menggali prioritas pengguna lebih mendalam serta membahas trade-off dengan pihak yang akan menggunakan atau mengelola sistem.
+Response & Adaptation
+3/4
+Saya mempertimbangkan masukan mengenai estimasi waktu yang dapat berubah dan menyesuaikan arah rancangan. Efektivitas penyesuaian tersebut masih perlu dievaluasi melalui masukan lanjutan atau pengujian.
+Agreement & Action
+3/4
+Saya telah merumuskan arah tindak lanjut, pembagian tanggung jawab, target penyelesaian rancangan, dan evaluasi bersama. Penilaian ini perlu didukung oleh bukti kesepakatan serta hasil kerja yang benar-benar terlaksana.
+Total
+15/20
+Refleksi Diri
+Saya menilai bahwa kekuatan utama saya dalam kegiatan ini adalah kemampuan menggali masalah melalui pertanyaan terbuka, mempertimbangkan respons pengguna, dan menghubungkan kebutuhan tersebut dengan alternatif solusi yang relevan.
+Saya juga mulai memahami bahwa solusi yang baik tidak hanya ditentukan oleh kelengkapan fitur, tetapi juga oleh kemudahan penggunaan, ketepatan informasi, dan kelayakan penerapan dalam kondisi nyata. Masukan mengenai perubahan estimasi waktu membantu saya mengevaluasi gagasan awal dan mempertimbangkan kebutuhan pembaruan informasi.
+Kelemahan utama saya adalah belum cukup mendalami prioritas pengguna dan belum memverifikasi seluruh asumsi mengenai proses operasional kantin. Saya juga perlu memastikan bahwa setiap kesepakatan diikuti pembagian tanggung jawab yang dipahami bersama, target waktu yang jelas, dan bukti tindak lanjut.
+Jika melakukan kegiatan serupa kembali, saya akan melakukan observasi singkat terhadap proses antrean, menggali pengalaman beberapa pengguna, dan meminta masukan dari penjual sebelum menetapkan rancangan. Saya juga akan menutup diskusi dengan merangkum keputusan, mengonfirmasi pemahaman semua pihak, dan menetapkan cara mengevaluasi hasil kerja.
+Melalui kegiatan ini, saya memahami bahwa komunikasi yang efektif bukan hanya tentang memahami kebutuhan dan menyampaikan ide, tetapi juga tentang mengubah pemahaman tersebut menjadi tindakan yang terarah, dapat diperiksa, dan dievaluasi berdasarkan hasil nyata.
+7. Assessor Assessment
+Assessor Score:
+Assessor Feedback:
+Kembali ke atas
+Week 9 - Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Grasella
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://grasella07.github.io/kipp-students/index.html
+- https://grasella07.github.io/kipp-students/assets/logo.png
+- https://grasella07.github.io/kipp-students/course/index.html
+- https://grasella07.github.io/kipp-students/portfolio/index.html
+- https://grasella07.github.io/kipp-students/examples/index.html
+- https://grasella07.github.io/kipp-students/lk/index.html
+- https://grasella07.github.io/kipp-students/slides.html
+- https://grasella07.github.io/kipp-students/slides-pdf/index.html
+- https://grasella07.github.io/kipp-students/assessment/index.html
+- https://grasella07.github.io/kipp-students/about.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html
+- https://grasella07.github.io/kipp-students/portfolio/week-01.html
+- https://grasella07.github.io/kipp-students/portfolio/week-02.html
+- https://grasella07.github.io/kipp-students/portfolio/week-03.html
+- https://grasella07.github.io/kipp-students/portfolio/week-04.html
+- https://grasella07.github.io/kipp-students/portfolio/week-05.html
+- https://grasella07.github.io/kipp-students/portfolio/week-06.html
+- https://grasella07.github.io/kipp-students/portfolio/week-07.html
+- https://grasella07.github.io/kipp-students/portfolio/week-08.html
+- https://grasella07.github.io/kipp-students/portfolio/week-09.html
+- https://grasella07.github.io/kipp-students/portfolio/week-11.html
+- https://grasella07.github.io/kipp-students/portfolio/week-12.html
+- https://grasella07.github.io/kipp-students/portfolio/week-13.html
+- https://grasella07.github.io/kipp-students/portfolio/week-14.html
+- https://grasella07.github.io/kipp-students/portfolio/week-15.html
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#action-agreement-challenge
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#context
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#evidence
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#communication-analysis
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#a.-person-character
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#b.-objective-state
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#c.-repertoire-language
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#d.-response-adaptation
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#e.-agreement-action
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#f.-relationship-outcome
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#ai-use
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#feedback-follow-up
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#self-assessment
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#refleksi-diri
+- https://grasella07.github.io/kipp-students/portfolio/week-10.html#assessor-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
