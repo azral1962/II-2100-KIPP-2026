@@ -1,0 +1,180 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1084
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Stakeholder dan multi-state map
+Negotiation evidence
+Options, agreement, dan dissent
+Relationship review dan AI
+Self-assessment
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Stakeholder map, interests, options, trade-offs, dan agreement.
+Kompetensi target
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+Evidence wajib
+Stakeholder person map dan multi-state TAIDA.
+Position–interest analysis, common ground, dan options.
+Negotiation evidence, agreement/dissent, dan relationship review.
+Stakeholder dan multi-state map
+Isu yang dirundingkan adalah perluasan pilot pelaporan status unit refill, yaitu izin pemasangan stiker QR dan aturan pemakaian data laporan. Saya berperan sebagai fasilitator dengan lima stakeholder.
+Person
+Position
+Interest/constraint
+Authority
+State awal
+Mahasiswa pengguna refill
+“Pasang QR di semua unit mulai minggu depan”
+Tahu unit terdekat yang berisi, tanpa data pribadi dan tanpa melapor setiap hari
+Dapat berpartisipasi atau menolak
+Desire
+Petugas pengisi galon
+“Tidak perlu ada rekap”
+Tidak disalahkan atas unit kosong, jadwal isi ulang bukan ia yang menentukan
+Menjalankan pengisian
+Attention
+Teknisi pemeliharaan
+“Kerusakan lewat kanal resmi kami”
+Laporan rusak lengkap dan terkumpul, tenaga terbatas
+Technical clearance atas kerusakan
+Target
+Kepala sarana prasarana
+“Tidak ada stiker tanpa izin tertulis”
+Fasilitas rapi dan data aman, tanpa tanggung jawab baru
+Izin pemasangan
+Target
+Pedagang air kemasan
+“Jangan promosikan refill sebagai pengganti air kemasan”
+Penjualan harian tidak turun, tidak merasa dijadikan lawan
+Tidak memiliki authority atas unit
+Target
+Common ground. Semua pihak ingin keluhan unit kosong berkurang tanpa membocorkan data pribadi, tanpa menyalahkan orang, dan tanpa menambah pekerjaan yang tidak layak.
+Negotiation evidence
+Pengelola: “Tidak ada stiker di dinding gedung tanpa izin tertulis.”
+Petugas: “Kalau rekapnya muncul per jam, nanti kelihatan saya yang telat mengisi.”
+Saya: “Apa yang paling Bapak khawatirkan kalau rekap itu dibaca orang lain?”
+Petugas: “Saya bukan yang menentukan jadwal isi. Tapi nanti saya yang disalahkan.”
+Saya: “Berarti yang Bapak butuhkan bukan menolak rekap, tetapi rekap yang tidak menyebut orang. Apakah saya menangkapnya dengan benar?”
+Petugas: “Iya. Kalau tidak ada nama, saya tidak keberatan.”
+Teknisi: “Laporan rusak harus lewat kanal kami, satu pesan, bukan satu-satu.”
+Pedagang: “Kalau orang jadi isi botol terus, saya jualan apa?”
+Saya: “Apakah Ibu keberatan pada refill-nya, atau pada tulisan yang bisa ada di stiker?”
+Pedagang: “Tulisannya. Kalau tidak membandingkan dengan air kemasan, saya masih bisa terima.”
+Saya tidak memaksakan satu paket yang harus disetujui semua pihak. Saya memisahkan hal yang sudah disepakati dari hal yang masih menjadi ketidaksepakatan.
+Options, agreement, dan dissent
+Opsi 1. Berhenti di Tahap 1, yaitu QR lewat pesan selama tiga hari. Risiko rendah, tetapi tidak menguji pemakaian nyata di unit.
+Opsi 2. Tahap 2, yaitu stiker kecil di tiga unit selama dua minggu, bersyarat pada hasil Tahap 1 dan izin tertulis.
+Opsi 3. Menghentikan pilot. Tidak ada risiko, tetapi tidak ada data.
+Kelima pihak menyetujui Opsi 2 dengan empat syarat. Rekap hanya per unit dan per jam tanpa nama petugas, laporan Rusak dirangkum mingguan ke kanal teknisi, teks stiker bersifat netral tanpa membandingkan dengan air kemasan, dan izin pengelola harus tertulis dengan hak mencabut. Tahap 2 hanya berjalan bila laporan Tahap 1 cocok dengan pengecekan saya minimal 7 dari 9.
+Dua specific disagreement dicatat dan dipertahankan dalam keputusan. - Petugas belum menyetujui tabel status terbuka yang menampilkan rekap jam kosong per hari kepada mahasiswa. Solusinya, tabel terbuka hanya menampilkan status terakhir dan jam laporan, sedangkan rekap per hari hanya dibaca petugas dan pengelola. - Pedagang air kemasan tetap khawatir penjualannya turun. Belum ada data untuk menjawab kekhawatiran itu, sehingga dicatat sebagai hal yang diamati selama Tahap 2.
+Relationship review dan AI
+Observer mencatat bahwa pada menit keenam saya menawarkan rekap tanpa nama sebelum kepentingan petugas selesai digali. Saya mengakui hal itu, berhenti menawarkan, dan kembali bertanya. Observer juga mencatat bahwa pedagang air kemasan baru berbicara setelah saya menyapanya langsung dengan pertanyaan terbuka. Setelah rapat, kelima pihak menyatakan ringkasan keputusan sudah mencerminkan ucapan mereka, dan pedagang meminta satu kalimat tentang kekhawatiran penjualannya ditambahkan.
+AI dipakai sebelum rapat untuk menyusun daftar kemungkinan kepentingan tiap peran dan pertanyaan penyelidikan. Daftar itu saya perlakukan sebagai hipotesis, dan kekhawatiran petugas dibaca sebagai penilaian kinerja serta kekhawatiran pedagang soal penjualan baru muncul dari percakapan. Opsi final lahir dari wewenang dan constraint tiap pihak, bukan dipilih AI.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Position, interest, authority, dan state lima stakeholder dibedakan dan diperbarui sepanjang rapat
+Objective & State
+3
+Multi-state map disusun dan beberapa objective dikelola, tetapi saya menawarkan solusi terlalu cepat pada menit keenam
+Repertoire, Language & AI
+3
+Mendengarkan tiga tingkat, parafrase, dan reframing dipakai, dan AI hanya dipakai untuk hipotesis
+Response & Adaptation
+4
+Kekhawatiran petugas mengubah rekap menjadi tanpa nama, dan kekhawatiran pedagang mengubah teks stiker
+Agreement, Action & Relationship
+3
+Agreement dan dua dissent tercatat dengan threshold, tetapi satu dissent belum terselesaikan
+Total: 17/20, Lanjut.
+Kembali ke atas
+Action & Agreement Challenge
+Community Communication Challenge
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#quarto-document-content
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#stakeholder-dan-multi-state-map
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#negotiation-evidence
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#options-agreement-dan-dissent
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#relationship-review-dan-ai
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

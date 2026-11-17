@@ -1,0 +1,160 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1109
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Current dan desired state
+Feature–benefit–value–outcome chain
+Percakapan dan response
+Risk dan evidence
+Self-assessment
+Assessment dosen
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation.
+Current dan desired state
+Rumusan kondisi saat ini dan kondisi yang diharapkan disusun langsung berdasarkan wawancara klarifikasi dengan Koordinator Helpdesk & Registrasi (bukan sekadar asumsi pengembang):
+Elemen
+Rumusan target, bukan asumsi pribadi
+Current state
+Petugas meja layanan mencari status peserta di tiga tab spreadsheet berbeda; peserta baru mengetahui status aktivasi token setelah mengantre di meja bantuan
+Desired state
+Peserta dapat memverifikasi kesiapan aktivasi secara mandiri sebelum mengantre, dan petugas hanya memelihara satu sumber data utama tanpa perlu menyalin ulang status ke lembar terpisah
+Value
+Beban kognitif dan kelelahan petugas meja bantuan berkurang signifikan; peserta memperoleh kepastian status lebih cepat
+Acceptable risk
+Uji coba terbatas pada 1 meja registrasi selama 1 sesi kegiatan (3 jam) dengan opsi kembali ke pencarian tab manual kapan saja
+Evidence threshold
+Nol insiden kebocoran data/token; median waktu layanan meja registrasi turun ke bawah 45 detik per peserta, atau petugas menilai alur kerja terasa lebih ringan
+Feature–benefit–value–outcome chain
+Tampilan pencarian satu layar & halaman cek 2-parameter (NIM + 4 digit HP) \(\rightarrow\) petugas melihat seluruh status dalam satu tempat dan peserta mengecek kesiapan aktivasi sebelum mengantre \(\rightarrow\) pertanyaan berulang terkait status token berkurang dan alur verifikasi lebih singkat \(\rightarrow\) petugas dapat fokus menangani kasus pengecualian (data belum sinkron) \(\rightarrow\) waktu tunggu antrean menurun dan ketertiban registrasi meningkat.
+Rantai di atas tidak diklaim sebagai kepastian absolut. Setiap tanda panah diposisikan sebagai hipotesis kerja yang harus diuji melalui bukti empiris saat uji coba berlangsung.
+Percakapan dan response
+Saya: “Jika uji coba sesi pagi besok kita anggap berhasil, perubahan keadaan apa yang paling ingin Anda lihat di meja layanan?”
+Target (Koordinator): “Bukan sekadar antrean terlihat lebih pendek di awal. Saya ingin petugas saya tidak perlu melakukan copy-paste atau menyinkronkan dua file spreadsheet berbeda setiap ada peserta baru yang diaktivasi.”
+Saya: “Berarti prototipe V2 saya saat ini tetap dianggap gagal apabila masih membuat lembar salinan terpisah untuk halaman cek mandiri, meskipun tampilannya sudah aman memakai 2 parameter?”
+Target (Koordinator): “Betul. Kalau harus update di dua tempat, risiko salah data malah lebih tinggi saat jam ramai.”
+Berdasarkan respons tersebut, saya memodifikasi arsitektur prototipe V2 menjadi V3: tampilan pencarian petugas dan halaman cek status mandiri membaca langsung dari satu sumber data utama (single source of truth) menggunakan formula referensi read-only dinamis, tanpa membuat tabel salinan kedua. Rumusan desired state target pun diperbarui dari semula sekadar “mengurangi pertanyaan berulang” menjadi “verifikasi cepat dan cek mandiri tanpa duplikasi input data”.
+Risk dan evidence
+Risiko Utama & Safeguard: Risiko utama adalah keterlambatan pembaruan tampilan (caching delay) sekitar 1–2 menit saat petugas mengaktifkan status peserta di tabel utama. Sebagai pengaman (safeguard), saya menambahkan indikator stempel waktu (“Status disinkronkan pukul HH:MM”) di bagian atas halaman cek mandiri, serta menetapkan aturan bahwa keputusan verifikasi akhir untuk kasus mendesak tetap mengacu langsung pada tabel utama petugas.
+Keputusan Target: Target menyetujui pelaksanaan uji pemeriksaan teknis (technical check) bersama satu petugas meja bantuan selama 15 menit sebelum sesi dimulai guna memastikan formula referensi tidak melambatkan dokumen utama, alih-alih langsung membuka akses ke seluruh peserta.
+Pemanfaatan AI & Refleksi: AI digunakan untuk memeriksa apakah ada lompatan logika pada rantai feature–benefit–value–outcome. Saya menolak usulan kalimat promosi dari AI yang mengklaim “efisiensi waktu meningkat 70%” karena belum ada data pengujian lapangan yang mendukung angka tersebut.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Rumusan desired state menggunakan bahasa dan prioritas beban kerja Koordinator
+Objective & State
+4
+Current state, desired state, acceptable risk, dan evidence threshold terdokumentasi eksplisit
+Repertoire, Language & AI
+3
+Value chain disajikan secara jujur sebagai hipotesis; klaim angka tanpa bukti dihindari
+Response & Adaptation
+4
+Keberatan target terkait duplikasi file mengubah arsitektur prototipe menjadi single source of truth
+Agreement, Action & Relationship
+3
+Technical check 15 menit disepakati sebelum uji coba penuh tanpa pemaksaan komitmen
+Total: 17/20 — Lanjut. Skor didukung oleh perubahan arsitektur solusi yang substantif berdasarkan masukan target, bukan sekadar perubahan retorika.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#quarto-document-content
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/lk/index.html
+- https://fkkhrri.github.io/kipp-students/slides.html
+- https://fkkhrri.github.io/kipp-students/slides-pdf/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#current-dan-desired-state
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#percakapan-dan-response
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#risk-dan-evidence
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

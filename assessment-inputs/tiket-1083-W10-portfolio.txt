@@ -1,0 +1,160 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1083
+Minggu: 10
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-10.html
+
+Isi halaman portfolio:
+---
+Action & Agreement Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Action & Agreement Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Desire–action gap
+Options dan trade-off
+Agreement eksplisit
+Action evidence dan adaptation
+Self-assessment
+Action & Agreement Challenge
+TAIDA
+Action
+Barrier, authority, negotiation, agreement, dan action evidence.
+Kompetensi target
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Evidence wajib
+Barrier dan authority map.
+Options dan trade-off yang dibahas.
+Agreement dengan owner/deadline serta bukti action atau review.
+Desire–action gap
+Pada Minggu 9, target menyatakan ingin tahu unit terdekat yang masih ada air dan bersedia mengikuti pilot, tetapi belum ada yang bertindak. Percakapan penemuan pada 4 November 2026 menunjukkan barrier berikut.
+Barrier
+Person dengan authority
+Respons
+Izin menempel stiker QR di unit refill
+Pengelola gedung atau kepala sarana prasarana
+Harus menyetujui sebelum QR dipasang
+Kesediaan melapor selama pilot
+Target (rekan sekelas)
+Dapat memutuskan sendiri seberapa sering ia melapor
+Pengecekan tiga titik pada pukul 10.00, 12.00, dan 14.00
+Saya
+Dapat mengerjakan di sela jadwal kuliah
+Waktu petugas untuk membaca rekap
+Petugas pengisi atau teknisi gedung
+Belum dilibatkan, jadi di luar scope pilot
+Saya sempat mengira rekan saya dapat “menyetujui” penempelan stiker, padahal ia pengguna, bukan pemilik unit. Authority atas pemasangan ada pada pengelola gedung, sehingga stiker ditunda dan pilot memakai QR yang dikirim lewat pesan.
+Options dan trade-off
+Pilot 3 hari, 1 unit utama dan 2 titik pembanding, QR lewat pesan. Evidence terbatas, tetapi risiko dan beban rendah dan tidak butuh izin.
+Pilot 2 minggu, stiker di 3 unit. Evidence lebih kuat, tetapi butuh izin pengelola gedung dan lebih banyak pelapor.
+Pengecekan manual tanpa QR. Cepat, tetapi tidak menguji mekanisme pelaporan.
+Target memilih opsi 1 dengan dua syarat, yaitu tidak ada nama, NIM, atau email di form dan ia boleh berhenti kapan saja.
+Agreement eksplisit
+Scope. Satu unit refill di gedung kuliah dan dua titik pembanding, Selasa 10 sampai Kamis 12 November 2026, pada pukul 10.00, 12.00, dan 14.00.
+Owner. Saya membuat form, QR, dan tabel serta mengecek tiga titik refill. Rekan saya mengirim satu laporan uji dan melapor status unit utama setiap kali ia memakainya.
+Deadline. Form dan QR siap Sabtu 7 November pukul 20.00, uji coba rekan Minggu 8 November pukul 12.00, dan review Jumat 13 November pukul 16.00.
+Evidence. 27 catatan pengecekan saya, laporan rekan, dan catatan “tidak memakai unit” pada hari ia tidak memakai unit.
+Stop rule. Pilot dihentikan bila rekan saya mengirim kata “berhenti”, bila ada nama, NIM, atau email yang tersimpan di form, atau bila pengelola gedung meminta QR dihentikan.
+Review. Jumat 13 November 2026 pukul 16.00, dengan threshold yang sudah disepakati pada Minggu 9 (laporan cocok dengan pengecekan saya minimal 7 dari 9).
+Action evidence dan adaptation
+Pada uji coba form, rekan saya mengirim satu laporan dan menyampaikan bahwa pilihan Kosong membingungkan bila kerannya macet padahal air ada. Saya menambah pilihan Rusak pada form, sehingga laporan bisa membedakan unit yang airnya habis dari unit yang bermasalah. Perubahan ini sejalan dengan pertanyaan dari Minggu 6, yaitu apakah masalahnya jadwal pengisian atau unit yang bermasalah.
+Bukti action yang saya simpan adalah tangkapan layar form sebelum dan sesudah penambahan pilihan Rusak, tangkapan layar pengaturan yang mematikan pengumpulan nama, NIM, dan email, serta tabel status dengan kolom jam laporan. Checkpoint pada 5 November juga menemukan bahwa tabel awal belum menampilkan jam laporan, dan itu diperbaiki sebelum tenggat.
+AI dipakai untuk menyusun draf agreement dan memeriksa kata yang masih kabur. Izin pemasangan stiker tetap menjadi wewenang pengelola gedung, bukan AI maupun rekan saya.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Authority dan responsibility tiap person dibedakan, dan kekeliruan soal siapa yang berwenang atas stiker dikoreksi
+Objective & State
+4
+Desire–action gap dipetakan menjadi empat barrier konkret dengan person yang berwenang
+Repertoire, Language & AI
+3
+Tiga opsi dan trade-off dijelaskan proporsional, dan kata kabur diperiksa dengan bantuan AI
+Response & Adaptation
+4
+Catatan rekan tentang pilihan Kosong mengubah form dengan menambah pilihan Rusak
+Agreement, Action & Relationship
+4
+Scope, owner, deadline, evidence, stop rule, dan review lengkap, dengan hak rekan untuk berhenti dan tidak melapor
+Total: 18/20, Lanjut.
+Kembali ke atas
+Desire-State Communication
+Multi-Person Negotiation Challenge
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#quarto-document-content
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#desireaction-gap
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#options-dan-trade-off
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#agreement-eksplisit
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#action-evidence-dan-adaptation
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

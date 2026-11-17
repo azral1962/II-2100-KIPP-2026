@@ -1,0 +1,152 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1081
+Minggu: 09
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-09.html
+
+Isi halaman portfolio:
+---
+Desire-State Communication – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Desire-State Communication
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Current dan desired state
+Feature–benefit–value–outcome chain
+Percakapan dan response
+Risk dan evidence
+Self-assessment
+Desire-State Communication
+TAIDA
+Desire
+Current state, desired state, value, evidence, dan risk.
+Kompetensi target
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Evidence wajib
+Current dan desired state milik person.
+Feature–benefit–value–outcome chain.
+Risk, evidence threshold, response, dan adaptation.
+Current dan desired state
+Elemen
+Rumusan target, bukan asumsi saya
+Current state
+Target sering sampai di unit refill yang kosong, lalu berpindah ke unit lain tanpa tahu apakah di sana ada air. Pada 9 pengecekan saya, unit kosong 5 kali
+Desired state
+Target tahu unit terdekat yang masih ada air sebelum berjalan, sehingga cukup berjalan sekali
+Value
+Jeda kuliah yang singkat tidak habis untuk mondar-mandir, dan target mendapat kepastian arah, bukan kepastian air selalu ada
+Acceptable risk
+Pilot tiga hari pada satu unit tanpa biaya dan tanpa aplikasi, dapat dihentikan target kapan saja, dan laporan dianggap petunjuk, bukan jaminan
+Evidence threshold
+Laporan pilot cocok dengan pengecekan saya pada pukul 10.00, 12.00, dan 14.00 di sebagian besar pengecekan (saya tetapkan minimal 7 dari 9), dan target merasa tidak berjalan dua kali pada hari pilot
+Desired state di atas bukan rumusan awal saya. Draf awal saya adalah “target tahu status unit sebelum berjalan”, dan rumusan akhir muncul dari jawaban target pada percakapan di bawah.
+Feature–benefit–value–outcome chain
+QR ke form status → target melapor dan membaca status terakhir beserta waktunya → target tahu unit mana yang berisi sebelum berjalan → target berjalan sekali ke unit yang tepat → jeda kuliah tidak habis di jalan.
+Saya tidak menyatakan chain itu pasti. Setiap panah adalah hypothesis yang perlu diuji, dan panah yang paling lemah adalah dari melapor ke laporan yang cukup banyak dan baru, karena bergantung pada kemauan orang lain untuk melapor.
+Percakapan dan response
+Saya: “Jika pilot ini berhasil, keadaan apa yang ingin Kamu lihat?”
+Target: “Bukan sekadar tahu unitnya kosong atau tidak. Aku mau tahu unit terdekat mana yang masih ada air, biar nggak jalan dua kali.”
+Saya: “Berarti rancangan saya yang hanya menampilkan satu unit belum cukup, walaupun cara melapornya sudah mudah?”
+Target: “Iya, begitu.”
+Saya mengubah solution. Halaman status sekarang memuat juga dua titik pembanding yang disebut target pada Minggu 6, dengan laporan dari pengecekan saya sendiri pada pukul 10.00, 12.00, dan 14.00 selama pilot. Sumber tiap laporan ditandai jelas, yaitu “dilapor pengguna” atau “dicek penulis”. Peta seluruh kampus tetap saya pangkas. Desired state berubah dari “kepastian status satu unit” menjadi “tahu unit terdekat yang berisi”.
+Risk dan evidence
+Risiko utama adalah laporan yang sedikit atau sudah basi. Safeguard yang saya pakai adalah waktu laporan yang tampil jelas, tanda “mungkin sudah berubah” untuk laporan lebih dari 30 menit, dan keputusan berjalan atau tidak yang tetap di tangan pengguna. Target menyetujui pilot tiga hari pada satu unit dengan dua titik pembanding, bukan pemasangan permanen. Izin pemasangan stiker belum saya minta dan baru saya ajukan ke pengelola gedung bila hasil pilot mencapai threshold.
+AI dipakai untuk menguji lompatan logika pada chain dan menyiapkan tiga skenario keberatan. Saya tidak memasukkan klaim persentase pengurangan perjalanan sia-sia karena belum ada hasil pilot.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Desired state memakai bahasa dan value target sendiri, dan menggantikan asumsi awal saya
+Objective & State
+4
+Current/desired state, acceptable risk, dan evidence threshold dinyatakan eksplisit dan terukur
+Repertoire, Language & AI
+3
+Chain disajikan sebagai hypothesis, satu alur didemonstrasikan, tetapi belum memakai analogi
+Response & Adaptation
+4
+Jawaban target tentang unit alternatif mengubah isi halaman status dan desired state
+Agreement, Action & Relationship
+3
+Pilot tiga hari disepakati tanpa memaksa, tetapi belum ada keputusan pemasangan permanen
+Total: 18/20, Lanjut.
+Kembali ke atas
+Portfolio Minggu 8 — UTS KIPP
+Action & Agreement Challenge
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#quarto-document-content
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#current-dan-desired-state
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#featurebenefitvalueoutcome-chain
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#percakapan-dan-response
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#risk-dan-evidence
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

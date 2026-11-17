@@ -1,0 +1,178 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1111
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Stakeholder dan multi-state map
+Negotiation evidence
+Options, agreement, dan dissent
+Relationship review dan AI
+Self-assessment
+Assessment dosen
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Stakeholder map, interests, options, trade-offs, dan agreement.
+Kompetensi target
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+Evidence wajib
+Stakeholder person map dan multi-state TAIDA.
+Position–interest analysis, common ground, dan options.
+Negotiation evidence, agreement/dissent, dan relationship review.
+Stakeholder dan multi-state map
+Setelah pilot 1 meja pada Minggu 10 menunjukkan penurunan waktu verifikasi, tim berencana memperluas penerapan ke seluruh meja layanan pada acara puncak. Negosiasi lintas pemangku kepentingan dilakukan untuk menyelaraskan kepentingan dan batasan tiap pihak:
+Person
+Position
+Interest/constraint
+Authority
+State
+Ketua Umum Organisasi
+“Perluas ke semua meja asal acara lancar”
+Reputasi acara, kelancaran antrean, dan minim komplain
+Final approval kebijakan
+Desire
+Koordinator Helpdesk & Registrasi
+“Jangan tambah input manual baru bagi petugas”
+Pencegahan kelelahan petugas (workload shift) saat jam puncak
+Operasional & rotasi petugas
+Desire
+Tim Pengembang Back-End
+“Gunakan endpoint resmi tanpa file perantara”
+Keamanan data pribadi (privacy) dan integritas single source of truth
+Technical clearance
+Attention
+Perwakilan Anggota / Peserta
+“Status token harus tampil real-time saat baru bayar”
+Kepastian verifikasi instan tanpa perlu antre ulang di meja bantuan
+Dapat menggunakan atau mengabaikan layanan
+Interest
+Common ground: Seluruh pihak sepakat untuk mengurangi penumpukan antrean verifikasi dan pertanyaan berulang secara tertib, tanpa menimbulkan beban input ganda bagi petugas maupun celah kebocoran data pribadi anggota.
+Negotiation evidence
+Tim Back-End: “Kami menolak penggunaan spreadsheet penghubung baru untuk mengirim ulang token otomatis karena berisiko membuka celah akses database utama.”
+Perwakilan Anggota: “Kalau pembaruan status hanya dilakukan manual setiap satu jam, peserta yang baru mendaftar di lokasi tetap harus mengantre lama di meja helpdesk.”
+Saya (Fakhri): “Kedua pihak sama-sama ingin menghindari kesalahan data dan penantian tanpa kepastian. Bagaimana jika halaman cek mandiri tetap membaca langsung dari endpoint resmi setiap 5 menit dengan verifikasi 2 parameter (NIM + 4 digit HP), namun fitur pengiriman ulang token otomatis ditahan dan tetap ditangani satu klik oleh petugas meja bantuan?”
+Koordinator Helpdesk: “Tombol kirim ulang satu klik di layar petugas itu tetap butuh pencatatan log agar tidak ada token ganda.”
+Saya (Fakhri): “Siapa yang memiliki kewenangan untuk mengaktifkan pencatatan log otomatis pada tombol kirim ulang tersebut?”
+Tim Back-End: “Kami bisa menambahkan pencatatan log audit itu, tetapi baru siap minggu depan setelah pengujian keamanan selesai.”
+Saya tidak memaksakan kesepakatan tunggal untuk seluruh fitur sekaligus, melainkan memisahkan rencana perluasan menjadi dua tahap implementasi (phased rollout).
+Options, agreement, dan dissent
+Berdasarkan batasan teknis dan operasional di atas, disepakati pembagian ruang lingkup sebagai berikut:
+Tahap 1 (Acara Puncak Minggu Ini): Penerapan antarmuka pencarian satu layar bagi seluruh petugas meja layanan serta halaman cek status mandiri read-only (pembaruan tiap 5 menit via endpoint resmi), tanpa fitur pengiriman ulang token otomatis oleh pengguna.
+Tahap 2 (Kegiatan Berikutnya): Penambahan tombol kirim ulang token terintegrasi lengkap dengan audit log otomatis setelah Tim Back-End menyelesaikan pengujian keamanan minggu depan.
+Ketua Umum, Koordinator Helpdesk, dan Tim Back-End menyetujui pelaksanaan Tahap 1. Sementara itu, Perwakilan Anggota mencatat specific disagreement (keberatan spesifik): tanpa fitur kirim ulang token otomatis secara mandiri, peserta yang mengalami kegagalan pengiriman email tetap harus mengantre di meja bantuan khusus. Keberatan ini didokumentasikan secara resmi dalam notulensi keputusan sebagai dasar evaluasi Tahap 2, bukan dihapus demi kesepakatan semu.
+Ambang Evaluasi (Review Threshold): Evaluasi dilakukan 2 hari setelah acara puncak. Apabila halaman cek status mandiri digunakan oleh kurang dari 35% peserta yang hadir atau gagal menurunkan antrean pertanyaan token di meja bantuan, pengembangan fitur lanjutan Tahap 2 akan ditinjau ulang.
+Relationship review dan AI
+Catatan pengamatan menunjukkan bahwa pada awal diskusi saya sempat merangkum kepentingan tim teknis terlalu cepat dan memotong penjelasan Perwakilan Anggota mengenai keluhan keterlambatan email token. Saya segera melakukan perbaikan (repair) dengan meminta maaf, mengembalikan giliran bicara kepada Perwakilan Anggota hingga selesai, dan memastikan keberatannya masuk dalam catatan resmi keputusan. Di akhir pertemuan, keempat pemangku kepentingan mengonfirmasi bahwa posisi dan batasan masing-masing telah dicatat secara akurat.
+AI dimanfaatkan sebelum pertemuan untuk memetakan daftar potensi konflik kepentingan (position vs. interest) dan menghasilkan beberapa alternatif opsi kompromi. Seluruh keputusan opsi final lahir murni dari kesepakatan otoritas dan batasan nyata para pemangku kepentingan di ruang rapat, bukan ditentukan oleh AI.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+4
+Posisi, kepentingan, batasan, dan otoritas keempat pihak dipetakan dinamis sepanjang diskusi
+Objective & State
+4
+Perbedaan state (Attention hingga Desire) dikelola melalui pemisahan tujuan dua tahap
+Repertoire, Language & AI
+3
+Menggunakan teknik reframing, pertanyaan otoritas, dan batas peran AI secara jelas
+Response & Adaptation
+4
+Batasan waktu pengujian keamanan Tim Back-End diadaptasi dengan memecah rilis menjadi Tahap 1 & 2
+Agreement, Action & Relationship
+3
+Kesepakatan, catatan dissent resmi, ambang evaluasi, dan repair komunikasi terdokumentasi utuh
+Total: 18/20 — Lanjut.
+Assessment dosen
+Skor: — / 20
+Evidence yang mendukung: —
+Prioritas perbaikan: —
+Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Action & Agreement Challenge
+Community Communication Challenge
+Portfolio KIPP-2 · Fakhri Athallah Dwi Andeo
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#quarto-document-content
+- https://fkkhrri.github.io/kipp-students/index.html
+- https://fkkhrri.github.io/kipp-students/assets/logo.png
+- https://fkkhrri.github.io/kipp-students/course/index.html
+- https://fkkhrri.github.io/kipp-students/portfolio/index.html
+- https://fkkhrri.github.io/kipp-students/examples/index.html
+- https://fkkhrri.github.io/kipp-students/lk/index.html
+- https://fkkhrri.github.io/kipp-students/slides.html
+- https://fkkhrri.github.io/kipp-students/slides-pdf/index.html
+- https://fkkhrri.github.io/kipp-students/assessment/index.html
+- https://fkkhrri.github.io/kipp-students/about.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-01.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-02.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-03.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-04.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-05.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-06.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-07.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-08.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-09.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-10.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-12.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-13.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-14.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-15.html
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#kompetensi-target
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#evidence-wajib
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#stakeholder-dan-multi-state-map
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#negotiation-evidence
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#options-agreement-dan-dissent
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#relationship-review-dan-ai
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#self-assessment
+- https://fkkhrri.github.io/kipp-students/portfolio/week-11.html#assessment-dosen
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

@@ -1,0 +1,243 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1088
+Minggu: 11
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+
+Isi halaman portfolio:
+---
+Multi-Person Negotiation Challenge – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Multi-Person Negotiation Challenge
+Indeks Portfolio
+Character Map & Foundation
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio — Pemeliharaan Server Basis Data
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Portfolio UAS — [Judul Proyek Tim]
+Di halaman ini
+Kompetensi Target
+1. Stakeholder Person Map & Multi-State TAIDA
+2. Position–Interest Analysis & Matriks Opsi Solusi
+Analisis Pemisahan Posisi vs. Interest
+Matriks Opsi & Pengelolaan Trade-Off (Brainstorming Sandbox)
+3. Transkrip Verbatim Negosiasi Multi-Pihak (Inline Plain Text)
+4. Agreement Eksplisit & Salinan Mentah Artefak Action
+Formula Kesepakatan Presisi
+Salinan Mentah Artefak Action (Notion Multi-User Agreement Log Inline)
+5. Pernyataan Transparansi AI & Relationship Review
+Pernyataan Transparansi Penggunaan AI (AI Statement)
+Review Hubungan Interpersonal (Relationship Review)
+6. Self-Assessment
+Penilaian Evaluator
+Multi-Person Negotiation Challenge
+Negotiation
+Stakeholder
+Stakeholder map, multi-state TAIDA, analisis posisi vs interest, matriks opsi dan trade-off, transkrip verbatim negosiasi multi-pihak, serta bukti artefak kesepakatan inline.
+CatatanIdentitas & Konteks Performance
+Mahasiswa: Muhammad Nabil Aizar Ramadhan
+Dokumen ini mendokumentasikan proses deliberasi dan negosiasi multi-pihak (Multi-Person Negotiation) yang melibatkan tiga peran internal tim proyek (Saya sebagai Facilitator, Rakan sebagai Backend Developer, dan M sebagai Frontend Developer) serta menyelaraskan ekspektasi Dosen Koordinator. Seluruh bukti transkrip dan artefak disajikan secara utuh secara inline plain-text.
+Kompetensi Target
+Memfasilitasi beberapa person yang memiliki objective, constraint, authority, dan state berbeda untuk mencapai kesepakatan bersama yang sah, berkeadilan, dan dapat dieksekusi (feasible).
+1. Stakeholder Person Map & Multi-State TAIDA
+Berikut adalah pemetaan jaring pemangku kepentingan (stakeholders) yang terlibat dalam negosiasi penetapan alur kerja dan penggabungan sistem proyek:
+Person / Peran
+Position (Pernyataan Luar)
+Interest / Constraint (Kebutuhan Batin Real)
+Authority (Batas Wewenang)
+State TAIDA
+Nabil (Facilitator & Integration Lead)
+“Seluruh modul wajib terintegrasi H-1 tenggat tanpa bentrok rute API.”
+Meminimalkan risiko kegagalan sistem saat demonstrasi dan menjaga keharmonisan tim.
+Pengatur alur kerja integrasi & finalisasi repositori.
+Action
+Rakan (Backend Developer)
+“Saya butuh kepastian spesifikasi antarmuka frontend sebelum buat rute data.”
+Menghindari pekerjaan ulang (rework) akibat perubahan format data mendadak.
+Final keputusan arsitektur basis data & rute API.
+Desire
+M (Frontend Developer)
+“Jangan bebani saya dengan kewajiban laporan status harian yang kaku.”
+Khawatir dinilai lambat, butuh fleksibilitas jam kerja, dan takut diintimidasi.
+Mengontrol eksekusi tampilan antarmuka (UI).
+Interest (Runtuh ke Defensif jika ditekan)
+Dosen Koordinator (Evaluator / External)
+“Semua artefak dan log komitmen tim wajib terverifikasi objektif H-1.”
+Akuntabilitas penilaian dan jaminan bahwa seluruh anggota berkontribusi setara.
+Penilai akhir (Final Approval) & penentu kelulusan modul.
+Attention
+2. Position–Interest Analysis & Matriks Opsi Solusi
+Analisis Pemisahan Posisi vs. Interest
+Posisi Bertolak Belakang: Rakan menuntut kepatuhan spesifikasi ketat sejak awal, sedangkan M menolak pelaporan terstruktur harian karena merasa diawasi secara berlebihan.
+Titik Temu (Common Ground): Seluruh pihak sama-sama menginginkan proyek selesai dengan nilai maksimal tanpa ada anggota yang harus begadang di malam pengumpulan.
+Matriks Opsi & Pengelolaan Trade-Off (Brainstorming Sandbox)
++---------------------------------------------------------------------------------------------------+
+| MATRIKS EVALUASI OPSI NEGOSIASI MULTI-PIHAK |
++---------------------------------------------------------------------------------------------------+
+| Opsi 1 : Pelaporan Status Harian & Penguncian API Kaku (Tuntutan Awal Rakan) |
+| - Trade-off : Kepastian teknis tinggi, tetapi memicu defensivitas dan penolakan dari M. |
+| - Status : DITOLAK (Tidak memfasilitasi interest M). |
++---------------------------------------------------------------------------------------------------+
+| Opsi 2 : Bebas Tanpa Pemantauan (Tuntutan Awal M) |
+| - Trade-off : Kenyamanan M tinggi, tetapi risiko bentrok integrasi backend sangat tinggi. |
+| - Status : DITOLAK (Melanggar constraint Rakan & Dosen). |
++---------------------------------------------------------------------------------------------------+
+| Opsi 3 : Check-in 10-Detik 2x/Minggu (Selasa & Jumat 17.00) + Mock API 24 Jam Selesai |
+| - Trade-off : M hanya butuh 8 detik check-in; Rakan mendapat mock API pasti H-1. |
+| - Status : DISETUJUI BERSAMA (KESEPAKATAN OPTIMAL). |
++---------------------------------------------------------------------------------------------------+
+3. Transkrip Verbatim Negosiasi Multi-Pihak (Inline Plain Text)
+Berikut adalah transkrip percakapan lisan verbatim tiga arah yang merekam dinamika penyelarasan posisi, penanganan keberatan, hingga pencapaian kesepakatan bulat:
+================================================================================
+TRANSKRIP VERBATIM NEGOSIASI MEJA BUNDAR (THREE-WAY DELIBERATION)
+================================================================================
+Nabil : "Terima kasih Rakan dan M sudah hadir. Tujuan kita duduk bertiga hari ini adalah mengunci alur kerja integrasi backend dan frontend untuk dua minggu ke depan. Rakan dan M punya pandangan berbeda soal pelaporan progres. Rakan, bisa sampaikan konsern utamamu?"
+Rakan : "Jujur aku butuh spesifikasi API dari M itu pasti dari awal. Kalau M kerjanya tanpa update status, aku bingung mau bikin endpoint basis data yang mana. Aku nggak mau di H-1 harus bongkar ulang kodingan."
+M : "Ya tapi jangan suruh aku isi form laporan panjang tiap malam dong, Kan. Aku punya jadwal kuliah lain yang padat. Kalau digituin aku merasa diintimidasi kayak anak kecil yang diawasi terus."
+--> [DEFENSIVE SIGNAL DETECTED: M merasa otonominya terancam oleh kontrol kaku]
+Nabil : "Poin kalian berdua sangat valid. Rakan butuh kepastian data supaya kodingan backend tidak sia-sia, dan M butuh fleksibilitas waktu tanpa merasa diawasi berlebihan. Gimana kalau kita cari opsi tengah yang tidak memberatkan siapapun?"
+M : "Opsi tengah yang kayak gimana, Bil?"
+Nabil : "Bagaimana kalau kita pakai Opsi 3: M tidak perlu bikin laporan teks panjang. M cuma perlu klik tombol status (Hijau/Kuning/Merah) di Notion dua kali seminggu—Selasa dan Jumat jam 17.00. Sebagai timbal baliknya, saya yang akan sediakan mock API 24 jam sebelum Rakan mulai koding. M setuju kalau cuma klik 8 detik?"
+M : "Kalau cuma klik warna dua kali seminggu jam 5 sore sih aku sanggup, asal nggak ditagih-tagih tiap jam."
+Rakan : "Asal pas status Kuning atau Merah kita langsung duduk bareng 15 menit buat klirkan kendala teknisnya, aku setuju banget sama opsi itu."
+Nabil : "Sepakat! Jadi kita kunci Opsi 3 ya. Tidak ada pelaporan harian kaku, tapi ada kepastian status dua kali seminggu."
+================================================================================
+4. Agreement Eksplisit & Salinan Mentah Artefak Action
+Formula Kesepakatan Presisi
+Scope: Pengaturan alur kerja integrasi backend–frontend untuk Sprint 2 (Modul 02 & 03).
+Owner (Siapa & Melakukan Apa):
+Nabil (Lead Integrator): Membuat draf mockup data API dan mempublikasikannya paling lambat Senin pukul 13.00 WIB.
+M (Frontend Dev): Melakukan check-in status (Hijau/Kuning/Merah) di Notion setiap Selasa & Jumat pukul 17.00 WIB.
+Rakan (Backend Dev): Meninjau status check-in dan mengeksekusi integrasi endpoint basis data berdasarkan status yang diperbarui.
+Deadline: Uji coba integrasi pertama dilaksanakan pada Selasa besok pukul 17.00 WIB.
+Stop Rule: Jika ada anggota yang merasa keberatan atau alur check-in memakan waktu lebih dari 30 detik, format ini langsung dihentikan dan dievaluasi ulang.
+Review Method: Evaluasi singkat 10 menit via tatap muka setiap Jumat setelah sesi check-in.
+Salinan Mentah Artefak Action (Notion Multi-User Agreement Log Inline)
+================================================================================
+ARTIFAK KESEPAKATAN WORKSPACE NOTION (INLINE RAW TEXT LOG)
+================================================================================
+[ Nama Workspace : Project-Sprint2-MultiParty-Agreement ]
+[ Tanggal Kunci : Senin, 26 Oct 2026, 15:30 WIB ]
+[ Status Dokumen : DISETUJUI BULAT (ALL STAKEHOLDERS SIGNED) ]
+================================================================================
+TABEL TUGAS & TANGGUNG JAWAB:
++----------+--------------------+------------------------+------------------+------------------+
+| Modul ID | Owner Peran | Tindakan Operasional | Tenggat Waktu | Status Check-In |
++----------+--------------------+------------------------+------------------+------------------+
+| MOD-01 | Nabil (Integrator) | Publish Mock API Spec | Senin, 13:00 WIB | [COMPLETED] |
+| MOD-02 | M (Frontend) | Update UI Status (2x/w)| Selasa, 17:00 WIB| [READY FOR CHECK]|
+| MOD-03 | Rakan (Backend) | DB Endpoint Alignment | Rabu, 19:00 WIB | [PENDING] |
++----------+--------------------+------------------------+------------------+------------------+
+LOG SIGN-OFF PERSUTUJUAN EKSPLISIT:
+- [26 Oct 15:31 WIB] Nabil (Facilitator) : "Disetujui sebagai acuan alur kerja integrasi."
+- [26 Oct 15:32 WIB] Rakan (Backend) : "Disetujui. Mock API diterima, siap eksekusi."
+- [26 Oct 15:33 WIB] M (Frontend) : "Disetujui. Format check-in ringan dan jelas."
+================================================================================
+5. Pernyataan Transparansi AI & Relationship Review
+Pernyataan Transparansi Penggunaan AI (AI Statement)
+Draf analisis matriks trade-off dan pemetaan posisi-interest dalam dokumen ini disusun dengan bantuan AI sebagai kopilot analitis (logic & pattern assistant) untuk menguji kerentanan konflik antar-opsi. Namun, isi percakapan, keputusan negosiasi akhir, dan tanggung jawab eksekusi sepenuhnya berada pada Muhammad Nabil Aizar Ramadhan dan anggota tim terkait.
+Review Hubungan Interpersonal (Relationship Review)
+Proses deliberasi ini berhasil mengubah potensi bentrok antar-anggota menjadi bentuk kerja sama yang transparan. Otonomi M dihargai tanpa mengorbankan standar kualitas teknis yang dibutuhkan Rakan, sehingga psychological safety tim tetap terjaga tinggi.
+6. Self-Assessment
+Dimensi Penilaian
+Skor (1-4)
+Evidence Singkat & Alasan
+Person & Character
+4
+Memetakan 4 pemangku kepentingan dengan memisahkan posisi luar dan interest batin secara eksplisit.
+Objective & State
+4
+Multi-state TAIDA diidentifikasi jernih dari kondisi defensif M menuju kesepakatan bulat.
+Repertoire, Language & AI
+4
+Menggunakan teknik reframing dan deliberasi meja bundar; peran AI dijelaskan secara transparan.
+Response & Adaptation
+4
+Transkrip verbatim membuktikan adaptasi real-time saat mendeteksi signal defensif dari M.
+Agreement, Action & Relationship
+4
+Kesepakatan memuat scope, owner, deadline, stop rule, dan artefak log Notion inline.
+Total Skor Self-Assessment: 20 / 20
+Penilaian Evaluator
+Skor: — / 20
+Keputusan: Belum dinilai
+Kembali ke atas
+Action & Agreement Challenge
+Community Communication Challenge
+Portfolio KIPP-2 · Muhammad Nabil Aizar Ramadhan
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#quarto-document-content
+- https://mnabilaizar.github.io/kipp-students/index.html
+- https://mnabilaizar.github.io/kipp-students/assets/logo.png
+- https://mnabilaizar.github.io/kipp-students/course/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/index.html
+- https://mnabilaizar.github.io/kipp-students/examples/index.html
+- https://mnabilaizar.github.io/kipp-students/lk/index.html
+- https://mnabilaizar.github.io/kipp-students/slides.html
+- https://mnabilaizar.github.io/kipp-students/slides-pdf/index.html
+- https://mnabilaizar.github.io/kipp-students/assessment/index.html
+- https://mnabilaizar.github.io/kipp-students/about.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-01.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-02.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-03.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-04.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-05.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-06.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-07.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-08.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-09.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-10.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-12.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-13.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-14.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-15.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/UAS/index.html
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#kompetensi-target
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#stakeholder-person-map-multi-state-taida
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#positioninterest-analysis-matriks-opsi-solusi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#analisis-pemisahan-posisi-vs.-interest
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#matriks-opsi-pengelolaan-trade-off-brainstorming-sandbox
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#transkrip-verbatim-negosiasi-multi-pihak-inline-plain-text
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#agreement-eksplisit-salinan-mentah-artefak-action
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#formula-kesepakatan-presisi
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#salinan-mentah-artefak-action-notion-multi-user-agreement-log-inline
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#pernyataan-transparansi-ai-relationship-review
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#pernyataan-transparansi-penggunaan-ai-ai-statement
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#review-hubungan-interpersonal-relationship-review
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#self-assessment
+- https://mnabilaizar.github.io/kipp-students/portfolio/week-11.html#penilaian-evaluator
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

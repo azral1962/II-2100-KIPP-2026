@@ -3,3 +3,19 @@ __pycache__/
 *.py[cod]
 .*.lock
 telegram-offset.txt
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Local manual UTS grades
+uts-manual-reviews.json
+
+# Local CI forum data
+ci.sqlite3*
+ci-offset.txt
+.streamlit/secrets.toml
+ci-experiments/
+
+/.venv/
+
+/backups/

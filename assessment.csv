@@ -1,15 +1,15 @@
 NIM,name,A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,A11,A12,A13,A14,A15,TOTAL
 18222009,Daffa Ramadhan Elengi,4,4,2,4,3,3,2,,,,,,,,,22
-18225001,Kezia Josephine Manik,4,4,4,4,4,4,,,,,,,,,,24
+18225001,Kezia Josephine Manik,4,4,4,4,4,4,4,,4,4,4,4,,,,44
 18225003,Erin Cherryl Angela,4,4,4,4,4,4,4,,2,2,,,,,,32
 18225007,Ammar Zharif Fakhrudin,4,4,4,4,4,,,,,,,,,,,20
-18225011,Azka Atha'Us Salam,4,4,4,4,4,3,2,,2,2,2,,,,,31
+18225011,Azka Atha'Us Salam,4,4,4,4,4,4,4,,4,2,2,,,,,36
 18225013,Ahmad Ibrahim Alhakim,4,2,4,2,4,,,,,,,,,,,16
 18225015,Nathanael Louis Cahyono,4,4,4,4,4,,,,,,,,,,,20
 18225017,Muhammad Aquilla Arizqy,3,3,3,4,4,3,2,,3,2,,,,,,27
 18225021,Ihsan Fadhlih Akbar,4,4,4,4,4,4,4,,4,4,,,,,,36
 18225025,Rulyansyah Fajar Ramadhan,2,2,4,2,2,,,,,,,,,,,12
-18225029,Fakhri Athallah Dwi Andeo,3,4,3,3,3,4,4,,,,,,,,,24
+18225029,Fakhri Athallah Dwi Andeo,3,4,3,3,3,4,4,,4,4,2,4,,,,38
 18225033,Faiq Fadhlul Bahri,4,4,4,4,,,,,,,,,,,,16
 18225035,Akmal Nararya Hasan,2,4,2,4,2,,,,,,,,,,,14
 18225039,Obert Chandra,4,2,2,2,,,,,,,,,,,,10
@@ -27,11 +27,11 @@ NIM,name,A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,A11,A12,A13,A14,A15,TOTAL
 18225067,Davin Manuel Halim,4,,,,,,,,,,,,,,,4
 18225069,Winda Naila Nur Aisyah,4,4,4,4,4,4,4,,4,2,,,,,,34
 18225071,Michelle Nataneilla,4,4,4,4,4,4,4,,2,2,,,,,,32
-18225075,Davindra Rasya Nugroho,3,3,3,4,3,,,,,,,,,,,16
+18225075,Davindra Rasya Nugroho,3,3,3,4,3,2,2,,2,2,,,,,,24
 18225077,Aqila Zahra Athaya,4,4,4,4,4,2,2,,2,2,,,,,,28
 18225081,Owen Reyhan Martua Pasaribu,4,4,4,4,4,,,,,,,,,,,20
 18225085,Muhammad Faisal Ramadhan,3,,,,,,,,,,,,,,,3
-18225087,Muhammad Nabil Aizar Ramadhan,2,3,3,3,3,2,4,,2,4,,,,,,26
+18225087,Muhammad Nabil Aizar Ramadhan,4,3,3,3,3,2,4,,2,4,4,,,,,32
 18225091,Muhammad Orkhan,2,3,2,3,3,,,,,,,,,,,13
 18225093,Agastya Tristan Dhaniswara,4,4,2,2,2,4,4,,,,,,,,,22
 18225095,Tirta Wening Putri Harsono,2,2,3,3,3,,,,,,,,,,,13
@@ -39,21 +39,21 @@ NIM,name,A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,A11,A12,A13,A14,A15,TOTAL
 18225099,Lana Dzakira Cahyadi,2,2,,,,,,,,,,,,,,4
 18225101,Natasha Aurellia,3,3,3,3,3,,,,,,,,,,,15
 18225103,Muhammad Rizqi Azhar,3,3,3,3,2,,,,,,,,,,,14
-18225107,Muhammad Kafka Ghaisan Yusuf,4,3,4,4,3,2,2,,2,2,2,,,,,28
+18225107,Muhammad Kafka Ghaisan Yusuf,4,3,4,4,3,4,2,,2,4,2,,,,,32
 18225113,Naufal Rasya,3,3,2,3,3,,,,,,,,,,,14
 18225117,Omerio Orlando Manalu,4,4,4,4,4,,,,,,,,,,,20
 07381119,Ali Baba,2,,,,,3,,,,,,,,,,5
 18225079,Grasella,4,4,4,4,4,4,4,,2,2,2,2,2,3,,41
 18225045,Tristan Anthony Wijaya,4,4,3,3,3,4,2,,,,,,,,,23
 18225109,Banu Agil Triyanto,3,3,3,4,3,2,2,,2,2,2,2,2,2,2,34
-18225083,Rosianna Maria Aviv Silalahi,2,4,4,4,4,4,2,,4,2,4,4,,,,38
-18225023,Maximillian Jose Andreas A,4,4,4,3,3,,,,,,,,,,,18
+18225083,Rosianna Maria Aviv Silalahi,4,4,4,4,4,4,4,,4,4,4,4,4,4,2,54
+18225023,Maximillian Jose Andreas A,4,4,4,3,3,,2,,,,,,,,,20
 18225115,Muhammad Rafi Fadillah,4,4,4,4,4,,,,,,,,,,,20
 18225119,Mouristio R. A. K. L. Praing,3,3,3,3,3,,,,,,,,,,,15
 18225055,Dimas Nurizki Falah,4,4,4,,,,,,,,,,,,,12
 18225019,Fathir Mulya Gibran,4,4,4,3,4,,,,,,,,,,,19
 18225073,Sabrina Aurelyn Sibarani,4,4,4,4,4,,,,,,,,,,,20
-18225027,Pelangi Putri Sanyoto,2,2,4,4,2,,,,,,,,,,,14
+18225027,Pelangi Putri Sanyoto,4,2,4,4,2,2,2,,4,2,2,,,,,28
 73811190,Armein Z. R. Langi,,,,,,,,,,,,,,,,
 18222041,Kezia Caren Cahyadi,,,,,,,,,,,,,,,,
 18223103,Muhammad Dhafin Faidhulhaq,,,,,,,,,,,,,,,,

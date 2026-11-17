@@ -1,0 +1,157 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1080
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://kazei0.github.io/kipp-students/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi target
+Evidence wajib
+Attention evidence dan solution hypothesis
+Pitch dan demonstration
+Hidden concern dan adaptation
+Evidence, AI, dan feedback
+Self-assessment
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan signal Interest.
+Kompetensi target
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Evidence wajib
+Attention evidence dan problem–solution link.
+Interest pitch dengan evidence atau demonstration.
+Response, state assessment, hidden concern, dan adaptation.
+Attention evidence dan solution hypothesis
+Pada Minggu 6, saya mencatat 9 pengecekan selama 3 hari pada satu unit refill di gedung kuliah. Air kosong 5 kali, dan pada pukul 12.00 unit kosong di ketiga harinya. Target saya, yaitu mahasiswa pengguna refill, mengakui bahwa ia juga sering kehabisan air siang hari. Ia ragu masalahnya besar karena masih ada unit di gedung sebelah, sehingga state akhirnya attention dengan reservation. Karena itu masalah yang saya bawa ke pitch ini bukan “air kurang”, melainkan pengguna tidak tahu unit mana yang berisi sebelum berjalan ke sana.
+Solution hypothesis. Stiker QR di unit refill yang membuka form satu pertanyaan (Ada air atau Kosong), dengan waktu laporan tercatat otomatis dan rekap jam kosong per hari, dapat mengurangi ketidakpastian status unit tanpa meminta pengguna memasang aplikasi.
+Problem
+Mechanism
+Expected benefit
+Value bagi target
+Pengguna tidak tahu unit berisi atau kosong sebelum sampai
+Lapor Ada air atau Kosong lewat QR, waktu tercatat otomatis
+Pengguna melihat laporan terakhir sebelum berjalan
+Mahasiswa tidak membuang jeda kuliah berjalan ke unit kosong
+Petugas hanya tahu dari keluhan lisan
+Rekap jam kosong per hari dalam satu tabel
+Pola jam kosong yang berulang terlihat
+Petugas dapat menggeser pengisian sebelum pukul 12.00 tanpa mengecek semua unit
+Dari empat fitur awal, saya mempertahankan dua (QR dengan form satu pertanyaan, dan rekap jam kosong). Saya memangkas notifikasi WhatsApp ke petugas karena petugas belum saya tanya dan notifikasi bisa menumpuk pada jam ramai. Saya juga memangkas peta seluruh titik refill kampus karena pengamatan saya baru pada satu unit. Solusi ini tidak mengisi ulang air. Ia hanya membuat status unit terlihat, dan hanya berguna bila cukup banyak orang melapor.
+Pitch dan demonstration
+“Waktu kita ngobrol soal refill, kamu bilang sering kehabisan air siang-siang. Dari 9 pengecekan saya, unit kosong 5 kali, 3 di antaranya pukul 12.00. Bagaimana kalau kita coba stiker QR di unit refill? Kamu pindai, pilih Ada air atau Kosong, selesai. Jam laporan tercatat sendiri dan laporan terakhir tampil di satu halaman tanpa pasang aplikasi. Dengan begitu kamu tidak membuang jeda kuliah berjalan ke unit yang kosong, dan petugas bisa melihat jam kosong yang berulang tanpa mengecek semua unit. Batasnya, ini hanya berguna kalau cukup banyak yang melapor. Maukah kamu mencoba melapor tiga hari di satu unit?”
+Pitch ini berjumlah 97 kata dan mengikuti lima langkah, yaitu menghubungkan kembali dengan masalah, memperkenalkan solusi, menjelaskan mekanisme, menyatakan manfaat dan nilai, lalu mengundang tanggapan sambil menyebut batas solusi. Setelah pitch, saya menunjukkan prototipe form di ponsel selama 90 detik. Rekan memindai QR, mengisi Kosong, lalu melihat barisnya muncul di tabel rekap. Ia mengatakan, “Boleh sih dicoba, tapi kalau yang lapor cuma satu dua orang, aku bisa jalan ke unit yang katanya ada air padahal sudah kosong lagi.”
+Hidden concern dan adaptation
+Saya semula mengira concern utama rekan adalah repot memindai QR. Observer lalu bertanya, “Bagian mana yang membuat kamu ragu?”, dan rekan menjawab, “Bukan soal pindai QR-nya. Aku ragu laporannya sudah basi. Kalau tidak tahu jam berapa, aku tidak berani percaya.” Concern sebenarnya adalah keandalan laporan, bukan kerepotan. Saya tidak mempertahankan versi awal prototipe.
+Adaptasi saya ada dua. Tampilan sekarang menunjukkan waktu laporan terakhir, dan laporan yang lebih dari 30 menit diberi tanda “mungkin sudah berubah”. Saya juga mengubah janji dari “memberi kepastian” menjadi “memberi petunjuk terakhir yang dapat dipercaya”, lalu menawarkan untuk mencocokkan laporan dengan pengecekan saya sendiri pada pukul 10.00, 12.00, dan 14.00.
+Rekan menunjukkan signal Interest dengan meminta melihat versi form yang baru dan bersedia melapor selama tiga hari di satu unit. Ia belum menyetujui pilot yang lebih luas, dan state-nya berpindah dari attention dengan reservation menjadi Interest awal.
+Evidence, AI, dan feedback
+Rekaman demo 90 detik dan tangkapan layar prototipe form beserta tabel rekap, sebelum dan sesudah adaptasi penanda waktu.
+Matriks detoks fitur yang memuat empat fitur, dua dipertahankan dan dua dipangkas beserta alasannya.
+Observer note atas pertanyaan “Bagian mana yang membuat kamu ragu?” yang membuka hidden concern tentang keandalan laporan.
+AI digunakan untuk membantu menyusun draf matriks fitur, menguji apakah penjelasan mekanisme bebas dari jargon, dan memeriksa jumlah kata pitch. Data pengecekan berasal dari pengamatan saya sendiri, dan AI tidak menentukan respons rekan maupun kebijakan pengelolaan refill.
+Umpan balik rekan. “Saat kamu menyebut 5 dari 9 pengecekan, aku langsung ingat kehabisan air minggu lalu, jadi aku mau mendengar kelanjutannya.” Rekan juga menyampaikan, “Saat kamu bilang solusinya hanya berguna kalau banyak yang melapor, aku jadi lebih percaya karena kamu tidak menjanjikan semuanya beres.”
+Refleksi. Menyebut batas solusi sejak awal justru membangun kepercayaan, tetapi saya baru menemukan concern sebenarnya setelah bertanya, bukan dari reaksi pertama rekan.
+Next practice. Menyebut batas solusi dan bertanya apa yang masih membuat target ragu sebelum demo, bukan setelah target menemukannya sendiri.
+Self-assessment
+Dimensi
+Skor
+Evidence singkat
+Person & Character
+3
+Pitch memakai target yang sama dengan Minggu 6 dan menjawab reservation-nya tentang unit alternatif
+Objective & State
+3
+State target dinilai sebelum dan sesudah pitch, dari attention dengan reservation menjadi Interest awal
+Repertoire, Language & AI
+4
+Mekanisme dijelaskan dalam dua langkah tanpa jargon, batas solusi disebut sejak awal, dan empat fitur dipangkas menjadi dua
+Response & Adaptation
+4
+Concern keandalan laporan mengubah mekanisme dengan penanda waktu dan mengubah janji menjadi petunjuk terakhir
+Agreement, Action & Relationship
+3
+Rekan bersedia melapor tiga hari di satu unit, tanpa memaksa dan tanpa meminta data pribadi, tetapi belum menyetujui pilot yang lebih luas
+Total: 17/20, Kompeten.
+Kembali ke atas
+Target–Attention Challenge
+Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Kezia Josephine Manik
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#quarto-document-content
+- https://kazei0.github.io/kipp-students/index.html
+- https://kazei0.github.io/kipp-students/assets/logo.png
+- https://kazei0.github.io/kipp-students/course/index.html
+- https://kazei0.github.io/kipp-students/portfolio/index.html
+- https://kazei0.github.io/kipp-students/examples/index.html
+- https://kazei0.github.io/kipp-students/lk/index.html
+- https://kazei0.github.io/kipp-students/slides.html
+- https://kazei0.github.io/kipp-students/slides-pdf/index.html
+- https://kazei0.github.io/kipp-students/assessment/index.html
+- https://kazei0.github.io/kipp-students/about.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html
+- https://kazei0.github.io/kipp-students/portfolio/week-01.html
+- https://kazei0.github.io/kipp-students/portfolio/week-02.html
+- https://kazei0.github.io/kipp-students/portfolio/week-03.html
+- https://kazei0.github.io/kipp-students/portfolio/week-04.html
+- https://kazei0.github.io/kipp-students/portfolio/week-05.html
+- https://kazei0.github.io/kipp-students/portfolio/week-06.html
+- https://kazei0.github.io/kipp-students/portfolio/week-08.html
+- https://kazei0.github.io/kipp-students/portfolio/week-09.html
+- https://kazei0.github.io/kipp-students/portfolio/week-10.html
+- https://kazei0.github.io/kipp-students/portfolio/week-11.html
+- https://kazei0.github.io/kipp-students/portfolio/week-12.html
+- https://kazei0.github.io/kipp-students/portfolio/week-13.html
+- https://kazei0.github.io/kipp-students/portfolio/week-14.html
+- https://kazei0.github.io/kipp-students/portfolio/week-15.html
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#kompetensi-target
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#evidence-wajib
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#pitch-dan-demonstration
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#hidden-concern-dan-adaptation
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#evidence-ai-dan-feedback
+- https://kazei0.github.io/kipp-students/portfolio/week-07.html#self-assessment
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.

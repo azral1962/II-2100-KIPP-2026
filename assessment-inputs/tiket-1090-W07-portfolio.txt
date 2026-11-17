@@ -1,0 +1,647 @@
+EVIDENCE MAHASISWA
+
+Nama/kode anonim: Tiket 1090
+Minggu: 07
+Status halaman: Siap dinilai
+Self-score mahasiswa: tidak ada
+URL sumber: https://athus1104.github.io/repo/portfolio/week-07.html
+
+Isi halaman portfolio:
+---
+Problem–Solution Interest Pitch – Portfolio KIPP-2
+Skip to main content
+Portfolio KIPP-2
+Beranda
+Perkuliahan
+Portfolio
+Contoh
+Lembar Kerja
+Slide
+Slide PDF
+Assessment
+Profil
+Problem–Solution Interest Pitch
+Indeks Portfolio
+Character Map
+Intra-Self Communication Journal
+Relationship Conversation
+Five-Language Translation Portfolio
+Professional Discovery Interview
+Target–Attention Challenge
+Problem–Solution Interest Pitch
+Laporan Portfolio Minggu 8 — UTS KIPP
+Desire-State Communication
+Action & Agreement Challenge
+Multi-Person Negotiation Challenge
+Community Communication Challenge
+Public Contribution Challenge
+AI-Mediated Communication Design
+Capstone Performance Portfolio
+Di halaman ini
+Kompetensi Target
+Konteks Performance
+Objective dan Initial State
+Attention Evidence dan Solution Hypothesis
+Attention Evidence
+Solution Hypothesis
+Problem–Solution Link
+Alasan Memilih Solusi
+Interest Pitch dan Demonstration
+Interest Pitch
+Demonstration: Prototype Versi 1
+Strategi Demonstrasi
+Response, State Assessment, dan Hidden Concern
+Skenario Respons Target
+Hidden Concern
+State Assessment
+Response dan Adaptation
+Adaptation terhadap Hidden Concern
+Prototype Versi 2
+Perbandingan Prototype
+Skenario Response Setelah Adaptation
+Agreement, Action, dan Relationship Outcome
+Agreement yang Dituju
+Action Plan
+Indikator Evaluasi
+Relationship Outcome
+Evidence
+Analisis Komunikasi
+Penggunaan AI
+Alat dan Peran AI
+Prompt Penting
+Penggunaan, Perubahan, dan Penolakan Output AI
+Pemeriksaan Accuracy, Privacy, dan Authority
+Pembelajaran Pribadi
+Feedback dan Tindak Lanjut
+Feedback yang Diterima
+Adaptation/Replay
+Next Practice
+Revisi atas Feedback
+Percakapan Nyata yang Sudah Terjadi
+Balasan Ketua Kelompok (8 November 2026)
+Agreement dengan Ketua Kelompok (8 November 2026)
+Pengumuman ke Grup Kelompok (9 November 2026)
+Pemeriksaan Isi Pin oleh Ketua (9 November 2026, 15.34)
+Pin dan Konfirmasi Ketua di Grup (9 November 2026, 15.37)
+Pembaruan Pin: Tautan Google Docs (9 November 2026, 15.39–15.40)
+Cek Progres Pertama (9 November 2026, 20.03–20.08)
+Perubahan yang Saya Lakukan
+Pesan untuk Memperoleh Konfirmasi Target
+Evidence Pelaksanaan Nyata
+Self-Assessment
+Refleksi Akhir
+Assessment Dosen
+Problem–Solution Interest Pitch
+TAIDA
+Interest
+Problem–solution fit dan pengembangan ketertarikan terhadap solusi koordinasi kelompok mahasiswa.
+Kompetensi Target
+Kompetensi yang ingin saya kembangkan adalah kemampuan menghubungkan suatu permasalahan dengan solusi yang relevan, menjelaskan manfaat solusi kepada target, serta membangun ketertarikan melalui pendekatan komunikasi yang tepat.
+Saya juga berlatih memahami kekhawatiran yang belum disampaikan secara langsung oleh target (hidden concern) dan menyesuaikan solusi berdasarkan respons yang diberikan.
+Konteks Performance
+Tanggal dan setting: 5 November 2026, penyusunan dan pengembangan skenario simulasi komunikasi dengan konteks diskusi kelompok mahasiswa.
+Persons dan relationship:
+Saya berperan sebagai anggota kelompok mahasiswa yang ingin meningkatkan efektivitas komunikasi dan koordinasi kelompok. Target komunikasi adalah ketua kelompok yang memiliki tanggung jawab dalam mengatur pembagian tugas, jadwal diskusi, dan penyampaian informasi.
+Hubungan antara saya dan target bersifat setara sebagai sesama mahasiswa. Namun, ketua kelompok memiliki kewenangan dalam menentukan mekanisme koordinasi yang digunakan oleh anggota.
+Objective dan Initial State
+Pada Week 6, saya telah mengidentifikasi permasalahan berupa informasi kelompok yang tersebar dalam percakapan WhatsApp, khususnya mengenai jadwal, deadline, dan pembagian tugas.
+Melalui attention pitch, saya menyusun pendekatan untuk menunjukkan bahwa permasalahan tersebut relevan terhadap efektivitas koordinasi kelompok.
+Pada Week 7, fokus komunikasi berkembang dari menjelaskan permasalahan menjadi menunjukkan bagaimana solusi sederhana dapat membantu menyelesaikannya.
+Objective:
+Membangun ketertarikan ketua kelompok terhadap penggunaan format rangkuman informasi terpusat yang dapat diperbarui dan disematkan pada grup WhatsApp.
+Target diharapkan memahami manfaat solusi, mencoba demonstrasi yang disiapkan, memberikan feedback, dan mempertimbangkan percobaan terbatas selama satu minggu.
+Initial State:
+State awal yang digunakan dalam skenario adalah Attention with Reservation.
+Target telah memahami bahwa informasi yang tersebar dapat menimbulkan kebingungan, tetapi masih mempertanyakan apakah penggunaan rangkuman akan menambah pekerjaan dan benar-benar memberikan manfaat.
+Oleh karena itu, pendekatan pada Week 7 tidak lagi berfokus pada meyakinkan target bahwa masalah tersebut ada, melainkan menunjukkan bahwa solusi yang ditawarkan sederhana, realistis, dan sesuai dengan kebutuhan kelompok.
+Attention Evidence dan Solution Hypothesis
+Attention Evidence
+Berdasarkan identifikasi permasalahan pada Week 6, terdapat tiga kondisi yang menjadi dasar pengembangan solusi:
+Informasi jadwal dan deadline dapat tertimbun oleh percakapan lain dalam grup.
+Perubahan jadwal yang disampaikan melalui pesan terpisah dapat menyebabkan kebingungan mengenai informasi terbaru.
+Anggota terkadang perlu mencari kembali informasi lama atau meminta konfirmasi kepada anggota lainnya.
+Ketiga kondisi tersebut merupakan dasar analisis dalam skenario dan belum digunakan sebagai klaim hasil pengukuran kuantitatif.
+Saya tidak menyimpulkan bahwa seluruh keterlambatan pekerjaan kelompok disebabkan oleh komunikasi yang kurang efektif. Namun, kondisi tersebut menunjukkan adanya peluang untuk meningkatkan kemudahan akses informasi.
+Solution Hypothesis
+Solusi yang diusulkan:
+Penggunaan satu pesan rangkuman informasi kelompok yang diperbarui secara berkala dan disematkan (pinned message) pada grup WhatsApp.
+Rangkuman tersebut memuat jadwal diskusi, deadline, pembagian tugas, dan informasi penting lainnya yang sudah dikonfirmasi.
+Hipotesis solusi:
+Jika informasi utama kelompok tersedia dalam satu rangkuman yang mudah ditemukan, maka anggota dapat memperoleh informasi dengan lebih cepat tanpa harus mencari melalui seluruh riwayat percakapan.
+Solusi ini tidak membutuhkan aplikasi tambahan dan dapat dijalankan menggunakan fasilitas yang sudah tersedia pada WhatsApp.
+Problem–Solution Link
+Problem
+Solution Mechanism
+Expected Benefit
+Value bagi Target
+Informasi tertimbun percakapan
+Satu pesan rangkuman yang disematkan
+Informasi lebih mudah ditemukan
+Mengurangi kebutuhan menjawab pertanyaan berulang
+Perubahan jadwal tidak terpusat
+Rangkuman diperbarui berdasarkan kesepakatan terbaru
+Mengurangi potensi kesalahpahaman
+Koordinasi menjadi lebih terstruktur
+Pembagian tugas kurang mudah dipantau
+Daftar tugas dan penanggung jawab dalam rangkuman
+Setiap anggota dapat mengetahui tanggung jawabnya
+Mempermudah pemantauan progres
+Kekhawatiran tambahan pekerjaan
+Anggota membantu menyusun rangkuman
+Beban pembaruan tidak hanya ditanggung ketua
+Solusi lebih realistis dijalankan
+Alasan Memilih Solusi
+Saya memilih mekanisme ini karena sederhana, tidak memerlukan biaya tambahan, dan dapat diterapkan menggunakan platform komunikasi yang sudah digunakan oleh kelompok.
+Selain itu, perubahan dapat dicoba dalam waktu singkat tanpa harus mengganti kebiasaan komunikasi seluruh anggota.
+Solusi ini juga dapat dihentikan atau diperbaiki apabila hasil evaluasi menunjukkan bahwa manfaatnya belum sesuai dengan harapan.
+Interest Pitch dan Demonstration
+Interest Pitch
+Berikut merupakan pitch yang saya susun untuk membangun ketertarikan target terhadap solusi.
+“Dari pembahasan sebelumnya, saya melihat bahwa masalah koordinasi kelompok bukan hanya soal anggota yang kurang memperhatikan chat, tetapi juga karena informasi penting kadang sulit ditemukan. Saya sudah menyiapkan contoh rangkuman yang berisi jadwal, deadline, dan pembagian tugas dalam satu pesan. Jadi, anggota cukup membuka pesan yang di-pin untuk melihat informasi utama. Saya juga bisa membantu memperbaruinya supaya tidak menambah pekerjaan ketua kelompok. Bagaimana kalau kita lihat contohnya dulu dan mencoba selama satu minggu?”
+Pitch tersebut sengaja difokuskan pada manfaat yang relevan dengan ketua kelompok, yaitu kemudahan koordinasi dan pengurangan pertanyaan berulang.
+Saya tidak menjanjikan bahwa solusi akan menghilangkan seluruh masalah komunikasi. Sebaliknya, saya menawarkan kesempatan untuk menguji manfaatnya melalui percobaan sederhana.
+Demonstration: Prototype Versi 1
+Sebagai bentuk demonstrasi, saya menyusun contoh pesan rangkuman informasi kelompok.
+Prototype awal:
+CatatanPrototype V1 — Rangkuman Informasi Kelompok
+INFORMASI KELOMPOK
+Jadwal Diskusi - Hari: Jumat - Waktu: 19.00 WIB - Tempat: Online
+Pembagian Tugas - Anggota A: Pengumpulan referensi - Anggota B: Penyusunan materi - Anggota C: Pembuatan presentasi - Anggota D: Pemeriksaan akhir
+Deadline Internal - Pengumpulan materi: Sabtu - Review bersama: Minggu
+Catatan: Informasi akan diperbarui apabila terdapat perubahan.
+Prototype ini dibuat untuk menunjukkan bentuk solusi secara langsung, bukan hanya melalui penjelasan verbal.
+Dengan adanya contoh tersebut, target dapat melihat bagaimana informasi disusun dan mempertimbangkan apakah formatnya sesuai dengan kebutuhan kelompok.
+Strategi Demonstrasi
+Demonstrasi dirancang berlangsung sekitar 60–90 detik dengan urutan:
+Menunjukkan contoh rangkuman informasi.
+Menjelaskan cara anggota menemukan informasi melalui pinned message.
+Memperlihatkan bagian yang dapat diperbarui ketika terjadi perubahan.
+Meminta target memberikan pendapat mengenai kemudahan penggunaan dan kemungkinan kendalanya.
+Saya memilih demonstrasi singkat agar tidak menghabiskan terlalu banyak waktu target dan tetap memberikan kesempatan untuk berdiskusi.
+Response, State Assessment, dan Hidden Concern
+Skenario Respons Target
+Setelah demonstrasi prototype pertama, berikut respons yang digunakan dalam skenario role-play:
+Ketua kelompok: “Menurut saya formatnya sudah cukup jelas dan memang lebih gampang dibaca. Tapi bagaimana kalau ada perubahan deadline dari dosen dan rangkumannya belum diperbarui? Takutnya anggota malah mengikuti informasi yang salah.”
+Respons tersebut menunjukkan bahwa target mulai melihat manfaat solusi, tetapi memiliki kekhawatiran mengenai keakuratan dan pembaruan informasi.
+Hidden Concern
+Sebelumnya, saya menganggap kekhawatiran utama target adalah tambahan pekerjaan untuk membuat rangkuman.
+Namun, respons dalam skenario menunjukkan kekhawatiran lain yang lebih penting, yaitu keakuratan informasi dan kejelasan tanggung jawab pembaruan.
+Target tidak hanya mempertimbangkan kemudahan penggunaan, tetapi juga risiko apabila informasi yang disajikan tidak sesuai dengan pengumuman resmi.
+Hal tersebut membuat saya memahami bahwa sebuah solusi tidak cukup hanya mudah digunakan, tetapi juga harus dapat dipercaya.
+State Assessment
+Tahap
+State Target
+Evidence atau Indikator
+Sebelum interest pitch
+Attention with Reservation
+Target memahami masalah, tetapi masih mempertanyakan manfaat solusi
+Setelah demonstrasi
+Interest with Concern
+Target menilai format lebih mudah dibaca, tetapi mempertanyakan keakuratan informasi
+Setelah adaptation
+Interest — target simulasi
+Target bersedia mempertimbangkan uji coba apabila mekanisme verifikasi jelas
+Saya membedakan antara ketertarikan terhadap solusi dan persetujuan untuk menerapkannya.
+Ketika target memberikan pertanyaan mengenai risiko penggunaan, hal tersebut dapat menjadi indikasi bahwa target mulai mengevaluasi solusi secara lebih serius.
+Namun, pertanyaan tersebut belum dapat dianggap sebagai persetujuan implementasi.
+Response dan Adaptation
+Adaptation terhadap Hidden Concern
+Untuk menanggapi kekhawatiran mengenai keakuratan informasi, saya mengubah mekanisme yang sebelumnya hanya berfokus pada pembaruan rangkuman menjadi sistem dengan proses verifikasi sederhana.
+Berikut contoh respons yang disiapkan:
+Saya: “Iya, itu memang bisa jadi masalah kalau rangkumannya tidak langsung diperbarui. Menurut saya, kita perlu memastikan informasi yang dicantumkan sudah sesuai dengan pengumuman resmi. Jadi, saya bisa membantu menyiapkan rangkumannya, tetapi perubahan jadwal atau deadline harus dikonfirmasi terlebih dahulu. Kita juga bisa menambahkan waktu pembaruan terakhir supaya anggota tahu informasi itu terakhir diperiksa kapan.”
+Respons tersebut bertujuan menunjukkan bahwa saya memahami kekhawatiran target dan bersedia menyesuaikan solusi.
+Saya tidak mempertahankan prototype awal sebagai solusi yang sudah sempurna.
+Prototype Versi 2
+Setelah mempertimbangkan hidden concern, saya menyusun prototype yang lebih memperhatikan keakuratan informasi.
+TipPrototype V2 — Rangkuman Informasi Terverifikasi
+RANGKUMAN INFORMASI KELOMPOK
+Terakhir diperbarui: Kamis, 5 November 2026
+1. Jadwal Diskusi - Jumat, 19.00 WIB - Media: Online - Status: Sudah disepakati kelompok
+2. Pembagian Tugas - Anggota A: Pengumpulan referensi - Anggota B: Penyusunan materi - Anggota C: Pembuatan presentasi - Anggota D: Pemeriksaan akhir
+3. Deadline - Deadline internal: Sabtu - Review kelompok: Minggu - Deadline resmi: Mengikuti pengumuman dosen
+4. Informasi dan Verifikasi - Rangkuman disusun oleh anggota yang ditunjuk. - Perubahan informasi diperiksa bersama ketua kelompok. - Pengumuman dosen tetap menjadi sumber utama informasi akademik. - Setiap pembaruan disertai waktu terakhir diperbarui.
+Perbandingan Prototype
+Aspek
+Prototype V1
+Prototype V2
+Jadwal dan deadline
+Ditampilkan dalam satu pesan
+Ditampilkan dengan status dan sumber informasi
+Pembaruan
+Dilakukan jika ada perubahan
+Dilakukan setelah informasi diperiksa
+Penanggung jawab
+Belum dijelaskan
+Anggota penyusun dan ketua kelompok
+Keakuratan
+Belum ada mekanisme verifikasi
+Mengacu pada pengumuman resmi
+Transparansi
+Tidak ada waktu pembaruan
+Memuat waktu pembaruan terakhir
+Perubahan tersebut menunjukkan bahwa adaptation tidak hanya dilakukan pada cara berbicara, tetapi juga pada mekanisme solusi yang ditawarkan.
+Skenario Response Setelah Adaptation
+Ketua kelompok: “Kalau ada waktu update dan informasinya dicek dulu, menurut saya lebih aman. Kita bisa coba dulu selama seminggu, nanti dilihat apakah memang membantu anggota.”
+Respons ini digunakan sebagai contoh Interest signal dalam role-play.
+Kesediaan mempertimbangkan percobaan terbatas menunjukkan bahwa kekhawatiran utama target mulai terjawab.
+Namun, keputusan penerapan tetap harus dibedakan dari hasil uji coba yang sudah terbukti berhasil.
+Agreement, Action, dan Relationship Outcome
+Agreement yang Dituju
+Melalui komunikasi ini, kesepakatan yang ingin dicapai adalah melakukan percobaan penggunaan rangkuman informasi kelompok selama satu minggu.
+Percobaan dilakukan dengan mekanisme berikut:
+Saya membantu menyusun format rangkuman informasi.
+Ketua kelompok memeriksa informasi sebelum diumumkan.
+Pesan rangkuman disematkan pada grup WhatsApp.
+Setiap perubahan penting harus diperiksa berdasarkan informasi resmi.
+Kelompok melakukan evaluasi setelah masa percobaan selesai.
+Rencana tersebut dirancang agar tanggung jawab pembaruan informasi tidak hanya dibebankan kepada ketua kelompok.
+Action Plan
+Action
+PIC
+Waktu
+Indikator Keberhasilan
+Menyiapkan format akhir
+Saya
+Hari pertama
+Rangkuman tersedia
+Memeriksa keakuratan informasi
+Ketua kelompok
+Sebelum dipublikasikan
+Informasi sesuai sumber resmi
+Menyematkan pesan
+Ketua kelompok
+Hari pertama
+Pesan dapat diakses anggota
+Memperbarui rangkuman
+Saya
+Ketika ada perubahan
+Waktu pembaruan tercantum
+Mengumpulkan feedback
+Saya
+Akhir minggu
+Masukan anggota terdokumentasi
+Indikator Evaluasi
+Untuk mengetahui apakah solusi benar-benar bermanfaat, saya menetapkan beberapa indikator:
+Kemudahan anggota dalam menemukan informasi penting.
+Jumlah pertanyaan berulang mengenai jadwal dan deadline.
+Keakuratan informasi dalam rangkuman dibandingkan pengumuman resmi.
+Feedback anggota mengenai kemudahan penggunaan.
+Beban waktu yang diperlukan untuk memperbarui rangkuman.
+Indikator tersebut digunakan untuk menilai manfaat solusi, bukan sebagai hasil yang sudah tercapai.
+Relationship Outcome
+Dalam skenario komunikasi ini, saya berusaha menjaga hubungan yang positif dengan target melalui pendekatan kolaboratif.
+Saya tidak memposisikan usulan sebagai kritik terhadap kemampuan ketua kelompok dalam mengoordinasikan anggota.
+Sebaliknya, saya menunjukkan bahwa perbaikan koordinasi merupakan tanggung jawab bersama dan menawarkan kontribusi langsung dalam pelaksanaannya.
+Saya juga memberikan ruang kepada target untuk menyampaikan kekhawatiran sehingga keputusan tidak hanya didasarkan pada sudut pandang saya.
+Evidence
+CatatanStatus Evidence
+Evidence berikut mencakup artefak yang disusun untuk latihan dan skenario respons role-play. Respons target, feedback observer, serta agreement nyata perlu diverifikasi melalui pelaksanaan komunikasi.
+Evidence 1 — Attention Evidence
+Identifikasi permasalahan dari Week 6 mengenai informasi jadwal, deadline, dan pembagian tugas yang tersebar dalam percakapan kelompok.
+Kontribusi saya: Menentukan permasalahan utama dan menghubungkannya dengan kebutuhan target.
+Evidence 2 — Problem–Solution Map
+Tabel Problem–Solution Link menunjukkan hubungan antara permasalahan, mekanisme solusi, manfaat yang diharapkan, dan value bagi ketua kelompok.
+Kontribusi saya: Mengembangkan hipotesis solusi dan menjelaskan manfaatnya.
+Evidence 3 — Prototype V1 dan V2
+Dua contoh rangkuman informasi menunjukkan perbedaan antara rancangan awal dan rancangan yang telah memperhatikan risiko keakuratan informasi.
+Kontribusi saya: Menyusun format, menentukan mekanisme verifikasi, dan merancang pembagian tanggung jawab.
+Evidence 4 — Interest Pitch dan Skenario Role-Play
+Naskah pitch dan dialog simulasi digunakan untuk melatih penyampaian solusi serta respons terhadap kekhawatiran target.
+Kontribusi saya: Menentukan strategi komunikasi, menyiapkan respons, dan menyusun adaptation.
+Evidence 5 — Action Plan
+Tabel action plan menunjukkan tindak lanjut, penanggung jawab, waktu, dan indikator evaluasi.
+Kontribusi saya: Mengembangkan rencana percobaan yang realistis dan dapat dievaluasi.
+Analisis Komunikasi
+Elemen
+Evidence dan Analisis
+Person & Character
+Target yang dipilih adalah ketua kelompok karena memiliki tanggung jawab dan kewenangan dalam koordinasi. Pendekatan mempertimbangkan kebutuhan target terhadap kemudahan pengelolaan informasi dan keakuratan data.
+Objective & State
+Objective bergeser dari membangun Attention menjadi membangun Interest terhadap solusi. State awal adalah Attention with Reservation, dengan target akhir berupa Interest yang ditunjukkan melalui kesediaan mempertimbangkan percobaan.
+Repertoire & Language
+Komunikasi menggunakan pendekatan problem–solution, demonstrasi prototype, pertanyaan terbuka, dan penawaran percobaan terbatas. Bahasa dibuat sederhana, relevan, dan tidak memaksakan solusi.
+Response & Adaptation
+Hidden concern mengenai keakuratan informasi menjadi dasar perubahan prototype. Adaptation dilakukan melalui penambahan mekanisme verifikasi, penanggung jawab, dan waktu pembaruan terakhir.
+Agreement/Action
+Rencana tindak lanjut mencakup percobaan selama satu minggu, pembagian tanggung jawab, pemeriksaan informasi, serta indikator evaluasi yang dapat diamati.
+Relationship Outcome
+Pendekatan kolaboratif digunakan dengan menghargai pertimbangan target, menawarkan bantuan, dan memberikan ruang bagi target untuk mengevaluasi solusi tanpa tekanan.
+Penggunaan AI
+Dalam penyusunan tugas ini, saya menggunakan ChatGPT sebagai alat bantu untuk mengembangkan rancangan solusi dan meningkatkan kualitas penyampaian interest pitch.
+Alat dan Peran AI
+AI digunakan untuk:
+Membantu menghubungkan permasalahan dengan mekanisme solusi yang relevan.
+Memberikan alternatif struktur interest pitch.
+Mengidentifikasi kemungkinan kekhawatiran target terhadap solusi yang ditawarkan.
+Membantu mengevaluasi rancangan prototype berdasarkan kemungkinan risiko.
+Memperbaiki struktur analisis komunikasi agar lebih sistematis.
+Prompt Penting
+“Bantu saya mengembangkan interest pitch dari permasalahan koordinasi informasi dalam kelompok mahasiswa. Hubungkan masalah dengan solusi, manfaat, dan value bagi ketua kelompok. Buat contoh prototype, identifikasi kemungkinan hidden concern, dan berikan strategi adaptation yang realistis tanpa mengarang data hasil observasi.”
+Penggunaan, Perubahan, dan Penolakan Output AI
+Saya menggunakan AI sebagai referensi dalam mengembangkan mekanisme solusi dan menyiapkan alternatif respons komunikasi.
+Saya mempertahankan solusi yang sederhana berupa rangkuman pesan WhatsApp karena lebih sesuai dengan kebutuhan kelompok dibandingkan membuat aplikasi baru.
+Saya juga menggunakan saran mengenai verifikasi informasi untuk memperbaiki rancangan prototype.
+Usulan yang membutuhkan sistem terlalu kompleks atau memberikan klaim manfaat tanpa evidence tidak digunakan.
+Pemeriksaan Accuracy, Privacy, dan Authority
+Accuracy:
+Informasi mengenai jadwal dan deadline harus mengacu pada kesepakatan kelompok serta pengumuman resmi dosen.
+AI tidak digunakan untuk menghasilkan data statistik atau menyatakan bahwa suatu dampak sudah terbukti.
+Privacy:
+Rancangan menggunakan identitas anggota secara umum tanpa menyertakan data pribadi atau isi percakapan privat.
+Authority:
+Ketua kelompok memiliki kewenangan terhadap mekanisme koordinasi internal, tetapi tidak memiliki kewenangan untuk mengubah deadline resmi perkuliahan.
+Oleh karena itu, solusi hanya membantu mengelola penyampaian informasi dan tidak menggantikan sumber akademik resmi.
+Pembelajaran Pribadi
+Saya memahami bahwa AI dapat membantu menemukan alternatif solusi dan mempersiapkan komunikasi, tetapi penilaian terhadap kebutuhan dan kekhawatiran seseorang tetap harus dilakukan melalui interaksi langsung.
+Saya juga belajar bahwa solusi yang terlihat sederhana perlu mempertimbangkan risiko, tanggung jawab, dan kemudahan pelaksanaan agar benar-benar memiliki nilai bagi target.
+Feedback dan Tindak Lanjut
+Feedback yang Diterima
+Contoh feedback yang menjadi fokus evaluasi dalam skenario ini adalah:
+“Format rangkumannya mudah dipahami dan bisa membantu koordinasi. Namun, mekanisme pembaruan harus jelas supaya informasi yang disampaikan tetap akurat.”
+Feedback tersebut mengarahkan perhatian pada aspek keakuratan informasi, bukan hanya tampilan dan kemudahan penggunaan.
+Hal ini menunjukkan bahwa ketertarikan terhadap solusi dapat meningkat ketika target memahami manfaat sekaligus melihat bahwa risiko utama sudah dipertimbangkan.
+Adaptation/Replay
+Pada rancangan awal, saya berfokus pada kemudahan menemukan informasi dan mengurangi pertanyaan berulang.
+Setelah mempertimbangkan hidden concern, saya melakukan replay dengan menekankan tiga perubahan:
+Menambahkan mekanisme verifikasi sebelum informasi diperbarui.
+Menetapkan pihak yang bertanggung jawab atas penyusunan dan pemeriksaan.
+Menampilkan waktu pembaruan terakhir agar informasi lebih transparan.
+Saya juga memperbaiki cara penyampaian dari sekadar menjelaskan fitur menjadi menghubungkan setiap perubahan dengan kebutuhan target.
+Dengan demikian, pendekatan komunikasi lebih menekankan manfaat yang dapat dirasakan daripada jumlah fitur yang dimiliki solusi.
+Next Practice
+Pada latihan berikutnya, saya ingin meningkatkan kemampuan mengidentifikasi hidden concern sebelum melakukan demonstrasi solusi.
+Perilaku spesifik yang akan saya latih adalah mengajukan pertanyaan terbuka seperti:
+“Menurut kamu, hal apa yang paling perlu diperhatikan supaya cara ini benar-benar bisa membantu koordinasi kelompok?”
+Melalui pertanyaan tersebut, saya berharap dapat memahami prioritas target terlebih dahulu sehingga demonstrasi dan penjelasan solusi lebih relevan.
+Revisi atas Feedback
+PeringatanFeedback tiket 1054 — Perlu revisi (total rubrik 19)
+Map person, objective, dan state sudah baik dan adaptation terhadap hidden concern sudah terlihat, tetapi agreement dan action masih berupa rencana simulasi yang belum diverifikasi sebagai hasil nyata.
+PentingStatus revisi
+Bagian sebelumnya berisi rancangan dan dialog latihan yang saya susun untuk menganalisis dan mengembangkan solusi. Diskusi nyata dengan kelompok berlangsung sejak awal November 2026 ketika kami mulai membahas tugas ini, dan saya catat terpisah di bawah ini apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana. Bukti yang diminta feedback untuk minggu ini sudah terkumpul, sehingga halaman ini saya ajukan kembali untuk dinilai.
+Percakapan Nyata yang Sudah Terjadi
+CatatanCatatan percakapan langsung (rekonstruksi dari ingatan, tidak direkam)
+Waktu dan tempat: Sejak awal November 2026, ketika kelompok mulai membahas tugas ini. Obrolan dilakukan langsung di kelas setelah perkuliahan. Tanggal pastinya tidak saya catat.
+Yang terlibat: Saya, ketua kelompok, dan beberapa anggota kelompok lain.
+Yang terjadi:
+Kami membicarakan tugas kelompok yang sedang dikerjakan.
+Beberapa anggota menyampaikan bahwa mereka belum terlalu paham tugasnya.
+Ketua kelompok menjelaskan ulang tugas tersebut dengan lebih jelas kepada anggota yang belum paham.
+Setelah itu, beberapa dari kami, termasuk saya, saling memberi masukan. Salah satu masukan yang muncul adalah agar setiap anggota tidak mengerjakan bagian tugasnya terlalu mepet dengan deadline.
+Yang tidak terjadi dalam percakapan ini: Belum ada pembahasan atau persetujuan tentang pesan rangkuman yang disematkan, prototype, maupun uji coba satu minggu. Bagian tersebut tetap saya anggap rencana.
+Kaitan dengan minggu ini: Percakapan ini menunjukkan bahwa masalah yang saya angkat memang terjadi: ada anggota yang belum memahami tugas sehingga ketua perlu menjelaskan ulang. Ini sejalan dengan problem–solution link bahwa informasi tugas belum mudah dipahami dan ditemukan kembali, serta bahwa beban menjelaskan ulang jatuh ke ketua. Namun, percakapan ini belum membuktikan agreement uji coba, sehingga konfirmasi ketua tetap perlu saya kumpulkan.
+Balasan Ketua Kelompok (8 November 2026)
+Pada 8 November 2026 pukul 23.32, saya mengirim dua pesan kepada ketua kelompok (Kafka) lewat WhatsApp: pesan konfirmasi catatan percakapan dan pertanyaan tentang kondisi koordinasi yang ia harapkan. Ketua membalas pada menit yang sama.
+Pesan konfirmasi dan pertanyaan desired state
+Balasan ketua kelompok
+Balasan ketua (dikutip apa adanya):
+“Kalau menurut gua sih komunikasi antaranggota yang paling perlu ditingkatin bro. Kadang ada yang belum paham tapi sungkan buat nanya, jadi ujung-ujungnya malah bingung sendiri. Gua pengennya ke depannya kita bisa lebih aktif buat diskusi dan saling ngingetin progres tugas masing-masing. Jadi kalau ada yang kesulitan bisa langsung dibantu, ga harus nunggu pas udah deket deadline baru dibahas bareng.”
+Yang bisa dan tidak bisa saya simpulkan:
+Ketua tidak mengoreksi catatan percakapan yang saya kirim, dan jawabannya menyinggung hal yang sama: anggota yang belum paham dan pembahasan yang menumpuk menjelang deadline. Namun, ia tidak secara eksplisit menulis “benar”. Karena itu saya menyebutnya tidak dikoreksi, bukan dikonfirmasi penuh.
+Belum ada persetujuan tentang pesan rangkuman yang disematkan, prototype, atau uji coba satu minggu.
+Kaitan dengan minggu ini: Jawaban ketua menunjukkan hidden concern yang berbeda dari dugaan saya. Saya mengira masalah utamanya adalah informasi yang tertimbun di chat, sedangkan ketua menekankan anggota yang sungkan bertanya. Artinya, pesan rangkuman saja kemungkinan belum cukup. Solusi perlu memberi ruang yang aman untuk bertanya, dan ini harus saya bahas dengan ketua sebelum meminta agreement uji coba.
+Agreement dengan Ketua Kelompok (8 November 2026)
+Setelah membaca jawaban ketua tentang anggota yang sungkan bertanya dan kebutuhan saling mengingatkan progres, saya mengubah usulan saya. Usulan yang saya kirim pukul 23.39 tidak lagi hanya berisi pesan pin, tetapi juga cek progres harian dan jalur bertanya lewat japri. Ketua menjawab pukul 23.40.
+Usulan yang dikirim dan persetujuan ketua kelompok
+Isi usulan yang disetujui:
+Cek progres singkat setiap hari di grup. Setiap anggota cukup membalas satu baris: “udah sampai mana + ada kendala gak”.
+Anggota yang bingung boleh bertanya lewat japri ke saya atau ketua, tidak harus di grup.
+Satu pesan pin berisi tautan pembagian tugas, tautan deadline dosen, dan deadline internal.
+Pembagian tanggung jawab: saya menyusun pesan pin dan mengingatkan jadwal cek progres; ketua memeriksa kebenaran isi pesan pin.
+Periode uji coba: 8–15 November 2026, lalu dievaluasi bersama.
+Jawaban ketua (dikutip apa adanya): “okee bree coba aja dlu seminggu”, disertai reaksi 👍 pada pesan usulan.
+Catatan: Tanggal uji coba yang benar-benar disepakati adalah 8–15 November 2026. Tanggal pada action plan di bagian sebelumnya merupakan rencana awal dan digantikan oleh kesepakatan ini. Persetujuan ini baru dari ketua; anggota lain belum dimintai pendapat.
+Kaitan dengan minggu ini: Inilah bukti agreement yang diminta feedback: target menyatakan setuju secara tertulis untuk mencoba solusi selama satu minggu. Agreement ini juga menunjukkan adaptation yang nyata, karena solusi berubah setelah mendengar hidden concern ketua, yaitu anggota yang sungkan bertanya.
+Pengumuman ke Grup Kelompok (9 November 2026)
+Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui ketua ke grup WhatsApp kelompok. Satu menit kemudian (15.20), saya mengirim pesan info kelompok yang akan dipakai sebagai pesan pin.
+Pengumuman uji coba dan pesan info kelompok di grup
+Isi pengumuman: tiga mekanisme yang disepakati dengan ketua (cek progres harian, boleh japri kalau bingung, info tugas dan deadline di pesan pin), pembagian peran (saya mengingatkan cek progres, Kafka memeriksa isi pin), evaluasi bersama tanggal 15, serta ajakan terbuka: “Ada yang keberatan atau mau usul? Misalnya jamnya, atau lebih enak deadline ditulis langsung di pin? Tulis aja ya.”
+Isi pesan info kelompok: pembagian tugas (Google Docs kelompok, tautan menyusul), deadline resmi mengikuti pengumuman dosen di Edunex, deadline internal 13 November 2026, cek progres setiap hari pukul 20.00 WIB, kontak jika bingung (Azka/Kafka), dan tanggal terakhir dicek (9 November 2026).
+Yang bisa dan tidak bisa saya simpulkan dari screenshot ini:
+Usulan sudah benar-benar disampaikan ke seluruh anggota, bukan hanya ke ketua.
+Belum ada tanggapan anggota lain pada saat screenshot diambil.
+Screenshot ini belum memperlihatkan penanda pin. Pin baru dipasang setelah ketua menanggapi (lihat bagian Pin dan Konfirmasi Ketua di Grup).
+Tautan pembagian tugas masih “menyusul” (dilengkapi pukul 15.40), sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
+Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
+Pemeriksaan isi pesan info oleh ketua dilakukan lewat japri pukul 15.34, setelah pesan sudah dikirim ke grup.
+Kaitan dengan minggu ini: Solusi yang membangun interest ketua kini sudah disampaikan ke seluruh kelompok dalam bentuk nyata, bukan lagi prototype di halaman ini. Respons anggota dan hasil evaluasi 15 November akan menunjukkan apakah ketertarikan itu juga dirasakan anggota lain.
+Pemeriksaan Isi Pin oleh Ketua (9 November 2026, 15.34)
+Sesuai pembagian tanggung jawab, saya mengirim isi pesan info kelompok kepada ketua lewat japri dan meminta ia memeriksanya. Ketua membalas pada menit yang sama.
+Permintaan pemeriksaan isi pin dan balasan ketua
+Pesan saya: “Kaf, info di pin udah bener belum? Kalau ada yang salah koreksi aja y”
+Balasan ketua (dikutip apa adanya): “ams beyy kirim aja”, yang saya pahami sebagai “aman, kirim saja”.
+Yang bisa dan tidak bisa saya simpulkan:
+Ketua sudah memeriksa isi pesan info dan tidak meminta perubahan. Ini bukti bahwa ia menjalankan perannya dalam agreement.
+Pemeriksaan ini terjadi pukul 15.34, setelah pesan info sudah saya kirim ke grup pukul 15.20. Urutan yang benar menurut action plan adalah diperiksa dulu, baru dipublikasikan. Pesan baru disematkan setelah pemeriksaan ini. Ke depannya, pembaruan pin akan saya kirim ke ketua lebih dulu.
+Tautan pembagian tugas di pesan tersebut masih “menyusul” (dilengkapi pukul 15.40).
+Kaitan dengan minggu ini: Hidden concern ketua di skenario adalah keakuratan informasi. Pemeriksaan ini menunjukkan mekanisme cek oleh ketua benar-benar dipakai, bukan hanya dirancang di prototype V2.
+Pin dan Konfirmasi Ketua di Grup (9 November 2026, 15.37)
+Ketua juga membalas pengumuman langsung di grup pukul 15.37. Setelah itu saya menyematkan pesan info kelompok. Ikon pin pada pesan pukul 15.20 dan notifikasi “You pinned a message” terlihat pada screenshot.
+Konfirmasi ketua di grup dan pesan info yang sudah disematkan
+Balasan ketua di grup (dikutip apa adanya, membalas pengumuman): “amngs beyy, udah bener kok ituh”, yang saya pahami sebagai “aman, sudah benar kok itu”.
+Yang bisa dan tidak bisa saya simpulkan:
+Pesan info kelompok sudah benar-benar disematkan, dan baru disematkan setelah ketua memeriksa isinya.
+Ketua menyatakan persetujuannya secara terbuka di depan anggota lain, bukan hanya lewat japri.
+Tanda centang biru menunjukkan pengumuman sudah dibaca, tetapi belum ada anggota selain ketua yang menanggapi.
+Tautan pembagian tugas masih “menyusul” (dilengkapi pukul 15.40).
+Kaitan dengan minggu ini: Solusi yang di skenario hanya berupa prototype sekarang benar-benar terpasang di grup dan disetujui ketua secara terbuka.
+Pembaruan Pin: Tautan Google Docs (9 November 2026, 15.39–15.40)
+Pukul 15.39 saya memberi tahu grup bahwa saya akan memasukkan tautan Google Docs. Pukul 15.40 saya mengirim versi baru pesan info yang sudah berisi tautan pembagian tugas, lalu menyematkannya. Banner pin di bagian atas grup kini menampilkan pesan tersebut. Tautan pada screenshot saya sensor karena halaman portofolio ini dapat diakses publik.
+Grup kelompok dengan banner pin dan pesan info yang sudah berisi tautan Google Docs (tautan disensor)
+Yang bisa dan tidak bisa saya simpulkan:
+Poin 3 agreement kini terpenuhi: pesan pin berisi tautan pembagian tugas, rujukan deadline resmi dosen, dan deadline internal.
+Header grup menunjukkan anggota grup adalah Kafka (ketua), Rasya, dan saya. Artinya “anggota lain” dalam uji coba ini adalah Rasya.
+Rasya tidak menanggapi pengumuman maupun pesan info secara langsung.
+Versi baru ini disematkan sebelum diperiksa ulang oleh ketua. Ketua membalas “amsbey” pukul 15.43, setelah pin dipasang, tanpa mengutip pesan tertentu, sehingga saya anggap sebagai tanggapan umum, bukan pemeriksaan eksplisit. Perubahannya hanya penambahan tautan, tetapi urutan ini tetap tidak sesuai dengan komitmen saya untuk mengirim pembaruan pin ke ketua lebih dulu.
+Kaitan dengan minggu ini: Solusi kini terpasang lengkap sesuai agreement. Ketertarikan anggota lain belum terlihat karena Rasya belum menanggapi.
+Cek Progres Pertama (9 November 2026, 20.03–20.08)
+Pada malam hari yang sama, saya mengirim pengingat cek progres pertama ke grup pukul 20.03. Saya menuliskan progres saya lebih dulu sebagai contoh, lalu menandai Rasya dan Kafka. Jam pada menu bar laptop di screenshot menunjukkan “Mon 9 Nov 20.12”.
+Cek progres pertama di grup, dengan banner pin dan pesan info versi bertautan (tautan disensor)
+Pesan saya (20.03): “Cek progres hari ini guys 🙏 Bales 1 baris aja: udah sampai mana + ada kendala gak. gua duluan: gua udah ngerjain bagian perancangan prototype sama penjelasannya. @Rasya stei k @Kafka”
+Balasan Rasya (20.05, dikutip apa adanya): “Gua udah ngerjain bagian desain tampilan, tinggal nyesuaiin beberapa bagian sama prototype yang udah dibuat. Belum ada kendala sama lagi nyusun bagian dokumentasi sama laporan, sebagian udah selesai cuma masih perlu beberapa informasi dari yang lain”
+Balasan Kafka (20.05 dan 20.08, dikutip apa adanya): “Cek progres hari ini guys 🙏” lalu “Gua udah mulai ngerjain bagian analisis kebutuhan, tinggal ngerapiin beberapa poin aja. Sejauh ini aman sih.”
+Yang bisa dan tidak bisa saya simpulkan:
+Cek progres hari pertama berjalan: ketiga anggota melaporkan progres dalam lima menit setelah pengingat.
+Tidak ada yang melaporkan kendala. Namun, Rasya menyebut masih perlu informasi dari anggota lain. Ini belum disebut “kendala”, tetapi perlu saya tindak lanjuti sebelum menjadi hambatan.
+Rasya ikut menjalankan mekanisme, tetapi belum menyampaikan pendapat tentang mekanisme itu sendiri (setuju, usul, atau keberatan).
+Screenshot ini juga memperlihatkan balasan Kafka “amsbey” pukul 15.43, setelah pesan info versi bertautan disematkan.
+Antara pukul 15.43 dan 20.03 ada beberapa pesan obrolan di luar topik tugas yang tidak tampak pada screenshot ini.
+Kaitan dengan minggu ini: Ketertarikan anggota lain mulai terlihat dalam bentuk tindakan: Rasya dan Kafka langsung mengikuti format cek progres. Apakah mereka merasa terbantu baru bisa diketahui saat evaluasi.
+Perubahan yang Saya Lakukan
+Bagian yang dikritik
+Perubahan
+Status
+Agreement uji coba satu minggu hanya ada di skenario
+Saya menyampaikan usulan yang sudah disesuaikan langsung ke ketua kelompok dan meminta konfirmasi tertulis lewat chat
+Sudah dilaksanakan (8 November 2026): ketua setuju mencoba seminggu
+Tidak ada artefak kesepakatan yang disetujui kedua pihak
+Menambahkan bagian Evidence Pelaksanaan Nyata yang menautkan screenshot konfirmasi dan pesan yang disematkan di grup
+Sebagian: screenshot agreement ketua (8 November) dan pengumuman ke grup (9 November) sudah ada; pin dan konfirmasi ketua di grup juga sudah ada (9 November); evaluasi belum
+Respons target hanya berasal dari role-play
+Respons asli ketua akan dicatat apa adanya, termasuk jika ia menolak atau meminta perubahan
+Sudah dilaksanakan (8 November 2026): balasan ketua dikutip apa adanya di atas
+Pesan untuk Memperoleh Konfirmasi Target
+Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk penolakan atau permintaan perubahan, akan saya catat sebagai evidence.
+“Halo, aku udah bikin contoh rangkuman info kelompok (jadwal, pembagian tugas, deadline + waktu update terakhir). Aku yang nyusun, kamu cukup cek isinya sebelum di-pin. Kalau kamu setuju, kita coba seminggu dulu terus evaluasi bareng. Boleh balas ‘setuju dicoba seminggu’ atau kasih masukan kalau ada yang perlu diubah?”
+Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan berikut kepada ketua kelompok:
+“Aku lagi nyatet obrolan kita abis kelas dari awal ngerjain tugas ini buat portofolio: beberapa anggota belum paham tugasnya, kamu jelasin ulang, terus kita saling kasih masukan biar gak ngerjain mepet deadline. Bener gitu kan? Kalau ada yang kurang pas, koreksi aja ya.”
+Evidence Pelaksanaan Nyata
+Artefak
+Status
+File
+Catatan percakapan langsung setelah kelas (di atas)
+Sudah ditulis dan dikirim ke ketua; tidak dikoreksi
+Halaman ini
+Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state
+Sudah dikumpulkan (8 November 2026). Catatan tidak dikoreksi, belum dikonfirmasi eksplisit
+images/evidence/chat-ketua-2026-11-08-1.webp, -2.webp
+Screenshot chat konfirmasi ketua (setuju / menolak / minta revisi)
+Sudah dikumpulkan (8 November 2026): setuju
+images/evidence/chat-ketua-2026-11-08-agreement.webp
+Screenshot pesan rangkuman di grup
+Sudah dikumpulkan (9 November 2026)
+images/evidence/grup-2026-11-09-pengumuman.jpg
+Screenshot pemeriksaan isi pin oleh ketua
+Sudah dikumpulkan (9 November 2026): tidak ada koreksi
+images/evidence/japri-ketua-2026-11-09-cek-pin.jpg
+Screenshot penanda pesan yang disematkan dan konfirmasi ketua di grup
+Sudah dikumpulkan (9 November 2026)
+images/evidence/grup-2026-11-09-pin-konfirmasi.jpg
+Screenshot banner pin dengan tautan Google Docs
+Sudah dikumpulkan (9 November 2026); tautan disensor
+images/evidence/grup-2026-11-09-pin-link-docs.jpg
+Catatan hasil evaluasi setelah satu minggu
+Belum dikumpulkan
+images/evidence/w07-evaluasi.png (rencana nama file)
+Setelah bukti terkumpul, file disimpan di folder portfolio/images/evidence/ dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
+Self-Assessment
+Penilaian berikut didasarkan pada rancangan komunikasi dan bukti nyata yang sudah terkumpul (balasan ketua, agreement 8 November, dan pengumuman ke grup 9 November). Hasil evaluasi uji coba belum tersedia.
+Dimensi
+Skor 1–4
+Evidence Singkat
+Person & Character
+4
+Target dipilih berdasarkan relevance, authority, dan kebutuhan. Solusi memperhatikan tanggung jawab serta kekhawatiran ketua kelompok.
+Objective & State
+4
+Objective jelas, terdapat initial state dan state assessment, serta pembedaan antara Attention, Interest, dan persetujuan implementasi.
+Repertoire, Language & AI
+4
+Pitch menggunakan problem–solution link, prototype, bahasa yang relevan, serta penggunaan AI yang dijelaskan secara transparan.
+Response & Adaptation
+4
+Hidden concern mengenai keakuratan informasi mendorong perubahan mekanisme solusi dan pengembangan prototype V2.
+Agreement, Action & Relationship
+3
+Agreement uji coba sudah dikonfirmasi tertulis oleh ketua (8 November) dan diumumkan ke grup (9 November), tetapi tanggapan anggota lain dan hasil evaluasi belum ada.
+Refleksi Akhir
+Melalui pengembangan Problem–Solution Interest Pitch ini, saya memahami bahwa membangun ketertarikan seseorang terhadap sebuah solusi membutuhkan lebih dari sekadar menjelaskan manfaatnya.
+Solusi harus benar-benar berkaitan dengan masalah yang dianggap penting oleh target serta mempertimbangkan hambatan yang mungkin muncul dalam penerapannya.
+Hal penting yang saya pelajari adalah bahwa kritik atau pertanyaan dari target tidak selalu menunjukkan penolakan. Respons tersebut juga dapat menjadi kesempatan untuk memahami kebutuhan yang sebelumnya belum terlihat.
+Dalam kasus ini, kekhawatiran mengenai keakuratan informasi membantu saya mengembangkan solusi yang lebih bertanggung jawab dan realistis.
+Saya juga memahami bahwa kemampuan komunikasi yang baik tidak hanya terlihat dari seberapa meyakinkan seseorang berbicara, tetapi juga dari kemauannya mendengarkan, menyesuaikan pendekatan, dan membangun kesepakatan yang saling menguntungkan.
+Total: 19/20
+Assessment Dosen
+Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai
+Kembali ke atas
+Target–Attention Challenge
+Laporan Portfolio Minggu 8 — UTS KIPP
+Portfolio KIPP-2 · Azka Atha’us Salam
+Dibangun dengan Quarto
+
+Tautan yang ditemukan pada halaman:
+- https://athus1104.github.io/repo/portfolio/week-07.html#quarto-document-content
+- https://athus1104.github.io/repo/index.html
+- https://athus1104.github.io/repo/assets/logo.png
+- https://athus1104.github.io/repo/course/index.html
+- https://athus1104.github.io/repo/portfolio/index.html
+- https://athus1104.github.io/repo/examples/index.html
+- https://athus1104.github.io/repo/lk/index.html
+- https://athus1104.github.io/repo/slides.html
+- https://athus1104.github.io/repo/slides-pdf/index.html
+- https://athus1104.github.io/repo/assessment/index.html
+- https://athus1104.github.io/repo/about.html
+- https://athus1104.github.io/repo/portfolio/week-07.html
+- https://athus1104.github.io/repo/portfolio/week-01.html
+- https://athus1104.github.io/repo/portfolio/week-02.html
+- https://athus1104.github.io/repo/portfolio/week-03.html
+- https://athus1104.github.io/repo/portfolio/week-04.html
+- https://athus1104.github.io/repo/portfolio/week-05.html
+- https://athus1104.github.io/repo/portfolio/week-06.html
+- https://athus1104.github.io/repo/portfolio/week-08.html
+- https://athus1104.github.io/repo/portfolio/week-09.html
+- https://athus1104.github.io/repo/portfolio/week-10.html
+- https://athus1104.github.io/repo/portfolio/week-11.html
+- https://athus1104.github.io/repo/portfolio/week-12.html
+- https://athus1104.github.io/repo/portfolio/week-13.html
+- https://athus1104.github.io/repo/portfolio/week-14.html
+- https://athus1104.github.io/repo/portfolio/week-15.html
+- https://athus1104.github.io/repo/portfolio/week-07.html#kompetensi-target
+- https://athus1104.github.io/repo/portfolio/week-07.html#konteks-performance
+- https://athus1104.github.io/repo/portfolio/week-07.html#objective-dan-initial-state
+- https://athus1104.github.io/repo/portfolio/week-07.html#attention-evidence-dan-solution-hypothesis
+- https://athus1104.github.io/repo/portfolio/week-07.html#attention-evidence
+- https://athus1104.github.io/repo/portfolio/week-07.html#solution-hypothesis
+- https://athus1104.github.io/repo/portfolio/week-07.html#problemsolution-link
+- https://athus1104.github.io/repo/portfolio/week-07.html#alasan-memilih-solusi
+- https://athus1104.github.io/repo/portfolio/week-07.html#interest-pitch-dan-demonstration
+- https://athus1104.github.io/repo/portfolio/week-07.html#interest-pitch
+- https://athus1104.github.io/repo/portfolio/week-07.html#demonstration-prototype-versi-1
+- https://athus1104.github.io/repo/portfolio/week-07.html#strategi-demonstrasi
+- https://athus1104.github.io/repo/portfolio/week-07.html#response-state-assessment-dan-hidden-concern
+- https://athus1104.github.io/repo/portfolio/week-07.html#skenario-respons-target
+- https://athus1104.github.io/repo/portfolio/week-07.html#hidden-concern
+- https://athus1104.github.io/repo/portfolio/week-07.html#state-assessment
+- https://athus1104.github.io/repo/portfolio/week-07.html#response-dan-adaptation
+- https://athus1104.github.io/repo/portfolio/week-07.html#adaptation-terhadap-hidden-concern
+- https://athus1104.github.io/repo/portfolio/week-07.html#prototype-versi-2
+- https://athus1104.github.io/repo/portfolio/week-07.html#perbandingan-prototype
+- https://athus1104.github.io/repo/portfolio/week-07.html#skenario-response-setelah-adaptation
+- https://athus1104.github.io/repo/portfolio/week-07.html#agreement-action-dan-relationship-outcome
+- https://athus1104.github.io/repo/portfolio/week-07.html#agreement-yang-dituju
+- https://athus1104.github.io/repo/portfolio/week-07.html#action-plan
+- https://athus1104.github.io/repo/portfolio/week-07.html#indikator-evaluasi
+- https://athus1104.github.io/repo/portfolio/week-07.html#relationship-outcome
+- https://athus1104.github.io/repo/portfolio/week-07.html#evidence
+- https://athus1104.github.io/repo/portfolio/week-07.html#analisis-komunikasi
+- https://athus1104.github.io/repo/portfolio/week-07.html#penggunaan-ai
+- https://athus1104.github.io/repo/portfolio/week-07.html#alat-dan-peran-ai
+- https://athus1104.github.io/repo/portfolio/week-07.html#prompt-penting
+- https://athus1104.github.io/repo/portfolio/week-07.html#penggunaan-perubahan-dan-penolakan-output-ai
+- https://athus1104.github.io/repo/portfolio/week-07.html#pemeriksaan-accuracy-privacy-dan-authority
+- https://athus1104.github.io/repo/portfolio/week-07.html#pembelajaran-pribadi
+- https://athus1104.github.io/repo/portfolio/week-07.html#feedback-dan-tindak-lanjut
+- https://athus1104.github.io/repo/portfolio/week-07.html#feedback-yang-diterima
+- https://athus1104.github.io/repo/portfolio/week-07.html#adaptationreplay
+- https://athus1104.github.io/repo/portfolio/week-07.html#next-practice
+- https://athus1104.github.io/repo/portfolio/week-07.html#revisi-atas-feedback
+- https://athus1104.github.io/repo/portfolio/week-07.html#percakapan-nyata-yang-sudah-terjadi
+- https://athus1104.github.io/repo/portfolio/week-07.html#balasan-ketua-kelompok-8-november-2026
+- https://athus1104.github.io/repo/portfolio/week-07.html#agreement-dengan-ketua-kelompok-8-november-2026
+- https://athus1104.github.io/repo/portfolio/week-07.html#pengumuman-ke-grup-kelompok-9-november-2026
+- https://athus1104.github.io/repo/portfolio/week-07.html#pemeriksaan-isi-pin-oleh-ketua-9-november-2026-15.34
+- https://athus1104.github.io/repo/portfolio/week-07.html#pin-dan-konfirmasi-ketua-di-grup-9-november-2026-15.37
+- https://athus1104.github.io/repo/portfolio/week-07.html#pembaruan-pin-tautan-google-docs-9-november-2026-15.3915.40
+- https://athus1104.github.io/repo/portfolio/week-07.html#cek-progres-pertama-9-november-2026-20.0320.08
+- https://athus1104.github.io/repo/portfolio/week-07.html#perubahan-yang-saya-lakukan
+- https://athus1104.github.io/repo/portfolio/week-07.html#pesan-untuk-memperoleh-konfirmasi-target
+- https://athus1104.github.io/repo/portfolio/week-07.html#evidence-pelaksanaan-nyata
+- https://athus1104.github.io/repo/portfolio/week-07.html#self-assessment
+- https://athus1104.github.io/repo/portfolio/week-07.html#refleksi-akhir
+- https://athus1104.github.io/repo/portfolio/week-07.html#assessment-dosen
+- https://athus1104.github.io/repo/portfolio/images/evidence/chat-ketua-2026-11-08-1.webp
+- https://athus1104.github.io/repo/portfolio/images/evidence/chat-ketua-2026-11-08-2.webp
+- https://athus1104.github.io/repo/portfolio/images/evidence/chat-ketua-2026-11-08-agreement.webp
+- https://athus1104.github.io/repo/portfolio/images/evidence/grup-2026-11-09-pengumuman.jpg
+- https://athus1104.github.io/repo/portfolio/images/evidence/japri-ketua-2026-11-09-cek-pin.jpg
+- https://athus1104.github.io/repo/portfolio/images/evidence/grup-2026-11-09-pin-konfirmasi.jpg
+- https://athus1104.github.io/repo/portfolio/images/evidence/grup-2026-11-09-pin-link-docs.jpg
+- https://athus1104.github.io/repo/portfolio/images/evidence/grup-2026-11-09-cek-progres.jpg
+---
+
+Lampiran yang dapat diperiksa:
+---
+Tidak ada lampiran yang dikirim terpisah. Nilai hanya teks dan referensi yang tercantum di atas.
+---
+
+Tautan/lampiran yang tidak dapat diberikan kepada LLM:
+Semua tautan pada evidence harus dianggap tidak dapat diverifikasi kecuali isi tekstualnya sudah tercantum di atas.
